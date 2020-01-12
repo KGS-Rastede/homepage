@@ -2,7 +2,7 @@
 
 HIER DAS SNIPPET
 
-  <?php snippet('blogs') ?>
+<?php snippet('blogs', ['limit' => 20]) ?>
 
 
 HIER IST DAS SNIPPET ZU ENDE

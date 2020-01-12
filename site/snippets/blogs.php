@@ -1,6 +1,6 @@
 <?= $page->text()->kirbytext() ?>
 
-  <?php foreach(page('blogs')->children()->listed()->flip() as $article): ?>
+  <?php foreach(page('blogs')->children()->listed()->flip()->limit($limit) as $article): ?>
 
   <article>
     <h1><?= $article->title()->html() ?></h1>
