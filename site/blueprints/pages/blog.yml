@@ -11,6 +11,9 @@ columns:
             type: toggle
             label: Startseite
             help: Wird immer auf der Startseite angezeigt
+          published:
+              label: Veröffentlicht am
+              type: date
           tags:
             label: Tags
             type: tags

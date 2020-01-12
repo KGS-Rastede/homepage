@@ -2,6 +2,18 @@ Title: Langer Test
 
 ----
 
+Featured: true
+
+----
+
+Published: 2020-01-02
+
+----
+
+Tags: Biologie, NTW, AG
+
+----
+
 Heading: Schulprogramm der KGS
 
 ----
