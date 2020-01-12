@@ -1,5 +1,6 @@
 <?php snippet('header') ?>
 
+
 HIER DAS SNIPPET
 
   <?php snippet('blogs') ?>
