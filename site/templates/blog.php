@@ -3,9 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $site->title() ?></title>
-
-    <?=css('assets/css/style.css') ?>
-
 </head>
 <body>
 
@@ -14,8 +11,8 @@
 
 
 <nav class="menu">
-    <?php foreach ($site->children()->listed() as $subpage): ?>
-            <a href="<?= $subpage->url()?>"><?= $subpage->title()?></a>
+    <?php foreach ($site->children() as $subpage): ?>
+            <a href="">Projects</a>
     <?php endforeach ?>
 </nav>
 
