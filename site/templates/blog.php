@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<?= $page->text() ?>
+<?= $page->text()->kirbytext() ?>
 
 <h3>Tags</h3>
 
