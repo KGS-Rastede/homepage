@@ -1,0 +1,27 @@
+Title: Test123
+
+----
+
+Featured: false
+
+----
+
+Published: 2020-01-21
+
+----
+
+Tags: Biologie, NTW
+
+----
+
+Heading: Hier steht die Überschrift
+
+----
+
+Text:
+
+Hier steht der Text
+
+Und hier ein Bild (image: demobild1.jpg width:400 caption:Ein tolles Haus) wobei hier ein zweite Bild ist (image: demobild2.jpg width:400 caption:Fotograph von hinten mit Sonne).
+
+Nach dem zweiten Bild steht noch ganz viel Text.
