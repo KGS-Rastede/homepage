@@ -1,4 +1,6 @@
 title: Blogeintrag
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 📖
 
 columns:
   main:
