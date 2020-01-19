@@ -1,0 +1,21 @@
+Title: Chemie
+
+----
+
+Heading: Chemie ist der Knaller
+
+----
+
+Text: Wow, hier geht es ab!
+
+----
+
+Gallery: 
+
+----
+
+Haupttag: Chemie
+
+----
+
+Fotoansicht: carousel

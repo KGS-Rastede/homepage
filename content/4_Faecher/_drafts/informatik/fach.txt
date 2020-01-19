@@ -1,0 +1,24 @@
+Title: Informatik
+
+----
+
+Heading: die Lehrer der Bits und Bytes
+
+----
+
+Text: Informatik, ein Kunstwort auf Info und Matik, ist klasse.
+
+----
+
+Gallery:
+
+- cs1.jpg
+- cs2.jpg
+
+----
+
+Haupttag: Informatik
+
+----
+
+Fotoansicht: carousel

@@ -1,0 +1,23 @@
+Title: Physik
+
+----
+
+Heading: ...die Lehre von Spannenden Dingen
+
+----
+
+Text: Die Physik ist eine Naturwissenschaft, die grundlegende Phänomene der Natur untersucht. Um deren Eigenschaften und Verhalten anhand von quantitativen Modellen und Gesetzmäßigkeiten zu erklären, befasst sie sich insbesondere mit Materie und Energie und deren Wechselwirkungen in Raum und Zeit.
+
+----
+
+Gallery:
+
+- physik.jpg
+
+----
+
+Haupttag: Physik
+
+----
+
+Fotoansicht: gallery

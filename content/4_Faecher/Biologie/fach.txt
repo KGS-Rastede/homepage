@@ -1,0 +1,21 @@
+Title: Biologie
+
+----
+
+Heading: hier wird des grün
+
+----
+
+Text: Biologie ist super
+
+----
+
+Gallery: 
+
+----
+
+Haupttag: Biologie
+
+----
+
+Fotoansicht: gallery
