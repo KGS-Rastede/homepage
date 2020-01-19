@@ -12,64 +12,11 @@ Autor: <?= $page->author() ?>
 <?= $page->text()->kirbytext() ?>
 
 <?php if ($page->fotoansicht() == 'carousel') : ?>
-  <div class="container">
-    <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
-      <ol class="carousel-indicators">
-
-        <?php $count = -1;
-        foreach ($page->images() as $image) : $count++ ?>
-          <li data-target="#carouselExampleIndicators" <?php if ($count == 0) : ?> class="active" <?php endif ?> data-slide-to="<?= $count ?>"></li>
-        <?php endforeach ?>
-
-      </ol>
-      <div class="carousel-inner">
-
-        <?php $count = -1;
-        foreach ($page->images() as $image) : $count++ ?>
-          <?php if ($count == 0) : ?>
-            <div class="carousel-item active">
-            <?php else : ?>
-              <div class="carousel-item">
-              <?php endif ?>
-              <img src=<?= $image->url() ?> class="d-block w-100" alt="<?= $image->bildunterschrift() ?>" />
-              <div class="carousel-caption d-none d-md-block">
-                <h3><?= $image->bildunterschrift() ?></h3>
-              </div>
-            </div>
-          <?php endforeach ?>
-          </div>
-          <a class=" carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-              </a>
-              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
-      </div>
-    </div>
-  </div>
+  <?php snippet('carousel') ?>
 <?php elseif($page->fotoansicht() == 'gallery') : ?> 
-  <h2>Galerie</h2>
-
-<ul class="list-group">
-  <?php foreach ($page->images() as $image) : ?>
-    <li class="list-group-item">
-      <figure class="figure">
-        <img alt="<?= $image->alt() ?>" class="rounded img-thumbnail img-fluid" src="<?= $image->url() ?>">
-        <figcaption class="figure-caption"><?= $image->bildunterschrift() ?></figcaption>
-      </figure>
-    </li>
-  <?php endforeach ?>
-</ul>
-
-
-
-  <?php else: ?> 
-  
-<h2>WEDER NOCH AUSGEWÄHLT</h2>
-
-
+  <?php snippet('gallery') ?>
+<?php else: ?> 
+<!-- Bilder werden vom Autor manuel gesetzt -->
 <?php endif ?>
 
 
