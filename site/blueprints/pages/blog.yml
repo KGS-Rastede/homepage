@@ -54,7 +54,15 @@ columns:
             type: toggle
             label: Startseite
             help: Wird immer auf der Startseite angezeigt
-            
+
+          fotoansicht:
+            label: Fotos anzeigen
+            type: select
+            default: gallery
+            options:
+              carousel: Karousel
+              gallery: Gallerie
+              manuel: Manuel einbinden
 
         
       
