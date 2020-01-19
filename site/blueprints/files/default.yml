@@ -1,0 +1,6 @@
+title: Default File
+
+fields:
+  bildunterschrift:
+    label: Bildunterschrift
+    type: text
