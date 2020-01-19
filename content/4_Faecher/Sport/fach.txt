@@ -1,0 +1,21 @@
+Title: Sport
+
+----
+
+Heading: wir schwitzen für die Schule
+
+----
+
+Text: Hoch mit dem Puls bei uns in Sport
+
+----
+
+Gallery: 
+
+----
+
+Haupttag: Sport
+
+----
+
+Fotoansicht: carousel
