@@ -2,20 +2,37 @@ Title: Staffellauf war ein toller Erfolg
 
 ----
 
-Heading: 
+Heading: Sport in der Gruppe
+
 ----
 
 Text:
 
 Die Schülermanschaften waren mit viel Freude dabei und haben tolle Leistungen gezeigt.
 Der Leistungskurs von Frau Polat konnte seinen Titel verteidigen hat hat wieder bei der 6 mal 1,7 km Staffel gewonnen.
-Es waren auch viele Lehrer am Start. 
-
-
+Es waren auch viele Lehrer am Start.
 
 ----
 
 Gallery:
+
+- bild01.jpg
+- bild02.jpg
+- bild03.jpg
+- bild04.jpg
+- bild06.jpg
+- bild05.jpg
+- bild07.jpg
+- bild08.jpg
+- bild09.jpg
+- bild10.jpg
+- bild11.jpg
+- bild12.jpg
+- bild13.jpg
+- bild14.jpg
+- bild15.jpg
+- bild16.jpg
+- bild17.jpg
 
 ----
 
@@ -29,11 +46,15 @@ Author:
 
 ----
 
-Tags:Staffellauf
+Tags: Staffellauf
 
 ----
 
 Featured: false
+
+----
+
+Fotoansicht: gallery
 
 ----
 

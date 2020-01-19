@@ -1,8 +1,8 @@
-Title: Robocup Nordwest 21.02. – 23.02.18 
+Title: Robocup Nordwest 21.02. – 23.02.18
 
 ----
 
-Heading: Hier Untertiel
+Heading: Robocup
 
 ----
 
@@ -13,10 +13,11 @@ Schon zum vierten Mal in Folge öffnete der Robocup, der von der KGS Rastede, de
 Die Roboter-AG der KGS war mit 26 Schülern vertreten. Hier konnten sie auch die neuen AG-Shirts präsentieren, die vom Best Western Hotel Heide in Oldenburg gesponsert wurden. Gestartet wurde in den Disziplinen Rescue Line Entry, Rescue Line und Rescue Maze Entry. Vor Ort wurden noch letzte Verbesserungen am Roboter und am Programm vorgenommen, um optimale Ergebnisse zu erzielen. Nach vielen spannenden Läufen qualifizierte sich das Team „Space Cows“ mit den Schülern Lennard Valk, Tilo Will, Leonardo Tardin Da Silva und Jarik Meyer für die deutsche Meisterschaft in Magdeburg.
 Außerdem nahmen 13 Schülerinnen und Schüler der KGS als Schiedsrichter teil.
 
-
 ----
 
 Gallery:
+
+- bild1.jpg
 
 ----
 
@@ -35,6 +36,10 @@ Tags: Informatik, Robocup
 ----
 
 Featured: false
+
+----
+
+Fotoansicht: gallery
 
 ----
 
