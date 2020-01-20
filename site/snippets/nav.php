@@ -24,6 +24,8 @@
             <a class="dropdown-item" href="<?= page('Faecher/Physik')->url() ?>">Physik</a>
             <a class="dropdown-item" href="<?= page('Faecher/Biologie')->url() ?>">Biologie</a>
             <a class="dropdown-item" href="<?= page('Faecher/Chemie')->url() ?>">Chemie</a>
+            <a class="dropdown-item" href="<?= page('Faecher/Informatik')->url() ?>">Informatik</a>
+
             <a class="dropdown-item" href="#">Mukubi</a>
             <a class="dropdown-item" href="#">Fremdsprachen</a>
             <a class="dropdown-item" href="#">Deutsch</a>
