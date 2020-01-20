@@ -9,7 +9,7 @@ Datum: <?= $page->date()->toDate("d.m.Y") ?>
 Autor: <?= $page->author() ?>
 
 
-<?= $page->text()->kirbytext() ?>
+<?= $page->text()->blocks() ?>
 
 <?php if ($page->fotoansicht() == 'carousel') : ?>
   <?php snippet('carousel') ?>
