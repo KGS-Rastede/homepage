@@ -2,4 +2,20 @@ Title: Thorsten Meyer
 
 ----
 
-Fotoansicht: lehrer
+Heading: my
+
+----
+
+Email: my@kgs-rastede.de
+
+----
+
+Position: Fachbereichsleiter GSW
+
+----
+
+Phone: 
+
+----
+
+Fotoansicht: fbl
