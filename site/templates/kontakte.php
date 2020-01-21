@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<h1>Die Schulleitung</h1>
+<h1><?= $page->title() ?></h1>
 
 
 <div class="row row-cols-1 row-cols-md-4">
