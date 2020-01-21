@@ -24,6 +24,18 @@ columns:
             label: Telefon
             type: tel
             width: 1/2
+          fotoansicht:
+            label: Funktionsbezeichnung
+            type: select
+            default: lehrer
+            options:
+              schulleiter: Schulleitung
+              fbl: Fachbereichsleiter
+              fl: Fachleiter
+              lehrer: Lehrer
+              sek: Sekretariat
+              soz: Sozialpädagogen
+              hausmeister: hausmeister
       # sections in the left column
   right:
     width: 1/3
@@ -33,6 +45,7 @@ columns:
         type: files
         cover: true
         layout: cards
+      
 
 # sections:
 #   content:
