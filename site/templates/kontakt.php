@@ -4,7 +4,7 @@
 
 
 <div class="row row-cols-1 row-cols-md-4">
-<?php foreach(page('kontakte')->children() as $kontakt): ?>
+<?php foreach($page->children() as $kontakt): ?>
     <div class="col mb-4">
         <div class="card h-100" style="width: 16rem;">
             <img src="<?= $kontakt->images()->first()->url() ?>" class="card-img-top" alt="<?= $kontakt->images()->first()->alt() ?>">
