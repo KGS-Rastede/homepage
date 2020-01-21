@@ -3,22 +3,20 @@
 <h1><?= $page->title() ?></h1>
 
 
-<div class="row row-cols-1 row-cols-md-4">
-<?php foreach($page->children() as $kontakt): ?>
-    <div class="col mb-4">
-        <div class="card h-100" style="width: 16rem;">
-            <img src="<?= $kontakt->images()->first()->url() ?>" class="card-img-top" alt="<?= $kontakt->images()->first()->alt() ?>">
+<div class="row row-cols-sm-2 row-cols-md-5">
+    <?php foreach ($page->children() as $kontakt) : ?>
+        <div class="card">
+            <img src="<?= $kontakt->images()->first()->url() ?>" class="rounded card-img-top" alt="<?= $kontakt->images()->first()->alt() ?>">
             <div class="card-body">
-                <h5 class="card-title"><?= $kontakt->position() ?></h5>
-                <p class="card-text"><?= $kontakt->title() ?></p>
+                <h3 class="card-title"><?= $kontakt->position() ?></h3>
+                <p class="card-text p-3 mb-2"><?= $kontakt->title() ?></p>
             </div>
-            <ul class="list-group list-group-flush">
+            <ul class="list-group list-group-flush  p-3 mb-2">
                 <li class="list-group-item"><?= $kontakt->email() ?></li>
                 <li class="list-group-item"><?= $kontakt->phone() ?></li>
             </ul>
         </div>
-    </div>
-<?php endforeach ?>
+    <?php endforeach ?>
 </div>
 
 
