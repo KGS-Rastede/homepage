@@ -1,0 +1,27 @@
+Title: Claudia Berger
+
+----
+
+Heading: be
+
+----
+
+Email: be@kgs-rastede.de
+
+----
+
+Position: Schulleiterin
+
+----
+
+Phone: 04402-9264-13
+
+----
+
+Gallery:
+
+- be.jpg
+
+----
+
+Text: Inhalt, ganz wichtig
