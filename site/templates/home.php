@@ -15,7 +15,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-10 ml-auto mr-auto">
-              <h2 class="title">Latest Blogposts</h2>
+              <h2 class="title">Aktuelle Nachrichten</h2>
               <br>
 
               <!--  
@@ -116,9 +116,7 @@
 
 
 
-    </div>
-  </div>
-</div>
+   
 
 
 <?php snippet('footer') ?>
