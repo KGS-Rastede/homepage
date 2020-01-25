@@ -4,6 +4,7 @@
 Icon
 .DS_Store
 /site/plugins/editor/*
+/assets/*
 
 # Temporary files
 # ---------------
