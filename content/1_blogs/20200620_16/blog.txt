@@ -1,0 +1,78 @@
+Title: Auf Exkursion mit dem DS-Kurs
+
+----
+
+Heading: rund um das Theaterleben in Hamburg
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Am 19. Juni haben wir, der Kurs DS02 aus Jahrgang 11, uns auf den Weg nach Hamburg gemacht, um nach unserer eigenen Auffu\u0308hrung, die zwei Tage zuru\u0308ck lag, das professionelle Theater zu entdecken.",
+        "id": "_eRmyUdxos",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wa\u0308hrend einer 90-minu\u0308tigen Fu\u0308hrung durch das Thalia-Theater durften wir das Bu\u0308hnenbild einer ganz neuen Produktion im gro\u00dfen Saal bewundern, bei dem unter anderem auch Roboter zum Einsatz kamen, und den Regisseuren kurz bei ihrer Arbeit u\u0308ber die Schulter schauen. Interessanter war der Blick hinter die Kulissen mit den beeindruckenden Mo\u0308glichkeiten, die der gesamte Bu\u0308hnenraum bietet. Auch der Tischlerei und dem Malersaal durften wir einen Besuch abstatten und einige Arbeiten in ihrem Prozess anschauen.",
+        "id": "_xhiupkvJR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Am Abend haben wir dann ein Theaterstu\u0308ck im DeutschenSchauspielHaus angesehen mit gro\u00dfartigen Schauspielern, interessanten Ideen in der Inszenierung, aber leider einer sehr za\u0308hen Handlung... aber wir haben durchgehalten :-)",
+        "id": "_MwWGG8iZF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Am na\u0308chsten Morgen mussten wir bereits fru\u0308h aufbrechen, weil wir die Plaza der Elbphilharmonie besuchen wollten. Die gesamte Exkursion wurde vom Kurs in Kleingruppen vorbereitet. Neben einem ausfu\u0308hrlichen eigenen \u201eExkursions-Reisefu\u0308hrer\u201c gab es Vortra\u0308ge zu allen Stationen, die wir aufgesucht haben. So haben wir auf der Plaza viel Wissenswertes u\u0308ber die Elbphilharmonie und das Musicalleben sowie die Bedeutung des Hafens erfahren.",
+        "id": "_a0vZDrv6H",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Weitere Stationen an diesem Vormittag waren das Theaterschiff und das Ohnsorg-Theater.",
+        "id": "_xhl0PqZX9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vor der Ru\u0308ckfahrt nach Rastede blieb uns noch ausreichend Zeit, um Hamburgs Shopping-Meilen aufzusuchen und viele Erinnerungsstu\u0308cke an diese Exkursion zu erwerben ;-)",
+        "id": "_0YD4t0acF",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-06-20 07:15
+
+----
+
+Author:
+
+- e5xQFqwr
+
+----
+
+Tags: DS
+
+----
+
+Featured: true
+
+----
+
+Fotoansicht: 
+
+----
+
+Published: 2020-01-21
