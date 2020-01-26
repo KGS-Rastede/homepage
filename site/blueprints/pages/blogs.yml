@@ -5,6 +5,4 @@ icon: 📖
 sections:
   blogs:
     type: pages
-    image:
-      cover: true
-      ratio: 1/1
+    info: "{{page.date.toDate('Y-m-d') }}"
