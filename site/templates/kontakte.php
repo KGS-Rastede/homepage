@@ -28,14 +28,18 @@
                         <div class="card-body ">
                             <h4 class="card-title"><?= $kontakt->title() ?></h4>
                             <h6 class="card-category text-muted"><?= $kontakt->position() ?></h6>
-                            <p class="card-description">
-                                <?= $kontakt->email() ?>
-                            </p>
                         </div>
                         <div class="card-footer justify-content-center">
-                            <button class="btn btn-primary btn-round">
-                                <i class="material-icons">email</i><?= $kontakt->email() ?>
+                            <button class="btn btn-success btn-round">
+                                <i class="material-icons">local_phone</i><?= $kontakt->phone() ?>
                             </button>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                            <a href="mailto:<?= $kontakt->email() ?>">
+                                <button class="btn btn-success btn-round">
+                                    <i class="material-icons">email</i><?= $kontakt->email() ?>
+                                </button>
+                            </a>
                         </div>
                     </div>
                 </div>
