@@ -3,7 +3,6 @@ title: Blogs aus allen Fächern
 sections:
   blogs:
     type: pages
-    layout: cards
     image:
       cover: true
       ratio: 1/1
