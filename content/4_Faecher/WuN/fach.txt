@@ -6,7 +6,11 @@ Heading: Werte und Normen
 
 ----
 
-Text: Punkt vor Strich!
+Text: Hier fehllt der Inhalt
+
+----
+
+Gallery: 
 
 ----
 
