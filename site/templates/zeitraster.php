@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
-<?= $page->text() ?>
+<?= $page->text()->blocks() ?>
 
 
 <table class="table table-borderless table-responsive table-striped">
