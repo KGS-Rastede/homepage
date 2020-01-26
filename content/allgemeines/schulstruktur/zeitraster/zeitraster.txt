@@ -1,0 +1,10 @@
+Title: Das Zeitraster
+
+----
+
+Heading: Übersicht über die Stunden
+
+----
+
+Text: Die KGS geht von 8 bis 16 Uhr.
+
