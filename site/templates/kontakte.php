@@ -29,18 +29,25 @@
                             <h4 class="card-title"><?= $kontakt->title() ?></h4>
                             <h6 class="card-category text-muted"><?= $kontakt->position() ?></h6>
                         </div>
-                        <div class="card-footer justify-content-center">
-                            <button class="btn btn-success btn-round">
-                                <i class="material-icons">local_phone</i><?= $kontakt->phone() ?>
-                            </button>
-                        </div>
-                        <div class="card-footer justify-content-center">
-                            <a href="mailto:<?= $kontakt->email() ?>">
+
+                        <?php if ($kontakt->phone() != '') : ?>
+                            <div class="card-footer justify-content-center">
                                 <button class="btn btn-success btn-round">
-                                    <i class="material-icons">email</i><?= $kontakt->email() ?>
+                                    <i class="material-icons">local_phone</i><?= $kontakt->phone() ?>
                                 </button>
-                            </a>
-                        </div>
+                            </div>
+                        <?php endif ?> 
+
+                        <?php if ($kontakt->email() != '') : ?>
+                            <div class="card-footer justify-content-center">
+                                <a href="mailto:<?= $kontakt->email() ?>">
+                                    <button class="btn btn-success btn-round">
+                                        <i class="material-icons">email</i><?= $kontakt->email() ?>
+                                    </button>
+                                </a>
+                            </div>
+                        <?php endif ?> 
+
                     </div>
                 </div>
 
