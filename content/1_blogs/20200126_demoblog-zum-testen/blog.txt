@@ -1,0 +1,45 @@
+Title: Demoblog zum Testen
+
+----
+
+Heading: Demountertitel
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Hier steht der Text. Copy und Paste von der alten Homepage",
+        "id": "_qqpgcs160",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- demobild2.jpg
+- demobild1.jpg
+
+----
+
+Date: 2020-01-26 12:30
+
+----
+
+Author: Carsten Niehaus
+
+----
+
+Tags: Kunst, Biologie, Chemie, Physik, Informatik, AGs, Sport
+
+----
+
+Featured: true
+
+----
+
+Fotoansicht: gallery
