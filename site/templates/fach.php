@@ -5,8 +5,10 @@
 
 <div class="container">
   <div class="row">
-      <h2>Aktuelle Nachrichten</h2>
-      <div class="table-responsive">
+      <h2>Aktuelles aus dem Fach</h2>
+      <?= $page->text()->kirbytext() ?>
+
+
         <?php snippet('blogs', [
           'blogs' => page('blogs')
             ->children()
@@ -22,7 +24,6 @@
         <?php else : ?>
           <!-- Bilder werden vom Autor manuel gesetzt -->
         <?php endif ?>  
-    </div>
   </div>
 </div>
 
