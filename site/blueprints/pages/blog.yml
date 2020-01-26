@@ -34,7 +34,9 @@ columns:
             time: true
             default: now
           author:
-            type: users
+            type: text
+            label: Name des Autorens
+            help: Was hier steht taucht 1:1 im Artikel als Name auf
           tags:
             label: Tags
             type: tags
