@@ -5,9 +5,11 @@
 
 <div class="container">
   <div class="row">
-      <h2>Aktuelles aus dem Fach</h2>
-      <?= $page->text()->kirbytext() ?>
+  <h3><?= $page->heading() ?></h3>
+    
+  <?= $page->text()->kirbytext() ?>
 
+      <h2>Aktuelles aus dem Fach</h2>
 
         <?php snippet('blogs', [
           'blogs' => page('blogs')
