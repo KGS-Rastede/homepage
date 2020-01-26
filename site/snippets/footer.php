@@ -104,9 +104,8 @@
           <h5>Kontakt</h5>
           <ul class="links-vertical">
             <li><a class="text-muted" href="<?= page('kontakte/schulleitung')->url() ?>">Schulleitung</a></li>
-            <li><a class="text-muted" href="#">Fachbereichsleiter</a></li>
-            <li><a class="text-muted" href="#">Sekreatriat Hauptgebäude</a></li>
-            <li><a class="text-muted" href="#">Sekretariat Feldbreite</a></li>
+            <li><a class="text-muted" href="<?= page('kontakte/fbl')->url() ?>">Fachbereichsleiter</a></li>
+            <li><a class="text-muted" href="<?= page('kontakte/sekretariate')->url() ?>">Sekreatriat Hauptgebäude</a></li>
           </ul>
         </div>
         <div class="col-md-3">
