@@ -3,7 +3,7 @@
 <?php snippet('page-header') ?>
 
 
-<div class="container-fluid">
+<div class="container">
   <div class="row">
       <h2>Aktuelle Nachrichten</h2>
       <div class="table-responsive">
