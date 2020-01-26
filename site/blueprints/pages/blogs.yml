@@ -1,4 +1,6 @@
 title: Blogs aus allen Fächern
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 📖
 
 sections:
   blogs:
