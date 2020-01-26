@@ -1,0 +1,60 @@
+Title: Mathe und Fußball
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Im Mathematikunterricht erhielten die Sch\u00fclerinnen und Sch\u00fcler der 5D3 eine Langzeitaufgabe zum Thema Fu\u00dfball. <br>Die Ergebnisse waren so \u00fcberw\u00e4ltigend, dass wir sie in der Schule an der Feldbreite in einem Schaukasten ausstellten.",
+        "id": "_q0ga8z056",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_em8ogz725",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blogs+mathe-und-fussball/files/alle_baelle_50.jpg",
+            "src": "https://www.niehaus-ol.de/media/pages/blogs/mathe-und-fussball/3676943686-1580058166/alle_baelle_50.jpg",
+            "id": "blogs/mathe-und-fussball/alle_baelle_50.jpg",
+            "ratio": 0.8955223880597015,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_m1cep1mzc",
+        "type": "image"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-01-26 17:55
+
+----
+
+Author: Carsten Mönnich
+
+----
+
+Tags: Mathematik
+
+----
+
+Featured: true
+
+----
+
+Fotoansicht: gallery
