@@ -1,9 +1,11 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
-<table class="table table-borderless table-hover table-striped">
+<?= $page->text() ?>
+
+
+<table class="table table-borderless table-responsive table-striped">
     <!-- https://getbootstrap.com/docs/4.4/content/tables/ -->
-    <caption>Zeittafel</caption>
     <thead>
         <tr>
             <th>Stunde</th>
@@ -44,7 +46,7 @@
         <tr>
             <td class="text-center">7-8</td>
             <td>14.30</td>
-            <td>16.00</td>
+            <td>16.00*</td>
         </tr>       
     </tbody>
 </table>

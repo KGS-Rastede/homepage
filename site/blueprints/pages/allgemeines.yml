@@ -1,0 +1,8 @@
+title: Default Page
+preset: page
+fields:
+  text:
+    label: Inhalt für die Homepage
+    type: editor
+    size: large
+
