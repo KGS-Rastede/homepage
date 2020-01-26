@@ -40,6 +40,7 @@ columns:
           tags:
             label: Tags
             type: tags
+            help: Bitte nach Möglichkeit die Vorschläge übernehmen und keine eigenen Tags erfinden
             options:
               - Biologie
               - Chemie
