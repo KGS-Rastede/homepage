@@ -22,21 +22,15 @@ Text:
         "type": "paragraph"
     },
     {
-        "attrs": [],
-        "content": "",
-        "id": "_jin1tswb9",
-        "type": "paragraph"
-    },
-    {
         "attrs": {
-            "guid": "/pages/blogs+honigernte-kleine-imker/files/ree4.jpg",
-            "src": "http://kirby/media/pages/blogs/honigernte-kleine-imker/2802168223-1580052259/ree4.jpg",
-            "id": "blogs/honigernte-kleine-imker/ree4.jpg",
+            "guid": "/pages/blogs+demoblog-zum-testen/files/ree4.jpg",
+            "src": "https://niehaus-ol.de/media/pages/blogs/demoblog-zum-testen/2802168223-1580050957/ree4.jpg",
+            "id": "blogs/demoblog-zum-testen/ree4.jpg",
             "ratio": 1.3333333333333333,
             "caption": ""
         },
         "content": "",
-        "id": "_j1z1qtm3y",
+        "id": "_9j0u73eri",
         "type": "image"
     },
     {
