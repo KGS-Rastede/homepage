@@ -11,7 +11,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Mit einer eindrucksvollen Kurz-Doku-mentation zum Thema Pflege und Men-schenw\u00fcrde haben Sch\u00fclerinnen der Kooperativen Gesamtschule Rastede am Mittwoch in Hannover den dritten Preis beim gr\u00f6\u00dften inklusiven Sch\u00fcler-Kurzfilmwettbewerb Norddeutschlands gewonnen. Ein Filmteam mit Sch\u00fclerin-nen aus Barnstorf wurde Gesamtsieger des Wettbewerbs \u201eganz sch\u00f6n an-ders\u201c. F\u00fcr ihre Reportage \u201eUnantast-bar\u201c hatten die drei Rasteder Sch\u00fcle-rinnen (von links) Josephine Daries, Sintje Krause und Tomke Albrecht das Pflegeheim Petershof in Rastede be-sucht. In ihrer Dokumentation spre-chen sie mit Pflegern und Bewohnern \u00fcber Menschenw\u00fcrde im Pflegeheim und die Folgen der Arbeitsbelastung. Bei der Preisverleihung in Hannover gratulierte Laudator Tim Fischer den Sch\u00fclerinnen, die von Lehrerin Alina Edelmann begleitet wurden. Der Preis: Die Rastederinnen d\u00fcrfen ihre Klasse zum Fr\u00fchst\u00fcck einladen. BILD: PRIVATP@ Das Video der Rastederinnen sehen Sie unter www.bit.ly/unantastbar-rastede",
+        "content": "Mit einer eindrucksvollen Kurz-Dokumentation zum Thema Pflege und Menschenw\u00fcrde haben Sch\u00fclerinnen der Kooperativen Gesamtschule Rastede am Mittwoch in Hannover den dritten Preis beim gr\u00f6\u00dften inklusiven Sch\u00fcler-Kurzfilmwettbewerb Norddeutschlands gewonnen. Ein Filmteam mit Sch\u00fclerin-nen aus Barnstorf wurde Gesamtsieger des Wettbewerbs \u201eganz sch\u00f6n anders\u201c. F\u00fcr ihre Reportage \u201eUnantastbar\u201c hatten die drei Rasteder Sch\u00fclerinnen (von links) Josephine Daries, Sintje Krause und Tomke Albrecht das Pflegeheim Petershof in Rastede be-sucht. In ihrer Dokumentation sprechen sie mit Pflegern und Bewohnern \u00fcber Menschenw\u00fcrde im Pflegeheim und die Folgen der Arbeitsbelastung. Bei der Preisverleihung in Hannover gratulierte Laudator Tim Fischer den Sch\u00fclerinnen, die von Lehrerin Alina Edelmann begleitet wurden. Der Preis: Die Rastederinnen d\u00fcrfen ihre Klasse zum Fr\u00fchst\u00fcck einladen. BILD: PRIVATP@ Das Video der Rastederinnen sehen Sie unter www.bit.ly/unantastbar-rastede",
         "id": "_e36439dji",
         "type": "paragraph"
     }
@@ -19,7 +19,9 @@ Text:
 
 ----
 
-Gallery: - 2019-04-04_filmpreis.pdf
+Gallery:
+
+- 2019-04-04_filmpreis-1.jpg
 
 ----
 
