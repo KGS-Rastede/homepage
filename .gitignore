@@ -38,6 +38,10 @@ Icon
 # ---------------
 /site/config/.license
 
+# Lock files
+# ---------------
+.lock
+
 /vendor
 
 /kirby
