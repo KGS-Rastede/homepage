@@ -7,7 +7,7 @@
                         <i class="material-icons">receipt</i> <?= $subpage->title() ?>
                     </h5>
                     <h4 class="card-title">
-                        <a href="#pablo"> <?= $subpage->substitle() ?></a>
+                        <a href="#pablo"> <?= $subpage->subtitle() ?></a>
                     </h4>
                     <p class="card-description">
                         <?= $subpage->vorne() ?>
