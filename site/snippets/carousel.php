@@ -14,9 +14,9 @@
       foreach ($page->images() as $image) : $count++ ?>
         <?php if ($count == 0) : ?>
           <div class="carousel-item active">
-          <?php else : ?>
+        <?php else : ?>
             <div class="carousel-item">
-            <?php endif ?>
+        <?php endif ?>
             <img src=<?= $image->url() ?> class="d-block w-100" alt="<?= $image->bildunterschrift() ?>" />
             <div class="carousel-caption d-none d-md-block">
               <h3><?= $image->bildunterschrift() ?></h3>
