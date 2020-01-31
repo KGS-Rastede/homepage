@@ -1,7 +1,7 @@
 <nav class="navbar navbar-color-on-scroll navbar-transparent    fixed-top  navbar-expand-lg " color-on-scroll="100" id="sectionsNav">
     <div class="container">
       <div class="navbar-translate">
-        <a class="navbar-brand" href="<?= $site->url() ?> ">
+        <a class="navbar-brand" href="<?= $site->url() ?>">
           KGS Rastede </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="sr-only">Toggle navigation</span>
