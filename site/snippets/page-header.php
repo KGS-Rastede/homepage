@@ -1,7 +1,7 @@
-<div class="p-3 p-md-5 m-md-3 text-center">
-  <div class="col-md-2 p-lg-1 mx-auto my-5">
-    <h1 class="display-4 font-weight-normal"><?= $page->title() ?></h1>
-    <p class="lead font-weight-normal"><?= $page->subtitle() ?></p>
+<div class="jumbotron" style="background-image: url('<?= $kirby->url('assets') ?>/img/bg3.jpg'); background-size: cover;">
+  <div class="container">
+    <h1 class="display-4"><?= $page->title() ?></h1>
+    <p class="lead"><?= $page->subtitle() ?></p>
   </div>
 </div>
 
