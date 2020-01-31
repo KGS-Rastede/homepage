@@ -1,37 +1,37 @@
 <div class="container">
-    <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
-      <ol class="carousel-indicators">
+  <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+    <ol class="carousel-indicators">
 
-        <?php $count = -1;
-        foreach ($page->images() as $image) : $count++ ?>
-          <li data-target="#carouselExampleIndicators" <?php if ($count == 0) : ?> class="active" <?php endif ?> data-slide-to="<?= $count ?>"></li>
-        <?php endforeach ?>
+      <?php $count = -1;
+      foreach ($page->images() as $image) : $count++ ?>
+        <li data-target="#carouselExampleIndicators" <?php if ($count == 0) : ?> class="active" <?php endif ?> data-slide-to="<?= $count ?>"></li>
+      <?php endforeach ?>
 
-      </ol>
-      <div class="carousel-inner">
+    </ol>
+    <div class="carousel-inner">
 
-        <?php $count = -1;
-        foreach ($page->images() as $image) : $count++ ?>
-          <?php if ($count == 0) : ?>
-            <div class="carousel-item active">
-            <?php else : ?>
-              <div class="carousel-item">
-              <?php endif ?>
-              <img src=<?= $image->url() ?> class="d-block w-100" alt="<?= $image->bildunterschrift() ?>" />
-              <div class="carousel-caption d-none d-md-block">
-                <h3><?= $image->bildunterschrift() ?></h3>
-              </div>
+      <?php $count = -1;
+      foreach ($page->images() as $image) : $count++ ?>
+        <?php if ($count == 0) : ?>
+          <div class="carousel-item active">
+          <?php else : ?>
+            <div class="carousel-item">
+            <?php endif ?>
+            <img src=<?= $image->url() ?> class="d-block w-100" alt="<?= $image->bildunterschrift() ?>" />
+            <div class="carousel-caption d-none d-md-block">
+              <h3><?= $image->bildunterschrift() ?></h3>
+            </div>
             </div>
           <?php endforeach ?>
           </div>
           <a class=" carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Weiter</span>
-              </a>
-              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Zurück</span>
-              </a>
-      </div>
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Weiter</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Zurück</span>
+          </a>
     </div>
   </div>
+</div>
