@@ -1,6 +1,6 @@
 <div class="jumbotron" style="background-image: url('<?= $kirby->url('assets') ?>/img/bg3.jpg'); background-size: cover;">
   <div class="container">
-    <h1 class="display-4"><?= $page->title() ?></h1>
+    <h1 class="display-2"><?= $page->title() ?></h1>
     <p class="lead"><?= $page->subtitle() ?></p>
   </div>
 </div>
