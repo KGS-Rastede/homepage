@@ -1,5 +1,5 @@
                    
-# Anwendungsfälle
+# *Anwendungsfälle*
 
 ## SchülerInnen
 - [ ] Stundenplan einsehen
