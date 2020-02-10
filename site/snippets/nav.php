@@ -56,6 +56,13 @@
             <a class="dropdown-item" href="<?= page('Faecher/Biologie')->url() ?>"><i class="material-icons">filter_vintage</i>Biologie</a>
             <a class="dropdown-item" href="<?= page('Faecher/Chemie')->url() ?>"><i class="material-icons">outdoor_grill</i>Chemie</a>
             <div class="dropdown-divider"></div>
+
+            <!-- Fremdsprachen -->
+            <a class="dropdown-item" href="<?= page('Faecher/franzoesisch')->url() ?>"><i class="material-icons">chat_bubble_outline</i>Französisch</a>
+            <a class="dropdown-item" href="<?= page('Faecher/latein')->url() ?>"><i class="material-icons">chat_bubble_outline</i>Latein</a>
+            <a class="dropdown-item" href="<?= page('Faecher/spanisch')->url() ?>"><i class="material-icons">chat_bubble_outline</i>Spanisch</a>
+            <a class="dropdown-item" href="<?= page('Faecher/englisch')->url() ?>"><i class="material-icons">chat_bubble_outline</i>Englisch</a>
+
             
             <!-- AWT / Informatik -->
             <a class="dropdown-item" href="<?= page('Faecher/Informatik')->url() ?>"><i class="material-icons">computer</i>Informatik</a>
