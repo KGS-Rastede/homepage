@@ -66,13 +66,21 @@ columns:
               - AGs
               - SSD
 
-          line:
+          line1:
             type: line
           
           featured:
             type: toggle
-            label: Startseite
+            label: Auf Startseite anzeigen
             help: Wird immer auf der Startseite angezeigt
+
+          immer-sichtbar:
+            type: toggle
+            label: Im Fach immer sichtbar
+            help: Wird immer auf der Seite des Fachs angezeigt, z.B. Lehrpläne
+
+          line2:
+            type: line
 
           downloads:
             label: Zugehörige Dateien
