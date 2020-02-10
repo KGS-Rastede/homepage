@@ -1,0 +1,48 @@
+Title: ¡Bienvenidos!
+
+----
+
+Heading: Spanienaustausch in Rastede 2018
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Vom 20.2.18 bis zum 27.2.18 fand der Spanienaustausch statt. Die Spanier/-innen aus Madrid kamen zu uns nach Rastede und lernten unsere Kultur kennen. Dienstags kamen die Austauschsch\u00fcler gegen 18 Uhr an der KGS an und schon am ersten Abend haben wir etwas unternommen. Wir waren alle zusammen beim Bowlen und konnten uns so schon etwas kennenlernen. Auch die n\u00e4chsten Tage war viel geplant. Von der Schule aus fuhren wir am Mittwoch zum Bouldern nach Oldenburg, am Donnerstag nach Wilhelmshaven zum Marinest\u00fctzpunkt und am Freitag nach Hamburg. In Hamburg besichtigten wir zum Beispiel die Speicherstadt, die Elbphilharmonie, den Jungfernstieg und die Landungsbr\u00fccken. Die Ausfl\u00fcge waren sehr sch\u00f6n, um den Austauschsch\u00fclern auch das Umland von Rastede zu zeigen. Auch in unserer Freizeit haben wir viel zusammen unternommen. Am Sonntag trafen wir uns beispielsweise, um eine Kohlfahrt im Schlosspark zu unternehmen. Der Montag war dann schon unser letzter kompletter gemeinsamer Tag. Am Vormittag hatten wir einen Workshop, bei dem wir eine darauffolgende Abschiedsfeier geplant haben. Diese fand am Montag um 18 Uhr zusammen mit den Eltern statt. Dabei haben wir die Woche noch einmal Revue passieren lassen.<br>Insgesamt hat der Austausch allen sehr viel Spa\u00df gemacht und wir freuen uns schon sehr auf den Gegenbesuch in Madrid im September.",
+        "id": "_jzo3fdgpt",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- 2018-03-14_spanienaustausch_07.jpg
+
+----
+
+Date: 2018-02-27 09:25
+
+----
+
+Author: Almut Eisenmann
+
+----
+
+Tags: Spanisch
+
+----
+
+Featured: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

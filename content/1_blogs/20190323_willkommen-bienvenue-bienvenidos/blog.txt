@@ -1,0 +1,97 @@
+Title: “Willkommen! Bienvenue! ¡Bienvenidos!”
+
+----
+
+Heading: Vorlesewettbewerb 2019
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Mit einer sehr gelungenen Moderation auf Franz\u00f6sisch und Spanisch begr\u00fc\u00dften Kathrin Siemens (8C3), Jolien Wulff (8A3) und Eva Kircher (8D3) die TeilnehmerInnen des diesj\u00e4hrigen Fremdsprachenlesewettbewerbs sowie die zahlreichen Zuh\u00f6rerInnen aus den siebten Klassen. Unsicherheit? Anspannung? Aufgeregt-Sein? \u2013 Davon war nur wenig zu sp\u00fcren.",
+        "id": "_at7ZVFxmG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die vier TeilnehmerInnen des franz\u00f6sischen Wettbewerbs im Realschulzweig pr\u00e4sentierten sich mit Mut und Selbstbewusstsein. Die Vortr\u00e4ge von Byong Yun Kim (7C2), Luca Pusceddu (7C2), Carina Cardinahl (7A2) sowie Jenny Ritter (7B2) waren allesamt sehr gut gelungen. So hatte es die Jury \u2013 zusammengesetzt aus Frau Mester, Frau Westerholt und Kathrin \u2013 gar nicht so leicht sich zu entscheiden, wer nun am besten vorgetragen hat. Am Ende wurde jedoch Jenny Ritter als Siegerin geehrt. W\u00e4hrend der Beratungszeit der Jury las der Siebtkl\u00e4ssler Moussa Demb\u00e9l\u00e9 dem Publikum einen franz\u00f6sischen Text vor, so dass die Zuh\u00f6rer die Chance hatten, einem Muttersprachler zuzuh\u00f6ren.",
+        "id": "_JCMWE9sku",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dann pr\u00e4sentierten Dana V\u00f6lker (7D3), Finja Meyer-Olden (7E3), Lia Schwarzw\u00e4lder (7D3) und Ajsu Alieva (7B3) ihr K\u00f6nnen. Mit einer ausgezeichneten franz\u00f6sischen Aussprache lasen die vier M\u00e4dchen ihre Texte vor. Die Entscheidung war f\u00fcr die Franz\u00f6sisch-Jury alles andere als einfach. Am Ende stand Finja als Siegerin im Gymnasialzweig fest. W\u00e4hrend der Juryentscheidung hat das Publikum sich in",
+        "id": "_txAUOb0FO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "der jeweils anderen Sprache vorgestellt sowie ein franz\u00f6sisches und spanisches Lied gesungen.",
+        "id": "_HnU0iizSH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dann ging es mit den TeilnehmerInnen der Spanischkurse weiter: Rieka Ovie (7C3), Pia H\u00fclsmann (7E3), Lina Heinemann, Jule Dre\u00dfler (beide 7D3), Eric Gerdes und Madhia Mohamad (beide 7A3) lasen mit viel Elan und toller Aussprache. Auch dieser Jury \u2013 zusammengesetzt aus den Lehrkr\u00e4ften Delia B\u00f6ttner und Susanne Ha\u00dfmann sowie den Sch\u00fclerinnen Eva und Jolien \u2013 fiel die Entscheidung nicht leicht. Schlussendlich stand Jule als Siegerin des Spanischwettbewerbs fest.",
+        "id": "_nHZj2hSWj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "W\u00e4hrend die Jury ihre Entscheidung f\u00e4llte, konnte das Publikum sein Wissen in einem franz\u00f6sisch- spanischen Quiz testen.",
+        "id": "_ScV8W7wur",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bei der abschlie\u00dfenden Siegerehrung mit kleinen Pr\u00e4senten f\u00fcr alle gab es viel Applaus und ausschlie\u00dflich strahlende Gesichter.",
+        "id": "_UJT7UuK1Z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.kgs-rastede.de/images/stories/aktuelles/1819/thumbnails/thumb_2019-04-05_fremdprachenlesewettbewerb2019_01.jpg",
+            "alt": "2019 04 05 fremdprachenlesewettbewerb2019 01",
+            "link": "https://www.kgs-rastede.de/images/stories/aktuelles/1819/2019-04-05_fremdprachenlesewettbewerb2019_01.jpg",
+            "caption": "",
+            "ratio": 1.3306930693069308
+        },
+        "content": "",
+        "id": "_xICtXf0E8",
+        "type": "image"
+    }
+]
+
+----
+
+Gallery:
+
+- >
+  2019-04-05_fremdprachenlesewettbewerb2019_02.jpg
+
+----
+
+Date: 2019-03-23 09:00
+
+----
+
+Author: Kirstin Westerholt
+
+----
+
+Tags: Spanisch, Französisch
+
+----
+
+Featured: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
