@@ -1,0 +1,21 @@
+title: Informationen zum Notfall
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 📖
+
+
+sections:
+  content:
+    type: fields
+    fields:
+      text:
+        label: Inhalt
+        type: textarea
+      category:
+        label: Category
+        type: select
+        options:
+          schneefrei: Schneefrei
+          heizung: Ausfall wegen defekter Heizung
+          sturmfrei: Sturmfrei (Unwetterlage)
+          hitzefrei: Hitzefrei
+                

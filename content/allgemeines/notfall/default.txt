@@ -1,5 +1,0 @@
-aktiv: true
-----
-Title: Schneefrei
-----
-Text: Heute fällt die Schule aus
