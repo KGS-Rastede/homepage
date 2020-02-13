@@ -2,11 +2,19 @@ Title: Erdkunde
 
 ----
 
+Heading: Die Erde ist eine Kugel
+
+----
+
 Text: 
 
 ----
 
 Gallery: 
+
+----
+
+Haupttag: Erdkunde
 
 ----
 
