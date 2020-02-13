@@ -2,7 +2,19 @@ title: Blogs aus allen Fächern
 num: '{{ page.date.toDate("Ymd") }}'
 icon: 📖
 
+
 sections:
-  blogs:
+
+  drafts:
+    headline: noch nicht öffentlich
     type: pages
-    info: "{{page.date.toDate('Y-m-d') }}"
+    status: draft
+    templates: blog
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}"
+
+  published:
+    headline: öffentlich einsehbar
+    type: pages
+    status: listed
+    templates: blog
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}"
