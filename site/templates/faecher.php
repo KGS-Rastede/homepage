@@ -8,8 +8,8 @@
 <!--SPRACHEN-->
 <div class="card-columns">
       <div class="card">
+        <div class="card-header card-header-danger"><h4 class="card-title">Sprachen</h4></div>
         <div class="card-body">
-          <h4 class="card-title">Sprachen</h4>
           <div class="list-group">
             <a href="#" class="list-group-item list-group-item-action"><i class="material-icons">chat_bubble_outline</i>Deutsch</a></li>
             <a href="<?= page('Faecher/englisch')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">chat_bubble_outline</i>Englisch</a></li>
@@ -21,8 +21,8 @@
       </div>
 <!--MUKUBA-->
   <div class="card">
+  <div class="card-header card-header-primary"><h4 class="card-title">Musisch-Kultureller Bereich</h4></div>
     <div class="card-body">
-        <h4 class="card-title">Musisch-Kultureller Bereich</h4>
         <div class="list-group">
           <a href="<?= page('Faecher/musik')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">music_note</i>Musik</a></li>
           <a href="<?= page('Faecher/kunst')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">color_lens</i>Kunst</a></li>
@@ -32,8 +32,8 @@
   </div>
 <!--NTW-->
   <div class="card">
+  <div class="card-header card-header-success"><h4 class="card-title">Mathematik und Naturwissenschaften</h4></div>
     <div class="card-body">
-        <h4 class="card-title">Mathematik und Naturwissenschaften</h4>
           <div class="list-group">
             <a href="<?= page('Faecher/ntw')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">emoji_objects</i>NTW</a>
             <a href="<?= page('Faecher/Mathematik')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">exposure</i>Mathe</a>
@@ -47,8 +47,8 @@
     </div>
 <!--SPORT-->
   <div class="card">
+  <div class="card-header card-header-info"><h4 class="card-title">Sport</h4></div>
     <div class="card-body">
-      <h4 class="card-title">Sport</h4>
       <div class="list-group">
         <a href="<?= page('Faecher/Sport')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">directions_run</i>Sport</a></li>
       </div>
@@ -56,8 +56,8 @@
   </div>
 <!--GSW-->
       <div class="card">
+      <div class="card-header card-header-warning"><h4 class="card-title">Gesellschaftswissenschaften</h4></div>
         <div class="card-body">
-          <h4 class="card-title">Gesellschaftswissenschaften</h4>
           <div class="list-group">
             <a href="<?= page('Faecher/geschichte')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">today</i>Geschichte</a></li>
             <a href="<?= page('Faecher/politik-wirtschaft')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">show_chart</i>Politik-Wirtschaft</a></li>
