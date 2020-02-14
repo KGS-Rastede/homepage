@@ -35,7 +35,7 @@
     <div class="card-body">
         <h4 class="card-title">Mathematik und Naturwissenschaften</h4>
           <div class="list-group">
-            <a href="<?= page('Faecher/Mathematik')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">monetization_on</i>Mathe</a>
+            <a href="<?= page('Faecher/Mathematik')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">add</i>Mathe</a>
             <a href="<?= page('Faecher/Physik')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">chat_bubble_outline</i>Physik</a>
             <a href="<?= page('Faecher/Biologie')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">monetization_on</i>Biologie</a>
             <a href="<?= page('Faecher/Chemie')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">chat_bubble_outline</i>Chemie</a>
