@@ -10,11 +10,11 @@ sections:
     type: pages
     status: draft
     templates: blog
-    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}"
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
 
   published:
     headline: öffentlich einsehbar
     type: pages
     status: listed
     templates: blog
-    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}"
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
