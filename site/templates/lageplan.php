@@ -11,7 +11,7 @@
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
 
 
-<div id="mapid" style="width: 600px; height: 400px;"></div>
+<div id="mapid" style="height: 400px;"></div>
 <script>
     var mymap = L.map('mapid').setView([53.24111, 8.194932], 15);
 
@@ -32,6 +32,7 @@
 
     var popup = L.popup();
 
+     /*     Diese Funktion ist momentan deaktiviert, da Sie unnötig ist
     function onMapClick(e) {
         popup
             .setLatLng(e.latlng)
@@ -40,6 +41,7 @@
     }
 
     mymap.on('click', onMapClick);
+    */
 </script>
 
 
