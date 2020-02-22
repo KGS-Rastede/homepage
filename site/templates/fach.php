@@ -8,13 +8,43 @@
   <?= $page->text()->kirbytext() ?>
 </p>
 
+<div class="row">
 
+  <h2>Aktuelles aus dem Fach</h2>
+  
+<?php $index = 0;
+ foreach(page('blogs')
+->children()
+->listed()
+->filterBy('immer_sichtbar', true)
+->filterBy('tags', $page->haupttag(), ',') as $subpage) : $index++ ?>
+
+<?php if ($index  != 0) : ?>
+
+                <?php snippet('teaser-bild', [
+                  'subpage' => $subpage
+                ]) ?>
+
+                <?php snippet('teaser-bild-text', [
+                  'subpage' => $subpage
+                ]) ?>
+
+                
+
+
+
+              <?php else : ?>
+              <?php endif ?>
+            <?php endforeach?>
+
+
+</div>
 
 
 <div class="container">
   <div class="row">
     
-      <h2>Aktuelles aus dem Fach</h2>
+      
 
         <?php snippet('blogs', [
           'blogs' => page('blogs')

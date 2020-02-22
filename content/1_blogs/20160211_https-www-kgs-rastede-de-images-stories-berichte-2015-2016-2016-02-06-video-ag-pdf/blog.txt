@@ -41,4 +41,12 @@ Featured: false
 
 ----
 
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
 Fotoansicht: gallery

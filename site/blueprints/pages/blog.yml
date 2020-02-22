@@ -74,7 +74,7 @@ columns:
             label: Auf Startseite anzeigen
             help: Wird immer auf der Startseite angezeigt
 
-          immer-sichtbar:
+          immer_sichtbar:
             type: toggle
             label: Im Fach immer sichtbar
             help: Wird immer auf der Seite des Fachs angezeigt, z.B. Lehrpläne
