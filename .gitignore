@@ -45,3 +45,5 @@ Icon
 /vendor
 
 /kirby
+assets
+composer.lock
