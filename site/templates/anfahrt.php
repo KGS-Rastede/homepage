@@ -9,16 +9,25 @@
             <div class="col-md-8 ml-auto mr-auto text-center">
                 <h2 class="title"><?= $page->main_text() ?></h2>
                 <h4 class="description">
-                    <?= $page->text_s1() ?>
+                    <?= $page->adresse_s1()->blocks() ?>
                 </h4>
                 <h4 class="description">
-                    <?= $page->text_s2() ?>
+                    <?= $page->adresse_s2()->blocks() ?>
                 </h4>
                 <h5 class="description">
                     <?= $page->anfahrt_text() ?>
                 </h5>
             </div>
-        </div>
+            <div class="col-md-8 ml-auto mr-auto text-center">
+                <h4 class="description">
+                    <?= $page->anfahrt_text_s1()->blocks() ?>
+                </h4>
+            </div>
+            <div class="col-md-8 ml-auto mr-auto text-center">
+                <h4 class="description">
+                    <?= $page->anfahrt_text_s2()->blocks() ?>
+                </h4>
+            </div>
         <div class="row">
     </div>
 </div>
