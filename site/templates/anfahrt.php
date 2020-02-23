@@ -3,7 +3,25 @@
 <?php snippet('page-header') ?>
 
 
-<?= $page->text() ?>
+<div class="team-1" id="team-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 ml-auto mr-auto text-center">
+                <h2 class="title"><?= $page->main_text() ?></h2>
+                <h4 class="description">
+                    <?= $page->text_s1() ?>
+                </h4>
+                <h4 class="description">
+                    <?= $page->text_s2() ?>
+                </h4>
+                <h5 class="description">
+                    <?= $page->anfahrt_text() ?>
+                </h5>
+            </div>
+        </div>
+        <div class="row">
+    </div>
+</div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
 

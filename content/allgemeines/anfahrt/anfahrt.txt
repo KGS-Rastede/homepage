@@ -1,0 +1,25 @@
+Title: Anfahrt
+
+----
+
+Main-text: Die KGS Rastede besitzt zwei Standorte.
+
+----
+
+Text-s1:
+
+Hauptgebäude: Jahrgänge 7-13 <br>
+Wilhelmstraße <br>
+26180 Rastede <br>
+
+----
+
+Text-s2:
+
+Feldbreite: Jahrgänge 5-6 <br>
+Feldbreite 16 <br>
+26180 Rastede <br>
+
+----
+
+Anfahrt-text: Beide Standorte können vom Bahnohf Rastede zu Fuß erreicht werden.
