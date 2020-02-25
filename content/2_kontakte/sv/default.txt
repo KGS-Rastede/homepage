@@ -23,7 +23,7 @@ Downloads:
 
 ----
 
-Toggle: true
+Toggle: false
 
 ----
 
