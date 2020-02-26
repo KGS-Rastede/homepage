@@ -23,7 +23,7 @@ Downloads:
 
 ----
 
-Toggle: false
+Toggle: true
 
 ----
 
@@ -32,3 +32,19 @@ Url: https://www.google.de/
 ----
 
 Name: Zur beliebtesten Suchmaschine der Welt
+
+----
+
+Sidebar:
+
+- 
+  link: https://www.google.de/
+  name: ndsdjd
+- 
+  link: >
+    https://getkirby.com/docs/reference/templates/field-methods/to-structure
+  name: krirby
+
+----
+
+Links: 

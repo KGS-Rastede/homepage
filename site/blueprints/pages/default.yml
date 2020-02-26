@@ -23,3 +23,13 @@ columns:
       name:
         label: Bezeichnung des Links
         type: text
+      sidebar:
+        label: Links
+        type: structure
+        fields:
+          link:
+            label: URL
+            type: url
+          name:
+            label: Bezeichnung
+            type: text

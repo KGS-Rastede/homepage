@@ -1,6 +1,19 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
+
+<ul>
+  <?php foreach ($page->sidebar()->toStructure() as $sidebar): ?>
+  <li>
+    <a href="<?= $sidebar->link() ?>">
+      <?= $sidebar->name() ?>
+    </a>
+  </li>
+  <?php endforeach ?>
+</ul>
+
+
+
 <div class="container">
     <div class="content">
     <?php if($page->toggle()->bool() === true) :
