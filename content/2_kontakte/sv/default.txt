@@ -1,5 +1,58 @@
 Text:
 
-Moin moin,
+Lernangebote am Schüler*innenprojekttag
 
-wir  sind die SV
+Viele engagierte Schüler*innen und Schüler haben Lernangebote für den Schüler*innenprojekttag eingereicht.
+Hier könnt ihr euch schon einmal einen Überblick verschaffen. Neben der Beschreibung werden auch die Dauer und die Lage im Stundenplan angegeben. Bei einigen Lernangeboten finden sogar mehrere Durchgänge statt, damit möglichst viele Schüler*innen dabei sein können.
+
+Die Anmeldung für die Angebote wird Mitte März online erfolgen. Eure Klassenlehrer*innen informieren euch rechtzeitig.
+
+Die Schule der Zukunft
+
+Schüler*innen des WPK Werte & Normen aus Jahrgang 9 präsentieren ihre Modelle von der Schule der Zukunft aus Karton. Dann werdet ihr selbst kreativ und überlegt, wie für euch die Schule der Zukunft aussieht. Ihr könnt eure Ideen zeichnen, malen, aufkleben, beschreiben…
+
+> Dauer: 90 Minuten
+> Zeit: 1. Durchgang in der 2. und 3. Stunde; 2. Durchgang in der 4. und 5. Stunde
+> maximale Teilnehmer*innenzahl: 30 Schülerinnen und Schüler
+> für alle Jahrgänge
+> Ort: Wilhelmstraße
+
+----
+
+Downloads: 
+
+----
+
+Toggle: false
+
+----
+
+Sidetitel: Mehr zum Thema
+
+----
+
+Sidebar:
+
+- 
+  link: https://www.google.de/
+  name: Das ist der erste Link
+- 
+  link: >
+    https://getkirby.com/docs/reference/templates/field-methods/to-structure
+  name: Hier geht es zu Kirby
+
+----
+
+Sidetoggle: false
+
+----
+
+Url: https://www.google.de/
+
+----
+
+Name: Zur beliebtesten Suchmaschine der Welt
+
+----
+
+Links: 
