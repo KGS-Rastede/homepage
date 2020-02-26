@@ -7,6 +7,7 @@ columns:
       pageSettings1:
         label: Texteintrag
         type: headline
+        numbered: false
       text:
         label: Text
         type: textarea
@@ -16,12 +17,14 @@ columns:
       pageSettings2:
         label: Dateien
         type: headline
+        numbered: false
       downloads:
         label: Verknüpfte Dateien
         type: files
       pageSettings3:
         label: Sidebar
         type: headline
+        numbered: false
       toggle:
         label: Sidebar
         type: toggle
