@@ -17,12 +17,6 @@ columns:
         label: Toggle
         type: toggle
         text: Sidebar anzeigen?
-      url:
-        label: URL
-        type: url
-      name:
-        label: Bezeichnung des Links
-        type: text
       sidebar:
         label: Links
         type: structure

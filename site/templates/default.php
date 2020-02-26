@@ -2,15 +2,7 @@
 <?php snippet('page-header') ?>
 
 
-<ul>
-  <?php foreach ($page->sidebar()->toStructure() as $sidebar): ?>
-  <li>
-    <a href="<?= $sidebar->link() ?>">
-      <?= $sidebar->name() ?>
-    </a>
-  </li>
-  <?php endforeach ?>
-</ul>
+
 
 
 
@@ -26,7 +18,9 @@
                     <div class="card">
                         <div class="card-body">
                             <div class="list-group">
-                                <a href="<?php echo $page->content()->url() ?>" class="list-group-item list-group-item-action"><?= $page->name() ?></a></li>
+                                <?php foreach ($page->sidebar()->toStructure() as $sidebar): ?>
+                                    <a href="<?= $sidebar->link() ?>" class="list-group-item list-group-item-action"><?= $sidebar->name() ?></a></li>
+                                <?php endforeach ?>
                             </div>
                         </div>
                     </div>

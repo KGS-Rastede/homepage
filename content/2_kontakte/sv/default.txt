@@ -27,14 +27,6 @@ Toggle: true
 
 ----
 
-Url: https://www.google.de/
-
-----
-
-Name: Zur beliebtesten Suchmaschine der Welt
-
-----
-
 Sidebar:
 
 - 
@@ -44,6 +36,14 @@ Sidebar:
   link: >
     https://getkirby.com/docs/reference/templates/field-methods/to-structure
   name: krirby
+
+----
+
+Url: https://www.google.de/
+
+----
+
+Name: Zur beliebtesten Suchmaschine der Welt
 
 ----
 
