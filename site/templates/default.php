@@ -2,14 +2,9 @@
 <?php snippet('page-header') ?>
 
 
-
-
-
-
 <div class="container">
     <div class="content">
-    <?php if($page->toggle()->bool() === true) :
-            {?>
+        <?php if($page->toggle()->bool() === true) : ?>
             <div class="row">
                 <div class="col-md-9">
                     <div class="container"><?= $page->text()->kirbytext() ?></div>
@@ -26,13 +21,9 @@
                     </div>
                 </div>
             </div>
-            <?php }
-            else:
-            { ?>
-                <div class="container"><?= $page->text()->kirbytext() ?></div>
-            <?php }
-            endif ?>
-
+        <?php else: ?>
+            <div class="container"><?= $page->text()->kirbytext() ?></div>
+        <?php endif ?>
     </div>
 </div>
 
