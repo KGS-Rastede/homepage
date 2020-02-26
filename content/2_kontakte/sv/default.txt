@@ -23,12 +23,12 @@ Downloads:
 
 ----
 
-Toggle: true
+Toggle: false
 
 ----
 
-Url: https://www.youtube.com/watch?v=84znrPmOePc
+Url: https://www.google.de/
 
 ----
 
-Name: Link zur Homepage der Kooperativen Gesamtschule Rastede
+Name: Zur beliebtesten Suchmaschine der Welt
