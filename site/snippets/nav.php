@@ -44,6 +44,10 @@
             <a class="dropdown-item" href="<?= page('allgemeines/beratung')->url() ?>"><i class="material-icons">people_outline</i>Beratung</a>
             </div>
           </li>
+          <li class="dropdown nav-item">
+            <a class="nav-link" href="<?= page('allgemeines/kalender')->url() ?>"><i class="material-icons">calendar_today</i>Kalender</a>
+          </li>
+
             </div>
           </li>
         </ul>
