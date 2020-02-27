@@ -5,20 +5,32 @@
   An besonderen Tagen (Schneefrei, Heizungsburch, ...) soll ganz schnell
   ein Banner angezeigt werden, damit die Eltern schnell informiert werden können
  -->
-<?php if( page('allgemeines/notfall')->sichtbarkeit() == "ja" ) : ?>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-10 ml-auto mr-auto">
-        <div class="jumbotron jumbotron-fluid bg-danger">
-          <div class="container">
-            <h1 class="display-4"><?= page('allgemeines/notfall')->Titeltext() ?></h1>
-            <p class="lead"><?= page('allgemeines/notfall')->text() ?></p>
-          </div>
-        </div>
-      </div>
-    </div>
+
+<?php if(page('allgemeines/notfall')->category() == "sturm"):
+        $titel = "Schulausfall wegen Sturm";
+endif ?>
+<?php if(page('allgemeines/notfall')->category() == "eis"):
+        $titel = "Schulausfall wegen Glatteis";
+endif ?>
+<?php if(page('allgemeines/notfall')->category() == "regen"):
+        $titel = "Schulausfall wegen Starkregen";
+endif ?>
+<?php if(page('allgemeines/notfall')->category() == "heizung"):
+        $titel = "Schulausfall wegen Heizungsausfall";
+endif ?>
+<?php if(page('allgemeines/notfall')->category() == "eigenerTitel"):
+        $titel = page('allgemeines/notfall')->textTitel();
+endif ?>
+
+<?php if(page('allgemeines/notfall')->toggle()->bool() === true) :?>
+  <div class="alert alert-danger" role="alert">
+    <h2><?php echo $titel ?></h2>
+    <p class="lead"><?= page('allgemeines/notfall')->text() ?></p>
   </div>
 <?php endif ?>
+        
+
+
 
 
 <div class="row">
