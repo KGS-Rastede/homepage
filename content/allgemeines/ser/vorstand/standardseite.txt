@@ -4,12 +4,212 @@ Title: Schulelternrat
 
 Text:
 
-Elternarbeit ist ein wichtiger Baustein der eigenverantwortlichen Schule! 
-Sie beinhaltet u.a. einen intensiven Dialog mit der Schulleitung und der Lehrerschaft, sowie dem Schulträger. Elternarbeit ist das aktive Mitgestalten des Schullebens, z. B. im Schulvorstand der Schule.
-
-Dort haben Eltern die Aufgabe, die Arbeit der Schule mit dem Ziel der Qualitätsentwicklung bzw. Qualitätssteigerung zu gestalten. Um diese
-Gestaltungsmöglichkeit zu gewährleisten, ist eine umfassende Information und Einbindung aller Eltern notwendig. Die Kreativität und das Engagement aller Eltern sind gefordert, denn dies dient der Bereicherung des Schulalltags. Daher sollte sich niemand scheuen, neue Ideen in die einzelnen Gremien der Schule einzubringen. Elternarbeit ist notwendig für Eltern, weil es viele schulisch unerfahrene Eltern gibt, die ein Informationsbedürfnis haben, wenn es um Unterstützung und Vermittlung zwischen Eltern, Schüler und Lehrkräften geht. Elternarbeit ist notwendig für Schüler, um deren Interessen zu unterstützen und auf diese Weise das WIR-Gefühl zu stärken.
-Elternarbeit ist notwendig für Lehrkräfte, weil sie durch ungezwungene Kontakte mit Eltern deren Lebenswelt kennen- und damit das Verhalten einzelner Schüler und Schülerinnen besser verstehen lernen. Durch die Elternvertreter besteht eine strukturierte und organisierte Verbindung zwischen Elternhaus und Schule.
+[
+    {
+        "attrs": [],
+        "content": "<strong>Elternarbeit ist ein wichtiger Baustein der</strong>",
+        "id": "_nZwy56rGf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>eigenverantwortlichen Schule!</strong>",
+        "id": "_PrLu4hk0D",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sie beinhaltet u.a.",
+        "id": "_OWgB6n5tg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "einen <strong>intensiven Dialog mit der Schulleitung und</strong>",
+        "id": "_T3ZLhBL0Z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>der Lehrerschaft, sowie</strong>",
+        "id": "_y98L8kQJv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>dem Schultr\u00e4ger.</strong>",
+        "id": "_n2yvvn9ji",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Elternarbeit ist das aktive Mitgestalten des Schullebens,",
+        "id": "_FnPQhg2kM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "z. B. im Schulvorstand",
+        "id": "_2Z7C8PbpE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "der Schule.",
+        "id": "_JqWGWMZXX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dort haben Eltern die Aufgabe, die Arbeit der",
+        "id": "_zGk0JyCos",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schule mit dem Ziel der <strong>Qualit\u00e4tsentwicklung</strong>",
+        "id": "_Fixr08dLO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>bzw. Qualit\u00e4tssteigerung </strong>zu gestalten. Um diese",
+        "id": "_W5LOKXJYV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gestaltungsm\u00f6glichkeit zu gew\u00e4hrleisten, ist eine",
+        "id": "_gYwUJd8x3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "umfassende <strong>Information und Einbindung aller</strong>",
+        "id": "_hRuUTu3Bo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Eltern </strong>notwendig. Die Kreativit\u00e4t und das Engagement",
+        "id": "_1yeWCBpiy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>aller Eltern</strong> sind gefordert, denn dies",
+        "id": "_LiBZVOwl7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "dient der Bereicherung des Schulalltags. Daher",
+        "id": "_PK5aPH11g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "sollte sich niemand scheuen, neue Ideen in die",
+        "id": "_f9sOFeWGG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "einzelnen Gremien der Schule einzubringen.",
+        "id": "_kW8YHBm25",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Elternarbeit</strong> ist notwendig f\u00fcr Eltern, weil es viele",
+        "id": "_HpGrMruC4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "schulisch unerfahrene Eltern gibt, die ein Informationsbed\u00fcrfnis",
+        "id": "_RaVrfu0oB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "haben, wenn es um Unterst\u00fctzung",
+        "id": "_Ooje13hV4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "und Vermittlung zwischen Eltern, Sch\u00fcler und",
+        "id": "_Lt2k3oQ9w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Lehrkr\u00e4ften geht.",
+        "id": "_OmVuBkyzH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Elternarbeit</strong> ist notwendig f\u00fcr Sch\u00fcler, um deren",
+        "id": "_PGyvXeKIV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Interessen zu unterst\u00fctzen und auf diese Weise das",
+        "id": "_zhVYF3iya",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>WIR-Gef\u00fchl</strong> zu st\u00e4rken.",
+        "id": "_KQJ7T48HZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Elternarbeit</strong> ist notwendig f\u00fcr Lehrkr\u00e4fte, weil sie",
+        "id": "_hjtXAZDnG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "durch ungezwungene Kontakte mit Eltern deren Lebenswelt",
+        "id": "_UZMGhPFjv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "kennen- und damit das Verhalten einzelner",
+        "id": "_N43HYAaUI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sch\u00fcler und Sch\u00fclerinnen besser verstehen lernen.",
+        "id": "_La6XKutvH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Durch die Elternvertreter besteht eine</strong>",
+        "id": "_2vQk60CBE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>strukturierte und organisierte Verbindung</strong>",
+        "id": "_8E02sq2wZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>zwischen Elternhaus und Schule.</strong>",
+        "id": "_phe8VQdpV",
+        "type": "paragraph"
+    }
+]
 
 ----
 
