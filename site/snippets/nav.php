@@ -39,6 +39,8 @@
             <div class="dropdown-menu dropdown-with-icons">     
             <a class="dropdown-item" href="<?= page('allgemeines/schulstruktur/zeitraster')->url() ?>"><i class="material-icons">timer</i>Zeitraster</a>
             <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><i class="material-icons">timer</i>Fächer</a>
+            <a class="dropdown-item" href="<?= page('allgemeines/ser/vorstand')->url() ?>"><i class="material-icons">timer</i>Schulelternrat (SER)</a>
+
 
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="<?= page('allgemeines/beratung')->url() ?>"><i class="material-icons">people_outline</i>Beratung</a>

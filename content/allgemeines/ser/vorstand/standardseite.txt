@@ -1,0 +1,60 @@
+Title: Schulelternrat
+
+----
+
+Text:
+
+Elternarbeit ist ein wichtiger Baustein der eigenverantwortlichen Schule! 
+Sie beinhaltet u.a. einen intensiven Dialog mit der Schulleitung und der Lehrerschaft, sowie dem Schulträger. Elternarbeit ist das aktive Mitgestalten des Schullebens, z. B. im Schulvorstand der Schule.
+
+Dort haben Eltern die Aufgabe, die Arbeit der Schule mit dem Ziel der Qualitätsentwicklung bzw. Qualitätssteigerung zu gestalten. Um diese
+Gestaltungsmöglichkeit zu gewährleisten, ist eine umfassende Information und Einbindung aller Eltern notwendig. Die Kreativität und das Engagement aller Eltern sind gefordert, denn dies dient der Bereicherung des Schulalltags. Daher sollte sich niemand scheuen, neue Ideen in die einzelnen Gremien der Schule einzubringen. Elternarbeit ist notwendig für Eltern, weil es viele schulisch unerfahrene Eltern gibt, die ein Informationsbedürfnis haben, wenn es um Unterstützung und Vermittlung zwischen Eltern, Schüler und Lehrkräften geht. Elternarbeit ist notwendig für Schüler, um deren Interessen zu unterstützen und auf diese Weise das WIR-Gefühl zu stärken.
+Elternarbeit ist notwendig für Lehrkräfte, weil sie durch ungezwungene Kontakte mit Eltern deren Lebenswelt kennen- und damit das Verhalten einzelner Schüler und Schülerinnen besser verstehen lernen. Durch die Elternvertreter besteht eine strukturierte und organisierte Verbindung zwischen Elternhaus und Schule.
+
+----
+
+Downloads: 
+
+----
+
+Toggle: true
+
+----
+
+Sidetitel: Mehr zum Thema
+
+----
+
+Sidebar:
+
+- 
+  link: https://www.google.de/
+  name: Das ist der erste Link
+- 
+  link: >
+    https://getkirby.com/docs/reference/templates/field-methods/to-structure
+  name: Hier geht es zu Kirby
+
+----
+
+Sidetoggle: false
+
+----
+
+Url: https://www.google.de/
+
+----
+
+Name: Zur beliebtesten Suchmaschine der Welt
+
+----
+
+Links: 
+
+----
+
+Categories:
+
+- 
+  text: Photography
+  value: photography
