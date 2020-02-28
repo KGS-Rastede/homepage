@@ -1,0 +1,164 @@
+Title: Termine
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "N\u00e4chste Termine",
+        "id": "_qFRFRe7pE",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>SER-Sitzung</strong>",
+        "id": "_Huk2LS4FR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "24.03.2020 um 19:30 Uhr in der Aula",
+        "id": "_gVQ0u44bO",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Fachkonferenzen</strong>",
+        "id": "_D6kvKHZxE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "09.03.2020: Deutsch, Mathematik",
+        "id": "_5A8kMhwFS",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "17.03.2020: Biologie, Physik, Chemie",
+        "id": "_VEknssKjl",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "20.04.2020: WI, HW, TH, DS, WE",
+        "id": "_3gwPCqasl",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "27.04.2020: Sport, Erdkunde, Politik, Geschichte",
+        "id": "_frtV1KayD",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "18.05.2020: Musik, Kunst",
+        "id": "_0b1m64fon",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Steuerungsausschuss</strong>",
+        "id": "_tN7ZelWDA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "18.02.2020 um 16:15 Uhr",
+        "id": "_W64Grw1Pg",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gesamtkonferenz</strong>",
+        "id": "_0K491Nads",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "03.03.2020 um 16:15 Uhr",
+        "id": "_hVHCs3BI2",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "19.05.2020",
+        "id": "_jD9s2aFuV",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Elternsprechtage</strong>",
+        "id": "_1AFh45dAi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "11.02.2020",
+        "id": "_Zy0PWgtDf",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Schulvorstand</strong>",
+        "id": "_ltnWWpGb2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "09.06.2020 von 17-19 Uhr",
+        "id": "_oThdnceKm",
+        "type": "ul"
+    }
+]
+
+----
+
+Downloads: 
+
+----
+
+Toggle: true
+
+----
+
+Sidetitel: Mehr zum Thema
+
+----
+
+Sidebar:
+
+- 
+  link: https://www.google.de/
+  name: Das ist der erste Link
+- 
+  link: >
+    https://getkirby.com/docs/reference/templates/field-methods/to-structure
+  name: Hier geht es zu Kirby
+
+----
+
+Sidetoggle: false
+
+----
+
+Url: https://www.google.de/
+
+----
+
+Name: Zur beliebtesten Suchmaschine der Welt
+
+----
+
+Links: 
+
+----
+
+Categories:
+
+- 
+  text: Photography
+  value: photography
