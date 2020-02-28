@@ -7,7 +7,7 @@
         <?php if($page->toggle()->bool() === true) : ?>
             <div class="row">
                 <div class="col-md-9">
-                    <div class="container"><?= $page->text()->kirbytext() ?></div>
+                    <div class="container"><?= $page->text()->blocks() ?></div>
                 </div>
                 <div class="col-md-3">
                     <div class="card">
@@ -25,7 +25,7 @@
                 </div>
             </div>
         <?php else: ?>
-            <div class="container"><?= $page->text()->kirbytext() ?></div>
+            <div class="container"><?= $page->text()->blocks() ?></div>
         <?php endif ?>
     </div>
 </div>
