@@ -10,7 +10,7 @@ columns:
         numbered: false
       text:
         label: Text
-        type: textarea
+        type: editor
   rechts:
     width: 1/3
     fields:
