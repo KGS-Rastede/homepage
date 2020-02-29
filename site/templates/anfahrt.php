@@ -2,9 +2,9 @@
 
 <?php snippet('page-header') ?>
 
+
 <div class="col-md-8 ml-auto mr-auto text-center">
     <h2 class="title"> <?= $page->main_text() ?> </h2>
-
     <h5 class="description"> <?= $page->anfahrt_text() ?> </h5>
 </div>
 
@@ -19,10 +19,11 @@
             </div>
     </div>
 </div>
+
 <div class="content">
     <div class="row">
             <div class="col-md-5 ml-auto mr-auto text-left">
-                <h5 class="description h5"> <?= $page->anfahrt_text_s1()->blocks() ?> </h5>
+                <h5 class="description"> <?= $page->anfahrt_text_s1()->blocks() ?> </h5>
             </div>
             <div class="col-md-5 ml-auto mr-auto text-auto">
                 <h5 class="description"> <?= $page->anfahrt_text_s2()->blocks() ?> </h5>
