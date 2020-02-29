@@ -7,17 +7,32 @@ sections:
   content:
     type: fields
     fields:
-      titeltext:
-        label: Titel des Schulausfalls
-        type: text
-      text:
-        label: Inhalt
-        type: textarea
-      sichtbarkeit:
-        label: Sichtbarkeit
-        type: select
+      toggle:
+        label: Banner für Schulausfall
+        type: toggle
+        text:
+          Banner inaktiv
+          Banner aktiv
+      category:
+        label: Titel des Banners
+        type: radio
+        when:
+          toggle: true
         options:
-          ja: Banner anzeigen
-          nein: Banner verstecken
-
+          sturm: Schulausfall wegen Sturm
+          eis: Schulausfall wegen Glatteis
+          regen: Schulausfall wegen Starkregen
+          heizung: Schulausfall wegen Heizungsausfall
+          eigenerTitel: Eigener Titel
+      textTitel:
+        label: Eigener Titel des Banners
+        type: text
+        when:
+          toggle: true
+          category: eigenerTitel
+      text:
+        label: Inhalt des Banners
+        type: textarea
+        when:
+          toggle: true
                 

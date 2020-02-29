@@ -1,16 +1,22 @@
 title: Default Page
 preset: page
-#columns:
-#  main:
-#    width: 2/3
-#    fields:
-#      text:
-#        label: Text
-#        type: editor
-#        size: large
-#  sidebar:
-#    width: 1/3
-#    fields:
-#      downloads:
-#        label: Verknüpfte Dateien
-#        type: files
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      text:
+        label: Text
+        type: editor
+        size: large
+  sidebar:
+    width: 1/3
+    fields:
+      downloads:
+        label: Verknüpfte Dateien
+        type: files

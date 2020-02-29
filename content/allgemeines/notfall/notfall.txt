@@ -2,15 +2,26 @@ Title: Schulausfall: Banner für die Startseite
 
 ----
 
-Titeltext: Schulausfall wegen Starkregen
+Toggle: false
+
+----
+
+Category: eigenerTitel
+
+----
+
+Texttitel: Schulausfall wegen Krankheit
 
 ----
 
 Text:
 
 Heute fällt die Schule aus. Das ist schön.
-
 Leider wird die Schule bis zum 1. Mai 2019 ausfallen, Rettungsboote stehen zur Verfügung.
+
+----
+
+Titeltext: Schulausfall wegen Starkregen
 
 ----
 

@@ -2,28 +2,144 @@ Title: Spanisch
 
 ----
 
-Heading: BTT
+Heading: ¡Aprende español!
 
 ----
 
 Text:
 
-BTT
-
-
-
-
-Spanisch ist **super**. 
-
-*öjdlökfdfg *
+[
+    {
+        "attrs": [],
+        "content": "Sei es durch K\u00fcnstler wie \u00c1lvaro Soler, die durch ihre Musik gute Laune verbreiten, Fu\u00dfballer wie Lionel Messi, oder die bekannte \u201eSiesta\u201c nach dem Mittagessen \u2013 das Spanische ist t\u00e4glich pr\u00e4sent! Da liegt es doch nahe, Spanisch zu lernen!",
+        "id": "_Xow5mWXDS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_axjg6VPXM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Spanisch als Fremdsprache</strong>",
+        "id": "_OyPaS8ykx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Weltsprache: </strong>Spanisch geh\u00f6rt neben Englisch und Mandarin zu den Top 3 der Sprachen der Welt! Es ist in 21 L\u00e4ndern auf vier Kontinenten Amtssprache und wird von 500 Millionen Menschen als Muttersprache gesprochen.",
+        "id": "_Zg6HRpQrs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Reise: </strong>Das Erlernen des Spanischen bietet die M\u00f6glichkeit, die Menschen, die Kultur und die Gewohnheiten spanischsprachiger L\u00e4nder auf authentische Weise kennen zu lernen. Immerhin ist Spanien das beliebteste Urlaubsziel der Deutschen! F\u00fcr diejenigen, die Spanisch sprechen, ist nach der Schule auch ein freiwilliges soziales Jahr im spanischsprachigen Ausland m\u00f6glich.",
+        "id": "_aslCT8oDN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wissen: </strong>Durch bereits vorhandenes Wissen im Englischen oder auch durch das Deutsche k\u00f6nnen bereits viele spanische W\u00f6rter wie <em>f\u00fatbol</em> (Fu\u00dfball), <em>informaci\u00f3n</em> (Information) und <em>bicicleta</em> (Fahrrad) verstanden werden.",
+        "id": "_pgtyr64uo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Basissprache</strong>: Wenn man Spanisch kann, f\u00e4llt einem das Erlernen einer weiteren romanischen Fremdsprache wie Franz\u00f6sisch, Portugiesisch oder Italienisch deutlich leichter, da sich grammatikalische Strukturen wiederholen und eine Vielzahl an W\u00f6rtern sehr \u00e4hnlich sind.",
+        "id": "_5BUa4cp2I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Berufsaussichten: </strong>In vielen Studieng\u00e4ngen oder Berufen ist die Kenntnis einer zweiten modernen Fremdsprache neben dem Englischen sehr erw\u00fcnscht oder sogar notwendig.",
+        "id": "_v9pet6529",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_3jjPcZGHg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Spanisch als Unterrichtsfach</strong>",
+        "id": "_KDID8DXGT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine Sprache lernt man durch Sprechen! Daher nimmt das Sprechen, sei es in Partner- oder Gruppenarbeit, einen gro\u00dfen Teil ein. Dar\u00fcber hinaus wenden die Sch\u00fclerinnen und Sch\u00fcler in Rollenspielen, die sich an allt\u00e4glichen Situationen orientieren, das Spanische an und sind somit auch f\u00fcr \u201eechte\u201c Erlebnisse im spanischsprachigen Ausland gewappnet. Neben dem Sprechen werden im Unterricht auch die Kompetenzen Leseverstehen, H\u00f6rverstehen, H\u00f6r-Seh-Verstehen, Schreiben und Sprachmittlung geschult. Hierf\u00fcr werden auch authentische Materialien wie Lieder, Comics und Kurzfilme in den Unterricht integriert.",
+        "id": "_GryOqJgds",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_P6ucOrLv0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Spanisch an der KGS Rastede</strong>",
+        "id": "_uhjf5PLmL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Erg\u00e4nzend zum Unterricht werden an der KGS Rastede weitere Aktivit\u00e4ten im Fach Spanisch durchgef\u00fchrt: In Jg. 7 findet ein Fremdsprachenvorlesewettbewerb statt und die Sch\u00fclerinnen und Sch\u00fcler des 10. bzw. 11. Jahrgangs haben die Gelegenheit, am Sch\u00fcleraustausch mit einer Schule in Madrid teilzunehmen. In Form einer AG wird die Vorbereitung auf das offizielle Sprachdiplom DELE mit Bezug zum gemeinsamen europ\u00e4ischen Referenzrahmen f\u00fcr Sprachen (GER) auf unterschiedlichen Sprachniveaus angeboten. Dar\u00fcber hinaus werden auch au\u00dferschulische Aktivit\u00e4ten einbezogen wie beispielsweise der Besuch der spanischen Schulfilmwochen im Casablanca-Kino in Oldenburg oder der World Press Photo Ausstellung im Oldenburger Landesmuseum f\u00fcr Kunst und Kulturgeschichte.",
+        "id": "_erVqC5Xyb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_368hs7cz3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "An der KGS Rastede kann Spanisch als neu einsetzende Fremdsprache folgenderma\u00dfen angew\u00e4hlt werden:",
+        "id": "_fwm1wm60q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "als zweite Fremdsprache ab Jg. 6",
+        "id": "_b4wyyflic",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "als dritte Fremdsprache ab Jg. 11",
+        "id": "_3tb1zy2z2",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "In der Qualifikationsphase der Oberstufe, also in Jg. 12 und 13, kann Spanisch auf grundlegendem Niveau belegt und als Pr\u00fcfungsfach im Abitur angew\u00e4hlt werden.",
+        "id": "_xghJ1797h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In diesem Sinne: <em>\u00a1aprende espa</em>\u00f1ol!",
+        "id": "_1lcgozlgo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Kolleginnen des Fachs Spanisch<br><em>Frau Baumgarten, Frau B\u00f6ttner, Frau Eisenmann, Frau Feller, Frau Giersch, Frau Ha\u00dfmann, Frau Kehrberg-Diaconu, Frau Straub</em>",
+        "id": "_ixE7QOI2t",
+        "type": "paragraph"
+    }
+]
 
 ----
 
-Gallery:
-
-- cs1.jpg
-- physik.jpg
-- cs2.jpg
+Gallery: 
 
 ----
 

@@ -1,0 +1,51 @@
+title: Default Page
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      pageSettings1:
+        label: Texteintrag
+        type: headline
+        numbered: false
+      text:
+        label: Text
+        type: editor
+  rechts:
+    width: 1/3
+    fields:
+      pageSettings2:
+        label: Dateien
+        type: headline
+        numbered: false
+      downloads:
+        label: Verknüpfte Dateien
+        type: files
+      pageSettings3:
+        label: Sidebar
+        type: headline
+        numbered: false
+      toggle:
+        label: Sidebar
+        type: toggle
+        text:
+          Deaktiviert
+          Aktiviert
+      sidetitel:
+        label: Titel der Sidebar
+        type: text
+        placeholder: Ähnliche Themen
+        when:
+          toggle: true
+      sidebar:
+        label: Links
+        type: structure
+        when:
+          toggle: true
+        fields:
+          link:
+            label: Link (URL)
+            type: url
+          name:
+            label: Bezeichnung des Links
+            type: text

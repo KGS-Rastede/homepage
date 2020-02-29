@@ -24,6 +24,7 @@ columns:
               ratio: 1/1
   sidebar:
     width: 1/3
+    sticky: true
     sections:
       meta:
         meta:
@@ -33,6 +34,11 @@ columns:
             label: Tag für Blogeintrag
             help: Dieser Begriff (i.d.R. der Name des Fachs) muss als 'Tag' verwendet werden, damit ein Blogeintrag auch gefunden wird
             type: text
+          hintergrundbild:
+            label: Hintergrundbild
+            type: select
+            options: query
+            query: page.images
           fotoansicht:
             label: Fotos anzeigen
             type: select

@@ -5,7 +5,7 @@
 <h2><?= $page->heading() ?></h2>
 
 <p>
-  <?= $page->text()->kirbytext() ?>
+  <?= $page->text()->blocks() ?>
 </p>
 
 <div class="row">
