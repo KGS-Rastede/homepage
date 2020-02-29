@@ -28,7 +28,7 @@
             <a class="dropdown-item" href="<?= page('kontakte/fbl')->url() ?>"><i class="material-icons">face</i>Fachbereichsleiter</a>
             <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>"><i class="material-icons">people</i>Sekretariate</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="<?= page('sv')->url() ?>"><i class="material-icons">face</i>Schülervertretung (SV)</a>
+            <a class="dropdown-item" href="<?= page('sv/die_sv')->url() ?>"><i class="material-icons">face</i>Schülervertretung (SV)</a>
             </div>
           </li>
 
