@@ -6,10 +6,28 @@ Banner:
 
 - 
   titel: Beispiel
-  textvorne: shfkd
-  datei: [ ]
+  textvorne: 'Der Flugplatz hat eine asphaltierte, rund 1200 Meter lange Start- und Landebahn (11/29), die parallel zur Nordumfahrung Tangenziale Nord (Staatsstraße 9) und zur Bahnstrecke Mailand–Bologna im Süden verläuft. Nördlich der Piste befinden sich zwei separate Vorfelder, von denen eines vorwiegend vom örtlichen Aeroclub Reggio Emilia genutzt wird, während das andere auch für den kommerziellen Flugverkehr zur Verfügung steht. Dazwischen befindet sich der Tower.  Der Flugplatz ist über die Via dell’Aeronautica an die Nordumfahrung von Reggio Emilia sowie an die alte Via Emilia (SS9) angeschlossen, über die auch die Innenstadt zu erreichen ist, unter anderem mit der Buslinie 10. Etwas mehr als einen Kilometer westlich des Flugplatzes befindet sich der Bahnhof von Reggio, rund drei Kil'
+  datei:
+    - facharbeit_fynnkunzmann.pdf
   texthinten: hrdshf
   link: https://www.google.de/
+  date-von: 2020-03-01
+  date-bis: 2020-03-01
+- 
+  titel: esfsedadaasd
+  textvorne: 'saf j fsdhxg dfjvjhdxf dxjhg xjhdxgv xjvgx fjf dxjgv ddvjxg dxfhcd gxfcx f dxf gd xfhdx  djgjd xf jh'
+  datei: [ ]
+  texthinten: ""
+  link: >
+    https://de.wikipedia.org/wiki/Flugplatz_Reggio_Emilia
+  date-von: 2020-03-01
+  date-bis: 2020-03-01
+- 
+  titel: ysxgvdxc
+  textvorne: fyxcdxfd
+  datei: [ ]
+  texthinten: ""
+  link: ""
   date-von: 2020-03-01
   date-bis: 2020-03-01
 
