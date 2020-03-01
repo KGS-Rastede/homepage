@@ -3,7 +3,9 @@
       <div class="navbar-translate">
         <!-- 
           Hier kann das Logo stehen oder der Name der Schule.
-          Müssen wir am Ende vom Design her entscheiden.      
+          Müssen wir am Ende vom Design her entscheiden.
+          
+          https://demos.creative-tim.com/material-kit-pro/docs/2.1/features/navbar-logo.html
         -->
         <a class="navbar-brand" href="<?= $site->url() ?>">
           <div class="logo-image">
