@@ -4,7 +4,6 @@
 Icon
 .DS_Store
 /site/plugins/editor/*
-/assets/*
 
 # Temporary files
 # ---------------
@@ -45,5 +44,10 @@ Icon
 /vendor
 
 /kirby
-/assets
+/assets/demo/*
+/assets/img/*
+/assets/js/*
+/assets/scss/*
+/assets/kgs.ics
+
 composer.lock
