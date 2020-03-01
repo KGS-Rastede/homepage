@@ -36,11 +36,22 @@ endif ?>
   <?php foreach (page('allgemeines/aktuelles')->banner()->toStructure() as $subpage) :  ?>
     <?php $heute = new Datetime(date('d.m.Y'));
           $eventDatum = new Datetime($subpage->dateBis()->toDate('d.m.Y'));
-          $diff = $eventDatum->diff($heute); ?>
-          <h1><?php $diff ?></h1>
-      <?php if($diff > 0) : ?>
-      <?php snippet('rotier-knopf', ['subpage' => $subpage]) ?>
-      <?php endif ?>
+          $diff = $eventDatum->diff($heute);
+          echo $diff->days; ?>
+          <?php if ($subpage->dateBis()->toDate('Y-m-d') > date('Y-m-d')) :
+          echo "This project is in the past";
+          snippet('rotier-knopf', ['subpage' => $subpage]);
+          endif ?>
+          <?php if ($subpage->dateBis()->toDate('Y-m-d') < date('Y-m-d')) :
+          echo "This project is in the future";
+          endif ?>
+          <?php if ($subpage->dateBis()->toDate('Y-m-d') > date('Y-m-d') && $subpage->dateBis()->toDate('Y-m-d') <= date('Y-m-d')) :
+          echo "This project is current";
+          snippet('rotier-knopf', ['subpage' => $subpage]);
+          endif ?>
+          <?php if($subpage->dateBis()->toDate('d.m.Y') < date('d.m.Y')) : ?>
+            <?php snippet('rotier-knopf', ['subpage' => $subpage]) ?>
+          <?php endif ?>
   <?php endforeach ?>
 </row>
 <!-- -->

@@ -5,7 +5,7 @@ Title: Banner für aktuelle Ereignisse
 Banner:
 
 - 
-  titel: Beispiel
+  titel: zukunft
   text: >
     ysfgd g xfgd gfg fodskfhu xdjfhd f
     dhfiudfd sdfgdf
@@ -14,3 +14,17 @@ Banner:
   link: https://www.google.de/
   datevon: 2020-03-01
   datebis: 2020-03-05
+- 
+  titel: past
+  text: gfdscg
+  datei: [ ]
+  link: ""
+  datevon: 2020-02-19
+  datebis: 2020-02-29
+- 
+  titel: heute
+  text: sdsdfd
+  datei: [ ]
+  link: ""
+  datevon: 2020-03-01
+  datebis: 2020-03-01
