@@ -1,4 +1,17 @@
-Title: Elternsprechtag
+Title: Banner für aktuelle Ereignisse
+
+----
+
+Banner:
+
+- 
+  titel: Beispiel
+  textvorne: shfkd
+  datei: [ ]
+  texthinten: hrdshf
+  link: https://www.google.de/
+  date-von: 2020-03-01
+  date-bis: 2020-03-01
 
 ----
 

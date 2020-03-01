@@ -2,71 +2,33 @@ title: Aktuelles für die Startseite
 num: '{{ page.date.toDate("Ymd") }}'
 icon: 📖
 
-columns:
-  main:
-    width: 2/3
-    sections:
-      content:
-        type: fields
-        fields:
-          heading:
-            type: text
-            label: Untertitel
-          vorne:
-            label: Inhalt
-            type: text
-          hinten:
-            label: Inhalt
-            type: text
-          gallery:
-            type: files
-            label: Fotos für den Artikel
-            help: Hier nur Fotos, KEINE PDF-Dateien
-            layout: cards
-            image:
-              cover: true
-              ratio: 1/1
-  sidebar:
-    width: 1/3
-    sections:
-      meta:
-        meta:
-        type: fields
-        fields:
-          date-von:
-            label: Veröffentlicht von...
-            type: date
-            time: false
-            default: now
-
-          date-bis:
-            label: Veröffentlicht bis...
-            type: date
-            time: false
-            default: now
-
-          Startseite:
-              label: Startseite
-              type: toggle
-              text: Als rotierende Karte anzeigen
-
-          author:
-            type: text
-            label: Name des Autors
-            help: Was hier steht taucht 1:1 im Artikel als Name auf
-
-          weiterleitung:
-            label: URL
-            type: url
-            help: Link zu weiterführender Info, z.B. einem Artikel
-
-          line:
-            type: line
-
-          downloads:
-            label: Zugehörige Dateien
-            help: Hier können beliebige Dateien für den Download bereitgestellt werden
-            type: files
-
-        
-      
+fields:
+  banner:
+    label: Banner
+    type: structure
+    fields:
+      titel:
+        label: Titel
+        type: text
+      textvorne:
+        label: Text vorne
+        type: text
+      datei:
+        label: Datei
+        type: files
+      texthinten:
+        label: Text hinten
+        type: text
+      link:
+        label: Link
+        type: url
+      date-von:
+        label: Veröffentlicht von...
+        type: date
+        time: false
+        default: now
+      date-bis:
+        label: Veröffentlicht bis...
+        type: date
+        time: false
+        default: now
