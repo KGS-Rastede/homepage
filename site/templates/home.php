@@ -30,21 +30,12 @@ endif ?>
 <?php endif ?>
         
 
-
-
+<!-- Rotierknopf bspw für Elternsprechtag -->
 
 <div class="row">
-
-  <?php foreach (page('allgemeines')->children()->filterBy('startseite', true) as $subpage) :  ?>
-    
-    <?php snippet('rotier-knopf', [
-      'subpage' => $subpage
-    ]) ?>
-
-
+  <?php foreach (page('allgemeines/aktuelles')->banner()->toStructure() as $subpage) :  ?>
+    <?php snippet('rotier-knopf', ['subpage' => $subpage]) ?>
   <?php endforeach ?>
-
-
 </row>
 
 
