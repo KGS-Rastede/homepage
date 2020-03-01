@@ -1,8 +1,16 @@
 <nav class="navbar navbar-color-on-scroll navbar-transparent    fixed-top  navbar-expand-lg " color-on-scroll="100" id="sectionsNav">
     <div class="container">
       <div class="navbar-translate">
+        <!-- 
+          Hier kann das Logo stehen oder der Name der Schule.
+          Müssen wir am Ende vom Design her entscheiden.      
+        -->
         <a class="navbar-brand" href="<?= $site->url() ?>">
-          KGS Rastede </a>
+          <div class="logo-image">
+            <img src="<?= $kirby->url('assets') ?>/logo-kgs-mini.jpg" class="img-fluid">        
+          </div>
+          <!-- KGS Rastede -->
+        </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="sr-only">Toggle navigation</span>
           <span class="navbar-toggler-icon"></span>
