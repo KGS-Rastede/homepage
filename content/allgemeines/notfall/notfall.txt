@@ -2,7 +2,7 @@ Title: Schulausfall: Banner für die Startseite
 
 ----
 
-Toggle: false
+Toggle: true
 
 ----
 
