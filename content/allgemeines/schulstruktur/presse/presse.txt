@@ -2,78 +2,65 @@ Title: Neues aus der Presse
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Schulbusverkehr",
-        "id": "_pTGrEHlNz",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "Kontakt",
-        "id": "_E65HiW0XM",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "EMail: <a href=\"mailto:schulbus@kgs-rastede.de\">schulbus@kgs-rastede.de</a>",
-        "id": "_3EhVqlpZB",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_52s9vx7lo",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Weitere Informationen",
-        "id": "_6SwnKvGxA",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Anfragen zum Schulbusverkehr werden \u00fcber einen Verteiler an die zust\u00e4ndigen Stellen weitergeleitet. Die Emailadresse lautet: <a href=\"mailto:schulbus@kgs-rastede.de\">schulbus@kgs-rastede.de</a>",
-        "id": "_y3axG1Dp5",
-        "type": "paragraph"
-    }
-]
-
-----
-
-Toggle: true
-
-----
-
 Sidebar:
 
 - 
-  link: https://www.vwg.de/
-  name: Homepage der VWG
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-schulsportassistenten-in-rastede-schueler-sorgen-fuer-mehr-bewegung-in-der-pause_a_50,7,2042445073.html
+  name: >
+    Schüler sorgen für mehr Bewegung in
+    der Pause
+  anfang: >
+    Die Wischbewegung auf dem Handy ist die
+    einzige Bewegung, die Schüler
+    regelmäßig ausführen. Damit sich das
+    ändert, sollen an der KGS Rastede jetzt
+    erstmals Schulsportassistenten neue
+    Impulse geben.
+  datum: 2020-03-02
+  zeitung: nwz
 - 
-  link: https://www.yahoo.com
-  name: ""
-
-----
-
-Link: https://www.heise.de
-
-----
-
-Name: 
-
-----
-
-Downloads: 
-
-----
-
-Sidetitel: Links zum Schulbusnetz
-
-----
-
-Heading: Übersicht über die Stunden
+  link: >
+    https://www.nwzonline.de/bildung-beruf/oldenburg-im-nordwesten-technik-in-acht-minuten-in-die-sichere-zone_a_50,7,1903410453.html
+  name: In acht Minuten in die sichere Zone
+  anfang: >
+    Die Aula des Herbartgymnasiums ist voll.
+    Schüler sitzen an ihren Laptops,
+    zwischen ihnen Setzkästen gefüllt mit
+    Rädern und Bausteinen. Es wird
+    justiert, gebaut, neu programmiert.
+    Alles, damit die Roboter ihren Weg durch
+    das Labyrinth erfolgreich bewältigen.
+  datum: 2020-02-28
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/rote-haende-erinnern-an-schicksal-von-kindersoldaten_a_50,7,1598435470.html
+  name: >
+    Rote Hände erinnern an Schicksal von
+    Kindersoldaten
+  anfang: >
+    Das Schicksal von Kindersoldaten
+    überall auf der Welt hat die
+    Schülerinnen und Schüler der
+    Unesco-Schule Gymnasium Bad
+    Zwischenahn-Edewecht an zwei
+    Projekttagen beschäftigt. Die
+    Schülerinnen der
+    Unesco-Arbeitsgemeinschaft hatten die
+    Tage rund um den „Red Hand Day“ am
+    12. Februar vorbereitet.
+  datum: 2020-02-21
+  zeitung: nwz
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/12/06/weihnachtskonzert-in-der-aula-der-kgs/
+  name: ' Weihnachtskonzert in der Aula der KGS'
+  anfang: >
+    Zum ersten Mal gibt der GospelChor
+    baseline ein Weihnachtskonzert in
+    Rastede. Termin ist der 8. Dezember. Es
+    wird kein Eintritt erhoben, aber der
+    Chor freut sich über Spenden.
+  datum: 2019-12-06
+  zeitung: rastederrundschau
