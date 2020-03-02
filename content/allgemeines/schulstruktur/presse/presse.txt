@@ -45,15 +45,7 @@ Text:
 
 ----
 
-Downloads: 
-
-----
-
 Toggle: true
-
-----
-
-Sidetitel: Links zum Schulbusnetz
 
 ----
 
@@ -62,6 +54,25 @@ Sidebar:
 - 
   link: https://www.vwg.de/
   name: Homepage der VWG
+- 
+  link: https://www.yahoo.com
+  name: ""
+
+----
+
+Link: https://www.heise.de
+
+----
+
+Name: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: Links zum Schulbusnetz
 
 ----
 
