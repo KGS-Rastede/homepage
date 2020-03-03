@@ -71,29 +71,5 @@ foreach ($list as $item): ?>
   </ul>
 </nav>
 
-<!-- hier nun die Anleitung aus Bootstrap -->
-
-<nav aria-label="presse-navigation">
-  <ul class="pagination">
-
-    <?php 
-    // `toStructure()` erzeugt einen Iterator fuer die URLs
-    $items = $page->pressenachrichten()->toStructure();
-
-    $i = 0;
-
-    // die 4 ist nur zum testen, das muss natürlich über die URL gehen
-    foreach ($items->paginate(8) as $item): $i++ ?>
-        <?php if ($i== 4) : ?>
-          <li class="page-item active"><a class="page-link" href="#"><?= $i ?></a></li>
-        <?php else : ?>
-          <li class="page-item"><a class="page-link" href="#"><?= $i ?></a></li>
-        <?php endif ?>
-
-    <?php endforeach ?>
-
-  </ul>
-</nav>
-
 
 <?php snippet('footer') ?>
