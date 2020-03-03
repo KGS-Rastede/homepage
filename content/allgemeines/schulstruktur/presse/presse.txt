@@ -111,3 +111,54 @@ Pressenachrichten:
     Reicht diese aus?
   datum: 2020-02-17
   zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-praevention-an-kgs-rastede-kampf-gegen-drogenmissbrauch_a_50,5,2713602491.html
+  name: Kampf gegen Drogenmissbrauch
+  anfang: >
+    Alkohol und Zigaretten, Diebstahl und
+    Drogenmissbrauch – in der KGS Rastede
+    geht es in dieser Woche um Prävention.
+    Auch Eltern sollen geschult werden.
+  datum: 2019-08-23
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-pro-und-contra-zu-wasserspendern-notwendigkeit-oder-luxusproblem_a_50,7,1478863499.html
+  name: >
+    Pro Und Contra Zu Wasserspendern
+    Notwendigkeit oder Luxusproblem?
+  anfang: >
+    CDU und Grüne in der Gemeinde Rastede
+    wollten alle Schulen mit
+    Trinkwasserspendern versorgen – was
+    bis zu 50.000 Euro in fünf Jahren
+    kosten könnte. Ein sinnvoller
+    Vorschlag?
+  datum: 2020-02-19
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kultur/rastede-medienpaedagoge-an-kgs-rastede-gehirnwaesche-mit-den-mitteln-des-films_a_50,7,934886379.html
+  name: ' Gehirnwäsche mit den Mitteln des Films'
+  anfang: >
+    Wie werden Ideologien in Spielfilmen
+    transportiert? Und wie werden die
+    Zuschauer dadurch manipuliert? Darüber
+    diskutierte ein Medienpädagoge mit
+    Schülern der Rasteder KGS.
+  datum: 2020-02-17
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/lokalsport/rastede-basketball-unterm-korb-mit-den-dribbel-profis_a_50,6,2217642935.html
+  name: Unterm Korb mit den Dribbel-Profis
+  anfang: >
+    Zwei Profispieler des
+    Basketballbundesligisten EWE Baskets
+    Oldenburg waren am Mittwoch zu Gast in
+    Rastede. Für die Schüler hatten sie
+    sogar mehr im Gepäck als nur ein paar
+    neue Tricks.
+  datum: 2020-02-15
+  zeitung: nwz
