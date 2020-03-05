@@ -54,45 +54,6 @@ Pressenachrichten:
   zeitung: nwz
 - 
   link: >
-    https://rasteder-rundschau.de/2019/12/06/weihnachtskonzert-in-der-aula-der-kgs/
-  name: ' Weihnachtskonzert in der Aula der KGS'
-  anfang: >
-    Zum ersten Mal gibt der GospelChor
-    baseline ein Weihnachtskonzert in
-    Rastede. Termin ist der 8. Dezember. Es
-    wird kein Eintritt erhoben, aber der
-    Chor freut sich über Spenden.
-  datum: 2019-12-06
-  zeitung: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2017/06/02/tv-schuelerquiz-kgs-rastede-eine-runde-weiter/
-  name: ' TV-Schülerquiz: KGS Rastede eine Runde weiter'
-  anfang: >
-    Die 7e3 der KGS und Maskottchen Banane
-    „Fred“ ziehen bei Deutschlands
-    größtem Schülerquiz ins Wochenfinale
-    ein. Weiter geht es heute um 19.30 Uhr
-    im Fernsehsender KiKA
-  datum: 2017-06-02
-  zeitung: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2018/09/27/chance-azubi-in-der-kgs-rastede/
-  name: ' Chance Azubi in der KGS Rastede '
-  anfang: >
-    Auch in diesem Jahr fand an der KGS
-    Rastede wieder eine Ausbildungsmesse des
-    Vereins „Chance Azubi“ statt. 19
-    Aussteller hatten im Foyer der Schule
-    ihre Stände aufgebaut. Mehr als 200
-    Schüler und Schülerinnen informierten
-    sich über die verschiedenen
-    Ausbildungsmöglichkeiten.
-  datum: 2018-09-27
-  zeitung: rastederrundschau
-- 
-  link: >
     https://www.nwzonline.de/ammerland/gegen-rassismus_a_50,7,1513482766.html
   name: Gegen Rassismus
   anfang: '„Wie die Schule den Rassismus zum Stolpern bringen kann“: Unter dieser Überschrift stand ein Vortrag, den Hanna Wachholz (links) und Veronika Dinter von der AG „Für den Frieden“ der Kooperativen Gesamtschule Rastede jetzt an der IGS Flötenteich in Oldenburg hielten. Die IGS möchte so wie die KGS Rastede den Titel einer „Schule ohne Rassismus – Schule mit Courage“ tragen.'
@@ -171,9 +132,82 @@ Pressenachrichten:
   zeitung: nwz
 - 
   link: >
-    https://www.rasteder-rundschau.de/2018/01/03/lesefoerderung-wird-an-der-kgs-gross-geschrieben/
+    https://rasteder-rundschau.de/2019/12/06/weihnachtskonzert-in-der-aula-der-kgs/
+  name: ' Weihnachtskonzert in der Aula der KGS '
+  anfang: >
+    Zum ersten Mal gibt der GospelChor
+    baseline ein Weihnachtskonzert in
+    Rastede. Termin ist der 8. Dezember. Es
+    wird kein Eintritt erhoben, aber der
+    Chor freut sich über Spenden.
+  datum: 2019-12-06
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/07/10/grundsanierung-an-der-kgs/
+  name: ' Grundsanierung an der KGS '
+  anfang: >
+    Aula und Toiletten der Schule werden zur
+    Baustelle
+  datum: 2019-07-10
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/07/04/der-dirigent-der-kgs-verabschiedet-sich/
+  name: Der Dirigent der KGS verabschiedet sich
+  anfang: >
+    Gerd Kip geht nach 17 Jahren als
+    Schulleiter in Rastede in den Ruhestand
+  datum: 2019-07-04
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/05/06/kgs-bietet-unternehmen-zusammenarbeit-an/
+  name: KGS bietet Unternehmen Zusammenarbeit an
+  anfang: >
+    Die Praktikumswochen an der KGS sind
+    vorbei. Nun möchte die Schule den
+    Kontakt zu Firmen intensivieren.
+  datum: 2019-05-06
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/12/19/kgs-erweiterungsbau-erst-im-januar-fertig/
   name: >
-     Leseförderung wird an der KGS groß
+    KGS-Erweiterungsbau erst im Januar
+    fertig
+  anfang: >
+    Aufgrund teils erheblicher
+    Terminverzögerungen durch die am Bau
+    beteiligten Firmen kann das neue
+    Schulgebäude an der Wilhelmstraße erst
+    im Januar in Betrieb genommen werden
+  datum: 2018-12-19
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/09/27/chance-azubi-in-der-kgs-rastede/
+  name: ' Chance Azubi in der KGS Rastede '
+  anfang: >
+    Schüler bekamen Informationen über
+    Ausbildungsmöglichkeiten aus erster
+    Hand
+  datum: 2018-09-27
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/01/04/kgs-cafeteria-braucht-unterstuetzung/
+  name: ' KGS-Cafeteria braucht Unterstützung '
+  anfang: >
+    Der Förderverein der Schule startet
+    einen dringenden Aufruf
+  datum: 2018-01-04
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/01/03/lesefoerderung-wird-an-der-kgs-gross-geschrieben/
+  name: >
+    Leseförderung wird an der KGS groß
     geschrieben
   anfang: >
     Der Förderverein der KGS unterstützt
@@ -183,13 +217,845 @@ Pressenachrichten:
   zeitung: rastederrundschau
 - 
   link: >
-    https://www.rasteder-rundschau.de/2019/05/06/kgs-bietet-unternehmen-zusammenarbeit-an/
-  name: >
-    KGS bietet Unternehmen Zusammenarbeit
-    an
+    https://rasteder-rundschau.de/2017/07/18/startschuss-fuer-kgs-anbau/
+  name: ' Startschuss für KGS-Anbau '
   anfang: >
-    Die Praktikumswochen an der KGS sind
-    vorbei. Nun möchte die Schule den
-    Kontakt zu Firmen intensivieren.
-  datum: 2019-05-06
+    Gestern rollten die Bagger an, es war
+    der Startschuss für den KGS-Anbau an
+    der Wilhelmstraße. Fünf zusätzliche
+    Klassenräume wird das neue Gebäude
+    beherbergen, die Kosten belaufen sich
+    auf rund 2,52 Millionen Euro.
+  datum: 2017-07-18
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2017/06/08/morgen-steigt-die-grosse-kgs-feier/
+  name: ' Morgen steigt die große KGS-Feier '
+  anfang: >
+    Am 9. Juni findet zum ersten Mal seit 15
+    Jahren wieder ein Schulfest aller
+    KGS-Jahrgangsstufen am Schulstandort
+    Wilhelmstraße statt. Das 40-jährige
+    Jubiläum der Gesamtschule ist zwar der
+    Anlass für die Feier, soll aber nicht
+    im Mittelpunkt stehen.
+  datum: 2017-06-08
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2017/06/02/tv-schuelerquiz-kgs-rastede-eine-runde-weiter/
+  name: ' TV-Schülerquiz: KGS Rastede eine Runde weiter '
+  anfang: >
+    Die 7e3 der KGS und Maskottchen Banane
+    „Fred“ ziehen bei Deutschlands
+    größtem Schülerquiz ins Wochenfinale
+    ein. Weiter geht es heute um 19.30 Uhr
+    im Fernsehsender KiKA
+  datum: 2017-06-02
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2017/05/24/wechsel-im-vorstand-des-kgs-foerdervereins/
+  name: >
+    Wechsel im Vorstand des
+    KGS-Fördervereins
+  anfang: >
+    Bernd Wüstenbecker und Petra Kickler
+    übernehmen den Vorsitz, Fritz
+    Sundermann bleibt Schriftführer
+  datum: 2017-05-24
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2017/04/27/kgs-rastede-hat-grund-zum-feiern/
+  name: ' KGS Rastede hat Grund zum Feiern '
+  anfang: >
+    Am 9. Juni findet zum ersten Mal seit 15
+    Jahren ein großes Schulfest aller
+    KGS-Jahrgangsstufen am Schulstandort
+    Wilhelmstraße statt. Das 40-jährige
+    Jubiläum der Gesamtschule ist zwar der
+    Anlass für die Feier, soll aber nicht
+    im Mittelpunkt stehen.
+  datum: 2017-04-27
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2016/12/19/hundebesuch-in-der-kgs/
+  name: ' Hundebesuch in der KGS '
+  anfang: >
+    Annelie Bruns vom Verein „Tiere helfen
+    Menschen“ war mit ihrer Hündin Amelie
+    in den 5. Klassen zu Gast
+  datum: 2016-12-19
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2016/07/29/massnahme-gegen-raumnot-an-der-kgs/
+  name: ' Maßnahme gegen Raumnot an der KGS '
+  anfang: >
+    Heute wurden die beiden Containerklassen
+    für den Schulstandort Wilhelmstraße
+    angeliefert
+  datum: 2016-07-29
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2016/07/19/sozialarbeiterstelle-fuer-die-kgs-rastede/
+  name: >
+    Sozialarbeiterstelle für die KGS
+    Rastede
+  anfang: >
+    Die Landesschulbehörde hat 500 Stellen
+    für Sozialarbeit an Schulen
+    ausgeschrieben. Auch für den Landkreis
+    Ammerland sind sieben Stellen
+    vorgesehen.
+  datum: 2016-07-19
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2016/05/23/einsatz-des-ammerlaender-gefahrgutzugs-an-der-kgs/
+  name: >
+    Einsatz des Ammerländer Gefahrgutzugs
+    an der KGS
+  anfang: >
+    In einem großangelegten Szenario wurde
+    zum Thema Strahlenschutz geübt
+  datum: 2016-05-23
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2016/04/13/raumnot-an-der-kgs-und-der-schule-kleibrok/
+  name: >
+    Raumnot an der KGS und der Schule
+    Kleibrok
+  anfang: >
+    An der KGS Wilhelmstraße gibt es
+    Raumbedarf, hier sollen nun zwei
+    Containerklassen aufgestellt werden.
+    Dafür stimmte gestern der
+    Schulausschuss. Auch an der Schule
+    Kleibrok wird es eng, hier will man
+    vorübergehend mit vier Containerklassen
+    gegensteuern.
+  datum: 2016-04-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2016/04/04/schnuppertage-an-der-kgs/
+  name: ' Schnuppertage an der KGS '
+  anfang: >
+    Grundschüler lernen weiterführende
+    Schulen kennen
+  datum: 2016-04-04
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2015/06/10/endlich-wieder-klassenfahrten-an-der-kgs/
+  name: >
+    Endlich wieder Klassenfahrten an der
+    KGS?
+  anfang: >
+    Nachdem die verordnete Stunde Mehrarbeit
+    für Gymnasiallehrer per
+    Gerichtsentscheid als nicht zulässig
+    erklärt wurde, wird das Rasteder
+    Kollegium erneut über den Beschluss zur
+    Streichung der Klassenfahrten beraten
+  datum: 2015-06-10
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2015/02/13/kulturabend-der-kgs/
+  name: >
+    Theater, Musik und viel Applaus beim
+    Kulturabend der KGS
+  anfang: ""
+  datum: 2015-01-02
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/28/ein-hauch-von-silicon-valley/
+  name: ' Ein Hauch von Silicon Valley '
+  anfang: >
+    Beim RoboCup Nordwest präsentieren
+    Schülerinnen und Schüler ihre
+    selbstgebauten intelligenten Roboter.
+    Auch die KGS Rastede macht wieder mit.
+    Heute entscheidet sich, wer im April zum
+    Bundeswettbewerb nach Magdeburg fährt.
+  datum: 2020-02-28
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/24/karneval-in-rastede/
+  name: ' Karneval in Rastede '
+  anfang: >
+    Die 5. und 6. Jahrgänge der KGS Rastede
+    feierten ein buntes Faschingsfest in der
+    Mehrzweckhalle an der Feldbreite
+  datum: 2020-02-24
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/17/neubau-zunaechst-nicht-geplant/
+  name: ' Neubau zunächst nicht geplant '
+  anfang: >
+    Anders als ursprünglich vorgesehen,
+    soll der Mu-Ku-Bi-Trakt
+    (musisch-kulturelle Bildung) der KGS
+    Wilhelmstraße nicht neu gebaut werden.
+    Grund sind die hohen Investitionskosten
+    von mehr als 15 Millionen Euro.
+  datum: 2020-02-17
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/13/welche-investitionen-sind-unverzichtbar/
+  name: Welche Investitionen sind unverzichtbar?
+  anfang: 'Nach dem Weckruf der Verwaltung ist klar: Die Gemeinde muss sich einschränken beim Geldausgeben. Erster Gemeinderat Günter Henkel stellte dem Bauausschuss Maßnahmen vor, die aus Verwaltungssicht Vorrang haben sollten.'
+  datum: 2020-02-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/11/die-schoenen-zeiten-sind-vorbei/
+  name: ' „Die schönen Zeiten sind vorbei!“ '
+  anfang: >
+    Voraussichtlich ab 2021 wird der
+    Kreditbedarf der Gemeinde Rastede massiv
+    ansteigen. Die Verwaltung habe schon
+    Schweiß auf der Stirn, sagte Erster
+    Gemeinderat Günter Henkel im
+    Finanzausschuss, und fordert die Politik
+    zum Umdenken auf.
+  datum: 2020-02-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/01/07/moebel-kunst-und-kammerkonzert-pop/
+  name: ' Möbel-Kunst und Kammerkonzert-Pop '
+  anfang: 'Von Michael Jackson bis Wohndesign: Der Kunst- und Kulturkreis Rastede (KKR) stellt sein aktuelles Halbjahresprogramm vor. Der Vorverkauf hat bereits begonnen.'
+  datum: 2020-01-07
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/12/13/gemuetliche-stimmung-im-weihnachtsdorf/
+  name: ' Gemütliche Stimmung im Weihnachtsdorf '
+  anfang: >
+    An diesem Wochenende, 13. bis 15.
+    Dezember, ist wieder Weihnachtsmarktzeit
+    auf dem Kögel-Willms-Platz in Rastede.
+    Serviert werden nicht nur gebrannte
+    Mandeln und Punsch, sondern erneut ein
+    abwechslungsreiches Programm. Los geht
+    es am heutigen Freitag um 16 Uhr mit der
+    Grundschule Leuchtenburg.
+  datum: 2019-12-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/12/12/pink-floyd-in-rastede/
+  name: ' Pink Floyd in Rastede '
+  anfang: >
+    Die Pink Floyd-Tribute Band tritt am
+    kommenden Samstag, 14. Dezember, in der
+    KGS-Aula auf. Beginn des Konzerts ist um
+    20 Uhr.
+  datum: 2019-12-12
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/12/05/keine-grossen-spruenge-aber-auch-keine-kredite/
+  name: >
+    Keine großen Sprünge, aber auch keine
+    Kredite
+  anfang: >
+    Der Finanzausschuss beschäftigte sich
+    mit dem überarbeiteten Haushaltsentwurf
+  datum: 2019-12-05
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/12/05/training-einmal-etwas-anders/
+  name: ' Training einmal etwas anders '
+  anfang: >
+    Schülerinnen und Schüler der KGS
+    Rastede trainierten mit zwei
+    Basketballprofis der EWE Baskets
+    Oldenburg
+  datum: 2019-12-05
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/11/25/wiehnachten-dor-mookst-du-wat-mit/
+  name: >
+    „Wiehnachten – dor mookst du wat
+    mit!“
+  anfang: >
+    Am 13. Dezember ist der bekannte Autor
+    und Radiomoderator Gerd Spiekermann mit
+    seinem Weihnachtsprogramm zu Gast in der
+    KGS-Aula in Rastede. Die rasteder
+    rundschau verlost Eintrittskarten.
+  datum: 2019-11-25
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/11/14/ein-wagnis-und-ein-abenteuer/
+  name: ' Ein Wagnis und ein Abenteuer '
+  anfang: >
+    „Adressat unbekannt“ heißt die
+    Szenische Lesung, die die Klasse 11b der
+    KGS Rastede am 24. November in der
+    St.-Ulrichs-Kirche präsentiert. Die
+    literarische Vorlage war 1938 als
+    Briefroman erschienen und spielt in den
+    Monaten um Hitlers Machtergreifung. Das
+    Thema sei leider sehr aktuell, sagen die
+    Schülerinnen und Schüler.
+  datum: 2019-11-14
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/11/12/sie-halten-ihre-gebaeude-in-schuss/
+  name: „Sie halten Ihre Gebäude in Schuss“
+  anfang: >
+    Positiv bewertete Ralf von Dzwonkowski,
+    Kommunalbetreuer bei der EWE Netz GmbH,
+    den Energiebericht der Gemeinde Rastede,
+    den er gestern im Bauausschuss
+    vorstellte. Gerd Langhorst (Grüne)
+    warnte davor, die Hände in den Schoß
+    zu legen.
+  datum: 2019-11-12
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/11/07/wie-wollen-sie-das-finanzieren/
+  name: ' „Wie wollen Sie das finanzieren?“ '
+  anfang: 'Die Verwaltung stellte dem Finanz- und Wirtschaftsausschuss den Entwurf des Haushaltsplans 2020 vor. Der Haushalt ist ausgeglichen – „das haben wir hinbekommen“, sagte Kämmerer Michael Hollmeyer. Sorgen bereiten die hohen Investitionssummen und steigende Schulden.'
+  datum: 2019-11-07
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/10/18/fridays-for-future-macht-auch-in-rastede-weiter/
+  name: >
+    „Fridays for Future“ macht auch in
+    Rastede weiter
+  anfang: >
+    Am 29. November will die Bewegung erneut
+    demonstrieren. Auch die „Fridays for
+    Future“-Aktiven in Rastede machen mit
+    und laden vorab zum Treffen ins Bistro
+    am Bahnhof (BAB) ein. Termin ist der
+    kommende Dienstag, 22. Oktober.
+  datum: 2019-10-18
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/10/15/elegante-unterhaltung-zum-jahreswechsel/
+  name: Elegante Unterhaltung zum Jahreswechsel
+  anfang: 'Zum 12. Mal findet 2020 das Neujahrskonzert des Kunst- und Kulturkreises Rastede (KKR) statt. Am 3. und 4. Januar ist das Neue Salonorchester Leipzig in der Aula der KGS zu erleben.'
+  datum: 2019-10-15
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/09/20/klimastreik-autos-aus/
+  name: ' Klimastreik: „Autos aus!“ '
+  anfang: >
+    Heute findet der dritte globale
+    Klimastreik statt. In fast 160 Staaten
+    gehen Menschen für mehr Klimaschutz auf
+    die Straße. Auch in Rastede wird wieder
+    demonstriert.
+  datum: 2019-09-20
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/08/22/sommerfest-im-ateliergarten-2/
+  name: ' Sommerfest im Ateliergarten '
+  anfang: >
+    Am Wochenende, 24. und 25. August, lädt
+    die Designerin Eva Christine Cordes
+    interessierte Besucher in ihr Atelier
+    für Hüte und Kostüme, An der Bleiche
+    11, ein
+  datum: 2019-08-22
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/08/21/kometen-monde-und-sterntaler/
+  name: ' Kometen, Monde und Sterntaler '
+  anfang: >
+    Michael Büker liest im Evangelischen
+    Bildungshaus Rastede. Vorab stellt die
+    Rastederin Astrid F. Schneider ihre
+    Kurzgeschichte „Der
+    Sterntalereffekt“ vor.
+  datum: 2019-08-21
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/08/19/rasteder-schulen-profitieren-vom-digitalpakt/
+  name: >
+    Rasteder Schulen profitieren vom
+    Digitalpakt
+  anfang: >
+    Die Schulen im Ammerland sollen fast
+    sechs Millionen Euro Förderung vom Land
+    erhalten. Für die Schulen in Rastede
+    können je 30 000 Euro beantragt werden.
+  datum: 2019-08-19
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/08/12/sommerfest-im-ateliergarten/
+  name: ' Sommerfest im Ateliergarten '
+  anfang: >
+    Am Wochenende, 24. und 25. August, lädt
+    die Designerin Eva Christine Cordes
+    interessierte Besucher in ihr Atelier
+    für Hüte und Kostüme, An der Bleiche
+    11, ein
+  datum: 2019-08-12
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/08/08/ferienzeit-wird-fuer-erforderliche-sanierungsarbeiten-genutzt/
+  name: >
+    Ferienzeit wird für erforderliche
+    Sanierungsarbeiten genutzt
+  anfang: >
+    Die Gemeinde Rastede investiert in
+    diesem Sommer über 500 000 Euro in die
+    KGS
+  datum: 2019-08-04
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/06/28/erste-huerde-in-richtung-zukunft-genommen/
+  name: >
+    Erste Hürde in Richtung Zukunft
+    genommen
+  anfang: 'Die Haupt- und Realschüler der KGS erhielten gestern ihre Abschlusszeugnisse'
+  datum: 2019-06-28
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/06/27/englisch-ist-doch-easy/
+  name: ' Englisch? – ist doch easy! '
+  anfang: >
+    Die KGS Rastede schneidet beim
+    Englischwettbewerb „The Big
+    Challenge“ sehr gut ab
+  datum: 2019-06-27
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/06/23/ein-himmel-aus-perlen-und-bastelglitzer/
+  name: Ein Himmel aus Perlen und Bastelglitzer
+  anfang: >
+    Heute Vormittag wurde der Kunstpreis der
+    Gemeinde Rastede an Matthias Langer für
+    seine dreiteilige Fotoarbeit
+    „Sternenhimmel“ verliehen. Langer
+    hat sich aus Dingen wie Perlen und
+    Schrauben einen eigenen Kosmos von
+    verblüffender Präzision geschaffen.
+    Den Jugendkunstpreis erhielt Johannes
+    Maximilian Ahlers für sein mehrteiliges
+    Objekt „Dunkle Nacht“, das seine
+    Transsexualität thematisiert.
+  datum: 2019-06-23
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/06/20/von-sternen-und-strassenfluchten/
+  name: ' Von Sternen und Straßenfluchten '
+  anfang: >
+    Am kommenden Sonntag, 23. Juni, wird der
+    Kunstpreis der Gemeinde Rastede
+    vergeben. Die Preisverleihung findet ab
+    11.15 Uhr in der Neuen Aula der KGS
+    statt. Anschließend wird die
+    Ausstellung im Palais besucht.
+  datum: 2019-06-20
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/05/21/intuitiv-richtig-geholfen/
+  name: ' Intuitiv richtig geholfen '
+  anfang: >
+    Zwölf Gruppen und vierzig Helfer nahmen
+    am Kreiswettbewerb des Jugend-Rot-Kreuz
+    in Rastede teil
+  datum: 2019-05-21
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/05/09/erster-platz-fuer-eine-plakatserie/
+  name: ' Erster Platz für eine Plakatserie '
+  anfang: 'Gewalt ist keine Lösung: Die 23 Beiträge zum diesjährigen Bartholomäus-Schink-Preis zeigen, dass das Thema die KGS-Schüler erreicht hat'
+  datum: 2019-05-09
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/04/20/diskussionsrunde-zu-klima-und-umweltschutz/
+  name: ' Diskussionsrunde zu Klima- und Umweltschutz '
+  anfang: >
+    In der Wildtierauffangstation können
+    Interessierte am 23. April mit dem
+    SPD-Europaabgeordneten Tiemo Wölken
+    diskutieren
+  datum: 2019-04-20
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/04/02/im-rathaus-gehts-um-meer/
+  name: ' Im Rathaus geht’s um Meer '
+  anfang: >
+    Schülerinnen und Schüler der KGS
+    Rastede zeigen Ausstellung zu
+    Umweltbelastungen und Klimawandel
+  datum: 2019-04-02
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/04/01/windenergieplanung-auf-der-zielgeraden/
+  name: ' Windenergieplanung auf der Zielgeraden '
+  anfang: >
+    Bauausschuss gibt grünes Licht für
+    Windenergieanlagen im Rasteder Norden.
+    Heute entscheidet der Gemeinderat ab 17
+    Uhr in öffentlicher Sitzung endgültig
+    über das Thema.
+  datum: 2019-04-01
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/03/22/gut-ding-will-weile-haben/
+  name: ' „Gut Ding will Weile haben“ '
+  anfang: >
+    Der Erweiterungsbau der KGS Rastede
+    wurde nach den Zeugnisferien in Betrieb
+    genommen. Dies wurde nun mit einem
+    offiziellen Festakt gefeiert.
+  datum: 2019-03-22
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/03/17/wir-streiken-bis-ihr-handelt/
+  name: ' „Wir streiken, bis ihr handelt!“ '
+  anfang: 'Erste Klimaschutzaktion in Rastede: Schüler gingen auf die Straße, um für eine konsequentere Klimapolitik zu demonstrieren'
+  datum: 2019-03-17
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/03/13/fridays-for-future-klimastreik-in-rastede/
+  name: >
+    „Fridays for Future“ – Klimastreik
+    in Rastede
+  anfang: >
+    Schülerinnen und Schüler der KGS
+    Rastede gehen am Freitag auf die
+    Straße, um gegen die aktuelle
+    Klimapolitik zu demonstrieren
+  datum: 2019-03-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/03/13/auf-dem-schlachtfeld-einer-wahnwitzigen-ehe-2/
+  name: >
+    Auf dem Schlachtfeld einer wahnwitzigen
+    Ehe
+  anfang: 'Emmi & Willnowsky sind im Rahmen ihrer Tour 2019 am 16. März in der Neuen Aula in Rastede zu Gast'
+  datum: 2019-03-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/02/27/rueckmeldungen-zur-nachverdichtung-insgesamt-positiv/
+  name: >
+    Rückmeldungen zur Nachverdichtung
+    insgesamt positiv
+  anfang: 'Die Resonanz könnte größer sein, aber sie ist grundsätzlich positiv: Insgesamt neun Stellungnahmen sind bislang zum neuen „Konzept zur verträglichen Nachverdichtung“ für Rastede, Hahn-Lehmden und Wahnbek bei der Gemeindeverwaltung eingegangen. Die Eingabefrist endet am 4. März.'
+  datum: 2019-02-27
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/02/26/kein-goldstatus-in-sachen-klimaschutz/
+  name: ' Kein Goldstatus in Sachen Klimaschutz '
+  anfang: >
+    Der Gemeinde Rastede fehlt ein
+    energiepolitisches Leitbild. Das ist das
+    Ergebnis der Untersuchung durch den
+    European Energy Award (eea), die gestern
+    im Bauausschuss vorgestellt wurde. Von
+    der angestrebten eea-Zertifizierung ist
+    Rastede noch weit entfernt.
+  datum: 2019-02-26
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/02/19/auf-dem-schlachtfeld-einer-wahnwitzigen-ehe/
+  name: >
+    Auf dem Schlachtfeld einer wahnwitzigen
+    Ehe
+  anfang: 'Emmi & Willnowsky sind im Rahmen ihrer Tour 2019 am 16. März in der Neuen Aula in Rastede zu Gast'
+  datum: 2019-02-19
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/02/13/gemeinde-ist-fuer-inklusion-an-schulen-geruestet/
+  name: >
+    Gemeinde ist für Inklusion an Schulen
+    gerüstet
+  anfang: >
+    Auf dem Weg zur Barrierefreiheit ihrer
+    Schulen hat die Gemeinde Rastede in der
+    jüngsten Sitzung des
+    Verwaltungsausschusses eine
+    Zwischenbilanz gezogen
+  datum: 2019-02-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/02/06/bausuenden-und-nachbarschaftsstreit-vermeiden/
+  name: >
+    Bausünden und Nachbarschaftsstreit
+    vermeiden
+  anfang: >
+    Wo und wie in der Gemeinde künftig
+    gebaut werden kann, soll das „Konzept
+    zur verträglichen Nachverdichtung“
+    regeln, das am Montag in der Neuen Aula
+    vorgestellt wurde
+  datum: 2019-02-06
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/02/05/wichtig-fuer-die-frueherkennung-von-brustkrebs/
+  name: >
+    Wichtig für die Früherkennung von
+    Brustkrebs
+  anfang: >
+    Ab dem 7. Februar macht das
+    „Mammobil“ wieder Station in
+    Rastede. Termine können noch vereinbart
+    werden.
+  datum: 2019-02-05
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/02/04/gewalt-ist-keine-loesung/
+  name: ' „Gewalt ist keine Lösung“ '
+  anfang: >
+    Der Bartholomäus-Schink-Preis der KGS
+    Rastede widmet sich in diesem Jahr dem
+    Thema „Gewalt“
+  datum: 2019-02-04
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/01/30/praevention-bei-kindern-und-jugendlichen-verbessern/
+  name: >
+    Prävention bei Kindern und
+    Jugendlichen verbessern
+  anfang: >
+    Fachausschüsse befürworten die
+    Teilnahme am Projekt „Communities That
+    Care“. Mit Hilfe einer
+    Schülerbefragung sollen Probleme in der
+    Gemeinde Rastede analysiert werden.
+  datum: 2019-01-30
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/01/28/zusammenspiel-von-cello-und-klavier/
+  name: ' Zusammenspiel von Cello und Klavier '
+  anfang: >
+    Beim 24. Rasteder Frühlingskonzert am
+    26. April treten Vashti Hunter (Cello)
+    und Martin Klett (Klavier) auf. Der
+    Vorverkauf für das Konzert in der Neuen
+    Aula der KGS hat begonnen.
+  datum: 2019-01-28
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/01/25/wie-und-wo-wird-in-zukunft-gebaut/
+  name: ' Wie und wo wird in Zukunft gebaut '
+  anfang: >
+    Die bauliche Entwicklung in Rastede ist
+    das Thema einer
+    Informationsveranstaltung am 4. Februar
+    in der Aula der KGS. Das Planungsbüro
+    NWP stellt dann ein Konzept zur
+    Innenverdichtung vor. Die Bürger
+    können sich zudem an Stellwänden und
+    im direkten Gespräch informieren.
+  datum: 2019-01-25
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/01/24/zwischen-malerei-und-objektkunst/
+  name: ' Zwischen Malerei und Objektkunst '
+  anfang: 'Landschaft 2.0: KGS-Schüler stellen im Palais aus'
+  datum: 2019-01-24
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/12/10/schuelerinnen-und-schueler-aus-der-bretagne-zu-gast-in-rastede/
+  name: >
+    Schülerinnen und Schüler aus der
+    Bretagne zu Gast in Rastede
+  anfang: >
+    Die Schulpartnerschaft zwischen der KGS
+    Rastede und den Schulen
+    Saint-Aubin-d`Aubigne besteht seit 40
+    Jahren, seit drei Jahren ist die Schule
+    in Noyal dabei
+  datum: 2018-12-10
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/12/04/im-vollrausch-gegen-die-wand/
+  name: ' Im Vollrausch gegen die Wand '
+  anfang: >
+    Junge Fahranfänger der KGS Rastede
+    erlebten im Rahmen der bundesweiten
+    Aktionswochen zur Verkehrssicherheit wie
+    es ist, unter Alkoholeinfluss mit dem
+    Auto zu fahren
+  datum: 2018-12-04
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/12/03/auf-der-suche-nach-foerdertoepfen/
+  name: ' Auf der Suche nach Fördertöpfen '
+  anfang: >
+    SPD-Bürgermeisterkandidat Lars Krause
+    spricht mit dem VfL-Vorstand über die
+    Finanzierung des geplanten Neubaus
+  datum: 2018-12-03
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/11/19/rasteder-graffiti-projekt-bahnfrei-fuer-kunst-in-berlin-vorgestellt/
+  name: >
+    Rasteder Graffiti-Projekt „Bahnfrei
+    für Kunst“ in Berlin vorgestellt
+  anfang: >
+    Landkreis und Kreisvolkshochschule
+    erhalten Verlängerung für
+    Förderprogramm bis 2022
+  datum: 2018-11-19
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/11/16/saeulen-der-gesellschaft/
+  name: ' Säulen der Gesellschaft '
+  anfang: >
+    Karl-Heinz Eilers, Erich Kuhlmann und
+    Hans-Günter Speetzen wurden gestern mit
+    dem Bürgerpreis der Gemeinde Rastede
+    geehrt. Seit 1998 wird die Auszeichnung
+    an verdiente Mitbürger vergeben.
+  datum: 2018-11-16
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/11/13/vielfaeltiges-programm-und-neue-ideen/
+  name: ' Vielfältiges Programm und neue Ideen '
+  anfang: 'Kunst- und Kulturkreis Rastede stellt im Kulturausschuss seinen Jahresbericht vor'
+  datum: 2018-11-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/11/13/thema-muehlenstrasse-geht-in-die-naechste-runde/
+  name: >
+    Thema Mühlenstraße geht in die
+    nächste Runde
+  anfang: >
+    Das Fachbüro „Kilian + Kollegen“
+    stellte dem Bauausschuss gestern vier
+    Varianten zur Nachnutzung des Areals um
+    den aufgegebenen Sportplatz vor.
+    Diskussion und Entscheidung wurden
+    vertagt.
+  datum: 2018-11-13
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/11/06/vorverkauf-fuer-das-rasteder-neujahrskonzert/
+  name: >
+    Vorverkauf für das Rasteder
+    Neujahrskonzert
+  anfang: 'Ab dieser Woche können Karten für das 11. Neujahrskonzert des Kunst- und Kulturkreises Rastede (KKR) erworben werden. Im Januar ist das Bremer Salonorchester zu Gast.'
+  datum: 2018-11-06
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/10/24/mehr-medienkompetenz-fuer-rasteder-schueler/
+  name: >
+    Mehr Medienkompetenz für Rasteder
+    Schüler
+  anfang: >
+    Die SPD-Fraktion beantragt, der KGS und
+    bei Bedarf auch den Rasteder
+    Grundschulen sowie der Förderschule am
+    Voßbarg einen System-Administrator
+    (oder eine Administratorin) zur
+    Verfügung zu stellen
+  datum: 2018-10-24
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/10/23/pauker-und-schueler-machen-musik/
+  name: ' Pauker und Schüler machen Musik '
+  anfang: >
+    Die Lehrerbigband Niedersachsen und die
+    Bigband Koops der KGS Rastede
+    präsentieren sich am 28. Oktober, 16
+    Uhr, gemeinsam in der Neuen Aula
+  datum: 2018-10-23
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/10/05/noch-ein-kandidat-wirft-seinen-hut-in-den-ring/
+  name: >
+    Noch ein Kandidat wirft seinen Hut in
+    den Ring
+  anfang: >
+    Alexander von Essen möchte
+    Bürgermeister in Rastede werden und im
+    Rathaus zukünftig eine „Offenheit
+    für Ideen“ schaffen. Der 27-Jährige
+    ist neben Torsten Wilters der zweite
+    Bewerber für die CDU.
+  datum: 2018-10-05
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/09/28/grosser-bahnhof-fuer-junge-kuenstler/
+  name: ' Großer Bahnhof für junge Künstler '
+  anfang: >
+    Jugendliche der KGS Rastede gestalteten
+    die die Bahnhofsunterführung in Rastede
+    mit eigenen Bildern
+  datum: 2018-09-28
+  zeitung: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2018/09/21/ein-leben-retten-woche-der-wiederbelebung/
+  name: >
+    Ein Leben retten – Woche der
+    Wiederbelebung
+  anfang: >
+    Herzstillstand kann jeden treffen.
+    Schüler der KGS Rastede lernten, was
+    man im Ernstfall bei der Reanimation
+    beachten muss
+  datum: 2018-09-21
   zeitung: rastederrundschau
