@@ -40,7 +40,7 @@ foreach ($list as $item): ?>
 
     <?php if ($pagination->hasPrevPage()): ?>
     <li class="page-item">
-      <a href="<?= $pagination->prevPageURL() ?>">‹</a>
+      <a class="page-link" href="<?= $pagination->prevPageURL() ?>">‹</a>
     </li>
     <?php else: ?>
     <li>
@@ -67,7 +67,7 @@ foreach ($list as $item): ?>
 
     <?php if ($pagination->hasNextPage()): ?>
     <li class="page-item">
-      <a href="<?= $pagination->nextPageURL() ?>">›</a>
+      <a class="page-link" href="<?= $pagination->nextPageURL() ?>">›</a>
     </li>
     <?php else: ?>
     <li class="page-item">
