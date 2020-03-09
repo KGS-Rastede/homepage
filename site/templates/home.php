@@ -143,6 +143,9 @@
                 </div>
 
               <?php endforeach ?>  
+
+              <a class="btn btn-primary" href="<?= page('allgemeines/schulstruktur/presse')->url() ?>"> mehr aus der Presse...</a>
+
             </div>
           </div>
         </div>
