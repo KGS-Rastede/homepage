@@ -53,7 +53,7 @@
         <div class="blogs-1" id="blogs-1">
           <div class="container">
             <div class="row">
-              <div class="col-md-9 ml-auto mr-auto">
+              <div class="col-md-12 ml-auto mr-auto">
                 <h2 class="title">Aktuelle Nachrichten</h2>
                 <br>
 
