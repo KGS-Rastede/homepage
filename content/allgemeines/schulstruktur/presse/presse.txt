@@ -860,8 +860,8 @@ Pressenachrichten:
   link: >
     https://rasteder-rundschau.de/2019/01/30/praevention-bei-kindern-und-jugendlichen-verbessern/
   name: >
-    Prävention bei Kindern und
-    Jugendlichen verbessern
+    Prävention bei Kindern und Jugendlichen
+    verbessern
   anfang: >
     Fachausschüsse befürworten die
     Teilnahme am Projekt „Communities That
@@ -1059,3 +1059,33 @@ Pressenachrichten:
     beachten muss
   datum: 2018-09-21
   zeitung: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus/rastede-claudia-berger-im-portraet-sie-leitet-jetzt-rastedes-groesste-schule_a_50,7,888682090.html
+  name: >
+    Claudia Berger im Porträt / Sie leitet
+    jetzt Rastedes größte Schule
+  anfang: >
+    1868 Schüler, 180 Lehrer – die
+    Kooperative Gesamtschule ist Rastedes
+    größte Schule. Und deshalb muss
+    Claudia Berger als neue Leiterin auch
+    auf etwas verzichten, was ihr eigentlich
+    liebgeworden ist.
+  datum: 2020-02-06
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus/rastede-pflege-in-rastede-jugendliche-unterstuetzen-aeltere-im-alltag_a_50,6,2456042188.html
+  name: >
+    Jugendliche unterstützen Ältere im
+    Alltag
+  anfang: >
+    Das Engagement der Schüler wurde
+    bereits mit einem Förderpreis
+    honoriert. Obwohl die Bedingungen in
+    Pflegeberufen schwierig sind, können
+    sich die Schüler eine solche Tätigkeit
+    später vorstellen.
+  datum: 2019-12-11
+  zeitung: nwz
