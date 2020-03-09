@@ -3,6 +3,7 @@ title: Default Page
 options:
   update:
     *: false
+    admin: true
 
 
 fields:
