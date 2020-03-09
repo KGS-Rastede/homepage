@@ -132,7 +132,7 @@
               $items = page('allgemeines/schulstruktur/presse')->pressenachrichten()->toStructure();
               
               foreach ($items as $item): ?>
-                <a href="#" class="list-group-item list-group-item-action"><?= $item->name() ?></a></li>
+                <a href="<?= $item->link() ?>" class="list-group-item list-group-item-action"><?= $item->name() ?></a></li>
               <?php endforeach ?>  
             </div>
           </div>
