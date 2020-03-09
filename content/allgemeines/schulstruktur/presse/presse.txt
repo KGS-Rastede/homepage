@@ -1098,10 +1098,7 @@ Pressenachrichten:
 - 
   link: >
     https://www.rasteder-rundschau.de/2020/03/09/wie-geht-es-weiter-nach-dem-abitur/
-  name: >
-    Die KGS bietet heute, 9. März, einen
-    Informationsnachmittag rund um das duale
-    Studium an
+  name: Wie geht es weiter nach dem Abitur?
   anfang: >
     Was mache ich nach dem Abitur? Studieren
     oder doch eine Ausbildung beginnen?
