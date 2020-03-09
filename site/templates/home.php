@@ -129,9 +129,9 @@
 
               <!-- die Daten sind in allgemeines/schulstruktur/presse -->
               <?php
-              $items = page('allgemeines/schulstruktur/presse')->pressenachrichten()->toStructure()->paginate(5);
+              $items = page('allgemeines/schulstruktur/presse')->pressenachrichten()->toStructure()->sortBy("datum")->flip()->limit(6);
               
-              
+
 
               foreach ($items as $item): ?>
                 <div class="alert alert-primary" role="alert">
