@@ -2,6 +2,13 @@ title: Blogs aus allen Fächern
 num: '{{ page.date.toDate("Ymd") }}'
 icon: 📖
 
+options:
+  update:
+    *: false
+  pages:
+    *: false
+  files:
+    *: false
 
 sections:
 

@@ -1,5 +1,9 @@
 title: Übersicht über die Fächer
 
+options:
+  update:
+    *: false
+
 columns:
   # main
   main:

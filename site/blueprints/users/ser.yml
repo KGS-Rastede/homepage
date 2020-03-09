@@ -25,20 +25,6 @@ permissions:
     sort: true
     update: true
   user:
-    create: false
-    changeName: false
-    changeEmail: false
-    changeLanguage: true
-    changePassword: false
-    changeRole: false
-    delete: false
-    update: false
+    *: false
   users:
-    create: true
-    changeEmail: false
-    changeLanguage: true
-    changeName: false
-    changePassword: false
-    changeRole: false
-    delete: false
-    update: false
+    *: false

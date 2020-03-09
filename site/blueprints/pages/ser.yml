@@ -1,5 +1,10 @@
 title: Default Page
 
+options:
+  update:
+    *: false
+    ser: true
+
 columns:
   main:
     width: 2/3

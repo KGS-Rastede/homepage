@@ -1,5 +1,10 @@
 title: Informationen
 
+
+options:
+  update:
+    *: false
+
 sections:
   blogs:
     type: pages

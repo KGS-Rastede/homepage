@@ -1,5 +1,9 @@
 title: Allgemeine Info
 
+options:
+  update:
+    *: false
+
 columns:
   main:
     width: 2/3

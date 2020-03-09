@@ -1,6 +1,10 @@
 title: Kontaktdaten
 icon: 📖
 
+options:
+  update:
+    *: false
+
 columns:
   left:
     width: 2/3

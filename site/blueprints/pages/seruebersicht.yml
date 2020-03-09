@@ -1,4 +1,10 @@
 title: Blog
+
+options:
+  update:
+    *: false
+    ser: true
+
 preset: pages
 icon: 📜
 options:

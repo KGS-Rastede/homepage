@@ -1,6 +1,8 @@
 title: Default Page
 
-# 
+options:
+  update:
+    *: false
 
 
 fields:

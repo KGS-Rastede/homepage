@@ -2,6 +2,17 @@ title: Blogeintrag
 num: '{{ page.date.toDate("Ymd") }}'
 icon: 📖
 
+options:
+  update:
+    *: false
+    fachleiter: true
+  pages:
+    *: false
+    fachleiter: true
+  files:
+    *: false
+    fachleiter: true
+
 columns:
   main:
     width: 2/3

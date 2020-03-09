@@ -2,6 +2,11 @@ title: Informationen zum Fach
 num: '{{ page.date.toDate("Ymd") }}'
 icon: 📖
 
+options:
+  update:
+    *: false
+    fachleiter: true
+
 columns:
   main:
     width: 2/3

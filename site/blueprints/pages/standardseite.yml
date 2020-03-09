@@ -1,5 +1,9 @@
 title: Default Page
 
+options:
+  update:
+    *: false
+
 columns:
   main:
     width: 2/3

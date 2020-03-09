@@ -1,4 +1,9 @@
-title: Default Page
+title: Default 
+
+options:
+  update:
+    *: false
+
 preset: page
 fields:
   text:
