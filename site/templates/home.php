@@ -129,7 +129,7 @@
 
               <!-- die Daten sind in allgemeines/schulstruktur/presse -->
               <?php
-              $items = page('allgemeines/schulstruktur/presse')->pressenachrichten()->toStructure();
+              $items = page('allgemeines/schulstruktur/presse')->pressenachrichten()->toStructure()->paginate(5);
               
               foreach ($items as $item): ?>
                 <a href="<?= $item->link() ?>" class="list-group-item list-group-item-action"><?= $item->name() ?></a></li>
