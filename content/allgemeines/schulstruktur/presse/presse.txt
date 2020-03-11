@@ -1108,3 +1108,137 @@ Pressenachrichten:
     ist das duale Studium.
   datum: 2020-03-09
   zeitung: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-rasteder-lesestunden-an-kgs-wenn-worte-zur-waffe-werden_a_50,6,1568783395.html
+  name: >
+     „rasteder Lesestunden“ An Kgs Wenn
+    Worte zur Waffe werden
+  anfang: >
+    Oberstufenschüler bereiten zurzeit eine
+    szenische Lesung vor. Dafür setzen sie
+    sich mit Faschismus auseinander.
+  datum: 2019-11-18
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-raumproblem-an-groesster-schule-kgs-rastede-braucht_a_50,5,4214351371.html
+  name: >
+     Raumproblem An Größter Schule KGS
+    Rastede braucht erneut mehr Platz
+  anfang: >
+    Erst vor einem halben Jahr wurde ein
+    Neubau an der KGS bezogen. Jetzt wird
+    der Platz schon wieder knapp. Der
+    Schulausschuss berät diesen Dienstag
+    über die Situation.
+  datum: 2019-10-01
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/galerie-rastede-1-verabschiedung-gallery_g_50,5,730002344.html
+  name: >
+    Schulleiter Gerd Kip verlässt KGS
+    Rastede
+  anfang: ""
+  datum: 2019-07-03
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/politik/rastede-fridays-for-future-in-rastede-hunderte-gehen-fuers-klima-auf-die-strasse_a_50,5,3848037444.html
+  name: >
+    Hunderte gehen fürs Klima auf die
+    Straße
+  anfang: >
+    Nicht nur Schüler, sondern auch viele
+    Erwachsene beteiligten sich am Freitag
+    in Rastede an der Demonstration für
+    eine bessere Klimapolitik. Im Rathaus
+    wurden erneut Forderungen überreicht.
+  datum: 2019-09-21
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/politik/westerstede-ammerland-erste-klimastreik-demo-in-der-kreisstadt-in-westerstede-flagge-zeigen_a_50,5,3770068528.html
+  name: In Westerstede „Flagge zeigen“
+  anfang: >
+    Die Zahnarztpraxis von Dr. Gerold Becker
+    aus Westerstede streikt am Freitag fürs
+    Klima. Der BUND organisiert an der
+    Kirchstraße eine Kundgebung. Auch in
+    Rastede und Bad Zwischenahn sind
+    Aktionen geplant.
+  datum: 2019-09-19
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-verabschiedung-schulleiter-gerd-kip-verlaesst-kgs-rastede_a_50,5,730002467.html
+  name: >
+    Schulleiter Gerd Kip verlässt KGS
+    Rastede
+  anfang: >
+    Nach 17 Jahren als Schulleiter wurde
+    Gerd Kip verabschiedet. Jetzt hat er
+    mehr Zeit für die Enkelkinder.
+  datum: 2019-07-03
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/politik/rastede-engagement-rasteder-schueler-wollen-sich-gegen-rassismus-wehren_a_50,5,404433948.html
+  name: >
+    Rasteder Schüler wollen sich gegen
+    Rassismus wehren
+  anfang: >
+    Rasteder Schüler wollen sich gegen
+    Rassismus wehren
+  datum: 2019-06-27
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/lokalsport/rastede-jugendrotkreuzler-stellen-sich-kreiswettbewerb-auch-gehirnschmalz-gefragt_a_50,4,3291411412.html
+  name: Auch „Gehirnschmalz“ gefragt
+  anfang: >
+    Eine Gruppe war aus Oldenburg angereist.
+    Auch in Erster Hilfe mussten die jungen
+    Akteure natürlich antreten. 40 Helfer
+    auf allen Ebenen sorgten für einen
+    reibungslosen Ablauf.
+  datum: 2019-05-20
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/politik/rastede-rund-500-rasteder-demonstrieren-fuer-klima-muell-trennen-und-radfahren-ist-zu-wenig_a_50,4,3224148716.html
+  name: Müll trennen und Radfahren ist zu wenig
+  anfang: >
+    Zum zweiten Mal fand in Rastede unter
+    dem Motto „Fridays for Future“ eine
+    große Demonstration statt. Das Vorgehen
+    der Schüler stieß bei einigen Bürgern
+    auch auf Kritik.
+  datum: 2019-05-18
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/dokumentation-zum-thema-pflege-rasteder-schuelerinnen-holen-platz-drei-bei-filmwettbewerb_a_50,4,1583435248.html
+  name: >
+    Rasteder Schülerinnen holen Platz drei
+    bei Filmwettbewerb
+  anfang: ""
+  datum: 2019-04-04
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-kgs-rastede-neues-gebaeude-jetzt-einsatzbereit_a_50,4,1166231749.html
+  name: Neues Gebäude jetzt einsatzbereit
+  anfang: ""
+  datum: 2019-03-23
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-hannover-preisverleihung-in-hannover-kgs-rastede-erhaelt-sonderpreis-fuer-friedensbildung_a_50,4,1071306077.html
+  name: >
+    KGS Rastede erhält Sonderpreis für
+    Friedensbildung
+  anfang: 'Bereits seit 1998 gibt es die jetzt ausgezeichnete Arbeitsgemeinschaft. Deren Leiter Michael Luttmer findet: „Wir haben uns die Würdigung durchaus verdient.“'
+  datum: 2019-03-21
+  zeitung: nwz
