@@ -26,7 +26,7 @@
       <div class="list-group">
         <a href="<?= page('Faecher/musik')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">music_note</i>Musik</a></li>
         <a href="<?= page('Faecher/kunst')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">color_lens</i>Kunst</a></li>
-        <a href="#" class="list-group-item list-group-item-action"><i class="material-icons">theaters</i>Darstellendes Spiel</a></li>
+        <a href="<?= page('Faecher/ds')->url() ?>" class="list-group-item list-group-item-action"><i class="material-icons">theaters</i>Darstellendes Spiel</a></li>
         </div>
       </div>
     </div>
