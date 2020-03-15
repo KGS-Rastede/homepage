@@ -6,7 +6,28 @@ Heading: die Lehre der Bits und Bytes
 
 ----
 
-Text: Informatik, ein Kunstwort auf Info und Matik, ist klasse.
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Die KGS Rastede geh\u00f6rte zu den Pilotschulen in Niedersachsen, die in den 80er Jahren die Stundenplanerstellung \u00fcber gro\u00dffl\u00e4chige Stecksysteme durch rechnergest\u00fctzte Programme abl\u00f6sen konnten. Seit dieser Zeit ist Informatik an der KGS auch in der Stundentafel f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler fest verankert. Geleitet wird dieser Stellenwert von der Erkenntnis, dass Wissen und Fertigkeiten im Umgang mit neuen Technologien heute einen wesentlichen Beitrag daf\u00fcr leisten, dass Sch\u00fclerinnen und Sch\u00fcler in einer komplexen und sich schnell wandelnden Gesellschaft ein selbstbestimmtes Leben f\u00fchren k\u00f6nnen. Daher sind an der KGS Rastede im Wesentlichen alle Informations- und Wahlsysteme online gestellt. So k\u00f6nnen u.a. alle Sch\u00fclerinnen und Sch\u00fcler ihren Stundenplan immer online abrufen. Die Lernplattform Moodle unterst\u00fctzt das Lernen.",
+        "id": "_77rUeQlIE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Informatik als Fach wird im Hauptschulzweig und Realschulzweig in den Jahrg\u00e4ngen 6-8 als Fach angeboten, in den Jahrg\u00e4ngen 9 bis 10 ist Informatik Teil der Sch\u00fclerfirmen und des Angebotes im Profil Technik. In den Jahrg\u00e4ngen 6-8 erwerben u.a. alle Sch\u00fclerinnen und Sch\u00fcler einen Computerf\u00fchrerschein auf Basis des ECDL. Im Gymnasialzweig ist der Informatikunterricht besonderer Bestandteil des Profilangebotes \u201eWirtschaft-Informatik\u201c, wird aber auch alle Sch\u00fclerinnen und Sch\u00fcler , die ein anderes Profil gew\u00e4hlt haben, ein Halbjahr zum Erwerb des Computerf\u00fchrerscheins angeboten.",
+        "id": "_RyoiSGn3W",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der Einf\u00fchrungsphase tritt Informatik als gesondertes Fach an die Stelle einer Naturwissenschaft und in der Qualifikationsphase ist Informatik an der KGS Rastede als Pr\u00fcfungsfach zugelassen. In der Vergangenheit sind im Pr\u00fcfungsfach eine ganze Reihe besonderer Lernleistungen im Abitur entstanden.",
+        "id": "_Tnwbg7IjR",
+        "type": "paragraph"
+    }
+]
 
 ----
 
@@ -18,6 +39,10 @@ Gallery:
 ----
 
 Haupttag: Informatik
+
+----
+
+Hintergrundbild: Faecher/informatik/cs2.jpg
 
 ----
 
