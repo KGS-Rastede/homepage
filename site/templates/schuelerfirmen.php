@@ -3,7 +3,7 @@
 <?php snippet('page-header') ?>
 
 
-<h1>Über die Fächer</h1>
+<h1>Unsere Schülerfirmen</h1>
 
 
 <div class="card-columns">
