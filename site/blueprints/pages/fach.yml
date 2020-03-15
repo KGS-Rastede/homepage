@@ -6,6 +6,7 @@ options:
   update:
     *: false
     fachleiter: true
+    admin: true
 
 columns:
   main:
