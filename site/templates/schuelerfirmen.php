@@ -6,8 +6,9 @@
 
 <?php foreach ($page->children() as $sf) : ?>
 
-  <div class="card card-background" style="background-image: url('https://images.unsplash.com/photo-1471666875520-c75081f42081?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2038&q=80')">
+  <div class="card card-background" style="background-image: url(<?= $sf->bild()->url() ?>)">
     <div class="card-body">
+      <p><?= $sf->bild()->toFile() ?></p>
       <h6 class="card-category text-info"><?= $sf->Heading() ?></h6>
       <a href="#pablo">
         <h3 class="card-title"><?= $sf->Title() ?></h3>
