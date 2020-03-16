@@ -49,8 +49,6 @@
             <a class="dropdown-item" href="<?= page('allgemeines/schulstruktur/zeitraster')->url() ?>"><i class="material-icons">timer</i>Zeitraster</a>
             <a class="dropdown-item" href="<?= page('allgemeines/schulstruktur/presse')->url() ?>"><i class="material-icons">pages</i>...aus der Presse</a>
             <a class="dropdown-item" href="<?= page('allgemeines/ausbildungsschule')->url() ?>"><i class="material-icons">school</i>Ausbildungsschule</a>
-            <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><i class="material-icons">local_hospital</i>Schulsanitätsdienst</a>
-            <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><i class="material-icons">library_books</i>Fächer</a>
             <a class="dropdown-item" href="<?= page('ser/vorstand')->url() ?>"><i class="material-icons">people_alt</i>Schulelternrat (SER)</a>
 
 
@@ -61,6 +59,21 @@
           <li class="dropdown nav-item">
             <a class="nav-link" href="<?= page('allgemeines/kalender')->url() ?>"><i class="material-icons">calendar_today</i>Kalender</a>
           </li>
+
+          <li class="dropdown nav-item">
+            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+              <i class="material-icons">school</i> Leben &amp; Lernen
+            </a>
+            <div class="dropdown-menu dropdown-with-icons">    
+            <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><i class="material-icons">local_hospital</i>Schulsanitätsdienst</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><i class="material-icons">library_books</i>Fächer</a>
+            <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>"><i class="material-icons">library_books</i>Oberstufe</a>
+
+          </div>
+
+          </li>
+
 
             </div>
           </li>
