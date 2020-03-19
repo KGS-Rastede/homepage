@@ -59,7 +59,7 @@ def create_json(class_name):
     print("{", sep="")
     print("title: '", class_name.summary, "',", sep="")
     print("start: '", class_name.start, "',", sep="")
-    print("end: '", class_name.end, "',", sep="")
+    print("end: '", class_name.end, sep="")
     print("},\n")
 
 print("moin")
