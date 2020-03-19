@@ -2,12 +2,7 @@
 
 <?php snippet('page-header') ?>
 
-<style>
-  #calendar {
-    max-width: 900px;
-    margin: 0 auto;
-  }
-</style>
+
 
 <script src='https://unpkg.com/@fullcalendar/google-calendar@4.4.0/main.min.js'></script>
 
@@ -19,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var calendarEl = document.getElementById('calendar');
 
   var calendar = new FullCalendar.Calendar(calendarEl, {
-    locale: 'de'
+    locale: 'de', //Darstellung auf Deutsch
     plugins: [ 'dayGrid', 'list','googleCalendar' ],
     header: {
       left: 'prev,next today',
