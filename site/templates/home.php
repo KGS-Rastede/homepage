@@ -119,34 +119,23 @@
 
 
       </div>
-      <div class="col-md-3">
-        <div class="card">
-          <div class="card-header card-header-info">
-            <h5 class="card-title">Aus der Presse</h5>
-          </div>
-          <div class="card-body">
-            <div class="list-group">
-
-              <!-- die Daten sind in allgemeines/schulstruktur/presse -->
-              <?php
+      <div class="col-lg-3 col-md-6">
+        <div class="card card-pricing">
+          <div class="card-body ">
+            <h4 class="card-category text-primary">Aus der Presse</h4>
+            <ul>
+            <?php
               $items = page('allgemeines/schulstruktur/presse')->pressenachrichten()->toStructure()->sortBy("datum")->flip()->limit(6);
-              
 
-
-              foreach ($items as $item): ?>
-                <div class="alert alert-primary" role="alert">
+              foreach ($items as $item) : ?>
+                <li>
                   <a class="alert-link" href="<?= $item->link() ?>" class="list-group-item list-group-item-action"><?= $item->name() ?></a>
-                  
                   (<?= $item->datum()->toDate('d.m.y') ?>)
+                </li>
+                
 
-                  </li>
-                </div>
-
-              <?php endforeach ?>  
-
-              <a class="btn btn-primary" href="<?= page('allgemeines/schulstruktur/presse')->url() ?>"> mehr aus der Presse...</a>
-
-            </div>
+              <?php endforeach ?>
+            </ul>
           </div>
         </div>
       </div>
