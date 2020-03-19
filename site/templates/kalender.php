@@ -28,6 +28,13 @@ document.addEventListener('DOMContentLoaded', function() {
       center: 'title',
       right: 'dayGridMonth,listYear'
     },
+    buttonText: {
+      today:    'Heute',
+      month:    'Monat',
+      week:     'Woche',
+      day:      'Tag',
+      list:     'Liste'
+    },
 
     displayEventTime: false, // don't show the time column in list view
 
