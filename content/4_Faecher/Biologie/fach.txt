@@ -82,6 +82,10 @@ Sidebar:
   link: >
     https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
   name: Operatorenliste Oberstufe
+- 
+  link: >
+    https://db2.nibis.de/1db/cuvo/datei/bi_go_kc_druck_2017.pdf
+  name: Biologie Oberstufe
 
 ----
 
@@ -90,3 +94,7 @@ Toggle: true
 ----
 
 Label: 1
+
+----
+
+Sidetitel: Links zum Schulbusnetz
