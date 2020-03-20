@@ -6,8 +6,8 @@
                     <div class="container"><?= $page->text()->blocks() ?></div>
                 </div>
                 <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-header card-header-info">
+                    <div class="card card-pricing">
+                        <div class="card-category text-primary">
                             <h5 class="card-title">
                             <?php if($page->sidetitel()->isNotEmpty()): ?>
                                 <?= $page->sidetitel()->kirbytext() ?>
@@ -17,11 +17,13 @@
                         </h5>
                         </div>
                         <div class="card-body">
-                            <div class="list-group">
+                            <ul class="list-group list-group-flush">
                                 <?php foreach ($page->sidebar()->toStructure() as $sidebar): ?>
-                                    <a href="<?= $sidebar->link() ?>" class="list-group-item list-group-item-action"><?= $sidebar->name() ?></a></li>
+                                    <li class="list-group-item">
+                                    <a href="<?= $sidebar->link() ?>" class="list-group-item list-group-item-action"><?= $sidebar->name() ?></a>
+                                    </li>
                                 <?php endforeach ?>
-                            </div>
+                            </ul>
                         </div>
                     </div>
                 </div>
