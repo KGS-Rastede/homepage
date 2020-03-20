@@ -8,7 +8,13 @@
                 <div class="col-md-3">
                     <div class="card">
                         <div class="card-header card-header-info">
-                            <h5 class="card-title"><?= $page->sidetitel()->kirbytext() ?></h5>
+                            <h5 class="card-title">
+                            <?php if($page->sidetitel()->isNotEmpty()): ?>
+                                <?= $page->sidetitel()->kirbytext() ?>
+                            <?php else: ?>
+                                <?= "Weitere Informationen" ?>
+                            <?php endif ?>
+                        </h5>
                         </div>
                         <div class="card-body">
                             <div class="list-group">
