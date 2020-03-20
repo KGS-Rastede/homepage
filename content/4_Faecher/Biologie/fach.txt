@@ -89,8 +89,4 @@ Toggle: true
 
 ----
 
-Sidetitel: Links zum Schulbusnetz
-
-----
-
 Label: 1
