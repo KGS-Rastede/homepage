@@ -1,0 +1,74 @@
+Title: Szenische Lesung zum Buch “Adressat unbekannt”
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Am Sonntagnachmittag, den 24. November 2019 hat die Klasse 11b im Zuge der Rasteder Lesestunden in der St.-Ulrichs-Kirche eine zweist\u00fcndige szenische Lesung gehalten, welche von der Residenzort Rastede GmbH erm\u00f6glicht wurde. Die Lesung wurde seit den Herbstferien im Deutschunterricht mit Herrn Schumacher vorbereitet und organisiert.",
+        "id": "_x8b3F4VXF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "W\u00e4hrend der Lesung konnte sich das Publikum in einer kurzen Pause an einem Kaffee- und Kuchenbuffet, welches von der 12. Klasse der KGS Rastede bereitgestellt wurde, st\u00e4rken. Au\u00dferdem gab es die M\u00f6glichkeit der 11b nach der Lesung Fragen zu stellen, sowie R\u00fcckmeldung zu geben, welche fast durchweg positiv ausfiel.",
+        "id": "_w2KN8MvrS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Buch, welches vollst\u00e4ndig vorgestellt wurde hei\u00dft \u201eAdressat unbekannt\u201c. Verfasst wurde es von Kressmann Taylor im Jahr 1938 (in den USA). In Deutschland erschien es erst in den 70er Jahren. Das Buch umfasst das aktuelle Thema \u201eAntisemitismus\u201c. Verdeutlicht wird es durch den Briefwechsel eines Deutschen, namens Martin Schulse, und seinem Freund Max Eisenstein, einem amerikanischen Juden. Die Geschichte spielt in den Monaten zur Zeit Hitlers Macht\u00fcbernahme und basiert auf einer wahren Begebenheit, zu der aber eigene Ideen der Autorin kamen, um die Dramaturgie dem Leser gegen\u00fcber zu verst\u00e4rken.",
+        "id": "_kEnIprTod",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Als Klasse wurde sich f\u00fcr dieses Buch entschieden, weil es spannend zu lesen war und ein so wichtiges aktuelles Thema eindringlich \u00fcbermittelt. Es war ihnen wichtig es auch der \u00d6ffentlichkeit nahezubringen, damit dieses Thema nicht in Vergessenheit ger\u00e4t.",
+        "id": "_m5iyILLzi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zusammenfassend ist die 11b sich einig, dass dieses Projekt in ihrer Erinnerung bleiben wird und die Klassengemeinschaft gest\u00e4rkt hat.",
+        "id": "_lL0TxB4yK",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-03-20 17:25
+
+----
+
+Author: Tomke Albrecht und Renke Beckmann (11b)
+
+----
+
+Tags: Deutsch
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
