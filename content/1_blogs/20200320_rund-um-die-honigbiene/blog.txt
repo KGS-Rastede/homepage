@@ -1,0 +1,76 @@
+Title: Rund um die Honigbiene
+
+----
+
+Heading: Angebote unserer Schülerfirma Imkerei
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Die Sch\u00fclerfirma Imkerei f\u00fchrt Grundschulklassen der Feldbreite an die Bienenv\u00f6lker und macht Angebote zum Anh\u00e4nger gie\u00dfen.",
+        "id": "_JC1RTWkM2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Seit dem Start unserer Sch\u00fclerfirma Imkerei konnten schon viele Schulklassen unserer Schule und der Grundschule Feldbreite die Angebote unserer neuen Sch\u00fclerfirma nutzen. Es haben F\u00fchrungen an den Bienenv\u00f6lkern stattgefunden, es wurden Bienenwachsanh\u00e4nger zu Ostern und Weihnachten herstellt oder die Sch\u00fclerfirma im Rahmen des Biologieunterrichts zur Expertenbefragung besucht.",
+        "id": "_RfgWC1o81",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_fwKpYvCwb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es k\u00f6nnen Termine \u00fcber unsere Sch\u00fclerfirma Imkerei gebucht werden. Angebote werden nach euren W\u00fcnschen auf eure Lerngruppen angepasst.",
+        "id": "_Fx0SWJXPc",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- img_9355.jpg
+- img_9357.jpg
+- img_9362.jpg
+- img_9364.jpg
+- img_9395.jpg
+- img_9396.jpg
+- img_9397.jpg
+
+----
+
+Date: 2020-03-20 10:35
+
+----
+
+Author: REE
+
+----
+
+Tags: 
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
