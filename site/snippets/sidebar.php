@@ -19,7 +19,7 @@
                         <div class="card-body">
                             <ul class="list-group list-group-flush">
                                 <?php foreach ($page->sidebar()->toStructure() as $sidebar): ?>
-                                    <li class="list-group-item">
+                                    <li class="list-group-item text-left">
                                     <a href="<?= $sidebar->link() ?>" class="list-group-item list-group-item-action"><?= $sidebar->name() ?></a>
                                     </li>
                                 <?php endforeach ?>
