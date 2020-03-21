@@ -11,19 +11,121 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Die KGS Rastede geh\u00f6rte zu den Pilotschulen in Niedersachsen, die in den 80er Jahren die Stundenplanerstellung \u00fcber gro\u00dffl\u00e4chige Stecksysteme durch rechnergest\u00fctzte Programme abl\u00f6sen konnten. Seit dieser Zeit ist Informatik an der KGS auch in der Stundentafel f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler fest verankert. Geleitet wird dieser Stellenwert von der Erkenntnis, dass Wissen und Fertigkeiten im Umgang mit neuen Technologien heute einen wesentlichen Beitrag daf\u00fcr leisten, dass Sch\u00fclerinnen und Sch\u00fcler in einer komplexen und sich schnell wandelnden Gesellschaft ein selbstbestimmtes Leben f\u00fchren k\u00f6nnen. Daher sind an der KGS Rastede im Wesentlichen alle Informations- und Wahlsysteme online gestellt. So k\u00f6nnen u.a. alle Sch\u00fclerinnen und Sch\u00fcler ihren Stundenplan immer online abrufen. Die Lernplattform Moodle unterst\u00fctzt das Lernen.",
-        "id": "_77rUeQlIE",
+        "content": "Unsere Gesellschaft wird in hohem Ma\u00dfe von Informations- und Kommunikationstechnologien bestimmt und zunehmend von automatisierten Prozessen durchdrungen. Das betrifft in gleicher Weise das private, das berufliche und das gesellschaftliche Umfeld. Ein Grundverst\u00e4ndnis der verwendeten Technologien ist daher Voraussetzung, um ein selbstbestimmtes Leben in dieser Umgebung f\u00fchren zu k\u00f6nnen.",
+        "id": "_il32NYFVu",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Informatik als Fach wird im Hauptschulzweig und Realschulzweig in den Jahrg\u00e4ngen 6-8 als Fach angeboten, in den Jahrg\u00e4ngen 9 bis 10 ist Informatik Teil der Sch\u00fclerfirmen und des Angebotes im Profil Technik. In den Jahrg\u00e4ngen 6-8 erwerben u.a. alle Sch\u00fclerinnen und Sch\u00fcler einen Computerf\u00fchrerschein auf Basis des ECDL. Im Gymnasialzweig ist der Informatikunterricht besonderer Bestandteil des Profilangebotes \u201eWirtschaft-Informatik\u201c, wird aber auch alle Sch\u00fclerinnen und Sch\u00fcler , die ein anderes Profil gew\u00e4hlt haben, ein Halbjahr zum Erwerb des Computerf\u00fchrerscheins angeboten.",
-        "id": "_RyoiSGn3W",
+        "content": "Der Informatikunterricht bef\u00e4higt die Sch\u00fclerinnen und Sch\u00fcler zum reflektierten und verantwortungsbewussten Umgang mit Informatiksystemen. (Quelle Bildungsbeitrag Sek 1)",
+        "id": "_7Nl2Qwmzf",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "In der Einf\u00fchrungsphase tritt Informatik als gesondertes Fach an die Stelle einer Naturwissenschaft und in der Qualifikationsphase ist Informatik an der KGS Rastede als Pr\u00fcfungsfach zugelassen. In der Vergangenheit sind im Pr\u00fcfungsfach eine ganze Reihe besonderer Lernleistungen im Abitur entstanden.",
+        "content": "Informatikunterricht ist also kein Programmierkurs, aber auch keine Word-Schulung. Er findet auch nicht notwendigerweise an Computern statt. Im Informatikunterricht arbeiten wir mit Modellen, mit Algorithmen und mit Simulationen, aber auch mit Softwarewerkzeugen. Dabei eignen sich die Sch\u00fclerinnen und Sch\u00fcler ein systematisches und produktunabh\u00e4ngiges Grundwissen \u00fcber den Aufbau und die Funktionsweise von Informatiksystemen an. (Vgl. Quelle wie oben)",
+        "id": "_PVZ7xRZir",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Informatikunterricht",
+        "id": "_l2rfcadxe",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Ein zentraler Bestandteil unseres Unterrichtskonzepts ist die Projektorientierung. Im projektorientierten Unterricht sollen die Sch\u00fclerinnen und Sch\u00fcler durch praktische, soziale und m\u00f6glichst lebensnahe Arbeit, an informatische Fragestellungen, Aufgaben und Probleme herangef\u00fchrt werden. Die Sch\u00fclerinnen und Sch\u00fcler sind dabei eigenverantwortlich t\u00e4tig. Wir Lehrkr\u00e4fte liefern die n\u00f6tigen Grundlagen, begleiten den Prozess und stehen w\u00e4hrend der Projektarbeit mit Rat und Tat zur Seite. Zu jedem guten Projekt geh\u00f6rt nat\u00fcrlich auch ein Entwurf, eine Dokumentation und die Vorstellung des fertigen Produkts.",
+        "id": "_tF7Dd7Bqv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unterricht in der Sekundarstufe 1",
+        "id": "_gepxru8zw",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das Fach Informatik wird bei uns im Hauptschulzweig und Realschulzweig in den Jahrg\u00e4ngen 6 bis 8 angeboten. In diesem Jahrg\u00e4ngen steht neben der Vermittlung informatischer Grundprinzipien vor allem die informationstechnische Grundbildung der Sch\u00fcerlinnen und Sch\u00fcler im Fokus, damit sie diese F\u00e4higkeiten im Rahmen der Arbeit in den Sch\u00fclerfirmen und den Profilen in den Jahrg\u00e4ngen 9 und 10 anwenden und vertiefen k\u00f6nnen.",
+        "id": "_WkvxRGiOm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Gymnasialzweig ist der Informatikunterricht besonderer Bestandteil des Profilangebotes mit einem eigenen Schwerpunkt. Auch wer den Schwerpunkt Informatik nicht w\u00e4hlt, hat wenigstens ein Halbjahr lang das Fach.",
+        "id": "_U8UGZxu13",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_iHrH9yzdz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unterricht in der Sekundarstufe 2",
+        "id": "_cps7g7egu",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Einf\u00fchrungsphase",
+        "id": "_8uoiuuae9",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "In der Einf\u00fchrungsphase kann Informatik statt einer Naturwissenschaft von allen Sch\u00fclerinnen und Sch\u00fclern belegt werden. Es gibt keinerlei inhaltliche Voraussetzung f\u00fcr die Teilnahme. Es ist also explizit nicht n\u00f6tig den Schwerpunkt Informatik vorher gew\u00e4hlt zu haben oder \u00fcberhaupt im Fach unterrichtet worden zu sein, beispielsweise wenn ein Sch\u00fcler / eine Sch\u00fclerin von einer anderen Schule zu uns gewechselt ist.",
+        "id": "_hDUXxCfAc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In diesem zweist\u00fcndigen, ganzj\u00e4hrigen Kurs werden alle n\u00f6tigen Kompetenzen f\u00fcr die Qualifikationsphase vermittelt.",
+        "id": "_bCm7k1NMS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Qualifikationsphase",
+        "id": "_l1aim6dww",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Neben der Belegung als Erg\u00e4nzungsfach besteht die M\u00f6glichkeit zwischen einem Grund- und Leistungskurs Informatik zu w\u00e4hlen. Voraussetzung ist die Wahl des mathematisch-naturwissenschaftlichen Schwerpunkts im Abitur. Wird das Pr\u00fcfungsfach gew\u00e4hlt, finden auch in diesem Rahmen Projektphasen statt.",
+        "id": "_ZIIzcubHg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der Vergangenheit sind im Pr\u00fcfungsfach eine ganze Reihe besonderer Lernleistungen entstanden.",
+        "id": "_dwMMHoUUO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Geschichte des Fachs an der KGS",
+        "id": "_00uzosy8h",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_1EUqt1c8s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die KGS Rastede geh\u00f6rte zu den Pilotschulen in Niedersachsen, die in den 1980er Jahren die Stundenplanerstellung \u00fcber gro\u00dffl\u00e4chige Stecksysteme durch rechnergest\u00fctzte Programme abl\u00f6sen konnten. Seit dieser Zeit ist Informatik an der KGS auch in der Stundentafel f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler fest verankert. Geleitet wird dieser Stellenwert von der Erkenntnis, dass Wissen und Fertigkeiten im Umgang mit neuen Technologien heute einen wesentlichen Beitrag daf\u00fcr leisten, dass Sch\u00fclerinnen und Sch\u00fcler in einer komplexen und sich schnell wandelnden Gesellschaft ein selbstbestimmtes Leben f\u00fchren k\u00f6nnen. Daher sind an der KGS Rastede im Wesentlichen alle Informations- und Wahlsysteme online gestellt. So k\u00f6nnen u.a. alle Sch\u00fclerinnen und Sch\u00fcler ihren Stundenplan immer online abrufen.",
+        "id": "_wNE6xkVnt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
         "id": "_Tnwbg7IjR",
         "type": "paragraph"
     }
@@ -38,6 +140,14 @@ Gallery:
 
 ----
 
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
 Haupttag: Informatik
 
 ----
@@ -47,3 +157,17 @@ Hintergrundbild: Faecher/informatik/cs2.jpg
 ----
 
 Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=185'
+  name: Informatik Sek I
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=173'
+  name: Informatik Sek II
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=174'
+  name: Ergänzende Hinweise Sek II
