@@ -23,7 +23,7 @@ $list = $items->paginate(5);
 // Nun kann man jede URL durchgehen und jeweils einen Links erzeugen
 foreach ($list as $item): ?>
  
- <div class="col-md-6 mt-4">
+ <div class="col-md-12 mt-4">
     <div class="card">
         <div class="card-header">
             <h4 class="card-title">
