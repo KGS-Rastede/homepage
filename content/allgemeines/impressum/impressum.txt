@@ -1,0 +1,87 @@
+Anschrift:
+
+KGS Rastede</br>
+Wilhelmstr. 5</br>
+D-26180 Rastede</br>
+
+----
+
+Telefon: 0049-4402-9264-0
+
+----
+
+Fax: 0049-4402-9264-64
+
+----
+
+Email: schule@kgs-rastede.de
+
+----
+
+Schultrager:
+
+Gemeinde Rastede</br>
+Sophienstr. 27</br>
+D-26180 Rastede</br>
+Tel.: 0049-4402-920-0</br>
+Fax.: 0049-4402-920-222</br>
+Homepage: http://www.rastede.de
+
+----
+
+Schulleitergeschlecht: frau
+
+----
+
+Stellvgeschlecht: herr
+
+----
+
+Didaktischeleitunggeschlecht: frau
+
+----
+
+Schulleiter: Claudia Berger
+
+----
+
+Stellver: Carsten Niehaus
+
+----
+
+Didaktischeleitung: Hildegard Varelmann
+
+----
+
+Schulleitermail: be@kgs-rastede.de
+
+----
+
+Stellvemail: ni@kgs-rastede.de
+
+----
+
+Didaktischeleitungmail: vm@kgs-rastede.de
+
+----
+
+Inhaltlichverantwortlich: Carsten Niehaus
+
+----
+
+Texte:
+
+- 
+  ueberschrift: 'Beispieltext: Haftungsausschluss'
+  text: >
+    Alle Angebote sind frei und
+    unverbindlich. Wir behalten es uns
+    ausdrücklich vor, Teile der Seite oder
+    das gesamte Angebot ohne gesonderte
+    Ankündigung zu verändern, zu
+    ergänzen, zu löschen oder die
+    Veröffentlichung zeitweise oder
+    endültig einzustellen.
+
+----
+

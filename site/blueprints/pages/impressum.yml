@@ -1,0 +1,123 @@
+title: My blueprint
+
+tabs:
+  inhaltetabs:
+    label: Anschrift
+    icon: home
+    columns:
+      anschriftcolumn:
+        width: 1/2
+        sections:
+          content:
+            type: fields
+            fields:
+              anschrift:
+                label: Anschrift mit Name und Adresse
+                type: textarea 
+      kontaktschule:
+        width: 1/2
+        sections:
+          alallalalal:
+            type: fields
+            fields:
+              telefon:
+                label: Telefonnummer der Schule
+                type: tel
+              fax:
+                label: Faxnummer der Schule
+                type: tel
+              email:
+                label: Email-Adresse der Schule
+                type: email
+      schulträger:
+        width: 1/1
+        sections: 
+          molga:
+            type: fields
+            fields:
+              schultrager:
+                label: Schulträger
+                type: textarea
+
+  schulleitungtabs: 
+    label: Schulleitung
+    icon: users
+    columns:           
+      anreden:
+        width: 1/3
+        sections:
+          contents:
+            type: fields 
+            fields:
+              schulleiterGeschlecht:
+                label: Anrede des Schulleiters/ der Schulleiterin
+                type: select
+                options:
+                  herr: Herr
+                  frau: Frau
+              stellvGeschlecht:
+                label: Anrede des stellv. Schulleiters/ der stellv. Schulleiterin
+                type: select
+                options:
+                  herr: Herr
+                  frau: Frau                
+              didaktischeLeitungGeschlecht:
+                label: Anrede der Didaktischen Leitung
+                type: select
+                options:
+                  herr: Herr
+                  frau: Frau               
+      namen:
+        width: 1/3
+        sections:
+          inhalte:
+            type: fields
+            fields:
+              schulleiter:
+                label: Name des Schulleiters/ der Schulleiterin
+                type: text
+              stellver:
+                label: Name des stellv. Schulleiters/ der stellv. Schulleiterin
+                type: text
+              didaktischeLeitung:
+                label: Name der Didaktischen Leitung
+                type: text
+      mails:
+        width: 1/3
+        sections: 
+          saudbaud:
+            type: fields
+            fields:
+              schulleitermail:
+                label: Email des Schulleiters/ der Schulleiterin  
+                type: email
+              stellvemail:
+                label: Email des stellv. Schulleiters/ der stellv. Schulleiterin
+                type: email            
+              didaktischeLeitungmail:
+                label: Email der Didaktischen Leitung
+                type: email
+      inhaltlich:
+        width: 1/1
+        sections:
+          adbaudwb:            
+            type: fields
+            fields:
+              inhaltlichVerantwortlich:
+                label: Inhaltlich Verantwortlich
+                type: text
+                
+  zusaetzlicheTexte:
+    label: Zusätzliche Texte und Inhalte
+    icon: headline
+    fields:
+      texte:
+        label: Texte
+        type: structure
+        fields:
+          ueberschrift:
+            label: Überschrift
+            type: text
+          text:
+            label: Inhalt des Texts
+            type: textarea          
