@@ -53,19 +53,7 @@ Gallery:
 
 ----
 
-Haupttag: Mathematik
-
-----
-
-Hintergrundbild: 
-
-----
-
-Fotoansicht: carousel
-
-----
-
-Sidebar: 
+Lehrplantext: Hier finden sie die sog. **Netzlehrpläne** für die Jahrgänge 5-13 von allen Schulzweigen.
 
 ----
 
@@ -87,3 +75,24 @@ Lehrplaene:
   link:
     - mathe_jg11.pdf
   name: Jahrgang 11
+
+----
+
+Haupttag: Mathematik
+
+----
+
+Hintergrundbild: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://www.nibis.de/nli1/gohrgs/operatoren/operatoren_ab_2012/op12_mathe.pdf
+  name: Operatoren des Faches

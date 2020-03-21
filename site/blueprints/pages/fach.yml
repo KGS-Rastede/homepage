@@ -28,6 +28,21 @@ columns:
             image:
               cover: true
               ratio: 1/1
+          line:
+            type: line
+          lehrplantext:
+            label: Infos zu den Lehrplänen
+            type: textarea
+          lehrplaene:
+            label: Lehrpläne
+            type: structure
+            fields:
+              link:
+                label: Link (URL)
+                type: files
+              name:
+                label: Bezeichnung des Links
+                type: text
   sidebar:
     width: 1/3
     sticky: true
@@ -56,16 +71,7 @@ columns:
               manuel: Manuell einbinden
                 toggle:
           sidebar: fields/seitenleiste
-          lehrplaene:
-            label: Lehrpläne
-            type: structure
-            fields:
-              link:
-                label: Link (URL)
-                type: files
-              name:
-                label: Bezeichnung des Links
-                type: text
+
 
         
       
