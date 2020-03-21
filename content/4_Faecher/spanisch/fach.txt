@@ -143,8 +143,51 @@ Gallery:
 
 ----
 
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
 Haupttag: Spanisch
 
 ----
 
+Hintergrundbild: 
+
+----
+
 Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/sn_gym_si_kc_druck_2017.pdf
+  name: Kerncurriculum Sek I
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/sn_go_kc_druck_2018.pdf
+  name: Kerncurriculum Sek II
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/za2021/04SpanischHinweise2021.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://nibis.de/uploads/1gohrgs/operatoren_2021/SN_2021Abi_Operatoren.pdf
+  name: Operatorenliste
+- 
+  link: >
+    https://nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf
+  name: 'Sek II - Hinweise zur Bewertung der sprachlichen Leistung'
+- 
+  link: >
+    https://nibis.de/uploads/1gohrgs/za2021/02_Skala_Bewertung_der_inhaltlichen_Leistung.pdf
+  name: 'Sek II - Hinweise zur Bewertung der inhaltlichen Leistung'
