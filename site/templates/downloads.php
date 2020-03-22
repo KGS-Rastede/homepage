@@ -38,28 +38,14 @@
                 <p class="card-text"><?= $page->cardtextHZ() ?></p>
                 <div class="card card-nav-tabs" style="width: 100%;">
                 <div class="table-responsive">
-                    <table class="table">
+                    <table class="table table-striped">
                         <thead>
                         <tr><th>Schulbuchlisten</th></tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td>5. Klasse</td>
-                                <td class="td-actions text-right">
-                                    <button type="button" rel="tooltip" class="btn btn-info btn-just-icon btn-sm">
-                                        <i class="material-icons">cloud_download</i></button>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>10. Klasse</td>
-                                <td class="td-actions text-right">
-                                <button class="btn btn-success">
-                                    <i class="material-icons">cloud_download</i></button>
-                                </td>
-                            </tr>
                             <?php foreach ($page->Schulbuchlisten()->toStructure() as $liste) : ?>
                                 <tr>
-                                <td><?= $liste->name() ?><br>Kosten: <?= $liste->preis() ?>
+                                <td><?= $liste->name() ?><br>Leihgebühren: <?= $liste->preis() ?>
                                 </td>
                                 <td class="td-actions text-right">
                                     <a href="<?= $liste->link()->toFile()->url() ?>">
@@ -103,7 +89,7 @@
             </div>
         </div>
 
-            <div class="card" style="width: 23rem;">
+            <div class="card" style="width: 24rem;">
             <div class="card-header card-header-danger">
                 <h4 class="card-title">Gymnasium</h4>
             </div>
@@ -135,6 +121,15 @@
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#10" data-toggle="tab">10. Klasse</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#11" data-toggle="tab">11. Klasse</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#12" data-toggle="tab">12. Klasse</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#13" data-toggle="tab">13. Klasse</a>
                                     </li>
                                 </ul>
                             </div>
