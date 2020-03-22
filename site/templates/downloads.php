@@ -8,7 +8,7 @@
     <li class="nav-item">
         <a class="nav-link active" href="#Schulbuchlisten-1" role="tab" data-toggle="tab">
             <i class="material-icons">dashboard</i>
-            Schulbuchlisten
+            <?= $page->subtitle1() ?>
         </a>
     </li>
     <li class="nav-item">
@@ -27,14 +27,14 @@
 <div class="tab-content tab-space">
     <div class="tab-pane active" id="Schulbuchlisten-1">
         <h2><?= $page->subtitle1() ?></h2>
-
-        <div class="d-flex justify-content-around">
+        <h4><?= $page->Subtitletext1() ?></h4>
+        <div class="d-flex justify-content-around mt-2">
             <div class="card" style="width: 23rem;">
             <div class="card-header card-header-danger">
                 <h4 class="card-title">Hauptschule</h4>
             </div>
             <div class="card-body">
-                <h6 class="card-subtitle mt-1 mb-2 text-muted">Card subtitle</h6>
+                <h6 class="card-subtitle mt-1 mb-2 text-muted">Braucht man den hier?</h6>
                 <p class="card-text"><?= $page->cardtextHZ() ?></p>
                 <div class="card card-nav-tabs" style="width: 100%;">
                 <div class="table-responsive">
@@ -84,7 +84,7 @@
                 <h4 class="card-title">Realschule</h4>
             </div>
             <div class="card-body">
-                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <h6 class="card-subtitle mb-2 mt-1 text-muted">Card subtitle</h6>
                 <p class="card-text"><?= $page->cardtextRZ() ?></p>
                 <div class="card card-nav-tabs" style="width: 100%;">
                     <ul class="list-group list-group-flush">
@@ -108,7 +108,7 @@
                 <h4 class="card-title">Gymnasium</h4>
             </div>
             <div class="card-body">
-                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <h6 class="card-subtitle mb-2 mt-1 text-muted">Card subtitle</h6>
                 <p class="card-text"><?= $page->cardtextGZ() ?></p>
                 <a href="javascript:;" class="card-link">Card link</a>
                 <a href="javascript:;" class="card-link">Another link</a>
@@ -169,10 +169,12 @@
         </div>
     </div>
     <div class="tab-pane" id="schedule-1">
+        <h2><?= $page->subtitle2() ?></h2>
       Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.
       <br><br>Dramatically maintain clicks-and-mortar solutions without functional solutions.
     </div>
     <div class="tab-pane" id="tasks-1">
+        <h2><?= $page->subtitle3() ?></h2>
        sdfsdfsdfs 
        Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.
         <br><br>Dynamically innovate resource-leveling customer service for state of the art customer service.

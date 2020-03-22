@@ -3,9 +3,15 @@ Title: Wichtige Downloads
 ----
 
 Subtitle1: Schulbuchlisten und Leihgebühren
-
+----
+Subtitle2: Ag-Wahllisten 
+----
+Subtitle3: Busfahrpläne
 ----
 
+Subtitletext1: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
+
+----
 cardtextHZ: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
 ----
 cardtextRZ: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
