@@ -10,7 +10,6 @@
     <thead> 
             <th>Name</th>
             <th>Kürzel</th>
-            <th>Funktion</th>
             <th>Fächer</th>
         </thead>
       <tbody>
@@ -20,10 +19,7 @@
               <?= $l->name() ?>
             </td>
             <td>
-              <?= $l->kuerzel() ?>
-            </td>
-            <td>
-              <?= $l->funktion() ?>
+              <?= $l->kuerzel()->upper() ?>
             </td>
             <td>
               <?= $l->faecher() ?>

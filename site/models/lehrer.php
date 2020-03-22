@@ -15,7 +15,6 @@ class LehrerPage extends Page
                 'content'  => [
                     'name'       => $lehrer['name'],
                     'kuerzel'  => $lehrer['kuerzel'],
-                    'funktion'  => $lehrer['funktion'],
                     'faecher' => $lehrer['faecher'],
                 ]
             ];
