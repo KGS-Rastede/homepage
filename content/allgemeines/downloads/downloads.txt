@@ -1,130 +1,180 @@
-Title: Downloads 
+Title: Downloads und Links
 
 ----
 
 Subtitle1: Schulbuchlisten und Leihgebühren
+
 ----
-Subtitle2: Ag-Wahllisten 
+
+Subtitle2: Ag-Wahllisten
+
 ----
+
 Subtitle3: Busfahrpläne
+
+----
+
+Text: 
+
 ----
 
 Subtitletext1: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
 
 ----
-cardtextHZ: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
-----
-cardtextRZ: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
-----
-cardtextGZ: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
-----
 
-SchulbuchlistenGZ:
+Schulbuchlistengz:
+
 - 
   link:
-    - Schulbuchlisten\schulbuchliste05GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste05GZ.pdf
   name: 5. Klasse
   preis: 30€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste06GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste06GZ.pdf
   name: 6. Klasse
   preis: 300€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste07GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste07GZ.pdf
   name: 7. Klasse
   preis: 35€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste08GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste08GZ.pdf
   name: 8. Klasse
   preis: 90€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste09GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste09GZ.pdf
   name: 9. Klasse
   preis: 330€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste10GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste10GZ.pdf
   name: 10. Klasse
   preis: 32230€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste11S2.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste11S2.pdf
   name: 11. Klasse
   preis: 330€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste12S2.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste12S2.pdf
   name: 12. Klasse
   preis: 32230€
 
 ----
 
-SchulbuchlistenRZ:
+Schulbuchlistenrz:
+
 - 
   link:
-    - Schulbuchlisten\schulbuchliste05GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste05GZ.pdf
   name: 5. Klasse
   preis: 3€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste06GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste06GZ.pdf
   name: 6. Klasse
   preis: 400€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste07GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste07GZ.pdf
   name: 7. Klasse
   preis: 323€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste08GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste08GZ.pdf
   name: 8. Klasse
   preis: 69€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste09GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste09GZ.pdf
   name: 9. Klasse
   preis: 330€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste10GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste10GZ.pdf
   name: 10. Klasse
   preis: 420€
 
 ----
 
-SchulbuchlistenHZ:
+Schulbuchlistenhz:
+
 - 
   link:
-    - Schulbuchlisten\schulbuchliste05GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste05GZ.pdf
   name: 5. Klasse
   preis: 3€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste06GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste06GZ.pdf
   name: 6. Klasse
   preis: 30€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste07GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste07GZ.pdf
   name: 7. Klasse
   preis: 3.50€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste08GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste08GZ.pdf
   name: 8. Klasse
   preis: 950€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste09GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste09GZ.pdf
   name: 9. Klasse
   preis: 3.30€
 - 
   link:
-    - Schulbuchlisten\schulbuchliste10GZ.pdf
+    - >
+      allgemeines/downloads/Schulbuchlisten/schulbuchliste10GZ.pdf
   name: 10. Klasse
   preis: 322.30€
+
+----
+
+Hintergrundbild: 
+
+----
+
+Fotoansicht: 
+
+----
+
+Sidebar: 
+
+----
+
+Cardtexthz: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
+
+----
+
+Cardtextrz: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.
+
+----
+
+Cardtextgz: In den Leihgebühren sind die obligatorischen Buchumschläge enthalten, d.h. die Bücher werden mit Buchumschlag entliehen.

@@ -11,13 +11,13 @@
     <li class="nav-item">
         <a class="nav-link" href="#schedule-1" role="tab" data-toggle="tab">
             <i class="material-icons">schedule</i>
-            Ag-Wahllisten
+            <?= $page->subtitle2() ?>
         </a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="#schulbusverkehr" role="tab" data-toggle="tab">
+        <a class="nav-link" href="#schulbusverkehr-1" role="tab" data-toggle="tab">
             <i class="material-icons">list</i>
-            Busfahrpläne
+            <?= $page->subtitle3() ?>
         </a>
     </li>
 </ul>
@@ -140,11 +140,9 @@
       Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.
       <br><br>Dramatically maintain clicks-and-mortar solutions without functional solutions.
     </div>
-    <div class="tab-pane" id="schulbusverkehr">
+    <div class="tab-pane" id="schulbusverkehr-1">
         <h2><?= $page->subtitle3() ?></h2>
-       sdfsdfsdfs <br>
-       Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.
-        <br>Dynamically innovate resource-leveling customer service for state of the art customer service.
+        Dieser Tab soll später direkt über einen Link von einer Externen Seite aufgerufen werden, das funktioniert aber noch nicht.
     </div>
 </div>
 
