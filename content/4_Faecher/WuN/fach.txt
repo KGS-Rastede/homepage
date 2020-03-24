@@ -6,7 +6,22 @@ Heading: Werte und Normen
 
 ----
 
-Text: Hier fehllt der Inhalt
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Elternbrief (Link) f\u00fcr die Grundsch\u00fcler zu Anmeldung WuN/ RE (pdf)",
+        "id": "_ZwizCYAfJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_56zj2wflf",
+        "type": "paragraph"
+    }
+]
 
 ----
 
@@ -14,8 +29,64 @@ Gallery:
 
 ----
 
+Lehrplantext: 
+
+----
+
+Lehrplaene:
+
+- 
+  link:
+    - kurzversion-wun-rz.pdf
+  name: Lehrplan Realschulzweig
+- 
+  link:
+    - kurzversion-wun-gz.pdf
+  name: Lehrplan Gymnasium
+- 
+  link:
+    - wun-re-brief-an-die-gs.pdf
+  name: >
+    Elternbrief (Link) für die
+    Grundschüler zu Anmeldung WuN/ RE
+
+----
+
 Haupttag: WuN
 
 ----
 
+Hintergrundbild: 
+
+----
+
 Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/wn_go_kc_druck_2019.pdf
+  name: KC gymnasiale Oberstufe
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/wn_gym_si_kc_druck_2017.pdf
+  name: KC SEK I GZ
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/2018-06-25_wn_rs_si_kc_druckfassung.pdf
+  name: KC SEK I RZ
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/2018-06-25_wn_hs_si_kc_druckfassung.pdf
+  name: KC SEK I HZ
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/WN_2021Abi_Operatoren.pdf
+  name: Operatorenliste
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/za2021/25WerteNormenHinweise2021.pdf
+  name: Hinweise Abitur 2021

@@ -1,6 +1,8 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
+<?= $page->text()->blocks() ?>
+
 <div class="row">
   <?php foreach ($page->children() as $zweig) : ?>
     <div class="col-lg-3 col-md-6">

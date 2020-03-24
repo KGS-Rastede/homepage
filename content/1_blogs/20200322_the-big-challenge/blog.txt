@@ -1,0 +1,82 @@
+Title: The Big Challenge
+
+----
+
+Heading: Fremdsprachenwettbewerb am 06.Mai 2020
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Big Challenge - an unserer Schule",
+        "id": "_tkczxcnvv",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.thebigchallenge.com/de/\">https://www.thebigchallenge.com/de/</a>",
+        "id": "_a87kyo82g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_e0oqnh93y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Begib\u00b4Dich in die GAME ZONE <a href=\"https://gamezone.thebigchallenge.com/?lang=de\">https://gamezone.thebigchallenge.com/?lang=de</a> und lerne online f\u00fcr den Wettbewerb und f\u00fcrs Leben! Hol\u00b4Dir die App und los geht\u00b4s !!",
+        "id": "_s3j6rj15c",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- download.jpg
+- >
+  images_publisher_fachschaften_bilder_wettbewerbe-big-challenge-logo.png
+- home-lots2020-600x371.jpg
+- di-de-2020-600x383.png
+- diplome_2020.png
+
+----
+
+Date: 2020-03-22 14:50
+
+----
+
+Author: PTZ
+
+----
+
+Tags: Englisch
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: true
+
+----
+
+Downloads:
+
+- di-de-2020-600x383.png
+- diplome_2020.png
+- download.jpg
+- home-lots2020-600x371.jpg
+- >
+  images_publisher_fachschaften_bilder_wettbewerbe-big-challenge-logo.png
+
+----
+
+Fotoansicht: gallery

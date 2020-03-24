@@ -35,9 +35,12 @@
             <a class="dropdown-item" href="<?= page('kontakte/schulleitung')->url() ?>"><i class="material-icons">school</i>Schuleitung</a>
             <a class="dropdown-item" href="<?= page('kontakte/fbl')->url() ?>"><i class="material-icons">face</i>Fachbereichsleiter</a>
             <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>"><i class="material-icons">people</i>Sekretariate</a>
+            <a class="dropdown-item" href="<?= page('lehrer')->url() ?>"><i class="material-icons">people</i>das Kollegium</a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="<?= page('sv/die_sv')->url() ?>"><i class="material-icons">face</i>Schülervertretung (SV)</a>
-            </div>
+            <a class="dropdown-item" href="<?= page('kontakte/spr')->url() ?>"><i class="material-icons">face</i>Personalrat (SPR)</a>
+            <a class="dropdown-item" href="<?= page('ser/vorstand')->url() ?>"><i class="material-icons">people_alt</i>Schulelternrat (SER)</a>  
+          </div>
           </li>
 
           <li class="dropdown nav-item">
@@ -49,8 +52,6 @@
             <a class="dropdown-item" href="<?= page('allgemeines/schulstruktur/zeitraster')->url() ?>"><i class="material-icons">timer</i>Zeitraster</a>
             <a class="dropdown-item" href="<?= page('allgemeines/schulstruktur/presse')->url() ?>"><i class="material-icons">pages</i>...aus der Presse</a>
             <a class="dropdown-item" href="<?= page('allgemeines/ausbildungsschule')->url() ?>"><i class="material-icons">school</i>Ausbildungsschule</a>
-            <a class="dropdown-item" href="<?= page('ser/vorstand')->url() ?>"><i class="material-icons">people_alt</i>Schulelternrat (SER)</a>
-
 
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="<?= page('allgemeines/beratung')->url() ?>"><i class="material-icons">people_outline</i>Beratung</a>
@@ -69,7 +70,7 @@
 
           <li class="dropdown nav-item">
             <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-              <i class="material-icons">school</i> Leben &amp; Lernen
+              <i class="material-icons">school</i> Unterricht &amp; Schulleben
             </a>
             <div class="dropdown-menu dropdown-with-icons">    
             <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><i class="material-icons">local_hospital</i>Schulsanitätsdienst</a>

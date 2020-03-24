@@ -1,0 +1,32 @@
+Title: Wichtige Links
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Hier finden Sie eine schnelle \u00fcbersicht \u00fcber die wichtigsten Links im Alltag",
+        "id": "_pleddxe3n",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Inhalte:
+
+- 
+  link: [ ]
+  url: https://webuntis.kgs-rastede.de
+  name: WebUntis (aktueller Vertretungsplan)
+- 
+  link:
+    - hallenplane.pdf
+  url: ""
+  name: Hallenpläne der Turnhalle
+
+----
+
+Lehrplaene: 

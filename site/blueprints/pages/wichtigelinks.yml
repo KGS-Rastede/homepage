@@ -1,0 +1,35 @@
+title: Wichtige Links
+icon: 📖
+
+options:
+  update:
+    *: false
+    admin: true
+
+
+sections:
+  content:
+    type: fields
+    fields:
+      text:
+        label: Inhalt
+        type: editor
+      line:
+        type: line
+      inhalte:
+        label: Links
+        type: structure
+        fields:
+          link:
+            label: Link (URL)
+            type: files
+          url:
+            label: url
+            type: url
+          name:
+            label: Bezeichnung des Links
+            type: text
+
+
+        
+      

@@ -46,9 +46,8 @@
 <?php endif ?>
 
 
-<div class="row">
-
-  <h2>Aktuelles aus dem Fach</h2>
+<h2>Aktuelles aus dem Fach</h2>
+<div class="container">
 
   <?php $index = 0;
   foreach (page('blogs')
@@ -67,58 +66,31 @@
         'subpage' => $subpage
       ]) ?>
 
-
-
-
-
     <?php else : ?>
     <?php endif ?>
   <?php endforeach ?>
+</div>
 
+<div class="container my-3 border">
+
+  <?php snippet('blogs', [
+    'blogs' => page('blogs')
+      ->children()
+      ->listed()
+      ->filterBy('tags', $page->haupttag(), ',')
+  ]) ?>
 
 </div>
 
+<div class="container my-3 border">
 
-<div class="container">
-  <div class="row">
-
-
-
-    <?php snippet('blogs', [
-      'blogs' => page('blogs')
-        ->children()
-        ->listed()
-        ->filterBy('tags', $page->haupttag(), ',')
-    ]) ?>
-
-
-    <?php if ($page->fotoansicht() == 'carousel') : ?>
-      <?php snippet('carousel') ?>
-    <?php elseif ($page->fotoansicht() == 'gallery') : ?>
-      <?php snippet('gallery') ?>
-    <?php else : ?>
-      <!-- Bilder werden vom Autor manuel gesetzt -->
-    <?php endif ?>
-  </div>
+  <?php if ($page->fotoansicht() == 'carousel') : ?>
+    <?php snippet('carousel') ?>
+  <?php elseif ($page->fotoansicht() == 'gallery') : ?>
+    <?php snippet('gallery') ?>
+  <?php else : ?>
+    <!-- Bilder werden vom Autor manuel gesetzt -->
+  <?php endif ?>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <?php snippet('footer') ?>

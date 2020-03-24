@@ -4,8 +4,8 @@
 
 
 
-<h1><?= $page->title()->kirbytext() ?></h1>
-<h2><?= $page->heading()->kirbytext() ?></h2>
+<h1><?= $page->title()->text() ?></h1>
+<h3><?= $page->heading()->text() ?></h3>
 
 Datum: <?= $page->date()->toDate("d.m.Y") ?>
 
