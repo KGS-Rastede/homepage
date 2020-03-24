@@ -19,7 +19,9 @@
               <?= $l->name() ?>
             </td>
             <td>
-              <?= $l->kuerzel()->upper() ?>
+              <a href="mailto:<?= $l->kuerzel()->upper() ?>@kgs-rastede.de">
+                <?= $l->kuerzel()->upper() ?>
+              </a>
             </td>
             <td>
               <?= $l->faecher() ?>
