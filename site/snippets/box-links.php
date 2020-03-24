@@ -7,13 +7,13 @@
         </ul>
         <hr>
         <ul>
-            <a href="#">
+            <a href="https://thalia.webuntis.com/WebUntis/?school=kgs-rastede">
                 <img src="<?= $kirby->url('assets') ?>/bilder/webuntis.png" class="img-fluid">
             </a>
         </ul>
         <hr>
         <ul>
-            <a href="#">
+            <a href="https://ssl.kgs-rastede.de/moodle/login/index.php">
                 <img src="<?= $kirby->url('assets') ?>/bilder/moodle-kgs.png" class="img-fluid">
             </a>
         </ul>
