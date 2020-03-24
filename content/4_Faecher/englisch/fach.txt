@@ -2,15 +2,181 @@ Title: Englisch
 
 ----
 
-Heading: Hi, what up
+Heading: Englisch worldwide and in Rastede
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong><u>To be or not to be, that is the question -</u></strong>",
+        "id": "_4ztyt6ex7",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Schon William Shakespeare wusste, dass dies die Frage aller Fragen ist. Fr\u00fch setzte die englische Sprache Akzente, mehr noch im Zuge der Ausbreitung zu einer Weltsprache durch die Kolonialisierung nach Amerika, Australien oder Indien. Ferner verbreitete sich diese in England beheimatete germanische Sprache ab dem fr\u00fchen Mittelalter durch Einwanderung nordseegermanischer V\u00f6lker in die Welt. Die hier auf dem Kontinent verwandten Sprachen sind das Friesische und Niederdeutsche. Die D\u00e4nen und Norweger pr\u00e4gten diese Sprache im 9.Jahrhundert, sowie die Franzosen durch den letztmaligen Einmarsch ins Mutterland beim \u201eBattle of Hastings\u201c 1066. William der Eroberer (the Conqueror) gab nochmals einen Impuls, um diese Sprache zu \u00e4ndern. Die englische Sprache ist durch Entwicklungen der Jahrhunderte stets im Wandel begriffen. Englisch fungiert als die Verkehrssprache (Lingua franca) in der Welt, die von Menschen mit unterschiedlichen Muttersprachen zum Zweck der internationalen und interkulturellen Kommunikation verwendet wird, da es als f\u00fchrende Technologie-, Forschungs- sowie Handelssprache wie auch durch seine Verbreitung \u00fcber jedwede Medien fast \u00fcberall verwendet wird. Daher wird Englisch in Schulen vieler L\u00e4nder als erste Fremdsprache gelehrt und ist offizielle Sprache internationaler Organisationen. In Deutschland verst\u00e4ndigten sich die Bundesl\u00e4nder im Jahre 1955, im Zuge des D\u00fcsseldorfer Abkommens, Englisch an allen Schulen als Pflichtfremdsprache einzuf\u00fchren.",
+        "id": "_nodj7n5lc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/Faecher+englisch/files/download-2.jpg",
+            "id": "Faecher/englisch/download-2.jpg",
+            "ratio": 1.5027322404371584,
+            "caption": "William Shakespeare"
+        },
+        "content": "",
+        "id": "_4ljn35fg1",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><u>I have a dream that my (\u2026.) children will one day live in a nation where they will be judged by the content of their character, not by the colour of their skin.</u></strong>",
+        "id": "_hfgolsqgz",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Sprache vereint Menschen, schafft Verst\u00e4ndnis, motiviert Menschen, sich mit Neuem auseinanderzusetzen, \u00fcberwindet Grenzen und erzeugt Verst\u00e4ndnis, indem es Vorurteile abbaut und Menschen sich n\u00e4her kennenlernen. Das ist aktueller denn je.",
+        "id": "_x48y0tdar",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_1dmm8ls6u",
+        "type": "hr"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/Faecher+englisch/files/6700965631_4a90496306_o.jpg",
+            "id": "Faecher/englisch/6700965631_4a90496306_o.jpg",
+            "ratio": 1.3333333333333333,
+            "caption": "Martin Luther King jr."
+        },
+        "content": "",
+        "id": "_c6efylmsc",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_qc3kcecyk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unsere KGS Rastede ist eine Kooperative Gesamtschule mit etwa 2000 Sch\u00fclerInnen und etwa 185 LehrerInnen im Landkreis Ammerland, die besondere R\u00fccksicht auf die Vielfalt unserer Sch\u00fclerInnen nimmt. Die Schulformen Hauptschule, Realschule und Gymnasium werden \u201eunter einem gemeinsamen Dach\u201c als aufeinander bezogene und miteinander verbundene Schulzweige zusammengef\u00fchrt. In jedem Zweig wird das Fach Englisch unterrichtet. Ab h\u00f6heren Jahrg\u00e4ngen wird in differenzierten Kursen unterrichtet. In unseren heterogenen Lerngruppen kann jede/r einzelne Sch\u00fclerIn von den St\u00e4rken und Schw\u00e4chen der anderen profitieren und auch wir LehrerInnen erfahren im allt\u00e4glichen Umgang mit den Sch\u00fclern immer wieder neue Situationen, die unsere Lehrf\u00e4higkeiten und -kompetenzen erweitern. Ein gemeinsamer und r\u00fccksichtsvoller Englischunterricht ist t\u00e4glich unser Ziel.",
+        "id": "_cG4ZLLTLI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/Faecher+englisch/files/kgs-wilhelmstrasse-2019-ak-3.jpg",
+            "id": "Faecher/englisch/kgs-wilhelmstrasse-2019-ak-3.jpg",
+            "ratio": 2.0851063829787235,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_90uaanges",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_191kfsez8",
+        "type": "hr"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_48ijcc7us",
+        "type": "paragraph"
+    }
+]
 
 ----
 
-Gallery: 
+Gallery:
+
+- download.jpg
+- download.png
+- uk-flag.jpg
+- english-header.jpg
+- >
+  ammerland_rastede_2_2003bd26-1ee5-4ce6-98e0-70290fcc7a02-600x308.jpg
+- >
+  heprod_images_fotos_1_11_30_20080426_pict8018_c8_1649512.jpg
+- img_3667_c8_2635828.jpg
+- img_9484-522x337.jpg
+- 2-1.jpg
+- img_5296-538x337.jpg
+- img_0222-365x337.jpg
+- >
+  ammerland_rastede_2_3e033d67-68a3-461b-af94-e9abf95686ec_c8_2320841.jpg
+
+----
+
+Lehrplantext:
+
+Hier finden Sie die Netzlehrpläne für das Fach Englisch an der KGS Rastede für die 3 Schulzweige 
+(Gymnasium, Realschule, Hauptschule) 
+und Informationen zum Fach
+
+----
+
+Lehrplaene:
+
+- 
+  link:
+    - gesamtnetzplan-gz-5-10.pdf
+  name: 'Lehrpläne des Faches Englisch an der KGS Rastede - Gymnasialzweig'
+- 
+  link:
+    - gesamtnetzplan-rz-5-10.pdf
+  name: 'Lehrpläne des Faches Englisch an der KGS Rastede - Realschulzweig'
+- 
+  link:
+    - gesamtnetzplan-hz-5-10.pdf
+  name: 'Lehrpläne des Faches Englisch an der KGS Rastede - Hauptschulzweig'
+- 
+  link:
+    - prasentationsprufung-englisch.pdf
+  name: >
+    Informationen zur Präsentationsprüfung
+    im Fach Englisch
+- 
+  link:
+    - leitfaden-englisch.pdf
+  name: >
+    Leitfaden des Faches Englisch an unserer
+    Schule / Zuständigkeiten etc
+- 
+  link:
+    - >
+      fachbereich-englisch-an-der-kooperativen-gesamtschule-rastede.docx
+  name: >
+    Infos zum Fachbereich Englisch an der
+    KGS Rastede
+- 
+  link:
+    - operatoren_alle.pdf
+  name: Operatorenliste
+- 
+  link:
+    - 20141017musteraufgabenen.pdf
+  name: 'Musteraufgaben für das Abitur '
+- 
+  link:
+    - bewertung-sprachmittlung.pdf
+  name: 'Bewertungsraster Sprachmittlung - Mustervorlage'
+- 
+  link:
+    - sprechprufungen-an-der-kgs-rastede.doc
+  name: 'Sprechprüfungen an der KGS Rastede - Übersicht der Niveaustufen und Länge'
 
 ----
 
@@ -18,4 +184,68 @@ Haupttag: Englisch
 
 ----
 
-Fotoansicht: gallery
+Hintergrundbild: Faecher/englisch/english-header.jpg
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gesamtschule/gesamtschule-6424.html
+  name: 'RdErl. d. MK v. 3.8.2015 – 34 – 81072 - VORIS 22410 -'
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/ausgabe/index.php?mat1=16
+  name: Kerncurriculum Niedersachsen KGS
+- 
+  link: https://nibis.de/startseite_1
+  name: Niedersächsischer Bildungsserver
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/za2021/02EnglischHinweise2021.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.abiweb.de/englisch-methoden/willkommen-abiturkurs-englisch/operatoren-abitur-bedeutung-beispiele.html
+  name: Operatorenliste für das Fach Englisch
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf
+  name: >
+    Hinweise zur Bewertung der sprachlichen
+    Leistung
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/za2019/2017_Erlass_ZA_Bewertung_FS.pdf
+  name: >
+    Hinweise zur Bewertung der schriftlichen
+    Leistung
+- 
+  link: >
+    https://db2.nibis.de/1db/cuvo/datei/en_gym_si_kc_online.pdf
+  name: Kerncurriculum für das Gymnasium
+- 
+  link: >
+    https://db2.nibis.de/1db/cuvo/datei/kc_englisch_rs.pdf
+  name: Kerncurriculum für die Realschule
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/kc_englisch_hs.pdf
+  name: Kerncurriculum für die Hauptschule
+- 
+  link: https://www.britishcouncil.de/
+  name: British Council Deutschand
+- 
+  link: https://www.ego4u.de/
+  name: Englisch lernen mit EGO4U
+- 
+  link: >
+    https://www.fluentu.com/blog/english-ger/englisch-sprechen-mit-kindern/
+  name: Lustige Ideen zum Englischlernen
