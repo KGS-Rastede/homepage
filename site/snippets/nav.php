@@ -70,7 +70,7 @@
 
           <li class="dropdown nav-item">
             <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-              <i class="material-icons">school</i> Leben &amp; Lernen
+              <i class="material-icons">school</i> Unterricht &amp; Schulleben
             </a>
             <div class="dropdown-menu dropdown-with-icons">    
             <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><i class="material-icons">local_hospital</i>Schulsanitätsdienst</a>
