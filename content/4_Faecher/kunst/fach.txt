@@ -6,7 +6,214 @@ Heading:
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Bedeutung des Faches Kunst",
+        "id": "_hk1387qdc",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "\u201eKunst ist das schwierigste Fach!\u201c (Clemens H\u00f6xter, ehem. Fachleiter Kunst, Studienseminar Oldenburg)",
+        "id": "_1shifizgb",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "\u201eUnd das Sch\u00f6nste!\u201c (Anmerkung der Redaktion)",
+        "id": "_sdactd8pv",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Nicht nur im gesamten Kunstkollegium unserer Schule, sondern weit dar\u00fcber hinaus wird f\u00fcr die Bedeutsamkeit des Faches gek\u00e4mpft, denn leider hat es in den letzten Jahren zugunsten anderer F\u00e4cher stark an Aufmerksamkeitsinteresse verloren.",
+        "id": "_2npw7yMKY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dies soll sich \u00e4ndern, denn Kunst\u2026",
+        "id": "_NxuCC8nyt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "ist das kulturell- und allgemeinbildende Fundament, auf dem unsere Gesellschaft fu\u00dft. Es umfasst folgende Sachbereiche:",
+        "id": "_0myp13vpz",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<table class=\"MsoTableGrid\" border=\"1\" cellspacing=\"0\" cellpadding=\"0&#10;\">\n <tr>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoNormal\">Bildende Kunst<o:p></o:p></p>\n </td>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoNormal\"><span>Gebaute Umwelt</span><o:p></o:p></p>\n </td>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoNormal\"><span>Visuelle\n (Massen-)Medien</span><o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoListParagraphCxSpFirst\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Graphik <o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Druckgraphik<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Malerei<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Bildhauerei<o:p></o:p></![endif]></![if></p>\n </td>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Architektur <o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Innenarchitektur, Produktdesign<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Stadtentwicklung, St\u00e4dtebau<o:p></o:p></![endif]></![if></p>\n </td>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Plakatkunst<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Graphikdesign<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Fotografie<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpLast\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Film<o:p></o:p></![endif]></![if></p>\n </td>\n </tr>\n</table>",
+        "id": "_jvyB6MS4j",
+        "type": "kirbytext"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_29PLalwss",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "z\u00e4hlt zu dem \u00e4ltesten, kostbarsten und identit\u00e4tsstiftenden Gut unserer Gesellschaft bzw. Kultur und wird nicht ohne Grund in nationalen Archiven und Museen gesch\u00fctzt, gepflegt, ausgestellt und wertgesch\u00e4tzt.",
+        "id": "_izqe0oq8u",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "kann bei der Rezeption intensive Gef\u00fchle des Vergn\u00fcgens hervorrufen und bei der Produktion das Gehirn durch kreative Prozesse aktivieren und bewusst involvieren (siehe Studien der Hirnforschung, z.B. des Max-Planck-Instituts f\u00fcr empirische \u00c4sthetik).",
+        "id": "_yupu9rei0",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "f\u00f6rdert und fordert die Auseinandersetzung mit kulturspezifischen- und \u00fcbergreifenden Themen sowie das Verst\u00e4ndnis gesellschaftlicher Prozesse.",
+        "id": "_4kj27ab4m",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "f\u00f6rdert und fordert die pers\u00f6nliche Entwicklung eines jeden Menschen auch au\u00dferhalb der sonst so stark im Fokus stehenden reinen Leistung in Form von Noten und kann daher - \u00e4hnlich wie Sport oder Musik - zu mehr Freude und Zufriedenheit im Leben beitragen.",
+        "id": "_fn4qlih3s",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Wenn man sich die F\u00fclle der drei oben aufgef\u00fchrten Sachbereiche nun f\u00fcr die unterrichtliche Praxis vorstellt, sind die Grenzen des M\u00f6glichen schnell \u00fcberschritten. <br>Dennoch werden auf Grund von bildungspolitischen Beschl\u00fcssen diese Grenzen immer enger, da dem Fachunterricht Kunst wertvolles Stundenkontingent gestrichen wurde. So muss leider auch an unserer Schule der Kunstunterricht, dessen Inhalte von der Landesschulbeh\u00f6rde im Kerncurriculum vorgegeben werden (",
+        "id": "_CYlJP32p4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "db2.nibis.de/1db/cuvo/datei/ku_go_kc_druck_23_05_16.pdf\"&gt;https://db2.nibis.de/1db/cuvo/datei/ku_go_kc_druck_23_05_16.pdf ), in mehreren Jahrg\u00e4ngen (5,8,9,10) epochal anstatt ganzj\u00e4hrig durchgef\u00fchrt werden. Allen Unm\u00f6glichkeiten zum Trotz.",
+        "id": "_H21NcJDFL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dies bedeutet grunds\u00e4tzlich weniger Kunstunterricht f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler und die Schwierigkeit f\u00fcr die unterrichtenden Lehrkr\u00e4fte, das ohnehin so komplexe Fach inhaltlich sinnvoll zu reduzieren.",
+        "id": "_WlrfqCNJZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u00c4hnlich ergeht es dem Fach Musik. Aus diesem Grund beteiligt sich die KGS an der landesweiten Aktionsreihe <strong>\u201eKuMu20- auf die Augen, auf die Ohren!\u201c (</strong>",
+        "id": "_1WY7LPQ8p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "kumu20.de/\"&gt;https://kumu20.de/<strong> ), die in diesem Jahr als Pilotprojekt startet, um die</strong>",
+        "id": "_SckZm3DYw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "musikalisch-ku\u0308nstlerisch-a\u0308sthetische Arbeit der Gesamtschulen in Niedersachsen zu zeigen und in besonderer Weise wertzusch\u00e4tzen. In diesem Rahmen veranstaltet der Fachbereich Musik mehrere Konzerte und der Fachbereich Kunst eine <strong>Ausstellung zum Thema \u201eMeer\u201c ab dem 10.Juli 2020 im Palais Rastede</strong>.",
+        "id": "_UqqoUxam3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ausstattung",
+        "id": "_h9qp4irwz",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Unsere Schule konnte in den letzten Jahren viele wichtige Anschaffungen, insbesondere in technischer Hinsicht (z.B. Ipads, Dokumentenkameras, Licht- und Tonausstattung zum Filmen), vornehmen. Hier geht besonderer Dank an den F\u00f6rderverein der KGS. Die KGS stellt neben Verbrauchsmaterialien wie beispielsweise Temperafarben, Kohle, Pastellkreiden, Aquarellstifte und verschiedene Papiere auch diverse Werkzeuge wie Cutter, Zangen, gro\u00dfe Pinsel, gro\u00dfe Geodreiecke, Lineale, um nur einige zu nennen, zur Verf\u00fcgung. Daf\u00fcr wird von jedem Sch\u00fcler jedes bzw. jeder Sch\u00fclerin Jahr ein Euro eingesammelt. Dies erm\u00f6glicht ein sehr breites Angebot an k\u00fcnstlerischen Techniken im Unterricht.",
+        "id": "_3lyevy89d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Atelierkurs",
+        "id": "_zegx3foq4",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Eine weitere besondere Wertsch\u00e4tzung erlangt das Fach Kunst an unserer Schule in diesem Jahr durch die Etablierung eines \u201eAtelierkurses\u201c aufsteigend ab dem k\u00fcnftigen f\u00fcnften Jahrgang, bei dem Sch\u00fclerinnen und Sch\u00fcler aus allen Schulzweigen die M\u00f6glichkeit haben, sowohl zwei Stunden am Vor- als auch zwei Stunden am Nachmittag in der Woche der \u00e4sthetischen Theorie und Praxis in umfangreicheren Ma\u00dfe nachzugehen, als es bisher in diesem Jahrgang der Fall war. Ob der Kurs zuk\u00fcnftig tats\u00e4chlich den Charakter eines Ateliers (mit ausreichend Staffeleien) haben wird, obliegt der oben erw\u00e4hnten Stundentafel und der zuk\u00fcnftigen (materiellen) F\u00f6rderung unseres Faches durch die Gemeinde. In jedem Fall ist es eine sinn- und gehaltvolle Erweiterung des k\u00fcnstlerisch-\u00e4sthetischen Angebots an unserer Schule, dass dem eigentlichen Trend der Stundenreduzierung des Faches entgegenwirkt.",
+        "id": "_toc36ezvt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Abitur",
+        "id": "_aivbx07xk",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Ebenso positiv ist die geplante wissenschaftsprop\u00e4deutische Ausrichtung des Faches in der Oberstufe zu bewerten. Ab dem Sommer 2020 soll das Angebot der Oberstufe der KGS durch einen Kurs auf erh\u00f6htem Niveau erweitert werden. Somit werden unsere Sch\u00fclerinnen und Sch\u00fcler im Jahr 2022 das schriftliche (und zuk\u00fcnftig ggf. auch das m\u00fcndliche) Abitur im Fach Kunst ablegen und ihre damit erworbenen fachlichen Kompetenzen auf ihrem weiteren, ggf. kulturell orientierten Lebensweg, anwenden k\u00f6nnen.",
+        "id": "_7E1eZh0Fw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "wahlpflichtkurse",
+        "id": "_gtehtagfv",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Noch ein k\u00fcnstlerisch-kulturelles Angebot, das unsere Schule f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler des Gymnasial- und Realschulzweigs seit einigen Jahren organisiert, ist die M\u00f6glichkeit, das Fach Kunst im Wahlpflichtbereich anzuw\u00e4hlen, sodass in den Jahrg\u00e4ngen 8-10 zus\u00e4tzlich zum dort epochal stattfindenden Kunstunterricht erg\u00e4nzende und vertiefende Inhalte des Faches mit besonderer Ber\u00fccksichtigung des Lebensweltbezugs vermittelt werden k\u00f6nnen. W\u00fcnschenswert w\u00e4re, dass auch die Sch\u00fclerinnen und Sch\u00fcler des Hauptschulzweiges in den Jahrg\u00e4ngen 7-10 ein (solches) Bildungsangebot im Fach Kunst bekommen.",
+        "id": "_olqi10qo0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Einen \u00dcberblick \u00fcber das schuleigene Fachcurriculum findet sich bei den Links unten.",
+        "id": "_epfE0VCrG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Fach Kunst sollen alle Sch\u00fclerinnen und Sch\u00fcler ein Skizzenbuch f\u00fchren, das sie \u00fcber ihre gesamte schulische Laufbahn begleitet und ihnen als selbst erstelltes Nachschlagewerk dient. Weitere Materialien, die ab dem f\u00fcnften Jahrgang f\u00fcr das Fach anzuschaffen sind, finden sich auf einer Liste bei den Links unten.",
+        "id": "_QkqGRVW8w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "F\u00fcr den Kunstunterricht sowie die Ausbildung von Referendarinnen und Referendaren des Faches Kunst an unserer Schule engagieren sich folgende Lehrkr\u00e4fte (in alphabetischer Reihenfolge):",
+        "id": "_JTPejpdgp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sarah Berres (BRS), Stefanie Christiansen (CHR), Jana Dietl (DTL), Alina Edelmann (ED; Fachkonferenzleitung), Andrea Ende (EN), Valerie Gerlach (GER; Referendarin), Julija Gr\u00fcssing (GRS), Hauke Huntemann (HU), Rita Krassuski (KR), Sabine Oberkampf (OBK), Seema Schneemann (SCH), Mareike Sieling (SIE), Hildegard Varelmann (VM; Didaktische Leitung).",
+        "id": "_HJ8xcoN8t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_DU7JnEAiq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_eEvjgwAxC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_DNXqvM0vP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_iXB6iC0Wi",
+        "type": "paragraph"
+    }
+]
 
 ----
 
@@ -14,8 +221,28 @@ Gallery:
 
 ----
 
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
 Haupttag: Kunst
 
 ----
 
+Hintergrundbild: 
+
+----
+
 Fotoansicht: gallery
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://db2.nibis.de/1db/cuvo/datei/ku_go_kc_druck_23_05_16.pdf">https://db2.nibis.de/1db/cuvo/datei/ku_go_kc_druck_23_05_16.pdf'
+  name: Cuvos
