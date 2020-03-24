@@ -54,36 +54,6 @@ Text:
     {
         "attrs": [],
         "content": "",
-        "id": "_WaExBgpGk",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Links:",
-        "id": "_6Kd9bdL2w",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Kerncurricula Chemie:",
-        "id": "_xvvAORkCb",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "cuvo.nibis.de/cuvo.php?fulltextsearch_lev0_ov=&amp;skey_lev0_1000_ov=Dokumentenart&amp;svalue_lev0_1000_ov=Kerncurriculum&amp;skey_lev0_1001_ov=Schulbereich&amp;svalue_lev0_1001_ov=&amp;skey_lev0_1002_ov=Schulform&amp;svalue_lev0_1002_ov=&amp;skey_lev0_1003_ov=Fach&amp;svalue_lev0_1003_ov=Chemie&amp;p=search\"&gt;https://cuvo.nibis.de/cuvo.php?fulltextsearch_lev0_ov=&amp;skey_lev0_1000_ov=Dokumentenart&amp;svalue_lev0_1000_ov=Kerncurriculum&amp;skey_lev0_1001_ov=Schulbereich&amp;svalue_lev0_1001_ov=&amp;skey_lev0_1002_ov=Schulform&amp;svalue_lev0_1002_ov=&amp;skey_lev0_1003_ov=Fach&amp;svalue_lev0_1003_ov=Chemie&amp;p=search",
-        "id": "_pvrLH2fxB",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "nibis.de/hinweise-zum-experiment-in-der-abiturpruefung_10249&amp;vorschau=1\"&gt;https://nibis.de/hinweise-zum-experiment-in-der-abiturpruefung_10249&amp;vorschau=1",
-        "id": "_cuaFElpCJ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
         "id": "_KSiLL68Ix",
         "type": "paragraph"
     }
@@ -121,3 +91,7 @@ Sidebar:
   link: >
     https://www.nibis.de/uploads/2mk-trauschke/op09_10NW.pdf
   name: Operatorenliste
+- 
+  link: >
+    https://www.nibis.de/uploads/2mk-trauschke/op09_10NW.pdf
+  name: Operatoren
