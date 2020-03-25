@@ -6,7 +6,102 @@ Heading:
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": {
+            "id": null
+        },
+        "content": "Politik-Wirtschaft",
+        "id": "_M5LF3qKW9",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Gestaltung des Fachs Politik-Wirtschaft an der KGS",
+        "id": "_NvC01MlwG",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "\u00b7",
+        "id": "_0YvSzeD7v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Lebensweltbezug: Welche Angebote gibt es f\u00fcr Jugendliche in der Gemeinde und wie kann ich daran mitwirken? Welche Auswirkungen hat mein Konsumverhalten? Was m\u00fcssen wir tun, um umweltvertr\u00e4glich zu leben? Wie sieht die Zukunft meiner Arbeit aus?",
+        "id": "_nQ4WQidj8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Fokus stehen gesellschaftliche Themen und Problemen, die die Lernenden besch\u00e4ftigen und in ihrem Alltag eine Rolle spielen.",
+        "id": "_7L9ZW5Qlt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Aktuelle Stunden: Wahlen, (neue) Debatten, Entwicklungen oder Skandale werden anlassbezogen aufgegriffen. Die Analyse aus verschiedenen Perspektiven, erm\u00f6glicht den Lernenden ein umfassendes Verst\u00e4ndnis und Mitsprache.",
+        "id": "_U6iMw4cUO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kontroversit\u00e4t und Meinungsbildung: einander zuh\u00f6ren, unterschiedliche Sichtweisen und Interessen erkennen, differenziert und kriterienorientiert urteilen. Durch regelgeleitete Diskussionen, Rollenspiele und Debatten erwerben die Lernenden diese Kompetenzen.",
+        "id": "_FeikDZruP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Handlungsorientierung: Juniorwahl, Teilnahme an Wettbewerben, Einladung von Politikern und Experten zu Veranstaltungen an die Schule, Besuche bei Unternehmen und politischen Institutionen \u2013 Auf vielf\u00e4ltige Weise werden Lernende zum Handeln aktiviert.",
+        "id": "_BanKcouZJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ileLlHTNn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bildungsauftrag des Faches",
+        "id": "_2F2V2jO42",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das Kerncurriculum betont die zentrale Aufgabe des Faches Politik-Wirtschaft, die Sch\u00fclerinnen und Sch\u00fcler in die Lage zu versetzen, politische, wirtschaftliche und gesellschaftliche Sachverhalte, Probleme und Interdependenzen zu erfassen, zu beurteilen sowie Interessen zu artikulieren und Entscheidungen zu treffen. Der Unterricht soll die Lernenden dazu bef\u00e4higen, sich in der demokratischen Gesellschaft in \u00f6ffentlichen Angelegenheiten und \u00f6konomischen Situationen verantwortungsbewusst einzubringen. Weitere wichtige Ziele sind politische und \u00f6konomische M\u00fcndigkeit, die Wahrnehmung von Verantwortung, Partizipation und politische Einmischung. Politische und \u00f6konomische Prozesse sind charakterisiert durch die Spannungsverh\u00e4ltnisse zwischen Konflikt und Konsens bzw. Konkurrenz und Kooperation. Zu den Leitzielen unseres Unterrichts geh\u00f6ren neben Sach-, Methoden- und Urteilskompetenz auch Medienkompetenz und politische Handlungskompetenz, au\u00dferdem die Bildung zu nachhaltiger Entwicklung und die Unterst\u00fctzung der Studien- und Berufsorientierung.",
+        "id": "_gymopmoo2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Inhalte",
+        "id": "_XeB3tM8Mg",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das Fach Politik-Wirtschaft wird im Haupt- und Realschulbereich ab dem siebten, im Gymnasialzweig ab dem achten Schuljahr als Pflichtfach unterrichtet. Im Gymnasialzweig gibt es zus\u00e4tzlich die M\u00f6glichkeit, ab dem 8. Schuljahr das Wahlpflichtfach Gesellschaftswissenschaften (GSW) zu belegen. Eine \u00dcbersicht der Inhalte des Pflichtunterrichts in der Sekundarstufe I in den einzelnen Schulzweigen finden sich hier: <strong>Netzpl\u00e4ne einf\u00fcgen</strong>",
+        "id": "_EdipD11va",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der gymnasialen Oberstufe (Jahrg\u00e4nge 11 bis 13) liegt der Fokus des Unterrichts in der Einf\u00fchrungsphase auf dem Wandel der Arbeitswelt in der globalisierten Gesellschaft und auf die Zukunft der Arbeit. In der Qualifikationsphase wird Politik-Wirtschaft als Pr\u00fcfungsfach auf erh\u00f6htem Anforderungsniveau angeboten. Die vier Kurshalbjahre beinhalten folgende Themen: Demokratie und sozialer Rechtsstaat, Wirtschaftspolitik in der Sozialen Marktwirtschaft, Internationale Sicherheits- und Friedenspolitik und Internationale Wirtschaftsbeziehungen. Wird Politik-Wirtschaft nicht als Pr\u00fcfungsfach gew\u00e4hlt, besteht grunds\u00e4tzlich die Verpflichtung zur Teilnahme am zweist\u00fcndigen Erg\u00e4nzungskurs in Jahrgang 12 der Qualifikationsphase. Eng verbunden mit dem Fach Politik-Wirtschaft sind auch die Angebote zur Beruflichen Orientierung an der KGS. <strong>(verlinken, noch zu erstellen)</strong>",
+        "id": "_0AXKP6igP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_DDHRpQUGS",
+        "type": "paragraph"
+    }
+]
 
 ----
 
@@ -14,8 +109,24 @@ Gallery:
 
 ----
 
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
 Haupttag: PoWi
 
 ----
 
+Hintergrundbild: 
+
+----
+
 Fotoansicht: gallery
+
+----
+
+Sidebar: 
