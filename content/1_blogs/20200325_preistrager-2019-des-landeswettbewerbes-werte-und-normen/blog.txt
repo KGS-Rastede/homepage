@@ -1,0 +1,72 @@
+Title: Preisträger 2019 des Landeswettbewerbes Werte und Normen
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Zum ersten Mal wurde der Landeswettbewerb des Fachverbandes Werte und Normen Niedersachsen - Ethische und humanistische Bildung in Niedersachsen e.V. (fv-wun.de) ausgeschrieben mit der Fragestellung <strong>\u201eWas sind wir uns wert?\u201c</strong>.",
+        "id": "_raqdgzif8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eingesendet werden durften alle m\u00f6glichen Formate, z. B.: Essays, Filme, Videos, Comics ... . Sch\u00fclerinnen und Sch\u00fcler, auch Sch\u00fclergruppen aus ganz Niedersachsen waren aufgefordert, daran teilzunehmen. Von der KGS Rastede gab es insgesamt 12 Einsendungen aus dem Kurs Werte und Normen in Jahrgang 10 von Bianca Schw\u00e4be, von denen zwei unter den Preistr\u00e4gern sind. So konnte sowohl der 1. als auch der 3. Platz belegt werden. Lynn von Nida &amp; Lina Rabe haben die Fragestellung eingegrenzt und ihre sehr gesellschaftskritischen \u00dcberlegungen zum Thema \u201eSind wir alle gleich viel wert?\u201c niedergeschrieben und damit den 1. Platz erreicht, der mit einem Preisgeld in H\u00f6he von 200\u20ac ausgezeichnet wurde. Einen Teil des Preisgeldes spenden die Siegerinnen an Unicef. Lynn und Lina setzten sich unter anderem mit der Gleichbehandlung der Menschen auseinander und stellten fest, dass ein Au\u00dferirdischer der Meinung sein m\u00fcsse, wir seien nicht alle gleich viel wert, da wir in unterschiedlichen Verh\u00e4ltnissen aufwachsen und leben m\u00fcssten. Diese Unterschiede gelte es zu bek\u00e4mpfen, um den Wert eines jeden Menschen zu beachten. Maya Ha\u00df &amp; Sina Othold haben den 3. Platz erreicht mit ihrer Auseinandersetzung mit der Frage \u201eKann ein Mensch wertlos sein?\u201c. Maya und Sina kamen zu dem Fazit, dass alle Menschen entsprechend dem Grundgesetz denselben Wert haben, alleine dadurch, dass sie existieren, und demnach nicht wertlos sein k\u00f6nnen, jedoch entspreche die Bedeutung eines einzelnen Menschen der Perspektive des jeweiligen Betrachters.",
+        "id": "_s8q98zh3o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_1tir1gzvp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wir gratulieren den Preistr\u00e4gern zu ihrer tollen Leistung!</strong>",
+        "id": "_21wbzh0co",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- ka-gimtoqzqorbxobia4xa_thumb_30c.jpg
+
+----
+
+Date: 2020-03-25 17:20
+
+----
+
+Author: Bianca Schwäbe
+
+----
+
+Tags: 
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads:
+
+- gewinnerbeitrag.pdf
+
+----
+
+Fotoansicht: manuel
