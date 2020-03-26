@@ -61,7 +61,10 @@ Text:
 
 ----
 
-Gallery: 
+Gallery:
+
+- image0.jpeg
+- img_9226.jpg
 
 ----
 
@@ -92,6 +95,5 @@ Sidebar:
     https://www.nibis.de/uploads/2mk-trauschke/op09_10NW.pdf
   name: Operatorenliste
 - 
-  link: >
-    https://www.nibis.de/uploads/2mk-trauschke/op09_10NW.pdf
-  name: Operatoren
+  link: 'https://cuvo.nibis.de/cuvo.php?fulltextsearch_lev0_ov=&skey_lev0_1000_ov=Dokumentenart&svalue_lev0_1000_ov=Kerncurriculum&skey_lev0_1001_ov=Schulbereich&svalue_lev0_1001_ov=&skey_lev0_1002_ov=Schulform&svalue_lev0_1002_ov=&skey_lev0_1003_ov=Fach&svalue_lev0_1003_ov=Chemie&p=search'
+  name: Übersicht über die Kerncurricula
