@@ -32,7 +32,7 @@ Text:
             "guid": "/pages/blogs+wahrheit-wirklichkeit/files/wuw-1.jpg",
             "id": "blogs/wahrheit-wirklichkeit/wuw-1.jpg",
             "ratio": 1.7725563909774436,
-            "caption": ""
+            "caption": "WuN Jg. 10"
         },
         "content": "",
         "id": "_cygqpt7c3",
@@ -88,7 +88,7 @@ Date: 2020-01-23 12:00
 
 ----
 
-Author: Denise Apel
+Author: Denise
 
 ----
 
