@@ -2,6 +2,8 @@
 
 <?php snippet('page-header') ?>
 
+<?php snippet('sidebar') ?>
+
 
 
 <?php foreach ($page->children() as $sf) : ?>
