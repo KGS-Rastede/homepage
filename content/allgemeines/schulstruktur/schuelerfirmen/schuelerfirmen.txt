@@ -1,0 +1,179 @@
+Title: Schülerfirmen
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Was ist eine Sch\u00fclerfirma?",
+        "id": "_94hkamimq",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Eine Sch\u00fclerfirma ist eine gute M\u00f6glichkeit, den \u201eErnstfall\u201c Arbeiten im Betrieb kennen zu lernen.",
+        "id": "_tz80ixe5f",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Man lernt spielerisch alle T\u00e4tigkeiten, die mit der Arbeit in einem Betrieb verbunden sind.",
+        "id": "_7e87sfmtp",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Sch\u00fclerbetriebe sind keine \u201erichtigen Betriebe\u201c, sondern Schulprojekte, in denen gelernt werden kann, wie in einem Betrieb gearbeitet wird:",
+        "id": "_al6ajgxx5",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Welche Aufgaben hat ein Betrieb?",
+        "id": "_gzryxy4nw",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Welche Ziele werden angestrebt?",
+        "id": "_mok2i9rvu",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Wie wird ein Betrieb organisiert?",
+        "id": "_7wegpuw3u",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Wie wirbt man f\u00fcr seine Produkte oder Dienstleistungen?",
+        "id": "_19wjmo8ki",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Wie analysiert man den Markt?",
+        "id": "_r726rrjj3",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_zb0oaq640",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sch\u00fclerfirmen",
+        "id": "_zefuu9uio",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Schulen k\u00f6nnen Sch\u00fclerfirmen gr\u00fcnden und als Schulprojekte durchf\u00fchren.",
+        "id": "_qupttpi2m",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Sch\u00fclerfirmen zeigen Aspekte auf, die f\u00fcr die Gr\u00fcndung und F\u00fchrung von Unternehmen von Bedeutung sind.",
+        "id": "_6wdv8rt4h",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Sie orientieren sich an einer realen Rechtsform und arbeiten wie Wirtschaftsunternehmen.",
+        "id": "_tvm86lnhx",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "alt": null,
+            "link": null,
+            "guid": "/pages/allgemeines+schulstruktur+schuelerfirmen/files/sf.png",
+            "id": "allgemeines/schulstruktur/schuelerfirmen/sf.png",
+            "ratio": 0.8310249307479224,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_Dd6FgwPZK",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Zielsetzungen bei der Gr\u00fcndung von SrF",
+        "id": "_LO9O8ngnG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Betriebliche und gesamtwirtschaftliche Kenntnisse",
+        "id": "_PeC24R7iD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Existenzgr\u00fcndung als didaktisches Konzept",
+        "id": "_8Jz6kVEbG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Berufsorientierung",
+        "id": "_ZgHb3A9D2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kenntnisse \u00fcber Beruf und Arbeit",
+        "id": "_nI1qeUbWd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Pers\u00f6nlichkeitsentwicklung",
+        "id": "_SE7Ndv7HC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Arbeiten,",
+        "id": "_0ndR0cHQC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "kommunizieren,",
+        "id": "_wxMRU13S5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Probleme l\u00f6sen,",
+        "id": "_l1jkx56Kg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Verantwortung,",
+        "id": "_9To0BbH2d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zuverl\u00e4ssigkeit,",
+        "id": "_e97XM5sZb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Au\u00dfenkontakte",
+        "id": "_3TpJn3hu8",
+        "type": "paragraph"
+    }
+]
