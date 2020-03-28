@@ -98,7 +98,7 @@
             </div>
         </div>
 
-        <div class="card" style="width: 24rem;">
+        <div class="card" style="width: 23rem;">
             <div class="card-header card-header-danger">
                 <h4 class="card-title">Gymnasium</h4>
             </div>
@@ -112,7 +112,7 @@
                             <tr><th>Aktuelle Listen</th></tr>
                             </thead>
                             <tbody>
-                                <?php foreach ($page->SchulbuchlistenHZ()->toStructure() as $liste) : ?>
+                                <?php foreach ($page->SchulbuchlistenGZ()->toStructure() as $liste) : ?>
                                     <tr>
                                     <td><?= $liste->name() ?><br>Leihgebühren: <?= $liste->preis() ?>
                                     </td>

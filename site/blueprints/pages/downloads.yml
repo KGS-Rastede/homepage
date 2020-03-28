@@ -7,92 +7,163 @@ options:
     fachleiter: false
     admin: true
 
-columns:
-  main:
-    width: 2/3
-    sections:
-      content:
-        type: fields
-        fields:
-          Subtitle1:
-            type: text
-            label: Titel vom 1. Tab
-          Subtitle2:
-            type: text
-            label: Titel vom 2. Tab
-          Subtitle3:
-            type: text
-            label: Titel vom 3. Tab
-          text:
-            label: Inhalt
-            type: editor
-          Subtitletext1:
-            label: Infos zu den Schulbuchlisten
-            type: textarea
-          SchulbuchlistenGZ:
-            label: Schulbuchlisten GZ
-            type: structure
+tabs:
+  Schulbuchlisten:
+    columns:
+      main:
+        width: 2/3
+        sections:
+          content:
+            type: fields
             fields:
-              link:
-                label: Link (URL)
-                type: files
-              name:
-                label: Bezeichnung des Links
+              Subtitle1:
                 type: text
-              preis:
-                label: Leihgebühr
-                type: text
-          SchulbuchlistenRZ:
-            label: Schulbuchlisten RZ
-            type: structure
+                label: Titel
+              text:
+                label: Inhalt
+                type: editor
+              Subtitletext1:
+                label: Infos zu den Schulbuchlisten
+                type: textarea
+              SchulbuchlistenGZ:
+                label: Schulbuchlisten GZ
+                type: structure
+                fields:
+                  link:
+                    label: Link (URL)
+                    type: files
+                  name:
+                    label: Bezeichnung des Links
+                    type: text
+                  preis:
+                    label: Leihgebühr
+                    type: text
+              SchulbuchlistenRZ:
+                label: Schulbuchlisten RZ
+                type: structure
+                fields:
+                  link:
+                    label: Link (URL)
+                    type: files
+                  name:
+                    label: Bezeichnung des Links
+                    type: text
+                  preis:
+                    label: Leihgebühr
+                    type: text
+              SchulbuchlistenHZ:
+                label: Schulbuchlisten HZ
+                type: structure
+                fields:
+                  link:
+                    label: Link (URL)
+                    type: files
+                  name:
+                    label: Bezeichnung des Links
+                    type: text
+                  preis:
+                    label: Leihgebühr
+                    type: text
+      sidebar:
+        width: 1/3
+        sticky: true
+        sections:
+          meta:
+            meta:
+            type: fields
             fields:
-              link:
-                label: Link (URL)
-                type: files
-              name:
-                label: Bezeichnung des Links
-                type: text
-              preis:
-                label: Leihgebühr
-                type: text
-          SchulbuchlistenHZ:
-            label: Schulbuchlisten HZ
-            type: structure
-            fields:
-              link:
-                label: Link (URL)
-                type: files
-              name:
-                label: Bezeichnung des Links
-                type: text
-              preis:
-                label: Leihgebühr
-                type: text
-  sidebar:
-    width: 1/3
-    sticky: true
-    sections:
-      meta:
-        meta:
-        type: fields
-        fields:
-          hintergrundbild:
-            label: Hintergrundbild
-            type: select
-            options: query
-            query: page.images
-          fotoansicht:
-            label: Fotos anzeigen
-            type: select
-            default: gallery
-            help: Karousel und Gallerie sind automatische Darstellungen der Bilder. Wird 'manuel' ausgewählt müssen die Bilder per Hand eingebunden werden.
-            options:
-              carousel: Karousel
-              gallery: Gallerie
-              manuel: Manuell einbinden
-                toggle:
-          sidebar: fields/seitenleiste
+              hintergrundbild:
+                label: Hintergrundbild
+                type: select
+                options: query
+                query: page.images
+              fotoansicht:
+                label: Fotos anzeigen
+                type: select
+                default: gallery
+                help: Karousel und Gallerie sind automatische Darstellungen der Bilder. Wird 'manuel' ausgewählt müssen die Bilder per Hand eingebunden werden.
+                options:
+                  carousel: Karousel
+                  gallery: Gallerie
+                  manuel: Manuell einbinden
+                    toggle:
+              sidebar: fields/seitenleiste       
 
+  Ag-Wahllisten:
+    columns:
+      main2:
+        width: 2/3
+        sections:
+          content2:
+            type: fields
+            fields:
+              Subtitle2:
+                type: text
+                label: Titel vom 2. Tab
+              text2:
+                label: Inhalt
+                type: editor
 
-        
-      
+      sidebar2:
+        width: 1/3
+        sticky: true
+        sections:
+          meta:
+            meta:
+            type: fields
+            fields:
+              hintergrundbild2:
+                label: Hintergrundbild
+                type: select
+                options: query
+                query: page.images
+              fotoansicht2:
+                label: Fotos anzeigen
+                type: select
+                default: gallery
+                help: Karousel und Gallerie sind automatische Darstellungen der Bilder. Wird 'manuel' ausgewählt müssen die Bilder per Hand eingebunden werden.
+                options:
+                  carousel: Karousel
+                  gallery: Gallerie
+                  manuel: Manuell einbinden
+                    toggle:
+              sidebar2: fields/seitenleiste
+  Busfahrplaene:
+    columns:
+      main:
+        width: 2/3
+        sections:
+          content3:
+            type: fields
+            fields:
+              Subtitle3:
+                type: text
+                label: Titel vom 3. Tab
+              text3:
+                label: Inhalt
+                type: editor
+
+      sidebar:
+        width: 1/3
+        sticky: true
+        sections:
+          meta:
+            meta:
+            type: fields
+            fields:
+              hintergrundbild3:
+                label: Hintergrundbild
+                type: select
+                options: query
+                query: page.images
+              fotoansicht3:
+                label: Fotos anzeigen
+                type: select
+                default: gallery
+                help: Karousel und Gallerie sind automatische Darstellungen der Bilder. Wird 'manuel' ausgewählt müssen die Bilder per Hand eingebunden werden.
+                options:
+                  carousel: Karousel
+                  gallery: Gallerie
+                  manuel: Manuell einbinden
+                    toggle:
+              sidebar3: fields/seitenleiste

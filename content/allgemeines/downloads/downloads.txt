@@ -71,7 +71,7 @@ Schulbuchlistengz:
     - >
       allgemeines/downloads/Schulbuchlisten/schulbuchliste12S2.pdf
   name: 12. Klasse
-  preis: 32230€
+  preis: 30€
 
 ----
 
@@ -157,15 +157,11 @@ Schulbuchlistenhz:
 
 ----
 
-Hintergrundbild: 
+Subtitle2: Ag-Wahllisten
 
 ----
 
-Fotoansicht: 
-
-----
-
-Sidebar: 
+Subtitle3: Busfahrpläne
 
 ----
 
