@@ -72,7 +72,9 @@
             <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
               <i class="material-icons">school</i> Unterricht &amp; Schulleben
             </a>
-            <div class="dropdown-menu dropdown-with-icons">    
+            <div class="dropdown-menu dropdown-with-icons">
+            <a class="dropdown-item" href="https://thalia.webuntis.com/WebUntis/?school=kgs-rastede#/basic/main"><i class="material-icons">event_note</i>Vertretungsplan</a>
+            <div class="dropdown-divider"></div>    
             <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><i class="material-icons">local_hospital</i>Schulsanitätsdienst</a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><i class="material-icons">library_books</i>Fächer</a>
