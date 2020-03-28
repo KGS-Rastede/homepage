@@ -10,9 +10,294 @@ Text:
 
 [
     {
+        "attrs": {
+            "guid": "/pages/Faecher+WuN/files/wn_homepage_wn_land.jpg",
+            "id": "Faecher/WuN/wn_homepage_wn_land.jpg",
+            "ratio": 1.611064543168483,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_qp93cmzsp",
+        "type": "image"
+    },
+    {
         "attrs": [],
-        "content": "Elternbrief (Link) f\u00fcr die Grundsch\u00fcler zu Anmeldung WuN/ RE (pdf)",
-        "id": "_ZwizCYAfJ",
+        "content": "Was ist \u201eWerte und Normen\u201c?",
+        "id": "_dr3ilv2h2",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Werte</strong> \u2013 das ist alles, was f\u00fcr uns einen besonderen Wert hat. Wenn ihr einmal genauer dar\u00fcber nachdenkt, stimmt ihr vielleicht Kalli zu: F\u00fcr ihn hat sein Erfolg bei der Landesrunde der Mathe-Olympiade einen viel h\u00f6heren Wert als die Preise, die er daf\u00fcr bekommen hat. Neben Erfolg geh\u00f6ren Freundschaft, Familie, Frieden und eine intakte Umwelt zu den Werten, die vielen Sch\u00fcler*innen besonders wichtig sind.",
+        "id": "_oIojUMxeE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Normen</strong> ist einfach ein anderes Wort f\u00fcr Regeln. Im Werte-und-Normen-Unterricht werden aber keine Regeln gelernt oder einge\u00fcbt. Stattdessen beantwortet ihr selbst gemeinsam die Frage, an welche Regeln sich alle halten sollten, um gemeinsame Werte wie Freundschaft, Frieden und eine intakte Umwelt zu sch\u00fctzen.",
+        "id": "_sieHqLydn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Werte-und-Normen-Unterricht dreht sich also alles um die gro\u00dfen <strong>Fragen des Lebens</strong>. Das klingt mysteri\u00f6s? Ist es aber \u00fcberhaupt nicht: \u201eFragen des Lebens\u201c sind zum Beispiel: \u201eWie wollen wir leben?\u201c, \u201eWelche Werte sind f\u00fcr mich und f\u00fcr andere wichtig?\u201c, \u201eWas ist Gl\u00fcck?\u201c, \u201eWelche Verantwortung haben wir gegen\u00fcber anderen Menschen, Tieren und der Umwelt?\u201c",
+        "id": "_3f30i7IKr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Diese Fragen sind also nicht mysteri\u00f6s, aber besonders sind sie schon \u2013 weil es keine endg\u00fcltigen Antworten gibt. Der Weg ist im Werte-und-Normen-Unterricht also das Ziel. Dazu geh\u00f6rt nicht nur die gemeinsame Suche nach Antworten, sondern vor allem, dass ihr selbst eigene Fragen entwickelt.",
+        "id": "_WrmPe2LDl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ysp84ncox",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "(I) Fragestellungen des Werte-und-Normen-Unterrichts",
+        "id": "_xcb98xngq",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Zur besseren Orientierung werden die Fragen des Lebens den vier Teilgebieten des Werte-und-Normen-Un\u00adter\u00adrichts zugeordnet.",
+        "id": "_PkO45ttXs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_0uz6ygl7p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Philosophie </strong>bedeutet \u201eLiebe zur Weisheit\u201c. Philosophieren bedeutet, Gewohnheiten und scheinbar Selbstverst\u00e4ndliches zu hinterfragen. Daher ordnen wir der Philosophie die spannenden Fragen und R\u00e4tsel zu, die sich in keine Einzelwissenschaft und kein Teilgebiet \u201eeinzw\u00e4ngen\u201c lassen.",
+        "id": "_bu0j7tno3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "*Beispiele f\u00fcr Fragestellungen sind: <em>Was ist Wahrheit? Was ist L\u00fcge? Woher kommt die Welt?</em>",
+        "id": "_5nzqqrynh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_2ceqnhn96",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Ethik</strong> ist ein Teilbereich der Philosophie. Die \u201egro\u00dfe Frage\u201c der Ethik lautet: Welche Verantwortung haben wir gegen\u00fcber anderen Menschen, gegen\u00fcber Tieren und gegen\u00fcber der Umwelt?",
+        "id": "_j0BVnLRDG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "*<em>Was ist Gl\u00fcck? *Was ist gerecht?</em>",
+        "id": "_5643qgxpq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_keq3haolz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Religionskunde</strong> hilft, Menschen mit anderen Religionen oder Weltanschauungen besser zu verstehen. Dabei st\u00f6\u00dft man nicht nur auf Unterschiede, sondern auch auf viele Gemeinsamkeiten, die die Grundlage f\u00fcr ein gutes Zusammenleben bilden k\u00f6nnen.",
+        "id": "_48hn26v35",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>*Welche Bedeutung haben Religionen f\u00fcr die Menschen? Was glauben die Menschen hier und in der Welt?</em>",
+        "id": "_wqmoconn6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_9cvs7z0pe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Werte-Orientierung</strong><em> </em>zielt auf das Handeln. Es reicht nicht aus, Fragen zu stellen und nach Antworten zu suchen. Wenn man herausgefunden hat, was ein gutes Zusammenleben ausmacht, muss man auch Verantwortung \u00fcbernehmen und entsprechend handeln.",
+        "id": "_z4Gwftv3A",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>*Wer bin ich? Was ist mir wichtig? Welche Werte sind f\u00fcr alle wichtig? Wozu sind Regeln da?</em>",
+        "id": "_hj0nal3qi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_asen87sba",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "(II) Methoden des Werte-und-Normen-Unterrichts",
+        "id": "_jorrhodqd",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "*Beispiele: <em>Wahrnehmungsspiele, Philosophieren mit Kindern, Gedankenexperimente, Philosophieren mit Filmen, Argumentieren, Diskussionen f\u00fchren, Interkultrueller Dialog, Dilemma-Geschichten usw.</em>",
+        "id": "_ovg6xuojw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/Faecher+WuN/files/img_0074.png",
+            "id": "Faecher/WuN/img_0074.png",
+            "ratio": 1.3333333333333333,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_q9tmpcv0s",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Werte und Normen oder doch lieber Religion?",
+        "id": "_qf007oz7q",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Die Eltern der k\u00fcnftigen F\u00fcnftkl\u00e4sslerInnen entscheiden bei der Anmeldung an der KGS Rastede, ob ihr Kind am Religions- oder am Werte-und-Normen-Unterricht teilnehmen soll. Die beiden Fachkonferenzen haben einen gemeinsamen Elternbrief erstellt, der informiert und bei der Entscheidung helfen kann. Diesen Elternbrief finden Sie hier: ## Link Elternbrief",
+        "id": "_7h3clu6p6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In den weiteren Schuljahren ist ein Wechsel zwischen Religion und Werte und Normen immer zum neuen Schuljahr m\u00f6glich \u2013 sofern Erziehungsberechtigte oder Jugendliche, die mindestens 14 Jahre alt sind, rechtzeitig (etwa sechs Wochen vor den Sommerferien) einen entsprechenden Antrag stellen. Ansprechpartner ist unser Fachbereichsleiter f\u00fcr Gesellschaftswissenschaften, Herr Meyer (MY@kgs-rastede.de).",
+        "id": "_h6x9bqznp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_MxRtOeReo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wissenswertes zum Schulfach Werte und Normen an der KGS Rastede",
+        "id": "_3c5l3rqqw",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das Fach Werte und Normen wird von Jg. 5 bis Jg. 13 durchg\u00e4ngig angeboten.",
+        "id": "_yyjrzA3Kz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der Sekundarstufe I wird es mit zwei Stunden pro Woche unterrichtet. Der Unterricht findet klassen\u00fcbergreifend in Kursen des selbigen Schulzweiges statt. Neben dem zweist\u00fcndigen Unterricht pro Woche besteht in Jahrgang 9 im Rahmen des Wahlpflichtkurses die M\u00f6glichkeit Werte und Normen zus\u00e4tzlich zu belegen.",
+        "id": "_Z7FFQPVNg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der Sekundarstufe II gibt es mehrere M\u00f6glichkeiten das Fach zu belegen. So ist in der Einf\u00fchrungsphase Jg. 11 und in der Qualifikationsphase Jg. 12 das Fach Werte und Normen auf grundlegenderen Niveau verpflichtend zu belegen.",
+        "id": "_nzpwYpgh9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zus\u00e4tzlich kann in Jg. 11 das Wahlpflichtfach (WPB) WuN - InF* angew\u00e4hlt werden.",
+        "id": "_R1sSimxei",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dar\u00fcber hinaus kann man Werte und Normen als m\u00fcndliches oder schriftliches Pr\u00fcfungsfach (P4/5) im Abitur angew\u00e4hlt werden.",
+        "id": "_s0WByytc6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_lovXHbQFx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>*WuN-InF, eine zukunftsweisende Kooperation:</strong>",
+        "id": "_J5Dj2ubDD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Kooperation beider Unterrichtsf\u00e4cher entspricht den Anforderungen unserer Zeit, unserer hochtechnisierten Gesellschaft. Vieles, sehr vieles ist bereits heute technisch m\u00f6glich. Wir greifen nach den Sternen. KI - Ein M\u00f6glichkeit, die die Menschheit voranbringen wird. Aber zu welchem Preis? Es gilt diese diese Entwicklung zu hinterfragen und nicht uneingeschr\u00e4nkt gut zu hei\u00dfen.",
+        "id": "_fii66qcnu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unter dem Thema \"Sch\u00f6ne-neue-digitale Welt\" soll eine moralische Bestandsaufnahme erfolgen. Es geht darum ein Verst\u00e4ndnis f\u00fcr die technischen Entwicklungen zu schaffen und deren rechtliche wie auch moralische Rahmenbedingungen abzukl\u00e4ren, um eine ethische Bewertung vornehmen zu k\u00f6nnen.",
+        "id": "_u2ntsba1z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_al9vzhus6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Ein Beispiel zum Thema Big Data vs. freies Leben</strong>",
+        "id": "_izmcx2why",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie berechenbar sind wir? \u201eWir sind alle derzeit aktive Teilnehmer eines Experimentes, das die Vorhersehbarkeit unseres Alltagsverhaltens betrifft!\u201c Es werden mit jedem Zugriff im Internet Daten von uns gesammelt und so Profile von jedem Einzelnen von uns angelegt* (\u2026) Je breiter und tiefer die gesammelte Datenbasis, desto treffsicherer f\u00fcr die Unternehmen. Der Mensch, ein gl\u00e4sernes Wesen!",
+        "id": "_68epic0q7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "*Stichpunkte: <em>\"Big Data\" \"Micro-targeting\" \"Data-Mining\" <br></em>",
+        "id": "_1wpbp5avq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/Faecher+WuN/files/artificial-intelligence-4469138_960_720.jpg",
+            "id": "Faecher/WuN/artificial-intelligence-4469138_960_720.jpg",
+            "ratio": 1.5,
+            "caption": "\"Data drives all we do!\" Werbeslogan von Cambridge Analytica"
+        },
+        "content": "",
+        "id": "_ye8biuv0z",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Werte und Normen - ich hab\u00b4 da noch eine Frage \u2026",
+        "id": "_0exhj8srh",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Wenn Sie \u2013 als Eltern, Sch\u00fclerin oder Sch\u00fcler, Fachlehrkraft oder interessierte(r) Dritte(r) Fragen zum Werte und Normen Unterricht an der KGS Rastede haben oder ein Anliegen loswerden m\u00f6chten, schreiben Sie gern eine Email an die Fachkonferenzleiterin f\u00fcr Werte und Normen: Denise Apel ap@kgs-rastede.de",
+        "id": "_s4419o3gv",
         "type": "paragraph"
     },
     {

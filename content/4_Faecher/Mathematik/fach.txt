@@ -11,8 +11,14 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Die Mathematik ist eine Wissenschaft, die vielen anderen Wissenschaften als Werkzeug dient. War sie bereits in China und im Orient schon vor tausenden von Jahren weit entwickelt, fand sie durch die griechischen Philosophen und Mathematiker auch ihren Weg nach Europa. Bis heute spielt sie nicht nur in den Naturwissenschaften, sondern auch in den Sozial- und Geisteswissenschaften eine wichtige Rolle. So sind z.B. statistische Untersuchungen (nicht zuletzt auch wegen der seit einigen Jahren gut zu nutzenden elektronischen Hilfsmittel) wichtige Bereiche in Soziologie, Psychologie, P\u00e4dagogik etc.<br><strong>Die Schule hat heute die Aufgaben</strong>",
-        "id": "_sD2QUTv56",
+        "content": "Die Mathematik ist eine Wissenschaft, die vielen anderen Wissenschaften als Werkzeug dient. War sie bereits in China und im Orient schon vor tausenden von Jahren weit entwickelt, fand sie durch die griechischen Philosophen und Mathematiker auch ihren Weg nach Europa. Bis heute spielt sie nicht nur in den Naturwissenschaften, sondern auch in den Sozial- und Geisteswissenschaften eine wichtige Rolle. So sind z.B. statistische Untersuchungen (nicht zuletzt auch wegen der seit einigen Jahren gut zu nutzenden elektronischen Hilfsmittel) wichtige Bereiche in Soziologie, Psychologie, P\u00e4dagogik etc.",
+        "id": "_ojc2f3ap0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Die Schule hat heute die Aufgaben",
+        "id": "_uchidas2g",
         "type": "paragraph"
     },
     {
