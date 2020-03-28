@@ -70,7 +70,9 @@
             ?>
             <!--neuer Versuch -->
 
-            <table style="line-height: 1.2em;">
+            <div class="table-responsive">
+
+            <table class="table">
                 <tr>
                     <th>Messzeitpunkt</th>
                 </tr>
@@ -93,13 +95,13 @@
                     <td><b>Regen aktuell: </b><?= $regen ?></td>
                 </tr>
                 <tr>
-                    <td style="border-bottom: 1px solid #ccc"><b>Regen am Tag: </b><?= $regen_tag ?></td>
+                    <td><b>Regen am Tag: </b><?= $regen_tag ?></td>
                 </tr>
                 <tr>
                     <td><b>Windrichtung: </b><?= $winddir ?></td>
                 </tr>
                 <tr>
-                    <td style="border-bottom: 1px solid #ccc"><b>Windstärke: </b><?= $wind ?></td>
+                    <td><b>Windstärke: </b><?= $wind ?></td>
                 </tr>
                 <tr>
                     <td><b>Sonnenaufgang: </b><?= $sonnenaufgang ?></td>
@@ -111,7 +113,7 @@
                     <td><b>UV-Index: </b><?= $uv_index ?></td>
                 </tr>
                 <tr>
-                    <td style="border-bottom: 1px solid #ccc"><b>Intensität: </b><?= $sonne_watt ?></td>
+                    <td><b>Intensität: </b><?= $sonne_watt ?></td>
                 </tr>
                 <tr>
                     <td><b>Mondaufgang: </b><?= $mondaufgang ?></td>
@@ -123,7 +125,7 @@
                     <td><b>Mondphase: </b><?= $mondprozent ?></td>
                 </tr>
                 <tr>
-                    <td style="border-bottom: 1px solid #ccc">
+                    <td>
                         <center><img src=<?= $pfad ?>.\'moonphase.png></center>
                     </td>
                 </tr>
@@ -138,9 +140,10 @@
                     </td>
                 </tr>
                 <tr>
-                    <td style="font-size: 8px; line-height: 1em"><?= $vorhersage ?></td>
+                    <td><?= $vorhersage ?></td>
                 </tr>
             </table>
+            </div>
         </div>
     </div>
 </div>
