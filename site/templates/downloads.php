@@ -5,7 +5,7 @@
 <h2><?= $page->subtitle1() ?></h2>
 <h4><?= $page->Subtitletext1() ?></h4>
 <div class="d-flex justify-content-around mt-2">
-    <div class="card" style="width: 23rem;">
+    <div class="card">
         <div class="card-header card-header-danger">
             <h4 class="card-title">Hauptschule</h4>
         </div>
@@ -43,7 +43,7 @@
         </div>
     </div>
 
-    <div class="card" style="width: 23rem;">
+    <div class="card">
         <div class="card-header card-header-danger">
             <h4 class="card-title">Realschule</h4>
         </div>
@@ -81,7 +81,7 @@
         </div>
     </div>
 
-    <div class="card" style="width: 23rem;">
+    <div class="card">
         <div class="card-header card-header-danger">
             <h4 class="card-title">Gymnasium</h4>
         </div>
