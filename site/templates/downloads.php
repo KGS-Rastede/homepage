@@ -11,7 +11,6 @@
                 <h4 class="card-title">Hauptschule</h4>
             </div>
             <div class="card-body">
-                <p class="card-text"><?= $page->cardtextHZ() ?></p>
                 <div class="card card-nav-tabs">
                     <div class="table-responsive">
                         <table class="table table-striped">
@@ -50,7 +49,6 @@
                 <h4 class="card-title">Realschule</h4>
             </div>
             <div class="card-body">
-                <p class="card-text"><?= $page->cardtextRZ() ?></p>
                 <div class="card card-nav-tabs">
                     <div class="table-responsive">
                         <table class="table table-striped">
@@ -89,7 +87,6 @@
                 <h4 class="card-title">Gymnasium</h4>
             </div>
             <div class="card-body">
-                <p class="card-text"><?= $page->cardtextGZ() ?></p>
                 <div class="card card-nav-tabs">
                     <div class="table-responsive">
                         <table class="table table-striped">
