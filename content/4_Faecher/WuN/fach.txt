@@ -11,8 +11,8 @@ Text:
 [
     {
         "attrs": {
-            "guid": "/pages/Faecher+WuN/files/wn_homepage_wn_land.jpg",
-            "id": "Faecher/WuN/wn_homepage_wn_land.jpg",
+            "guid": "/pages/Faecher+WuN/files/wn_homepage_wn_land_neu.jpg",
+            "id": "Faecher/WuN/wn_homepage_wn_land_neu.jpg",
             "ratio": 1.611064543168483,
             "caption": ""
         },
@@ -160,9 +160,9 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/Faecher+WuN/files/img_0074.png",
-            "id": "Faecher/WuN/img_0074.png",
-            "ratio": 1.3333333333333333,
+            "guid": "/pages/Faecher+WuN/files/img_0074-kopie.jpg",
+            "id": "Faecher/WuN/img_0074-kopie.jpg",
+            "ratio": 1.7414548641542507,
             "caption": ""
         },
         "content": "",
@@ -190,7 +190,7 @@ Text:
     {
         "attrs": [],
         "content": "",
-        "id": "_MxRtOeReo",
+        "id": "_9k5iymdxu",
         "type": "paragraph"
     },
     {
