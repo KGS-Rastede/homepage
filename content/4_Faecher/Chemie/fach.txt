@@ -24,32 +24,32 @@ Text:
     {
         "attrs": [],
         "content": "das Leben an sich beruht auf (bio)chemischen Vorg\u00e4ngen,",
-        "id": "_msdf26sc9",
-        "type": "paragraph"
+        "id": "_5xu051o8h",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "bei der Zubereitung von Nahrung (Angrillen im Sommer, dem Fondue im Winter),",
-        "id": "_6fzin0mq9",
-        "type": "paragraph"
+        "id": "_s0y5mdykc",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "bei der Hygiene (Fleckentfernung, allt\u00e4gliches H\u00e4ndewaschen),",
-        "id": "_zx3fdscfm",
-        "type": "paragraph"
+        "id": "_unq1ctveg",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "bei der Fortbewegung (Treibstoffe und Antriebsarten)",
-        "id": "_75i8jnn55",
-        "type": "paragraph"
+        "id": "_e6ahkvcfr",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "in der Freizeit (Akkutechnik in elektronischen Ger\u00e4ten, Funktionsmaterialien im Sport).",
-        "id": "_rhko714q7",
-        "type": "paragraph"
+        "id": "_qafex802y",
+        "type": "ul"
     },
     {
         "attrs": [],
@@ -99,11 +99,16 @@ Gallery:
 
 ----
 
-Lehrplantext: 
+Lehrplantext: Hier finden Sie die Netzpläne für die Jahrgänge 5 - 13 für alle Schulzweige in einem Dokument.
 
 ----
 
-Lehrplaene: 
+Lehrplaene:
+
+- 
+  link:
+    - netzplane-chemie.pdf
+  name: Netzpläne Chemie
 
 ----
 
