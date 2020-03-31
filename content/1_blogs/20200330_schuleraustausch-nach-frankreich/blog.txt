@@ -1,0 +1,100 @@
+Title: Schüleraustausch nach Frankreich
+
+----
+
+Heading: Bretagne und Rastede
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_JPnQwppHk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\u00e9change \u2013 Austausch \u2013 Schuljahr 2019 / 2020</strong>",
+        "id": "_iuVuJdDIR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schnee hatten sich unsere franz\u00f6sischen G\u00e4ste f\u00fcr ihren Besuch in Rastede gew\u00fcnscht, denn den gibt es wirklich selten in der Bretagne. Leider konnte sich dieser Wunsch nicht erf\u00fcllen \u2013 obwohl sie in diesem Jahr vom 11. bis 20. Dezember 2019, also bis unmittelbar zu Beginn der Weihnachtsferien bei uns waren. Daf\u00fcr gab es viele andere vorweihnachtliche Aktivit\u00e4ten, die in Frankreich auch nicht so ausgepr\u00e4gt sind wie bei uns. Die Weihnachtsm\u00e4rkte in Oldenburg und Bremen wurden besucht, in den Familien wurden Adventskerzen angez\u00fcndet, Pl\u00e4tzchen wurden gebacken \u2013 insgesamt eine tolle Zeit.",
+        "id": "_Cmoxz8kBC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine gro\u00dfe Gruppe von 52 Sch\u00fclerinnen und Sch\u00fclern aus der Bretagne (Saint Aubin d'Aubign\u00e9 und Noyal) wurde nach einer 16-st\u00fcndigen Busfahrt von den 52 <em>Correspondants</em> aus der KGS empfangen. Deutschlehrer Mathieu Duchemin und drei weitere Lehrkr\u00e4fte unterst\u00fctzen jedes Jahr den Austausch und wurden im Rahmen des Lehreraustauschs in diesem Jahr von Katrin Br\u00f6mer, Kirstin Westerholt, Sonja Altmann und dem ehemaligen Franz\u00f6sischkollegen Hans-Peter Verse aufgenommen. So k\u00f6nnen wir, inklusive der Familien, die den Austausch \u00fcberhaupt erst erm\u00f6glichten und sich herzlich um die franz\u00f6sischen Gastsch\u00fcler gek\u00fcmmert haben, fast schon von einem Gro\u00dfprojekt sprechen.",
+        "id": "_DCmF1h6pq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Zeit war f\u00fcr die F\u00fclle an Aktivit\u00e4ten nat\u00fcrlich wieder einmal viel zu kurz. Acht gemeinsame Tage, um einen Einblick in das Schulleben in der KGS zu bekommen, um Orte zu sehen und zu besichtigen, um seinen Platz in einer unbekannten Familie zu finden, um sich in die Sprache einzuh\u00f6ren, von der man nur einige Grundkenntnisse aus der Schule mitbringt und die nun \u00fcberall gesprochen wird \u2013 und vor allem acht Tage mit dem neuen Freund oder der neuen Freundin aus dem jeweils anderen Land. Gar nicht so einfach ist es, sich trotz h\u00e4ufig gr\u00f6\u00dferer sprachlicher H\u00fcrden auf den jeweils anderen einzulassen und sich ein wenig kennen zu lernen. Somit haben alle Teilnehmerinnen und Teilnehmer den Mut zu ihrem pers\u00f6nlichen Gro\u00dfprojekt aufgebracht. Viel Spa\u00df hatten viele beim gemeinsamen Spielen oder auch Kochen oder Backen in der Familie. Beim Treffen in kleinen Gruppen mit Freunden und ihren Corres war das Kommunizieren pl\u00f6tzlich viel leichter. Aber auch in diesem Jahr haben viele bemerkt, dass erst kurz vor Abfahrt der Gruppe auch pers\u00f6nliche Verbindungen entstehen konnten.",
+        "id": "_sszAjEqKx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Am 3. Juni 2020 sollte nun unser Gegenbesuch in der Bretagne stattfinden. Auf ein Wiedersehen und Vertiefen der ersten kleinen Verbindungen haben wir uns gefreut, auch auf vielleicht sonnige Tage an der bretonischen K\u00fcste, auf Austern im Fischerdorf, auf Cr\u00eapes und Croissants, auf die Familien unserer Corres und auf viele Aktivit\u00e4ten mit der ganzen Gruppe. Nun sind alle au\u00dferschulischen Aktivit\u00e4ten und besonders auch Austauschfahrten als Schutz vor dem Coronavirus in diesem Schuljahr abgesagt. Ob der Besuch auf das n\u00e4chste Schuljahr verschoben werden kann, ist noch vollkommen unklar. In den \u00fcber 40 Jahren des deutsch-franz\u00f6sischen Sch\u00fcleraustausches hatten wir eine solche Situation noch nicht. Wie auch immer es nun weitergeht, nutzt eure verschiedenen M\u00f6glichkeiten und Kan\u00e4le, um in Kontakt mit euren Corres zu bleiben. Erz\u00e4hlt von eurem \u201eCorona-Alltag\u201c und tauscht Ideen aus. So kann euer Austauschjahr zu einem wirklich gro\u00dfen europ\u00e4ischen Projekt werden.",
+        "id": "_LCFDSxEI1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bon courage!",
+        "id": "_idpaeIIDu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Katrin Br\u00f6mer und Sonja Mester",
+        "id": "_cqDDdf9uz",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- >
+  ammerland_rastede_2_b027a9b2-342d-4d90-a54f-1e866429c2e7-600x308.jpg
+- >
+  ammerland_rastede_1_118b6956-ac55-47ae-b745-e71af8ceb10c-600x308.jpg
+- kgs-40-jahre-schuleraustausch.jpg
+- bretagne-2016_52.jpg
+- bretagne-2016_05.jpg
+
+----
+
+Date: 2020-03-30 18:20
+
+----
+
+Author: PTZ
+
+----
+
+Tags: Französisch
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: true
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
