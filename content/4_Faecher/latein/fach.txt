@@ -157,7 +157,9 @@ Text:
 
 ----
 
-Gallery: 
+Gallery:
+
+- kol.jpg
 
 ----
 
@@ -177,7 +179,7 @@ Hintergrundbild:
 
 ----
 
-Fotoansicht: gallery
+Fotoansicht: 
 
 ----
 
