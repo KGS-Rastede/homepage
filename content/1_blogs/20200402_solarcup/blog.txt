@@ -1,0 +1,71 @@
+Title: Solarcup
+
+----
+
+Heading: WPK-Physik erfolgreich beim Solarcup 2019
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Am Samstag, den 16. November war im Famila-Center Wechloy die Rennbahn aufgebaut, auf der Teams aus dem Nordwesten ihre selbst gebauten Solarmobile gegen einander antreten lie\u00dfen. Neben der Geschwindigkeit wurden auch die technische und \u00f6kologische Verarbeitung der Fahrzeuge von einer Jury bewertet. Zwei Teams aus dem Wahlpflichtkurs Physik des 10. Jahrgangs schickten ihre Solarmobile ins Rennen.",
+        "id": "_z7dW3k870",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Das Power-Team</em> (Eske , Leonie und Maira) konzentrierte sich auf Fahrt\u00fcchtigkeit und Leichtigkeit. Sogar zwischen den einzelnen Rennl\u00e4ufen wurde mit Hochdruck an der Technik gearbeitet, so dass sie es bis ins Halbfinale schafften.",
+        "id": "_o13XCHqAU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Einen anderen Schwerpunkt hatte das Team Schilli die Schilkr\u00f6te (Isabel, Sophie und Talea). Sie hatten den Kreativwettbewerb im Visier. Passend zum Wettbewerbsthema \u201e70 Jahre Grundgesetz\u201c gestalteten sie eine Schildkr\u00f6te, die Weisheit, Langlebigkeit und Schutz verk\u00f6rpert. Sie haben den 2. Platz errungen und damit ein Preisgeld von 100,- \u20ac gewonnen.",
+        "id": "_2mY9cDs7C",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Herzlichen Gl\u00fcckwunsch an beide Teams!",
+        "id": "_EL8DqMxte",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- schilli-die-schilkrote.jpg
+- das-power-team.jpg
+
+----
+
+Date: 2020-04-02 10:50
+
+----
+
+Author: 
+
+----
+
+Tags: Physik
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: true
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
