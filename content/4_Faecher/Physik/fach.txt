@@ -17,8 +17,26 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Die Physik untersucht Erscheinungen der unbelebten Natur, zum Beispiel: <br>Wie wirken Magnete? Was ist Licht? Was ist kleiner als ein Atom? <br>Wie bringt elektrischer Strom den K\u00fcchenmixer zum Drehen? <br>Wie kommt es zum Treibhauseffekt?<br>Und was kann ich tun, um ihn zu bremsen?<br>",
-        "id": "_r2x8wkq0d",
+        "content": "Die Physik untersucht Erscheinungen der unbelebten Natur, zum Beispiel: <br>Wie wirken Magnete? Was ist Licht? Was ist kleiner als ein Atom? <br>Wie bringt elektrischer Strom den K\u00fcchenmixer zum Drehen? <br>Wie kommt es zum Treibhauseffekt?<br>Und was kann ich tun, um ihn zu bremsen?<br><br><br>",
+        "id": "_5ao9u4dvt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_qnhsvx4tg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_xuajcif6c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ny1bxfdkz",
         "type": "paragraph"
     },
     {
@@ -29,7 +47,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "\u201eSchau tief in die Natur, und dann wirst du alles besser verstehen.\" <br>Albert Einstein",
+        "content": "\u201e<strong>Schau tief in die Natur, und dann wirst du alles besser verstehen.\" <br></strong>Albert Einstein",
         "id": "_5p4v607e3",
         "type": "blockquote"
     },
@@ -41,29 +59,44 @@ Text:
     },
     {
         "attrs": [],
-        "content": "\u201eEin Gelehrter in seinem Laboratorium ist nicht nur ein Techniker; <br>er steht auch vor den Naturgesetzen wie einKind vor der M\u00e4rchenwelt.\u201c<br>Marie Curie",
-        "id": "_pznwg6bhp",
+        "content": "<strong>\u201eEin Gelehrter in seinem Laboratorium ist nicht nur ein Techniker; <br>er steht auch vor den Naturgesetzen wie ein Kind vor der M\u00e4rchenwelt.\u201c</strong><br>Marie Curie<br><br><br>",
+        "id": "_ce0z35fvj",
         "type": "blockquote"
     },
     {
         "attrs": [],
-        "content": "\u201eIch habe keine besondere Begabung, sondern bin nur leidenschaftlich neugierig.\u201c <br>Albert Einstein<br><br>",
-        "id": "_ns3rzawks",
-        "type": "blockquote"
-    },
-    {
-        "attrs": [],
-        "content": "Der Physikunterricht an der KGS Rastede hat das Ziel, den Sch\u00fclerinnen und Sch\u00fclern Naturph\u00e4nomene nahezubringen und diese experimentell und theoretisch zu untersuchen. Im Wahlpflichtbereich bietet sich zudem die M\u00f6glichkeit, physikalische und technische Fragestellungen miteinander zu verkn\u00fcpfen und z.B. projektartig solarbetriebene Fahrzeuge zu bauen. Hier ein paar Eindr\u00fccke:",
-        "id": "_UxxzTog1V",
+        "content": "Im Physikunterricht wollen wir auch staunen und verstehen. <br>Daf\u00fcr schauen wir uns die Ph\u00e4nomene genau an und entwickeln Experimente.<br>H\u00e4ufig messen wir etwas, veranschaulichen die Messungen in Diagrammen und interpretieren sie.<br>Zu unserer Arbeitsweise geh\u00f6rt ebenso, dass wir unsere Ergebnisse mit den Theorien von anderen Physikern vergleichen.<br><br>Im Wahlpflichtbereich (WPK) k\u00f6nnen wir physikalische und technische Fragestellungen miteinander zu verkn\u00fcpfen. Beispielsweise bauen wir hier solarbetriebene Fahrzeuge und nehmen damit an Wettbewerben teil.<br><br>",
+        "id": "_FL9aukX50",
         "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_uF27tjAh7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_fxh4WwmvL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/Faecher+Physik/files/4-bilder.jpg",
+            "id": "Faecher/Physik/4-bilder.jpg",
+            "ratio": 1.5052790346907994,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_3ir8psedg",
+        "type": "image"
     }
 ]
 
 ----
 
-Gallery:
-
-- 01.jpg
+Gallery: 
 
 ----
 
@@ -71,7 +104,24 @@ Lehrplantext:
 
 ----
 
-Lehrplaene: 
+Lehrplaene:
+
+- 
+  link:
+    - netzplan-hauptschulzweig.pdf
+  name: Hauptschulzweig
+- 
+  link:
+    - netzplan-realschulzweig.pdf
+  name: Realschulzweig
+- 
+  link:
+    - netzplan-gymnasialzweig-5-10.pdf
+  name: Gymnasialzweig (5-10)
+- 
+  link:
+    - netzplan-gymnasialzweig-11-13.pdf
+  name: Gymnasialzweig (11-13)
 
 ----
 
@@ -83,7 +133,7 @@ Hintergrundbild:
 
 ----
 
-Fotoansicht: carousel
+Fotoansicht: 
 
 ----
 
@@ -97,3 +147,25 @@ Sidebar:
   link: >
     http://db2.nibis.de/1db/cuvo/datei/kc_naturwissenschaften_rs.pdf
   name: KC Realschule
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/nw_gym_si_kc_druck.pdf
+  name: KC Gymnasium 5-10
+- 
+  link: >
+    http://db2.nibis.de/1db/cuvo/datei/ph_go_kc_druck_2017.pdf
+  name: KC Gymnasium 11-13
+- 
+  link: >
+    https://www.nibis.de/nli1/gohrgs/operatoren/operatoren_ab_2012/op09_10NW.pdf
+  name: Operatorenliste
+- 
+  link: https://www.leifiphysik.de/
+  name: Online Physik lernen
+- 
+  link: >
+    https://phet.colorado.edu/de/simulations/category/physics
+  name: Experimente als Simulation
+- 
+  link: https://physik.cosmos-indirekt.de/
+  name: Physik-Lexikon
