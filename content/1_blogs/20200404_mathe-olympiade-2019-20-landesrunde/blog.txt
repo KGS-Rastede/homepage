@@ -1,0 +1,76 @@
+Title: Mathe-Olympiade 2019/20 Landesrunde
+
+----
+
+Heading: Greta und Karl (beide Jahrgang 5) hatten sich für Göttingen qualifiziert
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Zwei F\u00fcnftkl\u00e4ssler der KGS, Greta Steinkamp und Karl Stuber, waren in diesem Jahr bei der nieders\u00e4chsischen Landesrunde der Matheolympiade dabei. Nachdem sie die Hausaufgabenrunde und die Schulrunde sehr erfolgreich absolvierten, konnten sie Ende Februar sogar an der Landesrunde in G\u00f6ttingen teilnehmen. Karl Stuber hat dabei eine grandiose Silbermedaille erhalten und war somit der H\u00f6chstplatzierte Teilnehmer aus dem Ammerland. Wie es ihm gefallen hat, berichtet er selbst:",
+        "id": "_o4fxmwzst",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Am Freitagnachmittag ging es endlich los: Mit meinen Eltern und meiner Schwester fuhr ich im Wohnmobil nach G\u00f6ttingen. In einem griechischen Restaurant haben wir leckeres Abendbrot gegessen. Am n\u00e4chsten Morgen mussten wir fr\u00fch aufstehen, weil die Anmeldung im Mathe-Institut G\u00f6ttingen schon zwischen 8:45 Uhr - 9:15 Uhr war. Nachdem ich ein T-Shirt und ein Verpflegungspaket bekommen hatte, ging es in einen gro\u00dfen, alten H\u00f6rsaal.",
+        "id": "_mCcvo5ETE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auf zwei Leinw\u00e4nden an der vorderen Wand wurden die Regeln f\u00fcr die Matheolympiade erkl\u00e4rt. Es waren ungef\u00e4hr 100 Sch\u00fcler und Eltern im Saal. Ich war schon ganz aufgeregt. Dann wurde ich mit ca. 30 anderen 5. und 6. Kl\u00e4sslern in ein anderes Geb\u00e4ude gef\u00fchrt, um die Mathe-Klausur zu schreiben. Das war etwas ganz anderes als unsere \u00fcblichen Mathe-Arbeiten in der Schule: F\u00fcr die Matheolympiade gab es 3 Stunden Zeit. In den ersten 45 Minuten konnte ich zu der Klausur Fragen stellen. Diese wurden auf einen extra Zettel notiert, der dann auch schriftlich von der Jury",
+        "id": "_hFIWtHvcV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "beantwortet wurde. Die vier Aufgaben waren sehr schwer und man musste sich sehr konzentrieren. F\u00fcr jede gab es eine eigene Mappe. Es hat viel Spa\u00df gemacht, aber ich war auch froh, als ich alle geschafft hatte. In der Zwischenzeit haben meine Eltern und meine Schwester eine Stadtf\u00fchrung mitgemacht. Sie wurde von der Matheolympiade organisiert und es gab auch andere Eltern, die die Stadt mit ihnen besichtigt haben. Um 13.00 Uhr gab es f\u00fcr mich, meine Eltern und meine Schwester im Deutschen Luft- und Raumfahrtzentrum Nudeln. Als wir satt waren, sind wir nach drau\u00dfen gegangen und ich habe mit anderen Jungs Fu\u00dfball gespielt. Man h\u00e4tte auch einen Film gucken oder einem Vortrag zuh\u00f6ren k\u00f6nnen. In der Aula am Wilhelmsplatz in der Innenstadt von G\u00f6ttingen gab es um 16.00 Uhr die Siegerehrung. Ich habe mit 34 Punkten den zweiten Preis bekommen und mich riesig \u00fcber die Silbermedaille, ein Spiel und ein Buch gefreut, aber noch besser war es, dass ich so weit gekommen bin. Danach sind wir ein bisschen in der Stadt herumgelaufen und haben bei Peter Pan einen Hamburger gegessen. Es war ein aufregender Tag. Das",
+        "id": "_VfYltoKk6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Tolle war, dass man zwischen der Klausur und der Siegerehrung eine Auswahl an Sachen hatte, die man machen konnte. Au\u00dferdem war das Essen richtig gut und die Klausur mit passenden, schweren Aufgaben.",
+        "id": "_WvXCAZxka",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- img_0001.jpg
+
+----
+
+Date: 2020-04-04 12:25
+
+----
+
+Author: BRK
+
+----
+
+Tags: Mathematik
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
