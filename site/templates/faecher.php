@@ -71,7 +71,7 @@
     <div class="card-body">
       <div class="list-group">
       <a href="<?= page('Faecher/deutsch')->url() ?>" class="list-group-item list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/chat-dots.svg" alt="" width="32" height="32">Deutsch</a></li>
-      <a href="<?= page('Faecher/deutsch-als-zweitsprache-daz')->url() ?>" class="list-group-item list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/ .svg" alt="" width="32" height="32">Deutsch als Zweitsprache</a></li>
+      <a href="<?= page('Faecher/deutsch-als-zweitsprache-daz')->url() ?>" class="list-group-item list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/chat-square-dots.svg" alt="" width="32" height="32">Deutsch als Zweitsprache</a></li>
       </div>
     </div>
   </div>
