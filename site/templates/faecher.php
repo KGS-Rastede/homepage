@@ -81,7 +81,7 @@
   <div class="card">
     <div class="card-header card-header-success">
       <h4 class="card-title">Naturwissenschaften</h4>
-      <p class="category">Fachbereichsleiter: NN (<a href="mailto:he@kgs-rastede.de"></a>)</p>
+      <p class="category">Fachbereichsleiter: Herr Dr. Fach (<a href="mailto:fch@kgs-rastede.de">FCH</a>)</p>
     </div>
     <div class="card-body">
       <div class="list-group">
