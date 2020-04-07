@@ -126,7 +126,7 @@
             <li><a class="text-muted" href="#">Unsere Geschichte</a></li>
             <li><a class="text-muted" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
             <li><a class="text-muted" href="<?= page('allgemeines/impressum')->url() ?>">Impressum</a></li>
-
+            <li><a class="text-muted" href="<?= page('allgemeines/mensa')->url() ?>">Mensa</a></li>
           </ul>
         </div>
       </div>

@@ -23,5 +23,8 @@
                 <img src="<?= $kirby->url('assets') ?>/bilder/banner_schuelerzeitung.jpg" class="img-fluid">
             </a>
         </ul>
+        <ul>
+            <a href="">Mensa</a>
+        </ul>
     </div>
 </div>
