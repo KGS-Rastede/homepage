@@ -54,6 +54,9 @@
             <a class="dropdown-item" href="<?= page('allgemeines/ausbildungsschule')->url() ?>"><i class="material-icons">school</i>Ausbildungsschule</a>
             <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>"><i class="material-icons">accessible_forward</i>Inklusion</a>
 
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="<?= page('allgemeines/grundschule')->url() ?>"><i class="material-icons">people_outline</i>Übergang Grundschule/KGS</a>
+
 
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="<?= page('allgemeines/beratung')->url() ?>"><i class="material-icons">people_outline</i>Beratung</a>
