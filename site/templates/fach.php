@@ -45,8 +45,7 @@
 
 <?php endif ?>
 
-
-<h2>Aktuelles aus dem Fach</h2>
+<!-- Die Inhalte, die immer sichtbar sein sollen, sollen über den Blogs stehen  -->
 <div class="container">
 
   <?php $index = 0;
@@ -70,6 +69,8 @@
     <?php endif ?>
   <?php endforeach ?>
 </div>
+
+<h2>Aktuelles aus dem Fach</h2>
 
 <div class="container my-3 border">
 
