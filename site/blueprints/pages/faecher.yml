@@ -1,32 +1,8 @@
-title: Übersicht über die Fächer
+preset: pages
+icon: 📜
+templates: fach
 
-options:
-  update:
-    *: false
 
-columns:
-  # main
-  main:
-    width: 2/3
-    sections:
-
-      # a simple form
-      content:
-        type: fields
-        fields:
-          headline:
-            label: Headline
-            type: text
-          text:
-            label: Text
-            type: textarea
-
-  # sidebar
-  sidebar:
-    width: 1/3
-    sections:
-
-      pages:
-        type: pages
-        templates: fach
-        headline: Fächer der KGS
+unlisted:
+  headline: Fächer
+  info: "Tag: {{page.haupttag}}"
