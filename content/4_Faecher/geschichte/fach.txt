@@ -2,6 +2,10 @@ Title: Geschichte
 
 ----
 
+Heading: 
+
+----
+
 Text: 
 
 ----
@@ -10,4 +14,24 @@ Gallery:
 
 ----
 
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
+Haupttag: Geschichte
+
+----
+
+Hintergrundbild: 
+
+----
+
 Fotoansicht: gallery
+
+----
+
+Sidebar: 
