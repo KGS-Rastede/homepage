@@ -70,6 +70,7 @@ Text:
 Gallery:
 
 - dsc_0148.jpg
+- dsc_0161.jpg
 
 ----
 
@@ -100,7 +101,7 @@ Hintergrundbild:
 
 ----
 
-Fotoansicht: gallery
+Fotoansicht: carousel
 
 ----
 
