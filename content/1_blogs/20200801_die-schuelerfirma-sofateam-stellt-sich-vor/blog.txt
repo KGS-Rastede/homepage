@@ -1,0 +1,50 @@
+Title: Die Schülerin "Sofateam" stellt sich vor
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Hier steht der Inhalt",
+        "id": "_wbtp7ls2h",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-08-01 13:30
+
+----
+
+Author: LUE
+
+----
+
+Tags: Schülerfirmen
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

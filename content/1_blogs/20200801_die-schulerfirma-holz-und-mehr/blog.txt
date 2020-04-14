@@ -1,0 +1,66 @@
+Title: Die Schülerfirma "Holz- und Mehr" stellt sich vor
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Verkauf von selbst hergestelltem Spielzeug oder \u00c4hnlichem aus Holz; Holzsitzb\u00e4nke und Arbeitsmaterialien f\u00fcr Schulen; weitere Produkte auf Anfrage (Schulhofgestaltung: Basketballfeld aufzeichnen);",
+        "id": "_uafAJautT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Fachliche und praktische Grundkenntnisse in der Holzbearbeitung sind f\u00fcr die Kunden-Auftragsannahme wichtig und werden erlernt (einschlie\u00dflich der Programmbenutzung von 3D-CAD-Software f\u00fcr Produktentwicklung und Konstruktion ---&gt; Autodesk Inventor)",
+        "id": "_C1scKh91a",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- 2.jpg
+- 3.jpg
+- 4.jpg
+- 5.jpg
+- logo_srf-hum.jpg
+- 8.jpg
+- 1.jpg
+- 6.jpg
+- 7.jpg
+
+----
+
+Date: 2020-08-01 10:45
+
+----
+
+Author: Jörg Lehmann
+
+----
+
+Tags: Schülerfirmen
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
