@@ -1,13 +1,5 @@
-title: Default 
+preset: pages
+icon: 📜
 
-options:
-  update:
-    *: false
-
-preset: page
-fields:
-  text:
-    label: Inhalt für die Homepage
-    type: editor
-    size: large
-
+unlisted:
+  headline: Unterseiten
