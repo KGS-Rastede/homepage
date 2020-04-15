@@ -19,6 +19,9 @@ columns:
   rechts:
     width: 1/3
     fields:
+      related:
+        label: Unterseiten
+        type: pages
       pageSettings2:
         label: Dateien
         type: headline
