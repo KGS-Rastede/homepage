@@ -42,17 +42,16 @@
                     <div class="card card-pricing">
                         <div class="card-category text-primary">
                             <h5 class="card-title">
-                                Verwandte Inhalte
+                                Weitere Informationen
                             </h5>
                         </div>
                         <div class="card-body">
                             <ul class="list-group list-group-flush">
-                                <?php
-                                $relatedPages =  $page->related()->toPages();
+                                <?php $relatedPages =  $page->related()->toPages();
                                 foreach ($relatedPages as $relatedPage) : ?>
-                                                                    <li class="list-group-item text-left">
-
-                                    <?= $relatedPage->title() ?>
+                                
+                                <li class="list-group-item text-left">
+                                    <a href="<?= $relatedPage->url() ?>"><?= $relatedPage->title() ?></a>
                                 </li>
                                 <?php endforeach ?>
 
