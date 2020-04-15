@@ -11,15 +11,25 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Hier steht der Inhalt",
-        "id": "_wbtp7ls2h",
+        "content": "Unsere Sch\u00fclerfirma bietet dienstags in der 2. gro\u00dfen Pause \u00fcberbackene Pizzabr\u00f6tchen in drei Sorten (vegetarisch, mit Schinken, mit Salami) an. Zudem stehen wir nach Absprache gerne f\u00fcr ein Catering bei Veranstaltungen in der Schule zur Verf\u00fcgung. ",
+        "id": "_zu425q1qz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unsere Mitarbeiter*innen arbeiten in den folgenden Abteilungen bzw. Positionen: Gesch\u00e4ftsf\u00fchrung, Einkauf, Verkauf, Werbung, Produktion, Buchhaltung und Personalabteilung.",
+        "id": "_ww5waklbs",
         "type": "paragraph"
     }
 ]
 
 ----
 
-Gallery: 
+Gallery:
+
+- img_3411.jpg
+- img_3418.jpg
+- img_3413.jpg
 
 ----
 
