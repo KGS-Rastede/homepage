@@ -72,3 +72,38 @@ Text:
         "type": "paragraph"
     }
 ]
+
+----
+
+Related:
+
+- allgemeines/oberstufe/anmeldung
+- allgemeines/oberstufe/auslandsjahr
+- allgemeines/oberstufe/fachhochschulreife
+- allgemeines/oberstufe/schwerpunkte
+- allgemeines/oberstufe/seminarfaecher
+
+----
+
+Downloads: 
+
+----
+
+Toggle: true
+
+----
+
+Sidetitel: Wichtige Themen
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://www.niehaus-ol.de/allgemeines/oberstufe/anmeldung
+  name: Anmeldung
+- 
+  link: >
+    https://www.niehaus-ol.de/allgemeines/oberstufe/seminarfächer
+  name: Seminarfächer
