@@ -81,6 +81,7 @@
         ->children()
         ->listed()
         ->filterBy('tags', $page->haupttag(), ',')
+        ->flip()
     ]) ?>
 
   </div>
