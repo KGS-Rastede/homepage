@@ -1,4 +1,4 @@
-Title: Die  Schülerfirma " Das Sofa-Team" stellt sich vor
+Title: " Das Sofa-Team", soziales Engagement bringt Freude
 
 ----
 
@@ -11,7 +11,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Bei uns sind eure sozialen Interessen und F\u00e4higkeiten, eure Kreativit\u00e4t und Teamf\u00e4higkeit gefragt. F\u00fcr Sch\u00fcler, die sich gerne sozial engagieren und Interesse an sozialen Berufen haben, bietet diese Sch\u00fclerfirma die M\u00f6glichkeit, Sozialkompetenz zu gewinnen. Wir unterst\u00fctzen und begleiten alte Menschen in den Altenheimen oder im Rahmen von Hausbesuchen, indem wir mit ihnen Spiele spielen, spazieren gehen, basteln, kl\u00f6nen, ihnen vorlesen, Boteng\u00e4nge f\u00fcr sie erledigen, bei der Gartenarbeit oder beim Umgang mit Handy und Computer helfen. Gemeinsame Aktionen in den Altenheimen, wie z.B. Weihnachtsfeiern, f\u00f6rdern die Integration von Jung und Alt.",
+        "content": "Bei uns sind eure sozialen Interessen und F\u00e4higkeiten, eure Kreativit\u00e4t und Teamf\u00e4higkeit gefragt. F\u00fcr alle, die sich gerne sozial engagieren und Interesse an sozialen Berufen haben, bietet diese Sch\u00fclerfirma die M\u00f6glichkeit, Sozialkompetenz zu gewinnen. Wir unterst\u00fctzen und begleiten alte Menschen in den Altenheimen oder im Rahmen von Hausbesuchen, indem wir mit ihnen Spiele spielen, spazieren gehen, basteln, kl\u00f6nen, ihnen vorlesen, Boteng\u00e4nge f\u00fcr sie erledigen, bei der Gartenarbeit oder beim Umgang mit Handy und Computer helfen. Gemeinsame Aktionen in den Altenheimen, wie z.B. Weihnachtsfeiern, f\u00f6rdern die Integration von Jung und Alt.",
         "id": "_k5hd5vv76",
         "type": "paragraph"
     },
@@ -37,7 +37,18 @@ Text:
 
 ----
 
-Gallery: 
+Gallery:
+
+- auf-zum-park.jpg
+- training-rollstuhlschieben.jpg
+- los-geht-s.jpg
+- fr-niemeyer-u-dominik.jpg
+- spielen-im-petershof.jpg
+- >
+  weihnachtsfeier-2019-in-der-cafeteria.jpg
+- weihnachtsfeier-2019.png
+- babysitterkurs.jpg
+- stuhlgymnastik-am-teich.jpg
 
 ----
 
