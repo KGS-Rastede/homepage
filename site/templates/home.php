@@ -69,7 +69,10 @@
 
 
                     <?php $index = 0;
-                    foreach (page('blogs')->children()->filterBy('featured', true) as $subpage) : $index++ ?>
+                    foreach (page('blogs')
+                      ->children()
+                      ->filterBy('featured', true)
+                      ->flip() as $subpage) : $index++ ?>
 
                       <!--  
                       % 2 testet letztlich, ob der Wert in $index gerade ist oder nicht
