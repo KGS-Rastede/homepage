@@ -4,7 +4,7 @@
 
 <!--SPRACHEN-->
 <div class="card-columns">
-  <div class="card text-white bg-rose mb-3">
+  <div class="card text-white bg-info mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Fremdsprachen</h3>
       <h4 class="card-title">Fachbereichsleiter: Frau Backhaus</h4>
@@ -17,7 +17,7 @@
     </div>
   </div>
   <!--KULTURELL-->
-  <div class="card text-white bg-rose mb-3">
+  <div class="card text-white bg-info mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Musisch-Kultureller Bereich</h3>
       <h4 class="card-title">Fachbereichsleiter: Herr Schneemann</h4>
@@ -31,7 +31,7 @@
     </div>
   </div>
 
-  <div class="card text-white bg-rose mb-3">
+  <div class="card text-white bg-info mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Mathematik</h3>
       <h4 class="card-title">Fachbereichsleiter: Herr Mönnich</h4>
@@ -42,7 +42,7 @@
     </div>
   </div>
 
-  <div class="card text-white bg-rose mb-3">
+  <div class="card text-white bg-info mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Sport</h3>
       <h4 class="card-title">Fachbereichsleiter: Frau Müller-Pulsfort</h4>
@@ -54,7 +54,7 @@
   </div>
 
 
-  <div class="card text-white bg-rose mb-3">
+  <div class="card text-white bg-info  mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Deutsch</h3>
       <h4 class="card-title">Fachbereichsleiter: Herr Schumacher</h4>
@@ -68,7 +68,7 @@
 
 
   <!--NTW-->
-  <div class="card text-white bg-rose mb-3">
+  <div class="card text-white bg-info mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Naturwissenschaften</h3>
       <h4 class="card-title">Fachbereichsleiter: Herr Dr. Fach</h4>
@@ -83,7 +83,7 @@
   </div>
 
   <!--AWT-->
-  <div class="card text-white bg-rose mb-3">
+  <div class="card text-white bg-info mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Arbeit-Wirtschaft-Technik</h3>
       <h4 class="card-title">Fachbereichsleiter: Herr Henken</h4>
@@ -97,7 +97,7 @@
     </div>
   </div>
   <!--GSW-->
-  <div class="card text-white bg-rose mb-3">
+  <div class="card text-white bg-info mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Sozialwissenschaften</h3>
       <h4 class="card-title">Fachbereichsleiter: Herr Meyer</h4>
