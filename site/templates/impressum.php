@@ -35,7 +35,7 @@
                     <td class="td-actions text-right">
                         <a href="mailto:<?= $page->schulleitermail() ?>">
                             <button type="button" rel="tooltip" class="btn btn-info">
-                                <i class="material-icons">mail</i>
+                                <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg">
                             </button>
                         </a>
                     </td>                
@@ -52,7 +52,7 @@
                     <td class="td-actions text-right">
                         <a href="mailto:<?= $page->stellvermail() ?>">
                             <button type="button" rel="tooltip" class="btn btn-info">
-                                <i class="material-icons">mail</i>
+                               <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg">
                             </button>
                         </a>
                     </td>                
@@ -69,7 +69,7 @@
                     <td class="td-actions text-right">
                         <a href="mailto:<?= $page->didaktischeLeitungmail() ?>">
                             <button type="button" rel="tooltip" class="btn btn-info">
-                                <i class="material-icons">mail</i>
+                                <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg">
                             </button>
                         </a>
                     </td>                

@@ -26,7 +26,7 @@
                                         <td class="td-actions text-right">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-success btn-just-icon">
-                                                    <i class="material-icons">cloud_download</i>
+                                                    <img src="<?= $kirby->url('assets') ?>/icons/cloud-download.svg">
                                                 </button>
                                             </a>
                                             <div class="text-left">
@@ -64,7 +64,7 @@
                                         <td class="td-actions text-right">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
-                                                    <i class="material-icons">cloud_download</i>
+                                                    <img src="<?= $kirby->url('assets') ?>/icons/cloud-download.svg">
                                                 </button>
                                             </a>
                                             <div class="text-left">
@@ -102,7 +102,7 @@
                                         <td class="td-actions text-right">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-warning btn-just-icon">
-                                                    <i class="material-icons">cloud_download</i>
+                                                    <img src="<?= $kirby->url('assets') ?>/icons/cloud-download.svg">
                                                 </button>
                                             </a>
                                             <div class="text-left">

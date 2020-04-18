@@ -33,7 +33,7 @@
                         <?php if ($kontakt->phone() != '') : ?>
                             <div class="card-footer justify-content-center">
                                 <button class="btn btn-success btn-round">
-                                    <i class="material-icons">local_phone</i><?= $kontakt->phone() ?>
+                                <img src="<?= $kirby->url('assets') ?>/icons/phone.svg"><?= $kontakt->phone() ?>
                                 </button>
                             </div>
                         <?php endif ?> 
@@ -42,7 +42,7 @@
                             <div class="card-footer justify-content-center">
                                 <a href="mailto:<?= $kontakt->email() ?>">
                                     <button class="btn btn-success btn-round">
-                                        <i class="material-icons">email</i><?= $kontakt->email() ?>
+                                    <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg"><?= $kontakt->email() ?>
                                     </button>
                                 </a>
                             </div>

@@ -31,7 +31,7 @@
                 <a href="<?= $lehrplan->link()->toFile()->url() ?>">
                   Download
                   <button type="button" rel="tooltip" class="btn btn-info btn-just-icon btn-sm">
-                    <i class="material-icons">cloud_download</i>
+                    <img src="<?= $kirby->url('assets') ?>/icons/cloud-download.svg">
                   </button>
                 </a>
               </td>
