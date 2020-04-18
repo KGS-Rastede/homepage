@@ -44,10 +44,5 @@ Icon
 /vendor
 
 /kirby
-/assets/demo/*
-/assets/img/*
-/assets/js/*
-/assets/scss/*
-/assets/kgs.ics
 
 composer.lock
