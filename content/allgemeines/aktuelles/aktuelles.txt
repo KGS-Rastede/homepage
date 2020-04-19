@@ -2,4 +2,13 @@ Title: Banner für aktuelle Ereignisse
 
 ----
 
-Banner: 
+Banner:
+
+- 
+  titel: Schulschließung wegen Corona
+  text: Infotext steht hier
+  datei: [ ]
+  link: >
+    https://www.mk.niedersachsen.de/startseite/
+  datevon: 2020-04-19
+  datebis: 2020-06-20
