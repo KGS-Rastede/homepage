@@ -34,7 +34,7 @@
             <a class="dropdown-item" href="<?= page('kontakte/hausmeister')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">Hausmeister</a>
             <a class="dropdown-item" href="<?= page('kontakte/schulleitung')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">Schulleitung</a>
             <a class="dropdown-item" href="<?= page('kontakte/fbl')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">Fachbereichsleiter</a>
-            <a class="dropdown-item" href="<?= page('kontakte/sekretariate')-w>url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">Sekretariate</a>
+            <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">Sekretariate</a>
             <a class="dropdown-item" href="<?= page('lehrer')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">das Kollegium</a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="<?= page('sv/die_sv')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">Schülervertretung (SV)</a>
@@ -82,6 +82,8 @@
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">Fächer</a>
             <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg">Oberstufe</a>
+
+
 
           </div>
 
