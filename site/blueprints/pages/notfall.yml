@@ -5,6 +5,7 @@ icon: 📖
 options:
   update:
     *: false
+    admin: true
 
 sections:
   content:
