@@ -10,14 +10,16 @@
     </ol>
     <div class="carousel-inner">
 
+
       <?php $count = -1;
       foreach ($page->images() as $image) : $count++ ?>
         <?php if ($count == 0) : ?>
           <div class="carousel-item active">
-        <?php else : ?>
+          <?php else : ?>
             <div class="carousel-item">
-        <?php endif ?>
-            <img src=<?= $image->url() ?> alt="<?= $image->bildunterschrift() ?>" />
+            <?php endif ?>
+            <img class="d-block w-100" src="<?= $image->url() ?>" />
+
             <div class="carousel-caption">
               <h3><?= $image->bildunterschrift() ?></h3>
             </div>
@@ -35,3 +37,4 @@
     </div>
   </div>
 </div>
+

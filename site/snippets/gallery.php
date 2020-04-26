@@ -2,7 +2,7 @@
   <?php foreach ($page->images() as $image) : ?>
     <li class="list-group-item">
       <figure class="figure">
-        <img alt="<?= $image->alt() ?>" class="rounded img-thumbnail img-fluid" src="<?= $image->url() ?>">
+        <img class="d-block w-100" alt="<?= $image->alt() ?>" src="<?= $image->url() ?>">
         <figcaption class="figure-caption"><?= $image->bildunterschrift() ?></figcaption>
       </figure>
     </li>
