@@ -61,9 +61,6 @@
             $sonnendauer = leer($arr["actual_daylength_standard_hhmm"]);
             $morgendaemmerung = leer($arr["actual_sunrise_civiltwilight_local"]);
             $abenddaemmerung = leer($arr["actual_sunset_civiltwilight_local"]);
-            $mondaufgang = leer($arr["actual_moonset_standard_local"]);
-            $monduntergang = leer($arr["actual_moonrise_standard_local"]);
-            $mondprozent = komma($arr["actual_lunar_phase_percentage"]) . "%";
             $messzeitpunkt_tag = leer($arr["actual_date0_puredate_local"]);
             $messzeitpunkt_zeit = leer(substr($arr["actual_date0_time_local"], 0, 5)) . ' Uhr';
             $messzeitpunkt = wotag($arr["actual_date0_dayofweek_local"]) . $messzeitpunkt_tag . ' ' . $messzeitpunkt_zeit;
@@ -115,20 +112,6 @@
                 </tr>
                 <tr>
                     <td><b>Intensität: </b><?= $sonne_watt ?></td>
-                </tr>
-                <tr>
-                    <td><b>Mondaufgang: </b><?= $mondaufgang ?></td>
-                </tr>
-                <tr>
-                    <td><b>Monduntergang: </b><?= $monduntergang ?></td>
-                </tr>
-                <tr>
-                    <td><b>Mondphase: </b><?= $mondprozent ?></td>
-                </tr>
-                <tr>
-                    <td>
-                        <center><img src=<?= $pfad ?>.\'moonphase.png></center>
-                    </td>
                 </tr>
                 <tr>
                     <td><b>
