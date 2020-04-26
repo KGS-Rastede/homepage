@@ -57,9 +57,11 @@ columns:
             type: text
           hintergrundbild:
             label: Hintergrundbild
-            type: select
-            options: query
-            query: page.images
+            type: files
+            layout: cards
+            max: 1
+            multiple: false
+            help: Dieses Bild wird oben auf der Seite als Hintergrundbild dargestellt
           fotoansicht:
             label: Fotos anzeigen
             type: select

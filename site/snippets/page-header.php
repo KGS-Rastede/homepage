@@ -1,6 +1,5 @@
-<?php if (page()->hintergrundbild()->isNotEmpty()) : ?>
-
-  <div class="jumbotron" style="background-image: url('<?= $kirby->url() ?>/<?= $page->hintergrundbild() ?>'); background-size: cover;">
+<?php if ($image = $page->hintergrundbild()->toFile()) : ?>
+  <div class="jumbotron" style="background-image: url('<?= $image->url() ?>'); background-size: cover;">
     <div class="container">
       <h1 class="title text-white" style="font-size: 3vw"><?= $page->title() ?>
         <small class="text-muted"><?= $page->subtitle() ?></small>
