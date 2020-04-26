@@ -60,7 +60,11 @@ Featured: false
 
 ----
 
-Immer-sichtbar: true
+Immer-sichtbar: false
+
+----
+
+Downloads: 
 
 ----
 
