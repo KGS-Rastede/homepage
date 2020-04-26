@@ -92,7 +92,7 @@
 
 <?php if ( $page->hasImages() ) :?>
 
-<div class="container col-lg-9 col-md-9 ml-auto mr-auto">
+<div class="container col-lg-9 col-md-6 ml-auto mr-auto">
 
   <?php if ($page->fotoansicht() == 'carousel') : ?>
     <?php snippet('carousel') ?>
