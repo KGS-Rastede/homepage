@@ -138,7 +138,9 @@ Haupttag: Physik
 
 ----
 
-Hintergrundbild: 
+Hintergrundbild:
+
+- hintergrund.jpg
 
 ----
 
