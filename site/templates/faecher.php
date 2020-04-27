@@ -37,7 +37,7 @@
       <h4 class="card-title">Fachbereichsleiter: Herr Mönnich</h4>
 
       <div class="list-group">
-        <a href="<?= page('Faecher/Mathematik')->url() ?>" class="list-group-item list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/music-note-beamed.svg">Mathematik</a>
+        <a href="<?= page('Faecher/Mathematik')->url() ?>" class="list-group-item list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/table.svg">Mathematik</a>
       </div>
     </div>
   </div>
