@@ -7,18 +7,25 @@
 <link href='<?= $kirby->url('assets') ?>/js/packages/daygrid/main.css' rel='stylesheet' />
 <link href='<?= $kirby->url('assets') ?>/js/packages/timegrid/main.css' rel='stylesheet' />
 <link href='<?= $kirby->url('assets') ?>/js/packages/list/main.css' rel='stylesheet' />
+<link href='<?= $kirby->url('assets') ?>/js/packages/bootstrap/main.css' rel='stylesheet' />
+
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
+
+
 <script src='<?= $kirby->url('assets') ?>/js/packages/core/main.js'></script>
 <script src='<?= $kirby->url('assets') ?>/js/packages/interaction/main.js'></script>
 <script src='<?= $kirby->url('assets') ?>/js/packages/daygrid/main.js'></script>
 <script src='<?= $kirby->url('assets') ?>/js/packages/timegrid/main.js'></script>
 <script src='<?= $kirby->url('assets') ?>/js/packages/list/main.js'></script>
+<script src='<?= $kirby->url('assets') ?>/js/packages/bootstrap/main.js'></script>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
       locale: 'de', //Darstellung auf Deutsch
-      plugins: ['list', 'dayGrid'],
+      plugins: ['list', 'dayGrid', 'bootstrap'],
+      themeSystem: 'bootstrap',
       header: {
         left: 'prev,next today',
         center: 'title',
