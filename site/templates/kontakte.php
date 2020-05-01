@@ -21,9 +21,7 @@
                 <div class="col-md-3">
                     <div class="card card-profile card-plain">
                         <div class="card-header card-avatar">
-                            <a href="#pablo">
-                                <img class="img" src="<?= $kontakt->images()->first()->url() ?>" />
-                            </a>
+                            <img class="img" src="<?= $kontakt->images()->first()->url() ?>" />                        
                         </div>
                         <div class="card-body ">
                             <h4 class="card-title"><?= $kontakt->title() ?></h4>
