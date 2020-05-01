@@ -33,20 +33,32 @@
                         <?php if ($kontakt->phone() != '') : ?>
                             <div class="card-footer justify-content-center">
                                 <button class="btn btn-success btn-round">
-                                <img src="<?= $kirby->url('assets') ?>/icons/phone.svg"><?= $kontakt->phone() ?>
+                                    <img src="<?= $kirby->url('assets') ?>/icons/phone.svg"><?= $kontakt->phone() ?>
                                 </button>
                             </div>
-                        <?php endif ?> 
+                        <?php endif ?>
 
                         <?php if ($kontakt->email() != '') : ?>
                             <div class="card-footer justify-content-center">
-                                <a href="mailto:<?= $kontakt->email() ?>">
                                     <button class="btn btn-success btn-round">
-                                    <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg"><?= $kontakt->email() ?>
+                                        <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg">
+
+                                        <script type="text/javascript">
+                                            var mail = "<?= $kontakt->email() ?>";
+                                            var en = "de";
+                                            var dom = "kgs-rastede";
+                                            var at = "@";
+                                            document.open();
+                                            document.write(unescape("%3Ca class='GrosserLink' href='mailto:" + mail + at + dom + "." + en + "'%3E" + mail + at + dom + "." + en + "%3C/a%3E"));
+                                            document.close();
+                                        </script>
                                     </button>
                                 </a>
                             </div>
-                        <?php endif ?> 
+
+
+
+                        <?php endif ?>
 
                     </div>
                 </div>
