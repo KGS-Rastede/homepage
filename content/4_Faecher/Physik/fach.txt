@@ -24,12 +24,6 @@ Text:
     {
         "attrs": [],
         "content": "",
-        "id": "_qnhsvx4tg",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
         "id": "_xuajcif6c",
         "type": "paragraph"
     },
@@ -47,32 +41,31 @@ Text:
     },
     {
         "attrs": [],
-        "content": "\u201e<strong>Schau tief in die Natur, und dann wirst du alles besser verstehen.\" <br></strong>Albert Einstein",
-        "id": "_5p4v607e3",
-        "type": "blockquote"
-    },
-    {
-        "attrs": [],
         "content": "",
         "id": "_dmfzm5obb",
         "type": "paragraph"
     },
     {
-        "attrs": [],
-        "content": "<strong>\u201eEin Gelehrter in seinem Laboratorium ist nicht nur ein Techniker; <br>er steht auch vor den Naturgesetzen wie ein Kind vor der M\u00e4rchenwelt.\u201c</strong><br>Marie Curie<br><br><br>",
-        "id": "_ce0z35fvj",
-        "type": "blockquote"
+        "attrs": {
+            "guid": "/pages/Faecher+Physik/files/curie-und-einstein-3-1.jpg",
+            "id": "Faecher/Physik/curie-und-einstein-3-1.jpg",
+            "ratio": 1.4141475211608223,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_v9of44aci",
+        "type": "image"
     },
     {
         "attrs": [],
-        "content": "Im Physikunterricht wollen wir auch staunen und verstehen. <br>Daf\u00fcr schauen wir uns die Ph\u00e4nomene genau an und entwickeln Experimente.<br>H\u00e4ufig messen wir etwas, veranschaulichen die Messungen in Diagrammen und interpretieren sie.<br>Zu unserer Arbeitsweise geh\u00f6rt ebenso, dass wir unsere Ergebnisse mit den Theorien von anderen Physikern vergleichen.<br><br>Im Wahlpflichtbereich (WPK) k\u00f6nnen wir physikalische und technische Fragestellungen miteinander zu verkn\u00fcpfen. Beispielsweise bauen wir hier solarbetriebene Fahrzeuge und nehmen damit an Wettbewerben teil.<br><br>",
-        "id": "_FL9aukX50",
+        "content": "Im Physikunterricht wollen wir auch staunen und verstehen. <br>Daf\u00fcr schauen wir uns die Ph\u00e4nomene genau an und entwickeln Experimente.<br>H\u00e4ufig messen wir etwas, veranschaulichen die Messungen in Diagrammen und interpretieren sie.<br>Zu unserer Arbeitsweise geh\u00f6rt ebenso, dass wir unsere Ergebnisse mit den Theorien von anderen Physikern vergleichen.<br><br><br><br>Im <strong>Wahlpflichtbereich (WPK)</strong> k\u00f6nnen wir physikalische und technische Fragestellungen miteinander zu verkn\u00fcpfen. Beispielsweise bauen wir hier solarbetriebene Fahrzeuge und nehmen damit an Wettbewerben teil.<br><br>",
+        "id": "_68e4boa4h",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "",
-        "id": "_uF27tjAh7",
+        "content": "Physikalische Themen findest du auch in folgenden <strong>Arbeitsgemeinschaften</strong>:<br>Naturwissenschaftliche Experimente<br>Robo-AG<br>Nachhaltigkeits-AG<br><br>",
+        "id": "_zf7ji8vmn",
         "type": "paragraph"
     },
     {
