@@ -1,0 +1,68 @@
+Title: Im Garten gibt es keinen Stillstand!
+
+----
+
+Heading: Veränderungen im Schulgarten der Feldbreite
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Statt Sch\u00fclerinnen und Sch\u00fcler konnte man in den Osterferien eine Gartenbaufirma in Aktion sehen, die im Auftrag der Gemeinde Rastede den Zaun des Gem\u00fcsegartens versetzte und das Trockenhochbeet mit vielen speziellen Pflanzen an anderer Stelle wieder aufbaute. Der Grund : die Container werden abgebaut und im Laufe des n\u00e4chsten Schuljahres wird ein neues Geb\u00e4ude mit Klassenr\u00e4umen f\u00fcr die Jahrg\u00e4nge 5 und 6 entstehen.",
+        "id": "_zaczocot4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das hat Auswirkungen auf den Schulgarten. F\u00fcr uns, die Lehrkr\u00e4fte der Garten AG, hie\u00df dies den neugewonnen Teil des Gem\u00fcsegartens bearbeiten, damit noch in diesem Jahr geerntet werden kann. Erbsen, Kartoffeln und jede Menge K\u00fcrbisse sind gepflanzt.",
+        "id": "_ZXi6CCKgG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir wissen den Schulgarten jetzt noch mehr zu sch\u00e4tzen. Man kann auch in schwierigen Zeiten etwas Sinnvolles tun. Abstandhalten ist kein Problem und Gartenarbeit macht gl\u00fccklich!",
+        "id": "_acjmz7C5Y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Deshalb tr\u00e4gt der Schulgarten zur Zeit auch zur Unterst\u00fctzung von Sch\u00fclerinnen und Sch\u00fclern in schwierigen Lebenssituationen bei. In Absprache mit Herrn Pernt, dem Sozialp\u00e4dagogen der Feldbreite oder Frau Eitel- Harms kann man einen Termin vereinbaren um zu reden, sich von Sorgen zu entlasten und dabei g\u00e4rtnern.",
+        "id": "_YPYwrgk6N",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-05-20 06:45
+
+----
+
+Author: EH
+
+----
+
+Tags: Biologie, AGs
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
