@@ -37,7 +37,13 @@ Text:
 
 ----
 
-Gallery: 
+Gallery:
+
+- anhang5.jpg
+- img_0309.jpg
+- anhang3.jpg
+- anhang2.jpg
+- anhang4.jpg
 
 ----
 
@@ -65,4 +71,4 @@ Downloads:
 
 ----
 
-Fotoansicht: gallery
+Fotoansicht: carousel
