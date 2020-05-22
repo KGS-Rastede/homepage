@@ -4,9 +4,6 @@
   </div>
 </div>
 
-<?php snippet('skripte-im-footer') ?>
-
-
 <footer class="footer footer-white footer-big">
 
 
@@ -137,6 +134,10 @@
     </div>
   </div>
 </footer>
+
+<?php snippet('skripte-im-footer') ?>
+
+
 
 </body>
 

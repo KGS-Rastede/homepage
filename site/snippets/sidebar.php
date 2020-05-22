@@ -1,8 +1,4 @@
-<div class="container">
-    <div class="content">
-
-
-
+<div class="container-fluid">
         <?php if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty() ) : ?>
             <div class="row">
                 <div class="col-md-9">
@@ -12,7 +8,7 @@
                 <?php if ($page->sidebar()->isNotEmpty()) : ?>
 
                 <div class="col-md-3">
-                    <div class="card card-pricing">
+                    <div class="card">
                         <div class="card-category text-primary">
                             <h5 class="card-title">
                                 <?php if ($page->sidetitel()->isNotEmpty()) : ?>
@@ -39,7 +35,7 @@
                     <?php if ($page->related()->isNotEmpty() ) : ?>
 
 
-                    <div class="card card-pricing">
+                    <div class="card">
                         <div class="card-category text-primary">
                             <h5 class="card-title">
                                 Weitere Informationen
@@ -68,5 +64,4 @@
         <?php else : ?>
             <div class="container"><?= $page->text()->blocks() ?></div>
         <?php endif ?>
-    </div>
 </div>
