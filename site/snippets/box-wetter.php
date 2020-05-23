@@ -1,6 +1,6 @@
-<div class="card card-pricing">
+<div class="card mb-1">
     <div class="card-body ">
-        <h4 class="card-category text-primary" style="line-height:0.1em">Wetterstation der Schule</h4>
+        <h4 class="card-category">Wetterstation</h4>
         <h7>... unterstützt vom Förderverein</h7>
         <div class="text-left">
             <?php

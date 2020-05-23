@@ -1,4 +1,4 @@
-<div class="card card-pricing">
+<div class="card mb-1">
     <div class="card-body ">
         <h4 class="card-category text-primary">Aus der Presse</h4>
         <ul>
@@ -7,7 +7,7 @@
 
             foreach ($items as $item) : ?>
                 <li>
-                    <a class="alert-link" href="<?= $item->link() ?>" class="list-group-item list-group-item-action"><?= $item->name() ?></a>
+                    <a class="card-link" href="<?= $item->link() ?>"><?= $item->name() ?></a>
                     (<?= $item->datum()->toDate('d.m.y') ?>)
                 </li>
 

@@ -1,4 +1,4 @@
-<div class="card card-pricing">
+<div class="card mb-1">
     <div class="card-body ">
         <ul>
             <a href="https://nextcloud.kgs-rastede.de">
