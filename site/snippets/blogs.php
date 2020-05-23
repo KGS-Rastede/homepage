@@ -1,4 +1,4 @@
-<div class="card card-plain card-blog">
+<div class="card">
 
   <?php foreach ($blogs as $blog) : ?>
 
