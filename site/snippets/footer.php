@@ -1,19 +1,15 @@
-
-      <!-- es müssen noch 3 divs aus dem Template geschlossen werden -->
-      </div>
-  </div>
+<!-- es müssen noch 3 divs aus dem Template geschlossen werden -->
+</div>
+</div>
 </div>
 
-<footer class="footer footer-white footer-big">
-
-
-
-
-  <div class="container">
-    <div class="content">
-      <div class="row">
-
-        <div class="col-md-2">
+<hr>
+      
+<footer class="container">
+  <div class="content">
+    <div class="row">
+    
+      <div class="col-md-2">
         <a href="<?= $site->url() ?>">
           <svg xml:space="preserve" width="1in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality" viewBox="-1291 0 2070 3369">
             <defs>
@@ -96,42 +92,41 @@
               </g>
             </g>
           </svg>
-          </a>
-        </div>
+        </a>
+      </div>
 
-        <div class="col-md-4">
-          <h5>Kontakt</h5>
-          <ul class="links-vertical">
-            <li><a class="text-muted" href="<?= page('kontakte/schulleitung')->url() ?>">Schulleitung</a></li>
-            <li><a class="text-muted" href="<?= page('kontakte/fbl')->url() ?>">Fachbereichsleiter</a></li>
-            <li><a class="text-muted" href="<?= page('kontakte/sekretariate')->url() ?>">Sekretariate</a></li>
-            <li><a class="text-muted" href="<?= page('allgemeines/krankmeldung')->url() ?>">Krankmeldung</a></li>
-          </ul>
-        </div>
-        <div class="col-md-3">
-          <h5>Wichtige Downloads</h5>
-          <ul class="links-vertical">
-            <li><a class="text-muted" href="<?= page('allgemeines/downloads')->url() ?>#schulbuchlisten-1">Schulbuchlisten</a></li>
-            <li><a class="text-muted" href="#">Schulordnung</a></li>
-          </ul>
-        </div>
-        <div class="col-md-3">
-          <h5>Über die KGS</h5>
-          <ul class="links-vertical">
-            <li><a class="text-muted" href="#">Unsere Geschichte</a></li>
-            <li><a class="text-muted" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
-            <li><a class="text-muted" href="<?= page('allgemeines/impressum')->url() ?>">Impressum</a></li>
-            <li><a class="text-muted" href="<?= page('allgemeines/mensa')->url() ?>">Mensa</a></li>
-          </ul>
-        </div>
+      <div class="col-md-4">
+        <h5>Kontakt</h5>
+        <ul>
+          <li><a class="text-muted" href="<?= page('kontakte/schulleitung')->url() ?>">Schulleitung</a></li>
+          <li><a class="text-muted" href="<?= page('kontakte/fbl')->url() ?>">Fachbereichsleiter</a></li>
+          <li><a class="text-muted" href="<?= page('kontakte/sekretariate')->url() ?>">Sekretariate</a></li>
+          <li><a class="text-muted" href="<?= page('allgemeines/krankmeldung')->url() ?>">Krankmeldung</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <h5>Wichtige Downloads</h5>
+        <ul>
+          <li><a class="text-muted" href="<?= page('allgemeines/downloads')->url() ?>#schulbuchlisten-1">Schulbuchlisten</a></li>
+          <li><a class="text-muted" href="#">Schulordnung</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <h5>Über die KGS</h5>
+        <ul>
+          <li><a class="text-muted" href="#">Unsere Geschichte</a></li>
+          <li><a class="text-muted" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
+          <li><a class="text-muted" href="<?= page('allgemeines/impressum')->url() ?>">Impressum</a></li>
+          <li><a class="text-muted" href="<?= page('allgemeines/mensa')->url() ?>">Mensa</a></li>
+        </ul>
       </div>
     </div>
-    <hr>
-    <div class="copyright pull-center">
-      Copyright &#xA9; <script>
-        document.write(new Date().getFullYear())
-      </script> KGS Rastede ; All Rights Reserved.
-    </div>
+  </div>
+  <hr>
+  <div class="copyright pull-center">
+    Copyright &#xA9; <script>
+      document.write(new Date().getFullYear())
+    </script> KGS Rastede ; All Rights Reserved.
   </div>
 </footer>
 
