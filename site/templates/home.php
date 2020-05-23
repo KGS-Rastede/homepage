@@ -73,8 +73,8 @@
                       Ich möchte effektiv bei jedem zweiten Artikel das Bild links und 
                       den Text rechts haben, um das Design etwas aufzulockern
                     -->
-                    <div class="card">
-                  <div class="row">
+                    <div class="card my-3">
+                  <div class="row my-3">
 
                     <!-- der ersten beiden Zeilen sind immer gleich -->
 
