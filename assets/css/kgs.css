@@ -4,56 +4,45 @@
 	overflow: hidden;
 }
 
+
 @font-face {
 	font-family: 'Roboto';
 	src: url('../fonts/Roboto.eot');
 	src: local('☺'), url('/fonts/Roboto.woff') format('woff'), url('/fonts/Roboto.ttf') format('truetype'), url('/fonts/Roboto.svg') format('svg');
-	font-weight: 400;
+    font-weight: 400;
+    font-display:swap;
 	font-style: normal;
 }
 
-.nav {
-    font-family: 'Roboto', sans-serif;
+body {
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
-.navbar-brand {
-    font-size: 36px;
-    color: #fff !important;
+
+.dropdown-item {
+    font-size: x-large;
 }
-.navbar-brand img {
-    margin-right: 0.5em;
-    max-height: 50px;
-    display: inline;
-}
-.navbar-brand {
-    padding: 10px;
-}
-/* Hintergrundfarbe Menu */
-.dropdown-menu {
-    background-color: #eee;
-}
+
 footer ul {
     margin-top: 8px;
     padding-left: 0;
 }
+
 footer li {
     list-style-type: none;
 }
+
 textarea {
-    background: #eee;
+    background: #111;
     color: #111;
 }
 html {
     position: relative;
     min-height: 100%;
 }
+
 html.home {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
-body {
-    font-family: 'Roboto', sans-serif;
-    margin-bottom: 140px;
-    background: transparent;
 }
