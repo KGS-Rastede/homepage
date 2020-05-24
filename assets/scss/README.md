@@ -21,6 +21,9 @@ sass .\kgs.scss ..\css\kgs.css
 
 Dieser Befehl erzeugt die .css-Datei. Man öffnet diese Datei und startet mit `F1` dann den Minifier. 
 
+# Alternative zum Kompilieren
+Man kann auch mit Prepos (https://prepros.io/) oder Koala arbeiten. 
+
 
 # Update von Bootstrap
 Sollte mal Bootstrap 4.5.1 rauskommen, so muss man nur den Bootstrap-Ordner 1:1 austauschen und dann `sass` nau laufen lassen.
