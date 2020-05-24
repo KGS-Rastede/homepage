@@ -3,22 +3,23 @@
 
 <?= $page->text()->blocks() ?>
 
-<div class="row">
-  <?php foreach ($page->children() as $zweig) : ?>
-    <div class="col-lg-3 col-md-6">
-      <div class="card card-pricing card-background">
-        <div class="card-body">
-          <h3 class="card-category text-info"><?= $zweig->title() ?></h3>
-          <h4 class="card-title">Leitung: <?= $zweig->leitung() ?></h4>
-
+<div class="section-a">
+  <div class="container">
+    <div class="row">
+      <?php foreach ($page->children() as $zweig) : ?>
+        <div class="col-md-4">
+          <h3><?= $zweig->title() ?></h3>
+          <p>Leitung: <?= $zweig->leitung() ?></p>
           <a href="<?= $zweig->url() ?>" class="btn btn-danger">
             Weitere Informationen
           </a>
         </div>
-      </div>
+      <?php endforeach ?>
+
     </div>
-  <?php endforeach ?>
+  </div>
 </div>
 
 
-<?php snippet('footer') ?>
+
+  <?php snippet('footer') ?>
