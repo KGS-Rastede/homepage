@@ -32,5 +32,9 @@ $enable-grid-classes: true !default;
 $enable-print-styles: true !default;
 $enable-validation-icons: true !default;
 
-/* -------end customization-------- *//* finally, import Bootstrap to set the changes! */
+/* -------end customization-------- */
+
+
+
+/* finally, import Bootstrap to set the changes! */
 @import "../bootstrap/scss/bootstrap";
