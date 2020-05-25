@@ -1,7 +1,6 @@
 /* import only the necessary Bootstrap files */
-@import "../bootstrap/scss/functions"; 
+@import "../bootstrap/scss/functions";
 @import "../bootstrap/scss/variables";
-
 
 @import "./functions";
 
@@ -11,146 +10,110 @@
 // $theme-colors: (
 // );
 
-
-
-
+/* simply assign the value */
+$body-bg: #FAFDF6;
 
 // Custom
-$main-color: #1a8c97;
-$icon-size: 60px;
-$navbar-light-active-color: #1a8c97;
-
 
 $theme-colors: (
-  primary: rgba(158, 219, 44, 0.616),
-  danger: rgb(238, 255, 0),
-  secondary: rgb(32, 64, 153),
+  primary: #F9F8F8,
+  secondary: #586994,
+  success: #BDC8D4,
+  info: #0099cc,
+  warning: #A34C40,
+  danger: #8C271E,
+  light: #b0b5b3,
+  dark: rgb(182, 196, 187)
 );
 
-.showcase{
-  background: url(../img/stifte.jpg) no-repeat 0 -100px;
-  height:600px;
-  padding:30px 0;
+p {
+  font-size: 1.2rem;
+}
 
-  h1{
-    font-size:60px;
+.infokasten {
+  padding: 50px 0px;
+}
+
+.showcase {
+  background: url(../img/stifte.jpg) no-repeat 0 -100px;
+  height: 600px;
+  padding: 30px 0;
+
+  h1 {
+    font-size: 60px;
   }
 
-  .container{
+  .container {
     background: #fff;
-    opacity: 0.8;
+    opacity: 0.95;
     padding: 20px 30px 30px 30px;
   }
 }
 
 // Diese Klasse wird benutzt als Überschrift einer jeden Seite
-.titelfeld{
-  
-  h1{
+.titelfeld {
+  h1 {
     font-size: 60px;
+    text-align: center;
   }
 
-  .container{
-    background: #fff;
-    opacity: 0.8;
+  .container {
+    background: #aaa;
+    border-radius: 20px;
+    opacity: 0.95;
     padding: 20px 30px 30px 30px;
+    margin-top: 40px;
   }
 }
 
-.section-a{
+.section-a {
   padding: 30px 0;
   text-align: center;
-  background: $main-color;
-  color: set-text-color($main-color);
+  background: $primary;
+  color: set-text-color($primary);
 }
 
-.section-b{
-  background:#e6ebf1;
+.section-b {
+  background: #e6ebf1;
   padding: 30px 0;
 
-  img{
-    width:100%;
+  img {
+    width: 100%;
   }
 }
 
-.panel-heading h4{
-  color: set-text-color($main-color);
+.panel-heading h4 {
+  color: set-text-color($primary);
 }
 
-.section-c{
+.section-c {
   padding: 60px 0;
   text-align: center;
-  background: $main-color;
-  color: set-text-color($main-color);
+  background: $primary;
+  color: set-text-color($primary);
 
-  .btn-primary{
-    background: darken($main-color, 10%);
+  .btn-primary {
+    background: darken($primary, 10%);
   }
 }
 
-.title-bar{
+.title-bar {
   background: url(../img/showcase.jpg) no-repeat 0 -300px;
   padding-bottom: 10px;
-  border-bottom: 4px solid $main-color;
+  border-bottom: 4px solid $primary;
 }
 
-.main{
-  margin-top:30px;
+.main {
+  margin-top: 30px;
 }
-
 
 // footer{
 //   padding:30px 0;
-//   background: darken($main-color, 10%);
-//   color: set-text-color($main-color);
+//   background: darken($primary, 10%);
+//   color: set-text-color($primary);
 // }
 
-
-
-
-
-
-// == Typography
-
-// ## Font, line-height, and color for body text, headings, and more.
-
-// $font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-// $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
-// //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
-// $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
-// $font-family-base:        $font-family-sans-serif !default;
-
-$font-size-base:          14px !default;
-$font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
-$font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
-
-$font-size-h1:            floor(($font-size-base * 2.6)) !default; // ~36px
-$font-size-h2:            floor(($font-size-base * 2.15)) !default; // ~30px
-$font-size-h3:            ceil(($font-size-base * 1.7)) !default; // ~24px
-$font-size-h4:            ceil(($font-size-base * 1.25)) !default; // ~18px
-$font-size-h5:            $font-size-base !default;
-$font-size-h6:            ceil(($font-size-base * 0.85)) !default; // ~12px
-
-//** Unit-less `line-height` for use in components like buttons.
-$line-height-base:        1.428571429 !default; // 20/14
-//** Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
-$line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
-
-//** By default, this inherits from the `<body>`.
-$headings-font-family:    inherit !default;
-$headings-font-weight:    500 !default;
-$headings-line-height:    1.1 !default;
-$headings-color:          inherit !default;
-
-
-
-
-
-
-
 /* -------end customization-------- */
-
-
 
 /* finally, import Bootstrap to set the changes! */
 @import "../bootstrap/scss/bootstrap";
