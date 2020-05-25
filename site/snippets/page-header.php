@@ -24,5 +24,5 @@
 
 
 <!-- Ab hier der richtige Inhalt, der auf jeder Seite individuell sein kann -->
-
-<div class="container-fluid">
+<div class="container">
+  <div class="section">
