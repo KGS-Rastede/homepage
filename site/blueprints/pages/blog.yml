@@ -82,6 +82,7 @@ columns:
               - Schülerfirmen
               - AGs
               - SSD
+              - Austausch
 
           line1:
             type: line

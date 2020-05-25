@@ -37,11 +37,15 @@ Author: Almut Eisenmann
 
 ----
 
-Tags: Spanisch
+Tags: Spanisch, Austausch
 
 ----
 
 Featured: false
+
+----
+
+Immer-sichtbar: false
 
 ----
 
