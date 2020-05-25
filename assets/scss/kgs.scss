@@ -23,7 +23,7 @@ $theme-colors: (
   warning: #A34C40,
   danger: #8C271E,
   light: #dadada,
-  dark: #c0c0c0)
+  dark: #c0c0c0
 );
 
 p {
@@ -58,7 +58,7 @@ p {
   }
 
   .container {
-    background: #aaa;
+    background: $light;
     border-radius: 20px;
     opacity: 0.95;
     padding: 20px 30px 30px 30px;
@@ -107,11 +107,12 @@ p {
   margin-top: 30px;
 }
 
-// footer{
-//   padding:30px 0;
-//   background: darken($primary, 10%);
-//   color: set-text-color($primary);
-// }
+footer{
+  width: 100%;
+  padding:30px 0;
+  background: darken(#F9F8F8, 10%);
+  color: set-text-color(#F9F8F8);
+}
 
 /* -------end customization-------- */
 
