@@ -1,0 +1,113 @@
+Title: Hollandaustausch 2020 - Entfällt
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Das erst Mal:</strong>",
+        "id": "_LDq7Q78of",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>KEIN</strong>",
+        "id": "_ytwcHObBa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Niederlande Austausch KGS Rastede/Vechtdal-College Hardenberg!",
+        "id": "_g4OavCJoT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Leider funkt uns das Virus dazwischen und uns ist das erst Mal nach 43 Jahren kein Austausch mit dem Vechtdal College aus Hardenberg m\u00f6glich! Wir hatten noch den September im Blick gehabt, aber auch das klappt leider nicht, so schade!!!!!",
+        "id": "_D70K43vDV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Seit 43 Jahren findet der Austausch statt, und nun dies \u2639",
+        "id": "_SV0seCiws",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "F\u00fcr unsere Teilnehmenden tut es uns von Herzen leid, dass nun kein gemeinsames Treffen in Hardenberg mehr m\u00f6glich ist und trotzdem hoffen wir darauf, dass viele sch\u00f6ne Erinnerungen aus der Zeit vor Weihnachten im November 2019 bleiben und Kontakte aufrechterhalten werden.",
+        "id": "_74UeUq7KS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_0COLYxzO7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir w\u00fcnschen Euch gute Gedanken und sch\u00f6ne Erinnerungen, ihr wart eine tolle Gruppe, es hat uns viel Spa\u00df mit euch bereitet,",
+        "id": "_Fh5mDhwmu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "het beste voor jullie allemal, doui, tot ziens, und Tsch\u00fcss von",
+        "id": "_1wnGxDTem",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_K29XqT8zg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Herrn Teske und Frau M\u00fcller-Pulsfort, Frau Kosmalla und Herrn de Weert",
+        "id": "_s8U5zIqVt",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- nl2020-2.jpg
+- nl2020-1.jpg
+
+----
+
+Date: 2020-05-25 06:55
+
+----
+
+Author: MP
+
+----
+
+Tags: Austausch
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
