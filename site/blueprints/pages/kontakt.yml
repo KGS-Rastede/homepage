@@ -17,10 +17,6 @@ columns:
             type: text
             label: Kürzel
             width: 1/2
-          email:
-            label: Email
-            type: email
-            width: 1/2
           position:
             label: Position
             type: text
