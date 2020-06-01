@@ -1,6 +1,6 @@
 <div class="card mb-1">
     <div class="card-body ">
-        <h4 class="card-category text-primary">Aus der Presse</h4>
+        <h4 class="card-category">Aus der Presse</h4>
         <?php
         $items = page('allgemeines/schulstruktur/presse')->pressenachrichten()->toStructure()->sortBy("datum")->flip()->limit(6);
 
