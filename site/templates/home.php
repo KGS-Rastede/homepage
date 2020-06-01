@@ -4,42 +4,46 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-md-9">
-      <!-- 
+    <div class="col-md-8">
+
+
+      <div class="card bg-primary my-4">
+        <!-- 
         An besonderen Tagen (Schneefrei, Heizungsburch, ...) soll ganz schnell
         ein Banner angezeigt werden, damit die Eltern schnell informiert werden können
         -->
 
-      <?php if (page('wichtige_informationen/notfall')->category() == "sturm") :
-        $titel = "Schulausfall wegen Sturm";
-      endif ?>
-      <?php if (page('wichtige_informationen/notfall')->category() == "eis") :
-        $titel = "Schulausfall wegen Glatteis";
-      endif ?>
-      <?php if (page('wichtige_informationen/notfall')->category() == "regen") :
-        $titel = "Schulausfall wegen Starkregen";
-      endif ?>
-      <?php if (page('wichtige_informationen/notfall')->category() == "heizung") :
-        $titel = "Schulausfall wegen Heizungsausfall";
-      endif ?>
-      <?php if (page('wichtige_informationen/notfall')->category() == "eigenerTitel") :
-        $titel = page('wichtige_informationen/notfall')->textTitel();
-      endif ?>
+        <?php if (page('wichtige_informationen/notfall')->category() == "sturm") :
+          $titel = "Schulausfall wegen Sturm";
+        endif ?>
+        <?php if (page('wichtige_informationen/notfall')->category() == "eis") :
+          $titel = "Schulausfall wegen Glatteis";
+        endif ?>
+        <?php if (page('wichtige_informationen/notfall')->category() == "regen") :
+          $titel = "Schulausfall wegen Starkregen";
+        endif ?>
+        <?php if (page('wichtige_informationen/notfall')->category() == "heizung") :
+          $titel = "Schulausfall wegen Heizungsausfall";
+        endif ?>
+        <?php if (page('wichtige_informationen/notfall')->category() == "eigenerTitel") :
+          $titel = page('wichtige_informationen/notfall')->textTitel();
+        endif ?>
 
-      <?php if (page('wichtige_informationen/notfall')->toggle()->bool() === true) : ?>
-        <div class="card bg-primary my-4">
-              <h1><?php echo $titel ?></h1>
-              <p class="lead"><?= page('wichtige_informationen/notfall')->text() ?></p>
-        </div>
-      <?php endif ?>
+        <?php if (page('wichtige_informationen/notfall')->toggle()->bool() === true) : ?>
+          <div class="card bg-primary my-4">
+            <h1><?php echo $titel ?></h1>
+            <p class="lead"><?= page('wichtige_informationen/notfall')->text() ?></p>
+          </div>
+        <?php endif ?>
+
+      </div>
+      <div class="card bg-primary my-4">
 
 
-
-
-      <!-- Rotierknopf bspw für Elternsprechtag -->
+        <!-- Rotierknopf bspw für Elternsprechtag -->
 
         <?php foreach (page('wichtige_informationen/aktuelles')->banner()->toStructure() as $subpage) :  ?>
-          
+
           Date:
           <?= date('Y-m-d') ?>
 
@@ -50,12 +54,17 @@
           Date bis:
           <?= $subpage->dateBis()->toDate('Y-m-d') ?>
 
-          <?php 
-            if ($subpage->dateBis()->toDate('Y-m-d') >= date('Y-m-d') and ($subpage->dateVon()->toDate('Y-m-d') < date('Y-m-d') ) ):
+          <?php
+          if ($subpage->dateBis()->toDate('Y-m-d') >= date('Y-m-d') and ($subpage->dateVon()->toDate('Y-m-d') < date('Y-m-d'))) :
             snippet('rotier-knopf', ['subpage' => $subpage]);
           endif ?>
         <?php endforeach ?>
-      
+
+
+      </div>
+
+
+
 
       <div class="card py-4">
 
@@ -84,7 +93,6 @@
         <h1>dark</h1>
         <button class="btn btn-dark">Weitere Nachrichten aus der Schule</button>
       </div>
-
 
 
 
@@ -147,11 +155,8 @@
         <button class="btn btn-primary">Weitere Nachrichten aus der Schule</button>
       </a>
 
-
-
-
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
       <?php snippet('box-presse') ?>
       <?php snippet('box-foerderverein') ?>
       <?php snippet('box-links') ?>
