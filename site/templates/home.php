@@ -7,7 +7,7 @@
     <div class="col-md-8">
 
 
-      <div class="card bg-primary my-4">
+      <div class="card bg-primary">
         <!-- 
         An besonderen Tagen (Schneefrei, Heizungsburch, ...) soll ganz schnell
         ein Banner angezeigt werden, damit die Eltern schnell informiert werden können
@@ -30,7 +30,7 @@
         endif ?>
 
         <?php if (page('wichtige_informationen/notfall')->toggle()->bool() === true) : ?>
-          <div class="card bg-primary my-4">
+          <div class="card bg-info">
             <h1><?php echo $titel ?></h1>
             <p class="lead"><?= page('wichtige_informationen/notfall')->text() ?></p>
           </div>
