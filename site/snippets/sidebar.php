@@ -9,7 +9,7 @@
                 <?php if ($page->sidebar()->isNotEmpty()) : ?>
 
                     <div class="card mb-3">
-                        <h5 class="card-title">
+                        <h5 class="card-title text-center">
                             <?php if ($page->sidetitel()->isNotEmpty()) : ?>
                                 <?= $page->sidetitel()->kirbytext() ?>
                             <?php else : ?>
@@ -34,7 +34,7 @@
 
 
                     <div class="card mb-3">
-                        <h5 class="card-title">
+                        <h5 class="card-title text-center">
                             Weitere Informationen
                         </h5>
                         <div class="card-body">

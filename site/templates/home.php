@@ -117,7 +117,7 @@
                       den Text rechts haben, um das Design etwas aufzulockern
                     -->
           <div class="card my-3">
-            <div class="row my-3">
+            <div class="row my-4">
 
               <!-- der ersten beiden Zeilen sind immer gleich -->
 
