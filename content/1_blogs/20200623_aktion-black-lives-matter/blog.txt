@@ -1,0 +1,53 @@
+Title: Aktion: Black Lives Matter
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Viele Sch\u00fclerinnen und Sch\u00fcler, Lehrerinnen und Lehrer kamen am Freitag, den 12.06.2020, in schwarzer Kleidung zur Schule. Nach der 4. Std. legten viele, dort wo sie waren, ein 8min\u00fctiges Schweigen zum Gedenken der Opfer von Rassismus ein.",
+        "id": "_7cgk5qa37",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- img_2499_a.jpg
+- img_2498_2_a.jpg
+
+----
+
+Date: 2020-06-23 07:35
+
+----
+
+Author: AG für den Frieden
+
+----
+
+Tags: AGs
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
