@@ -21,6 +21,7 @@ Text:
 
 Gallery:
 
+- KGS Rastede Gruppenbild1.png
 - >
   econo_me_sek_i_2020_2platz_kgs_rastede.jpg
 
