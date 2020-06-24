@@ -1,3 +1,5 @@
+<?php
+
 return function($page) {
 
   // fetch the basic set of pages
