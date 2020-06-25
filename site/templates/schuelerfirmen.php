@@ -11,7 +11,7 @@
 <div class="row row-cols-1 row-cols-md-2">
   <?php foreach ($page->children() as $sf) : ?>
     <div class="col mb-4">
-      <div class="card">">
+      <div class="card">
         <?php if ($image = $sf->bild()->toFile()) : ?>
             <img src="<?= $image->url() ?>" class="card-img-top" alt="...">
         <?php endif ?>
