@@ -1,0 +1,33 @@
+title: Informationen
+
+options:
+  update:
+    *: false
+    admin: true
+  pages:
+    *: false
+    admin: true
+  files:
+    *: false
+    admin: true
+
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: pages
+        layout: cards
+        image:
+          cover: true
+          ratio: 1/1
+  sidebar:
+    width: 1/3
+    sticky: true
+    sections:
+      meta:
+        meta:
+        type: fields
+        fields:
+          sidebar: fields/seitenleiste

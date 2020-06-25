@@ -1,0 +1,9 @@
+Title: Die Schülervertretung
+
+----
+
+Sidebar:
+
+- 
+  link: http://sv.kgs-rastede.de/
+  name: ' Die Homepage der Schülervertretung'
