@@ -31,7 +31,7 @@ columns:
             type: editor
           gallery:
             type: files
-            template: images
+            uploads: images
             query: page.images
             label: Fotos für den Artikel
             help: Hier nur Fotos, KEINE PDF-Dateien
