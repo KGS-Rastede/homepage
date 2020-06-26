@@ -11,9 +11,9 @@ Text:
 [
     {
         "attrs": {
-            "guid": "/pages/Faecher+WuN/files/wn_homepage_wn_land_neu.jpg",
-            "id": "Faecher/WuN/wn_homepage_wn_land_neu.jpg",
-            "ratio": 1.611064543168483,
+            "guid": "/pages/Faecher+WuN/files/wn-homepage-wn-land-neu-800x.jpg",
+            "id": "Faecher/WuN/wn-homepage-wn-land-neu-800x.jpg",
+            "ratio": 1.6096579476861168,
             "caption": ""
         },
         "content": "",
@@ -160,9 +160,9 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/Faecher+WuN/files/img_0074-kopie.jpg",
-            "id": "Faecher/WuN/img_0074-kopie.jpg",
-            "ratio": 1.7414548641542507,
+            "guid": "/pages/Faecher+WuN/files/img-0074-kopie-800x.jpg",
+            "id": "Faecher/WuN/img-0074-kopie-800x.jpg",
+            "ratio": 1.7429193899782136,
             "caption": ""
         },
         "content": "",
@@ -279,10 +279,10 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/Faecher+WuN/files/artificial-intelligence-4469138_960_720.jpg",
-            "id": "Faecher/WuN/artificial-intelligence-4469138_960_720.jpg",
-            "ratio": 1.5,
-            "caption": "\"Data drives all we do!\" Werbeslogan von Cambridge Analytica"
+            "guid": "/pages/Faecher+WuN/files/artificial-intelligence-4469138-960-720-800x.jpg",
+            "id": "Faecher/WuN/artificial-intelligence-4469138-960-720-800x.jpg",
+            "ratio": 1.5009380863039399,
+            "caption": ""
         },
         "content": "",
         "id": "_ye8biuv0z",
