@@ -3054,3 +3054,36 @@ Pressenachrichten:
   anfang: 'Der Herbstmarkt soll aufgewertet werden, neue Formate wie das Rudelsingen kommen hinzu: Die Residenzort Rastede (RR) GmbH stellt ihr aktuelles Programm vor.'
   datum: 2020-03-12
   zeitung: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-gedenkaktion-in-rastede-zeichen-gegen-rassismus-setzen_a_50,8,2973839899.html
+  name: Zeichen gegen Rassismus setzen
+  anfang: >
+    Für acht Minuten und 46 Sekunden
+    knieten sich Lehrer und Schüler der KGS
+    Rastede am Freitag nieder, um an George
+    Floyd zu erinnern. Darüber hinaus gibt
+    es weitere Aktionen gegen Rassismus an
+    der Schule.
+  datum: 2020-06-20
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/ammerland-schulabschluss-im-ammerland-kleine-feiern-zum-abschluss-geplant_a_50,8,3416334447.html
+  name: Kleine Feiern zum Abschluss geplant
+  anfang: >
+    Niedersachsen erlaubt unter gewissen
+    Voraussetzungen Zeugnisübergaben. Diese
+    fallen jedoch anders aus, als in den
+    vergangenen Jahren.
+  datum: 2020-06-27
+  zeitung: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-alle-absolventen-auf-einen-blick-entlassfeier-in-rastede-auf-den-schulhof-verlegt_a_50,8,4028198441.html
+  name: >
+    Entlassfeier in Rastede auf den Schulhof
+    verlegt
+  anfang: 'Mehr als 160 Absolventen des Haupt- und Realschulzweigs der Kooperativen Gesamtschule Rastede wurden jetzt verabschiedet. Wegen der Corona-Pandemie war dieses Mal alles anders.'
+  datum: 2020-07-07
+  zeitung: nwz
