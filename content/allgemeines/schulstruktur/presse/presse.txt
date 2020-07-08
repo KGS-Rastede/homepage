@@ -3056,6 +3056,13 @@ Pressenachrichten:
   zeitung: rastederrundschau
 - 
   link: >
+    https://www.youtube.com/watch?v=TL2Xm5Tgd78
+  name: OLFKl Sicherheitsbelehrung KGS Rastede
+  anfang: OLFKl Sicherheitsbelehrung KGS Rastede
+  datum: 2020-04-12
+  zeitung: youtube
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-gedenkaktion-in-rastede-zeichen-gegen-rassismus-setzen_a_50,8,2973839899.html
   name: Zeichen gegen Rassismus setzen
   anfang: >
