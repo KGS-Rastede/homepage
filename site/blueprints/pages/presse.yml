@@ -13,10 +13,10 @@ fields:
     text: Für die NWZ muss jedes Mal Herr Thomas Haselier extra benachrichtigt werden... thomas _punkt_ haselier _at_ nwzmedien.de
   pressenachrichten:
     type: structure
-    sortBy: datum
+    sortBy: datum desc
     columns: 
       link: 
-        width: 2/10      
+        width: 1/10      
       name: 
         width: 3/10
       anfang: 
@@ -24,7 +24,7 @@ fields:
       datum: 
         width: 1/10
       zeitung: 
-        width: 1/10
+        width: 2/10
     fields:
       link:
         label: Link (URL)
@@ -36,7 +36,7 @@ fields:
         label: Anriss
         type: text
       datum:
-        label: Datum des Artikels
+        label: Datum
         type: date
       zeitung:
         label: Medium
