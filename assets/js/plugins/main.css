@@ -7,7 +7,10 @@
 }
 
 .fc-unselectable {
-  user-select: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
   -webkit-touch-callout: none;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -77,7 +80,10 @@
   width: 1em;
   height: 1em;
   text-align: center;
-  user-select: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'fcicons' !important;
@@ -164,7 +170,10 @@ When it's NOT activated, the fc-button classes won't even be in the DOM.
     font-weight: 400;
     text-align: center;
     vertical-align: middle;
-    user-select: none;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
     background-color: transparent;
     border: 1px solid transparent;
     padding: 0.4em 0.65em;
@@ -382,7 +391,9 @@ When it's NOT activated, the fc-button classes won't even be in the DOM.
 
 }
 .fc .fc-scrollgrid-section-sticky > * {
-    background: #fff; /* TODO: var */
+    background: #fff;
+    background: var(--fc-page-bg-color, #fff);
+    position: -webkit-sticky;
     position: sticky;
     z-index: 2; /* TODO: var */
     /* TODO: box-shadow when sticking */
@@ -399,6 +410,7 @@ When it's NOT activated, the fc-button classes won't even be in the DOM.
     margin-bottom: -1px;
   }
 .fc .fc-sticky {
+    position: -webkit-sticky;
     position: sticky;
   }
 .fc .fc-view-harness {
@@ -451,10 +463,6 @@ When it's NOT activated, the fc-button classes won't even be in the DOM.
     background: rgba(188, 232, 241, 0.3);
     background: var(--fc-highlight-color, rgba(188, 232, 241, 0.3));
   }
-.fc .fc-day-today {
-    background: rgba(255, 220, 40, 0.15);
-    background: var(--fc-today-bg-color, rgba(255, 220, 40, 0.15)); /* for all themes. bootstrap didn't provide a good semi-transparent color for this */
-  }
 .fc .fc-cell-shaded,
   .fc .fc-day-disabled {
     background: rgba(208, 208, 208, 0.3);
@@ -462,9 +470,6 @@ When it's NOT activated, the fc-button classes won't even be in the DOM.
   }
 /* link resets */
 /* ---------------------------------------------------------------------------------------------------- */
-a.fc-event {
-  display: block;
-}
 a.fc-event,
 a.fc-event:hover {
   text-decoration: none;
@@ -569,9 +574,8 @@ a.fc-event:hover {
 A HORIZONTAL event
 */
 .fc-h-event { /* allowed to be top-level */
-
+  display: block;
   border: 1px solid #3788d8;
-
   border: 1px solid var(--fc-event-bg-color, #3788d8);
   background-color: #3788d8;
   background-color: var(--fc-event-border-color, #3788d8)
@@ -580,9 +584,15 @@ A HORIZONTAL event
 .fc-h-event .fc-event-main {
     color: #fff;
     color: var(--fc-event-text-color, #fff);
-    display: flex;
   }
-.fc-h-event .fc-event-title-frame { /* serves as a container for the sticky cushion */
+.fc-h-event .fc-event-main-frame {
+    display: flex; /* for make fc-event-title-container expand */
+  }
+.fc-h-event .fc-event-time {
+    max-width: 100%; /* clip overflow on this element */
+    overflow: hidden;
+  }
+.fc-h-event .fc-event-title-container { /* serves as a container for the sticky cushion */
     flex-grow: 1;
     flex-shrink: 1;
     min-width: 0; /* important for allowing to shrink all the way */
@@ -677,6 +687,7 @@ A HORIZONTAL event
     border: 1px solid #ddd;
     border: 1px solid var(--fc-border-color, #ddd);
     background: #fff;
+    background: var(--fc-page-bg-color, #fff);
   }
 .fc-theme-standard .fc-popover-header {
     background: rgba(208, 208, 208, 0.3);
@@ -699,6 +710,10 @@ A HORIZONTAL event
     position: relative;
     z-index: 1; /* container inner z-index's because <tr>s can't do it */
   }
+.fc .fc-daygrid-day.fc-day-today {
+      background-color: rgba(255, 220, 40, 0.15);
+      background-color: var(--fc-today-bg-color, rgba(255, 220, 40, 0.15));
+    }
 .fc .fc-daygrid-day-frame {
     position: relative;
     min-height: 100%; /* seems to work better than `height` because sets height after rows/cells naturally do it */
@@ -870,6 +885,7 @@ A HORIZONTAL event
   }
 /* --- the dot style of event --- */
 .fc-daygrid-dot-event {
+  display: block;
   padding: 2px 0;
   overflow: hidden
 
@@ -910,12 +926,11 @@ A VERTICAL event
 */
 
 .fc-v-event { /* allowed to be top-level */
-
+  display: block;
   border: 1px solid #3788d8;
-
-  border: 1px solid var(--fc-event-bg-color, #3788d8);
+  border: 1px solid var(--fc-event-border-color, #3788d8);
   background-color: #3788d8;
-  background-color: var(--fc-event-border-color, #3788d8)
+  background-color: var(--fc-event-bg-color, #3788d8)
 
 }
 
@@ -923,11 +938,22 @@ A VERTICAL event
     color: #fff;
     color: var(--fc-event-text-color, #fff);
     height: 100%;
+  }
+
+.fc-v-event .fc-event-main-frame {
+    height: 100%;
     display: flex;
     flex-direction: column;
   }
 
-.fc-v-event .fc-event-title-frame { /* serves as a container for the sticky cushion */
+.fc-v-event .fc-event-time {
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-height: 100%;
+    overflow: hidden;
+  }
+
+.fc-v-event .fc-event-title-container { /* a container for the sticky cushion */
     flex-grow: 1;
     flex-shrink: 1;
     min-height: 0; /* important for allowing to shrink all the way */
@@ -1047,6 +1073,7 @@ A VERTICAL event
     border-top-style: dotted;
   }
 .fc .fc-timegrid-slot-label-cushion {
+    display: inline-block;
     white-space: nowrap;
   }
 .fc .fc-timegrid-slot-label {
@@ -1096,6 +1123,10 @@ A VERTICAL event
   bottom: 0;
   left: 0;
   }
+.fc .fc-timegrid-col.fc-day-today {
+      background-color: rgba(255, 220, 40, 0.15);
+      background-color: var(--fc-today-bg-color, rgba(255, 220, 40, 0.15));
+    }
 .fc .fc-timegrid-col-frame {
     min-height: 100%; /* liquid-hack is below */
     position: relative;
@@ -1189,14 +1220,12 @@ A VERTICAL event
     padding: 1px 1px 0;
   }
 .fc-timegrid-event .fc-event-time {
-    flex-shrink: 0;
-    overflow: hidden;
     white-space: nowrap;
     font-size: .85em;
     font-size: var(--fc-small-font-size, .85em);
     margin-bottom: 1px;
   }
-.fc-timegrid-event-condensed .fc-event-main {
+.fc-timegrid-event-condensed .fc-event-main-frame {
     flex-direction: row;
     overflow: hidden;
   }
@@ -1299,6 +1328,7 @@ A VERTICAL event
     border-right: 0;
   }
 .fc .fc-list-sticky .fc-list-day > * { /* the cells */
+      position: -webkit-sticky;
       position: sticky;
       top: 0;
       background: #fff;
@@ -1340,6 +1370,10 @@ A VERTICAL event
 .fc-direction-rtl .fc-list-table .fc-list-event-graphic { padding-left: 0 }
 .fc .fc-list-event.fc-event-forced-url {
     cursor: pointer; /* whole row will seem clickable */
+  }
+.fc .fc-list-event:hover td {
+    background-color: #f5f5f5;
+    background-color: var(--fc-list-event-hover-bg-color, #f5f5f5);
   }
 .fc {
 

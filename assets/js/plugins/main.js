@@ -1,5 +1,5 @@
 /*!
-FullCalendar v5.0.0
+FullCalendar v5.1.0
 Docs & License: https://fullcalendar.io/
 (c) 2020 Adam Shaw
 */
@@ -215,9 +215,6 @@ var FullCalendar = (function (exports) {
             }
             oldNodes.forEach(removeElement);
         }
-    }
-    function isElVisible(el) {
-        return Boolean(el.offsetWidth && el.offsetHeight);
     }
     // Querying
     // ----------------------------------------------------------------------------------------------------------------
@@ -1240,7 +1237,7 @@ var FullCalendar = (function (exports) {
         NativeFormatter.prototype.format = function (date, context) {
             return this.buildFormattingFunc(this.standardDateProps, this.extendedSettings, context)(date);
         };
-        NativeFormatter.prototype.formatRange = function (start, end, context) {
+        NativeFormatter.prototype.formatRange = function (start, end, context, betterDefaultSeparator) {
             var _a = this, standardDateProps = _a.standardDateProps, extendedSettings = _a.extendedSettings;
             var diffSeverity = computeMarkerDiffSeverity(start.marker, end.marker, context.calendarSystem);
             if (!diffSeverity) {
@@ -1263,7 +1260,7 @@ var FullCalendar = (function (exports) {
             var partial0 = partialFormattingFunc(start);
             var partial1 = partialFormattingFunc(end);
             var insertion = findCommonInsertion(full0, partial0, full1, partial1);
-            var separator = extendedSettings.separator || context.defaultSeparator || '';
+            var separator = extendedSettings.separator || betterDefaultSeparator || context.defaultSeparator || '';
             if (insertion) {
                 return insertion.before + partial0 + separator + partial1 + insertion.after;
             }
@@ -1485,7 +1482,7 @@ var FullCalendar = (function (exports) {
         };
     }
 
-    function createVerboseFormattingArg(start, end, context, separator) {
+    function createVerboseFormattingArg(start, end, context, betterDefaultSeparator) {
         var startInfo = expandZonedMarker(start, context.calendarSystem);
         var endInfo = end ? expandZonedMarker(end, context.calendarSystem) : null;
         return {
@@ -1494,7 +1491,7 @@ var FullCalendar = (function (exports) {
             end: endInfo,
             timeZone: context.timeZone,
             localeCodes: context.locale.codes,
-            separator: separator
+            defaultSeparator: betterDefaultSeparator || context.defaultSeparator
         };
     }
 
@@ -1506,15 +1503,14 @@ var FullCalendar = (function (exports) {
     It receives this at the time of formatting, as a setting.
     */
     var CmdFormatter = /** @class */ (function () {
-        function CmdFormatter(cmdStr, separator) {
+        function CmdFormatter(cmdStr) {
             this.cmdStr = cmdStr;
-            this.separator = separator;
         }
-        CmdFormatter.prototype.format = function (date, context) {
-            return context.cmdFormatter(this.cmdStr, createVerboseFormattingArg(date, null, context, this.separator));
+        CmdFormatter.prototype.format = function (date, context, betterDefaultSeparator) {
+            return context.cmdFormatter(this.cmdStr, createVerboseFormattingArg(date, null, context, betterDefaultSeparator));
         };
-        CmdFormatter.prototype.formatRange = function (start, end, context) {
-            return context.cmdFormatter(this.cmdStr, createVerboseFormattingArg(start, end, context, this.separator));
+        CmdFormatter.prototype.formatRange = function (start, end, context, betterDefaultSeparator) {
+            return context.cmdFormatter(this.cmdStr, createVerboseFormattingArg(start, end, context, betterDefaultSeparator));
         };
         return CmdFormatter;
     }());
@@ -1523,24 +1519,21 @@ var FullCalendar = (function (exports) {
         function FuncFormatter(func) {
             this.func = func;
         }
-        FuncFormatter.prototype.format = function (date, context) {
-            return this.func(createVerboseFormattingArg(date, null, context));
+        FuncFormatter.prototype.format = function (date, context, betterDefaultSeparator) {
+            return this.func(createVerboseFormattingArg(date, null, context, betterDefaultSeparator));
         };
-        FuncFormatter.prototype.formatRange = function (start, end, context) {
-            return this.func(createVerboseFormattingArg(start, end, context));
+        FuncFormatter.prototype.formatRange = function (start, end, context, betterDefaultSeparator) {
+            return this.func(createVerboseFormattingArg(start, end, context, betterDefaultSeparator));
         };
         return FuncFormatter;
     }());
 
-    function createFormatter(input, defaultSeparator) {
+    function createFormatter(input) {
         if (typeof input === 'object' && input) { // non-null object
-            if (typeof defaultSeparator === 'string') {
-                input = __assign({ separator: defaultSeparator }, input);
-            }
             return new NativeFormatter(input);
         }
         else if (typeof input === 'string') {
-            return new CmdFormatter(input, defaultSeparator);
+            return new CmdFormatter(input);
         }
         else if (typeof input === 'function') {
             return new FuncFormatter(input);
@@ -3088,8 +3081,8 @@ var FullCalendar = (function (exports) {
         };
         // `settings` is for formatter AND isEndExclusive
         CalendarApi.prototype.formatRange = function (d0, d1, settings) {
-            var _a = this.getCurrentData(), dateEnv = _a.dateEnv, options = _a.options;
-            return dateEnv.formatRange(dateEnv.createMarker(d0), dateEnv.createMarker(d1), createFormatter(settings, options.defaultRangeSeparator), settings);
+            var dateEnv = this.getCurrentData().dateEnv;
+            return dateEnv.formatRange(dateEnv.createMarker(d0), dateEnv.createMarker(d1), createFormatter(settings), settings);
         };
         CalendarApi.prototype.formatIso = function (d, omitTime) {
             var dateEnv = this.getCurrentData().dateEnv;
@@ -3438,7 +3431,7 @@ var FullCalendar = (function (exports) {
         EventApi.prototype.formatRange = function (formatInput) {
             var dateEnv = this._context.dateEnv;
             var instance = this._instance;
-            var formatter = createFormatter(formatInput, this._context.options.defaultRangeSeparator);
+            var formatter = createFormatter(formatInput);
             if (this._def.hasEnd) {
                 return dateEnv.formatRange(instance.range.start, instance.range.end, formatter, {
                     forcedStartTzo: instance.forcedStartTzo,
@@ -4055,7 +4048,7 @@ var FullCalendar = (function (exports) {
                 timeZoneOffset: dateOptions.forcedEndTzo != null ?
                     dateOptions.forcedEndTzo :
                     this.offsetForMarker(end)
-            }, this);
+            }, this, dateOptions.defaultSeparator);
         };
         /*
         DUMB: the omitTime arg is dumb. if we omit the time, we want to omit the timezone offset. and if we do that,
@@ -4198,10 +4191,10 @@ var FullCalendar = (function (exports) {
         };
     }
 
-    function formatDate(dateInput, settings) {
-        if (settings === void 0) { settings = {}; }
-        var dateEnv = buildDateEnv(settings);
-        var formatter = createFormatter(settings);
+    function formatDate(dateInput, options) {
+        if (options === void 0) { options = {}; }
+        var dateEnv = buildDateEnv(options);
+        var formatter = createFormatter(options);
         var dateMeta = dateEnv.createMarkerMeta(dateInput);
         if (!dateMeta) { // TODO: warning?
             return '';
@@ -4210,10 +4203,10 @@ var FullCalendar = (function (exports) {
             forcedTzo: dateMeta.forcedTzo
         });
     }
-    function formatRange(startInput, endInput, settings // mixture of env and formatter settings
+    function formatRange(startInput, endInput, options // mixture of env and formatter settings
     ) {
-        var dateEnv = buildDateEnv(typeof settings === 'object' && settings ? settings : {}); // pass in if non-null object
-        var formatter = createFormatter(settings, BASE_OPTION_DEFAULTS.defaultRangeSeparator);
+        var dateEnv = buildDateEnv(typeof options === 'object' && options ? options : {}); // pass in if non-null object
+        var formatter = createFormatter(options);
         var startMeta = dateEnv.createMarkerMeta(startInput);
         var endMeta = dateEnv.createMarkerMeta(endInput);
         if (!startMeta || !endMeta) { // TODO: warning?
@@ -4222,15 +4215,14 @@ var FullCalendar = (function (exports) {
         return dateEnv.formatRange(startMeta.marker, endMeta.marker, formatter, {
             forcedStartTzo: startMeta.forcedTzo,
             forcedEndTzo: endMeta.forcedTzo,
-            isEndExclusive: settings.isEndExclusive
+            isEndExclusive: options.isEndExclusive,
+            defaultSeparator: BASE_OPTION_DEFAULTS.defaultRangeSeparator
         });
     }
     // TODO: more DRY and optimized
     function buildDateEnv(settings) {
         var locale = buildLocale(settings.locale || 'en', organizeRawLocales([]).map); // TODO: don't hardcode 'en' everywhere
-        // ensure required settings
-        settings = __assign(__assign({ timeZone: BASE_OPTION_DEFAULTS.timeZone, calendarSystem: 'gregory' }, settings), { locale: locale });
-        return new DateEnv(settings);
+        return new DateEnv(__assign(__assign({ timeZone: BASE_OPTION_DEFAULTS.timeZone, calendarSystem: 'gregory' }, settings), { locale: locale }));
     }
 
     var DEF_DEFAULTS = {
@@ -7038,7 +7030,10 @@ var FullCalendar = (function (exports) {
         else { // for day units or smaller, use the actual day range
             range = dateProfile.activeRange;
         }
-        return dateEnv.formatRange(range.start, range.end, createFormatter(viewOptions.titleFormat || buildTitleFormat(dateProfile), viewOptions.titleRangeSeparator), { isEndExclusive: dateProfile.isRangeAllDay });
+        return dateEnv.formatRange(range.start, range.end, createFormatter(viewOptions.titleFormat || buildTitleFormat(dateProfile)), {
+            isEndExclusive: dateProfile.isRangeAllDay,
+            defaultSeparator: viewOptions.titleRangeSeparator
+        });
     }
     // Generates the format string that should be used to generate the title for the current date range.
     // Attempts to compute the most appropriate format if not explicitly specified with `titleFormat`.
@@ -7687,7 +7682,7 @@ var FullCalendar = (function (exports) {
                     var isDisabled = (!props.isTodayEnabled && buttonName === 'today') ||
                         (!props.isPrevEnabled && buttonName === 'prev') ||
                         (!props.isNextEnabled && buttonName === 'next');
-                    children.push(createElement("button", __assign({ disabled: isDisabled, className: buttonClasses.join(' '), onClick: buttonClick }, ariaAttrs), buttonText || (buttonIcon ? createElement("span", { className: buttonIcon }) : '')));
+                    children.push(createElement("button", __assign({ disabled: isDisabled, className: buttonClasses.join(' '), onClick: buttonClick, type: 'button' }, ariaAttrs), buttonText || (buttonIcon ? createElement("span", { className: buttonIcon }) : '')));
                 }
             }
             if (children.length > 1) {
@@ -8982,10 +8977,10 @@ var FullCalendar = (function (exports) {
         return StandardEvent;
     }(BaseComponent));
     function renderInnerContent(innerProps) {
-        return (createElement(Fragment, null,
+        return (createElement("div", { className: 'fc-event-main-frame' },
             innerProps.timeText &&
                 createElement("div", { className: 'fc-event-time' }, innerProps.timeText),
-            createElement("div", { className: 'fc-event-title-frame' },
+            createElement("div", { className: 'fc-event-title-container' },
                 createElement("div", { className: 'fc-event-title fc-sticky' }, innerProps.event.title || createElement(Fragment, null, "\u00A0")))));
     }
     function getSegAnchorAttrs(seg) {
@@ -12266,7 +12261,7 @@ var FullCalendar = (function (exports) {
                         createElement("tbody", null, props.cells.map(function (cells, row) { return (createElement(TableRow, { ref: _this.rowRefs.createRef(row), key: cells.length
                                 ? cells[0].date.toISOString() /* best? or put key on cell? or use diff formatter? */
                                 : row // in case there are no cells (like when resource view is loading)
-                            , showDayNumbers: rowCnt > 1, showWeekNumbers: props.showWeekNumbers, todayRange: todayRange, dateProfile: dateProfile, cells: cells, renderIntro: props.renderRowIntro, businessHourSegs: businessHourSegsByRow[row], eventSelection: props.eventSelection, bgEventSegs: bgEventSegsByRow[row], fgEventSegs: fgEventSegsByRow[row], dateSelectionSegs: dateSelectionSegsByRow[row], eventDrag: eventDragByRow[row], eventResize: eventResizeByRow[row], dayMaxEvents: dayMaxEvents, dayMaxEventRows: dayMaxEventRows, clientWidth: props.clientWidth, clientHeight: props.clientHeight, buildMoreLinkText: buildMoreLinkText, onMoreClick: _this.handleMoreLinkClick })); }))),
+                            , showDayNumbers: rowCnt > 1, showWeekNumbers: props.showWeekNumbers, todayRange: todayRange, dateProfile: dateProfile, cells: cells, renderIntro: props.renderRowIntro, businessHourSegs: businessHourSegsByRow[row], eventSelection: props.eventSelection, bgEventSegs: bgEventSegsByRow[row].filter(isSegAllDay) /* hack */, fgEventSegs: fgEventSegsByRow[row], dateSelectionSegs: dateSelectionSegsByRow[row], eventDrag: eventDragByRow[row], eventResize: eventResizeByRow[row], dayMaxEvents: dayMaxEvents, dayMaxEventRows: dayMaxEventRows, clientWidth: props.clientWidth, clientHeight: props.clientHeight, buildMoreLinkText: buildMoreLinkText, onMoreClick: _this.handleMoreLinkClick })); }))),
                     (!props.forPrint && morePopoverState && morePopoverState.currentFgEventSegs === props.fgEventSegs) && // clear popover on event mod
                         createElement(MorePopover, { date: morePopoverState.date, dateProfile: dateProfile, segs: morePopoverState.allSegs, alignmentEl: morePopoverState.dayEl, topAlignmentEl: rowCnt === 1 ? props.headerAlignElRef.current : null, onCloseClick: _this.handleMorePopoverClose, selectedInstanceId: props.eventSelection, hiddenInstances: // yuck
                             (props.eventDrag ? props.eventDrag.affectedInstances : null) ||
@@ -12324,6 +12319,9 @@ var FullCalendar = (function (exports) {
                 return "+" + num + " " + moreLinkTextInput;
             };
         }
+    }
+    function isSegAllDay(seg) {
+        return seg.eventRange.def.allDay;
     }
 
     var DayTable = /** @class */ (function (_super) {
@@ -12609,7 +12607,7 @@ var FullCalendar = (function (exports) {
                 props.clientWidth !== null // means sizing has stabilized
             ) {
                 var rootEl = this.rootElRef.current;
-                if (isElVisible(rootEl)) { // not hidden by css
+                if (rootEl.offsetHeight) { // not hidden by css
                     props.onCoords(new TimeColsSlatsCoords(new PositionCache(this.rootElRef.current, collectSlatEls(this.slatElRefs.currentMap, props.slatMetas), false, true // vertical
                     ), this.props.dateProfile, props.slatMetas));
                 }
@@ -12678,7 +12676,7 @@ var FullCalendar = (function (exports) {
                 };
                 return (createElement(RenderHook, { hookProps: hookProps, classNames: options.slotLabelClassNames, content: options.slotLabelContent, defaultContent: renderInnerContent$3, didMount: options.slotLabelDidMount, willUnmount: options.slotLabelWillUnmount }, function (rootElRef, customClassNames, innerElRef, innerContent) { return (createElement("td", { ref: rootElRef, className: classNames.concat(customClassNames).join(' '), "data-time": props.isoTimeStr },
                     createElement("div", { className: 'fc-timegrid-slot-label-frame fc-scrollgrid-shrink-frame' },
-                        createElement("span", { className: 'fc-timegrid-slot-label-cushion fc-scrollgrid-shrink-cushion', ref: innerElRef }, innerContent)))); }));
+                        createElement("div", { className: 'fc-timegrid-slot-label-cushion fc-scrollgrid-shrink-cushion', ref: innerElRef }, innerContent)))); }));
             }
         }));
     }
@@ -14300,7 +14298,6 @@ var FullCalendar = (function (exports) {
     exports.isArraysEqual = isArraysEqual;
     exports.isColPropsEqual = isColPropsEqual;
     exports.isDateSpansEqual = isDateSpansEqual;
-    exports.isElVisible = isElVisible;
     exports.isInt = isInt;
     exports.isInteractionValid = isInteractionValid;
     exports.isMultiDayRange = isMultiDayRange;
