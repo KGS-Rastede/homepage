@@ -12,7 +12,7 @@ columns:
             label: Untertitel
           beschreibung:
             label: Inhalt
-            type: textarea
+            type: editor
 
   sidebar:
     width: 1/3
