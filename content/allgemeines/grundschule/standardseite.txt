@@ -7,13 +7,13 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Liebe Sch\u00fclerinne und Sch\u00fcler, Liebe Eltern,",
+        "content": "Liebe Schülerinne und Schüler, liebe Eltern,",
         "id": "_PSCSihv8r",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "wir begr\u00fc\u00dfen Euch und Sie ganz herzliche an der KGS Rastede und freuen uns \u00fcber Euer und Ihr Interesse an unserer Schule.",
+        "content": "wir begrüßen Euch und Sie ganz herzliche an der KGS Rastede und freuen uns über Euer und Ihr Interesse an unserer Schule.",
         "id": "_0jCRtc9f8",
         "type": "paragraph"
     },
@@ -25,7 +25,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Bei weiteren Fragen zum \u00dcbergang von Grundschule zur KGS stehen Ihnen Frau Ildiz (<a href=\"mailto:id@kgs-rastede.de\">id@kgs-rastede.de</a>) als Leiterin der 5. und 6. Klasse im Geb\u00e4ude der Feldbreite sehr gerne zur Verf\u00fcgung.",
+        "content": "Bei weiteren Fragen zum Übergang von Grundschule zur KGS stehen Ihnen Frau Ildiz (<a href=\"mailto:id@kgs-rastede.de\">id@kgs-rastede.de</a>) als Leiterin der 5. und 6. Klasse im Gebäude der Feldbreite sehr gerne zur Verfügung.",
         "id": "_iSbT8BlGt",
         "type": "paragraph"
     }
