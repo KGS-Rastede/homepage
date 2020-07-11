@@ -1,0 +1,6 @@
+preset: pages
+
+unlisted:
+  headline: Schülerfirmen
+  layout: cards
+  info: "Kontakt: {{page.Mailadresse}}"
