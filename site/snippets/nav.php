@@ -3,22 +3,23 @@
           Hier kann das Logo stehen oder der Name der Schule.
           Müssen wir am Ende vom Design her entscheiden.      
         -->
-  <a class="navbar-brand" href="<?= $site->url() ?>">
-    <img src="<?= $kirby->url('assets') ?>/logo-kgs-mini.jpg" class="img-fluid">
-    <!-- KGS Rastede -->
-  </a>
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+  <div class="container">
+    <a class="navbar-brand" href="<?= $site->url() ?>">
+      <img src="<?= $kirby->url('assets') ?>/logo-kgs-mini.jpg" loading="lazy">
+    </a>
+  </div>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+  <div class="collapse navbar-collapse" id="navbarText">
     <!--
         Diese Icons stehen zur Verfügung
         https://material.io/resources/icons/?icon=card_travel&style=baseline
         -->
-    <ul class="navbar-nav ml-auto">
-
+    <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
       <li class="dropdown nav-item">
         <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
           <img src="<?= $kirby->url('assets') ?>/icons/people.svg"> Kontakt
@@ -87,5 +88,5 @@
     </ul>
   </div>
 
-  
+
 </nav>
