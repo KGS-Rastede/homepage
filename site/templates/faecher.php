@@ -3,7 +3,7 @@
 <?php snippet('page-header') ?>
 
 <!--SPRACHEN-->
-<div class="card-columns">
+<div class="row row-cols-1 row-cols-md-2 g-4">
   <div class="card bg-primary mb-3">
     <div class="card-body">
       <h3 class="card-category card-title text-warning">Fremdsprachen</h3>
