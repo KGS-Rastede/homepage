@@ -37,27 +37,15 @@ Text:
     },
     {
         "attrs": [],
-        "content": "à",
-        "id": "_wjY17RwVd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Reformklima in Rastede à Initiativgruppe diskutiert über die Gründung einer Kooperativen Gesamtschule",
-        "id": "_GNv7dIYwD",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_mmuIQbOp3",
-        "type": "paragraph"
+        "content": "Reformklima in Rastede, Initiativgruppe diskutiert über die Gründung einer Kooperativen Gesamtschule",
+        "id": "_c83vepu3m",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "Gemeinderat beschließt KGS und gibt <em>grünes Licht für Neubau</em>",
-        "id": "_6i8CRj8o4",
-        "type": "paragraph"
+        "id": "_ylbmtn7wf",
+        "type": "ul"
     },
     {
         "attrs": [],
@@ -73,63 +61,45 @@ Text:
     },
     {
         "attrs": [],
-        "content": ": Planungsgruppe von Eltern, Schülerinnen und Schülern, Lehrerinnen und Lehrern, Kommunalpolitikern sowie Vertreter der Schulaufsichtsbehörde übernimmt Arbeit und Planung",
+        "content": "Planungsgruppe von Eltern, Schülerinnen und Schülern, Lehrerinnen und Lehrern, Kommunalpolitikern sowie Vertreter der Schulaufsichtsbehörde übernimmt Arbeit und Planung",
         "id": "_frdlgGbQf",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_0b1V1uaV2",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Neubau des Schulzentrums</em>",
-        "id": "_PSnYqeF5P",
-        "type": "paragraph"
+        "id": "_0cuqfgex6",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "&nbsp;",
-        "id": "_9RyRoV1VO",
+        "id": "_5q9du4gcw",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Schuljahr</strong> <strong>1976/77</strong>",
-        "id": "_YtO1uBKQu",
+        "id": "_8zc21akfw",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": ": <strong>KGS</strong> <strong>Rastede</strong> mit Haupt- und Realschulzweig sowie dem Gymnasialzweig bis Klasse 10 (Genehmigung durch den damaligen Kultusminister Dr. Remmers) – Klassen 7 – 10 à <strong>erstes komplettes Bildungsangebot in Rastede</strong>",
+        "content": "<strong>KGS</strong> <strong>Rastede</strong> mit Haupt- und Realschulzweig sowie dem Gymnasialzweig bis Klasse 10 (Genehmigung durch den damaligen Kultusminister Dr. Remmers) – Klassen 7 – 10; <strong>erstes komplettes Bildungsangebot in Rastede</strong>",
         "id": "_oyy6aozbL",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_x3Wq0zEnu",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Genehmigung einer Lateinklasse für Gymnasialzweig",
-        "id": "_0kvn1ldwW",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_ms307s1tF",
-        "type": "paragraph"
+        "id": "_3kl0rtvl6",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<em>Einweihung der dreiteiligen Sporthalle</em>",
-        "id": "_TWKCXzCAm",
-        "type": "paragraph"
+        "id": "_1g7h4oe9e",
+        "type": "ul"
     },
     {
         "attrs": [],
@@ -145,26 +115,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_Thz6KuqLf",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_CCBSji5fd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Gemeinde Rastede beantragt Änderung des Kreisschulentwicklungsplanes: Einführung einer gymnasialen Oberstufe",
-        "id": "_U8HYcR07y",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_nXWe6YWhp",
+        "content": "Gemeinde Rastede beantragt Änderung des Kreisschulentwicklungsplanes: Einführung einer gymnasialen Oberstufe&nbsp;",
+        "id": "_gx4yuhhyl",
         "type": "paragraph"
     },
     {
@@ -175,20 +127,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_W1qZbAwLU",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "alle Hauptschulen des Gemeindegebiets gehen ganz in der KGS auf",
         "id": "_OtxJ37IEv",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_QkDNQoyjr",
         "type": "paragraph"
     },
     {
@@ -211,26 +151,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_wY9lOl5j1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_hUpETrFKD",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "erster deutsch-französischer Schüleraustausch mit Partnerschulen in Liffré und St. Aubin",
         "id": "_GpELns8FY",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_D6G7VZvfV",
         "type": "paragraph"
     },
     {
@@ -241,32 +163,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_lk1SdfB8O",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Rat der Gemeinde beschließt die Einrichtung der gymnasialen Oberstufe",
         "id": "_jOp1lf8dA",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "à",
-        "id": "_4LmS8cXzq",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Kultusminister Dr. Remmers genehmigt Oberstufe",
         "id": "_1CCjVsoIW",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_5pErZBuGG",
         "type": "paragraph"
     },
     {
@@ -289,62 +193,32 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_RivSwWpmz",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_1xYBFpS4m",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Beginn der Arbeit der gymnasialen Oberstufe",
-        "id": "_BloYP79wt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_hTzkAdHvf",
-        "type": "paragraph"
+        "id": "_pe910uuyl",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "erster Schuljahrgang der 10. Klassen verlässt die Schule",
-        "id": "_KzkP9Y6BH",
+        "id": "_pi6b4g96x",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_4hseh8zno",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>1981</strong>",
-        "id": "_fsuRW3skQ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": ":",
-        "id": "_OrYY0OTSb",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_Dr3PXNusl",
+        "id": "_05p0oz4jg",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<em>Einweihung des Neubaus der Oberstufe</em>",
         "id": "_GPeqfEL1K",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_IFLbGPk8R",
         "type": "paragraph"
     },
     {
@@ -367,26 +241,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_1p6kwtOfd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_IdHoSBmy5",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Neugestaltung des Schulhofs</em>",
         "id": "_LbkjTxli3",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_yNqolEiPm",
         "type": "paragraph"
     },
     {
@@ -415,26 +271,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_wH9MZdDfp",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_k6T6SxNhl",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Verabschiedung des ersten Abiturjahrgangs an der KGS",
         "id": "_xxnZtHxym",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_C5357mfP4",
         "type": "paragraph"
     },
     {
@@ -457,45 +295,21 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_E1XeAWHjq",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_VSX15P8Jj",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Gründung des KGO",
-        "id": "_yA6YBxJNQ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_9aRhAEdp4",
-        "type": "paragraph"
+        "id": "_59jwll3zk",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "erste Projektwoche",
-        "id": "_h1SOdn7j3",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_LlLoGpVRi",
-        "type": "paragraph"
+        "id": "_dp8wr6qeq",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "erster Austausch mit der niederländischen Partnerschule in Hardenberg",
-        "id": "_wQyFZK02P",
-        "type": "paragraph"
+        "id": "_u75ir5igy",
+        "type": "ul"
     },
     {
         "attrs": [],
@@ -505,20 +319,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>1985</strong>",
-        "id": "_SMiy4Pf4m",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": ":",
-        "id": "_yEPA5jhGN",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_dCfawlyym",
+        "content": "<strong>1985</strong>&nbsp;",
+        "id": "_67lhocwke",
         "type": "paragraph"
     },
     {
@@ -541,18 +343,6 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_MMjatXVxP",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_G7x1FEvyB",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<strong>Jubiläum - 10 Jahre KGS</strong>",
         "id": "_3oJZgZC7c",
         "type": "paragraph"
@@ -571,26 +361,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_s1z1DEmhj",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_TU9nCJBmL",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "erster Schüleraustausch mit der amerikanischen Partnerschule in Plattsburg",
-        "id": "_SPUqzH6uE",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_Iccg8oL8D",
+        "content": "erster Schüleraustausch mit der amerikanischen Partnerschule in Plattsburg&nbsp;",
+        "id": "_f4zbh5fy7",
         "type": "paragraph"
     },
     {
@@ -661,20 +433,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_DrouMY8JU",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Einweihung der sechsteiligen Sporthalle an der Feldbreite</em>",
         "id": "_8dJz5pHzs",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_uKbUxVEwv",
         "type": "paragraph"
     },
     {
@@ -1279,38 +1039,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_wUsJ6IEyX",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_grekR2VZa",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<strong>Jubiläum - 25 Jahre KGS</strong>",
         "id": "_RJPICRZPv",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_uEdJyI4Eq",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "neues Logo der Schule",
-        "id": "_FiBgimITp",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_EBwlNkQah",
+        "id": "_c20x9ub0o",
         "type": "paragraph"
     },
     {
@@ -1321,20 +1057,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_z4tLY7Vp2",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "KGS – „Schule ohne Rassismus“",
         "id": "_6HzzAJXDS",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_WGVGDfY6I",
         "type": "paragraph"
     },
     {
@@ -1345,20 +1069,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_boHKjUflN",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Schule in Teilbereichen vernetzt",
         "id": "_nbqj2JBqG",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_SsOg2u77g",
         "type": "paragraph"
     },
     {
@@ -1381,20 +1093,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_tYMx3nWAk",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Hans-Günter Speetzen geht nach 27 Schulleiterjahren in den Ruhestand",
         "id": "_1fexMEbHQ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_3V3y9LPRn",
         "type": "paragraph"
     },
     {
@@ -1405,20 +1105,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_aU6H95gzd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Spendenaktionen – Hilfe für die Opfer des Hochwassers in Dessau à 86000 Euro",
         "id": "_hJPjBgXMx",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_BNhpFdWGj",
         "type": "paragraph"
     },
     {
@@ -1429,20 +1117,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_rcvKu9Vkp",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Einladung für einen Besuch bei dem ehemaligen Bundespräsidenten Johannes Rau im Schloss Bellevue zum Neujahrsempfang à „Lauf gegen die Flut“ – Würdigung der Menschen, die sich für das Gemeinwohl eingesetzt haben",
         "id": "_OpwnvNgts",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_aQTbd8ecN",
         "type": "paragraph"
     },
     {
@@ -1465,26 +1141,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_uAZ3eXJA9",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_2gq2g9B8H",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Renovierung alte Hausmeisterwohnung</em>",
         "id": "_jzlxsCSmx",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_lcOfYvWj6",
         "type": "paragraph"
     },
     {
@@ -3341,7 +2999,7 @@ Downloads:
 
 ----
 
-Toggle: true
+Toggle: false
 
 ----
 
