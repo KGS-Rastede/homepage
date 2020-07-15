@@ -63,6 +63,7 @@
 
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="<?= page('allgemeines/konzepte')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Pädagogische Konzepte</a>
+          <a class="dropdown-item" href="<?= page('allgemeines/geschichte')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/book.svg"> Unsere Geschichte</a>
 
         </div>
       </li>
