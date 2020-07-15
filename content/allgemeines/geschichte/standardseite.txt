@@ -385,26 +385,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_pFBQ2ScIc",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_iBtlQEcL6",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "10 Jahre deutsch-französischer Schüleraustausch",
         "id": "_6XQvxYOdp",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_u1rOEOvUV",
         "type": "paragraph"
     },
     {
@@ -423,12 +405,6 @@ Text:
         "attrs": [],
         "content": "<strong>1989</strong>",
         "id": "_Rdj8Vwa1k",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": ":",
-        "id": "_Q0WMzq8EJ",
         "type": "paragraph"
     },
     {
@@ -457,38 +433,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_AVp9qGZ1R",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_QWRUalfgd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Gründung des Fördervereins der KGS",
         "id": "_nGgq8CdMT",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_NtNJX8gKf",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "erster deutsch-polnischer Schüleraustausch mit Partnerschule aus Gorzow",
         "id": "_WjnBtsKAw",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_2ibj1VKgD",
         "type": "paragraph"
     },
     {
@@ -511,26 +463,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_sn230GCT1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_s7yZNwDvr",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Umweltwoche im siebten Jahrgang",
         "id": "_rscmbmMQO",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_fBoy9WcKB",
         "type": "paragraph"
     },
     {
@@ -553,18 +487,6 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_MJLS5hkMz",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_AQmr70lTt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Erholungsaufenthalt für 30 Kinder aus Tschernobyl",
         "id": "_TuGHYwsSt",
         "type": "paragraph"
@@ -583,38 +505,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_TH77b4L0M",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_1jhFzh8Bo",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Gesamtkonferenz beschließt alternative Stundentafel für die Schule",
         "id": "_ux8xKnkYR",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_fCKW3Q7o5",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Eine Welt Ausschuss nimmt Arbeit auf",
         "id": "_gkdELjLfM",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_KxBOgp6Y0",
         "type": "paragraph"
     },
     {
@@ -637,38 +535,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_1vClT6mJA",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_JZyF6x58P",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "erster Platz im Rasteder Umweltpreis",
         "id": "_bSmHrWaoI",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_qt8viZDqU",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Teilnahme an Model United Nations in Dublin",
         "id": "_BkGBUXzQq",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_Mc17V8PdY",
         "type": "paragraph"
     },
     {
@@ -691,38 +565,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_zD24kk5cc",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_4mQf8mKEL",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Einweihung der Aula</em>",
         "id": "_kU9NTmWWq",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_H8jhhEcQE",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Zwei neue Klassenräume für die OS</em>",
-        "id": "_6B6GbbZgt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_c7zqzKtO4",
+        "id": "_vaw5b11nk",
         "type": "paragraph"
     },
     {
@@ -745,26 +595,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_IJJQZJj6F",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_vfv800rbK",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Brand im Werkbereich",
         "id": "_2OQYRHv4n",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_WudLkzH8R",
         "type": "paragraph"
     },
     {
@@ -775,32 +607,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_UgsH6B8jz",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Aktionstag: 10 Jahre Tschernobyl",
         "id": "_Q1RalgZj6",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_bSVcygbzi",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Neuausstattung der Computerräume</em>",
         "id": "_Fj77RAg54",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_AdZrOG6L7",
         "type": "paragraph"
     },
     {
@@ -823,26 +637,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_8DfNdXFRm",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_fJ2W0YK27",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "Schulversuch PING",
         "id": "_FTTEivckS",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_EOgwzpdBL",
         "type": "paragraph"
     },
     {
@@ -853,20 +649,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_lfh966Jhm",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Installation der Photovoltaikanlage an der Schule</em>",
         "id": "_5MvKeUOsf",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_xiLFXHhHR",
         "type": "paragraph"
     },
     {
@@ -889,26 +673,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_gwfiJAG2C",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_3OtGMmH4e",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "20 Jahre Schüleraustausch mit Frankreich",
         "id": "_FA3qgJX31",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_2f7t4Q00d",
         "type": "paragraph"
     },
     {
@@ -931,18 +697,6 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_HWXMyq31Z",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_i2Kh9eF0C",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>Renovierung der Ruhezone</em>",
         "id": "_M3Pn1kMWD",
         "type": "paragraph"
@@ -961,26 +715,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": ":",
-        "id": "_zECsLHihR",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_GRmjhctTv",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "15 Jahre KGO",
         "id": "_f9pRC4FOi",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_btODoteHf",
         "type": "paragraph"
     },
     {
@@ -991,32 +727,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_tALR8ofrn",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>neuer Computerraum an der OS mit Macs</em>",
         "id": "_P3WZfRcI6",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_t4jsBJe2m",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
         "content": "<em>zwei neue Klassenräume an der OS</em>",
         "id": "_U4yD4oPdR",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "v&nbsp;",
-        "id": "_aEcPVcliB",
         "type": "paragraph"
     },
     {
