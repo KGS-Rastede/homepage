@@ -7,8 +7,3326 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Uns gibt es schon lange.",
-        "id": "_y3axG1Dp5",
+        "content": "<strong>Die Historie der KGS Rastede in ihren groben Zügen</strong>",
+        "id": "_82r38a3mf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Die Historie der KGS Rastede wird stichpunktartig skizziert und fokussiert in chronologischer Reihenfolge einzelne ausgewählte Aspekte (die Entstehung der KGS, die schulischen Veränderungen, die baulichen Maßnahmen an der Schule sowie Personalveränderungen in der Schulleitung und ausgewählte Ereignisse). Letztlich bildet diese Chronologie einen Spiegel der Presse.</em>",
+        "id": "_vK8Un3cWR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Die Anfänge:</strong>",
+        "id": "_wn6AjljCH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schulbestand <strong>Anfang der 70er</strong>: fünf Grundschulen, eine Sonderschule für Lernbehinderte, drei als Grund- und Hauptschulen geführte Mittelpunktschulen sowie eine Realschule",
+        "id": "_f191gwu8b",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1974 </strong>lange Zeit kaum aktive Betreibung von Bildungspolitik",
+        "id": "_7zyqznrfi",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "à",
+        "id": "_wjY17RwVd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Reformklima in Rastede à Initiativgruppe diskutiert über die Gründung einer Kooperativen Gesamtschule",
+        "id": "_GNv7dIYwD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_mmuIQbOp3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gemeinderat beschließt KGS und gibt <em>grünes Licht für Neubau</em>",
+        "id": "_6i8CRj8o4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_HiN3n4n71",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1975</strong>",
+        "id": "_qKSqOSc8h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ": Planungsgruppe von Eltern, Schülerinnen und Schülern, Lehrerinnen und Lehrern, Kommunalpolitikern sowie Vertreter der Schulaufsichtsbehörde übernimmt Arbeit und Planung",
+        "id": "_frdlgGbQf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_0b1V1uaV2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Neubau des Schulzentrums</em>",
+        "id": "_PSnYqeF5P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_9RyRoV1VO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Schuljahr</strong> <strong>1976/77</strong>",
+        "id": "_YtO1uBKQu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ": <strong>KGS</strong> <strong>Rastede</strong> mit Haupt- und Realschulzweig sowie dem Gymnasialzweig bis Klasse 10 (Genehmigung durch den damaligen Kultusminister Dr. Remmers) – Klassen 7 – 10 à <strong>erstes komplettes Bildungsangebot in Rastede</strong>",
+        "id": "_oyy6aozbL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_x3Wq0zEnu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Genehmigung einer Lateinklasse für Gymnasialzweig",
+        "id": "_0kvn1ldwW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_ms307s1tF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Einweihung der dreiteiligen Sporthalle</em>",
+        "id": "_TWKCXzCAm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_Zto7x3cb6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1978</strong>",
+        "id": "_rxdYISKqV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_Thz6KuqLf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_CCBSji5fd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gemeinde Rastede beantragt Änderung des Kreisschulentwicklungsplanes: Einführung einer gymnasialen Oberstufe",
+        "id": "_U8HYcR07y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_nXWe6YWhp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "KGS beantragt bei der Gemeinde ein freiwilliges 10. Schuljahr für den Hauptschulzweig",
+        "id": "_72quTw0DR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_W1qZbAwLU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "alle Hauptschulen des Gemeindegebiets gehen ganz in der KGS auf",
+        "id": "_OtxJ37IEv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_QkDNQoyjr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erstes Betriebspraktikum des gesamten 9. Jahrgangs",
+        "id": "_OzDSWoOmx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_hlH4RyunM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1979</strong>",
+        "id": "_IcFYhE76x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_wY9lOl5j1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_hUpETrFKD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erster deutsch-französischer Schüleraustausch mit Partnerschulen in Liffré und St. Aubin",
+        "id": "_GpELns8FY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_D6G7VZvfV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erste Abschlüsse im Hauptschulzweig nach Klasse 9",
+        "id": "_1O2ui5e4F",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_lk1SdfB8O",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Rat der Gemeinde beschließt die Einrichtung der gymnasialen Oberstufe",
+        "id": "_jOp1lf8dA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "à",
+        "id": "_4LmS8cXzq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kultusminister Dr. Remmers genehmigt Oberstufe",
+        "id": "_1CCjVsoIW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_5pErZBuGG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "ehemalige Realschule geht in der KGS auf",
+        "id": "_NKKXDPrHX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_WqeNqGLnI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1980</strong>",
+        "id": "_RnFlAse49",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_RivSwWpmz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_1xYBFpS4m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Beginn der Arbeit der gymnasialen Oberstufe",
+        "id": "_BloYP79wt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_hTzkAdHvf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erster Schuljahrgang der 10. Klassen verlässt die Schule",
+        "id": "_KzkP9Y6BH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1981</strong>",
+        "id": "_fsuRW3skQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_OrYY0OTSb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_Dr3PXNusl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Einweihung des Neubaus der Oberstufe</em>",
+        "id": "_GPeqfEL1K",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_IFLbGPk8R",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gelder für Erstausstattung der Sek. II",
+        "id": "_wr9heVBFR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_hipQjfGqv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1982</strong>",
+        "id": "_01ToU3POc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_1p6kwtOfd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_IdHoSBmy5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Neugestaltung des Schulhofs</em>",
+        "id": "_LbkjTxli3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_yNqolEiPm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "gemeinsame Vereinbarung über Sek. I und Sek. II zwischen Rastede und",
+        "id": "_pSpewzSIX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wiefelstede unterzeichnet",
+        "id": "_CAv4m5jSm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_64O8xaftG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1983</strong>",
+        "id": "_goY1AGoRB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_wH9MZdDfp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_k6T6SxNhl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Verabschiedung des ersten Abiturjahrgangs an der KGS",
+        "id": "_xxnZtHxym",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_C5357mfP4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Bäume für den Frieden auf dem Schulhof gepflanzt</em>",
+        "id": "_4yoUH3a1I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_rE8c5Gh5V",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1984</strong>",
+        "id": "_f8ebKcapo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_E1XeAWHjq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_VSX15P8Jj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gründung des KGO",
+        "id": "_yA6YBxJNQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_9aRhAEdp4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erste Projektwoche",
+        "id": "_h1SOdn7j3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_LlLoGpVRi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erster Austausch mit der niederländischen Partnerschule in Hardenberg",
+        "id": "_wQyFZK02P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_iX0ZQd7gY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1985</strong>",
+        "id": "_SMiy4Pf4m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_yEPA5jhGN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_dCfawlyym",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Anschaffung der ersten Computer",
+        "id": "_vXuz8grCP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_xT47N70Bx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1986</strong>",
+        "id": "_1OUFAyBu7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_MMjatXVxP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_G7x1FEvyB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Jubiläum - 10 Jahre KGS</strong>",
+        "id": "_3oJZgZC7c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_CbgHWJ9Np",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1987</strong>",
+        "id": "_TKBnEghbT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_s1z1DEmhj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_TU9nCJBmL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erster Schüleraustausch mit der amerikanischen Partnerschule in Plattsburg",
+        "id": "_SPUqzH6uE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_Iccg8oL8D",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erste Verkehrswoche in der Orientierungsstufe",
+        "id": "_JF6duDV2X",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_Op1zM16Xf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1988</strong>",
+        "id": "_xIo0hrskT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_pFBQ2ScIc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_iBtlQEcL6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "10 Jahre deutsch-französischer Schüleraustausch",
+        "id": "_6XQvxYOdp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_u1rOEOvUV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Einrichtung eines zweiten Computerraumes</em>",
+        "id": "_mw57Cjlx1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_YPsG4Y8nA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1989</strong>",
+        "id": "_Rdj8Vwa1k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_Q0WMzq8EJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_DrouMY8JU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Einweihung der sechsteiligen Sporthalle an der Feldbreite</em>",
+        "id": "_8dJz5pHzs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_uKbUxVEwv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "SPD stiftet Bartholomäus-Schink-Preis",
+        "id": "_Zcv4Iy07h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_uJWne2VPF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1990</strong>",
+        "id": "_AknrjfaIX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_AVp9qGZ1R",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_QWRUalfgd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gründung des Fördervereins der KGS",
+        "id": "_nGgq8CdMT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_NtNJX8gKf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erster deutsch-polnischer Schüleraustausch mit Partnerschule aus Gorzow",
+        "id": "_WjnBtsKAw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_2ibj1VKgD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erstmalige Verleihung des Bartholomäus-Schink-Preises am 08. Mai 1990",
+        "id": "_MhwZcKcmr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_zP5u2Y0Qk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1991</strong>",
+        "id": "_LIN2nvYDV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_sn230GCT1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_s7yZNwDvr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Umweltwoche im siebten Jahrgang",
+        "id": "_rscmbmMQO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_fBoy9WcKB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erstes Praktikum in der Sek. II",
+        "id": "_FJul7DHIY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_Jps2QlqMi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1992</strong>",
+        "id": "_0SJDkOYiz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_MJLS5hkMz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_AQmr70lTt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Erholungsaufenthalt für 30 Kinder aus Tschernobyl",
+        "id": "_TuGHYwsSt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_dpSy0fVZ3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1993</strong>",
+        "id": "_s7L27s2ex",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_TH77b4L0M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_1jhFzh8Bo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gesamtkonferenz beschließt alternative Stundentafel für die Schule",
+        "id": "_ux8xKnkYR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_fCKW3Q7o5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine Welt Ausschuss nimmt Arbeit auf",
+        "id": "_gkdELjLfM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_KxBOgp6Y0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schulversuch Naturwissenschaften für Mädchen und Jungen",
+        "id": "_xNlwD5mVC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_J3broOwZx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1994</strong>",
+        "id": "_fp1RWc7g7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_1vClT6mJA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_JZyF6x58P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erster Platz im Rasteder Umweltpreis",
+        "id": "_bSmHrWaoI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_qt8viZDqU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Teilnahme an Model United Nations in Dublin",
+        "id": "_BkGBUXzQq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_Mc17V8PdY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "zehnjähriges Jubiläum des deutsch-niederländischen Schüleraustausches",
+        "id": "_Mf26Wlr0H",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_J8Tfmn2lP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1995</strong>",
+        "id": "_2d6P01p5K",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_zD24kk5cc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_4mQf8mKEL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Einweihung der Aula</em>",
+        "id": "_kU9NTmWWq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_H8jhhEcQE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Zwei neue Klassenräume für die OS</em>",
+        "id": "_6B6GbbZgt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_c7zqzKtO4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gründung der K-OS",
+        "id": "_8m4RGuBQc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_ubvn9LKLQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1996</strong>",
+        "id": "_KgXnQXrFI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_IJJQZJj6F",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_vfv800rbK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Brand im Werkbereich",
+        "id": "_2OQYRHv4n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_WudLkzH8R",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Bau der Cafeteria für die Schule</em>",
+        "id": "_xinczl4lG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_UgsH6B8jz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Aktionstag: 10 Jahre Tschernobyl",
+        "id": "_Q1RalgZj6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_bSVcygbzi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Neuausstattung der Computerräume</em>",
+        "id": "_Fj77RAg54",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_AdZrOG6L7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Förderpreis für praktisches Lernen in Niedersachsen geht an Bartholomäus-Schink-Preis",
+        "id": "_QFMrVrN5G",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_B8JgtVvcE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1997</strong>",
+        "id": "_gNqoigkCo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_8DfNdXFRm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_fJ2W0YK27",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schulversuch PING",
+        "id": "_FTTEivckS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_EOgwzpdBL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "neue Stundentafel und Lernwerkstatt in der OS",
+        "id": "_623EqUbkz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_lfh966Jhm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Installation der Photovoltaikanlage an der Schule</em>",
+        "id": "_5MvKeUOsf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_xiLFXHhHR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unterrichtskürzungen aufgrund der unzureichenden Lehrerversorgung",
+        "id": "_ZA8pZ5G8P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_A5WcdrQIR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1998</strong>",
+        "id": "_ETG2BLcgR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_gwfiJAG2C",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_3OtGMmH4e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "20 Jahre Schüleraustausch mit Frankreich",
+        "id": "_FA3qgJX31",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_2f7t4Q00d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Förderverein kauft Schließfächer</em>",
+        "id": "_DOjpvE9ZC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_mBFXQuL17",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>1999</strong>",
+        "id": "_XDAumhTJM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_HWXMyq31Z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_i2Kh9eF0C",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Renovierung der Ruhezone</em>",
+        "id": "_M3Pn1kMWD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_iPeKaztUN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2000</strong>",
+        "id": "_YRo4UJrUw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_zECsLHihR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_GRmjhctTv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "15 Jahre KGO",
+        "id": "_f9pRC4FOi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_btODoteHf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Streuobstwiese und neue Teichanlage</em>",
+        "id": "_4DBdSMgsw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_tALR8ofrn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>neuer Computerraum an der OS mit Macs</em>",
+        "id": "_P3WZfRcI6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_t4jsBJe2m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>zwei neue Klassenräume an der OS</em>",
+        "id": "_U4yD4oPdR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_aEcPVcliB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Renovierung der 100er Räume</em>",
+        "id": "_FBw1XNsLt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_JlLyLJ71Q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2001</strong>",
+        "id": "_hUtku92vc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_wUsJ6IEyX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_grekR2VZa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Jubiläum - 25 Jahre KGS</strong>",
+        "id": "_RJPICRZPv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_uEdJyI4Eq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "neues Logo der Schule",
+        "id": "_FiBgimITp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_EBwlNkQah",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Neugestaltung des Lehrerzimmers</em>",
+        "id": "_uVXfmfW1f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_z4tLY7Vp2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "KGS – „Schule ohne Rassismus“",
+        "id": "_6HzzAJXDS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_WGVGDfY6I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schule erhält umfangreiche Fördermittel aus N 21 Projekt für neue Technologien",
+        "id": "_RTxMcjjfn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_boHKjUflN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schule in Teilbereichen vernetzt",
+        "id": "_nbqj2JBqG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_SsOg2u77g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "KGS-SchülerInnen erstmals bei der OLMUN vertreten",
+        "id": "_JPrsfckld",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_XlxLUyxM7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2002:</strong>",
+        "id": "_XIh1ee73p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_tYMx3nWAk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hans-Günter Speetzen geht nach 27 Schulleiterjahren in den Ruhestand",
+        "id": "_1fexMEbHQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_3V3y9LPRn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "versuchte Brandstiftung in der Orientierungsstufe",
+        "id": "_IwIcKSVbm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_aU6H95gzd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Spendenaktionen – Hilfe für die Opfer des Hochwassers in Dessau à 86000 Euro",
+        "id": "_hJPjBgXMx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_BNhpFdWGj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Praxistage 2002 – Stärkung der Hauptschule – Einbeziehung außerschulischer Lernorte",
+        "id": "_eAK1VrBYy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_rcvKu9Vkp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Einladung für einen Besuch bei dem ehemaligen Bundespräsidenten Johannes Rau im Schloss Bellevue zum Neujahrsempfang à „Lauf gegen die Flut“ – Würdigung der Menschen, die sich für das Gemeinwohl eingesetzt haben",
+        "id": "_OpwnvNgts",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_aQTbd8ecN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Großbrand in Halle Feldbreite am Heiligen Abend Halle über halbes Jahr unbenutzbar</em>",
+        "id": "_Yo0oOqVIJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_3jUWLayLa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2003</strong>",
+        "id": "_sKS9HlmQp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_uAZ3eXJA9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_2gq2g9B8H",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Renovierung alte Hausmeisterwohnung</em>",
+        "id": "_jzlxsCSmx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_lcOfYvWj6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Paul Spiegel, Präsident des Zentralrates der Juden in Deutschland, zu Gast an der KGS (erste Kontakte beim Neujahrsempfang in Berlin geknüpft)",
+        "id": "_0sUG2CCsY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_hmo803AWm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "geplante Reform: Jahrgänge 5 und 6 sollen zum August 2004 umgesetzt werden",
+        "id": "_sd8ku5xNo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "à",
+        "id": "_CF3qP9HOu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "ab Klasse 5 einen HZ, einen RZ sowie einen gymnasialen Zweig anbieten; Möglichkeit des Abiturs nach 12 Jahren ebenfalls vorhanden",
+        "id": "_3zHKBAxlA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_dozwU7Cch",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>20 Jahre Abitur</strong>",
+        "id": "_VwOooSdLH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_c4YpQTGbN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Dachsanierungen – 75000 Euro: Dach der Sporthallen</em>",
+        "id": "_Haz725fRp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_dQKJNeOU9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Gemeinde investiert: Erweiterung der naturwissenschaftlichen Räume sowie Flachdachsanierung über den naturwissenschaftlichen Räumen</em>",
+        "id": "_rhrhXe2Hu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_emkJwkX2g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Überlegung einer gymnasialen Außenstelle in Wiefelstede à laut Erlass nicht möglich à",
+        "id": "_nmCqjTYVq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eltern fordern ein eigenes Gymnasium, Diskussion einer Ausnahmegenehmigung – Antrag wird durch die Gemeinde Wiefelstede gestellt",
+        "id": "_P1CwiD2eX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "à",
+        "id": "_gAhTlf6rX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "SPD und CDU plädieren für eigenes Gymnasium in Wiefelstede; Außenstelle der KGS sei inakzeptabel à Bezirksregierung lehnt Antrag auf Gymnasium in Wiefelstede ab",
+        "id": "_LjZexo6RV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_aTUPiEKWl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "neue Sportgeräte für die Sporthalle – Investition von 17000 Euro der Gemeinde",
+        "id": "_SncXJ0Y1j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_k6SBc3y16",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Romani Rose (Vorsitzender des Zentralrates Deutscher Sinti und Roma sowie Pate der KGS als „Schule und Rassismus – Schule mit Courage“)",
+        "id": "_VGmBKkNsV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_RRstNgWpb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gerd Kip wird offiziell zum Gesamtschuldirektor",
+        "id": "_WaryOPaie",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_l7cnhsP7I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2004:</strong>",
+        "id": "_eZlR6jgay",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_6arNt6rw3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "152 SuS aus Wiefelstede wechseln nach Rastede zur KGS in den gymnasialen Zweig",
+        "id": "_4FkmicW0I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_664FZDHV4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Diskussion um Ganztagsschule zum Schuljahr 2004/2005 à Konzept der offenen Ganztagsschule – alle Fraktionen plädierten für eine Fortschreibung des von der Schule entwickelten Konzepts einer Ganztagsschule",
+        "id": "_6HdHK2URp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "à",
+        "id": "_wyeeZsTIZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Planungskonzept steht à 17.10.2004 – Fragebogenaktion zur Ganztagsschule, um Bedarf zu ermitteln",
+        "id": "_JH5NiqAzW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_yrUirOCRZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Planung langfristiger Zusammenarbeit von Wirtschaft und Schule",
+        "id": "_kMkIakFYm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "à",
+        "id": "_HerX2vAS3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "für bereits 2001 geplante Medienkonzept",
+        "id": "_72jJgFS5p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_mMrrJgvg8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vorbereitung Leihverfahren für das kommende Schuljahr (2004/2005)",
+        "id": "_V8UKaZ2jq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_nu88MU6Fs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "15. Verleihung des Bartholomäus-Schink-Preises (Thema: „Das Ammerland“)",
+        "id": "_txK7LWlwm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_wzTdy8j5f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Franz-Josef Müller (1924 – 2015), Zeitzeuge des Widerstandes gegen Hitler sowie Mitglied der „Weißen Rose“, in der KGS, spricht vor Oberstufenschülern über wichtige Ereignisse aus seiner Lebensgeschichte",
+        "id": "_iStIurCvH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_ByrASOYDJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "„Globolog“ (Projekte in Nord und Süd) – Kooperation von KGS Rastede und einer Schule im Raum San Fransisco Libre – im Mittelpunkt des Projekts stehen die Bienen",
+        "id": "_uSopAyUy6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_vLefYvrPK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung der Schule Feldbreite</em>",
+        "id": "_HezDqyqei",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_SjvjaYSJB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Spontan-Aktion: Familie vor Abschiebung bewahren à Unterschriftensammlung sowie Schüler im Kreistag, um Sonderregelung zu erlangen à",
+        "id": "_d3ZkHLJda",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Landrat muss ablehnen, da die rechtlichen Mittel ausgeschöpft sind",
+        "id": "_QlqodJHF9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_9Jko8GgW8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Frauke Uhlenbroch, Leiterin der bisherigen Orientierungsstufe, in den Ruhestand verabschiedet",
+        "id": "_pr80bfouC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_Cr5nwEti6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2005:</strong>",
+        "id": "_xX45NOGkS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_3pmvKhWhk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Spendenaktion für Seebeben-Opfer – Cafeteria-Einnahmen stellt der Förderverein der Schule den Opfern zur Verfügung für den Wiederaufbau der Schule – außerdem Schüleraktionen, wie Kuchenverkauf à Erlös von 6098 Euro",
+        "id": "_PYXIRLP28",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_bhjqqswBT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gründung eines neuen Kreisverbandes „Schüler-Union“ (= politisch interessierte Schüler der KGS – Thorsten Bohmann, Vorsitz), um Bildungspolitik kritisch zu begleiten",
+        "id": "_bQ1Fv9TJa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_bUc5BHpRs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kleiderordnung – Beschluss der Gesamtkonferenz: SchülerInnen und Lehrkräfte erscheinen in „angemessener Kleidung“, außerdem ist Kleidung mit fremdenfeindlichen, rassistischen oder gewaltverherrlichenden Motiven im Unterricht untersagt – grünes Licht auch vom Kultusministerium",
+        "id": "_dJ7ux9Abs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_g841qtY5q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>100000 Euro für die KGS (FB): Sanierung zweier naturwissenschaftlicher Räume, Bandschutztüren, Giebelverfugung sowie Anstricharbeiten</em>",
+        "id": "_ti1bg4pDh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_VyVT0XD7U",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>40000 Euro für WI zum Umbau zweier Küchenräume sowie Verglasung der Werkräume</em>",
+        "id": "_5mIhic2gJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_rp2LrjodP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ehrung für Engagement weit über den „normalen“ Unterricht hinaus durch CDU-Landtagsfraktion: GD Kip und didaktischer Leiter Dr. Bettien, stellvertretend für den Lehrkörper der KGS (Grund: Projekt „Offene Ganztagsschule“ vorangetrieben in enger Zusammenarbeit mit der Gemeinde, selbst dann realisieren, auch wenn keine zusätzlichen Lehrerstunden zur Verfügung gestellt werden können)",
+        "id": "_HATD3UEZs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_b6p2YEsU5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "39000 Euro Spenden für KGS-Medienkonzept",
+        "id": "_hUVWFrxQl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_tULISFVeH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Schulausschuss plädiert für KGS-Sanitäranlagen-Sanierung – Unterschriftensammlung</em>",
+        "id": "_p2LZvW7MT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_KmkebPF9F",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Landesregierung Hannover genehmigt KGS als Ganztagsschule, jedoch keine zusätzlichen Stunden oder mehr Personal à 48 Stunden Lehrerstunden fehlen, 28 Angebote können genutzt werden",
+        "id": "_HJtKhBkcp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_65bSoMcRs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Gemeinde will bauliche Voraussetzungen für die Umgestaltung der KGS als Ganztagsschule schaffen – Sanierung der alten Sporthalle FB, Umbau des Mensa-Bereichs du des Forums sowie weitere Umbauten in der Schule, darunter ein Medienraum – Bürgermeister Dieter Decker gibt für kommendes Frühjahr grünes Licht, mehr als 1,1 Mio. Euro</em>",
+        "id": "_fR579JvKl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_bXZFvr5DD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Bauausschuss stimmt Finanzkonzept für WC-Anlagen zu (ca. 100000 Euro) -&gt; vorausgegangen Unterschriftenaktion einer 8. Klasse</em>",
+        "id": "_rO4MXXdKN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_keNDhA614",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2006:</strong>",
+        "id": "_igKoe04BE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_L6D8CHWJe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>zwei Mio. Euro für Schulsanierung (Umbau Ganztagsschule) und Ausstattung – Blitzschutz, fünf Klassenräume, Dächer, Toiletten im EG und Laborbezüge sowie Sicherheitsschränke und Erneuerung der Deckenbeleuchtung; naturwissenschaftliche Räume werden verbessert (FB) und mit Unterrichtsmaterialien ausgestattet und Verbesserung zweier Lehrerküchen (Februar 2006)</em>",
+        "id": "_9qkP0qmo3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_gu1vyk6Oh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung der Heizzentrale und Lüftungsanlage für die Sporthallen – als Vorschlag diskutiert worden – mit Zustimmung</em>",
+        "id": "_k4UTlj9MS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_6HR9LlcyK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Horst Kowalski, Vertreter der Lehrerschaft: Wunsch nach mehr Parkplätzen – roter Parkplatz zwischen Thoradestraße und Bahnhofsstraße am Vormittag, bei der Sitzung des Schulausschusses im Rathaus – Bürgermeister Dieter Decker wies Vorschlag zurück</em>",
+        "id": "_EqmvL8aqs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_uGN29Rz1m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Urkunde für die Teilnahme der KGS am Bildungsprogramm des Landes",
+        "id": "_bICJNZyS0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_qVHNtmezE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erstes Zentralabitur – Jahrgang besser als die Vorgänger (bester Jahrgang seit fünf Jahren) – Notendurchschnitt: 2,84",
+        "id": "_Q50gEo3PT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_KhGhQUdIu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>neue Räume für die Schule – Standort FB, Kostenvolumen von 775000 Euro</em>",
+        "id": "_lgfVngpsk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_7IUA86rQw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung des Forums der KGS – Maßnahmen für 1,2 Mio. Euro</em>",
+        "id": "_7l3Qu3ucg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_m3hA2Dmw2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Cafeteria besteht seit 10 Jahren",
+        "id": "_XZ18OlAAt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_3MZ3no2CK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Schule FB: Installierung von Brandmeldeanlagen (95000 Euro)</em>",
+        "id": "_fxU1bZiBd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_Vr8JiGMTj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>neuer Trinkbrunnen im Forum der KGS FB – gesponsort von OOWV</em>",
+        "id": "_BJUrhMypr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_J4FgnShnL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung Altbau (ehemaliges Realschulgebäude) für 378000 Euro</em>",
+        "id": "_UvwcvwYJg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_byBM0Zd4z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2007:</strong>",
+        "id": "_UXktEZOes",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_GFs36jBgh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Einweihung der Umbaumaßnahmen im Zuge der Ganztagsschule, Oliver Ohlenbusch als Architekt (Rasteder Architektengruppe „omp“) erläutert die Sanierung – Motto: „Ein Herz für die Feldbreite“</em>",
+        "id": "_iLDLJaBuX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_BNQsEFFk9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "zusätzliche Lehrerstunden ab September (47,5)",
+        "id": "_Szs2G9hpG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_d3Svu0JEm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Neueröffnung der Schüler-Bibliothek",
+        "id": "_OHNML5gZX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_tmHhA2m4p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>SPD stellt Antrag: Flachdach (Musik- und Hauswirtschaftstrakt) soll durch Steildach ersetzt werden, zunächst Kostenermittlung</em>",
+        "id": "_OEZz0j5o0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_CB69oRUoA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "CDU stellt Antrag: Schließfächer für SchülerInnen der 5. und 6. Klassen",
+        "id": "_tGgXf4hC6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_BrcCZqoVZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ehrung der AG für den Frieden",
+        "id": "_qGPvwWVKe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_XNNdCa0yM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Cafeteria auch an der Feldbreite",
+        "id": "_CGzDtWKoG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_4uVzc1z8Z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Antrag der FDP-Fraktion: eigenverantwortliche Schule",
+        "id": "_xVPwUmSTk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_411gvzR1i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_4ICb83CHK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2008</strong>",
+        "id": "_JeD2CP4ml",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_evFIBHjQK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_JVuXRWdkF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Diskussion über die Einrichtung zweier Containerklassen am Standort FB – Wiefelstede möchte lieber eine Außenstelle des gymnasialen Zweigs in Wiefelstede</em>",
+        "id": "_DfOXLTr96",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_xXDZMDXY4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Einbruch in KGS – Medienraum, Schaden mehrere hunderttausend Euro; 16 und 17-jährige Täter, bei der Schule getroffen, um Alkohol zu trinken und sich dann spontan zu einem Einbruch entschieden",
+        "id": "_PINSMOaOr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_d1o2E3moF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Gemeinde kauft Container für FB und vergibt Auftrag, 121000 Euro, 11300 Euro für Fundament und Anschlüsse</em>",
+        "id": "_jBibIvDzL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_fqLoxli5j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung: Photovoltaikanlage auf dem Dach der FB installiert, zwei Containerklassenräume (142 500 Euro), im OG zwei Klassenräume saniert (30 000 Euro); WI: Windfang am Eingang in der Bahnhofsstraße saniert und zweiter Rettungsweg an der Thoradestraße angelegt – Kosten fast 100 000 Euro; Flachdach WI wird ebenfalls saniert für 313 000 Euro, Sanierung der WC-Räume im 1. OG (40 000 Euro)</em>",
+        "id": "_G0y3OmgJo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_Y8Mmjgy5x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erstmals Spanisch-Austausch mit SchülerInnen aus Alpedrete",
+        "id": "_7lfjNLkCU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_dHGP0yb8V",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2009</strong>",
+        "id": "_FreAcVjnv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_EjQx6ab5A",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_NmkEnmxht",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "neuer Realschulzweigleiter: Andreas Kleeberg",
+        "id": "_VAKNKmvTw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_ztRVpBN6o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Personalmangel in der Cafeteria – anfangs 60 Eltern, nun noch 16",
+        "id": "_8pZ54JcNd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "à",
+        "id": "_UaZjoVltb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Konsequenz: montags kein Essen mehr",
+        "id": "_9ivagBiZZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_POWtxh7Cq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2010</strong>",
+        "id": "_MBOd5KghR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_RthoMeNWL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_BzaFg6Ri7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sponsorenlauf für neue Bewegungsangebote für SchülerInnen und LehrerInnen – neue Geräte und kleine Sportanalagen im Innen- und Außenbereich sollen Jugendliche animieren, sich noch mehr zu bewegen à 33 000 Euro",
+        "id": "_3A8bitMrj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_gF9kitPRH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "20 Jahre Bartholomäus-Schink-Preis-Verleihung",
+        "id": "_SLsNYGX6N",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_8BU56uAiU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierungen: WI – Einbau neuer Fenster auf den Fluren im Altbau, Renovierungs- und Instandsetzungsarbeiten in sieben Klassenräumen, neue Akustikdecken, Heizkörper, Anstriche und Bodenbelege; FB – energetische Sanierung der Süd-West-Fassade des Gebäudes, zusätzliche Dämmung, Sonnenschutzanlagen; Mehrzweckhalle FB – Ersetzung der Dachoberlichtbänder durch neue Oberlichtbänder</em>",
+        "id": "_IM9KGgd9T",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_kpHs1kfyB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Leitung der KGS-Außenstelle Feldbreite: Agnes Kleinhaus übernimmt von Dr. Stefan Kanngießer die Leitung",
+        "id": "_xa3GE8hPY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_pMDRptpzi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auszeichnung für nachhaltige Projekte – FB: Umweltschule in Europa, sichtbares Zeichen ist eine Fahne auf dem Schulgelände zu sehen ist; Schulgarten-AG (Sonja Eitel-Harms) und Imker-AG (Nicola Reershemius)",
+        "id": "_xUvjtsAs5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_nFXpHNwvL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2011</strong>",
+        "id": "_t4Cue0Pjb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_nQqlphYSA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_ZIwmW6dXI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Veränderungen der Verträge der Honorarkräfte an der KGS, die zum Beispiel für die HA-Betreuung eingesetzt werden à Konsequenz: viele Förderangebote müssen gestrichen werden; außerschulische Fachkräfte akzeptieren neue, befristete Arbeitsverträge mit geringerem Entgelt nicht – 168 SchülerInnen sind davon betroffen",
+        "id": "_Di3tvgh6i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_9u1k5Thb5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Amoklauf-Drohung auf Schultisch („Amok – 10.02.2011“)",
+        "id": "_07nzJdGCs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_coXiDy7q9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Diskussion in der Politik (Schulausschuss) über Oberschule sowie Schulhofkonzept KGS FB, die Sanierungs- und Modernisierungsbedarf haben</em>",
+        "id": "_0InhDRdVG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_ghmB1eYa6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "KGS auf dem Weg zur „bewegten Schule“ – Sponsorenlauf brachte mehr als 30 000 Euro ein",
+        "id": "_6RGdrnXR1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_HbrKNequY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Doppeljahrgang Abitur",
+        "id": "_pO5mzoYwE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_N6Kxr0R8m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Errichtung des Bläserkurses – Sponsoren übernehmen Kosten für Instrumente",
+        "id": "_TVq0TlcRi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_h08ZkCjm0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Deckeneinsturz Containerklassen</em>",
+        "id": "_u1m3cvBQM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_ZEv2KkyHp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "10 Jahre Schule ohne Rassismus – Schule mit Courage",
+        "id": "_zAnNdvpU0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_Kx4EKmtFw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2012</strong>",
+        "id": "_6A2ZOWu7v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_3CWmXdsjz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_RXrP529qg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sport erstmalig auch als Leistungskurs – KGS als einzige Schule mit diesem Angebot",
+        "id": "_8k1f28OWq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_HhemRyLwp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Schulausschuss hat sich einstimmig auf eine Neugestaltung des Schulhofes FB, Geräteaus für die Schulsportanlage FB wird errichtet – Kosten 50 000 Euro</em>",
+        "id": "_sMA3d26go",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_AXYurX1cp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>offizielle Einweihung der Sportanlagen FB</em>",
+        "id": "_eEzBdPsgg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_l2iuXIhJZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ruhestand Gerold Windels als Hauptschulzweigleiter und Rektor",
+        "id": "_vnDz0YhBE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_lCpMRAWA3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "7 000 Euro Spende der Firma Robert Kraemer in Hahn-Lehmden anlässlich des 100-&nbsp;jährigen Jubiläums für Mikroskope, Gasbrenner sowie Magnetrührer",
+        "id": "_uPjsBuQQh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_vfPorsWdY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "33 Sitzbänke der Schülerfirma – Holzfirma (30 SchülerInnen des HZ und RZ sowie Jörg Lehmann)",
+        "id": "_ZuWnRnHoW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_h8lWZ47wB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2013</strong>",
+        "id": "_kiUzCis2O",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_NTfHTE484",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_HWyndwfaL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>nach drei Jahren Planungen und Diskussionen Fertigstellung des Schulhofs FB; Investition von 350 000 Euro</em>",
+        "id": "_zb7Lterj8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_T5RoCLY0k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung und behindertengerechte Gestaltung der Toilettenanlagen in der FB im Zuge der Inklusion (110 000 Euro)</em>",
+        "id": "_7lk1oPSXP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_J0NraCLnb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>neue Lüftungsanlage für Gebäude in der Thoradestraße im Zuge der energetischen Sanierung (neue Fenster wurden eingesetzt und die Außenwände wurden zusätzlich gedämmt)</em>",
+        "id": "_hfOxWYK2h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_2paOGaw7D",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Streichung der Klassenfahrten und Feiern usw. – Landesregierung will Arbeitszeit der Gymnasiallehrer erhöhen (eine Unterrichtsstunde pro Woche) sowie Rücktritt der Zusage, Lehrer ab 55 Jahre eine Stunde und Lehrer ab 60 Jahren zwei Stunden weniger zu arbeiten, Kollegium protestiert gegen Vorhaben; DB-Beschluss: sämtliche freiwillige Leistungen sollen ausgesetzt werden ab dem Schuljahr 14/15 à",
+        "id": "_Nc0QwlAaz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bildungsstreit",
+        "id": "_uQ9IqiE1W",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_aUC0r9A39",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2014</strong>",
+        "id": "_2jtyw5GP2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_dPkKmtCCT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_AQb8u85YY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Haltestellen-Umbau in der WI vom Land genehmigt</em>",
+        "id": "_S5ym2wDfr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_uBjtrtzlW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "privat organisierte Klassenfahrten – engagierte Eltern organisieren Klassenfahrten für SchülerInnen",
+        "id": "_n7qFFTkSw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_jL7fw0Tn2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "SchülerInnen verweigern Tafeldienst, Klassenbücher werden nicht mehr geführt, Aussetzung der Mitarbeit in Schulgremien à Reaktion auf Streichungen der Lehrerschaft",
+        "id": "_KUtQYbV7M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_U0eXHEeqy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2015</strong>",
+        "id": "_vhzGcIPbz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_84SopXGno",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_O1UdFr1eP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "SchülerInnen aktiv bei einer Demo in Hannover; Schilderung der Problematik der Streichungen der Klassenfahrten",
+        "id": "_9MWS28br3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_eX3cfA2zh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "25-jähriges Jubiläum des Fördervereins",
+        "id": "_4uhUpP4GY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_uWsqh4Vsu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Inklusion: Schaffung baulicher Voraussetzungen – Plattformenlift, der Gehbehinderten den Zugang in die obere Etage ermöglichen soll (50 000 Euro zahlt die Gemeinde)</em>",
+        "id": "_ym3Q7BhWP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_XsHzXlUCN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Novellierung des Schulgesetzes (13. Jahrgang erstmals wieder im Jahr 2020/21) hat auch Auswirkungen auf die baulichen Voraussetzungen",
+        "id": "_PTaOTLSdD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_u9HsML86q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>neuer Fußboden im KGS-Forum und Austausch der Rohrleitungen, Renovierung der Klassenräume (202 sowie 203) – neue Akustikdecke sowie neue Heizkörper (115 000 Euro)</em>",
+        "id": "_b2G4kvG8O",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_ekH7orDhz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Raumnot: Verwaltung schlägt Anbau von vier Klassenräumen an der WI vor (100 000 Euro)</em>",
+        "id": "_z4ms7SIvc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_JSdYcrxGk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2016</strong>",
+        "id": "_Jd3FrLUQY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_nuNYCWiAA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_eG9b0Ksuf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sprachlernklasse startet zum 01.02.",
+        "id": "_kuHAm5LtG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_gbvqmHyZ7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schülervertretung wird mit Harry-Wilters-Preis von der FDP ausgezeichnet",
+        "id": "_xms1bswFY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_AYG7QFE2s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Schulausschuss spricht sich für Erweiterung um fünf neue Klassenräume, den Umbau der 190er Räume zu Klassen- und Gruppenräumen sowie die Schaffung behindertengerechter sanitärer Anlagen aus, zwei Containerklassen auf dem Schulhof (85 000 Euro für Container)</em>",
+        "id": "_ebDvPSGKd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_kM20iAs2i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schülerfirma „Sofa-Team“ ist Preisträger des Johann-Bünting-Förderpreises 2016 – Preisgeld von 5000 Euro – Alexander von Essen hatte die Schülerfirma für den Preis vorgeschlagen (Sofa = Soziale Dienste für ältere Menschen: im Alltag begleiten, Spiele spielen, spazieren gehen, basteln, klönen, vorlesen, Botengänge erledigen usw.)",
+        "id": "_qQa9HiAtD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_EEDYKDBL6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "zweite Sprachlernklasse nach den Sommerferien genehmigt",
+        "id": "_X5DiWfhF2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_V3UeRmcCI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung des unter Denkmalschutz stehenden Ziegeldaches der Turnhalle WI: Mängel an Dacheindeckung, Gesimsen, Dachausbauten</em>",
+        "id": "_nrvFwfiyX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_OnnW2FeUJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>neuer Kletterpark auf dem Schulhof der FB – Kosten 20 000 Euro/ 25 000 Euro</em>",
+        "id": "_Qwg0EZsZl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_10Rc200fz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Fassade der KGS WI erneuert: Sanierung der Gebäudehülle, Austausch von Fenstern sowie Sonnenschutz, Modernisierung der Wärmedämmung sowie des Flachdachs (1/2&nbsp;Mio. Euro)</em>",
+        "id": "_VAZvD4TZr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_xko4nFhdr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>neues Gebäude mit fünf Klassenräumen für 2,35 Mio. Euro (Baubeginn: Sommer 2017; Fertigstellung Sommer 2018)</em>",
+        "id": "_CbmgbhHbG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_UqS8H9QbG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2017</strong>",
+        "id": "_1XJQyQlUt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_U8BPMuiWq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_AIhgUgdKy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Modernisierung der Licht- und Soundtechnik der Aula</em>",
+        "id": "_3OclU2QCW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_yXcoMX4de",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Tablets für die KGS von der kvhs für die Inklusion – Lehrkräfte erhalten Schulungen",
+        "id": "_5qm0fbaNg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_lvXMBu1Fm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>40 Jahre KGS</strong>",
+        "id": "_DnfUmnu5u",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_mByzUahvy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Instrumenten- Spende vom Lions-Club (1000 Euro)",
+        "id": "_nh9AvmjmY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_UvaDHPgA6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Baubeginn des neuen Schulgebäudes in der WI</em>",
+        "id": "_CcblmbQRU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_H7aPmFubu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schülerbücherei in der FB – Spende vom Förderverein 500 Euro",
+        "id": "_uzAm2dbIT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>&nbsp;</strong>",
+        "id": "_sNLc9um6E",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2018</strong>",
+        "id": "_Uv9ILT6Ze",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_9iviWa2kw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_vUWbdFVYy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Digitalisierung als Thema im Fachausschuss – Systemadministratoren werden an Schulen benötigt, Anschluss an leistungsfähiges Breitbandnetz",
+        "id": "_7sfXKyzfq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_qHHxwzkcL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "40 Jahre Schüleraustausch mit Frankreich",
+        "id": "_H2ZEscHFG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_uNp3q9F0t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2019</strong>",
+        "id": "_UMBjdpOyO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":",
+        "id": "_TIT6jsS8c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_J9yPLJvk4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Susanne Windels als stellvertretende Schulleiterin (seit 2004) in den Ruhestand verabschiedet",
+        "id": "_4TBQv7wGt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_3otfjzTYy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Fridays for futures – Klimastreik geplant: SchülerInnen streiken für Klimaschutz",
+        "id": "_sywAIz0Ed",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_XuVy4PFrt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auszeichnung der AG für den Frieden durch Kultusminister Grant Hendrik Tonne im Gästehaus der Landesregierung in Hannover – Sonderpreis für Schulentwicklung im Zeichen von Friedens- und Demokratiebildung",
+        "id": "_lJJKFaJID",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_DkZehBD09",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Einweihung barrierefreier Neubau im März (2,8 Mio. Euro)</em>",
+        "id": "_ZXVBBuWFx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_gNggainAo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung der Fassade im zweigeschossigen Gebäudetrakt Süd der KGS WI: Erneuerungen der Aluminiumfenster sowie Sonnenschutzanlagen, Modernisierung der Außenfassade mit neuer Wärmedämmung sowie Erneuerung der Fassadenverkleidung (145 000 Euro)</em>",
+        "id": "_K67JZfEl2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_fl6FOG86c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "erneute Demo für ein besseres Klima",
+        "id": "_tx3JRWGjG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_GlWUML9es",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Sanierung der Toilettenanlagen (12 000 Euro) sowie Modernisierung der Veranstaltungstechnik in der Aula (103 600 Euro)</em>",
+        "id": "_06w9kJhqP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_xKWPzqVyv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "dritte Fridays for future - Demo",
+        "id": "_fnY4ZN3cu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_mX4w2BbSt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Entlassung des Schulleiters Gerd Kip (17 Jahre als Schulleiter)",
+        "id": "_wvN3i13iw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "à",
+        "id": "_h1G1HkkqO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "kommissarische Leitung: Oberstufenkoordinatorin Claudia Berger sowie stellvertretender Schulleiter Carsten Niehaus",
+        "id": "_ASeT6VdKF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_Xle46IBJb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>erneut mehr Platz benötigt – Gebäude links neben dem Eingang der KGS WI – stark sanierungsbedürftig, benötigt werden außerdem zusätzliche Informatikräume (ab 2023 soll Informatik als Pflichtfach eingeführt werden, so Niedersachsens Kultusminister Tonne)</em>",
+        "id": "_3mpQp97G9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_Xl5ezRNBB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "vierte Fridays for future - Demo mit 800 Menschen",
+        "id": "_r3AJbrEVb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_SwZoOSP7c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Preis für die AG „Für den Frieden“ durch das Bündnis für Demokratie und Toleranz das zivilgesellschaftliche Engagement der SchülerInnen für die Unterstützung der Emanzipation der Sinti und Roma",
+        "id": "_CjXfDGHIb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_Q7DgTqQbI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Fridays for futures, fünfte Aktion: Dye-In (Totstellen) an Kreuzungen",
+        "id": "_MZuXajpBs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_ve4lS59w6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Claudia Berger als neue Schulleiterin der KGS zum 01.02.2020",
+        "id": "_FialemE9Z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_S7G97Mz9l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "kein Abitur in diesem Schuljahr",
+        "id": "_ULkKob7iv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_OdvNO8a6k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>mobile Klassenräume (Container) – ein Erweiterungsbau ist teuer und nimmt viel Zeit in Anspruch – Übergangslösung: zwei Container, die bis dato bei der FB stehen, sollen zu der WI kommen, an der FB sollen vier neue Klassenräume in Form von Containern entstehen</em>",
+        "id": "_cTjJksVm7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "v&nbsp;",
+        "id": "_3O8N3q5Q9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Corona-Krise: zunächst 50 SchülerInnen und Schüler in der Schule – ungewohnt für alle",
+        "id": "_xcc8m3BW0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_HZ98cYfmX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_C5h7To8QM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_k8K2yUdrw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>&nbsp;</em>",
+        "id": "_fMz9b81LV",
         "type": "paragraph"
     }
 ]
