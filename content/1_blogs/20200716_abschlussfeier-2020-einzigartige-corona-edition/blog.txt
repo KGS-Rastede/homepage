@@ -1,0 +1,86 @@
+Title: Abschlussfeier 2020 – einzigartige Corona-Edition
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Wie sieht eine Abschlussfeier in Zeiten der Covid-19-Pandemie aus? Geht das überhaupt?",
+        "id": "_L5rOXbjmd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ja, und das konnte man am Freitag, den 03.07.2020, gleich dreimal bestaunen. Um 13 Uhr, 15 Uhr und 17 Uhr wurde den Absolventen von Haupt- und Realschulzweig feierlich und in Anwesenheit der Eltern ihr Zeugnis überreicht. Corona-gerecht mit dem gebotenen Abstand und unter freiem Himmel auf dem Schulhof. Sogar Petrus spielte mit: Nur zwischendurch gab es eine klitzekleine Schauer…",
+        "id": "_X3viMIzfE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_j27dqaaaj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blogs+abschlussfeier-2020-einzigartige-corona-edition/files/abschluss5.jpg",
+            "id": "blogs/abschlussfeier-2020-einzigartige-corona-edition/abschluss5.jpg",
+            "filename": "abschluss5.jpg",
+            "ratio": 1.5,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_wqfctytha",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Nach einem Grußwort der Schulleiterin verlasen die Schulzweigleitungen Frau Pannenborg und Herr Kleeberg das Grußwort des Bürgermeisters der Gemeinde Rastede. Sodann entließen die Klassenlehrerinnen und Klassenlehrer ihre Klassen mit sehr persönlichen Worten. Jede Klasse erhielt in einem würdigen Rahmen ihre Zeugnisse. Auch die Schülerinnen und Schüler fanden nette und aufrichtige Worte des Dankes für ihre Klassenlehrerinnen und Klassenlehrer. Man merkte deutlich, dass ihnen der Abschied schwerfiel.",
+        "id": "_3lmbjc1e4",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- abschluss1.jpg
+- abschluss5.jpg
+- abschluss3.jpg
+- abschluss2.jpg
+- abschluss4.jpg
+
+----
+
+Date: 2020-07-16 07:20
+
+----
+
+Author: BE
+
+----
+
+Tags: Abschluss, Schulleitung
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
