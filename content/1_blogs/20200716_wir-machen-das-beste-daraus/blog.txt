@@ -1,0 +1,74 @@
+Title: Wir machen das Beste daraus!
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Noa und Junis aus Jahrgang 5 wollen euch mit der folgenden Videobotschaft Mut machen, aus dieser seltsamen Corona-Zeit das Beste zu machen. Sie haben jede Menge Ideen, wie man auch in der Pandemie den Sommer genießen kann.",
+        "id": "_iTa2UV0dH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_cj8z3ujx9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "(video: WeNoFuerHome.mp4)",
+        "id": "_zj06aauw7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_09qbditcf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Video haben Noa und Junis für das WeNo-Projekt #StayHealthyStayWeNo gedreht. Eine Webseite und eine Ausstellung mit allen kreativen Werken zum Projekt gibt es zu Beginn des nächsten Schuljahres. Wenn ihr auch noch Ideen habt, könnt ihr gern in den Sommerferien selbst kreativ werden und Videos drehen, Geschichten schreiben, Comics zeichnen, Podcasts aufnehmen, Fotografieren, Malen, Dichten, Erinnerungen in einen Schuhkarton kleben, …",
+        "id": "_hZ8ceYKBW",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-07-16 07:20
+
+----
+
+Author: AP
+
+----
+
+Tags: Corona, WuN
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
