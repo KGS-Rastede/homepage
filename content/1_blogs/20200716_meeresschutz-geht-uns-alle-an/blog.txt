@@ -1,0 +1,93 @@
+Title: Meeresschutz geht uns alle an
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<em>„Verstanden haben wir alle, dass das die Meere verschmutzt sind, aber dass es so schlecht um unsere Meere steht, hatte nicht jeder von uns so klar vor Augen.“</em>",
+        "id": "_kcaak1gzy",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_mc4lmle6k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir Menschen neigen dazu uns viel Wissen anzueignen und dennoch handeln wir nicht dementsprechend. „Wissen über das Thema Meeresverschmutzung &amp; Plastikkonsum haben wir viel! Tun dahin, tun wir zu wenig.“ So aber nicht die Klasse der 8E3. Diese wollte selbst aktiv werden und einen kleinen Beitrag zum Schutz der Umwelt leisten. So ging es mit Handschuhen und Müllbeuteln in den Rasteder Park, um Müll zu sammeln. Sicherlich auf den ersten Blick sieht der Park recht sauber, schaut man allerdings etwas genauer hin so zeigt sich doch ein anderes Bild. Aber was hat Müllsammeln im Rasteder Park und die zunehmende Meeresverschmutzung miteinander zu tun? Diese Frage könnt ihr nach dem Lesen des folgenden Artikels selbst beantworten.",
+        "id": "_sjnwzubxn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_1ps9zbil0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Marie Dreyer hat für euch einmal zusammengefasst (<em><a href=\"http://kirby/panel/pages/blogs+meeresschutz-geht-uns-alle-an/files/artikel_marie_dreyer.pdf\">artikel_marie_dreyer.pdf</a>), </em>was ihr über das Thema „Verschmutzung der Meere“ wissen solltet.",
+        "id": "_gKOlWj8Fa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Denkt darüber nach und handelt!",
+        "id": "_jks7x9nfF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wenn ihr mehr über das Thema erfahren möchtet dann schaut bei <a href=\"https://www.rastedeforfuture.de/es_geht_um_meer_29.html\">https://www.rastedeforfuture.de/es_geht_um_meer_29.html</a> <a href=\"https://www.instagram.com/esgehtummeer/\">https://www.instagram.com/esgehtummeer/</a> vorbei.",
+        "id": "_IwQtURMFJ",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- meer3.jpeg
+- meer4.jpeg
+- meer1.jpeg
+- meer2.jpeg
+
+----
+
+Date: 2020-07-16 07:10
+
+----
+
+Author: Es geht um Meer
+
+----
+
+Tags: AGs, esgehtummeer
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads:
+
+- artikel_marie_dreyer.pdf
+
+----
+
+Fotoansicht: gallery
