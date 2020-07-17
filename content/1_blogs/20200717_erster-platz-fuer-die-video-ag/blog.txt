@@ -1,0 +1,64 @@
+Title: Erster Platz für die Video-AG
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "\u00dcber zwei Jahre arbeitete die Video-AG an dem Film \u201eSicherheitsbelehrung\u201c. Im Januar konnte das Projekt endlich fertiggestellt werden und beim Wettbewerb \u201eFilmklappe Oldenburg\u201c eingereicht werden. Die Preisverleihung im M\u00e4rz musste wegen der Corona-Bedingungen leider ausfallen. Dennoch freuten wir uns sehr \u00fcber die Nachricht in der Kategorie \u201eErkl\u00e4rfilm\u201c den ersten Platz erreicht zu haben. Erst jetzt konnte die Preis\u00fcbergabe im famili\u00e4ren Rahmen stattfinden.",
+        "id": "_7Ss8YPT2B",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der Film zeigt in zahlreichen Szenen, was beim Experimentieren in den naturwissenschaftlichen R\u00e4umen alles schief gehen kann. Es knallt, brennt und zischt und man muss so manchen Filmtod miterleben, weil wieder einmal die Sicherheitsregeln nicht eingehalten wurden. Neben dem schauspielerischen Talent \u00fcberzeugt der Film auch mit seinen zahlreichen Effekten, mit denen sicher gestellt wurde, dass unsere M\u00f6bel und NTW-R\u00e4ume am Ende doch unversehrt blieben. Fragt euren NTW-Lehrer nach dem Film, wenn er zu Schuljahresbeginn wieder mit seiner \u00f6den Sicherheitsrede anf\u00e4ngt, oder klickt hier:<br><a href=\"https://www.youtube.com/watch?v=TL2Xm5Tgd78\">https://www.youtube.com/watch?v=TL2Xm5Tgd78</a>",
+        "id": "_3SoSqm73q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der NWZ wurde \u00fcber die (entfallene) Preisverleihung berichtet:<br><a href=\"https://www.nwzonline.de/oldenburg/kultur/oldenburg-wettbewerb-filmklappe-oldenburg-film-ab-fuer-junge-preistraeger_a_50,7,3463051373.html\">https://www.nwzonline.de/oldenburg/kultur/oldenburg-wettbewerb-filmklappe-oldenburg-film-ab-fuer-junge-preistraeger_a_50,7,3463051373.html</a>",
+        "id": "_T0nuUBv7H",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- filmklappe.jpg
+
+----
+
+Date: 2020-07-17 09:40
+
+----
+
+Author: WEU
+
+----
+
+Tags: AGs
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

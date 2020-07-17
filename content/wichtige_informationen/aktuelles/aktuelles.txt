@@ -5,6 +5,16 @@ Title: Banner für aktuelle Ereignisse
 Banner:
 
 - 
+  titel: >
+    Informationen zum Schuljahresende und
+    zum Beginn des neuen Schuljahres
+  text: 'Hier findet man Informationen zur Zeugnisausgabe und zum Ende des Schuljahres, außerdem erste Informationen zum Beginn des neuen Schuljahres.  Schuljahresende_1920.pdf  Im Laufe der Ferien, insbesondere in der letzten vollen Ferienwoche werden wir hier genaue Informationen zum Start in das neue Schuljahr geben. Wir planen zunächst den Start in ganzen Klassen. Bereits am ersten Schultag wird es wieder ein Mittagessen geben, das man am Tag vorher bestellen kann. Die Cafeteria wird vormittags voraussichtlich noch nicht öffnen können.'
+  datei:
+    - schuljahresende_1920.pdf
+  link: ""
+  datevon: 2020-07-15 08:00
+  datebis: 2020-08-30 08:00
+- 
   titel: Schulschließung wegen Corona 2019
   text: >
     Lorem ipsum dolor sit amet, consetetur
