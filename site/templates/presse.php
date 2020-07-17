@@ -29,17 +29,20 @@ foreach ($list as $item) : ?>
   }
   ?>
 
-  <h2 class="title">
-    <a href="<?= $item->link() ?>">
-      <?= $item->name()->html() ?>
-    </a>
+<dl class="list-inline">
+  <dt class="list-inline-item h3">
+      <a href="<?= $item->link() ?>">
+        <?= $item->name()->html() ?>
+      </a>
+  </dt>
+  <dd class="list-inline-item ml-5">
+        <div class="h5 ">
+          <span class="badge badge-pill bg-secondary"><?= $quelle ?></span>
+          Datum: <?= $item->datum()->html() ?>
+        </div>
+  </dd>
+</dl>
 
-
-      <div class="text-right">
-        <span class="badge badge-pill bg-secondary"><?= $quelle ?></span>
-        Datum: <?= $item->datum()->html() ?>
-      </div>
-  </h2>
 
   <p><?= $item->anfang() ?></p>
 
