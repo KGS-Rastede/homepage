@@ -5,16 +5,10 @@
 
 
 
-<h2 class="title">
-    <?= $page->title() ?>
-</h2>
 
 <h5 class="description">
     <?= $page->text() ?>
 </h5>
-
-
-<h1 id="sek">Sekretariate</h1>
 
 <div class="table-responsive-sm">
     <table class="table table-striped">
