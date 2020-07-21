@@ -27,7 +27,8 @@ foreach ($list as $item) : ?>
       <p class="card-text">
         <?= $item->Text()->blocks()->excerpt(250) ?>
       </p>
-      <a href="<?= $item->url() ?>" class="btn btn-secondary">weiterlesen</a>          
+      <a href="<?= $item->url() ?>" class="btn btn-secondary">weiterlesen &#8594;
+</a>          
     </div>
   </div>
   
