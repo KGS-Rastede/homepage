@@ -8,6 +8,11 @@ options:
     fachleiter: true
     admin: true
 
+
+subtitle:
+  type: text
+  label: Untertitel
+
 columns:
   main:
     width: 2/3

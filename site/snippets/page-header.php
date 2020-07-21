@@ -37,7 +37,7 @@
       </h1>
 
       <p class="lead">
-        <?= $page->subtitle() ?>
+        <?= $page->heading() ?>
       </p>
     </div>
   </div>

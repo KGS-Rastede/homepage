@@ -2,9 +2,6 @@
 
 <?php snippet('page-header') ?>
 
-
-<h2><?= $page->heading() ?></h2>
-
 <?php snippet('sidebar') ?>
 
 <?php if ($page->lehrplaene()->isNotEmpty()) : ?>
