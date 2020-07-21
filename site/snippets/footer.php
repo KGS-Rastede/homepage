@@ -109,7 +109,7 @@
       <ul>
         <li><a class="text-muted" href="<?= page('allgemeines/downloads')->url() ?>#schulbuchlisten-1">Schulbuchlisten</a></li>
         <li><a class="text-muted" href="#">Schulordnung</a></li>
-        <li><a class="text-muted" href="<?= page('allgemeines/wichtigelinks')->url() ?>">wichtige Links</a></li>
+        <li><a class="text-muted" href="<?= page('allgemeines/wichtigelinks')->url() ?>">Wichtige Links</a></li>
       </ul>
     </div>
     <div class="col-md-3">
