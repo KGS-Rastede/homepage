@@ -1,82 +1,68 @@
-# Kirby Plainkit
+# Einrichten
+## Sinnvolle Software
+### Editor
+* Als Editor verwende eignet sich [VS Code](https://code.visualstudio.com/).
+* Unter Linux verwende ich schon immer [Vim](https://www.vim.org/), ein besserer Editor kann kaum existieren :-)
+* Atom (https://atom.io/) ist auch super, technisch VS Code sehr ähnlich
+* Zurecht schwören viele auf Sublime (https://www.sublimetext.com/
+* Notepad++ ist ein einfacher zubeherschender Editor, der auf jeden Fall auch ok ist. https://notepad-plus-plus.org/ 
 
-Kirby is a file-based CMS.
-Easy to setup. Easy to use. Flexible as hell.
+### Quellcode verwalten
+Um den Quellcode zuverwalten braucht man [Git](https://git-scm.com/). Das kann man einfach installieren, Visual Code kann das dann direkt benutzen. Man (jedenfalls ich) benutzt Git dann also nicht, sondern direkt aus VS Code heraus. Auch andere sehr gute Editoren (Vim, Sublime, Atom, ...) unterstüzten Git direkt, denn Git ist de fakto ein Standard geworden. Jeder benutzt es.
 
-## Trial
+# WebServer
+Nginx ist heutzutage von vielen bevorzugt. Apache ist natürlich genauso gut. Wir brauchen *keinen MySQL-Server* (oder irgendeinen anderen Datenbankserver), denn Kirby nutzt intern kein SQL.
 
-You can try Kirby on your local machine or on a test
-server as long as you need to make sure it is the right
-tool for your next project.
+## PHP
+Kibry setzt technisch gesehen nur PHP 7.2+ voraus. 
 
-## Buy a license
+Man muss PHP aber nicht direkt installieren, denn PHP kommt als Teil vom Wamp64 mit.
 
-You can purchase your Kirby license at
-<https://getkirby.com/buy>
+Gegebenfalls muss man aber noch den Pfad ("PATH") unter Windows einrichten. Das folgende Video zeigt, wie das geht. Der korrekte Pfad ist bei meiner Installation:
 
-A Kirby license is valid for a single domain. You can find
-Kirby's license agreement here: <https://getkirby.com/license>
+```
+C:\wamp64\bin\php\php7.3.12
+```
 
-## The Plainkit
+https://youtu.be/83SccoBYSfA?t=80
 
-Kirby's Plainkit is the most minimal setup you can get started with.
-It does not include any content, styles or other kinds of decoration,
-so it's perfect to use this as a starting point for your own project.
+## Kirby installieren
+Es gibt eine gute und ausführliche [Anleitung](https://getkirby.com/docs/guide/quickstart), die 1 zu 1 funktioniert. 
 
-## The Panel
 
-You can find the login for Kirby's admin interface at
-http://yourdomain.com/panel. You will be guided through the signup
-process for your first user, when you visit the panel
-for the first time.
+### Linux
+Unter Linux gibt es bei jeder Distribution Nginx bzw. Apache. Es gibt Anleitungen wie Sand am Meer. 
 
-## Installation
+### Windows
+Windows ist sicherlich nicht direkt für Entwickler erstellt worden, ich habe fast 20 Jahre nur unter Linux programmiert. Mittlerweile ist aber Git auch unter Windows gut unterstützt und auch die WebServer laufen ganz gut. 
+Ich verwende [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/). Im Wesentlichen muss man dann alles installieren (MySQL gerne weglassen).
 
-Kirby does not require a database, which makes it very easy to
-install. Just copy Kirby's files to your server and visit the
-URL for your website in the browser.
+## Git
+Die neue Homepage wird zumindesten mit Git verwaltet werden. Jeder, der mitmachen möchte, sollte also einen Account bei unserem Git-Server haben. Bitte also auf [den Server](https://git.kgsrastede.de/KGS-Rastede/homepage/) gehen und einen Account anlegen. 
 
-**Please check if the invisible .htaccess file has been
-copied to your server correctly**
 
-### Requirements
+## CSS
+Wir müssen natürlich CSS verwenden. [Bootstrap](https://getbootstrap.com/) ist ein sinnvolles, bekanntes System. 
 
-Kirby runs on PHP 7.1+, Apache or Nginx.
+# Wie UNSERE Homepage runterladen
+Ich habe Kirby soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann könnt ihr den Code mit folgenden Befehlen runterladen:
 
-### Download
+```console
+git clone https://git.kgsrastede.de/KGS-Rastede/homepage
+git config --global user.name "Max Mustermann"
+git config --global user.email "max@mustermann.de"
+```
 
-You can download the latest version of the Plainkit
-from https://github.com/getkirby/plainkit/archive/master.zip
+Aber Achtung, ihr müsst natürlich *eure Zugangsdaten* eingeben, nicht die oben genannten.
 
-### With Git
+In Git fehlt ein Unterordner namens 'vendor'. Man mussn noch den Befehl 
 
-If you are familiar with Git, you can clone Kirby's
-Plainkit repository from Github.
+```console
+composer install
+```
 
-    git clone https://github.com/getkirby/plainkit.git
+eingeben. Dieser Befehl läd fehlende Abhängkeiten nach. Das dauert ein paar Minuten. Wenn das abgeschlossen ist sollte man im 'localhost' die neue Seite sehen.
 
-## Documentation
 
-<https://getkirby.com/docs>
-
-## Issues
-
-If you have a Github account, please report issues
-directly on Github: <https://github.com/getkirby/kirby/issues>
-
-Otherwise you can use Kirby's forum: https://forum.getkirby.com
-or send us an email: <support@getkirby.com>
-
-## Ideas & Feature Requests
-
-If you have ideas for new features, please submit a ticket in our ideas repository:
-<https://github.com/getkirby/kirby/ideas>
-
-## Support
-
-<https://getkirby.com/support>
-
-## Copyright
-
-© 2009-2019 Bastian Allgeier (Bastian Allgeier GmbH)
-<https://getkirby.com>
+# Probleme bei diesen Sachen?
+Kein Problem! Wir können uns entweder mal (z.B. in einer Mittagspause) treffen oder ich logge mich per TeamViewer aus der Ferne ein und helfe bei der Installation. Da finden wir Wege.
