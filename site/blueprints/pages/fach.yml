@@ -9,7 +9,7 @@ options:
     admin: true
 
 
-subtitle:
+heading:
   type: text
   label: Untertitel
 
