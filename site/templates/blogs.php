@@ -24,6 +24,7 @@ $list = $items->paginate(5);
 foreach ($list as $item) : ?>
 
   <div class="col-md-12 mt-4">
+    <div class="card">
     <div class="card-body">
       <h4 class="card-title">
         <a href="<?= $item->url() ?>"><?= $item->title() ?></a>
@@ -41,6 +42,8 @@ foreach ($list as $item) : ?>
         <a href="<?= $item->url() ?>">...weiterlesen</a>
       </div>
     </div>
+  </div>
+  
   </div>
   <hr>
 <?php endforeach ?>
