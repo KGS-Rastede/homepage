@@ -9,7 +9,7 @@
 
     <div class="col-md-2">
       <a href="<?= $site->url() ?>">
-        <?php snippet('skripte-im-footer') ?>
+        <?php snippet('logo-als-svg') ?>
       </a>
     </div>
 
