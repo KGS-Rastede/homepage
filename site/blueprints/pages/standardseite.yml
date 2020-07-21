@@ -9,6 +9,9 @@ columns:
   main:
     width: 2/3
     fields:
+      heading: 
+          type: text
+          label: Untertitel
       pageSettings1:
         label: Texteintrag
         type: headline
