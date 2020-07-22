@@ -5,7 +5,7 @@
 
 <div class="blockqoute">
   <div class="mb-0">
-    <h3><?= $page->heading()->text() ?></h3>
+    <!-- ... -->
   </div>
 
   <div class="mt-3 blockquote-footer h5">
