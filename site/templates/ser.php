@@ -2,11 +2,8 @@
 
 <?php snippet('page-header') ?>
 
-<h2><?= $page->heading() ?></h2>
+<?php snippet('sidebar') ?>
 
-<p>
-  <?= $page->text()->blocks() ?>
-</p>
 
 <div class="row">
 
