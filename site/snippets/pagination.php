@@ -4,11 +4,7 @@
         <?php if ($pagination->hasPrevPage()) : ?>
             <li class="page-item">
                 <a class="page-link" href="<?= $pagination->prevPageURL() ?>">&laquo;</a>
-            </li>
-        <?php else : ?>
-            <li>
-                <span aria-hidden="true">&laquo;</span>
-            </li>
+            </li>           
         <?php endif ?>
 
         <!-- Hier nun die mittleren Elemente -->
@@ -31,10 +27,6 @@
         <?php if ($pagination->hasNextPage()) : ?>
             <li class="page-item">
                 <a class="page-link" href="<?= $pagination->nextPageURL() ?>">&raquo;</a>
-            </li>
-        <?php else : ?>
-            <li class="page-item">
-                <span aria-hidden="true">&raquo;</span>
             </li>
         <?php endif ?>
 
