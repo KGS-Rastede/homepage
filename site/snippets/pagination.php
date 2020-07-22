@@ -20,7 +20,7 @@
         ansonsten mache '', also füge nichts ein. Das ist eine extreme Abkürzung.
 
         Damit wird im Endeffekt erreicht, dass mit nur einer Zeile die aktuelle Seite
-        markiert
+        markiert wird
       -->
                 <a class="page-link" <?= $pagination->page() === $r ? 'aria-current="page"' : '' ?> href="<?= $pagination->pageURL($r) ?>">
                     <?= $r ?>
