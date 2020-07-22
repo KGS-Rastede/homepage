@@ -3,11 +3,11 @@
 
         <?php if ($pagination->hasPrevPage()) : ?>
             <li class="page-item">
-                <a class="page-link" href="<?= $pagination->prevPageURL() ?>">‹</a>
+                <a class="page-link" href="<?= $pagination->prevPageURL() ?>">&laquo;</a>
             </li>
         <?php else : ?>
             <li>
-                <span>‹</span>
+                <span aria-hidden="true">&laquo;</span>
             </li>
         <?php endif ?>
 
@@ -30,11 +30,11 @@
 
         <?php if ($pagination->hasNextPage()) : ?>
             <li class="page-item">
-                <a class="page-link" href="<?= $pagination->nextPageURL() ?>">›</a>
+                <a class="page-link" href="<?= $pagination->nextPageURL() ?>">&raquo;</a>
             </li>
         <?php else : ?>
             <li class="page-item">
-                <span>›</span>
+                <span aria-hidden="true">&raquo;</span>
             </li>
         <?php endif ?>
 
