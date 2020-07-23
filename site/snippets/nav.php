@@ -37,6 +37,7 @@
           <a class="dropdown-item" href="<?= page('kontakte/spr')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Personalrat (SPR)</a>
           <a class="dropdown-item" href="<?= page('kontakte/gleichstellung')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Gleichstellungsbeauftragte</a>
           <a class="dropdown-item" href="<?= page('ser/vorstand')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Schulelternrat (SER)</a>
+          <a class="dropdown-item" href="<?= page('foerderverein/vorstand')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Förderverein</a>
         </div>
       </li>
 
