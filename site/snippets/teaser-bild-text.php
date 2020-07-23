@@ -1,4 +1,4 @@
-<div class="col-md-6">
+<div class="col-md-8">
     <div class="card-body">
         <h4 class="card-title">
             <a href="<?= $subpage->url() ?>"><?= $subpage->title() ?></a>
