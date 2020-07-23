@@ -1,0 +1,466 @@
+Title: Geschäftsordnung
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Förderverein der Kooperativen Gesamtschule Rastede e.V.</strong>",
+        "id": "_S0FgqGAf3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "1: Name, Sitz und Geschäftsjahr",
+        "id": "_qRVFcHJRJ",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Der Verein führt den Namen:",
+        "id": "_KpCGFpZaB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "„Förderverein der Kooperativen Gesamtschule Rastede“",
+        "id": "_BXhZfl3Gw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der Verein hat seinen Sitz in Rastede. Er verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung und ist weder parteipolitisch noch konfessionell gebunden. Das Geschäftsjahr ist das Kalenderjahr. Der Verein ist am 03. Mai 1990 gegründet worden",
+        "id": "_9p8Hb7XDg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Adresse des Vereins:",
+        "id": "_rAYr8o9V9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "KGS Rastede<br>Wilhelmstrasse 5<br>26180 Rastede",
+        "id": "_LSD2yPTVA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der Verein ist im Vereinsregister (Registerblatt VR 120 350) eingetragen.",
+        "id": "_7HbSo9BSd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2: Zweck des Vereins",
+        "id": "_F4FiAOIJj",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Zweck des Vereins, ist die Förderung der Erziehungs- und Jugendhilfe",
+        "id": "_y174czYkV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dieser Zweck wird verwirklicht, indem er:",
+        "id": "_jIbWNetOf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "der KGS Rastede bei der Erfüllung von Erziehungs- und Bildungsaufgaben behilflich ist",
+        "id": "_jpdiOfl8E",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "kulturelle und pädagogische Bestrebungen der Schule fördert",
+        "id": "_woYucQMyN",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "die Zusammenarbeit zwischen Eltern, Lehrkräften sowie Schülerinnen und Schüler pflegt",
+        "id": "_S72w3CUvQ",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.",
+        "id": "_NKiNVPw7E",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mittel des Vereins dürfen nur für die satzungsgemäßen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.",
+        "id": "_x1zwlya6v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütung begünstigt werden.",
+        "id": "_3O5PWpIz2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "3: Mitgliedschaft und Beiträge",
+        "id": "_0Ah7gSvbJ",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Mitglied kann jede natürliche und juristische Person werden, die die Arbeit der Schule fördern und ihre Verbundenheit mit ihr Ausdruck geben will. Über die Aufnahme entscheidet der Vorstand nach Vorlage eines schriftlichen Aufnahmeantrages",
+        "id": "_a32FWkgCe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jedes Mitglied ist zur Zahlung eines jährlichen Beitrages verpflichtet. Die Höhe des Beitrages ist den Mitgliedern freigestellt, es ist jedoch ein Mindestbeitrag zu zahlen, über dessen Höhe die Mitgliederversammlung mit einfacher Mehrheit der anwesenden Mitglieder entscheidet.",
+        "id": "_MItUqxowL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der Beitrag ist am Anfang des Geschäftsjahres zu zahlen.",
+        "id": "_tpIoGSrAs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "4: Beendigung der Mitgliedschaft",
+        "id": "_tgfBfY5uQ",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Die Mitgliedschaft endet",
+        "id": "_Wqwfu26bd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "jeweils zum Quartalsende, wenn der Austritt sechs Wochen vor Quartalsende schriftlich mitgeteilt wird,",
+        "id": "_TkOC5W0bO",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "wenn der Vorstand den Ausschluß wegen vereinsschädigenden Verhaltens beschlossen hat. Gegen diesen Beschluß kann zu Händen des Vorstands Einspruch erhoben werden, über den die Mitgliederversammlung in der nächsten ordentlichen Sitzung zu entscheiden hat,",
+        "id": "_uApCiP1wW",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "durch den Tod.",
+        "id": "_kGCQDnz23",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "5: Organe des Vereins",
+        "id": "_EB79Shfn7",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Die Organe des Vereins sind.",
+        "id": "_vZlS81xtH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "der Vorstand,",
+        "id": "_X1gkGPXHs",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "die Mitgliederversammlung.",
+        "id": "_GDUKHAVsz",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "6: Vereinsvorstand",
+        "id": "_rZjBwUcfg",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Der Vorstand besteht aus fünf Mitgliedern:",
+        "id": "_8p44nU41N",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "dem/der Vorsitzenden",
+        "id": "_uSDSMX8Am",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "dem/der stellvertretenden Vorsitzenden",
+        "id": "_VN3l23hFZ",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "dem Schriftführer/der Schriftführerin",
+        "id": "_tzOKBw2vA",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "dem Kassenführer/der Kassenführerin",
+        "id": "_tI83L0A4F",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "dem/der Vorsitzenden oder eines/einer Delegierten des Schulelternrates, der/die Mitglied dieses Vereins ist.",
+        "id": "_1cWK2Wt8T",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "Die Mitglieder 1 – 4 des Vorstandes werden von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl ist zulässig. Das 5. Mitglied wird durch den Schulelternrat benannt und muß von der Mitgliederversammlung bestätigt werden. Die Vorstandsmitglieder bleiben bis zu einer ordnungsgemäßen Neu- oder Wiederwahl im Amt.",
+        "id": "_xtqqrOgTz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Scheidet ein Vorstandsmitglied während der Amtszeit, aus, amtiert der Vorstand mit vier Mitgliedern bis zur nächsten ordentlichen Mitgliederversammlung, wobei er die Wahrnehmung der Aufgaben des ausgeschiedenen Mitglieds auf ein anderes Vorstandsmitglied überträgt. Dabei können die Aufgaben des/der 1. Vorsitzenden und des Kassenführers/der Kassenführerin nicht von einer Person wahrgenommen werden. Scheiden während der Amtszeit mehrere Vorstandsmitglieder aus, so muß eine außerordentliche Mitgliederversammlung zur Ergänzungswahl einberufen werden.",
+        "id": "_oT8WzE9l5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ersatzmitglieder werden nur für die verbleibende Amtszeit der ausgeschiedenen Mitglieder gewählt.",
+        "id": "_T6sOSesSU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vorstandssitzungen werden vom Vorsitzenden einberufen. Sie müssen einberufen werden auf Antrag von mindestens zwei Vorstandsmitgliedern mit Angabe des Grundes. Der Vorstand ist beschlußfähig, wenn mindestens drei Vorstandsmitglieder anwesend sind. Bei Stimmgleichheit gilt ein Antrag als abgelehnt.",
+        "id": "_F3obN1YRX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ist der/die Vorsitzende verhindert, vertritt ihn/sie sein/e Stellvertreter/ in.",
+        "id": "_bKhkP0Tfl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der Stellvertreter/die Stellvertreterin ist zugleich Pressewart/Pressewartin. Der Schriftführer/die Schriftführerin verfasst den laufenden Schriftverkehr und fertigt über jede Vorstandssitzung und Mitgliederversammlung eine Niederschrift an.",
+        "id": "_LGEU5lbbh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der Kassenführer/die Kassenführerin führt über die Einnahmen und Ausgaben buch. Zahlungsanweisungen bedürfen der Unterschrift des/der Vorsitzenden und des Kassenführers/der Kassenführerin. Im Verhinderungsfall des/der Vorsitzenden sind die Zahlungsanweisungen von dem/der stellver­tretenden Vorsitzenden zu unterzeichnen.",
+        "id": "_aRBocYfbf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Tätigkeit des Vorstandes ist ehrenamtlich.",
+        "id": "_ZzqzDZMVs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vorstand im Sinne des § 26 BGB sind der/die Vorsitzende und der/die stellvertretende Vorsitzende, die beide alleinvertretungsberechtigt sind.",
+        "id": "_33gpMvIty",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "7: Mitgliederversammlung",
+        "id": "_xdp87CKW0",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "In der Regel findet im 1. Vierteljahr des Geschäftsjahres eine Mitgliederversammlung statt.",
+        "id": "_rk1FuriSF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zu ihrer Aufgabe gehört insbesondere",
+        "id": "_l1IYNkkvL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "die Entgegennahme des Jahresberichtes und des Kassenberichtes,",
+        "id": "_Eung497x6",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "die Entlastung des Vorstandes,",
+        "id": "_7Do3A7Yc7",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "die Wahl der Vorstandsmitglieder nach Ablauf der Amtsdauer,",
+        "id": "_PqgW1iIAP",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "die Wahl von zwei Rechnungsprüfern/Rechnungsprüferinnen,",
+        "id": "_v238h1gIj",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "die Aussprache der Mitglieder und Entgegennahme von Anfragen aus der Mitgliederversammlung,",
+        "id": "_CgbaXskyd",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "eine eventuelle Satzungsänderungen und Auflösung des Vereins.",
+        "id": "_pCHo8mIJ3",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "Eine außerordentliche Mitgliederversammlung kann der Vorstand jederzeit einberufen. Er muß sie einberufen, wenn mindestens ein Fünftel der Mitglieder eine Mitgliederversammlung wünscht und diese schriftlich unter Angabe der Gründe beantragt wurde.",
+        "id": "_Kght9bYRr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zu jeder Mitgliederversammlung ist mindestens 8 Tage vorher unter Angabe der Tagesordnung schriftlich einzuladen.",
+        "id": "_0PLYqRl1S",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Mitgliederversammlung ist stets beschlußfähig und entscheidet mit einfacher Mehrheit der Anwesenden. Bei Änderungen der Satzung muß mindestens die Hälfte der Mitglieder anwesend sein. Eine Satzungsänderung ist nur mit mindestens drei Vierteln der Stimmen möglich. Ist nicht mindestens die Hälfte der Mitglieder anwesend, wird nach nochmaliger schriftlicher Einladung durch die dann erschienenen Mitglieder mit einfacher Mehrheit entschieden.",
+        "id": "_ycPpuZrOQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Über den Verlauf der Mitgliederversammlung ist ein Protokoll anzufertigen, das von der nächsten Mitgliederversammlung zu genehmigen und vom Versammlungsleiter sowie vom Protokollführer zu unterzeichnen ist.",
+        "id": "_4Zjfmt6rz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "8: Auflösung",
+        "id": "_Et3pKO1BM",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Die Auflösung des Fördervereins kann nur durch eine Mitgliederversammlung beschlossen werden, zu der unter ausdrücklichem Hinweis auf die Auflösung schriftlich einzuladen ist.",
+        "id": "_MXV10VGYA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Einladung muss mindestens zwei Wochen vor der Versammlung erfolgen. Zur Beschlußfassung über einen derartigen Antrag ist die Anwesenheit von mindestens der Hälfte der Mitglieder des Vereins erforderlich. Eine Entscheidung wird mit einfacher Mehrheit der Anwesenden herbeigeführt. Ist nicht mindestens die Hälfte der Mitglieder anwesend, so ist nach nochmaliger Einladung eine Mehrheit von drei Vierteln der dann erschienenen Mitglieder für eine Entscheidung ausreichend.",
+        "id": "_ocSx2YIoe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Rastede, die es unmittelbar und ausschließlich für gemeinnützige Zwecke zugunsten der Kooperativen Gesamtschule zu verwenden hat.",
+        "id": "_mKdgT2hte",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Rastede, den 3. Mai 1990",
+        "id": "_gylmaZAc2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Satzung geändert gemäß Beschluss der Mitgliederversammlung vom 05. September 2016.",
+        "id": "_jgnIT95Zu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Für die Richtigkeit:",
+        "id": "_49pWn5wxa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bernd Wüstenbecker<br>Vorsitzender<br>Anna Papenroth<br>Vorsitzende",
+        "id": "_Tc5ZacZMu",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Related: 
+
+----
+
+Downloads: 
+
+----
+
+Toggle: true
+
+----
+
+Sidetitel: Mehr zum Thema
+
+----
+
+Sidebar:
+
+- 
+  link: https://www.google.de/
+  name: Das ist der erste Link
+- 
+  link: >
+    https://getkirby.com/docs/reference/templates/field-methods/to-structure
+  name: Hier geht es zu Kirby
+
+----
+
+Sidetoggle: false
+
+----
+
+Url: https://www.google.de/
+
+----
+
+Name: Zur beliebtesten Suchmaschine der Welt
+
+----
+
+Links: 
+
+----
+
+Categories:
+
+- 
+  text: Photography
+  value: photography
