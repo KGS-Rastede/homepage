@@ -93,9 +93,12 @@
         <?php $index = 0;
         foreach (page('blogs')
           ->children()
-          ->filterBy('featured', true)
           ->flip() as $subpage) : $index++ ?>
 
+
+          <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s') ): ?>
+            
+          
           <!--  
                       % 2 testet letztlich, ob der Wert in $index gerade ist oder nicht
                       Das heißt: "glatt durch 2 teilbar".
@@ -134,6 +137,7 @@
             </div>
           </div>
 
+          <?php endif ?>
 
         <?php endforeach ?>
 
@@ -148,7 +152,8 @@
       <?php snippet('box-presse') ?>
       <?php snippet('box-foerderverein') ?>
       <?php snippet('box-links') ?>
-      <?php //snippet('box-wetter') ?>
+      <?php //snippet('box-wetter') 
+      ?>
     </div>
 
 

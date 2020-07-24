@@ -96,24 +96,16 @@ columns:
           line1:
             type: line
           
-          featured:
-            type: toggle
-            label: Auf Startseite anzeigen
-            help: Wird immer auf der Startseite angezeigt
-
           immer_sichtbar:
             type: toggle
             label: Im Fach immer sichtbar
             help: Wird immer auf der Seite des Fachs angezeigt, z.B. Lehrpläne
-
           line2:
             type: line
-
           downloads:
             label: Zugehörige Dateien
             help: Hier können beliebige Dateien für den Download bereitgestellt werden
             type: files
-
           fotoansicht:
             label: Fotos anzeigen
             type: select
