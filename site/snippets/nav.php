@@ -69,18 +69,18 @@
         </div>
       </li>
       <li class="dropdown nav-item">
-        <a class="nav-link" href="<?= page('allgemeines/kalender')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/calendar.svg"> Kalender</a>
+        <a class="nav-link" href="<?= page('allgemeines/kalender')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/calendar2.svg"> Kalender</a>
       </li>
 
       <li class="dropdown nav-item">
         <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-          <img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Unterricht &amp; Schulleben
+          <img src="<?= $kirby->url('assets') ?>/icons/easel.svg"> Unterricht &amp; Schulleben
         </a>
         <div class="dropdown-menu dropdown-with-icons">
-          <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Schulsanitätsdienst</a>
+          <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/plus-square.svg"> Schulsanitätsdienst</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Fächer</a>
-          <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Oberstufe</a>
+          <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/journals.svg"> Fächer</a>
+          <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/subtract.svg"> Oberstufe</a>
 
 
 
