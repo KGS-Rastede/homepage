@@ -31,17 +31,33 @@
             <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#geo-alt" />
           </svg> Anfahrt</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#haus"><img src="<?= $kirby->url('assets') ?>/icons/tools.svg"> Hausmeister</a>
-          <a class="dropdown-item" href="<?= page('kontakte/schulleitung')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/person-circle.svg"> Schulleitung</a>
-          <a class="dropdown-item" href="<?= page('kontakte/fbl')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/person-square.svg"> Fachbereichsleiter</a>
-          <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#sek"><img src="<?= $kirby->url('assets') ?>/icons/telephone-fill.svg"> Sekretariate</a>
-          <a class="dropdown-item" href="<?= page('lehrer')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/person-lines-fill.svg"> das Kollegium</a>
+          <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#haus"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tools" />
+          </svg> Hausmeister</a>
+          <a class="dropdown-item" href="<?= page('kontakte/schulleitung')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-circle" />
+          </svg> Schulleitung</a>
+          <a class="dropdown-item" href="<?= page('kontakte/fbl')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-square" />
+          </svg> Fachbereichsleiter</a>
+          <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#sek"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#telephone-fill" />
+          </svg> Sekretariate</a>
+          <a class="dropdown-item" href="<?= page('lehrer')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-lines-fill" />
+          </svg> das Kollegium</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="<?= page('sv/die_sv')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Schülervertretung (SV)</a>
-          <a class="dropdown-item" href="<?= page('kontakte/spr')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/briefcase-fill.svg"> Personalrat (SPR)</a>
+          <a class="dropdown-item" href="<?= page('sv/die_sv')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#people-fill" />
+          </svg> Schülervertretung (SV)</a>
+          <a class="dropdown-item" href="<?= page('kontakte/spr')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#briefcase-fill" />
+          </svg> Personalrat (SPR)</a>
           <a class="dropdown-item" href="<?= page('kontakte/gleichstellung')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/person-fill.svg"> Gleichstellungsbeauftragte</a>
           <a class="dropdown-item" href="<?= page('ser/vorstand')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Schulelternrat (SER)</a>
-          <a class="dropdown-item" href="<?= page('foerderverein/vorstand')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/tags-fill.svg"> Förderverein</a>
+          <a class="dropdown-item" href="<?= page('foerderverein/vorstand')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags-fill" />
+          </svg> Förderverein</a>
         </div>
       </li>
 
@@ -85,10 +101,16 @@
           </svg> Unterricht &amp; Schulleben
         </a>
         <div class="dropdown-menu dropdown-with-icons">
-          <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/plus-square.svg"> Schulsanitätsdienst</a>
+          <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/plus-square.svg#people" />
+          </svg> Schulsanitätsdienst</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/journals.svg"> Fächer</a>
-          <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/subtract.svg"> Oberstufe</a>
+          <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#journals" />
+          </svg> Fächer</a>
+          <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#substract" />
+          </svg> Oberstufe</a>
 
 
 
