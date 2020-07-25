@@ -128,14 +128,14 @@
         </a>
         <div class="dropdown-menu dropdown-with-icons">
           <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>"><svg class="bi" width="32" height="32">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/plus-square.svg#people" />
+              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#people" />
             </svg> Schulsanitätsdienst</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="<?= page('Faecher')->url() ?>"><svg class="bi" width="32" height="32">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#journals" />
             </svg> Fächer</a>
           <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>"><svg class="bi" width="32" height="32">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#substract" />
+              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#subtract" />
             </svg> Oberstufe</a>
 
 
