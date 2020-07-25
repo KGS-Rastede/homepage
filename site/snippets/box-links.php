@@ -1,7 +1,7 @@
 <div class="card mb-1">
     <div class="card-body ">
         <ul>
-            <a href="https://nextcloud.kgs-rastede.de">
+            <a href="https://nextcloud.kgs-rastede.logoip.de/index.php/login">
                 <img src="<?= $kirby->url('assets') ?>/bilder/nextcloud.png" class="img-fluid">
             </a>
         </ul>
@@ -13,7 +13,7 @@
         </ul>
         <hr>
         <ul>
-            <a href="https://ssl.kgs-rastede.de/moodle/login/index.php">
+            <a href="https://moodle.kgs-rastede.logoip.de/">
                 <img src="<?= $kirby->url('assets') ?>/bilder/moodle-kgs.png" class="img-fluid">
             </a>
         </ul>
