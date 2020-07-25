@@ -13,7 +13,7 @@
         </ul>
         <hr>
         <ul>
-            <a href="https://moodle.kgs-rastede.logoip.de/">
+            <a href="https://moodle30.kgs-rastede.logoip.de/">
                 <img src="<?= $kirby->url('assets') ?>/bilder/moodle-kgs.png" class="img-fluid">
             </a>
         </ul>
