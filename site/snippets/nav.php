@@ -194,7 +194,7 @@
             </svg> Fächer
           </a>
           <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>">
-            svg class="bi" width="32" height="32">
+            <svg class="bi" width="32" height="32">
             <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#subtract" />
             </svg> Oberstufe
           </a>
