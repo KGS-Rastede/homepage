@@ -53,8 +53,12 @@
           <a class="dropdown-item" href="<?= page('kontakte/spr')->url() ?>"><svg class="bi" width="32" height="32">
             <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#briefcase-fill" />
           </svg> Personalrat (SPR)</a>
-          <a class="dropdown-item" href="<?= page('kontakte/gleichstellung')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/person-fill.svg"> Gleichstellungsbeauftragte</a>
-          <a class="dropdown-item" href="<?= page('ser/vorstand')->url() ?>"><img src="<?= $kirby->url('assets') ?>/icons/people-fill.svg"> Schulelternrat (SER)</a>
+          <a class="dropdown-item" href="<?= page('kontakte/gleichstellung')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-fill" />
+          </svg> Gleichstellungsbeauftragte</a>
+          <a class="dropdown-item" href="<?= page('ser/vorstand')->url() ?>"><svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#people-fill" />
+          </svg> Schulelternrat (SER)</a>
           <a class="dropdown-item" href="<?= page('foerderverein/vorstand')->url() ?>"><svg class="bi" width="32" height="32">
             <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags-fill" />
           </svg> Förderverein</a>
