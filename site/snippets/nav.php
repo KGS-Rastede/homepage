@@ -99,11 +99,9 @@
         </div>
       </li>
       <li class="dropdown nav-item">
-      <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-          <svg class="bi" width="32" height="32">
+      <a class="nav-link" href="<?= page('allgemeines/kalender')->url() ?>"><svg class="bi" width="32" height="32">
             <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#calendar2" />
-          </svg> Unterricht &amp; Schulleben
-        </a>
+          </svg> Kalender</a>
       </li>
 
       <li class="dropdown nav-item">
