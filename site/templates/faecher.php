@@ -13,16 +13,24 @@
       <h3 class="card-title blockquote-footer">Fachbereichsleiterin: Frau Backhaus</h3>
       <div class="list-group text-white">
         <a href="<?= page('Faecher/englisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/chat-left-dots.svg"> Englisch
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-square" />
+          </svg> Englisch
         </a></li>
         <a href="<?= page('Faecher/franzoesisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/chat-quote.svg"> Französisch
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-left-dots" />
+          </svg> Französisch
         </a></li>
         <a href="<?= page('Faecher/spanisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/chat-left.svg"> Spanisch
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-quote" />
+          </svg> Spanisch
         </a></li>
         <a href="<?= page('Faecher/latein')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/chat-square.svg"> Latein
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-left" />
+          </svg> Latein
         </a></li>
       </div>
     </div>
