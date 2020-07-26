@@ -12,10 +12,18 @@
       <h3 class="card-title blockqoute mb-3 text-warning">Fremdsprachen</h3>
       <h3 class="card-title blockquote-footer">Fachbereichsleiterin: Frau Backhaus</h3>
       <div class="list-group text-white">
-        <a href="<?= page('Faecher/englisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/chat-left-dots.svg"> Englisch</a></li>
-        <a href="<?= page('Faecher/franzoesisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/chat-quote.svg"> Französisch</a></li>
-        <a href="<?= page('Faecher/spanisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/chat-left.svg"> Spanisch</a></li>
-        <a href="<?= page('Faecher/latein')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/chat-square.svg"> Latein</a></li>
+        <a href="<?= page('Faecher/englisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/chat-left-dots.svg"> Englisch
+        </a></li>
+        <a href="<?= page('Faecher/franzoesisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/chat-quote.svg"> Französisch
+        </a></li>
+        <a href="<?= page('Faecher/spanisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/chat-left.svg"> Spanisch
+        </a></li>
+        <a href="<?= page('Faecher/latein')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/chat-square.svg"> Latein
+        </a></li>
       </div>
     </div>
   </div>
@@ -122,10 +130,18 @@
       <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Dr. Fach</h4>
 
       <div class="list-group">
-        <a href="<?= page('Faecher/Physik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/plug.svg"> Physik</a>
-        <a href="<?= page('Faecher/Biologie')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/flower1.svg"> Biologie</a>
-        <a href="<?= page('Faecher/Chemie')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/droplet-half.svg"> Chemie</a>
-        <a href="<?= page('Faecher/informatik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/terminal.svg"> Informatik</a>
+        <a href="<?= page('Faecher/Physik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/plug.svg"> Physik
+        </a>
+        <a href="<?= page('Faecher/Biologie')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/flower1.svg"> Biologie
+        </a>
+        <a href="<?= page('Faecher/Chemie')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/droplet-half.svg"> Chemie
+        </a>
+        <a href="<?= page('Faecher/informatik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/terminal.svg"> Informatik
+        </a>
       </div>
     </div>
   </div>
@@ -138,10 +154,18 @@
       <h3 class="card-category card-title mb-3 text-warning">Arbeit-Wirtschaft-Technik</h3>
       <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Henken</h4>
       <div class="list-group">
-        <a href="<?= page('allgemeines/schulstruktur/schuelerfirmen')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/wallet2.svg"> Schülerfirmen</a></li>
-        <a href="<?= page('Faecher/wirtschaft')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/cash-stack.svg"> Wirtschaft</a></li>
-        <a href="<?= page('Faecher/technik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/screwdriver.svg"> Technik</a>
-        <a href="<?= page('Faecher/hauswirtschaft')->url() ?>" class="list-group-item list-group-item-light list-group-item-action"><img src="<?= $kirby->url('assets') ?>/icons/basket.svg"> Hauswirtschaft</a>
+        <a href="<?= page('allgemeines/schulstruktur/schuelerfirmen')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/wallet2.svg"> Schülerfirmen
+        </a></li>
+        <a href="<?= page('Faecher/wirtschaft')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/cash-stack.svg"> Wirtschaft
+        </a></li>
+        <a href="<?= page('Faecher/technik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/screwdriver.svg"> Technik
+        </a>
+        <a href="<?= page('Faecher/hauswirtschaft')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+          <img src="<?= $kirby->url('assets') ?>/icons/basket.svg"> Hauswirtschaft
+        </a>
 
       </div>
     </div>
