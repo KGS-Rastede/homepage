@@ -45,19 +45,29 @@
       <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Schneemann</h4>
       <div class="list-group">
         <a href="<?= page('Faecher/musik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/music-note-beamed.svg"> Musik
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#music-note-beamed" />
+          </svg> Musik
         </a></li>
         <a href="<?= page('Faecher/kunst')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/brush.svg"> Kunst
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#brush" />
+          </svg> Kunst
         </a></li>
         <a href="<?= page('Faecher/ds')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/file-person.svg"> Darstellendes Spiel
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#file-person" />
+          </svg> Darstellendes Spiel
         </a></li>
         <a href="<?= page('Faecher/tg')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/bezier.svg"> Textiles Gestalten
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#bezier" />
+          </svg> Textiles Gestalten
         </a></li>
         <a href="<?= page('Faecher/werken')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <img src="<?= $kirby->url('assets') ?>/icons/hammer.svg"> Gestaltendes Werken
+        <svg class="bi" width="32" height="32">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#hammer" />
+          </svg> Gestaltendes Werken
         </a></li>
       </div>
     </div>
