@@ -18,38 +18,38 @@
     <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
       <li class="dropdown nav-item">
         <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-          <svg class="bi" width="32" height="32">
+          <svg class="bi" width="24" height="24">
             <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#people" />
           </svg> Kontakt
         </a>
 
         <div class="dropdown-menu dropdown-with-icons">
           <a class="dropdown-item" href="<?= page('allgemeines/anfahrt')->url() ?>">
-            <svg class="bi" width="32" height="32">
+            <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#geo-alt" />
             </svg> Anfahrt
           </a>
 
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#haus">
-            <svg class="bi" width="32" height="32">
+            <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tools" />
             </svg> Hausmeister
           </a>
 
           <a class="dropdown-item" href="<?= page('kontakte/schulleitung')->url() ?>">
-            <svg class="bi" width="32" height="32">
+            <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-circle" />
             </svg> Schulleitung
           </a>
           <a class="dropdown-item" href="<?= page('kontakte/fbl')->url() ?>">
-            <svg class="bi" width="32" height="32">
+            <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-square" />
             </svg> Fachbereichsleiter
           </a>
 
           <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#sek">
-            <svg class="bi" width="32" height="32">
+            <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#telephone-fill" />
             </svg> Sekretariate
           </a>
