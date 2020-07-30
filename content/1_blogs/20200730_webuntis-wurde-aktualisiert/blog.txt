@@ -20,7 +20,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Das große Sommerupdate ist da, hier finden sich sehr viele Neuigkeiten. Mehr dazu hier: <code>https://help.untis.at/hc/de/articles/360015522359 </code>",
+        "content": "Das große Sommerupdate ist da, hier finden sich sehr viele Neuigkeiten. Mehr dazu hier: <code>https://help.untis.at/hc/de/articles/360015522359</code>",
         "id": "_0gvwhwhy9",
         "type": "paragraph"
     }
