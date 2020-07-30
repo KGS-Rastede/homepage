@@ -3,23 +3,18 @@
 <?php snippet('page-header') ?>
 
 <?php
-  $items = $page->children()->flip();
-
-  $list = $items->paginate(5);
-
   snippet('blog-schlicht', [
-    'items' => $list
+    'items' => $articles
   ])
 ?>
 
-<?php 
-  $pagination = $list->pagination();
+
+<?php
+  $pagination = $articles->pagination();
 
   snippet('pagination', [
     'pagination' => $pagination
-  ]) 
-  
+  ])
 ?>
-
 
 <?php snippet('footer') ?>
