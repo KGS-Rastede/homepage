@@ -2,10 +2,6 @@ Title: WebUntis wurde aktualisiert
 
 ----
 
-Heading: 
-
-----
-
 Text:
 
 [
@@ -28,10 +24,6 @@ Text:
 
 ----
 
-Gallery: 
-
-----
-
 Date: 2020-07-30 14:25
 
 ----
@@ -49,11 +41,3 @@ Tags: Schulleitung
 ----
 
 Immer-sichtbar: false
-
-----
-
-Downloads: 
-
-----
-
-Fotoansicht: gallery
