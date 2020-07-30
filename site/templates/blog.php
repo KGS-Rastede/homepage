@@ -10,16 +10,20 @@
     Autor: <?= $page->author() ?>
 
   </div>
+
+  <?php snippet('tagliste', [
+    'item' => $page
+  ]) ?>
 </div>
 
 <?= $page->text()->blocks() ?>
 
 <?php if ($page->fotoansicht() == 'carousel') : ?>
   <?php snippet('carousel') ?>
-<?php elseif($page->fotoansicht() == 'gallery') : ?> 
+<?php elseif ($page->fotoansicht() == 'gallery') : ?>
   <?php snippet('gallery') ?>
-<?php else: ?> 
-<!-- Bilder werden vom Autor manuel gesetzt -->
+<?php else : ?>
+  <!-- Bilder werden vom Autor manuel gesetzt -->
 <?php endif ?>
 
 
