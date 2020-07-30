@@ -1,0 +1,59 @@
+Title: WebUntis wurde aktualisiert
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": {
+            "src": "https://youtu.be/SN_ZTRcpQ_k",
+            "caption": "alles neu macht der… August"
+        },
+        "content": "",
+        "id": "_gyksk3c3q",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Das große Sommerupdate ist da, hier finden sich sehr viele Neuigkeiten. Mehr dazu hier: <code>https://help.untis.at/hc/de/articles/360015522359 </code>",
+        "id": "_0gvwhwhy9",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-07-30 14:25
+
+----
+
+Datumstartseite: 2020-09-30 12:25
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
