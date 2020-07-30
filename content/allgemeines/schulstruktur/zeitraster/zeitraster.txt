@@ -19,7 +19,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Hinweis</strong>: Freitags beginnt der Nachmittagsunterricht bereits um 14.00 Uhr und endet entsprechend um 15.30 Uhr.",
+        "content": "<strong>* Hinweis</strong>: Freitags beginnt der Nachmittagsunterricht bereits um 14.00 Uhr und endet entsprechend um 15.30 Uhr.",
         "id": "_zhcwc7en3",
         "type": "paragraph"
     }
