@@ -30,9 +30,6 @@ sections:
           name:
             label: Bezeichnung des Links
             type: text
-          preis:
-            label: Leihgebühr
-            type: text
       SchulbuchlistenRZ:
         label: Schulbuchlisten RZ
         type: structure
@@ -43,9 +40,6 @@ sections:
           name:
             label: Bezeichnung des Links
             type: text
-          preis:
-            label: Leihgebühr
-            type: text
       SchulbuchlistenHZ:
         label: Schulbuchlisten HZ
         type: structure
@@ -55,7 +49,4 @@ sections:
             type: files
           name:
             label: Bezeichnung des Links
-            type: text
-          preis:
-            label: Leihgebühr
             type: text
