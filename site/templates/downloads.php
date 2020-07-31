@@ -24,15 +24,13 @@
                                         <td><?= $liste->name() ?>
                                         </td>
                                         <td class="td-actions text-right">
-                                            <a href="">
-                                                <button type="button" rel="tooltip" class="btn btn-success btn-just-icon">
+                                            <a href="<?= $liste->link()->toFile()->url() ?>">
+                                                <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                     <svg class="bi" width="24" height="24">
                                                         <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
                                                     </svg>
                                                 </button>
                                             </a>
-                                            <div class="text-left">
-                                            </div>
                                         </td>
                                     </tr>
                                 <?php endforeach ?>
@@ -68,10 +66,9 @@
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                     <svg class="bi" width="24" height="24">
                                                         <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
-                                                    </svg> </button>
+                                                    </svg>
+                                                </button>
                                             </a>
-                                            <div class="text-left">
-                                            </div>
                                         </td>
                                     </tr>
                                 <?php endforeach ?>
@@ -103,14 +100,13 @@
                                         <td><?= $liste->name() ?>
                                         </td>
                                         <td class="td-actions text-right">
-                                            <a href="">
-                                                <button type="button" rel="tooltip" class="btn btn-warning btn-just-icon">
+                                            <a href="<?= $liste->link()->toFile()->url() ?>">
+                                                <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                     <svg class="bi" width="24" height="24">
                                                         <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
-                                                    </svg> </button>
+                                                    </svg>
+                                                </button>
                                             </a>
-                                            <div class="text-left">
-                                            </div>
                                         </td>
                                     </tr>
                                 <?php endforeach ?>
