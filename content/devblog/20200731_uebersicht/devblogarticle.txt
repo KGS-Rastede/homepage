@@ -1,0 +1,50 @@
+Title: Die neue Homepage
+
+----
+
+Heading: ...eine Übersicht
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Mit dem Wechsel in der Schulleitung ging auch ein technischer Wechsel einher.",
+        "id": "_ra3n8l1xy",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-07-31 19:25
+
+----
+
+Author: Carsten Niehaus (NI)
+
+----
+
+Tags: Webseite
+
+----
+
+Datumstartseite: 2020-12-01 19:25
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
