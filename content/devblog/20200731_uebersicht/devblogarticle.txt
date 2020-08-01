@@ -29,7 +29,7 @@ Author: Carsten Niehaus (NI)
 
 ----
 
-Tags: Webseite
+Tags: Webseite, foob, fooc
 
 ----
 

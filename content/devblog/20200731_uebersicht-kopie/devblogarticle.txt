@@ -29,7 +29,11 @@ Author: Carsten Niehaus (NI)
 
 ----
 
-Tags: Webseite, Blogtest
+Tags: Webseite, Blogtest, fooa, bing, bang, buff
+
+----
+
+Featured: false
 
 ----
 

@@ -29,7 +29,11 @@ Author: Carsten Niehaus (NI)
 
 ----
 
-Tags: Webseite, Blogtest
+Tags: Blogtest, Foo, bar
+
+----
+
+Featured: false
 
 ----
 
