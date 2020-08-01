@@ -223,7 +223,7 @@
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
 
-                            <p>erster Schüleraustausch mit der amerikanischen Partnerschule in Plattsburg&nbsp;</p>
+                            <p>erster Schüleraustausch mit der amerikanischen Partnerschule in Plattsburgh&nbsp;</p>
                             <p>erste Verkehrswoche in der Orientierungsstufe</p>
                         </div>
                     </li>
