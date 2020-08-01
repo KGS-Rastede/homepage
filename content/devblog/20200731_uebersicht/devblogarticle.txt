@@ -1,8 +1,8 @@
-Title: Die neue Homepage
+Title: Die neue Homepage gefeatured
 
 ----
 
-Heading: ...eine Übersicht
+Heading: ...eine Übersichtfeature
 
 ----
 
