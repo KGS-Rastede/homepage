@@ -98,23 +98,21 @@
 
                     $alletags = new ArrayObject(array());
 
-
-                    //Das Entscheidende fehlt natürlich:
-                    //Es muss noch gezählt werden, wie oft das Tag vorkommt!
-                    foreach ($articles as $article) :
-                        foreach ($article->tags()->split() as $tag) :
-                            $alletags->append($tag);
+                        foreach ($articles as $article) :
+                            foreach ($article->tags()->split() as $tag) :
+                                $alletags->append($tag);
+                            endforeach;
                         endforeach;
-                    endforeach;
 
+                        $tags_gezaehlt = array_count_values($alletags->getArrayCopy());
 
                     ?>
 
-                    <?php foreach ($alletags as $tagkey => $tagvalue) : ?>
+                    <?php foreach ($tags_gezaehlt as $tagkey => $tagvalue) : ?>
                         <a href="<?= url('devblog', ['params' => ['tag' => $tagvalue]]) ?>">
 
                             <button type="button" class="btn btn-primary m-2">
-                                <?= $tagvalue ?> <span class="badge bg-secondary"><?= $tagkey ?></span>
+                                <?= $tagkey ?> <span class="badge bg-secondary"><?= $tagvalue ?></span>
                             </button>
                         </a>
                     <?php endforeach ?>
