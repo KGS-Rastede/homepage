@@ -90,19 +90,36 @@
 
         </div>
         <div class="col-md-4">
-            <h1>Tagcloud</h1>
+            <div class="card mb-1 mt-5 mr-2">
+                <div class="card-body ">
+                    <h1>Tagcloud</h1>
 
-            <?php foreach ($articles as $a) : ?>
-                <?php foreach ($a->tags()->split() as $tag) : ?>
-                    <button type="button" class="btn btn-primary m-2">
-                        <?= $tag ?> <span class="badge bg-secondary">4</span>
-                    </button>
-                <?php endforeach ?>
+                    <?php
 
-            <?php endforeach ?>
+                    $alletags = new ArrayObject(array());
 
 
+                    //Das Entscheidende fehlt natürlich:
+                    //Es muss noch gezählt werden, wie oft das Tag vorkommt!
+                    foreach ($articles as $article) :
+                        foreach ($article->tags()->split() as $tag) :
+                            $alletags->append($tag);
+                        endforeach;
+                    endforeach;
 
+
+                    ?>
+
+                    <?php foreach ($alletags as $tagkey => $tagvalue) : ?>
+                        <a href="<?= url('devblog', ['params' => ['tag' => $tagvalue]]) ?>">
+
+                            <button type="button" class="btn btn-primary m-2">
+                                <?= $tagvalue ?> <span class="badge bg-secondary"><?= $tagkey ?></span>
+                            </button>
+                        </a>
+                    <?php endforeach ?>
+                </div>
+            </div>
         </div>
     </div>
 
