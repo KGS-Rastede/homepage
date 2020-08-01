@@ -3,15 +3,15 @@
 /* -------begin customization-------- */
 /* simply assign the value */
 .navbar-light .navbar-nav a.nav-link {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .dropdown-menu a {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .dropdown-menu {
-  background-color: #0E5499 !important;
+  background-color: #0e5499 !important;
 }
 
 p {
@@ -35,6 +35,14 @@ p {
 
 .titelfeld .container {
   background: #f8f9fa;
+  border-radius: 20px;
+  opacity: 0.95;
+  padding: 20px 30px 30px 30px;
+  margin-top: 40px;
+}
+
+.blogpost .container {
+  background: #a8cbfe;
   border-radius: 20px;
   opacity: 0.95;
   padding: 20px 30px 30px 30px;
@@ -67,7 +75,7 @@ footer {
     TIMELINE
 ==================================*/
 /*-- GENERAL STYLES
-------------------------------*/
+    ------------------------------*/
 .timeline {
   line-height: 1.4em;
   list-style: none;
@@ -75,7 +83,17 @@ footer {
   padding: 0;
   width: 100%;
 }
-.timeline h1, .timeline .h1, .timeline h2, .timeline .h2, .timeline h3, .timeline .h3, .timeline h4, .timeline .h4, .timeline h5, .timeline .h5, .timeline h6, .timeline .h6 {
+.timeline h1, .timeline .h1,
+.timeline h2,
+.timeline .h2,
+.timeline h3,
+.timeline .h3,
+.timeline h4,
+.timeline .h4,
+.timeline h5,
+.timeline .h5,
+.timeline h6,
+.timeline .h6 {
   line-height: inherit;
 }
 
@@ -107,7 +125,7 @@ footer {
   width: 15px;
 }
 .timeline-marker:before {
-  background: #FF6B6B;
+  background: #ff6b6b;
   border: 3px solid transparent;
   border-radius: 100%;
   content: "";
@@ -122,7 +140,7 @@ footer {
 .timeline-marker:after {
   content: "";
   width: 3px;
-  background: #CCD5DB;
+  background: #ccd5db;
   display: block;
   position: absolute;
   top: 24px;
@@ -135,7 +153,7 @@ footer {
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #FF6B6B;
+  border: 3px solid #ff6b6b;
 }
 
 /*----- TIMELINE CONTENT -----*/
@@ -163,8 +181,8 @@ footer {
   top: 0;
   bottom: 30px;
   position: absolute;
-  border-top: 3px solid #CCD5DB;
-  border-bottom: 3px solid #CCD5DB;
+  border-top: 3px solid #ccd5db;
+  border-bottom: 3px solid #ccd5db;
 }
 .period .timeline-marker:after {
   content: "";
@@ -179,8 +197,8 @@ footer {
 }
 
 /*----------------------------------------------
-    MOD: TIMELINE SPLIT
-----------------------------------------------*/
+        MOD: TIMELINE SPLIT
+    ----------------------------------------------*/
 @media (min-width: 768px) {
   .timeline-split .timeline, .timeline-centered .timeline {
     display: table;
@@ -214,8 +232,8 @@ footer {
 }
 
 /*----------------------------------------------
-    MOD: TIMELINE CENTERED
-----------------------------------------------*/
+        MOD: TIMELINE CENTERED
+    ----------------------------------------------*/
 @media (min-width: 992px) {
   .timeline-centered,
 .timeline-centered .timeline-item,
@@ -279,14 +297,14 @@ footer {
 }
 
 /*----------------------------------------------
-    MOD: MARKER OUTLINE
-----------------------------------------------*/
+        MOD: MARKER OUTLINE
+    ----------------------------------------------*/
 .marker-outline .timeline-marker:before {
   background: transparent;
-  border-color: #FF6B6B;
+  border-color: #ff6b6b;
 }
 .marker-outline .timeline-item:hover .timeline-marker:before {
-  background: #FF6B6B;
+  background: #ff6b6b;
 }
 
 /* -------end customization-------- */
@@ -317,7 +335,7 @@ footer {
   --bs-info: #0099cc;
   --bs-warning: #a34c40;
   --bs-danger: #8c271e;
-  --bs-light: #0E5499;
+  --bs-light: #0e5499;
   --bs-dark: #c0c0c0;
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -3379,8 +3397,8 @@ progress {
 
 .btn-light {
   color: #fff;
-  background-color: #0E5499;
-  border-color: #0E5499;
+  background-color: #0e5499;
+  border-color: #0e5499;
 }
 .btn-light:hover {
   color: #fff;
@@ -3403,8 +3421,8 @@ progress {
 }
 .btn-light:disabled, .btn-light.disabled {
   color: #fff;
-  background-color: #0E5499;
-  border-color: #0E5499;
+  background-color: #0e5499;
+  border-color: #0e5499;
 }
 
 .btn-dark {
@@ -3588,27 +3606,27 @@ progress {
 }
 
 .btn-outline-light {
-  color: #0E5499;
-  border-color: #0E5499;
+  color: #0e5499;
+  border-color: #0e5499;
 }
 .btn-outline-light:hover {
   color: #fff;
-  background-color: #0E5499;
-  border-color: #0E5499;
+  background-color: #0e5499;
+  border-color: #0e5499;
 }
 .btn-check:focus + .btn-outline-light, .btn-outline-light:focus {
   box-shadow: 0 0 0 0.2rem rgba(14, 84, 153, 0.5);
 }
 .btn-check:checked + .btn-outline-light, .btn-check:active + .btn-outline-light, .btn-outline-light:active, .btn-outline-light.active, .btn-outline-light.dropdown-toggle.show {
   color: #fff;
-  background-color: #0E5499;
-  border-color: #0E5499;
+  background-color: #0e5499;
+  border-color: #0e5499;
 }
 .btn-check:checked + .btn-outline-light:focus, .btn-check:active + .btn-outline-light:focus, .btn-outline-light:active:focus, .btn-outline-light.active:focus, .btn-outline-light.dropdown-toggle.show:focus {
   box-shadow: 0 0 0 0.2rem rgba(14, 84, 153, 0.5);
 }
 .btn-outline-light:disabled, .btn-outline-light.disabled {
-  color: #0E5499;
+  color: #0e5499;
   background-color: transparent;
 }
 
@@ -6067,7 +6085,7 @@ button.close {
 }
 
 .link-light {
-  color: #0E5499;
+  color: #0e5499;
 }
 .link-light:hover, .link-light:focus {
   color: #082e53;
@@ -6383,7 +6401,7 @@ button.close {
 }
 
 .border-light {
-  border-color: #0E5499 !important;
+  border-color: #0e5499 !important;
 }
 
 .border-dark {
@@ -7089,7 +7107,7 @@ button.close {
 }
 
 .text-light {
-  color: #0E5499 !important;
+  color: #0e5499 !important;
 }
 
 .text-dark {
@@ -7161,7 +7179,7 @@ button.close {
 }
 
 .bg-light {
-  background-color: #0E5499 !important;
+  background-color: #0e5499 !important;
 }
 
 .bg-dark {

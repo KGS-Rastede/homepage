@@ -16,82 +16,88 @@ $body-bg: #fafdf6;
 // Custom
 
 $theme-colors: (
-  primary: #f9f8f8,
-  secondary: #586994,
-  success: #bdc8d4,
-  info: #0099cc,
-  warning: #a34c40,
-  danger: #8c271e,
-  light: #0E5499,
-  dark: #c0c0c0,
+    primary: #f9f8f8,
+    secondary: #586994,
+    success: #bdc8d4,
+    info: #0099cc,
+    warning: #a34c40,
+    danger: #8c271e,
+    light: #0e5499,
+    dark: #c0c0c0,
 );
 
-.navbar-light .navbar-nav a.nav-link{
-    color: #FFFFFF;
+.navbar-light .navbar-nav a.nav-link {
+    color: #ffffff;
 }
 
-
-
-.dropdown-menu a{
-    color: #FFFFFF; 
+.dropdown-menu a {
+    color: #ffffff;
 }
 
 .dropdown-menu {
-    background-color: #0E5499 !important;
+    background-color: #0e5499 !important;
 }
 
-
 p {
-  font-size: 1.2rem;
+    font-size: 1.2rem;
 }
 
 .infokasten {
-  padding: 50px 0px;
+    padding: 50px 0px;
 }
 
 .showcase {
-  background: url(../img/stifte.jpg) no-repeat 0 -100px;
-  height: 600px;
-  padding: 30px 0;
+    background: url(../img/stifte.jpg) no-repeat 0 -100px;
+    height: 600px;
+    padding: 30px 0;
 
-  .container {
-    background: #fff;
-    opacity: 0.95;
-    padding: 20px 30px 30px 30px;
-  }
+    .container {
+        background: #fff;
+        opacity: 0.95;
+        padding: 20px 30px 30px 30px;
+    }
 }
 
 // Diese Klasse wird benutzt als Überschrift einer jeden Seite
 .titelfeld {
-  .container {
-    background: $light;
-    border-radius: 20px;
-    opacity: 0.95;
-    padding: 20px 30px 30px 30px;
-    margin-top: 40px;
-  }
+    .container {
+        background: $light;
+        border-radius: 20px;
+        opacity: 0.95;
+        padding: 20px 30px 30px 30px;
+        margin-top: 40px;
+    }
+}
+
+.blogpost {
+    .container {
+        background: $blue-100;
+        border-radius: 20px;
+        opacity: 0.95;
+        padding: 20px 30px 30px 30px;
+        margin-top: 40px;
+    }
 }
 
 .panel-heading h4 {
-  color: set-text-color($primary);
+    color: set-text-color($primary);
 }
 
 .main {
-  margin-top: 30px;
+    margin-top: 30px;
 }
 
 footer {
-  width: 100%;
-  padding: 30px 0;
-  background: darken(#ffffff, 10%);
-  color: set-text-color(#f9f8f8);
+    width: 100%;
+    padding: 30px 0;
+    background: darken(#ffffff, 10%);
+    color: set-text-color(#f9f8f8);
 }
 
 // Ab hier für die Geschichtsunterseite
 
-$primary-color: #FF6B6B;
+$primary-color: #ff6b6b;
 $primary-color-hover: scale-color($primary-color, $lightness: 32%);
-
 
 .container-fluid {
     .row {
@@ -102,245 +108,252 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
     }
 }
 
-
 /*==================================
     TIMELINE
 ==================================*/
 
-    /*-- GENERAL STYLES
+/*-- GENERAL STYLES
     ------------------------------*/
-    .timeline {
-        line-height: 1.4em;
-        list-style: none;
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        h1, h2, h3, h4, h5, h6 {
-            line-height: inherit;
-        }
+.timeline {
+    line-height: 1.4em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        line-height: inherit;
     }
+}
 
-    /*----- TIMELINE ITEM -----*/
+/*----- TIMELINE ITEM -----*/
 
-    .timeline-item {
-        padding-left: 40px;
-        position: relative;
-        &:last-child {
-            padding-bottom: 0;
-        }
+.timeline-item {
+    padding-left: 40px;
+    position: relative;
+    &:last-child {
+        padding-bottom: 0;
     }
+}
 
-    /*----- TIMELINE INFO -----*/
+/*----- TIMELINE INFO -----*/
 
-    .timeline-info {
-        font-size: 12px;
-        font-weight: 700;
-        letter-spacing: 3px;
-        margin: 0 0 .5em 0;
-        text-transform: uppercase;
-        white-space: nowrap;
-    }
-    /*----- TIMELINE MARKER -----*/
+.timeline-info {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin: 0 0 0.5em 0;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+/*----- TIMELINE MARKER -----*/
 
-    .timeline-marker {
+.timeline-marker {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 15px;
+    &:before {
+        background: $primary-color;
+        border: 3px solid transparent;
+        border-radius: 100%;
+        content: "";
+        display: block;
+        height: 15px;
         position: absolute;
-        top: 0; bottom: 0; left: 0;
+        top: 4px;
+        left: 0;
         width: 15px;
+        transition: background 0.3s ease-in-out, border 0.3s ease-in-out;
+    }
+    &:after {
+        content: "";
+        width: 3px;
+        background: #ccd5db;
+        display: block;
+        position: absolute;
+        top: 24px;
+        bottom: 0;
+        left: 6px;
+    }
+    .timeline-item:last-child &:after {
+        content: none;
+    }
+}
+.timeline-item:not(.period):hover .timeline-marker:before {
+    background: transparent;
+    border: 3px solid $primary-color;
+}
+
+/*----- TIMELINE CONTENT -----*/
+
+.timeline-content {
+    padding-bottom: 40px;
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+/*----- TIMELINE PERIOD -----*/
+
+.period {
+    padding: 0;
+    .timeline-info {
+        display: none;
+    }
+    .timeline-marker {
         &:before {
-            background: $primary-color;
-            border: 3px solid transparent;
-            border-radius: 100%;
+            background: transparent;
             content: "";
-            display: block;
-            height: 15px;
-            position: absolute;
-            top: 4px; left: 0;
             width: 15px;
-            transition: background 0.3s ease-in-out,
-                    border 0.3s ease-in-out;
+            height: auto;
+            border: none;
+            border-radius: 0;
+            top: 0;
+            bottom: 30px;
+            position: absolute;
+            border-top: 3px solid #ccd5db;
+            border-bottom: 3px solid #ccd5db;
         }
         &:after {
             content: "";
-            width: 3px;
-            background: #CCD5DB;
-            display: block;
-            position: absolute;
-            top: 24px; bottom: 0; left: 6px;
-        }
-        .timeline-item:last-child &:after {
-            content: none;
+            height: 32px;
+            top: auto;
         }
     }
-    .timeline-item:not(.period):hover .timeline-marker:before {
-        background: transparent;
-        border: 3px solid $primary-color;
-    }
-
-    /*----- TIMELINE CONTENT -----*/
-
     .timeline-content {
-        padding-bottom: 40px;
-        p:last-child {
-            margin-bottom: 0;
-        }
+        padding: 40px 0 70px;
     }
-
-    /*----- TIMELINE PERIOD -----*/
-    
-    .period {
-        padding: 0;
-        .timeline-info {
-            display: none;
-        }
-        .timeline-marker {
-            &:before {
-                background: transparent;
-                content: "";
-                width: 15px;
-                height: auto;
-                border: none;
-                border-radius: 0;
-                top: 0;
-                bottom: 30px;
-                position: absolute;
-                border-top: 3px solid #CCD5DB;
-                border-bottom: 3px solid #CCD5DB;
-            }
-            &:after {
-                content: "";
-                height: 32px;
-                top: auto;
-            }
-        }
-        .timeline-content {
-            padding: 40px 0 70px;
-        }
-        .timeline-title {
-            margin: 0;
-        }
+    .timeline-title {
+        margin: 0;
     }
+}
 
-    /*----------------------------------------------
+/*----------------------------------------------
         MOD: TIMELINE SPLIT
     ----------------------------------------------*/
 
-        .timeline-split {
-            @media (min-width: 768px) {
-                .timeline {
-                    display: table;
-                }
-                .timeline-item {
-                    display: table-row;
-                    padding: 0;
-                }
-                .timeline-info,
-                .timeline-marker,
-                .timeline-content,
-                .period .timeline-info {
-                    display: table-cell;
-                    vertical-align: top;
-                }
-                .timeline-marker {
-                    position: relative;
-                }
-                .timeline-content {
-                    padding-left: 30px;
-                }
-                .timeline-info {
-                    padding-right: 30px;
-                }
-                .period .timeline-title {
-                    position: relative;
-                    left: -45px;
-                }
-            }
+.timeline-split {
+    @media (min-width: 768px) {
+        .timeline {
+            display: table;
         }
+        .timeline-item {
+            display: table-row;
+            padding: 0;
+        }
+        .timeline-info,
+        .timeline-marker,
+        .timeline-content,
+        .period .timeline-info {
+            display: table-cell;
+            vertical-align: top;
+        }
+        .timeline-marker {
+            position: relative;
+        }
+        .timeline-content {
+            padding-left: 30px;
+        }
+        .timeline-info {
+            padding-right: 30px;
+        }
+        .period .timeline-title {
+            position: relative;
+            left: -45px;
+        }
+    }
+}
 
-    /*----------------------------------------------
+/*----------------------------------------------
         MOD: TIMELINE CENTERED
     ----------------------------------------------*/
 
-        .timeline-centered {
-            @extend .timeline-split;
-            @media (min-width: 992px) {
-                &,
-                .timeline-item,
-                .timeline-info,
-                .timeline-marker,
-                .timeline-content {
-                    display: block;
-                    margin: 0;
-                    padding: 0;
-                }
-                .timeline-item {
-                    padding-bottom: 40px;
-                    overflow: hidden;
-                }
-                .timeline-marker {
-                    position: absolute;
-                    left: 50%;
-                    margin-left: -7.5px;
-                }
-                .timeline-info,
-                .timeline-content {
-                    width: 50%;
-                }
-                > .timeline-item:nth-child(odd) .timeline-info {
-                    float: left;
-                    text-align: right;
-                    padding-right: 30px;
-                }
-                > .timeline-item:nth-child(odd) .timeline-content {
-                    float: right;
-                    text-align: left;
-                    padding-left: 30px;
-                }    
-                > .timeline-item:nth-child(even) .timeline-info {
-                    float: right;
-                    text-align: left;
-                    padding-left: 30px;
-                }
-                > .timeline-item:nth-child(even) .timeline-content {
-                    float: left;
-                    text-align: right;
-                    padding-right: 30px;
-                }
-                > .timeline-item.period .timeline-content {
-                    float: none;
-                    padding: 0;
-                    width: 100%;
-                    text-align: center;
-                }
-                .timeline-item.period {
-                    padding: 50px 0 90px;
-                }
-                .period .timeline-marker:after {
-                    height: 30px;
-                    bottom: 0;
-                    top: auto;
-                }
-                .period .timeline-title {
-                    left: auto;
-                }
-            }
+.timeline-centered {
+    @extend .timeline-split;
+    @media (min-width: 992px) {
+        &,
+        .timeline-item,
+        .timeline-info,
+        .timeline-marker,
+        .timeline-content {
+            display: block;
+            margin: 0;
+            padding: 0;
         }
+        .timeline-item {
+            padding-bottom: 40px;
+            overflow: hidden;
+        }
+        .timeline-marker {
+            position: absolute;
+            left: 50%;
+            margin-left: -7.5px;
+        }
+        .timeline-info,
+        .timeline-content {
+            width: 50%;
+        }
+        > .timeline-item:nth-child(odd) .timeline-info {
+            float: left;
+            text-align: right;
+            padding-right: 30px;
+        }
+        > .timeline-item:nth-child(odd) .timeline-content {
+            float: right;
+            text-align: left;
+            padding-left: 30px;
+        }
+        > .timeline-item:nth-child(even) .timeline-info {
+            float: right;
+            text-align: left;
+            padding-left: 30px;
+        }
+        > .timeline-item:nth-child(even) .timeline-content {
+            float: left;
+            text-align: right;
+            padding-right: 30px;
+        }
+        > .timeline-item.period .timeline-content {
+            float: none;
+            padding: 0;
+            width: 100%;
+            text-align: center;
+        }
+        .timeline-item.period {
+            padding: 50px 0 90px;
+        }
+        .period .timeline-marker:after {
+            height: 30px;
+            bottom: 0;
+            top: auto;
+        }
+        .period .timeline-title {
+            left: auto;
+        }
+    }
+}
 
-    /*----------------------------------------------
+/*----------------------------------------------
         MOD: MARKER OUTLINE
     ----------------------------------------------*/
-        
-        .marker-outline {
-            .timeline-marker {
-                &:before {
-                    background: transparent;
-                    border-color: $primary-color;
-                }
-            }
-            .timeline-item:hover .timeline-marker:before {
-                background: $primary-color;
-            }
-        }
 
+.marker-outline {
+    .timeline-marker {
+        &:before {
+            background: transparent;
+            border-color: $primary-color;
+        }
+    }
+    .timeline-item:hover .timeline-marker:before {
+        background: $primary-color;
+    }
+}
 
 /* -------end customization-------- */
 
