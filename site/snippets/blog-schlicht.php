@@ -14,9 +14,7 @@
               Datum: <?= $item->date()->toDate("d.m.Y") ?>
             </div>
 
-            <?php snippet('tagliste', [
-              'item' => $item
-            ]) ?>
+          
           </p>
           <p class="card-text">
             <?= $item->Text()->blocks()->excerpt(250) ?>
@@ -26,6 +24,12 @@
 
 
         </div>
+        <div class="card-footer">
+            <?php snippet('tagliste', [
+              'item' => $item
+            ]) ?>
+        </div>
+
       </div>
 
       <hr>

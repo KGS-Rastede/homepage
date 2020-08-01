@@ -6,7 +6,7 @@
 
   <div class="container">
     <a class="navbar-brand" href="<?= $site->url() ?>">
-      <img src="<?= $kirby->url('assets') ?>/logo-kgs-mini.jpg" loading="lazy">
+      <img width="64" width="64"src="<?= $kirby->url('assets') ?>/logo-kgs-medium.jpg" loading="lazy">
     </a>
   </div>
 

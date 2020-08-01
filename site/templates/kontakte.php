@@ -26,13 +26,20 @@
                     <div class="card-footer">
                         <?php if ($kontakt->phone()->isNotEmpty()) : ?>
                             <p>
-                                <img src="<?= $kirby->url('assets') ?>/icons/phone.svg"><?= $kontakt->phone() ?>
+
+                                <svg class="bi" width="24" height="24">
+                                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#phone" />
+                                </svg>
+                                <?= $kontakt->phone() ?>
                             </p>
                         <?php endif ?>
 
                         <?php if ($kontakt->email()->isNotEmpty()) : ?>
                             <p>
-                                <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg">
+
+                                <svg class="bi" width="24" height="24">
+                                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#envelope" />
+                                </svg>
 
                                 <script type="text/javascript">
                                     var mail = "<?= $kontakt->email() ?>";

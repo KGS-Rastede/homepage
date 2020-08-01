@@ -21,16 +21,16 @@
                             <tbody>
                                 <?php foreach ($page->SchulbuchlistenHZ()->toStructure() as $liste) : ?>
                                     <tr>
-                                        <td><?= $liste->name() ?><br>Leihgebühren: <?= $liste->preis() ?>
+                                        <td><?= $liste->name() ?>
                                         </td>
                                         <td class="td-actions text-right">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
-                                                <button type="button" rel="tooltip" class="btn btn-success btn-just-icon">
-                                                    <img src="<?= $kirby->url('assets') ?>/icons/cloud-download.svg">
+                                                <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
+                                                    <svg class="bi" width="24" height="24">
+                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
+                                                    </svg>
                                                 </button>
                                             </a>
-                                            <div class="text-left">
-                                            </div>
                                         </td>
                                     </tr>
                                 <?php endforeach ?>
@@ -59,16 +59,16 @@
                             <tbody>
                                 <?php foreach ($page->SchulbuchlistenRZ()->toStructure() as $liste) : ?>
                                     <tr>
-                                        <td><?= $liste->name() ?><br>Leihgebühren: <?= $liste->preis() ?>
+                                        <td><?= $liste->name() ?>
                                         </td>
                                         <td class="td-actions text-right">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
-                                                    <img src="<?= $kirby->url('assets') ?>/icons/cloud-download.svg">
+                                                    <svg class="bi" width="24" height="24">
+                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
+                                                    </svg>
                                                 </button>
                                             </a>
-                                            <div class="text-left">
-                                            </div>
                                         </td>
                                     </tr>
                                 <?php endforeach ?>
@@ -97,16 +97,16 @@
                             <tbody>
                                 <?php foreach ($page->SchulbuchlistenGZ()->toStructure() as $liste) : ?>
                                     <tr>
-                                        <td><?= $liste->name() ?><br>Leihgebühren: <?= $liste->preis() ?>
+                                        <td><?= $liste->name() ?>
                                         </td>
                                         <td class="td-actions text-right">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
-                                                <button type="button" rel="tooltip" class="btn btn-warning btn-just-icon">
-                                                    <img src="<?= $kirby->url('assets') ?>/icons/cloud-download.svg">
+                                                <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
+                                                    <svg class="bi" width="24" height="24">
+                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
+                                                    </svg>
                                                 </button>
                                             </a>
-                                            <div class="text-left">
-                                            </div>
                                         </td>
                                     </tr>
                                 <?php endforeach ?>
