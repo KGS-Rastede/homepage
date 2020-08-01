@@ -32,7 +32,7 @@
                         <div class="col-md-6 px-0">
                             <h1 class="display-4 font-italic"><?= $a->title() ?></h1>
                             <p class="lead my-3"><?= $a->Text()->blocks()->excerpt(250) ?></p>
-                            <p class="lead mb-0"><a href="#" class="text-white font-weight-bold">Weiterlesen...</a></p>
+                            <p class="lead mb-0"><a href="<?= $a->url() ?>" class="text-white font-weight-bold">Weiterlesen...</a></p>
                         </div>
                     </div>
 
