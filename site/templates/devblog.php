@@ -60,7 +60,7 @@
                             <p class="card-text mb-auto">
                                 <?= $a->Text()->blocks()->excerpt(250) ?>
                             </p>
-                            <a href="<?= $a->url() ?>" class="stretched-link">Weiterlesen &#8594;</a>
+                            <a href="<?= $a->url() ?>">Weiterlesen &#8594;</a>
 
 
                         </div>
