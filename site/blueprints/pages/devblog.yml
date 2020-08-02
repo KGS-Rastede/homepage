@@ -1,0 +1,27 @@
+title: Der Entwicklerblog YML
+num: '{{ page.date.toDate("YmdHi") }}'
+icon: 📖
+
+options:
+  update:
+    *: false
+    fachleiter: true
+    admin: true
+
+
+sections:
+  drafts:
+    headline: noch nicht öffentlich
+    type: pages
+    status: draft
+    templates: devblogarticle
+    sortBy: date desc
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
+
+  published:
+    headline: öffentlich einsehbar
+    type: pages
+    status: listed
+    templates: devblogarticle
+    sortBy: date desc
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"

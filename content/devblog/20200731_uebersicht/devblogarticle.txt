@@ -1,0 +1,67 @@
+Title: Die neue Homepage
+
+----
+
+Heading: ...eine Übersicht
+
+----
+
+Text:
+
+Die alte Homepage lief gut 15 Jahre lang. Ursprünglich wurde sie mit [Joomla Version 1](https://www.joomla.de/) programmiert und im Laufe der Jahre auf Joomla 2 und schließlich Version 3 aktualisiert. Dabei haben wir diverse Plugins verwendet und auch ein Theme benutzt.
+
+Joomla ist ein sehr mächtiges und weit verbreitetes CMS System ("Homepagebaukasten"). Genau das wurde hier aber zum Problem. Im Laufe der Jahre haben so viele Probleme angesammelt weil die technischen Grundlagen des Internets sich komplett geändert haben. 
+
+Die Browser von heute sind *viel* mächtiger als im Jahre 2005, CSS hat sich komplett geändert (Stichwort _Flexbox_, _Grid_, ...) und Javascript damals noch nicht verbreitet.
+
+2019 ist dann der Schulleiter Gerd Kip in die Pension gegangen und damit der Programmierer der alten Homepage. Damit wurde uns klar, dass wir eine Zäsur brauchen. 
+
+Auf der Suche nach einer zukunftssicheren Lösung haben wir in alle Richtungen gedacht. Für uns waren folgende Kriterien wichtig. Die neue Homepage sollte:
+
+- moderne technische Grundlagen haben
+o modernes CSS
+o _mobile first_, also auf mobilen Geräten gut funktionieren
+- technisch auch für nicht-Programmierer zu durchblicken sein
+- keine Datenbank im Hintergrund haben
+- möglichst sicher sein
+o weniger Funktionen / Blackboxen, die niemand richtig durchschaut
+- Partizipation an der Entwicklung für Schüler_innen ermöglichen
+
+
+
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-07-31 19:25
+
+----
+
+Author: Carsten Niehaus (NI)
+
+----
+
+Tags: Webseite, Joomla, Kirby, Statamic, CMS
+
+----
+
+Featured: true
+
+----
+
+Datumstartseite: 2020-12-01 19:25
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

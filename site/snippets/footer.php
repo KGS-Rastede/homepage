@@ -43,10 +43,15 @@
     </div>
   </div>
   <hr>
-  <div class="copyright pull-center">
-    Copyright &#xA9; <script>
-      document.write(new Date().getFullYear())
-    </script> KGS Rastede ; All Rights Reserved.
+  <div class="row">
+    <div class="col-6">
+      Copyright &#xA9; <script>
+        document.write(new Date().getFullYear())
+      </script> KGS Rastede ; All Rights Reserved.
+    </div>
+    <div class="col-6">
+      <a class=" text-muted" href="<?= page('devblog')->url() ?>">Entwicklerblog</a>
+    </div>
   </div>
 </footer>
 
