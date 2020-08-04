@@ -3,7 +3,7 @@
 
 
 <p><?= $page->Subtitletext1() ?></p>
-<div class="row row-cols-3">
+<div class="row">
     <div class="col-lg-4 ml-auto mr-auto">
         <div class="card">
             <div class="card-header card-header-danger">
