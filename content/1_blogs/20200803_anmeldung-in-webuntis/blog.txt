@@ -1,0 +1,50 @@
+Title: Anmeldung in WebUntis
+
+----
+
+Heading: Mit dem neuen Account in WebUntis anmelden.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Seit dem Update am 30.7.2020 funktionieren die alten WebUntis Accounts nicht mehr. Die neuen Accounts haben den selben Benutzernamen wie vorher, aber ein anderes Passwort. Es ist das, was bei <a href=\"https://ssp.kgs-rastede.logoip.de/\">https://ssp.kgs-rastede.logoip.de/</a> festgelegt wurde.",
+        "id": "_spawu9udn",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-08-03 08:55
+
+----
+
+Datumstartseite: 2020-10-01 06:55
+
+----
+
+Author: Ole
+
+----
+
+Tags: WebUntis
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
