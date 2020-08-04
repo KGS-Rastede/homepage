@@ -2,18 +2,22 @@ Title: Übergang von der Grundschule
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
     {
         "attrs": [],
-        "content": "Liebe Schülerinne und Schüler, liebe Eltern,",
+        "content": "Liebe Schülerinnen und Schüler, liebe Eltern,",
         "id": "_PSCSihv8r",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "wir begrüßen Euch und Sie ganz herzliche an der KGS Rastede und freuen uns über Euer und Ihr Interesse an unserer Schule.",
+        "content": "wir begrüßen Euch und Sie ganz herzlich an der KGS Rastede und freuen uns über Euer und Ihr Interesse an unserer Schule.",
         "id": "_0jCRtc9f8",
         "type": "paragraph"
     },
@@ -25,7 +29,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Bei weiteren Fragen zum Übergang von Grundschule zur KGS stehen Ihnen Frau Ildiz (<a href=\"mailto:id@kgs-rastede.de\">id@kgs-rastede.de</a>) als Leiterin der 5. und 6. Klasse im Gebäude der Feldbreite sehr gerne zur Verfügung.",
+        "content": "Bei weiteren Fragen zum Übergang von der Grundschule zur KGS steht Ihnen Frau Ildiz (<a href=\"mailto:id@kgs-rastede.de\">id@kgs-rastede.de</a>) als Leiterin der 5. und 6. Klasse im Gebäude der Feldbreite sehr gerne zur Verfügung.",
         "id": "_iSbT8BlGt",
         "type": "paragraph"
     }
