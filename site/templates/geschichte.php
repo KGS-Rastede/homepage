@@ -71,7 +71,7 @@
                         </div>
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
-
+                            <p>erster deutsch-französischer Schüleraustausch mit Partnerschulen in Liffré und St. Aubin</p>
                             <p>Gemeinde Rastede beantragt Änderung des Kreisschulentwicklungsplanes: Einführung einer gymnasialen Oberstufe&nbsp;</p>
                             <p>KGS beantragt bei der Gemeinde ein freiwilliges 10. Schuljahr für den Hauptschulzweig</p>
                             <p>alle Hauptschulen des Gemeindegebiets gehen ganz in der KGS auf</p>
@@ -87,7 +87,7 @@
                         </div>
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
-                            <p>erster deutsch-französischer Schüleraustausch mit Partnerschulen in Liffré und St. Aubin</p>
+                            
                             <p>erste Abschlüsse im Hauptschulzweig nach Klasse 9</p>
                             <p>Rat der Gemeinde beschließt die Einrichtung der gymnasialen Oberstufe</p>
                             <p>Kultusminister Dr. Remmers genehmigt Oberstufe</p>
