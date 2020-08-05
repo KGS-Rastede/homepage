@@ -35,7 +35,7 @@
     <div class="col-md-3">
       <h5>Über die KGS</h5>
       <ul class="list-unstyled">
-        <li><a class="text-muted" href="<?= page('allgemeines/geschichte')->url() ?>"">Unsere Geschichte</a></li>
+        <li><a class="text-muted" href="<?= page('allgemeines/geschichte')->url() ?>">Unsere Geschichte</a></li>
         <li><a class="text-muted" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
         <li><a class="text-muted" href="<?= page('allgemeines/impressum')->url() ?>">Impressum</a></li>
         <li><a class="text-muted" href="<?= page('allgemeines/mensa')->url() ?>">Mensa</a></li>
