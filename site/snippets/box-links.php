@@ -1,4 +1,4 @@
-<div class="card mb-1">
+<div class="card mb-3 mt-3">
     <div class="card-body ">
         <ul>
             <a href="https://nextcloud.kgs-rastede.logoip.de/index.php/login">

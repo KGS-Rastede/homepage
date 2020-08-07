@@ -1,4 +1,4 @@
-<div class="card bg-primary my-4">
+<div class="card bg-primary mb-3">
     <link href='<?= $kirby->url('assets') ?>/js/plugins/main.css' rel='stylesheet' />
 
 
