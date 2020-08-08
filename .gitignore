@@ -45,5 +45,7 @@ Icon
 
 /kirby
 
+/node_modules
+
 composer.lock
 assets/prepros.config
