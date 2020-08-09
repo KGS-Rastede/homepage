@@ -7,21 +7,40 @@
 
     <div class="flex mb-4">
         <div class="w-3/4 bg-gray-300">
-            <?php foreach ($articles->filterBy('featured', true) as $a) : ?>
 
-                <div class="px-8 py-12">
-                    <h1 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
-                        <?= $a->title() ?>
-                    </h1>
-                    <p class="mt-2 text-gray-600">
-                        <?= $a->Text()->blocks()->excerpt(250) ?>
-                    </p>
-                    <div class="mt-4">
-                        <a href="<?= $a->url() ?>" class="inline-block px-5 py-3 rounded-lg shadow-lg bg-indigo-500 hover:bg-indigo-400 text-sm text-white uppercase tracking-wider font-semibold">Weiterlesen</a>
+            <h1 class="mt-6 mb-6 text-4xl font-bold text-gray-900 leading-tight">
+                Der Entwicklerblog der KGS Rastede
+            </h1>
+
+            <h3 class="mt-6 mb-6 text-2xl text-gray-600">
+                Die Technik hinter dieser Homepage
+            </h3>
+
+            <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+
+            <div class="grid grid-flow-row sm:grid-flow-row md:grid-flow-col">
+
+                <?php foreach ($articles->filterBy('featured', true) as $a) : ?>
+                    <div class="max-w-lg mx-2 rounded overflow-hidden shadow-lg bg-gray-500">
+
+                        <div class="px-8 py-12">
+                            <h1 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
+                                <?= $a->title() ?>
+                            </h1>
+                            <p class="mt-2 text-gray-600">
+                                <?= $a->Text()->blocks()->excerpt(250) ?>
+                            </p>
+                            <div class="mt-4">
+                                <a href="<?= $a->url() ?>" class="inline-block px-5 py-3 rounded-lg shadow-lg bg-indigo-500 hover:bg-indigo-400 text-sm text-white uppercase tracking-wider font-semibold">Weiterlesen</a>
+                            </div>
+                        </div>
                     </div>
-                </div>
 
-            <?php endforeach ?>
+                <?php endforeach ?>
+            </div>
+
+            <hr class="border-b-2 mt-6 border-gray-400 mb-8 mx-4">
 
 
             <div class="grid grid-flow-row sm:grid-flow-row md:grid-flow-col">
@@ -29,7 +48,7 @@
 
                     <div class="pt-5">
 
-                        <div class="max-w-lg mx-2 rounded overflow-hidden shadow-lg bg-white">
+                        <div class="max-w-lg mx-2 rounded overflow-hidden shadow-lg bg-gray-300">
                             <div class="col p-4 d-flex flex-column position-static">
                                 <h1 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
                                     <?= $a->title() ?>
@@ -64,7 +83,7 @@
                                 <p class="card-text mb-auto">
                                     <?= $a->Text()->blocks()->excerpt(250) ?>
                                 </p>
-                                <a href="<?= $a->url() ?>">Weiterlesen &#8594;</a>
+                                <a href="<?= $a->url() ?>" class="inline-block px-5 py-3 rounded-lg shadow-lg bg-indigo-500 hover:bg-indigo-400 text-sm text-white uppercase tracking-wider font-semibold">Weiterlesen</a>
 
 
                             </div>
@@ -78,7 +97,9 @@
         </div>
         <div class="w-1/4 bg-gray-400">
 
-            <h1>Tagcloud</h1>
+            <h3 class="mt-6 mb-6 text-2xl text-gray-600">
+                Tagcloud
+            </h3>
 
             <?php
 
