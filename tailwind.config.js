@@ -3,14 +3,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "primary": '#f9f8f8',
-        "secondary": '586994',
-        "success": '#bdc8d4',
-        "info": '#0099cc',
-        "warning": '#a34c40',
-        "danger": '#8c271e',
-        "light": '#0e5499',
-        "dark": '#c0c0c0',
+        'regal-blue': '#243c5a',
       }
     },
     // hier weiß ich nicht, wieso das nicht geht... Dit Fonts sind lokal installiert.
