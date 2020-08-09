@@ -22,40 +22,43 @@
 
 
             <?php foreach ($articles as $a) : ?>
+        
+                <div class="pt-5">
+                    <!-- TODO Hier muss ein Grid hin, so ist es zwar ok aber es ist auf großen
+                        Monitoren zu klein -->
+                    <div class="max-w-lg rounded overflow-hidden shadow-lg bg-white">
+                        <div class="col p-4 d-flex flex-column position-static">
+                            <h1 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
+                                <?= $a->title() ?>
+                            </h1>
 
-                <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                    <div class="col p-4 d-flex flex-column position-static">
-                        <h1 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
-                            <?= $a->title() ?>
-                        </h1>
-
-                        <h3 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
-                            <?= $a->heading() ?>
-                        </h3>
+                            <h3 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
+                                <?= $a->heading() ?>
+                            </h3>
 
 
-                        <h4 class="mb-4"><?= $a->heading() ?></h4>
-                        <div class="mb-1"><?= $a->date() ?> <svg class="bi" width="24" height="24">
-                                <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags" />
-                            </svg> Tags:
-                            <?php foreach ($a->tags()->split() as $tag) : ?>
-                                <div class="px-6 py-4">
-                                    <a href="<?= url('devblog', ['params' => ['tag' => $tag]]) ?>">
-                                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"><?= $tag ?></span>
-                                    </a>
-                                </div>
+                            <h4 class="mb-4"><?= $a->heading() ?></h4>
+                            <div class="mb-1"><?= $a->date() ?> <svg class="bi" width="24" height="24">
+                                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags" />
+                                </svg> Tags:
+                                <?php foreach ($a->tags()->split() as $tag) : ?>
+                                    <div class="px-6 py-4">
+                                        <a href="<?= url('devblog', ['params' => ['tag' => $tag]]) ?>">
+                                            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"><?= $tag ?></span>
+                                        </a>
+                                    </div>
 
-                            <?php endforeach ?>
+                                <?php endforeach ?>
+                            </div>
+
+                            <p class="card-text mb-auto">
+                                <?= $a->Text()->blocks()->excerpt(250) ?>
+                            </p>
+                            <a href="<?= $a->url() ?>">Weiterlesen &#8594;</a>
+
+
                         </div>
-
-                        <p class="card-text mb-auto">
-                            <?= $a->Text()->blocks()->excerpt(250) ?>
-                        </p>
-                        <a href="<?= $a->url() ?>">Weiterlesen &#8594;</a>
-
-
                     </div>
-
                 </div>
 
             <?php endforeach ?>
