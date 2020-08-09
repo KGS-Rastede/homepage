@@ -29,7 +29,7 @@
 
                     <div class="pt-5">
 
-                        <div class="max-w-lg rounded overflow-hidden shadow-lg bg-white">
+                        <div class="max-w-lg mx-2 rounded overflow-hidden shadow-lg bg-white">
                             <div class="col p-4 d-flex flex-column position-static">
                                 <h1 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
                                     <?= $a->title() ?>
