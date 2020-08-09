@@ -13,11 +13,6 @@
     </div>
 
 
-    <!--Post Content-->
-
-
-    <!--Lead Para-->
-
     <p class="py-6">
       <?= $page->intro()->kirbytext() ?>
     </p>
@@ -27,8 +22,6 @@
       <?= $page->text()->blocks() ?>
 
     </p>
-
-    <!--/ Post Content-->
 
   </div>
 
