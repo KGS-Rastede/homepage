@@ -54,15 +54,14 @@
                                     <?= $a->title() ?>
                                 </h1>
 
-                                <h3 class="mt-6 font-bold text-gray-600 leading-tight">
-                                    <?= $a->heading() ?>
-                                </h3>
+                                <div class="flex items-baseline justify-between">
+                                    <h3 class="mt-6 font-bold text-gray-600 leading-tight">
+                                        <?= $a->heading() ?>
+                                    </h3>
 
+                                    <?= $a->date() ?>
 
-
-
-                                <?= $a->date() ?>
-                            
+                                </div>
 
                                 <div class="p-6">
                                     <div class="flex items-center">
