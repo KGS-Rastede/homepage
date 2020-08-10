@@ -62,21 +62,20 @@
 
 
                                 <?= $a->date() ?>
-                                <div class="px-6 py-4">
-                                    <svg class="bi" width="24" height="24">
-                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags" />
-                                    </svg>
+                            
 
-                                    <?php foreach ($a->tags()->split() as $tag) : ?>
-                                        <a href="<?= url('devblog', ['params' => ['tag' => $tag]]) ?>">
-                                            <button class="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded-lg shadow">
-                                                <?= $tag ?>
-                                            </button>
+                                <div class="p-6">
+                                    <div class="flex items-center">
 
-
-                                        </a>
-
-                                    <?php endforeach ?>
+                                        <svg class="bi" width="24" height="24">
+                                            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags" />
+                                        </svg>
+                                        <?php foreach ($a->tags()->split() as $tag) : ?>
+                                            <a href="<?= url('devblog', ['params' => ['tag' => $tag]]) ?>">
+                                                <span class="inline-block bg-blue-200 text-blue-800 text-lg px-2 rounded-full uppercase font-semibold tracking-wide"><?= $tag ?></span>
+                                            </a>
+                                        <?php endforeach ?>
+                                    </div>
                                 </div>
 
 
