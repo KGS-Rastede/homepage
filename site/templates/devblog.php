@@ -18,11 +18,11 @@
 
             <hr class="border-b-2 border-gray-400 mb-8 mx-4">
 
-
+            <!-- Durch alle hervorgehobenen Artikel durchgehen -->
             <div class="grid grid-flow-row sm:grid-flow-row md:grid-flow-col">
 
                 <?php foreach ($articles->filterBy('featured', true) as $a) : ?>
-                    <div class="max-w-lg mx-2 rounded overflow-hidden shadow-lg bg-gray-500">
+                    <div class="max-w-lg mx-2 rounded overflow-hidden shadow-lg bg-gray-400">
 
                         <div class="px-8 py-12">
                             <h1 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
@@ -40,6 +40,7 @@
                 <?php endforeach ?>
             </div>
 
+            <!-- kleine Trennlinie -->
             <hr class="border-b-2 mt-6 border-gray-400 mb-8 mx-4">
 
             <div class="max-w-screen-xl mx-auto px-2">
