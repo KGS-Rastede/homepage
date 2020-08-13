@@ -8,27 +8,94 @@ Heading: ...eine Übersicht
 
 Text:
 
-Die alte Homepage lief gut 15 Jahre lang. Ursprünglich wurde sie mit [Joomla Version 1](https://www.joomla.de/) programmiert und im Laufe der Jahre auf Joomla 2 und schließlich Version 3 aktualisiert. Dabei haben wir diverse Plugins verwendet und auch ein Theme benutzt.
-
-Joomla ist ein sehr mächtiges und weit verbreitetes CMS System ("Homepagebaukasten"). Genau das wurde hier aber zum Problem. Im Laufe der Jahre haben so viele Probleme angesammelt weil die technischen Grundlagen des Internets sich komplett geändert haben. 
-
-Die Browser von heute sind *viel* mächtiger als im Jahre 2005, CSS hat sich komplett geändert (Stichwort _Flexbox_, _Grid_, ...) und Javascript damals noch nicht verbreitet.
-
-2019 ist dann der Schulleiter Gerd Kip in die Pension gegangen und damit der Programmierer der alten Homepage. Damit wurde uns klar, dass wir eine Zäsur brauchen. 
-
-Auf der Suche nach einer zukunftssicheren Lösung haben wir in alle Richtungen gedacht. Für uns waren folgende Kriterien wichtig. Die neue Homepage sollte:
-
-- moderne technische Grundlagen haben
-o modernes CSS
-o _mobile first_, also auf mobilen Geräten gut funktionieren
-- technisch auch für nicht-Programmierer zu durchblicken sein
-- keine Datenbank im Hintergrund haben
-- möglichst sicher sein
-o weniger Funktionen / Blackboxen, die niemand richtig durchschaut
-- Partizipation an der Entwicklung für Schüler_innen ermöglichen
-
-
-
+[
+    {
+        "attrs": [],
+        "content": "Die alte Homepage lief gut 15 Jahre lang. Ursprünglich wurde sie mit <a href=\"https://www.joomla.de/\">Joomla Version 1</a> programmiert und im Laufe der Jahre auf Joomla 2 und schließlich Version 3 aktualisiert. Dabei haben wir diverse Plugins verwendet und auch ein Theme benutzt.",
+        "id": "_FC6RcgpLh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Joomla ist ein sehr mächtiges und weit verbreitetes CMS System (\"Homepagebaukasten\"). Genau das wurde hier aber zum Problem. Im Laufe der Jahre haben so viele Probleme angesammelt weil die technischen Grundlagen des Internets sich komplett geändert haben.",
+        "id": "_BB17wdbn2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Browser von heute sind <em>viel</em> mächtiger als im Jahre 2005, CSS hat sich komplett geändert (Stichwort <em>Flexbox</em>, <em>Grid</em>, ...) und Javascript damals noch nicht verbreitet.",
+        "id": "_TCR3qCuds",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2019 ist dann der Schulleiter Gerd Kip in die Pension gegangen und damit der Programmierer der alten Homepage. Damit wurde uns klar, dass wir eine Zäsur brauchen.",
+        "id": "_FfGgb4sP2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auf der Suche nach einer zukunftssicheren Lösung haben wir in alle Richtungen gedacht. Für uns waren folgende Kriterien wichtig. Die neue Homepage sollte:",
+        "id": "_mZmF5QU2P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_86a4x9kvi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "moderne technische Grundlagen haben<br>o modernes CSS<br>o <em>mobile first</em>, also auf mobilen Geräten gut funktionieren",
+        "id": "_8O28bTOh6",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "technisch auch für nicht-Programmierer zu durchblicken sein",
+        "id": "_Nf50yMWuq",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "keine Datenbank im Hintergrund haben",
+        "id": "_Tw0VElbLn",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "möglichst sicher sein (d.h. kein Datenbankserver, nicht 10 Plugins à la Wordpress)",
+        "id": "_byhqgb7d2",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "weniger Funktionen / Blackboxen, die niemand richtig durchschaut",
+        "id": "_jf0fxax6q",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Partizipation an der Entwicklung für Schüler_innen ermöglichen",
+        "id": "_bJg6rsWip",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "",
+        "id": "_f9t8y6mev",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir haben dabei nicht den Anspruch, uralte Browser zu unterstützen oder obskure Techniken zu verwenden. Keine Animationen oder Töne. Einfach eine technisch saubere Lösung die gut wartbar ist.",
+        "id": "_6gosoatif",
+        "type": "paragraph"
+    }
+]
 
 ----
 

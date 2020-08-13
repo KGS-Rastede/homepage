@@ -6,8 +6,32 @@ Heading: ...die Technik dahinter
 
 ----
 
-Text: Wie funktioniert so eine Seite eigentlich aus technischer Sicht?
+Text:
 
+[
+    {
+        "attrs": [],
+        "content": "Wie funktioniert so eine Seite eigentlich aus technischer Sicht?",
+        "id": "_SxWCoomP6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_a2wfexkt4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Als CMS verwenden wir Kirby (<a href=\"https://getkirby.com/\">https://getkirby.com/</a>) und sind mit dieser Wahl sehr gut zufrieden. Bei Kirby handelt es sich um ein Flat-File-CMS, also kommt es komplett ohne einen Datenbankserver aus. ",
+        "id": "_djpr0invp",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
 
 ----
 
@@ -23,3 +47,4 @@ Tags: Webseite, Kirby, Git
 
 ----
 
+Featured: false
