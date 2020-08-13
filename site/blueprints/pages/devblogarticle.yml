@@ -28,7 +28,7 @@ columns:
             label: Untertitel
           text:
             label: Inhalt
-            type: textarea
+            type: editor
           gallery:
             type: files
             uploads: images
