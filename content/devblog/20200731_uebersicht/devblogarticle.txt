@@ -36,49 +36,61 @@ Text:
     {
         "attrs": [],
         "content": "Auf der Suche nach einer zukunftssicheren Lösung haben wir in alle Richtungen gedacht. Für uns waren folgende Kriterien wichtig. Die neue Homepage sollte:",
-        "id": "_mZmF5QU2P",
+        "id": "_agfvxvn1y",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "",
-        "id": "_86a4x9kvi",
+        "id": "_yvkqcfc1t",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "moderne technische Grundlagen haben<br>o modernes CSS<br>o <em>mobile first</em>, also auf mobilen Geräten gut funktionieren",
-        "id": "_8O28bTOh6",
+        "content": "moderne technische Grundlagen haben",
+        "id": "_wniz53g0c",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "modernes CSS",
+        "id": "_oa1mkryxl",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<em>mobile first</em>, also auf mobilen Geräten gut funktionieren",
+        "id": "_p1ne2nh9g",
         "type": "ul"
     },
     {
         "attrs": [],
         "content": "technisch auch für nicht-Programmierer zu durchblicken sein",
-        "id": "_Nf50yMWuq",
+        "id": "_94flxt1zk",
         "type": "ul"
     },
     {
         "attrs": [],
         "content": "keine Datenbank im Hintergrund haben",
-        "id": "_Tw0VElbLn",
+        "id": "_on9c65ngx",
         "type": "ul"
     },
     {
         "attrs": [],
         "content": "möglichst sicher sein (d.h. kein Datenbankserver, nicht 10 Plugins à la Wordpress)",
-        "id": "_byhqgb7d2",
+        "id": "_q4qeexzxb",
         "type": "ul"
     },
     {
         "attrs": [],
         "content": "weniger Funktionen / Blackboxen, die niemand richtig durchschaut",
-        "id": "_jf0fxax6q",
+        "id": "_9vt9xk9bb",
         "type": "ul"
     },
     {
         "attrs": [],
         "content": "Partizipation an der Entwicklung für Schüler_innen ermöglichen",
-        "id": "_bJg6rsWip",
+        "id": "_h1027n3hk",
         "type": "ul"
     },
     {
