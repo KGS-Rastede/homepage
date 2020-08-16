@@ -1,4 +1,4 @@
-<div class="card p-3 mt-3 mb-3 bg-gradient bg-success text-light">
+<div class="card p-3 mt-3 mb-3 bg-gradient bg-success text-black">
     <div class="card-body">
         <h3 class="card-title"><?= $subpage->title() ?></h3>
 

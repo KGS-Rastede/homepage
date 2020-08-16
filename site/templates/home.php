@@ -30,7 +30,7 @@
         endif ?>
 
         <?php if (page('wichtige_informationen/notfall')->toggle()->bool() === true) : ?>
-          <div class="card bg-info">
+          <div class="card bg-info text-white">
             <h1><?php echo $titel ?></h1>
             <p class="lead"><?= page('wichtige_informationen/notfall')->text() ?></p>
           </div>
@@ -59,7 +59,7 @@
       </div>
 
 
-      <!-- 
+      
       <div class="card py-4">
 
         <h1>Zum Testen der Farben hier die Farben des Schemas</h1>
@@ -86,7 +86,7 @@
 
         <h1>dark</h1>
         <button class="btn btn-dark">Weitere Nachrichten aus der Schule</button>
-      </div> -->
+      </div>
 
 
 
