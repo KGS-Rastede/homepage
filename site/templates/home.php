@@ -38,26 +38,28 @@
 
       </div>
 
-      <?php $index = 0;
-      foreach (page('blogs')
-        ->children()
-        ->flip() as $subpage) : $index++ ?>
+      <!-- Jetzt folgen die als 'Topartikel' getaggte Blogs
+          Die tauchen hier immer auch, egal welches Datumsbereich
+          jeweils eingestellt ist
+         -->
+      <div class="container mt-5 mb-5">
 
-        <?php
-        if (in_array("Topartikel", $subpage->tags()->split())) {
+        <?php $index = 0;
+        foreach (page('blogs')
+          ->children()
+          ->flip() as $subpage) : $index++ ?>
 
-              snippet('topartikel', ['subpage' => $subpage]);
+          <?php
+          if (in_array("Topartikel", $subpage->tags()->split())) {
+            snippet('topartikel', ['subpage' => $subpage]);
+          }
+          ?>
 
-        }
-
-        ?>
-
-
-      <?php endforeach ?>
+        <?php endforeach ?>
+      </div>
 
 
-
-<!-- 
+      <!-- 
       <div class="card py-4">
 
         <h1>Zum Testen der Farben hier die Farben des Schemas</h1>
@@ -90,7 +92,6 @@
 
       <div class="container">
         <h2 class="title">Aktuelle Nachrichten</h2>
-        <br>
 
         <!--  
                     Jetzt werden die Elemente angefügt. 
