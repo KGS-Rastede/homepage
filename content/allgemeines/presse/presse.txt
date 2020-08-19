@@ -678,15 +678,6 @@ Pressenachrichten:
   zeitung: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/ammerland/bildung/galerie-rastede-1-verabschiedung-gallery_g_50,5,730002344.html
-  name: >
-    Schulleiter Gerd Kip verlässt KGS
-    Rastede
-  anfang: ""
-  datum: 2019-07-03
-  zeitung: nwz
-- 
-  link: >
     https://www.nwzonline.de/ammerland/bildung/rastede-verabschiedung-schulleiter-gerd-kip-verlaesst-kgs-rastede_a_50,5,730002467.html
   name: >
     Schulleiter Gerd Kip verlässt KGS
