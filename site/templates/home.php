@@ -95,60 +95,64 @@
 
       <div class="container">
         <h2 class="title">Aktuelle Nachrichten</h2>
-
-        <!--  
-                    Jetzt werden die Elemente angefügt. 
-                    -->
-        <?php $index = 0;
-        foreach (page('blogs')
-          ->children()
-          ->flip() as $subpage) : $index++ ?>
-
-
-          <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')) : ?>
-
+        <div class="container-fluid">
+          <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2">
 
             <!--  
+                    Jetzt werden die Elemente angefügt. 
+                    -->
+            <?php $index = 0;
+            foreach (page('blogs')
+              ->children()
+              ->flip() as $subpage) : $index++ ?>
+
+
+              <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')) : ?>
+
+
+                <!--  
                       % 2 testet letztlich, ob der Wert in $index gerade ist oder nicht
                       Das heißt: "glatt durch 2 teilbar".
 
                       Ich möchte effektiv bei jedem zweiten Artikel das Bild links und 
                       den Text rechts haben, um das Design etwas aufzulockern
                     -->
-            <div class="card my-3">
-              <div class="row my-4">
+                <div class="card">
+                  <div class="row my-4">
 
-                <!-- der ersten beiden Zeilen sind immer gleich -->
+                    <!-- der ersten beiden Zeilen sind immer gleich -->
 
 
-                <?php if ($index % 2 == 0) : ?>
+                    <?php if ($index % 2 == 0) : ?>
 
-                  <?php snippet('teaser-bild', [
-                    'subpage' => $subpage
-                  ]) ?>
+                      <?php snippet('teaser-bild', [
+                        'subpage' => $subpage
+                      ]) ?>
 
-                  <?php snippet('teaser-bild-text', [
-                    'subpage' => $subpage
-                  ]) ?>
+                      <?php snippet('teaser-bild-text', [
+                        'subpage' => $subpage
+                      ]) ?>
 
-                <?php else : ?>
+                    <?php else : ?>
 
-                  <?php snippet('teaser-bild-text', [
-                    'subpage' => $subpage
-                  ]) ?>
+                      <?php snippet('teaser-bild-text', [
+                        'subpage' => $subpage
+                      ]) ?>
 
-                  <?php snippet('teaser-bild', [
-                    'subpage' => $subpage
-                  ]) ?>
+                      <?php snippet('teaser-bild', [
+                        'subpage' => $subpage
+                      ]) ?>
 
-                <?php endif ?>
+                    <?php endif ?>
 
-              </div>
-            </div>
+                  </div>
+                </div>
+              <?php endif ?>
 
-          <?php endif ?>
 
-        <?php endforeach ?>
+            <?php endforeach ?>
+          </div>
+        </div>
 
       </div>
       <a href="<?= page("blogs") ?>">
