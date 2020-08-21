@@ -71,8 +71,12 @@ while (!feof($file)) {
 		$description = '';
 		$summary = '';
 		$end = '';
+		echo2("// Start des Datensatzes\n");
 	}
 	if (substr($zeile, 0, strlen($such_ende_datensatz)) == $such_ende_datensatz) { //Ende des Datensatzes
+		echo2("// Ende des Datensatzes\n");
+
+
 		$datensatz = false; //Termin Ende
 		$color = "white";
 		// $color = $farbpalette[substr($categorie, 0, 1)];
