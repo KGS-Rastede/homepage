@@ -38,11 +38,15 @@ So soll das Ergebnis am Ende aussehen
 ?>
 
 <?php
+//Diese Methode schreibt den Inhalt. Das 'global' und fwrite kommentieren und das echo()
+//schreibt die Inhalt auf den Bildschirm (zum debuggen)
 function echo2($inhalt)
 {
-	global $exportjson;
+	// global $exportjson;
 	$inhalt = str_replace('<br>', chr(13) . chr(10), $inhalt);
-	fwrite($exportjson, $inhalt);
+	// fwrite($exportjson, $inhalt);
+
+	echo($inhalt);
 }
 //Kategorien 1-9 werden farblich unterschiedlich dargestellt
 $farbpalette = array("gray", "skyblue", "lightgrey", "lightblue", "greenyellow", "mediumvioletred", "papayawhip", "pink", "turquoise", "orange");
@@ -73,6 +77,8 @@ while (!feof($file)) {
 		$end = '';
 		echo2("// Start des Datensatzes\n");
 	}
+	echo(substr($zeile, 0, strlen($such_ende_datensatz)));
+	echo("\n\n");
 	if (substr($zeile, 0, strlen($such_ende_datensatz)) == $such_ende_datensatz) { //Ende des Datensatzes
 		echo2("// Ende des Datensatzes\n");
 
