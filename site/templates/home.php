@@ -126,7 +126,7 @@
                     <p>
                       Autor <b><?= $subpage->author() ?></b>, Datum: <?= $subpage->date()->toDate("d.m.Y") ?>
                     </p>
-                    
+
                     <a href="<?= $subpage->url() ?>" class="card-link">...weiterlesen</a>
                   </div>
                 </div>
@@ -139,23 +139,85 @@
         </div>
       </div>
 
-    <a href="<?= page("blogs") ?>">
-      <button class="btn btn-secondary">Weitere Nachrichten aus der Schule &#8594;</button>
-    </a>
+      <div class="container-fluid">
+        <div class="row example-centered">
+          <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+            <ul class="timeline timeline-centered">
+
+              <li class="timeline-item period">
+                <div class="timeline-info"></div>
+                <div class="timeline-marker"></div>
+                <div class="timeline-content">
+                  <h2 class="timeline-title pb-2">Aktuelles aus der Schule</h2>
+                  <h3 class="timeline-title">[Probeversion als Zeitleiste... Was sieht besser aus? Gerne Rückmeldungen!]</h3>
+
+                </div>
+              </li>
+
+              <?php $index = 0;
+              foreach (page('blogs')
+                ->children()
+                ->flip() as $subpage) : $index++ ?>
+
+
+                <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')) : ?>
+
+                  <li class="timeline-item">
+                    <div class="timeline-info">
+                      <span>
+                        Autor <b><?= $subpage->author() ?></b>, Datum: <?= $subpage->date()->toDate("d.m.Y") ?>
+                      </span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                      <p>
+                        <?= $subpage->Text()->blocks()->excerpt(250)   ?>
+                      </p>
+
+                      <a href="<?= $subpage->url() ?>" class="card-link">...weiterlesen</a>
+
+                    </div>
+                  </li>
+
+                <?php endif ?>
+              <?php endforeach ?>
+
+              <li class="timeline-item">
+                <div class="timeline-info">
+                  <span>1970er Jahre</span>
+                </div>
+                <div class="timeline-marker"></div>
+                <div class="timeline-content">
+
+                  <p>Schulbestand <strong>Anfang der 70er</strong>: fünf Grundschulen, eine Sonderschule für Lernbehinderte, drei als Grund- und Hauptschulen geführte Mittelpunktschulen sowie eine Realschule</p>
+                  <p><strong>1974 </strong>lange Zeit kaum aktive Betreibung von Bildungspolitik</p>
+                  <p>Reformklima in Rastede, Initiativgruppe diskutiert über die Gründung einer Kooperativen Gesamtschule</p>
+                  <p>Gemeinderat beschließt KGS und gibt <em>grünes Licht für Neubau</em></p>
+
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <a href="<?= page("blogs") ?>">
+        <button class="btn btn-secondary">Weitere Nachrichten aus der Schule &#8594;</button>
+      </a>
+
+    </div>
+    <div class="col-md-3">
+      <?php snippet('box-kalender') ?>
+      <?php snippet('box-presse') ?>
+      <?php snippet('box-foerderverein') ?>
+      <?php snippet('box-links') ?>
+      <?php //snippet('box-wetter') 
+      ?>
+    </div>
+
+
 
   </div>
-  <div class="col-md-3">
-    <?php snippet('box-kalender') ?>
-    <?php snippet('box-presse') ?>
-    <?php snippet('box-foerderverein') ?>
-    <?php snippet('box-links') ?>
-    <?php //snippet('box-wetter') 
-    ?>
-  </div>
-
-
-
-</div>
 </div>
 
 
