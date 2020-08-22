@@ -94,7 +94,7 @@
 
 
       <div class="container">
-        <h2 class="title">Aktuelle Nachrichten</h2>
+        <h1 class="title">Aktuelle Nachrichten</h1>
         <div class="row row-cols-1 row-cols-cs-1 row-cols-md-2 g-4">
 
           <!-- <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2"> -->
@@ -114,20 +114,37 @@
               <div class="col">
                 <div class="card">
                   <div class="card-body">
-                    <h4 class="card-title">
-                      <a href="<?= $subpage->url() ?>"><?= $subpage->title() ?></a>
-                    </h4>
+                    <h2 class="card-title">
+                      <?= $subpage->title() ?>
+                    </h2>
 
-                    <p class="card-text">
+                    <div class="text-right">
+                      <svg class="bi" width="24" height="24">
+                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags" />
+                      </svg>
+                      <?php foreach ($subpage->tags()->split() as $tag) : ?>
+                        <a href="<?= url('blogs', ['params' => ['tag' => $tag]]) ?>">
+                          <span class="badge rounded-pill bg-warning"><?= $tag ?></span>
+                        </a>
+                      <?php endforeach ?>
+
+                      - <b><?= $subpage->author() ?></b> - <?= $subpage->date()->toDate("d.m.Y") ?>
+                    </div>
+
+                    <p class="card-text mt-2">
                       <?= $subpage->Text()->blocks()->excerpt(250) ?>
                     </p>
                   </div>
-                  <div class="card-footer">
-                    <p>
-                      Autor <b><?= $subpage->author() ?></b>, Datum: <?= $subpage->date()->toDate("d.m.Y") ?>
-                    </p>
 
-                    <a href="<?= $subpage->url() ?>" class="card-link">...weiterlesen</a>
+
+                  <div class="card-footer">
+                    <div class="text-right">
+                      <a href="<?= $subpage->url() ?>">
+                        <button type="button" class="btn btn-warning">...weiterlesen</button>
+                      </a>
+                    </div>
+
+
                   </div>
                 </div>
               </div>
