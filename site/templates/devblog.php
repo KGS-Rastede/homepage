@@ -6,7 +6,7 @@
 <main role="main">
 
     <div class="flex mb-4">
-        <div class="w-3/4 bg-gray-300">
+    <div class="w-3/2 bg-gray-300">
 
             <h1 class="mt-6 ml-8 mb-6 text-4xl font-bold text-gray-900 leading-tight">
                 Der Entwicklerblog der KGS Rastede
@@ -24,15 +24,15 @@
                 <?php foreach ($articles->filterBy('featured', true) as $a) : ?>
                     <div class="max-w-lg mx-2 rounded overflow-hidden shadow-lg bg-gray-400">
 
-                        <div class="px-8 py-12">
+                    <div class="px-2 py-4">
                             <h1 class="mt-6 text-2xl font-bold text-gray-900 leading-tight">
                                 <?= $a->title() ?>
                             </h1>
-                            <p class="mt-2 text-gray-600">
+                            <p class="mt-3 text-gray-600">
                                 <?= $a->Text()->blocks()->excerpt(250) ?>
                             </p>
-                            <div class="mt-4 mt-">
-                                <a href="<?= $a->url() ?>" class="inline-block px-5 py-3 rounded-lg shadow-lg bg-indigo-500 hover:bg-indigo-400 text-sm text-white uppercase tracking-wider font-semibold">Weiterlesen</a>
+                            <div class="mt-5 mt-">
+                                <a href="<?= $a->url() ?>" class="inline-block px-2 py-2 rounded-lg shadow-lg bg-indigo-400 hover:bg-indigo-400 text-sm text-white uppercase tracking-wider font-semibold">Weiterlesen</a>
                             </div>
                         </div>
                     </div>
@@ -41,11 +41,11 @@
             </div>
 
             <!-- kleine Trennlinie -->
-            <hr class="border-b-2 mt-6 border-gray-400 mb-8 mx-4">
+            <hr class="border-b-4 mt-10 border-gray-400 mb-10 mx-8">
 
             <div class="max-w-screen-xl mx-auto px-2">
                 <!-- Grid wrapper -->
-                <div class="-mx-10 flex flex-wrap">
+                <div class="-mx-2 flex flex-wrap">
                     <?php foreach ($articles as $a) : ?>
 
                         <!-- Grid column -->
@@ -93,7 +93,7 @@
 
 
         </div>
-        <div class="w-1/4 bg-gray-400">
+        <div class="w-1/5 bg-gray-400">
 
             <h3 class="mt-6 mb-6 text-2xl text-gray-600">
                 Tagcloud
@@ -113,13 +113,13 @@
 
             ?>
 
-            <div class="px-6 py-4">
+            <div class="px-1 py-1">
 
                 <?php foreach ($tags_gezaehlt as $tagkey => $tagvalue) : ?>
                     <a href="<?= url('devblog', ['params' => ['tag' => $tagkey]]) ?>">
 
                         <span class="inline-block bg-blue-200 text-blue-800 text-lg p-2 m-2 rounded-full uppercase font-semibold tracking-wide"><?= $tagkey ?>
-                            <span class="bg-red-200 text-red-800 text-lg px-2 rounded"><?= $tagvalue ?>
+                        <span class="bg-red-200 text-red-800 text-lg px-1 rounded"><?= $tagvalue ?>
                             </span>
                         </span>
 
