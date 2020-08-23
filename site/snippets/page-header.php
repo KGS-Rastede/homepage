@@ -25,7 +25,7 @@
       </div>
       <small class="text-muted"><?= $page->subtitle() ?></small>
 
-      <p class="lead">
+      <h1 class="display-6 mb-3">
         <?= $page->heading() ?>
-      </p>
+      </h1>
     </div>
