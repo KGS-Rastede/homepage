@@ -94,7 +94,7 @@
 
 
         <h1 class="title">Aktuelle Nachrichten</h1>
-        <div class="row row-cols-1 row-cols-cs-1 row-cols-md-2 g-4">
+        <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2 g-4">
 
           <!-- <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2"> -->
 
