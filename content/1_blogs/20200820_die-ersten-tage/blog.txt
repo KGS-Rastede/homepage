@@ -11,122 +11,278 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Der Plan für die ersten Tage:",
-        "id": "_WhnYtdtaM",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
         "content": "Der <strong>erste Schultag</strong> nach den Sommerferien ist Donnerstag, der <strong>27. August 2020. </strong>Am ersten Schultag erhalten alle ihre Bücher.",
-        "id": "_9HTKzRgVG",
+        "id": "_RwBFwIWWc",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Dabei gelten die folgenden Regelungen:",
-        "id": "_fLKA8k5n6",
+        "id": "_1ibiLFBSk",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Jg. 5:</strong>",
-        "id": "_iSa9rQS0o",
+        "id": "_vS2vmJ71x",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Die 5. Klassen kommen zur 2. Stunde. Die Schülerinnen und Schüler wer­den auf dem Schulhof ab 8.30 Uhr von ihren Klassenlehrerinnen und Klassenlehrern in Empfang ge­nommen und haben dann von der 2. - 5. Stunde bei ihnen Unterricht.",
-        "id": "_i1sGExASw",
+        "id": "_mDgqFv1vk",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Von Freitag bis einschließlich Mittwoch hat der gesamte 5. Jahrgang Einlebenstage bei den Klassenlehrerinnen oder Klassenlehrern. ­",
-        "id": "_w4i5kmMMv",
+        "id": "_kcQ5rz2ga",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Jg. 6 - 8:</strong>",
-        "id": "_fJlQxd6A2",
+        "id": "_YEKaRt4D2",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Die Klassen kommen zur 1. Stunde und haben Donnerstag und Freitag Einlebenstage mit den Klassenlehrkräften.",
-        "id": "_UqPvzbllg",
+        "id": "_2SEkaRRhu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die 7. und 8. Klassen des Gymnasialzweiges bzw. Realschulzweigs werden von folgenden Klassenlehrkräften auf dem Schulhof abgeholt:",
+        "id": "_p8DYx3Glf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 07A3: Frau Schorling",
+        "id": "_8qfHYQv4H",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 07B3: Frau Brömer",
+        "id": "_won4qyvwx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 07C3: Frau Lorenz",
+        "id": "_E109LQgWO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 07D3: Frau Pohlgeers",
+        "id": "_taHBFow5t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 07E3: Frau Lisbach",
+        "id": "_hiLhGxzMv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 08A2: Frau Stübe",
+        "id": "_3vCR00ApO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 08A3: Frau Mellor",
+        "id": "_bFpinxiEr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 08B2: Frau Brumund",
+        "id": "_ovSIqtxLv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 08B3: Herr Elert",
+        "id": "_LBR76BWBi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 08C2: Herr Teske",
+        "id": "_SjYw5V0iu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 08C3: Frau Nowak",
+        "id": "_8XuugrK6x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 08D3: Frau Storz",
+        "id": "_AUl6XgLUH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 08E3: Frau Bothen",
+        "id": "_4Rf3JkiYh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Passwort für den Netzzugang erhalten die Schülerinnen und Schüler wie immer am ersten Schultag.",
+        "id": "_O8H5A2OBE",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Jg. 9 - 10:</strong>",
-        "id": "_EmhNLvCOC",
+        "id": "_wpcRaYPt4",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Die Klassen 9 - 10 kommen zur 1. Stunde. In der 1. und 2. Stunde findet Unterricht beim Klassenlehrer bzw. bei der Klassenlehrerin statt und ab der 3. Stunde Unterricht nach Plan. Der Nachmittagsunterricht findet am ersten Schultag mit Ausnahme der Arbeitsgemeinschaften statt.",
-        "id": "_jRsuOwz3j",
+        "id": "_pkZPke9lr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die 9. Klassen des Gymnasialzweiges werden von folgenden Klassenlehrkräften auf dem Schulhof abgeholt:",
+        "id": "_mQKMgAukT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 09A3: Frau Kehrberg- Diaconu",
+        "id": "_R62N4BePx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 09B3: Herr Schneemann",
+        "id": "_sh7M7hyXD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 09C3: Herr Dr. Stockmann",
+        "id": "_etJ5pv3di",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klasse 09D3: Frau Kühn",
+        "id": "_WJUXFkfnS",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Jahrgang 10 des Hauptschulzweigs hat am Donnerstag einen Klassenlehrertag.",
-        "id": "_qPzKxatNO",
+        "id": "_Cd799QdSn",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Jg. 11:</strong>",
-        "id": "_MyvQLPFPO",
+        "id": "_Org1HWfJx",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Die 11. Klassen haben von der 1. - 6. Std. Einlebenstag bei der Klassenlehrerin/ beim Klassenlehrer. Der Nachmittagsunterricht findet am ersten Schultag mit Ausnahme der Arbeitsgemeinschaften statt.",
-        "id": "_CRRjPWZDV",
+        "id": "_IZxjv3Ejo",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Jg. 12:</strong>",
-        "id": "_CShiKJ1ui",
+        "id": "_zI2Xg1oJk",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Der 12. Jahrgang kommt zur Bücherausgabe in der 1. Stunde (8.00 Uhr). In der 2. Stunde findet in der Aula die Jahrgangsversammlung (Herr Diekmann) statt. Ab der 3. Stunde findet ein Einlebenstag mit der Tutorin bzw. dem Tutor im Seminarfach (3.- 6. Std.) statt. Der Nachmittagsunterricht findet am ersten Schultag mit Ausnahme der Arbeitsgemeinschaften statt.",
-        "id": "_ktonksJCd",
+        "id": "_0jDDClZqX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bücherausgabe für JG. 12 in Raum 108: 8:00 Uhr bis 8:45 Uhr",
+        "id": "_qo0ADzYFb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nachnamen beginnend mit",
+        "id": "_fANIVpFC5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "A bis H 8.00 - 8.15 Uhr",
+        "id": "_DVBJVP4lZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "J bis N 8.15 - 8.30 Uhr",
+        "id": "_K8T3n9wVU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "O bis Z 8.30 - 8.45 Uhr",
+        "id": "_zHQ1xEyjQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nur zu diesen Zeiten betreten die SchülerInnen ohne Aufforderung und ohne Begleitung durch die Lehrkräfte das Schulgebäude und gehen direkt zum R. 108. Nach der Bücherausgabe gehen die SchülerInnen wieder auf den Schulhof.",
+        "id": "_b7A177SlM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der 2.Stunde gehen die SchülerInnen zur Aula.",
+        "id": "_RrFQlV9mm",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Jg. 13:</strong>",
-        "id": "_DgJXOkbJ7",
+        "id": "_xtnqkX7eA",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Der 13. Jahrgang kommt zur Jahrgangsversammlung (Herr Diekmann) in der 1. Stunde (8.00 Uhr) in die Aula. In der 2. Stunde findet in R 136 die Jahrgangsversammlung (nur Schülerinnen und Schüler) statt. Ab der 3. Stunde findet Unterricht nach Plan bis einschl. 8. Std. statt.",
-        "id": "_WNHJrZFMh",
+        "content": "Der 13. Jahrgang kommt zur Jahrgangsversammlung (Herr Diekmann) in der 1. Stunde (8.00 Uhr) in die Aula. In der 2. Stunde findet in R. 136 die Jahrgangsversammlung (nur Schülerinnen und Schüler) statt. 3. - 6. Std. Stunde findet Unterricht nach Plan statt. 7./8. Std. Ausgabe der Facharbeitsthemen bei der Seminarfachlehrkraft.",
+        "id": "_FTJ0poHQp",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Alle Jahrgänge:</strong>",
-        "id": "_juCbldKcM",
+        "id": "_d4ihr7szq",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Die Hausaufgabenbetreuung beginnt am 31. August 2020.",
-        "id": "_aTiySxIij",
+        "id": "_EdxXNDGj4",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Der Förderunterricht und die Arbeitsgemeinschaften beginnen ab dem 07. September 2020.",
-        "id": "_WURGT4vPV",
+        "content": "Der Förderunterricht und die Arbeitsgemeinschaften beginnen ab dem 14. September 2020.",
+        "id": "_AbjQHFyM5",
         "type": "paragraph"
     }
 ]

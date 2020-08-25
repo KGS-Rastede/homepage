@@ -12,8 +12,8 @@ Text:
     {
         "attrs": [],
         "content": "Liebe Schülerinnen und Schüler,",
-        "id": "_aksmlg0l5",
-        "type": "h2"
+        "id": "_840d06rx6",
+        "type": "paragraph"
     },
     {
         "attrs": [],
@@ -68,6 +68,30 @@ Text:
         "content": "P.S.: Ergänzungen folgen...",
         "id": "_j2e2jvRsB",
         "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_bvykv1rnw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Pausenbereiche</strong>: In der Feldbreite sind die Bereiche markiert, WIlhelmstraße siehe hier:",
+        "id": "_it0ropcvx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em><a href=\"http://kirby/panel/pages/blogs+schulstart-august-2020/files/grpausen.jpg\">grpausen.jpg</a></em>",
+        "id": "_qmxxatoev",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_0236osy6v",
+        "type": "paragraph"
     }
 ]
 
@@ -106,6 +130,7 @@ Downloads:
   2020-08-14_brief_an_schulleitungen_und_lehrkr_fte.pdf
 - >
   leitfaden_sj_20-21_allg.bild._schulen.pdf
+- grpausen.jpg
 
 ----
 

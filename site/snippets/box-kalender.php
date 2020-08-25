@@ -37,7 +37,7 @@
                 allDayText: "ganztägig",
                 noEventsContent: "Keine Ereignisse anzuzeigen",
                 displayEventTime: true, // don't show the time column in list view
-                events: '<?= $kirby->url('assets') ?>/kalender/schulkalender.json'
+                events: '<?= $kirby->url('assets') ?>/kalender/schuljahresplaner.json'
             });
 
             calendar.render();

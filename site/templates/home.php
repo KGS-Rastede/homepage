@@ -93,80 +93,51 @@
 
 
 
-      <div class="container">
-        <h2 class="title">Aktuelle Nachrichten</h2>
-        <div class="container-fluid">
-          <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2">
+      <h1 class="title">Aktuelle Nachrichten</h1>
+      <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2 g-4">
 
-            <!--  
+        <!-- <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2"> -->
+
+
+
+        <!--  
                     Jetzt werden die Elemente angefügt. 
                     -->
-            <?php $index = 0;
-            foreach (page('blogs')
-              ->children()
-              ->flip() as $subpage) : $index++ ?>
+        <?php $index = 0;
+        foreach (page('blogs')
+          ->children()
+          ->flip() as $subpage) : $index++ ?>
 
 
-              <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')) : ?>
+          <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')) : ?>
+            <?php
+            snippet('blogkarte', ['subpage' => $subpage]);
+            ?>
+          <?php endif ?>
 
 
-                <!--  
-                      % 2 testet letztlich, ob der Wert in $index gerade ist oder nicht
-                      Das heißt: "glatt durch 2 teilbar".
-
-                      Ich möchte effektiv bei jedem zweiten Artikel das Bild links und 
-                      den Text rechts haben, um das Design etwas aufzulockern
-                    -->
-                <div class="card">
-                  <div class="row my-4">
-
-                    <!-- der ersten beiden Zeilen sind immer gleich -->
-
-
-                    <?php if ($index % 2 == 0) : ?>
-
-                      <?php snippet('teaser-bild', [
-                        'subpage' => $subpage
-                      ]) ?>
-
-                      <?php snippet('teaser-bild-text', [
-                        'subpage' => $subpage
-                      ]) ?>
-
-                    <?php else : ?>
-
-                      <?php snippet('teaser-bild-text', [
-                        'subpage' => $subpage
-                      ]) ?>
-
-                      <?php snippet('teaser-bild', [
-                        'subpage' => $subpage
-                      ]) ?>
-
-                    <?php endif ?>
-
-                  </div>
-                </div>
-              <?php endif ?>
-
-
-            <?php endforeach ?>
-          </div>
-        </div>
+        <?php endforeach ?>
 
       </div>
+
+
+
+
       <a href="<?= page("blogs") ?>">
         <button class="btn btn-secondary">Weitere Nachrichten aus der Schule &#8594;</button>
       </a>
 
     </div>
+
     <div class="col-md-3">
-      <?php snippet('box-kalender') ?>
-      <?php snippet('box-presse') ?>
-      <?php snippet('box-foerderverein') ?>
-      <?php snippet('box-links') ?>
-      <?php //snippet('box-wetter') 
-      ?>
+      <div class="container mt-5">
+        <?php snippet('box-kalender') ?>
+        <?php snippet('box-presse') ?>
+        <?php snippet('box-foerderverein') ?>
+        <?php snippet('box-links') ?>
+        <?php //snippet('box-wetter') 
+        ?>
+      </div>
     </div>
 
 

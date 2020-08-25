@@ -11,7 +11,7 @@
     </h5>
 </div>
 
-<div class="row row-cols-1 row-cols-md-3">
+<div class="row row-cols-1 row-cols-sm-3 row-cols-md-4 row-cols-lg-8">
     <?php foreach ($page->children() as $kontakt) : ?>
         <div class="col mb-4">
 

@@ -15,7 +15,7 @@
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
-    
+
     var calendar = new FullCalendar.Calendar(calendarEl, {
       locale: 'de', //Darstellung auf Deutsch
       headerToolbar: {
@@ -23,7 +23,7 @@
         center: 'title',
         right: 'dayGridMonth,timeGridWeek,timeGridDay,listWeek'
       },
-      
+
       buttonText: {
         today: 'Heute',
         month: 'Monat',
@@ -41,7 +41,7 @@
       allDayText: "ganztägig",
       noEventsContent: 'Keine Ereignisse anzuzeigen',
       displayEventTime: false, // don't show the time column in list view
-      events: '<?= $kirby->url('assets') ?>/kalender/schulkalender.json'
+      events: '<?= $kirby->url('assets') ?>/kalender/schuljahresplaner.json'
     });
 
     calendar.render();
@@ -49,6 +49,7 @@
   });
 </script>
 
-<div id='calendar'></div>
-
+<div class="container mb-5">
+  <div id='calendar'></div>
+</div>
 <?php snippet('footer') ?>

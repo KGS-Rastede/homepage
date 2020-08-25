@@ -4,6 +4,8 @@
 
 @import "./functions";
 
+$font-family-base: "Verdana";
+
 /* -------begin customization-------- */
 
 // /* die Standardfarben festlegen */
@@ -38,51 +40,6 @@ $theme-colors: (
     background-color: #0e5499 !important;
 }
 
-p {
-    font-size: 1.2rem;
-}
-
-.infokasten {
-    padding: 50px 0px;
-}
-
-.showcase {
-    background: url(../img/stifte.jpg) no-repeat 0 -100px;
-    height: 600px;
-    padding: 30px 0;
-
-    .container {
-        background: #fff;
-        opacity: 0.95;
-        padding: 20px 30px 30px 30px;
-    }
-}
-
-// Diese Klasse wird benutzt als Überschrift einer jeden Seite
-.titelfeld {
-    .container {
-        background: $light;
-        border-radius: 20px;
-        opacity: 0.95;
-        padding: 20px 30px 30px 30px;
-        margin-top: 40px;
-    }
-}
-
-.blogpost {
-    .container {
-        background: $blue-100;
-        border-radius: 20px;
-        opacity: 0.95;
-        padding: 20px 30px 30px 30px;
-        margin-top: 40px;
-    }
-}
-
-.panel-heading h4 {
-    color: set-text-color($primary);
-}
-
 .main {
     margin-top: 30px;
 }
@@ -98,15 +55,6 @@ footer {
 
 $primary-color: #ff6b6b;
 $primary-color-hover: scale-color($primary-color, $lightness: 32%);
-
-.container-fluid {
-    .row {
-        padding: 0 0 4em 0;
-        &:nth-child(even) {
-            background: #ffffff;
-        }
-    }
-}
 
 /*==================================
     TIMELINE

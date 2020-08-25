@@ -20,11 +20,12 @@
         <hr>
         <ul>
             <a href="https://www.schuelerzeitung.kgs-rastede.de/">
-                <img src="<?= $kirby->url('assets') ?>/bilder/banner_schuelerzeitung.jpg" class="img-fluid">
+                <img src="<?= $kirby->url('assets') ?>/bilder/irregulaer.png" alt="Schülerzeitung" class="img-fluid">
             </a>
         </ul>
+        <hr>
         <ul>
-        <li><a class="text-muted" href="<?= page('allgemeines/mensa')->url() ?>">Mensa</a></li>
+            <a href="<?= page('allgemeines/mensa')->url() ?>" class="btn btn-warning btn-lg btn-block" role="button" aria-pressed="true">Mensa</a>
         </ul>
     </div>
 </div>

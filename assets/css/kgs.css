@@ -14,45 +14,6 @@
   background-color: #0e5499 !important;
 }
 
-p {
-  font-size: 1.2rem;
-}
-
-.infokasten {
-  padding: 50px 0px;
-}
-
-.showcase {
-  background: url(../img/stifte.jpg) no-repeat 0 -100px;
-  height: 600px;
-  padding: 30px 0;
-}
-.showcase .container {
-  background: #fff;
-  opacity: 0.95;
-  padding: 20px 30px 30px 30px;
-}
-
-.titelfeld .container {
-  background: #f8f9fa;
-  border-radius: 20px;
-  opacity: 0.95;
-  padding: 20px 30px 30px 30px;
-  margin-top: 40px;
-}
-
-.blogpost .container {
-  background: #a8cbfe;
-  border-radius: 20px;
-  opacity: 0.95;
-  padding: 20px 30px 30px 30px;
-  margin-top: 40px;
-}
-
-.panel-heading h4, .panel-heading .h4 {
-  color: #000000;
-}
-
 .main {
   margin-top: 30px;
 }
@@ -62,13 +23,6 @@ footer {
   padding: 30px 0;
   background: #e6e6e6;
   color: #000000;
-}
-
-.container-fluid .row, .container-xxl .row, .container-xl .row, .container-lg .row, .container-md .row, .container-sm .row {
-  padding: 0 0 4em 0;
-}
-.container-fluid .row:nth-child(even), .container-xxl .row:nth-child(even), .container-xl .row:nth-child(even), .container-lg .row:nth-child(even), .container-md .row:nth-child(even), .container-sm .row:nth-child(even) {
-  background: #ffffff;
 }
 
 /*==================================
@@ -350,7 +304,7 @@ footer {
 
 body {
   margin: 0;
-  font-family: var(--bs-font-sans-serif);
+  font-family: "Verdana";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -5569,7 +5523,7 @@ button.close {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: var(--bs-font-sans-serif);
+  font-family: "Verdana";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -5671,7 +5625,7 @@ button.close {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: var(--bs-font-sans-serif);
+  font-family: "Verdana";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;

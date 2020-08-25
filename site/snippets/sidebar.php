@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container-fluid">
     <?php if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty()) : ?>
         <div class="row">
             <div class="col-9">
