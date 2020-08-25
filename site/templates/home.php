@@ -131,6 +131,7 @@
 
     <div class="col-md-3">
       <div class="container mt-5">
+        <?php snippet('box-schnellzugriff') ?>
         <?php snippet('box-kalender') ?>
         <?php snippet('box-presse') ?>
         <?php snippet('box-foerderverein') ?>

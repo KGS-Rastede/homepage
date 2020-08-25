@@ -11,11 +11,6 @@ sections:
   content:
     type: fields
     fields:
-      text:
-        label: Inhalt
-        type: editor
-      line:
-        type: line
       inhalte:
         label: Links
         type: structure
@@ -29,6 +24,12 @@ sections:
           name:
             label: Bezeichnung des Links
             type: text
+          beschreibung:
+            label: kurze Beschreibung
+            type: text
+          startseite:
+            label: Startseite? 
+            type: toggle
 
 
         
