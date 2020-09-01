@@ -15,6 +15,13 @@ return [
     // Automatically resize images on upload 2000px width
     'medienbaecker.autoresize.maxWidth' => 1000,
 
+    // Anpassungen des Panels
+    // Anleitung siehe hier: 
+    //    https://getkirby.com/docs/cookbook/panel/customizing-panel
+    'panel' => [
+        'css' => 'assets/css/custom-panel.css'
+    ],
+
     'email' => [
         'presets' => [
             'contact' => [
