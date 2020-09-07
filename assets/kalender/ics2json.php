@@ -110,5 +110,5 @@ while(!feof($file)) {
 echo2 ('<br>'.']'); //Ende der JSON-Datei
 fclose ($file);
 fclose ($exportjson);
-echo $datensatz_nr.'Termine umgewandelt ics <-> json, ics2json fertig ...';
+echo $datensatz_nr.' Termine umgewandelt ics <-> json, ics2json fertig ...';
 ?>
