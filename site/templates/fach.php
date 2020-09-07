@@ -28,7 +28,9 @@
                 <a href="<?= $lehrplan->link()->toFile()->url() ?>">
                   Download
                   <button type="button" rel="tooltip" class="btn btn-info btn-just-icon btn-sm">
-                    <img src="<?= $kirby->url('assets') ?>/icons/cloud-download.svg">
+                    <svg class="bi" width="24" height="24">
+                      <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
+                    </svg>
                   </button>
                 </a>
               </td>
@@ -44,18 +46,18 @@
 
 <!-- Die Inhalte, die immer sichtbar sein sollen, sollen über den Blogs stehen  -->
 <div class="container ml-auto mr-auto">
-    <?php snippet('blogs', [
-      'blogs' => page('blogs')
-        ->children()
-        ->listed()
-        ->filterBy('immer_sichtbar', true)
-        ->filterBy('tags', $page->haupttag(), ',')
-        ->flip()
-    ]) ?>
+  <?php snippet('blogs', [
+    'blogs' => page('blogs')
+      ->children()
+      ->listed()
+      ->filterBy('immer_sichtbar', true)
+      ->filterBy('tags', $page->haupttag(), ',')
+      ->flip()
+  ]) ?>
 </div>
 
 
-<?php if ( page('blogs')->children()->listed()->filterBy('tags', $page->haupttag(), ',')->isNotEmpty() ): ?>
+<?php if (page('blogs')->children()->listed()->filterBy('tags', $page->haupttag(), ',')->isNotEmpty()) : ?>
 
   <h2>Aktuelles aus dem Fach</h2>
 
@@ -75,18 +77,18 @@
 
 
 
-<?php if ( $page->hasImages() ) :?>
+<?php if ($page->hasImages()) : ?>
 
-<div class="container ml-auto mr-auto">
+  <div class="container ml-auto mr-auto">
 
-  <?php if ($page->fotoansicht() == 'carousel') : ?>
-    <?php snippet('carousel') ?>
-  <?php elseif ($page->fotoansicht() == 'gallery') : ?>
-    <?php snippet('gallery') ?>
-  <?php else : ?>
-    <!-- Bilder werden vom Autor manuel gesetzt -->
-  <?php endif ?>
-</div>
+    <?php if ($page->fotoansicht() == 'carousel') : ?>
+      <?php snippet('carousel') ?>
+    <?php elseif ($page->fotoansicht() == 'gallery') : ?>
+      <?php snippet('gallery') ?>
+    <?php else : ?>
+      <!-- Bilder werden vom Autor manuel gesetzt -->
+    <?php endif ?>
+  </div>
 
 <?php endif ?>
 
