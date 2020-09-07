@@ -35,6 +35,13 @@
 "textColor": "#707070"
 },
 {
+"title": "Next Level Vortrag Jg.9",
+"start": "2020-09-29T08:00",
+"end": "2020-09-29T14:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Sommerferien",
 "start": "2016-06-23",
 "end": "2016-08-04",
@@ -98,13 +105,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenlehrerinnen 5 (Verkehrswoche)",
-"start": "2018-06-04",
-"end": "2018-06-05",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "BERMUN",
 "start": "2018-11-14",
 "end": "2018-11-18",
@@ -123,6 +123,13 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
+"textColor": "#707070"
+},
+{
+"title": "Pfingstferien",
+"start": "2021-05-25",
+"end": "2021-05-26",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -147,13 +154,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Lebensrettende-Sofortmaßnahmen-Schule – 8 – 16 Uhr",
-"start": "--",
-"end": "--",
-"color": "pink",
-"textColor": "#707070"
-},
-{
 "title": "Trierfahrt (Latein)",
 "start": "2019-06-03",
 "end": "2019-06-08",
@@ -175,10 +175,17 @@
 "textColor": "#707070"
 },
 {
-"title": "Nachschreibtermin Abschlussarbeit Englisch",
-"start": "2017-05-16",
-"end": "2017-05-17",
-"color": "papayawhip",
+"title": "Kino-Seminare zu Propagandafilmen",
+"start": "2021-01-27T10:00",
+"end": "2021-01-27T13:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Klassenelternschaftswahlen 7, 10HZ und Nachwahlen",
+"start": "2020-09-17T20:00",
+"end": "2020-09-17T21:30",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -186,6 +193,13 @@
 "start": "2019-03-28",
 "end": "2019-03-29",
 "color": "lightblue",
+"textColor": "#707070"
+},
+{
+"title": "Verkehrswoche JG 5",
+"start": "2021-06-28",
+"end": "2021-07-01",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -294,21 +308,7 @@
 "textColor": "#707070"
 },
 {
-"title": "---Antragsfrist Wandertag",
-"start": "2019-05-30",
-"end": "2019-05-31",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "---Umweltausschuss",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---DB Abschlussfeiern HZ/RZ",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -420,13 +420,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Förderkonzept 3.7.11 Bericht LSchB jährlich",
-"start": "2006-05-01",
-"end": "2006-05-02",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "---Zeugniskonferenz (9-10HZ/RZ, 7GZ, 11)",
 "start": "2019-01-22",
 "end": "2019-01-23",
@@ -476,24 +469,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Kennenlernfahrt Jg. 5",
 "start": "2017-11-01",
 "end": "2017-11-04",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "---Blaue Briefe",
-"start": "2019-04-26",
-"end": "2019-04-27",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -546,31 +525,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter",
-"start": "2018-06-19",
-"end": "2018-06-20",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Vergleichsarbeit VERA8 Deutsch (alternativ 26.02.2019) - laut MK au",
 "start": "2019-02-19",
 "end": "2019-02-20",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Lebensrettende-Sofortmaßnahmen-Schule – 8 – 16 Uhr",
-"start": "--",
-"end": "--",
-"color": "pink",
 "textColor": "#707070"
 },
 {
@@ -588,24 +546,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---DB Sprachlernklasse",
-"start": "2017-08-28",
-"end": "2017-08-29",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Gesamtkonferenz",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "+++Koordinationstreffen Personalrat - Schulelternrat - Schülervert",
-"start": "2017-09-25",
-"end": "2017-09-26",
-"color": "white",
 "textColor": "#707070"
 },
 {
@@ -620,13 +564,6 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Verabschiedungen 16:30 Uhr",
-"start": "--",
-"end": "--",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -672,13 +609,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Matheolympiade Landesrunde in Göttingen",
-"start": "2019-02-22",
-"end": "2019-02-24",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Infoveranstaltung Duales Studium Jg. 11 - entfällt 2018/2019",
 "start": "2019-03-12",
 "end": "2019-03-13",
@@ -710,13 +640,6 @@
 "title": "FK (FR)",
 "start": "--",
 "end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5-11 a",
-"start": "2019-01-25",
-"end": "2019-01-26",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -805,13 +728,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung neues Schuljahr",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "schriftl. Abitur - Spanisch",
 "start": "2017-03-28",
 "end": "2017-03-29",
@@ -868,13 +784,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Matheolympiade Landesrunde in Göttingen",
-"start": "2017-02-24",
-"end": "2017-02-26",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Besichtigung des Gebäudes an der Feldbreite für die Eltern der 4.",
 "start": "--",
 "end": "--",
@@ -899,13 +808,6 @@
 "title": "FBK (MA, DE)",
 "start": "--",
 "end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter",
-"start": "2020-07-07",
-"end": "2020-07-08",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -966,13 +868,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Nachschreibtermin Abschlussarbeit Mathematik",
-"start": "2019-05-20",
-"end": "2019-05-21",
-"color": "papayawhip",
-"textColor": "#707070"
-},
-{
 "title": "Weihnachtsforum 5/6",
 "start": "--",
 "end": "--",
@@ -1001,13 +896,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Individuelle Lernentwicklung Jg. 5-8",
-"start": "2018-11-05",
-"end": "2018-11-06",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Wanderwoche (Klassenfahrten - Studienfahrten)",
 "start": "2018-09-10",
 "end": "2018-09-15",
@@ -1019,13 +907,6 @@
 "start": "2017-06-04",
 "end": "2017-06-05",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung 5/6 (Sommerfest/Verkehrswoche)",
-"start": "2019-05-13",
-"end": "2019-05-14",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -1043,17 +924,17 @@
 "textColor": "#707070"
 },
 {
-"title": "Statistik 2. Halbjahr",
-"start": "2008-02-01",
-"end": "2008-02-15",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Himmelfahrt",
 "start": "2017-05-25",
 "end": "2017-05-26",
 "color": "orange",
+"textColor": "#707070"
+},
+{
+"title": "Einlebenstage JG 5",
+"start": "2020-08-27",
+"end": "2020-09-03",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -1068,20 +949,6 @@
 "start": "2018-03-30",
 "end": "2018-03-31",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung Klassenteams Jg. 8HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung neues Schuljahr",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -1183,20 +1050,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung: ILE Inklusion",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Kollegiumsfest",
-"start": "2017-06-19",
-"end": "2017-06-20",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Workshop und Schulbigband KGS (MER und KNR)",
 "start": "2018-10-27",
 "end": "2018-10-29",
@@ -1218,10 +1071,31 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung SII Rückläufer (alle Lehrkräfte P1- P3 und Tut",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "Sprechprüfungen EN HZ/RZ 10",
+"start": "2021-04-14",
+"end": "2021-04-16",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Herbstferien 2020 Niedersachsen",
+"start": "2020-10-12",
+"end": "2020-10-24",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schulvorstand",
+"start": "2020-11-03T17:00",
+"end": "2020-11-03T20:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Steuerungsausschuss",
+"start": "2020-10-05T16:15",
+"end": "2020-10-05T18:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -1253,13 +1127,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenlehrer 5 - GS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---The Big Challenge",
 "start": "2019-05-07",
 "end": "2019-05-08",
@@ -1271,13 +1138,6 @@
 "start": "2019-03-21",
 "end": "2019-03-22",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -1379,34 +1239,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Individuelle Lernentwicklung Jg. 5-8",
-"start": "2018-11-05",
-"end": "2018-11-06",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "DB Sprachlernklasse",
-"start": "2016-09-12",
-"end": "2016-09-13",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Verabschiedung",
-"start": "--",
-"end": "--",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "---Prämierung Vorlesewettbewerb 6. Klassen",
 "start": "2018-12-06",
 "end": "2018-12-07",
@@ -1452,13 +1284,6 @@
 "title": "Kompetenzfeststellungsverfahren 08HZ/RZ",
 "start": "2017-06-12",
 "end": "2017-06-16",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2019-01-23",
-"end": "2019-01-24",
 "color": "lightblue",
 "textColor": "#707070"
 },
@@ -1561,6 +1386,13 @@
 "textColor": "#707070"
 },
 {
+"title": "Abgabe der Förderpläne beim Koordinator für Inklusion",
+"start": "2020-11-30",
+"end": "2020-12-01",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "schriftl. Abitur - Deutsch",
 "start": "2019-04-30",
 "end": "2019-05-01",
@@ -1600,6 +1432,13 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
+"textColor": "#707070"
+},
+{
+"title": "Gesamtkonferenz",
+"start": "2020-12-01T16:15",
+"end": "2020-12-01T19:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -1680,13 +1519,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Schulvorstand",
 "start": "--",
 "end": "--",
@@ -1705,13 +1537,6 @@
 "start": "2018-02-01",
 "end": "2018-02-03",
 "color": "orange",
-"textColor": "#707070"
-},
-{
-"title": "---Verabschiedungen 16:30Uhr + Kollegiumsfest 18:00Uhr",
-"start": "--",
-"end": "--",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -1771,13 +1596,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Deutsch-polnischer Schüleraustausch in Gorzów",
 "start": "2017-03-30",
 "end": "2017-04-08",
@@ -1799,13 +1617,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Lions Quest - Einführungsseminar",
 "start": "2018-11-08",
 "end": "2018-11-11",
@@ -1817,13 +1628,6 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "RoboCup Nordwest",
-"start": "2019-02-13",
-"end": "2019-02-16",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -1869,13 +1673,6 @@
 "textColor": "#707070"
 },
 {
-"title": "FBL MA, DE, EN - GS-KGS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Begrüßungsfeier Jg. 5",
 "start": "--",
 "end": "--",
@@ -1918,17 +1715,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Beratungsausschuss (unter Vorbehalt)",
-"start": "2019-01-15",
-"end": "2019-01-16",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Informationstreffen Gleichstellungsbeauftragte",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "Zukunftstag",
+"start": "2021-04-22",
+"end": "2021-04-23",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -1960,20 +1750,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2019-01-28",
-"end": "2019-01-29",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Verabschiedungen 16:30 Uhr",
-"start": "--",
-"end": "--",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Dienstbesprechung neues Schuljahr",
 "start": "--",
 "end": "--",
@@ -1995,10 +1771,38 @@
 "textColor": "#707070"
 },
 {
-"title": "Nachschreibtermin Abschlussarbeit Englisch",
-"start": "2018-05-23",
-"end": "2018-05-24",
-"color": "papayawhip",
+"title": "Steuerungsausschuss",
+"start": "2020-11-09T16:15",
+"end": "2020-11-09T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Elternsprechtag",
+"start": "2020-11-25T16:00",
+"end": "2020-11-25T19:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Osterferien",
+"start": "2021-03-29",
+"end": "2021-04-10",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Informationen Jg. 10 zur Sek. II für Schüler",
+"start": "2021-01-19T11:50",
+"end": "2021-01-19T13:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schulelternrat",
+"start": "2020-09-22T19:30",
+"end": "2020-09-22T21:30",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -2163,13 +1967,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Klassenteams Jg. 7HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "FK (MA, WN)",
 "start": "--",
 "end": "--",
@@ -2219,24 +2016,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Deutsch-Spanischer Schüleraustausch in Madrid",
 "start": "2019-09-23",
 "end": "2019-10-02",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "Personalversammlung",
-"start": "2019-02-04",
-"end": "2019-02-05",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -2265,13 +2048,6 @@
 "start": "2019-05-31",
 "end": "2019-06-01",
 "color": "orange",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -2310,13 +2086,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Klassenteams Jg. 6HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Matheolympiade Schulrunde",
 "start": "2016-11-09",
 "end": "2016-11-10",
@@ -2352,13 +2121,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenteams Jg. 8HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Weihnachtsforum 5/6",
 "start": "--",
 "end": "--",
@@ -2377,13 +2139,6 @@
 "start": "2016-06-06",
 "end": "2016-06-09",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Warnung in den Epochalfächern",
-"start": "2018-11-12",
-"end": "2018-11-13",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -2408,13 +2163,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Individuelle Lernentwicklung Jg. 5-8",
-"start": "2019-10-28",
-"end": "2019-10-29",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Fremdsprachenlesewettbewerb EN (3./4.) -  FR, SP (5./6.)",
 "start": "--",
 "end": "--",
@@ -2422,21 +2170,7 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung: Klassenlehrer 5/6 - Soziales Lernen",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Klassenteamsitzung II HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung Klassenlehrer 11 - Wahlen Qualiphase",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -2471,24 +2205,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Individuelle Lernentwicklung Jg. 5-9",
-"start": "2017-10-16",
-"end": "2017-10-17",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "FK (EN, MA)",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Nachschreibtermin Abschlussarbeit Mathematik",
-"start": "2019-05-20",
-"end": "2019-05-21",
-"color": "papayawhip",
 "textColor": "#707070"
 },
 {
@@ -2506,17 +2226,17 @@
 "textColor": "#707070"
 },
 {
+"title": "Warnung Epochalfächer",
+"start": "2020-11-30",
+"end": "2020-12-01",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Umweltausschuss",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Antragsfrist Wandertag",
-"start": "2020-03-26",
-"end": "2020-03-27",
-"color": "greenyellow",
 "textColor": "#707070"
 },
 {
@@ -2583,13 +2303,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2019-01-23",
-"end": "2019-01-24",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "---Information der 5. Klassen RZ über Französisch und die weitere",
 "start": "--",
 "end": "--",
@@ -2636,13 +2349,6 @@
 "start": "2017-05-29",
 "end": "2017-06-03",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "Letzter Warntermin Versetzungsgefährdung bei Leistungsabfall nach",
-"start": "2020-06-05",
-"end": "2020-06-06",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -2702,13 +2408,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Matheolympiade Landesrunde in Göttingen",
-"start": "2018-02-23",
-"end": "2018-02-25",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "---Herausforderungsprojekt - Raum 235",
 "start": "--",
 "end": "--",
@@ -2751,13 +2450,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Nachschreibtermin Abschlussarbeit Deutsch",
-"start": "2018-05-17",
-"end": "2018-05-18",
-"color": "papayawhip",
-"textColor": "#707070"
-},
-{
 "title": "Information der 5. Klassen RZ über Französisch und die weiteren P",
 "start": "--",
 "end": "--",
@@ -2765,10 +2457,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Filmanalyse - Fortbildung",
-"start": "2017-01-24",
-"end": "2017-01-25",
-"color": "pink",
+"title": "Apfeltag 5. JG",
+"start": "2020-09-22T08:00",
+"end": "2020-09-22T13:30",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -2797,13 +2489,6 @@
 "start": "2018-01-15",
 "end": "2018-01-27",
 "color": "turquoise",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Abschlussarbeiten HZ/RZ an KLE",
-"start": "--",
-"end": "--",
-"color": "papayawhip",
 "textColor": "#707070"
 },
 {
@@ -2839,6 +2524,13 @@
 "start": "--",
 "end": "--",
 "color": "lightgrey",
+"textColor": "#707070"
+},
+{
+"title": "Umweltwoche JG 7",
+"start": "2021-07-12",
+"end": "2021-07-16",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -2891,13 +2583,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Informationstreffen Gleichstellungsbeauftragte",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Abschlussarbeit Mathematik",
 "start": "2019-05-09",
 "end": "2019-05-10",
@@ -2933,13 +2618,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Koordinationstreffen Personalrat - Schulelternrat - Schülervertret",
-"start": "2016-09-26",
-"end": "2016-09-27",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Herbstferien",
 "start": "2018-10-01",
 "end": "2018-10-13",
@@ -2954,24 +2632,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenteams Jg. 6HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Zeugniskonferenz (5-6HZ/RZ, 9-10GZ)",
 "start": "2019-01-21",
 "end": "2019-01-22",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "DB Kursbesetzung SII",
-"start": "--",
-"end": "--",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -3007,13 +2671,6 @@
 "start": "2017-09-11",
 "end": "2017-09-16",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "---Warnung in den Epochalfächern",
-"start": "2018-11-12",
-"end": "2018-11-13",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -3063,13 +2720,6 @@
 "start": "2020-07-16",
 "end": "2020-08-27",
 "color": "orange",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5-11 a",
-"start": "2020-01-24",
-"end": "2020-01-25",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -3171,31 +2821,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Klassenteams Jg. 9HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Mündliche Abschlussprüfung HZ/RZ (unterrichtsfrei HZ/RZ - 29.05.",
 "start": "2017-05-29",
 "end": "2017-06-01",
 "color": "papayawhip",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung KlassenlehrerInnen 5 (Verkehrswoche)",
-"start": "2017-05-22",
-"end": "2017-05-23",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Beratungsausschuss",
-"start": "2018-01-09",
-"end": "2018-01-10",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -3245,6 +2874,13 @@
 "start": "2019-02-20",
 "end": "2019-02-21",
 "color": "skyblue",
+"textColor": "#707070"
+},
+{
+"title": "Zeugnisausgabe",
+"start": "2021-07-21T10:00",
+"end": "2021-07-21T10:45",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -3332,13 +2968,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Informationstreffen Gleichstellungsbeauftragte",
-"start": "2017-01-24T16:15",
-"end": "2017-01-24T17:30",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Pfingstferien",
 "start": "2019-06-11",
 "end": "2019-06-12",
@@ -3371,13 +3000,6 @@
 "start": "2017-07-31",
 "end": "2017-08-02",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "40 Jahre deutsch-niederländischer Schüleraustausch",
-"start": "2020-08-01",
-"end": "2020-08-02",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -3437,24 +3059,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung: Inklusion",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Deutsch-niederländischer Schüleraustausch in Rastede",
 "start": "2018-11-29",
 "end": "2018-12-04",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der schriftlichen Abiturarbeiten im Oberstufenbüro (bis 08.",
-"start": "2019-06-03",
-"end": "2019-06-04",
-"color": "mediumvioletred",
 "textColor": "#707070"
 },
 {
@@ -3476,6 +3084,13 @@
 "start": "2020-05-26",
 "end": "2020-05-27",
 "color": "papayawhip",
+"textColor": "#707070"
+},
+{
+"title": "Klassenteamsitzungen HZ",
+"start": "2020-09-21T14:00",
+"end": "2020-09-21T19:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -3535,6 +3150,13 @@
 "textColor": "#707070"
 },
 {
+"title": "Wandertag",
+"start": "2021-07-16",
+"end": "2021-07-17",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Zeugnisausgabe (Unterrichtsende nach der 3. Std.)",
 "start": "2017-06-21",
 "end": "2017-06-22",
@@ -3563,17 +3185,17 @@
 "textColor": "#707070"
 },
 {
+"title": "Informationen Jg. 10 zur Sek. II für Eltern",
+"start": "2021-01-19T19:00",
+"end": "2021-01-19T21:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "schriftl. Abitur - Erdkunde",
 "start": "2017-03-30",
 "end": "2017-03-31",
 "color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -3595,6 +3217,13 @@
 "start": "2019-03-28",
 "end": "2019-03-29",
 "color": "mediumvioletred",
+"textColor": "#707070"
+},
+{
+"title": "Christi Himmelfahrt",
+"start": "2021-05-13",
+"end": "2021-05-15",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -3626,17 +3255,24 @@
 "textColor": "#707070"
 },
 {
+"title": "Beratungsausschuss",
+"start": "2020-09-21T16:15",
+"end": "2020-09-21T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Informationen Jg. 10 Fremdsprachen",
+"start": "2021-01-21T10:00",
+"end": "2021-01-21T11:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Förderverein - außerordentliche Mitgliederversammlung",
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung 10 GZ - Wahlen Qualifikationsphase",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -3682,31 +3318,10 @@
 "textColor": "#707070"
 },
 {
-"title": "DB Gesund Leben Lernen (GLL)",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der schriftlichen Abiturarbeiten  DE, EN, MA, FR im Obers",
-"start": "2017-05-29",
-"end": "2017-05-30",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
 "title": "---FBK (AWT)",
 "start": "--",
 "end": "--",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung neues Schuljahr",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -3738,13 +3353,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Klassenteam 5A1",
-"start": "2018-09-11",
-"end": "2018-09-12",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Schulvorstand",
 "start": "--",
 "end": "--",
@@ -3770,13 +3378,6 @@
 "start": "2018-01-15",
 "end": "2018-01-27",
 "color": "turquoise",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -3822,13 +3423,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Antragsfrist Wandertag",
-"start": "2018-05-24",
-"end": "2018-05-25",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "Kennenlernfahrt Jg. 5",
 "start": "2017-11-13",
 "end": "2017-11-15",
@@ -3840,13 +3434,6 @@
 "start": "2017-03-02",
 "end": "2017-03-03",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "DB GE HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -3865,13 +3452,6 @@
 },
 {
 "title": "---Steuerungsausschuss",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung: FBL MA, DE, EN - GS-KGS",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -3913,20 +3493,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Abgabe der schriftlichen Abiturarbeiten im Oberstufenbüro (bis 08.",
-"start": "2017-05-23",
-"end": "2017-05-24",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "---Beratungsausschuss",
-"start": "2018-01-09",
-"end": "2018-01-10",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Information der 5. Klassen RZ über Französisch und die weiteren P",
 "start": "--",
 "end": "--",
@@ -3941,10 +3507,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Informationstreffen Gleichstellungsbeauftragte",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "Zeugniskonferenz (7/8 HZ/RZ, 6/8 GZ)",
+"start": "2021-01-20",
+"end": "2021-01-21",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -4032,10 +3598,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "FK EN, CH, RE",
+"start": "2020-09-29T16:15",
+"end": "2020-09-29T18:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -4043,13 +3609,6 @@
 "start": "2018-01-24",
 "end": "2018-01-25",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung Klassenteams Jg. 6HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -4081,30 +3640,9 @@
 "textColor": "#707070"
 },
 {
-"title": "---Warnung in den Epochalfächern",
-"start": "2017-11-13",
-"end": "2017-11-14",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Information Eltern Grundschulen Klasse 4: RZ/GZ",
 "start": "--",
 "end": "--",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Warnung in den Epochalfächern",
-"start": "2016-11-14",
-"end": "2016-11-15",
 "color": "skyblue",
 "textColor": "#707070"
 },
@@ -4116,24 +3654,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung: Klassenlehrer 5/6 - Soziales Lernen",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Gesamtkonferenz",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "+++Sonnenblumenhaus - Theater Jg. 9-12 3./4. Stunde",
-"start": "2018-07-31T10:00",
-"end": "2018-07-31T11:30",
-"color": "white",
 "textColor": "#707070"
 },
 {
@@ -4193,13 +3717,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Gesamtkonferenz",
 "start": "--",
 "end": "--",
@@ -4235,6 +3752,13 @@
 "textColor": "#707070"
 },
 {
+"title": "Mündliche Abiturprüfungen",
+"start": "2021-05-26",
+"end": "2021-05-28",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "---Konferenz zur Zuweisung der Fachleistungskurse 9/10HZ",
 "start": "--",
 "end": "--",
@@ -4260,6 +3784,13 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
+"textColor": "#707070"
+},
+{
+"title": "FK (SN, PH, LA, BI)",
+"start": "2020-10-06T16:15",
+"end": "2020-10-06T18:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -4333,6 +3864,27 @@
 "textColor": "#707070"
 },
 {
+"title": "Robocup in Rastede",
+"start": "2021-02-23",
+"end": "2021-02-27",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schriftliche Abschlussprüfungen DE  HZ 9/10, RZ 10",
+"start": "2021-05-10",
+"end": "2021-05-11",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Ende Allgemeines Schulpraktikum (ASP) 31.08. - 09.10.2020",
+"start": "2020-10-09",
+"end": "2020-10-10",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Reformationstag",
 "start": "2018-10-31",
 "end": "2018-11-01",
@@ -4351,20 +3903,6 @@
 "start": "2017-09-05T16:15",
 "end": "2017-09-05T18:00",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung neues Schuljahr",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Blaue Briefe",
-"start": "2017-03-31",
-"end": "2017-04-01",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -4396,27 +3934,6 @@
 "textColor": "#707070"
 },
 {
-"title": "+++Letzter Warntermin Versetzungsgefährdung bei Leistungsabfall na",
-"start": "2018-07-30",
-"end": "2018-07-31",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Statistik 1. Halbjahr",
-"start": "2008-08-01",
-"end": "2008-08-02",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Statistik 1. Halbjahr",
-"start": "2019-07-30",
-"end": "2019-07-31",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Osterferien",
 "start": "2017-04-10",
 "end": "2017-04-23",
@@ -4445,13 +3962,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Klassenteams Jg. 8HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Wiederbeginn des Unterrichts",
 "start": "2016-08-04",
 "end": "2016-08-05",
@@ -4473,13 +3983,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Cafeteria",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Sportfest Sek II",
 "start": "2017-03-20",
 "end": "2017-03-21",
@@ -4491,13 +3994,6 @@
 "start": "2018-12-05",
 "end": "2018-12-15",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "schriftl. Abitur - (Haupttermin)",
-"start": "2019-03-28",
-"end": "2019-05-14",
-"color": "mediumvioletred",
 "textColor": "#707070"
 },
 {
@@ -4557,13 +4053,6 @@
 "textColor": "#707070"
 },
 {
-"title": "+++Sitzung des Arbeitsschutzausschusses",
-"start": "2018-07-30",
-"end": "2018-08-01",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Gesamtkonferenz",
 "start": "--",
 "end": "--",
@@ -4610,13 +4099,6 @@
 "start": "2017-11-01",
 "end": "2017-11-04",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5-1",
-"start": "2019-01-25",
-"end": "2019-01-26",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -4725,31 +4207,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Individuelle Lernentwicklung Jg. 5-9",
-"start": "2016-10-17",
-"end": "2016-10-18",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "FK (CH, EN, SN)",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Projektbericht Beratungslehrer Mehrstunden 01. Juli",
-"start": "2015-07-01",
-"end": "2015-07-02",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Warnung in den Epochalfächern",
-"start": "2016-11-14",
-"end": "2016-11-15",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -4778,6 +4239,13 @@
 "start": "--",
 "end": "--",
 "color": "lightgrey",
+"textColor": "#707070"
+},
+{
+"title": "Zeugniskonferenz (9/10 HZ/RZ, 7/ 11 GZ)",
+"start": "2021-01-19",
+"end": "2021-01-20",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -4816,10 +4284,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Individuelle Lernentwicklung Jg. 5-9",
-"start": "2017-10-16",
-"end": "2017-10-17",
-"color": "lightgrey",
+"title": "FK PO, IF, EK",
+"start": "2020-09-28T16:15",
+"end": "2020-09-28T18:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -4834,6 +4302,13 @@
 "start": "2016-06-14",
 "end": "2016-06-18",
 "color": "lightblue",
+"textColor": "#707070"
+},
+{
+"title": "Sportfest 5/6",
+"start": "2021-07-19",
+"end": "2021-07-20",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -4866,13 +4341,6 @@
 },
 {
 "title": "---Zeugniskonferenz (7-8RZ, 5+8GZ)",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung RZ",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -4928,21 +4396,7 @@
 "textColor": "#707070"
 },
 {
-"title": "---FBL MA, DE, EN - GS-KGS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Chance Azubi",
-"start": "--",
-"end": "--",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "DB Kursbesetzung SII",
 "start": "--",
 "end": "--",
 "color": "lightblue",
@@ -5002,6 +4456,20 @@
 "start": "2017-05-16",
 "end": "2017-05-18",
 "color": "mediumvioletred",
+"textColor": "#707070"
+},
+{
+"title": "Abgabe d. Zeugnisse bei SZ-Leitung (5 GZ)",
+"start": "2021-01-25",
+"end": "2021-01-26",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Känguru Mathematikwettbewerb",
+"start": "2021-03-18",
+"end": "2021-03-19",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -5068,17 +4536,24 @@
 "textColor": "#707070"
 },
 {
+"title": "Auftaktveranstaltung Schülerfirmen",
+"start": "2020-09-01T10:00",
+"end": "2020-09-01T10:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Weihnachtsforum JG 5/ 6",
+"start": "2020-12-22T08:00",
+"end": "2020-12-22T12:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "schriftl. Abitur - Sport, Informatik",
 "start": "2018-04-24",
 "end": "2018-04-25",
 "color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5GZ) b",
-"start": "2019-01-28",
-"end": "2019-01-29",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -5194,13 +4669,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Antragsfrist Wandertag",
-"start": "2018-05-24",
-"end": "2018-05-25",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "Ausschuss Ruhezone",
 "start": "--",
 "end": "--",
@@ -5215,13 +4683,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Chance Azubi",
 "start": "--",
 "end": "--",
@@ -5233,13 +4694,6 @@
 "start": "2019-05-19",
 "end": "2019-05-30",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter(9HZ",
-"start": "2019-06-24",
-"end": "2019-06-25",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -5271,20 +4725,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Verabschiedung",
-"start": "--",
-"end": "--",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung Individuelle Lernentwicklung Jg. 5-9",
-"start": "2016-10-17",
-"end": "2016-10-18",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Gesamtkonferenz",
 "start": "--",
 "end": "--",
@@ -5296,13 +4736,6 @@
 "start": "2019-01-29",
 "end": "2019-01-30",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung: Inklusion",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -5341,6 +4774,13 @@
 "textColor": "#707070"
 },
 {
+"title": "Information der 4. Klassen über die 2. Fremdsprache im Gymnasium (",
+"start": "2021-03-09T18:00",
+"end": "2021-03-09T21:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Pfingstmontag",
 "start": "2017-06-05",
 "end": "2017-06-06",
@@ -5373,13 +4813,6 @@
 "start": "2018-10-22",
 "end": "2018-11-03",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5GZ) b",
-"start": "2018-01-29",
-"end": "2018-01-30",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -5432,13 +4865,6 @@
 "textColor": "#707070"
 },
 {
-"title": "DB Abschlussfeiern HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "schriftl. Abitur - Französisch",
 "start": "2017-05-05",
 "end": "2017-05-06",
@@ -5446,21 +4872,7 @@
 "textColor": "#707070"
 },
 {
-"title": "Personalversammlung",
-"start": "2018-02-06",
-"end": "2018-02-07",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Konferenz zur Zuweisung der Fachleistungskurse Kl. 9/10 HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Informationstreffen Gleichstellungsbeauftragte",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -5478,13 +4890,6 @@
 "start": "--",
 "end": "--",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Antragsfrist Wandertag",
-"start": "2017-05-25",
-"end": "2017-05-26",
-"color": "greenyellow",
 "textColor": "#707070"
 },
 {
@@ -5531,13 +4936,6 @@
 },
 {
 "title": "FBK (MA, DE)",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung: Klassenlehrer 5/6 - Soziales Lernen",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -5600,13 +4998,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Antrag Zusatzbedarf Profilbildung RZ",
-"start": "2018-02-01",
-"end": "2018-02-02",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Pfingstmontag",
 "start": "2018-05-21",
 "end": "2018-05-22",
@@ -5642,10 +5033,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "FK MA, WN, GE, FR",
+"start": "2020-11-10T16:15",
+"end": "2020-11-10T18:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -5698,23 +5089,9 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenteams Jg. 6HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "FK (MU)",
 "start": "--",
 "end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter",
-"start": "2016-06-15",
-"end": "2016-06-16",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -5733,13 +5110,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5GZ) b",
-"start": "2020-01-27",
-"end": "2020-01-28",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Steuerungsausschuss",
 "start": "--",
 "end": "--",
@@ -5747,24 +5117,10 @@
 "textColor": "#707070"
 },
 {
-"title": "schriftl. Abitur - (Haupttermin)",
-"start": "2019-03-28",
-"end": "2019-05-14",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
 "title": "---Jugend debattiert",
 "start": "2019-01-16",
 "end": "2019-01-17",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -5796,6 +5152,13 @@
 "textColor": "#707070"
 },
 {
+"title": "DB DAZ",
+"start": "2020-11-16T16:15",
+"end": "2020-11-16T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "1. Mai",
 "start": "2017-05-01",
 "end": "2017-05-02",
@@ -5810,24 +5173,17 @@
 "textColor": "#707070"
 },
 {
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5-1",
-"start": "2019-01-25",
-"end": "2019-01-26",
-"color": "lightgrey",
+"title": "FK WI",
+"start": "2020-11-23T16:15",
+"end": "2020-11-23T18:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
-"title": "Informationstreffen Gleichstellungsbeauftragte",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "Jugend debattiert (3.-6. Stunde)",
+"start": "2021-01-13T10:00",
+"end": "2021-01-13T13:30",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -5838,13 +5194,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2019-01-23",
-"end": "2019-01-24",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Sprechprüfungen Englisch HZ/RZ 10",
 "start": "2018-03-14",
 "end": "2018-03-16",
@@ -5852,10 +5201,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Konfirmandenfreizeit (Konfi-Camp)",
-"start": "2018-05-17",
-"end": "2018-05-24",
-"color": "lightblue",
+"title": "Weihnachtsferien",
+"start": "2020-12-23",
+"end": "2021-01-11",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -5870,13 +5219,6 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2019-01-28",
-"end": "2019-01-29",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -5901,16 +5243,30 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Dienstbesprechung zum neuen Schuljahr",
 "start": "2020-08-25T10:00",
 "end": "2020-08-25T14:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "FK DS, HW, TG, WE",
+"start": "2020-11-17T16:15",
+"end": "2020-11-17T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Gesamtkonferenz",
+"start": "2020-10-27T16:15",
+"end": "2020-10-27T18:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Sportfest JG 10",
+"start": "2021-01-26",
+"end": "2021-01-27",
 "color": "white",
 "textColor": "#707070"
 },
@@ -5978,13 +5334,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenteams Jg. 7HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Kennenlernfahrt Jg. 5 (Gesamtzeitraum)",
 "start": "2019-11-04",
 "end": "2019-11-14",
@@ -6003,13 +5352,6 @@
 "start": "--",
 "end": "--",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung Klassenteams Jg. 8HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -6041,13 +5383,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Sommerfest",
 "start": "2021-07-19T16:00",
 "end": "2021-07-19T23:00",
@@ -6059,13 +5394,6 @@
 "start": "2018-05-01",
 "end": "2018-05-02",
 "color": "orange",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung: ILE Inklusion",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -6118,13 +5446,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Klassenteams Jg. 9HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Schulvorstand",
 "start": "--",
 "end": "--",
@@ -6143,13 +5464,6 @@
 "start": "2019-05-28",
 "end": "2019-06-02",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung 11 - Wahlen Qualifikationsphase",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -6174,38 +5488,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Konfirmandenfreizeit (Konfi-Camp)",
-"start": "2019-04-03",
-"end": "2019-04-10",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2020-01-27",
-"end": "2020-01-28",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "---Wiederbeginn des Unterrichts",
 "start": "2018-08-09",
 "end": "2018-08-10",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung Klassenlehrer 5 - GS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -6272,13 +5558,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Klassenteam 5A1",
-"start": "2018-09-11",
-"end": "2018-09-12",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "DS + Musik WPK GZ 10, Theater mit Musik (KNR, ML)",
 "start": "2019-06-24",
 "end": "2019-06-25",
@@ -6321,17 +5600,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenteams Jg. 9HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Kunststoffe: Werkstoffe nach Maß - Betriebsbesichtigung BÜFA GmbH",
-"start": "2016-10-31",
-"end": "2016-11-01",
-"color": "pink",
+"title": "Information der 7. Klassen GZ über WPK8 Aula",
+"start": "2021-03-02T18:30",
+"end": "2021-03-02T21:30",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -6349,7 +5621,14 @@
 "textColor": "#707070"
 },
 {
-"title": "Lateinfahrt (2021)",
+"title": "Herausforderungsprojekt",
+"start": "2020-09-22T16:15",
+"end": "2020-09-22T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Lateinfahrt (unter Vorbehalt)",
 "start": "2021-07-12",
 "end": "2021-07-17",
 "color": "white",
@@ -6377,24 +5656,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Prüfung in den mündlichen Prüfungsfächern",
-"start": "2018-05-07",
-"end": "2018-05-26",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
 "title": "Pfingstsonntag",
 "start": "2018-05-20",
 "end": "2018-05-21",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5GZ) b",
-"start": "2019-01-28",
-"end": "2019-01-29",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -6423,13 +5688,6 @@
 "start": "2018-09-10",
 "end": "2018-09-15",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "Warnung in den Epochalfächern",
-"start": "2018-11-12",
-"end": "2018-11-13",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -6468,13 +5726,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Beratungsausschuss",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Kino-Seminar Jg. 10+12",
 "start": "2019-01-24",
 "end": "2019-01-26",
@@ -6489,17 +5740,17 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung: Klassenlehrer 5/6 - Soziales Lernen",
+"title": "---Gesamtkonferenz",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
 "textColor": "#707070"
 },
 {
-"title": "---Gesamtkonferenz",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "Info 05 GZ 2. Fremdsprache",
+"start": "2021-02-15T18:00",
+"end": "2021-02-15T21:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -6510,13 +5761,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Bericht Sprachlernklasse",
-"start": "2017-05-01",
-"end": "2017-05-02",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Rasteder Filmorchester  (SCT)",
 "start": "2017-07-31",
 "end": "2017-08-01",
@@ -6524,17 +5768,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Praktikum Jg. 8+9 HZ und 9 RZ",
-"start": "2021-03-01T08:00",
-"end": "2021-03-12T18:00",
+"title": "Praktikum 8 HZ/RZ und 9 HZ/RZ/GZ",
+"start": "2021-03-01",
+"end": "2021-03-13",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter(9HZ, 1",
-"start": "2017-06-12",
-"end": "2017-06-13",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -6643,10 +5880,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Lebensrettende-Sofortmaßnahmen-Schule – 8 – 16 Uhr",
-"start": "--",
-"end": "--",
-"color": "pink",
+"title": "Winterferien",
+"start": "2021-02-01",
+"end": "2021-02-03",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -6665,13 +5902,6 @@
 },
 {
 "title": "Herausforderungsprojekt",
-"start": "--",
-"end": "--",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Verabschiedungen 16:30 Uhr",
 "start": "--",
 "end": "--",
 "color": "lightblue",
@@ -6769,13 +5999,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Verabschiedungen 16:30Uhr + Kollegiumsfest 18:00Uhr",
-"start": "--",
-"end": "--",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "---Steuerungsausschuss",
 "start": "--",
 "end": "--",
@@ -6790,13 +6013,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Antragsfrist Wanderwoche 2017 (Klassenfahrten - Studienfahrten)",
-"start": "2017-04-27",
-"end": "2017-04-28",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "schriftl. Abitur - Physik",
 "start": "2018-04-19",
 "end": "2018-04-20",
@@ -6804,24 +6020,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Jörg Hegemann: Boogie-Woogie Konzert",
 "start": "--",
 "end": "--",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "+++Ausschuss 'Herausforderung - DUI' - 3 Termine jeweils 3 Wochen v",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -6902,38 +6104,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Schulelternrat",
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Warnung in den Epochalfächern",
-"start": "2019-11-18",
-"end": "2019-11-19",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter",
-"start": "2019-06-25",
-"end": "2019-06-26",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -6961,13 +6135,6 @@
 "title": "Zeugniskonferenz (9-10HZ/RZ, 7GZ)",
 "start": "2017-01-17",
 "end": "2017-01-18",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Koordinationstreffen Personalrat - Schulelternrat - Schülervertret",
-"start": "2016-09-26",
-"end": "2016-09-27",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -7049,24 +6216,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---RoboCup Nordwest",
-"start": "2019-02-13",
-"end": "2019-02-16",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Ausgabe der Studienbücher in der Qualifikationsphase",
 "start": "2016-12-20",
 "end": "2016-12-21",
 "color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2019-01-28",
-"end": "2019-01-29",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -7077,24 +6230,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Antragsfrist Wandertag",
-"start": "2019-05-30",
-"end": "2019-05-31",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "Pfingstferien",
 "start": "2019-06-11",
 "end": "2019-06-12",
 "color": "orange",
-"textColor": "#707070"
-},
-{
-"title": "Kunststoffe: Werkstoffe nach Maß - Betriebsbesichtigung BÜFA GmbH",
-"start": "2016-10-31",
-"end": "2016-11-01",
-"color": "pink",
 "textColor": "#707070"
 },
 {
@@ -7147,6 +6286,13 @@
 "textColor": "#707070"
 },
 {
+"title": "Entlassfeier Sek I",
+"start": "2021-07-01",
+"end": "2021-07-02",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "---Infoveranstaltung Duales Studium Jg. 11 - entfällt 2018/2019",
 "start": "2019-03-12",
 "end": "2019-03-13",
@@ -7158,6 +6304,13 @@
 "start": "2019-11-07",
 "end": "2019-11-10",
 "color": "lightblue",
+"textColor": "#707070"
+},
+{
+"title": "Matheolympiade Schulrunde",
+"start": "2020-09-11",
+"end": "2020-09-12",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -7175,13 +6328,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Fremdsprachenlesewettbewerb EN (3./4.) -  FR, SP (5./6.)",
 "start": "--",
 "end": "--",
@@ -7193,13 +6339,6 @@
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Abschlussarbeiten HZ/RZ an KLE",
-"start": "--",
-"end": "--",
-"color": "papayawhip",
 "textColor": "#707070"
 },
 {
@@ -7252,13 +6391,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Matheolympiade Landesrunde in Göttingen",
-"start": "2020-02-21",
-"end": "2020-02-22",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "---Kino-Seminar Jg. 10",
 "start": "2018-01-23",
 "end": "2018-01-24",
@@ -7287,13 +6419,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---FBL MA, DE, EN - GS-KGS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---FK (DE)",
 "start": "--",
 "end": "--",
@@ -7305,13 +6430,6 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5-11 a",
-"start": "2019-01-25",
-"end": "2019-01-26",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -7329,31 +6447,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung: Klassenlehrer 5/6 - Soziales Lernen",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Deutsch-niederländischer Schüleraustausch in Rastede",
 "start": "2017-11-30",
 "end": "2017-12-05",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "+++Sitzung des Arbeitsschutzausschusses",
-"start": "2018-07-30",
-"end": "2018-08-01",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "---DB GE HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -7392,10 +6489,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Beratungsausschuss",
-"start": "2018-02-12",
-"end": "2018-02-13",
-"color": "lightgrey",
+"title": "Projekttag '10 Jahre Schule ohne Rassismus'",
+"start": "2021-06-23",
+"end": "2021-06-24",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -7448,13 +6545,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Letzter Warntermin Versetzungsgefährdung bei Leistungsabfall na",
-"start": "2019-05-31",
-"end": "2019-06-01",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
 "title": "Ende des 4. Schulhalbjahres der QP",
 "start": "2019-03-26",
 "end": "2019-03-27",
@@ -7462,10 +6552,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung: Klassenlehrer 5/6 - Soziales Lernen",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "Matheolympiade Schulrunde",
+"start": "2020-11-09",
+"end": "2020-11-10",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -7490,13 +6580,6 @@
 "textColor": "#707070"
 },
 {
-"title": "DB Abschlussfeiern HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Information der 5. Klassen RZ über Französisch und die weiteren P",
 "start": "--",
 "end": "--",
@@ -7504,16 +6587,30 @@
 "textColor": "#707070"
 },
 {
-"title": "Abgabe der schriftlichen Abiturarbeiten im Oberstufenbüro (bis 08.",
-"start": "2019-06-03",
-"end": "2019-06-04",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
 "title": "FK (TE)",
 "start": "--",
 "end": "--",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "FK MU, SF",
+"start": "2020-11-02T16:15",
+"end": "2020-11-02T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Kino-Seminare zu Propagandafilmen",
+"start": "2021-01-28T10:00",
+"end": "2021-01-28T13:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Abgabe d. Zeugnisse bei SZ-Leitung (5-11 außer GZ)",
+"start": "2021-01-22",
+"end": "2021-01-23",
 "color": "white",
 "textColor": "#707070"
 },
@@ -7564,20 +6661,6 @@
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Warnung in den Epochalfächern",
-"start": "2017-11-13",
-"end": "2017-11-14",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "+++Sitzung des Arbeitsschutzausschusses",
-"start": "2018-07-30",
-"end": "2018-08-01",
-"color": "white",
 "textColor": "#707070"
 },
 {
@@ -7700,13 +6783,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Blaue Briefe",
-"start": "2018-04-13",
-"end": "2018-04-14",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
 "title": "Information Jg. 10 zur Sek. II für Eltern",
 "start": "--",
 "end": "--",
@@ -7714,21 +6790,7 @@
 "textColor": "#707070"
 },
 {
-"title": "Antrag Religion kooperativ-konfessionell",
-"start": "--",
-"end": "--",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "DB Klassenteamsitzung",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung HZ",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -7774,13 +6836,6 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Nachschreibtermin Abschlussarbeit Mathematik",
-"start": "2018-05-25",
-"end": "2018-05-26",
-"color": "papayawhip",
 "textColor": "#707070"
 },
 {
@@ -7840,24 +6895,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Schulelternrat",
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5-10 a",
-"start": "2018-01-26",
-"end": "2018-01-27",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -7889,37 +6930,128 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Praktikum Jg. 10 HZ",
-"start": "2021-03-22T08:00",
-"end": "2021-03-26T18:00",
+"title": "DB ILE 5-8",
+"start": "2020-10-07T16:15",
+"end": "2020-10-07T19:00",
 "color": "white",
 "textColor": "#707070"
 },
 {
-"title": "Next Level 7A1",
-"start": "2020-10-29T08:00",
-"end": "2020-10-29T14:00",
+"title": "Waldjugendspiele JG 6",
+"start": "2021-07-08",
+"end": "2021-07-09",
 "color": "white",
 "textColor": "#707070"
 },
 {
-"title": "Einlebenstage JG 5",
-"start": "2020-08-27",
-"end": "2020-09-03",
+"title": "Schriftliche Abschlussprüfungen EN HZ/ RZ 10",
+"start": "2021-05-17",
+"end": "2021-05-18",
 "color": "white",
 "textColor": "#707070"
 },
 {
-"title": "Next Level Vortag Jg.9",
-"start": "2020-09-29T08:00",
-"end": "2020-09-29T14:00",
+"title": "Klassenelternschaftswahlen 5 und 12",
+"start": "2020-09-15T20:00",
+"end": "2020-09-15T21:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schulvorstand",
+"start": "2020-12-09T17:00",
+"end": "2020-12-09T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schriftliche Abschlussprüfungen MA  HZ 9/10, RZ 10",
+"start": "2021-05-19",
+"end": "2021-05-20",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "DB HZ, RZ",
+"start": "2020-12-08T16:15",
+"end": "2020-12-08T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Zeugniskonferenz (5/6HZ/RZ, 9/10GZ)",
+"start": "2021-01-18",
+"end": "2021-01-19",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Zeugniskonferenzen (5 GZ)",
+"start": "2021-01-21",
+"end": "2021-01-22",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Elternsprechtag",
+"start": "2020-11-19T16:00",
+"end": "2020-11-19T19:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "DB Klassenlehrer 11 Kurswahlen",
+"start": "2021-01-25T16:00",
+"end": "2021-01-25T17:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Projekttag Nachhaltigkeit",
+"start": "2020-10-29",
+"end": "2020-10-30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Kompetenzfeststellungsverfahren 08HZ/RZ",
+"start": "2021-07-05",
+"end": "2021-07-10",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Umweltausschuss",
+"start": "2020-09-15T16:15",
+"end": "2020-09-15T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Entlassfeier Sek II",
+"start": "2021-07-02",
+"end": "2021-07-03",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Jubiläumsfeier Schule ohne Rassismus",
+"start": "2021-06-23",
+"end": "2021-06-24",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Unter Vorbehalt SchiLf Digitalisierung (ges. Kollegium)",
+"start": "2021-02-03",
+"end": "2021-02-05",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Klassenelternschaftswahlen 9 und 11",
+"start": "2020-09-16T20:00",
+"end": "2020-09-16T21:30",
 "color": "white",
 "textColor": "#707070"
 },
@@ -7931,6 +7063,20 @@
 "textColor": "#707070"
 },
 {
+"title": "Klassenteamsitzungen HZ",
+"start": "2020-09-22T14:00",
+"end": "2020-09-22T19:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Sportfest 7-9",
+"start": "2021-07-20",
+"end": "2021-07-21",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Erste Hilfe Auffrischungskurs",
 "start": "2020-08-26T09:00",
 "end": "2020-08-26T16:00",
@@ -7938,9 +7084,9 @@
 "textColor": "#707070"
 },
 {
-"title": "Projekt Zivilcourage JG.9",
-"start": "2020-11-10",
-"end": "2020-11-14",
+"title": "FK KU",
+"start": "2020-11-03T16:15",
+"end": "2020-11-03T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -7948,6 +7094,27 @@
 "title": "Vergleichsarbeit VERA8 Deutsch (2019)",
 "start": "2017-02-28",
 "end": "2017-03-01",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Mdl. Abschlussprüfungen HZ/RZ",
+"start": "2021-06-14",
+"end": "2021-06-16",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "FK DE, SP",
+"start": "2020-12-07T16:15",
+"end": "2020-12-07T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "GLL Steuerungsgruppe",
+"start": "2020-09-15T16:15",
+"end": "2020-09-15T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -8008,20 +7175,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Abgabe der Förderpläne beim Koordinator für Inklusion",
-"start": "2019-11-29",
-"end": "2019-11-30",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung Klassenteam 5A1",
-"start": "2018-09-11",
-"end": "2018-09-12",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Fremdsprachenlesewettbewerb EN (3./4.) -  FR, SP (5./6.)",
 "start": "--",
 "end": "--",
@@ -8036,24 +7189,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Abgabe der Förderpläne beim Koordinator für Inklusion",
-"start": "2020-04-30",
-"end": "2020-05-01",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Vergleichsarbeit VERA8 Mathematik  (2021)",
 "start": "2019-02-27",
 "end": "2019-02-28",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -8068,20 +7207,6 @@
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Nachschreibtermin Abschlussarbeit Deutsch",
-"start": "2019-05-14",
-"end": "2019-05-15",
-"color": "papayawhip",
-"textColor": "#707070"
-},
-{
-"title": "Nachschreibtermin Abschlussarbeit Deutsch",
-"start": "2017-05-11",
-"end": "2017-05-12",
-"color": "papayawhip",
 "textColor": "#707070"
 },
 {
@@ -8155,13 +7280,6 @@
 "textColor": "#707070"
 },
 {
-"title": "schriftl. Abitur - Zeitraum 1",
-"start": "2017-03-22",
-"end": "2017-04-08",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
 "title": "Klassenelternschaftswahlen 9",
 "start": "--",
 "end": "--",
@@ -8169,23 +7287,9 @@
 "textColor": "#707070"
 },
 {
-"title": "---Beratungsausschuss",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "schriftl. Abitur - Latein",
 "start": "2019-04-03",
 "end": "2019-04-04",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der schriftlichen Abiturarbeiten im Oberstufenbüro (bis 08.",
-"start": "2018-05-29",
-"end": "2018-05-30",
 "color": "mediumvioletred",
 "textColor": "#707070"
 },
@@ -8201,13 +7305,6 @@
 "start": "2019-04-05",
 "end": "2019-04-06",
 "color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung 10 GZ - Wahlen Einführungsphase",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -8232,23 +7329,9 @@
 "textColor": "#707070"
 },
 {
-"title": "DB Sprachlernklasse",
-"start": "2016-09-12",
-"end": "2016-09-13",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Sportfest 7-9",
 "start": "2019-06-26",
 "end": "2019-06-27",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2018-01-24",
-"end": "2018-01-25",
 "color": "lightblue",
 "textColor": "#707070"
 },
@@ -8281,20 +7364,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---DB Kursbesetzung SII",
-"start": "--",
-"end": "--",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2019-01-23",
-"end": "2019-01-24",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "---Entlassungsfeier Sek I",
 "start": "--",
 "end": "--",
@@ -8305,13 +7374,6 @@
 "title": "Zeugniskonferenzen (7-8 RZ,5+8GZ)",
 "start": "2020-07-01",
 "end": "2020-07-02",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung SII Rückläufer (alle Lehrkräfte P1- P3 und Tut",
-"start": "--",
-"end": "--",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -8365,13 +7427,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung neues Schuljahr",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "+++Elterninformatinsabend: smileyprojekt",
 "start": "2018-07-31",
 "end": "2018-08-01",
@@ -8411,20 +7466,6 @@
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "RoboCup Nordwest",
-"start": "2019-02-13",
-"end": "2019-02-16",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2018-02-12",
-"end": "2018-02-13",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -8470,30 +7511,9 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Individuelle Lernentwicklung Jg. 5-8",
-"start": "2018-11-05",
-"end": "2018-11-06",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Aufbau - 11.30 Uhr bis 13.30 Uhr",
 "start": "--",
 "end": "--",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung neues Schuljahr",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "+++Koordinationstreffen Personalrat - Schulelternrat - Schülervert",
-"start": "2017-09-25",
-"end": "2017-09-26",
 "color": "white",
 "textColor": "#707070"
 },
@@ -8540,31 +7560,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Konfirmandenfreizeit (Konfi-Camp)",
-"start": "2019-04-03",
-"end": "2019-04-10",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung Klassenteams Jg. 7HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "FBK (AWT)",
 "start": "--",
 "end": "--",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "---Konfirmandenfreizeit (Konfi-Camp)",
-"start": "2019-04-03",
-"end": "2019-04-10",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -8603,13 +7602,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Kompetenzfeststellungsverfahren  - entfällt!",
 "start": "2020-06-29",
 "end": "2020-07-04",
@@ -8620,13 +7612,6 @@
 "title": "Zeugnisausgabe (Unterrichtsende nach der 3. Std.)",
 "start": "2017-06-21",
 "end": "2017-06-22",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter(9HZ, 1",
-"start": "2016-06-06",
-"end": "2016-06-07",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -8701,13 +7686,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Antragsfrist Wanderwoche 2019 (Klassenfahrten - Studienfahrten)",
-"start": "2019-05-02",
-"end": "2019-05-03",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "---Deutsch-Spanischer Schüleraustausch in Rastede",
 "start": "2019-03-06",
 "end": "2019-03-14",
@@ -8743,13 +7721,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenteams Jg. 7HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Zeugniskonferenz (5-6HZ/RZ, 9-10GZ)",
 "start": "2019-01-21",
 "end": "2019-01-22",
@@ -8760,13 +7731,6 @@
 "title": "FK (GE, WI)",
 "start": "--",
 "end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5-1",
-"start": "2018-01-26",
-"end": "2018-01-27",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -8834,13 +7798,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Gesamtschulchor Probe",
 "start": "--",
 "end": "--",
@@ -8859,13 +7816,6 @@
 "start": "2017-07-31",
 "end": "2017-08-01",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -8897,13 +7847,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter",
-"start": "2017-06-14",
-"end": "2017-06-15",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Jahrbuch release-Party (angefragt)",
 "start": "2019-06-25",
 "end": "2019-06-26",
@@ -8915,13 +7858,6 @@
 "start": "--",
 "end": "--",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Nachschreibtermin Abschlussarbeit Englisch",
-"start": "2019-05-16",
-"end": "2019-05-17",
-"color": "papayawhip",
 "textColor": "#707070"
 },
 {
@@ -8995,24 +7931,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung 11 - Wahlen Qualifikationsphase",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Gemeinde Ausschuss (Frau Haake)",
 "start": "--",
 "end": "--",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Abschlussarbeiten HZ/RZ an KLE",
-"start": "--",
-"end": "--",
-"color": "papayawhip",
 "textColor": "#707070"
 },
 {
@@ -9030,13 +7952,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Antragsfrist Wanderwoche 2017 (Klassenfahrten - Studienfahrten)",
-"start": "2018-04-26",
-"end": "2018-04-27",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "Feldbreite JG 6 Vorlesewettbewerb",
 "start": "2019-12-04",
 "end": "2019-12-05",
@@ -9051,38 +7966,10 @@
 "textColor": "#707070"
 },
 {
-"title": "FBL MA, DE, EN - GS-KGS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "DB Sprachlernklasse",
-"start": "2017-08-28",
-"end": "2017-08-29",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Deutsch-amerikanischer Schüleraustausch in Rastede (2019-2020)",
 "start": "2019-04-01",
 "end": "2019-04-12",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "RoboCup Nordwest",
-"start": "2020-02-26",
-"end": "2020-02-29",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -9103,13 +7990,6 @@
 "title": "Gesamtkonferenz",
 "start": "--",
 "end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "DB Verkehrswoche und Begrüßungsfeier",
-"start": "2020-06-22",
-"end": "2020-06-23",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -9159,20 +8039,6 @@
 "title": "---Ausstellung der AG für den Frieden",
 "start": "2018-10-29",
 "end": "2018-11-10",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung SII Rückläufer (alle Lehrkräfte P1- P3 und Tut",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Konfirmandenfreizeit (Konfi-Camp)",
-"start": "2017-04-20",
-"end": "2017-04-27",
 "color": "lightblue",
 "textColor": "#707070"
 },
@@ -9450,13 +8316,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenlehrer 5 - GS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Praktikum 8 HZ/RZ 9HZ/RZ/GZ",
 "start": "2020-03-02",
 "end": "2020-03-14",
@@ -9485,24 +8344,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Praktikum 11 - entfällt!",
 "start": "2020-05-04",
 "end": "2020-05-16",
 "color": "turquoise",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung: Klassenlehrer 5/6 - Soziales Lernen",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -9531,13 +8376,6 @@
 "start": "2019-05-10",
 "end": "2019-05-11",
 "color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "---DB Gesund Leben Lernen (GLL)",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -9583,38 +8421,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Nachschreibtermin Abschlussarbeit Mathematik",
-"start": "2017-05-17",
-"end": "2017-05-18",
-"color": "papayawhip",
-"textColor": "#707070"
-},
-{
 "title": "---FBK (SPR)",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Konfirmandenfreizeit (Konfi-Camp)",
-"start": "2018-05-17",
-"end": "2018-05-24",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Blaue Briefe",
-"start": "2018-04-13",
-"end": "2018-04-14",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "---Verabschiedungen 16:30Uhr + Kollegiumsfest 18:00Uhr",
-"start": "--",
-"end": "--",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -9660,13 +8470,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Abgabe der Abschlussarbeiten HZ/RZ an KLE",
-"start": "--",
-"end": "--",
-"color": "papayawhip",
-"textColor": "#707070"
-},
-{
 "title": "Anmeldeschluss Jg. 11 (Einführungsphase)",
 "start": "2018-02-20",
 "end": "2018-02-21",
@@ -9709,13 +8512,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Prüfung in den mündlichen Prüfungsfächern",
-"start": "2019-05-15",
-"end": "2019-05-30",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
 "title": "Pfingstsonntag",
 "start": "2018-05-20",
 "end": "2018-05-21",
@@ -9727,13 +8523,6 @@
 "start": "2019-06-12",
 "end": "2019-06-15",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "DB Abschlussfeiern HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -9751,21 +8540,7 @@
 "textColor": "#707070"
 },
 {
-"title": "Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "FK (GE, WI)",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung (GS-KGS: 4/5)",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -9814,13 +8589,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Antrag Sprachlernklasse",
-"start": "2016-05-01",
-"end": "2016-05-02",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "GLL Klimakonferenz Lehrkräfte",
 "start": "2018-03-07",
 "end": "2018-03-08",
@@ -9856,13 +8624,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Matheolympiade Landesrunde in Göttingen",
-"start": "2019-02-22",
-"end": "2019-02-24",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Schulelternrat - 19.00 Uhr bis 22.00 Uhr",
 "start": "--",
 "end": "--",
@@ -9871,13 +8632,6 @@
 },
 {
 "title": "---Umweltausschuss",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---DB GE HZ/RZ",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -9989,13 +8743,6 @@
 "textColor": "#707070"
 },
 {
-"title": "+++Konfirmandenfreizeit (Konfi-Camp)",
-"start": "2020-07-31",
-"end": "2020-08-01",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Sportfest 5-6",
 "start": "2017-06-19",
 "end": "2017-06-20",
@@ -10038,17 +8785,17 @@
 "textColor": "#707070"
 },
 {
+"title": "DB FB Soziales Lernen",
+"start": "2020-09-14T16:15",
+"end": "2020-09-14T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "FK (WI, PO, KU, IF, EK)",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Verabschiedungen 16:30 Uhr",
-"start": "--",
-"end": "--",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -10070,13 +8817,6 @@
 "start": "2018-08-29",
 "end": "2018-09-08",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Personalversammlung",
-"start": "2019-02-04",
-"end": "2019-02-05",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -10129,13 +8869,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Beratungsausschuss",
-"start": "2018-02-12",
-"end": "2018-02-13",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Deutsch-Spanischer Schüleraustausch in Rastede",
 "start": "2017-05-17",
 "end": "2017-05-25",
@@ -10158,13 +8891,6 @@
 },
 {
 "title": "FK (DE)",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Steuerungsgruppe GLL",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -10213,13 +8939,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Antragsfrist Wanderwoche 2017 (Klassenfahrten - Studienfahrten)",
-"start": "2018-04-26",
-"end": "2018-04-27",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "Abschlussarbeit Deutsch",
 "start": "2018-05-03",
 "end": "2018-05-04",
@@ -10228,20 +8947,6 @@
 },
 {
 "title": "FBK (MKB)",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung HZ",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -10273,13 +8978,6 @@
 "start": "--",
 "end": "--",
 "color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Blaue Briefe",
-"start": "2020-04-24",
-"end": "2020-04-25",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -10325,13 +9023,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Prüfung in den mündlichen Prüfungsfächern",
-"start": "2019-05-15",
-"end": "2019-05-30",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
 "title": "Information der 4. Klassen über den Bläserkurs (Aula)",
 "start": "--",
 "end": "--",
@@ -10343,13 +9034,6 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Antrag Zusatzbedarf Schwimmbegleitung",
-"start": "2018-02-01",
-"end": "2018-02-02",
-"color": "white",
 "textColor": "#707070"
 },
 {
@@ -10381,13 +9065,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Personalversammlung",
-"start": "2019-02-04",
-"end": "2019-02-05",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Unterrichtsfrei HZ/RZ",
 "start": "2020-06-17",
 "end": "2020-06-18",
@@ -10398,13 +9075,6 @@
 "title": "Schulvorstand",
 "start": "2018-09-04T17:00",
 "end": "2018-09-04T19:00",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -10493,13 +9163,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Kapitalisierung von Lehrerstunden - Budgetierung Klassenfahrt-Meile",
-"start": "2007-02-01",
-"end": "2007-02-02",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "---Schulvorstand",
 "start": "--",
 "end": "--",
@@ -10521,20 +9184,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Personalversammlung",
-"start": "2018-02-06",
-"end": "2018-02-07",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Deutsch-niederländischer Schüleraustausch in Hardenberg",
 "start": "2017-05-11",
 "end": "2017-05-16",
@@ -10546,13 +9195,6 @@
 "start": "2017-03-16",
 "end": "2017-03-17",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -10574,13 +9216,6 @@
 "start": "2018-05-15",
 "end": "2018-05-16",
 "color": "papayawhip",
-"textColor": "#707070"
-},
-{
-"title": "+++Koordinationstreffen Personalrat - Schulelternrat - Schülervert",
-"start": "2017-09-25",
-"end": "2017-09-26",
-"color": "white",
 "textColor": "#707070"
 },
 {
@@ -10633,13 +9268,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "schriftl. Abitur - Sport, Informatik",
 "start": "2017-04-03",
 "end": "2017-04-04",
@@ -10668,13 +9296,6 @@
 "textColor": "#707070"
 },
 {
-"title": "+++Dienstbesprechung SII Rückläufer (alle Lehrkräfte P1- P3 und",
-"start": "--",
-"end": "--",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "---Ausstellung 'Unter uns?' - Sinti in Ostfriesland und Leer",
 "start": "2018-08-29",
 "end": "2018-09-08",
@@ -10692,20 +9313,6 @@
 "title": "---Schulvorstand",
 "start": "--",
 "end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---DB Abschlussfeiern HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5GZ",
-"start": "2018-01-29",
-"end": "2018-01-30",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -10766,13 +9373,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2018-02-12",
-"end": "2018-02-13",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Ausschuss Kopierkontingente",
 "start": "--",
 "end": "--",
@@ -10787,21 +9387,7 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung: Klassenlehrer 5/6 - Soziales Lernen",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Schulvorstand",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung 11 - Wahlen Qualifikationsphase",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -10843,24 +9429,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Matheolympiade Landesrunde in Göttingen",
-"start": "2019-02-22",
-"end": "2019-02-24",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "---Anmeldung Klasse 5 - online",
 "start": "2019-05-08",
 "end": "2019-05-14",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "---Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2019-01-28",
-"end": "2019-01-29",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -11039,13 +9611,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung Klassenlehrer 5 - GS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Sinti und Roma Gedenkstunde",
 "start": "2019-12-16",
 "end": "2019-12-17",
@@ -11057,20 +9622,6 @@
 "start": "2017-09-26",
 "end": "2017-09-27",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "schriftl. Abitur - Zeitraum 2",
-"start": "2017-04-25",
-"end": "2017-05-06",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5GZ",
-"start": "2019-01-28",
-"end": "2019-01-29",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -11109,13 +9660,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Verabschiedungen 16:30Uhr + Kollegiumsfest 18:00Uhr",
-"start": "--",
-"end": "--",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
 "title": "Weihnachtsforum 5/6",
 "start": "--",
 "end": "--",
@@ -11130,24 +9674,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Individuelle Lernentwicklung Jg. 5-8",
-"start": "2018-11-05",
-"end": "2018-11-06",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Schulelternrat",
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -11169,20 +9699,6 @@
 "start": "2018-05-03",
 "end": "2018-05-04",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung neues Schuljahr",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -11221,13 +9737,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Steuerungsgruppe GLL",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Ausstellung 'Unter uns?' - Sinti in Ostfriesland und Leer",
 "start": "2018-08-29",
 "end": "2018-09-08",
@@ -11249,13 +9758,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung 10 GZ - Wahlen Einführungsphase",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Zeugniskonferenz (5-8HZ, 5-6 RZ, 9-10GZ)",
 "start": "2018-01-22",
 "end": "2018-01-23",
@@ -11270,23 +9772,9 @@
 "textColor": "#707070"
 },
 {
-"title": "Wanderwoche (Klassenfahrten - Studienfahrten)",
-"start": "2020-09-21",
-"end": "2020-09-26",
-"color": "greenyellow",
-"textColor": "#707070"
-},
-{
 "title": "Red Hand Day - Wilhelmstraße",
 "start": "2020-02-12",
 "end": "2020-02-13",
-"color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2017-01-25",
-"end": "2017-01-27",
 "color": "lightblue",
 "textColor": "#707070"
 },
@@ -11319,13 +9807,6 @@
 "textColor": "#707070"
 },
 {
-"title": "DB GE HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Herausforderungsprojekt - Raum 235",
 "start": "--",
 "end": "--",
@@ -11347,14 +9828,14 @@
 "textColor": "#707070"
 },
 {
-"title": "Gesamtkonferenz",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
+"title": "Projekt Zivilcourage JG.9",
+"start": "2020-11-10",
+"end": "2020-11-14",
+"color": "white",
 "textColor": "#707070"
 },
 {
-"title": "---DB Abschlussfeiern HZ/RZ",
+"title": "Gesamtkonferenz",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -11372,13 +9853,6 @@
 "start": "2019-03-06",
 "end": "2019-03-14",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "Personalversammlung",
-"start": "2017-02-13",
-"end": "2017-02-14",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -11480,13 +9954,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter(9HZ, 1",
-"start": "2020-06-30",
-"end": "2020-07-01",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Besichtigung des Gebäudes an der Feldbreite für die Eltern der",
 "start": "--",
 "end": "--",
@@ -11508,13 +9975,6 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "schriftl. Abitur - Deutsch",
 "start": "2017-04-25",
 "end": "2017-04-26",
@@ -11526,13 +9986,6 @@
 "start": "2020-01-20",
 "end": "2020-02-01",
 "color": "turquoise",
-"textColor": "#707070"
-},
-{
-"title": "Warnung in den Epochalfächern",
-"start": "2018-11-12",
-"end": "2018-11-13",
-"color": "skyblue",
 "textColor": "#707070"
 },
 {
@@ -11578,24 +10031,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung Klassenteams Jg. 9HZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Kino-Seminar Jg. 10+12",
 "start": "2019-01-24",
 "end": "2019-01-26",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "Personalversammlung",
-"start": "2019-02-04",
-"end": "2019-02-05",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -11607,13 +10046,6 @@
 },
 {
 "title": "---FBK (NTW)",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Steuerungsgruppe GLL",
 "start": "--",
 "end": "--",
 "color": "lightgrey",
@@ -11637,13 +10069,6 @@
 "title": "Zeugniskonferenz (7-8RZ, 6+8GZ)",
 "start": "2017-01-18",
 "end": "2017-01-19",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung Klassenteam 5A1",
-"start": "2018-09-11",
-"end": "2018-09-12",
 "color": "lightgrey",
 "textColor": "#707070"
 },
@@ -11680,20 +10105,6 @@
 "start": "2019-05-02",
 "end": "2019-05-03",
 "color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung 5/6 (Sommerfest/Verkehrswoche)",
-"start": "2019-05-13",
-"end": "2019-05-14",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Antrag auf Zuweisung einer/s Sozialpädagogin/-en im Anerkennungsja",
-"start": "2016-07-01",
-"end": "2016-07-02",
-"color": "white",
 "textColor": "#707070"
 },
 {
@@ -11739,13 +10150,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Nachschreibtermin Abschlussarbeit Deutsch",
-"start": "2019-05-14",
-"end": "2019-05-15",
-"color": "papayawhip",
-"textColor": "#707070"
-},
-{
 "title": "---Anmeldeschluss Jg. 11 (Einführungsphase)",
 "start": "2018-02-20",
 "end": "2018-02-21",
@@ -11774,24 +10178,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Dienstbesprechung neues Schuljahr",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Bartholomäus-Schink-Preisverleihung",
 "start": "2019-05-08",
 "end": "2019-05-09",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Antragsfrist Wanderwoche 2019 (Klassenfahrten - Studienfahrten)",
-"start": "2019-05-02",
-"end": "2019-05-03",
-"color": "greenyellow",
 "textColor": "#707070"
 },
 {
@@ -11893,27 +10283,6 @@
 "textColor": "#707070"
 },
 {
-"title": "+++Dienstbesprechung SII Rückläufer (alle Lehrkräfte P1- P3 und",
-"start": "--",
-"end": "--",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "---Informationstreffen Gleichstellungsbeauftragte",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
-"title": "Beratungsausschuss",
-"start": "2017-01-10",
-"end": "2017-01-11",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Information Jg. 10 zur Sek. II für Schüler",
 "start": "--",
 "end": "--",
@@ -11925,6 +10294,13 @@
 "start": "2018-06-23",
 "end": "2018-06-24",
 "color": "lightblue",
+"textColor": "#707070"
+},
+{
+"title": "Praktikum Jg. 10 HZ",
+"start": "2021-03-22T08:00",
+"end": "2021-03-26T18:00",
+"color": "white",
 "textColor": "#707070"
 },
 {
@@ -11956,24 +10332,10 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung: FBL MA, DE, EN - GS-KGS",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "OLMUN",
 "start": "2020-06-23",
 "end": "2020-06-27",
 "color": "lightblue",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung SII Rückläufer (alle Lehrkräfte P1- P3 und",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -11988,13 +10350,6 @@
 "start": "2019-06-24",
 "end": "2019-06-28",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter(9HZ",
-"start": "2018-06-18",
-"end": "2018-06-19",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -12016,13 +10371,6 @@
 "start": "2019-05-19",
 "end": "2019-05-30",
 "color": "greenyellow",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter ( 5-10H",
-"start": "2017-01-20",
-"end": "2017-01-21",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -12054,24 +10402,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Blaue Briefe",
-"start": "2019-04-26",
-"end": "2019-04-27",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
 "title": "---Klassenelternschaftswahlen 9",
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Kollegiumsfest",
-"start": "2016-06-20",
-"end": "2016-06-21",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -12096,13 +10430,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Informationstreffen Gleichstellungsbeauftragte wird verlegt!",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Deutsch-Spanischer Schüleraustausch in Madrid",
 "start": "2018-09-17",
 "end": "2018-09-27",
@@ -12110,31 +10437,10 @@
 "textColor": "#707070"
 },
 {
-"title": "schriftl. Abitur - Zeitraum 1",
-"start": "2018-04-09",
-"end": "2018-05-05",
-"color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
 "title": "WebAbfrage Sprachförderung",
 "start": "2016-09-15",
 "end": "2016-09-16",
 "color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Kapitalisierung von Lehrerstunden Ganztag - Veränderungsantrag - S",
-"start": "2007-12-01",
-"end": "2007-12-02",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "---RoboCup Nordwest",
-"start": "2019-02-13",
-"end": "2019-02-16",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -12166,13 +10472,6 @@
 "textColor": "#707070"
 },
 {
-"title": "DB HZ/RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "Sportfest Sek II",
 "start": "2019-03-26",
 "end": "2019-03-27",
@@ -12194,13 +10493,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Nachschreibtermin Abschlussarbeit Englisch",
-"start": "2019-05-16",
-"end": "2019-05-17",
-"color": "papayawhip",
-"textColor": "#707070"
-},
-{
 "title": "schriftl. Abitur - Musik",
 "start": "2019-05-13",
 "end": "2019-05-14",
@@ -12219,13 +10511,6 @@
 "start": "2017-06-12",
 "end": "2017-06-15",
 "color": "mediumvioletred",
-"textColor": "#707070"
-},
-{
-"title": "---Vorträge des Bundes gegen Alkohol und Drogen im Straßenverkehr",
-"start": "2018-01-24",
-"end": "2018-01-25",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -12268,13 +10553,6 @@
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "---Dienstbesprechung RZ",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
 "textColor": "#707070"
 },
 {
@@ -12362,24 +10640,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Abgabe der Zeugnisse zur Unterschrift beim Schulzweigleiter (5GZ",
-"start": "2019-01-28",
-"end": "2019-01-29",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "unterrichtsfrei",
 "start": "2018-04-30",
 "end": "2018-05-01",
 "color": "orange",
-"textColor": "#707070"
-},
-{
-"title": "Matheolympiade Landesrunde in Göttingen",
-"start": "2018-02-23",
-"end": "2018-02-25",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
@@ -12425,13 +10689,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Dienstbesprechung 11 - Wahlen Qualifikationsphase",
-"start": "--",
-"end": "--",
-"color": "lightgrey",
-"textColor": "#707070"
-},
-{
 "title": "---Sommerfest 5/6 - Feldbreite",
 "start": "--",
 "end": "--",
@@ -12460,24 +10717,10 @@
 "textColor": "#707070"
 },
 {
-"title": "---Letzter Warntermin Versetzungsgefährdung bei Leistungsabfall na",
-"start": "2019-05-31",
-"end": "2019-06-01",
-"color": "skyblue",
-"textColor": "#707070"
-},
-{
 "title": "---Förderverein Mitgliederversammlung",
 "start": "--",
 "end": "--",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Matheolympiade Landesrunde in Göttingen",
-"start": "2019-02-22",
-"end": "2019-02-24",
-"color": "lightblue",
 "textColor": "#707070"
 },
 {
