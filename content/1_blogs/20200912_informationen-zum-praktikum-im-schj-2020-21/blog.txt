@@ -1,0 +1,260 @@
+Title: Informationen zum Praktikum im Schj. 2020/21
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Elterninformation zum Praktikum der 8. und 9. Jahrgänge im März 2021",
+        "id": "_vSSMb1k6N",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie in jedem Jahr wird unsere Schule für Schülerinnen und Schüler des 8. Jahrgangs im Haupt- und Realschulzweig sowie der 9. Klassen aller Schulzweige im März ein zweiwöchiges Betriebspraktikum durchführen.",
+        "id": "_LRp44XcxK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Praktikum soll in der Zeit <strong>vom 01.03. bis 12.03.2021</strong> stattfinden.",
+        "id": "_O8w8Vb5q9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Betriebspraktika sind ein Bestandteil des Berufsorientierungskonzepts unserer Schule. Sie sollen Schülerinnen und Schülern Einblicke in das Arbeitsleben vermitteln. Die Jugendlichen können neben Tätigkeiten und Aufgaben die Anforderungen verschiedener Berufe kennen lernen. Zudem haben sie die Möglichkeit, eigene Vorstellungen und Erwartungen hinsichtlich ihres zukünftigen Berufslebens zu überprüfen.",
+        "id": "_rofddki46",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Schülerinnen und Schüler werden von den Lehrkräften der Fächer Wirtschaft bzw. Politik/Wirtschaft intensiv auf das Praktikum vorbereitet. Im Unterricht werden die notwendigen Unterlagen verteilt. Eltern und Erziehungsberechtigte können bei der Suche nach geeigneten Praktikumsplätzen unterstützen, sollten den Jugendlichen jedoch die Mühe einer Suche und einer Bewerbung nicht abnehmen.",
+        "id": "_Q8NebJimX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Während des Praktikums werden die Schülerinnen und Schüler durch die Lehrkräfte betreut.",
+        "id": "_7YXfv22cA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Folgende Hinweise sind bitte zu beachten:",
+        "id": "_rwN6wGuPs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Praktikum ist kein Arbeitsverhältnis. Es gilt das Jugendarbeitsschutzgesetz. Entsprechend sind den Jugendlichen nur geeignete Arbeiten zu übertragen.",
+        "id": "_XGTmrovEn",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Die Arbeitszeit sollte 5 Tage pro Woche, ca. 7 Stunden täglich in der Zeit von 6.00 bis 20.00 Uhr umfassen. Die maximale Wochenarbeitszeit beträgt 35 Stunden. Die Betriebe sind i.d.R. mit diesen Bestimmungen vertraut.",
+        "id": "_g9Ap7bY2f",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Die für die Anmeldung eines Praktikumsplatzes notwendigen Anschreiben werden durch die Fachlehrkräfte verteilt.",
+        "id": "_X8cPGDPLr",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Die Bestätigung des Praktikumsplatzes muss an die entsprechenden Lehrkräfte zurückgegeben werden.",
+        "id": "_Wjb7YscRC",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Die Praktikumssuche beginnt ab sofort. Sie endet am <strong>06.12.2020</strong>.",
+        "id": "_2u0O5M37P",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Für die Praktikumsplätze gilt grundsätzlich folgendes:",
+        "id": "_r3Ma71PVy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "nicht im elterlichen Betrieb",
+        "id": "_VZ0EsCwRR",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "nur in Ausbildungsbetrieben (dazu zählen auch Rechtsanwaltspraxen, Kindergärten, Praxen von Physiotherapeuten etc.)",
+        "id": "_YRhqLJKLj",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "maximal 30 km von Rastede entfernt (Ausnahmen sind mit den betreuenden Lehrkräften zu besprechen und durch den Fachbereichsleiter AWT (<a href=\"mailto:he@kgs-rastede.de\">he@kgs-rastede.de</a>) zu genehmigen)",
+        "id": "_yzcRm5bYW",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "unzulässig, wenn eine besondere Gefährdung vermutet werden kann oder die Betreuung durch die Schule nicht gewährleistet ist",
+        "id": "_4bnRvIfNb",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "FAQ:",
+        "id": "_E9UHOBRMH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gibt es eine Fahrtkostenerstattung falls die Fahrt zum Praktikumsplatz nicht durch die übliche Busfahrkarte abgedeckt ist?</strong>",
+        "id": "_kiCsgwXE7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ja, Fahrtkostenanträge sind jedoch VOR Beginn des Praktikums über das Sekretariat zu stellen.",
+        "id": "_iSm06pueE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wie ist mein Kind während des Praktikums versichert?</strong>",
+        "id": "_CWM5RJXYW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie in der Schule auch über den GUV.",
+        "id": "_qbkiwt4MS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Werden die Kosten für spezielle Arbeitskleidung übernommen?</strong>",
+        "id": "_Ha0w4bwIl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nein. Häufig wird Arbeitskleidung vom Betrieb gestellt.",
+        "id": "_1whZZlmkH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Was ist, wenn mein Kind während des Praktikums erkrankt?</strong>",
+        "id": "_AjCjOYEZQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_KXdRtP8Oa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine Krankmeldung muss im Sekretariat der Schule <strong>und </strong>im Betrieb erfolgen. Spätestens ab dem dritten Fehltag während des Praktikums ist ein ärztliches Attest erforderlich.",
+        "id": "_yxB2T3onq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gibt es eine Belehrung durch das Gesundheitsamt?</strong>",
+        "id": "_nNhrqyMV2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_amGSDjKYS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ja. Für manche Berufe ist eine Belehrung zum Infektionsschutzgesetz durch das Gesundheitsamt notwendig. Diese ist kostenlos und wird durch die Schule zentral organisiert. Sollte ein Schüler bzw. eine Schülerin an diesem Tag erkrankt sein, muss selbständig ein Termin im Gesundheitsamt Westerstede vereinbart werden.",
+        "id": "_OBMmSrhl5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gibt es besondere Richtlinien wegen der Corona Pandemie?</strong>",
+        "id": "_4vP3RLgl1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es gelten die allgemein üblichen Hygieneregeln. Laut Auskunft der IHK und des Gesundheitsamtes Ammerland gibt es aktuell keine besonderen Richtlinien für die Betriebe. Die Unternehmen entscheiden selbst, welche Maßnahmen sie ergreifen. Allerdings ist das Angebot von Praktikumsplätzen wegen des Corona Virus möglicherweise deutlich reduziert.",
+        "id": "_fPRY5Pvrn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Für weitere Fragen rund um das Praktikum stehen Ihnen die betreuenden Lehrkräfte gerne zur Verfügung.",
+        "id": "_lbLiLSxtd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Heiko Henken",
+        "id": "_PiXWpueE0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Fachbereichsleiter Arbeit Wirtschaft Technik",
+        "id": "_4cfmF2I1b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"mailto:he@kgs-rastede.de\">he@kgs-rastede.de</a>",
+        "id": "_3jhFW5lDo",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-09-12 15:15
+
+----
+
+Datumstartseite: 2021-01-12 15:15
+
+----
+
+Author: Heiko Henken
+
+----
+
+Tags: Wirtschaft, Praktikum
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
