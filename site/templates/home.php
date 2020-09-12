@@ -50,7 +50,14 @@
             ->children()
             ->flip() as $subpage) : $index++ ?>
               <?php
-              if (in_array("Topartikel", $subpage->tags()->split())) {
+
+              // Ist es ein Topartikel?
+              if (in_array("Topartikel", $subpage->tags()->split())
+              
+              // ist der Artikel noch aktuell?
+              AND ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s'))
+
+              ) {
                   snippet('topartikel', ['subpage' => $subpage]);
               }
               ?>
