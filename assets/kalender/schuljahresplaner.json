@@ -35,6 +35,13 @@
 "textColor": "#707070"
 },
 {
+"title": "JG 10 Vortrag Bund gegen Alkohol und. Drogen",
+"start": "2021-01-22",
+"end": "2021-01-23",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Matheolympiade Schulrunde",
 "start": "2020-11-11",
 "end": "2020-11-12",
@@ -364,6 +371,13 @@
 "textColor": "#707070"
 },
 {
+"title": "Beratungsausschuss",
+"start": "2020-09-29T16:15",
+"end": "2020-09-29T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "FK MA, WN, GE, FR",
 "start": "2020-11-10T16:15",
 "end": "2020-11-10T18:00",
@@ -493,6 +507,13 @@
 "title": "FK MU, SF",
 "start": "2020-11-02T16:15",
 "end": "2020-11-02T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "JG 10 Vortrag Bund gegen Alkohol und. Drogen",
+"start": "2021-01-25",
+"end": "2021-01-26",
 "color": "white",
 "textColor": "#707070"
 },
