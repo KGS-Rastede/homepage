@@ -2,12 +2,16 @@ Title: Informationen zur Oberstufe
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
     {
         "attrs": [],
-        "content": "Das Abitur ist der h\u00f6chste Bildungsabschluss, der im deutschen Schulsystem vergeben wird. Die KGS Rastede versucht durch ihr breites Angebot an Schwerpunkten und Pr\u00fcfungsf\u00e4chern die individuellen Interessen und F\u00e4higkeiten von Sch\u00fclerinnen und Sch\u00fcler zu ber\u00fccksichtigen und m\u00f6glichst vielen das Erreichen des Abiturs oder des schulischen Teils der Fachhochschulreife zu erm\u00f6glichen. Neben dem vielf\u00e4ltigen fachlichen Angebot stehen dabei Wissenschaftsprop\u00e4deutik, Vorbereitung der allgemeinen Studierf\u00e4higkeit und eine umfassende Berufsorientierung im Mittelpunkt.",
+        "content": "Das Abitur ist der höchste Bildungsabschluss, der im deutschen Schulsystem vergeben wird. Die KGS Rastede versucht durch ihr breites Angebot an Schwerpunkten und Prüfungsfächern die individuellen Interessen und Fähigkeiten von Schülerinnen und Schüler zu berücksichtigen und möglichst vielen das Erreichen des Abiturs oder des schulischen Teils der Fachhochschulreife zu ermöglichen. Neben dem vielfältigen fachlichen Angebot stehen dabei Wissenschaftspropädeutik, Vorbereitung der allgemeinen Studierfähigkeit und eine umfassende Berufsorientierung im Mittelpunkt.",
         "id": "_41xy16mp5",
         "type": "paragraph"
     },
@@ -19,25 +23,25 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Einf\u00fchrungsphase</strong>",
+        "content": "<strong>Einführungsphase</strong>",
         "id": "_P7D9yJguf",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Die Einf\u00fchrungsphase dient zur Vorbereitung der Qualifikationsphase. An unserer Schule werden in der Einf\u00fchrungsphase alle Klassen neu zusammengestellt, so dass ausw\u00e4rtige Sch\u00fclerinnen und Sch\u00fcler ebenso gut in den Jahrgang integriert werden wie unsere Sch\u00fclerinnen und Sch\u00fcler aus dem Haupt- und Realschulzweig, die nach Erreichen des Erweiterten Sek. I-Abschlusses in die Oberstufe eintreten.",
+        "content": "Die Einführungsphase dient zur Vorbereitung der Qualifikationsphase. An unserer Schule werden in der Einführungsphase alle Klassen neu zusammengestellt, so dass auswärtige Schülerinnen und Schüler ebenso gut in den Jahrgang integriert werden wie unsere Schülerinnen und Schüler aus dem Haupt- und Realschulzweig, die nach Erreichen des Erweiterten Sek. I-Abschlusses in die Oberstufe eintreten.",
         "id": "_MqX3NUIOv",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Bereits in der Einf\u00fchrungsphase k\u00f6nnen einige F\u00e4cher ab- oder hinzugew\u00e4hlt werden, wodurch der eigene Stundenplan individualisiert wird. F\u00fcr Sch\u00fclerinnen und Sch\u00fcler, die bisher keine zweite Fremdsprache hatten oder sich umorientieren m\u00f6chten, bieten wir Spanisch als neu beginnende Fremdsprache an. Sch\u00fclerinnen und Sch\u00fcler, die bereits seit der sechsten Klasse eine zweite Fremdsprache belegt haben k\u00f6nnen diese durch ein Wahlpflichtmodul ersetzen. Neben den klassischen Naturwissenschaften bieten wir das Fach Informatik an, das ohne weitere Vorkenntnisse belegt und sp\u00e4ter sogar als Fach auf erh\u00f6htem Anforderungsniveau gew\u00e4hlt werden kann. Wer sich sp\u00e4ter f\u00fcr den sportlichen Schwerpunkt entscheidet, belegt in der Einf\u00fchrungsphase Sporttheorie.",
+        "content": "Bereits in der Einführungsphase können einige Fächer ab- oder hinzugewählt werden, wodurch der eigene Stundenplan individualisiert wird. Für Schülerinnen und Schüler, die bisher keine zweite Fremdsprache hatten oder sich umorientieren möchten, bieten wir Spanisch als neu beginnende Fremdsprache an. Schülerinnen und Schüler, die bereits seit der sechsten Klasse eine zweite Fremdsprache belegt haben können diese durch ein Wahlpflichtmodul ersetzen. Neben den klassischen Naturwissenschaften bieten wir das Fach Informatik an, das ohne weitere Vorkenntnisse belegt und später sogar als Fach auf erhöhtem Anforderungsniveau gewählt werden kann. Wer sich später für den sportlichen Schwerpunkt entscheidet, belegt in der Einführungsphase Sporttheorie.",
         "id": "_cQcfJM5Ge",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Das vierzehnt\u00e4gige Praktikum findet am Ende des ersten Halbjahres statt und wird durch die Politiklehrkr\u00e4fte vorbereitet und betreut.",
+        "content": "Das vierzehntägige Praktikum findet am Ende des ersten Halbjahres statt und wird durch die Politiklehrkräfte vorbereitet und betreut.",
         "id": "_cprc9ytp7",
         "type": "paragraph"
     },
@@ -55,13 +59,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "In der Qualifikationsphase gibt es keinen Klassenverband mehr. Stattdessen w\u00e4hlt man Schwerpunkte und individuelle Pr\u00fcfungsf\u00e4cher, so dass sich in jedem Kurs eine neue Sch\u00fclergemeinschaft bildet. Die Rolle des Klassenlehrers \u00fcbernimmt dabei die Seminarfachlehrkraft.",
+        "content": "In der Qualifikationsphase gibt es keinen Klassenverband mehr. Stattdessen wählt man Schwerpunkte und individuelle Prüfungsfächer, so dass sich in jedem Kurs eine neue Schülergemeinschaft bildet. Die Rolle des Klassenlehrers übernimmt dabei die Seminarfachlehrkraft.",
         "id": "_ljxgit9gk",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Die KGS Rastede bietet in der Qualifikationsphase alle f\u00fcnf in Niedersachsen existierenden Schwerpunkte an: den sprachlichen, den naturwissenschaftlichen, den musisch-k\u00fcnstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es dar\u00fcber hinaus vielf\u00e4ltige Kombinationsm\u00f6glichkeiten der Pr\u00fcfungsf\u00e4cher, so dass jeder seine individuellen Interessen und St\u00e4rken optimal entfalten kann. Die Entscheidung \u00fcber den eigenen Schwerpunkt und die f\u00fcnf Abiturpr\u00fcfungsf\u00e4cher trifft man zu Beginn des zweiten Halbjahrs der Einf\u00fchrungsphase.",
+        "content": "Die KGS Rastede bietet in der Qualifikationsphase alle fünf in Niedersachsen existierenden Schwerpunkte an: den sprachlichen, den naturwissenschaftlichen, den musisch-künstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es darüber hinaus vielfältige Kombinationsmöglichkeiten der Prüfungsfächer, so dass jeder seine individuellen Interessen und Stärken optimal entfalten kann. Die Entscheidung über den eigenen Schwerpunkt und die fünf Abiturprüfungsfächer trifft man zu Beginn des zweiten Halbjahrs der Einführungsphase.",
         "id": "_7yb45bpnz",
         "type": "paragraph"
     },
@@ -97,13 +101,4 @@ Sidetitel: Wichtige Themen
 
 ----
 
-Sidebar:
-
-- 
-  link: >
-    https://www.niehaus-ol.de/allgemeines/oberstufe/anmeldung
-  name: Anmeldung
-- 
-  link: >
-    https://www.niehaus-ol.de/allgemeines/oberstufe/seminarfächer
-  name: Seminarfächer
+Sidebar: 
