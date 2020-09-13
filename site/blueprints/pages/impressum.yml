@@ -104,7 +104,7 @@ tabs:
             type: fields
             fields:
               inhaltlichVerantwortlich:
-                label: Inhaltlich Verantwortlich
+                label: Inhaltlich verantwortlich
                 type: text
                 
   zusaetzlicheTexte:
