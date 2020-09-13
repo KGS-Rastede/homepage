@@ -11,14 +11,8 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Ist jedes Husten schon Corona? Wann muss ich zu Hause bleiben? Das ist nicht immer einfach zu entscheiden. Hier findet man eine kleine Hilfe:",
+        "content": "Ist jedes Husten schon Corona? Wann muss ich zu Hause bleiben? Das ist nicht immer einfach zu entscheiden. Hier findet man eine kleine Hilfe!",
         "id": "_6gbb8hvd2",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<em><a href=\"http://kirby/panel/pages/blogs+woran-erkenne-ich-corona/files/coronaerkennen.pdf\">coronaerkennen.pdf</a></em>",
-        "id": "_ed8n44oz4",
         "type": "paragraph"
     },
     {
