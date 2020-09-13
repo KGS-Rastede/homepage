@@ -2,6 +2,10 @@ Title: WebUntis wurde aktualisiert
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
@@ -16,11 +20,15 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Das große Sommerupdate ist da, hier finden sich sehr viele Neuigkeiten. Mehr dazu hier: <code>https://help.untis.at/hc/de/articles/360015522359</code>",
+        "content": "Das große Sommerupdate ist da, hier finden sich sehr viele Neuigkeiten. Mehr dazu <a href=\"https://help.untis.at/hc/de/articles/360015522359\">hier</a> (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://help.untis.at/hc/de/articles/360015522359\">https://help.untis.at/hc/de/articles/360015522359</a>).",
         "id": "_0gvwhwhy9",
         "type": "paragraph"
     }
 ]
+
+----
+
+Gallery: 
 
 ----
 
@@ -41,3 +49,11 @@ Tags: Schulleitung, WebUntis
 ----
 
 Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: 
