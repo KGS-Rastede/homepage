@@ -33,10 +33,10 @@
                         <?php endif ?>
                     </td>
                     <td class="td-actions text-right">
-                        <a href="mailto:<?= $page->schulleitermail() ?>">
-                            <button type="button" rel="tooltip" class="btn btn-info">
-                                <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg">
-                            </button>
+                        <a href="mailto:<?= $page->schulleitermail() ?>" class="dropdown-toggle nav-link" data-toggle="dropdown">
+                            <svg class="bi" width="24" height="24">
+                                <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#envelope" />
+                            </svg> Kontakt
                         </a>
                     </td>
                 </tr>
@@ -50,10 +50,10 @@
                         <?php endif ?>
                     </td>
                     <td class="td-actions text-right">
-                        <a href="mailto:<?= $page->stellvermail() ?>">
-                            <button type="button" rel="tooltip" class="btn btn-info">
-                                <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg">
-                            </button>
+                        <a href="mailto:<?= $page->stellvemail() ?>" class="dropdown-toggle nav-link" data-toggle="dropdown">
+                            <svg class="bi" width="24" height="24">
+                                <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#envelope" />
+                            </svg> Kontakt
                         </a>
                     </td>
                 </tr>
@@ -67,10 +67,10 @@
                         <?php endif ?>
                     </td>
                     <td class="td-actions text-right">
-                        <a href="mailto:<?= $page->didaktischeLeitungmail() ?>">
-                            <button type="button" rel="tooltip" class="btn btn-info">
-                                <img src="<?= $kirby->url('assets') ?>/icons/envelope.svg">
-                            </button>
+                        <a href="mailto:<?= $page->didaktischeLeitungMail() ?>" class="dropdown-toggle nav-link" data-toggle="dropdown">
+                            <svg class="bi" width="24" height="24">
+                                <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#envelope" />
+                            </svg> Kontakt
                         </a>
                     </td>
                 </tr>
