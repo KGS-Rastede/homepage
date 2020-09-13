@@ -2,12 +2,16 @@ Title: Anmeldung
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
     {
         "attrs": [],
-        "content": "Jede Sch\u00fclerin und jeder Sch\u00fcler muss sich f\u00fcr die Oberstufe anmelden. Anmeldeschluss ist dabei landesweit in jedem Jahr der 20. Februar. Die Anmeldung mit den nebenstehenden Unterlagen muss vormittags pers\u00f6nlich im Sekretariat der KGS Rastede abgegeben werden.",
+        "content": "Jede Schülerin und jeder Schüler muss sich für die Oberstufe anmelden. Anmeldeschluss ist dabei landesweit in jedem Jahr der 20. Februar. Die Anmeldung mit den nebenstehenden Unterlagen muss vormittags persönlich im Sekretariat der KGS Rastede abgegeben werden.",
         "id": "_nkg7lmk7v",
         "type": "paragraph"
     },
@@ -19,7 +23,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Bereits in der Einf\u00fchrungsphase kann man sich in einigen Fachbereichen zwischen verschiedenen F\u00e4chern entscheiden. Dabei sollte man ber\u00fccksichtigen, dass ein einmal abgew\u00e4hltes Fach in der Qualifikationsphase nicht mehr als Pr\u00fcfungsfach gew\u00e4hlt werden kann und bestimmte F\u00e4cher Voraussetzung zur Wahl bestimmter Schwerpunkte sind. Beispielsweise muss, wer den sportlichen Schwerpunkt anstrebt, in der Einf\u00fchrungsphase Sporttheorie belegen.",
+        "content": "Bereits in der Einführungsphase kann man sich in einigen Fachbereichen zwischen verschiedenen Fächern entscheiden. Dabei sollte man berücksichtigen, dass ein einmal abgewähltes Fach in der Qualifikationsphase nicht mehr als Prüfungsfach gewählt werden kann und bestimmte Fächer Voraussetzung zur Wahl bestimmter Schwerpunkte sind. Beispielsweise muss, wer den sportlichen Schwerpunkt anstrebt, in der Einführungsphase Sporttheorie belegen.",
         "id": "_0thki0bfl",
         "type": "paragraph"
     },
@@ -31,7 +35,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Sch\u00fclerinnen und Sch\u00fcler, die bereits seit der sechsten Klasse durchg\u00e4ngig eine zweite Fremdsprache belegt haben, k\u00f6nnen anstelle dieser in der Einf\u00fchrungsphase den Wahlpflichtbereich belegen, der unter bestimmten inhaltlichen Oberthemen steht. Die aktuellen Angebote findet man unter dem Link. Eine Wahl des sprachlichen Schwerpunktes ist dann jedoch nicht mehr m\u00f6glich.",
+        "content": "Schülerinnen und Schüler, die bereits seit der sechsten Klasse durchgängig eine zweite Fremdsprache belegt haben, können anstelle dieser in der Einführungsphase den Wahlpflichtbereich belegen, der unter bestimmten inhaltlichen Oberthemen steht. Die aktuellen Angebote findet man unter dem Link. Eine Wahl des sprachlichen Schwerpunktes ist dann jedoch nicht mehr möglich.",
         "id": "_XQ85xJ1Vn",
         "type": "paragraph"
     }
@@ -62,13 +66,4 @@ Sidetitel:
 
 ----
 
-Sidebar:
-
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
-  name: Operatorenliste Oberstufe
-- 
-  link: >
-    https://db2.nibis.de/1db/cuvo/datei/bi_go_kc_druck_2017.pdf
-  name: Biologie Oberstufe
+Sidebar: 
