@@ -21,7 +21,7 @@
       headerToolbar: {
         left: 'prev,next today',
         center: 'title',
-        right: 'dayGridMonth,timeGridWeek,timeGridDay,listWeek'
+        right: 'dayGridMonth,timeGridWeek,timeGridDay'
       },
 
       buttonText: {
@@ -29,7 +29,6 @@
         month: 'Monat',
         week: 'Woche',
         day: 'Tag',
-        list: 'Monatsliste',
       },
       hiddenDays: [ 0, 6 ], // Samstag und Sonntag verstecken
       firstDay: 1,
