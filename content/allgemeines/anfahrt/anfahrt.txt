@@ -54,7 +54,7 @@ Anfahrt-text-s2:
 [
     {
         "attrs": [],
-        "content": "Den Prakplatz der Feldbreite k\u00f6nnen Sie erreichen, indem Sie von der Oldenburgerstra\u00dfe auf die Schlo\u00dfstra\u00dfe fahren und von dort aus links in die Feldbreite. Der Prakplatz befindet sich dann an der rechten Seite.",
+        "content": "Den Parkplatz der Feldbreite k\u00f6nnen Sie erreichen, indem Sie von der Oldenburgerstra\u00dfe auf die Schlo\u00dfstra\u00dfe fahren und von dort aus links in die Feldbreite. Der Prakplatz befindet sich dann an der rechten Seite.",
         "id": "_lgn3z9ia1",
         "type": "paragraph"
     }
