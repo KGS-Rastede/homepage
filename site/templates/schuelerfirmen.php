@@ -8,7 +8,7 @@
 
 
 
-<div class="row row-cols-1 row-cols-sm-2 row-cols-xl-4 row-cols-xl-5">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 gx-4">
   <?php foreach ($page->children() as $sf) : ?>
     <div class="col mb-4">
       <div class="card">

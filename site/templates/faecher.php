@@ -3,7 +3,8 @@
 <?php snippet('page-header') ?>
 
 <!--SPRACHEN-->
-<div class="row row-cols-1 row-cols-md-2 g-4">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 gx-4">
+
 
   <div class="card bg-primary mb-3">
     <div class="card-body">
