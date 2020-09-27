@@ -23,25 +23,25 @@ Text:
     },
     {
         "attrs": [],
-        "content": "\u201eKunst ist das schwierigste Fach!\u201c",
+        "content": "„Kunst ist das schwierigste Fach!“",
         "id": "_jk3wwl1z4",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "(Clemens H\u00f6xter, ehem. Fachleiter Kunst, Studienseminar Oldenburg)",
+        "content": "(Clemens Höxter, ehem. Fachleiter Kunst, Studienseminar Oldenburg)",
         "id": "_csguccya5",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "\u201e\u2026und das sch\u00f6nste!\u201c",
+        "content": "„…und das schönste!“",
         "id": "_i9tkj3fic",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "(Anmerkung der Redaktion \ud83d\ude0a)",
+        "content": "(Anmerkung der Redaktion 😊)",
         "id": "_4rc35zs7w",
         "type": "paragraph"
     },
@@ -62,7 +62,8 @@ Text:
             "id": "Faecher/kunst/img_1088_edited_hp.jpg",
             "ratio": 1.5,
             "caption": "\"Meer\" von Aaliyah Ulivi (5A3), 2020, Tempera auf Papier",
-            "guid": "/pages/Faecher+kunst/files/img_1088_edited_hp.jpg"
+            "guid": "/pages/Faecher+kunst/files/img_1088_edited_hp.jpg",
+            "filename": "img_1088_edited_hp.jpg"
         },
         "content": "",
         "id": "_tefq6ed4p",
@@ -76,25 +77,25 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Nicht nur im gesamten Kunstkollegium unserer Schule, sondern weit dar\u00fcber hinaus wird f\u00fcr die Bedeutsamkeit des Faches gek\u00e4mpft, denn leider hat es in den letzten Jahren zugunsten anderer F\u00e4cher stark an Aufmerksamkeitsinteresse verloren.",
+        "content": "Nicht nur im gesamten Kunstkollegium unserer Schule, sondern weit darüber hinaus wird für die Bedeutsamkeit des Faches gekämpft, denn leider hat es in den letzten Jahren zugunsten anderer Fächer stark an Aufmerksamkeitsinteresse verloren.",
         "id": "_2npw7yMKY",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Dies soll sich \u00e4ndern,<strong> denn Kunst\u2026</strong>",
+        "content": "Dies soll sich ändern,<strong> denn Kunst…</strong>",
         "id": "_yj4nbzm4d",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "ist das kulturell- und allgemeinbildende Fundament, auf dem unsere Gesellschaft fu\u00dft. Es umfasst folgende Sachbereiche:",
+        "content": "ist das kulturell- und allgemeinbildende Fundament, auf dem unsere Gesellschaft fußt. Es umfasst folgende Sachbereiche:",
         "id": "_zlnay0sow",
         "type": "ul"
     },
     {
         "attrs": [],
-        "content": "<table class=\"MsoTableGrid\" border=\"1\" cellspacing=\"0\" cellpadding=\"0&#10;\">\n <tr>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoNormal\"> <strong> <span>Bildende Kunst</span> </strong> <o:p></o:p></p>\n </td>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoNormal\"> <strong> <span>Gebaute Umwelt</span> </strong> <o:p></o:p></p>\n </td>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoNormal\"> <strong> <span>Visuelle\n (Massen-)Medien</span> </strong> <o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoListParagraphCxSpFirst\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Graphik<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Druckgraphik<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Malerei<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Bildhauerei<o:p></o:p></![endif]></![if></p>\n </td>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Architektur<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Innenarchitektur<o:p></o:p></![endif]></![if></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n</span></span></span><![endif]>Produkdesign<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Stadtentwicklung<o:p></o:p></![endif]></![if></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n</span></span></span><![endif]>St\u00e4dtebau<o:p></o:p></![endif]></![if></p>\n </td>\n <td width=\"201\" valign=\"top\">\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Plakatkunst<o:p></o:p></![endif]></![if></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Graphikdesign<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpMiddle\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Fotografie<o:p></o:p></![endif]></![if></p>\n <p class=\"MsoListParagraphCxSpLast\"><![if !supportlists]><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n </span></span></span><![endif]>Film<o:p></o:p></![endif]></![if></p>\n</td>\n </tr>\n</table>",
+        "content": "<div class=\"table-responsive\">\n<table class=\"table\">\n  <thead>\n    <tr>\n      <th scope=\"col\">Bildende Kunst</th>\n      <th scope=\"col\">Gebaute Umwelt</th>\n      <th scope=\"col\">Visuelle (Massen-) Medien</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Graphik</td>\n      <td>Architektur</td>\n      <td>Plakatkunst</td>\n    </tr>\n    <tr>\n      <td>Druckgraphik</td>\n      <td>Innenarchitektur</td>\n      <td>Graphikdesign</td>\n    </tr>\n    <tr>\n      <td>Malerei</td>\n      <td>Produktdesign</td>\n      <td>Fotografie</td>\n    </tr>\n    <tr>\n      <td>Bildhauerei</td>\n      <td>Stadtentwicklung</td>\n      <td>Film</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td>Städtebau</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n</div>",
         "id": "_jvyB6MS4j",
         "type": "kirbytext"
     },
@@ -106,13 +107,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "z\u00e4hlt zu dem \u00e4ltesten, kostbarsten und identit\u00e4tsstiftenden Gut unserer Gesellschaft bzw. Kultur und wird nicht ohne Grund in nationalen Archiven und Museen gesch\u00fctzt, gepflegt, ausgestellt und wertgesch\u00e4tzt.",
+        "content": "zählt zu dem ältesten, kostbarsten und identitätsstiftenden Gut unserer Gesellschaft bzw. Kultur und wird nicht ohne Grund in nationalen Archiven und Museen geschützt, gepflegt, ausgestellt und wertgeschätzt.",
         "id": "_t61grc4sb",
         "type": "ul"
     },
     {
         "attrs": [],
-        "content": "kann bei der Rezeption intensive Gef\u00fchle des Vergn\u00fcgens hervorrufen und bei der Produktion das Gehirn durch kreative Prozesse aktivieren und bewusst involvieren (siehe Studien der Hirnforschung, z.B. des Max-Planck-Instituts f\u00fcr empirische \u00c4sthetik).",
+        "content": "kann bei der Rezeption intensive Gefühle des Vergnügens hervorrufen und bei der Produktion das Gehirn durch kreative Prozesse aktivieren und bewusst involvieren (siehe Studien der Hirnforschung, z.B. des Max-Planck-Instituts für empirische Ästhetik).",
         "id": "_yupu9rei0",
         "type": "ul"
     },
@@ -120,7 +121,7 @@ Text:
         "attrs": {
             "indent": 0
         },
-        "content": "f\u00f6rdert und fordert die Auseinandersetzung mit kulturspezifischen- und \u00fcbergreifenden Themen sowie das Verst\u00e4ndnis gesellschaftlicher Prozesse.",
+        "content": "fördert und fordert die Auseinandersetzung mit kulturspezifischen- und übergreifenden Themen sowie das Verständnis gesellschaftlicher Prozesse.",
         "id": "_vvc9hnouh",
         "type": "ul"
     },
@@ -128,7 +129,7 @@ Text:
         "attrs": {
             "indent": 0
         },
-        "content": "f\u00f6rdert und fordert die pers\u00f6nliche Entwicklung eines jeden Menschen auch au\u00dferhalb der sonst so stark im Fokus stehenden reinen Leistung in Form von Noten und kann daher - \u00e4hnlich wie Sport oder Musik - zu mehr Freude und Zufriedenheit im Leben beitragen.",
+        "content": "fördert und fordert die persönliche Entwicklung eines jeden Menschen auch außerhalb der sonst so stark im Fokus stehenden reinen Leistung in Form von Noten und kann daher - ähnlich wie Sport oder Musik - zu mehr Freude und Zufriedenheit im Leben beitragen.",
         "id": "_whkexhnxa",
         "type": "ul"
     },
@@ -140,19 +141,19 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Wenn man sich die F\u00fclle der drei oben aufgef\u00fchrten Sachbereiche nun f\u00fcr die unterrichtliche Praxis vorstellt, sind die Grenzen des M\u00f6glichen schnell \u00fcberschritten. Dennoch werden auf Grund von bildungspolitischen Beschl\u00fcssen diese Grenzen immer enger, da dem Fachunterricht Kunst wertvolles Stundenkontingent gestrichen wurde. So muss leider auch an unserer Schule der Kunstunterricht, dessen Inhalte von der Landesschulbeh\u00f6rde im Kerncurriculum vorgegeben werden (<em>siehe Link unter weitere Informationen oben rechts</em>), in mehreren Jahrg\u00e4ngen (5, 8 ,9 ,10) epochal anstatt ganzj\u00e4hrig durchgef\u00fchrt werden. Allen Unm\u00f6glichkeiten zum Trotz.",
+        "content": "Wenn man sich die Fülle der drei oben aufgeführten Sachbereiche nun für die unterrichtliche Praxis vorstellt, sind die Grenzen des Möglichen schnell überschritten. Dennoch werden auf Grund von bildungspolitischen Beschlüssen diese Grenzen immer enger, da dem Fachunterricht Kunst wertvolles Stundenkontingent gestrichen wurde. So muss leider auch an unserer Schule der Kunstunterricht, dessen Inhalte von der Landesschulbehörde im Kerncurriculum vorgegeben werden (<em>siehe Link unter weitere Informationen oben rechts</em>), in mehreren Jahrgängen (5, 8 ,9 ,10) epochal anstatt ganzjährig durchgeführt werden. Allen Unmöglichkeiten zum Trotz.",
         "id": "_01yyldyyj",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Dies bedeutet grunds\u00e4tzlich weniger Kunstunterricht f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler und die Schwierigkeit f\u00fcr die unterrichtenden Lehrkr\u00e4fte, das ohnehin so komplexe Fach inhaltlich sinnvoll zu reduzieren.",
+        "content": "Dies bedeutet grundsätzlich weniger Kunstunterricht für die Schülerinnen und Schüler und die Schwierigkeit für die unterrichtenden Lehrkräfte, das ohnehin so komplexe Fach inhaltlich sinnvoll zu reduzieren.",
         "id": "_6RMPZWVXx",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "\u00c4hnlich ergeht es dem Fach Musik. Aus diesem Grund beteiligt sich die KGS an der landesweiten Aktionsreihe <strong>\u201eKuMu20- auf die Augen, auf die Ohren!\u201c </strong>(<em>siehe Link unter weitere Informationen oben rechts</em><strong>)</strong>, die im Fr\u00fchjahr 2020 als Pilotprojekt startet, um die<strong> </strong>musikalisch- ku\u0308nstlerisch- a\u0308sthetische Arbeit der Gesamtschulen in Niedersachsen zu zeigen und in besonderer Weise wertzusch\u00e4tzen. In diesem Rahmen veranstaltet der Fachbereich Musik mehrere Konzerte und der Fachbereich Kunst mal wieder eine <strong>Ausstellung im Palais Rastede </strong><em>(siehe Link unter weitere Informationen oben rechts), </em>wo neben vielen anderen Sch\u00fclerarbeiten auch die obige expressive Malerei der Sch\u00fclerin Aaliyah Ulivi zum Thema \"Meer\" pr\u00e4sentiert wird.",
+        "content": "Ähnlich ergeht es dem Fach Musik. Aus diesem Grund beteiligt sich die KGS an der landesweiten Aktionsreihe <strong>„KuMu20- auf die Augen, auf die Ohren!“ </strong>(<em>siehe Link unter weitere Informationen oben rechts</em><strong>)</strong>, die im Frühjahr 2020 als Pilotprojekt startet, um die<strong> </strong>musikalisch- künstlerisch- ästhetische Arbeit der Gesamtschulen in Niedersachsen zu zeigen und in besonderer Weise wertzuschätzen. In diesem Rahmen veranstaltet der Fachbereich Musik mehrere Konzerte und der Fachbereich Kunst mal wieder eine <strong>Ausstellung im Palais Rastede </strong><em>(siehe Link unter weitere Informationen oben rechts), </em>wo neben vielen anderen Schülerarbeiten auch die obige expressive Malerei der Schülerin Aaliyah Ulivi zum Thema \"Meer\" präsentiert wird.",
         "id": "_a6fwyl9t9",
         "type": "paragraph"
     },
@@ -170,7 +171,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Unsere Schule konnte in den letzten Jahren viele wichtige Anschaffungen, insbesondere in technischer Hinsicht (z.B. Ipads, Dokumentenkameras, Licht- und Tonausstattung zum Filmen), vornehmen. Hier geht besonderer Dank an den F\u00f6rderverein der KGS. Die KGS stellt neben Verbrauchsmaterialien wie beispielsweise Temperafarben, Kohle, Pastellkreiden, Linolplatten und verschiedene Papiere auch diverse Werkzeuge wie Linolbesteck, Walzen, Zangen, gro\u00dfe Geodreiecke und Lineale, um nur einige zu nennen, zur Verf\u00fcgung. Daf\u00fcr wird von jedem Sch\u00fcler bzw. jeder Sch\u00fclerin je Schuljahr ein Euro eingesammelt. Dies erm\u00f6glicht ein sehr breites Angebot an k\u00fcnstlerischen Techniken im Unterricht.",
+        "content": "Unsere Schule konnte in den letzten Jahren viele wichtige Anschaffungen, insbesondere in technischer Hinsicht (z.B. Ipads, Dokumentenkameras, Licht- und Tonausstattung zum Filmen), vornehmen. Hier geht besonderer Dank an den Förderverein der KGS. Die KGS stellt neben Verbrauchsmaterialien wie beispielsweise Temperafarben, Kohle, Pastellkreiden, Linolplatten und verschiedene Papiere auch diverse Werkzeuge wie Linolbesteck, Walzen, Zangen, große Geodreiecke und Lineale, um nur einige zu nennen, zur Verfügung. Dafür wird von jedem Schüler bzw. jeder Schülerin je Schuljahr ein Euro eingesammelt. Dies ermöglicht ein sehr breites Angebot an künstlerischen Techniken im Unterricht.",
         "id": "_3lyevy89d",
         "type": "paragraph"
     },
@@ -188,7 +189,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Eine weitere besondere Wertsch\u00e4tzung erlangt das Fach Kunst an unserer Schule in diesem Jahr durch die Etablierung eines \u201eAtelierkurses\u201c aufsteigend ab dem k\u00fcnftigen f\u00fcnften Jahrgang, bei dem Sch\u00fclerinnen und Sch\u00fcler aus allen Schulzweigen die M\u00f6glichkeit haben, sowohl zwei Stunden am Vor- als auch zwei Stunden am Nachmittag in der Woche der \u00e4sthetischen Theorie und Praxis in umfangreicheren Ma\u00dfe nachzugehen, als es bisher in diesem Jahrgang der Fall war. Ob der Kurs zuk\u00fcnftig tats\u00e4chlich den Charakter eines Ateliers (mit ausreichend Staffeleien) haben wird, obliegt der oben erw\u00e4hnten Stundentafel und der zuk\u00fcnftigen (materiellen) F\u00f6rderung unseres Faches durch die Gemeinde. In jedem Fall ist es eine sinn- und gehaltvolle Erweiterung des k\u00fcnstlerisch-\u00e4sthetischen Angebots an unserer Schule, dass dem eigentlichen Trend der Stundenreduzierung des Faches entgegenwirkt.",
+        "content": "Eine weitere besondere Wertschätzung erlangt das Fach Kunst an unserer Schule in diesem Jahr durch die Etablierung eines „Atelierkurses“ aufsteigend ab dem künftigen fünften Jahrgang, bei dem Schülerinnen und Schüler aus allen Schulzweigen die Möglichkeit haben, sowohl zwei Stunden am Vor- als auch zwei Stunden am Nachmittag in der Woche der ästhetischen Theorie und Praxis in umfangreicheren Maße nachzugehen, als es bisher in diesem Jahrgang der Fall war. Ob der Kurs zukünftig tatsächlich den Charakter eines Ateliers (mit ausreichend Staffeleien) haben wird, obliegt der oben erwähnten Stundentafel und der zukünftigen (materiellen) Förderung unseres Faches durch die Gemeinde. In jedem Fall ist es eine sinn- und gehaltvolle Erweiterung des künstlerisch-ästhetischen Angebots an unserer Schule, dass dem eigentlichen Trend der Stundenreduzierung des Faches entgegenwirkt.",
         "id": "_toc36ezvt",
         "type": "paragraph"
     },
@@ -206,7 +207,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Ebenso positiv ist die geplante wissenschaftsprop\u00e4deutische Ausrichtung des Faches in der Oberstufe zu bewerten. Ab dem Sommer 2020 soll das Angebot der Oberstufe der KGS durch einen Kurs auf erh\u00f6htem Niveau erweitert werden. Somit werden unsere Sch\u00fclerinnen und Sch\u00fcler im Jahr 2022 das schriftliche (und zuk\u00fcnftig ggf. auch das m\u00fcndliche) Abitur im Fach Kunst ablegen und ihre damit erworbenen fachlichen Kompetenzen auf ihrem weiteren, ggf. kulturell orientierten Lebensweg, anwenden k\u00f6nnen.",
+        "content": "Ebenso positiv ist die geplante wissenschaftspropädeutische Ausrichtung des Faches in der Oberstufe zu bewerten. Ab dem Sommer 2020 soll das Angebot der Oberstufe der KGS durch einen Kurs auf erhöhtem Niveau erweitert werden. Somit werden unsere Schülerinnen und Schüler im Jahr 2022 das schriftliche (und zukünftig ggf. auch das mündliche) Abitur im Fach Kunst ablegen und ihre damit erworbenen fachlichen Kompetenzen auf ihrem weiteren, ggf. kulturell orientierten Lebensweg, anwenden können.",
         "id": "_7E1eZh0Fw",
         "type": "paragraph"
     },
@@ -224,13 +225,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Noch ein k\u00fcnstlerisch-kulturelles Angebot, das unsere Schule f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler des Gymnasial- und Realschulzweigs seit einigen Jahren organisiert, ist die M\u00f6glichkeit, das Fach Kunst im Wahlpflichtbereich anzuw\u00e4hlen, sodass in den Jahrg\u00e4ngen 8-10 zus\u00e4tzlich zum dort epochal stattfindenden Kunstunterricht erg\u00e4nzende und vertiefende Inhalte des Faches mit besonderer Ber\u00fccksichtigung des Lebensweltbezugs vermittelt werden k\u00f6nnen. W\u00fcnschenswert w\u00e4re, dass auch die Sch\u00fclerinnen und Sch\u00fcler des Hauptschulzweiges in den Jahrg\u00e4ngen 7-10 ein (solches) Bildungsangebot im Fach Kunst bekommen.",
+        "content": "Noch ein künstlerisch-kulturelles Angebot, das unsere Schule für die Schülerinnen und Schüler des Gymnasial- und Realschulzweigs seit einigen Jahren organisiert, ist die Möglichkeit, das Fach Kunst im Wahlpflichtbereich anzuwählen, sodass in den Jahrgängen 8-10 zusätzlich zum dort epochal stattfindenden Kunstunterricht ergänzende und vertiefende Inhalte des Faches mit besonderer Berücksichtigung des Lebensweltbezugs vermittelt werden können. Wünschenswert wäre, dass auch die Schülerinnen und Schüler des Hauptschulzweiges in den Jahrgängen 7-10 ein (solches) Bildungsangebot im Fach Kunst bekommen.",
         "id": "_olqi10qo0",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Im Fach Kunst sollen alle Sch\u00fclerinnen und Sch\u00fcler ein <strong>Skizzenbuch</strong> f\u00fchren, das sie \u00fcber ihre gesamte schulische Laufbahn begleitet und ihnen als selbst erstelltes Nachschlagewerk dient.",
+        "content": "Im Fach Kunst sollen alle Schülerinnen und Schüler ein <strong>Skizzenbuch</strong> führen, das sie über ihre gesamte schulische Laufbahn begleitet und ihnen als selbst erstelltes Nachschlagewerk dient.",
         "id": "_QkqGRVW8w",
         "type": "paragraph"
     }
@@ -278,7 +279,10 @@ Haupttag: Kunst
 
 ----
 
-Hintergrundbild: Faecher/kunst/schulerarbeit-jahrgang-7-kr_hp_crppd.jpeg
+Hintergrundbild:
+
+- >
+  schulerarbeit-jahrgang-7-kr_hp_crppd.jpeg
 
 ----
 
