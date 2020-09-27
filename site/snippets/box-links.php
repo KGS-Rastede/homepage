@@ -27,5 +27,14 @@
         <ul>
             <a href="<?= page('allgemeines/mensa')->url() ?>" class="btn btn-warning btn-lg btn-block" role="button" aria-pressed="true">Mensa</a>
         </ul>
+        <hr>
+
+
+
+        <ul>
+            <a href="https://kgs-rastede.schulserver.de">
+                <img src="<?= $kirby->url('assets') ?>/bilder/IServ_Logo_klein_RGB_clean.svg" alt="IServ" class="img-fluid">
+            </a>
+        </ul>
     </div>
 </div>
