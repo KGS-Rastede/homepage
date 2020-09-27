@@ -1,4 +1,4 @@
-<svg xml:space="preserve" width="1in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality" viewBox="-1291 0 2070 3369">
+<svg xml:space="preserve" width="1in" height="1in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality" viewBox="-1291 0 2070 3369">
     <defs>
         <style type="text/css">
             <![CDATA[

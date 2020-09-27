@@ -1,12 +1,12 @@
-<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-info">
   <!-- 
           Hier kann das Logo stehen oder der Name der Schule.
           Müssen wir am Ende vom Design her entscheiden.      
         -->
 
   <div class="container">
-    <a class="navbar-brand" href="<?= $site->url() ?>">
-      <img width="64" width="64"src="<?= $kirby->url('assets') ?>/logo-kgs-medium.jpg" loading="lazy">
+    <a class="navbar-brand w-1/2 h-12" href="<?= $site->url() ?>">
+      <?php snippet('logo-als-svg') ?>
     </a>
   </div>
 

@@ -96,19 +96,21 @@
                             </thead>
                             <tbody>
                                 <?php foreach ($page->SchulbuchlistenGZ()->toStructure() as $liste) : ?>
-                                    <tr>
-                                        <td><?= $liste->name() ?>
-                                        </td>
-                                        <td class="td-actions text-right">
-                                            <a href="<?= $liste->link()->toFile()->url() ?>">
-                                                <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
-                                                    <svg class="bi" width="24" height="24">
-                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
-                                                    </svg>
-                                                </button>
-                                            </a>
-                                        </td>
-                                    </tr>
+                                    <?php if($liste->link()->toFile()): ?>
+                                        <tr>
+                                            <td><?= $liste->name() ?>
+                                            </td>
+                                            <td class="td-actions text-right">
+                                                <a href="<?= $liste->link()->toFile()->url() ?>">
+                                                    <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
+                                                        <svg class="bi" width="24" height="24">
+                                                            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
+                                                        </svg>
+                                                    </button>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    <?php endif ?>
                                 <?php endforeach ?>
                             </tbody>
                         </table>

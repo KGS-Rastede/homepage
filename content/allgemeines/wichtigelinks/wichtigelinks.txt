@@ -44,4 +44,5 @@ Text:
 
 ----
 
-Lehrplaene: 
+Lehrplantext: 
+Hier finden Sie eine schnelle Übersicht über die wichtigsten Links im Alltag

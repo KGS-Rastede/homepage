@@ -116,7 +116,7 @@
             <div class="px-1 py-1">
 
                 <?php foreach ($tags_gezaehlt as $tagkey => $tagvalue) : ?>
-                    <a href="<?= url('devblog', ['params' => ['tag' => $tagkey]]) ?>">
+                    <a class="p-1" href="<?= url('devblog', ['params' => ['tag' => $tagkey]]) ?>">
 
                         <span class="inline-block bg-blue-200 text-blue-800 text-lg p-2 m-2 rounded-full uppercase font-semibold tracking-wide"><?= $tagkey ?>
                         <span class="bg-red-200 text-red-800 text-lg px-1 rounded"><?= $tagvalue ?>

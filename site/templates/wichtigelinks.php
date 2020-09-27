@@ -19,9 +19,9 @@
           <tr>
             <td><?= $lehrplan->name() ?></td>
             <td class="td-actions text-right">
-              <a href="">
-                Download
+              <a href="<?= $lehrplan->link()->toFile()->url() ?>">
                 <button type="button" rel="tooltip" class="btn btn-info btn-just-icon btn-sm">
+                  Download
                   <svg class="bi" width="24" height="24">
                     <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
                   </svg>

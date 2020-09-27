@@ -22,8 +22,8 @@
 },
 {
 "title": "Klassenelternschaftswahlen 7, 10HZ und Nachwahlen",
-"start": "--",
-"end": "--",
+"start": "2020-09-17T20:00",
+"end": "2020-09-17T21:30",
 "color": "skyblue",
 "textColor": "#707070"
 },
@@ -49,7 +49,7 @@
 "textColor": "#707070"
 },
 {
-"title": "FK EN",
+"title": "FK EN, WI",
 "start": "2020-11-23T16:15",
 "end": "2020-11-23T18:00",
 "color": "white",
@@ -85,8 +85,8 @@
 },
 {
 "title": "Steuerungsausschuss",
-"start": "2020-10-05T16:15",
-"end": "2020-10-05T18:00",
+"start": "2020-10-06T16:15",
+"end": "2020-10-06T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -101,13 +101,6 @@
 "title": "Abgabe der Förderpläne beim Koordinator für Inklusion",
 "start": "2020-11-30",
 "end": "2020-12-01",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "FK WI",
-"start": "2020-11-23T16:15",
-"end": "2020-11-23T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -134,8 +127,8 @@
 },
 {
 "title": "Steuerungsausschuss",
-"start": "2020-11-09T16:15",
-"end": "2020-11-09T18:00",
+"start": "2020-11-16T16:15",
+"end": "2020-11-16T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -162,15 +155,15 @@
 },
 {
 "title": "Schulelternrat",
-"start": "2020-09-22T19:30",
-"end": "2020-09-22T21:30",
+"start": "2020-09-28T19:30",
+"end": "2020-09-28T21:30",
 "color": "white",
 "textColor": "#707070"
 },
 {
 "title": "Warnung Epochalfächer",
-"start": "2020-11-30",
-"end": "2020-12-01",
+"start": "2020-11-23",
+"end": "2020-11-24",
 "color": "white",
 "textColor": "#707070"
 },
@@ -238,13 +231,6 @@
 "textColor": "#707070"
 },
 {
-"title": "FK EK",
-"start": "2020-09-30T16:15",
-"end": "2020-09-30T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Beratungsausschuss",
 "start": "2020-09-21T16:15",
 "end": "2020-09-21T18:00",
@@ -273,9 +259,16 @@
 "textColor": "#707070"
 },
 {
-"title": "FK CH, RE",
-"start": "2020-09-29T16:15",
-"end": "2020-09-29T18:00",
+"title": "FK CH, RE, MU, SF",
+"start": "2020-11-02T16:15",
+"end": "2020-11-02T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schulelternrat - 19.30 Uhr",
+"start": "--",
+"end": "--",
 "color": "white",
 "textColor": "#707070"
 },
@@ -288,8 +281,8 @@
 },
 {
 "title": "FK (SN, PH, LA, BI)",
-"start": "2020-10-06T16:15",
-"end": "2020-10-06T18:00",
+"start": "2020-10-26T16:15",
+"end": "2020-10-26T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -323,8 +316,8 @@
 },
 {
 "title": "FK PO, IF",
-"start": "2020-09-28T16:15",
-"end": "2020-09-28T18:00",
+"start": "2020-11-09T16:15",
+"end": "2020-11-09T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -386,8 +379,8 @@
 },
 {
 "title": "DB DAZ",
-"start": "2020-11-16T16:15",
-"end": "2020-11-16T18:00",
+"start": "2020-11-09T16:15",
+"end": "2020-11-09T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -413,7 +406,7 @@
 "textColor": "#707070"
 },
 {
-"title": "FK DS, HW, TG, WE",
+"title": "FK DS, HW, TG, WE, EK",
 "start": "2020-11-17T16:15",
 "end": "2020-11-17T18:00",
 "color": "white",
@@ -504,13 +497,6 @@
 "textColor": "#707070"
 },
 {
-"title": "FK MU, SF",
-"start": "2020-11-02T16:15",
-"end": "2020-11-02T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "JG 10 Vortrag Bund gegen Alkohol und. Drogen",
 "start": "2021-01-25",
 "end": "2021-01-26",
@@ -554,8 +540,8 @@
 },
 {
 "title": "Klassenelternschaftswahlen 5 und 12",
-"start": "--",
-"end": "--",
+"start": "2020-09-15T20:00",
+"end": "2020-09-15T21:30",
 "color": "skyblue",
 "textColor": "#707070"
 },
@@ -659,8 +645,8 @@
 },
 {
 "title": "Klassenelternschaftswahlen 9 und 11",
-"start": "--",
-"end": "--",
+"start": "2020-09-16T20:00",
+"end": "2020-09-16T21:30",
 "color": "skyblue",
 "textColor": "#707070"
 },
@@ -757,8 +743,8 @@
 },
 {
 "title": "Wanderwoche (Klassenfahrten - Studienfahrten)",
-"start": "2020-09-21",
-"end": "2020-09-26",
+"start": "2021-07-26",
+"end": "2021-07-31",
 "color": "greenyellow",
 "textColor": "#707070"
 },
