@@ -4,7 +4,7 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-9">
+    <div class="col-md-8 col-lg-9">
 
 
       <div class="card bg-primary">
@@ -44,7 +44,7 @@
          -->
       <h1>Aktuell im Fokus</h1>
       <div class="container-fluid">
-        <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2">
+        <div class="row row-cols-1 row-cols-xs-1 row-cols-lg-2">
           <?php $index = 0;
           foreach (page('blogs')
             ->children()
@@ -99,7 +99,7 @@
 
 
       <h1 class="title">Aktuelle Nachrichten</h1>
-      <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2 g-4">
+      <div class="row row-cols-1 row-cols-xs-1 row-cols-lg-2 g-4">
 
         <!-- <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2"> -->
 
@@ -134,7 +134,7 @@
 
     </div>
 
-    <div class="col-md-3">
+    <div class="col-md-4 col-lg-3">
       <div class="container mt-5">
         <?php snippet('box-schnellzugriff') ?>
         <?php snippet('box-kalender') ?>
