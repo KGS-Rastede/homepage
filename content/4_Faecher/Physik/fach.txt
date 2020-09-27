@@ -17,7 +17,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Die Physik untersucht Erscheinungen der unbelebten Natur, zum Beispiel: <br>Wie wirken Magnete? Was ist Licht? Was ist kleiner als ein Atom? <br>Wie bringt elektrischer Strom den K\u00fcchenmixer zum Drehen? <br>Wie kommt es zum Treibhauseffekt?<br>Und was kann ich tun, um ihn zu bremsen?<br><br><br>",
+        "content": "Die Physik untersucht Erscheinungen der unbelebten Natur, zum Beispiel: <br>Wie wirken Magnete? Was ist Licht? Was ist kleiner als ein Atom? <br>Wie bringt elektrischer Strom den Küchenmixer zum Drehen? <br>Wie kommt es zum Treibhauseffekt?<br>Und was kann ich tun, um ihn zu bremsen?<br><br><br>",
         "id": "_5ao9u4dvt",
         "type": "paragraph"
     },
@@ -35,7 +35,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Zwei gro\u00dfe Pers\u00f6nlichkeiten der Physik sagten zu ihrem eigenen Fach folgendes:",
+        "content": "Zwei große Persönlichkeiten der Physik sagten zu ihrem eigenen Fach folgendes:",
         "id": "_eb4ZKRx0B",
         "type": "paragraph"
     },
@@ -50,7 +50,8 @@ Text:
             "guid": "/pages/Faecher+Physik/files/curie-und-einstein-3-1.jpg",
             "id": "Faecher/Physik/curie-und-einstein-3-1.jpg",
             "ratio": 1.4141475211608223,
-            "caption": ""
+            "caption": "",
+            "filename": "curie-und-einstein-3-1.jpg"
         },
         "content": "",
         "id": "_v9of44aci",
@@ -58,7 +59,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Im Physikunterricht wollen wir auch staunen und verstehen. <br>Daf\u00fcr schauen wir uns die Ph\u00e4nomene genau an und entwickeln Experimente.<br>H\u00e4ufig messen wir etwas, veranschaulichen die Messungen in Diagrammen und interpretieren sie.<br>Zu unserer Arbeitsweise geh\u00f6rt ebenso, dass wir unsere Ergebnisse mit den Theorien von anderen Physikern vergleichen.<br><br><br><br>Im <strong>Wahlpflichtbereich (WPK)</strong> k\u00f6nnen wir physikalische und technische Fragestellungen miteinander zu verkn\u00fcpfen. Beispielsweise bauen wir hier solarbetriebene Fahrzeuge und nehmen damit an Wettbewerben teil.<br><br>",
+        "content": "Im Physikunterricht wollen wir auch staunen und verstehen. <br>Dafür schauen wir uns die Phänomene genau an und entwickeln Experimente.<br>Häufig messen wir etwas, veranschaulichen die Messungen in Diagrammen und interpretieren sie.<br>Zu unserer Arbeitsweise gehört ebenso, dass wir unsere Ergebnisse mit den Theorien von anderen Physikern vergleichen.<br><br><br><br>Im <strong>Wahlpflichtbereich (WPK)</strong> können wir physikalische und technische Fragestellungen miteinander verknüpfen. Beispielsweise bauen wir hier solarbetriebene Fahrzeuge und nehmen damit an Wettbewerben teil.<br><br>",
         "id": "_68e4boa4h",
         "type": "paragraph"
     },
@@ -73,7 +74,8 @@ Text:
             "guid": "/pages/Faecher+Physik/files/4-bilder.jpg",
             "id": "Faecher/Physik/4-bilder.jpg",
             "ratio": 1.5052790346907994,
-            "caption": ""
+            "caption": "",
+            "filename": "4-bilder.jpg"
         },
         "content": "",
         "id": "_qc3xrvcec",
