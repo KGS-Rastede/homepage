@@ -28,7 +28,7 @@
     <div class="w-1/5">
       <h5 class="font-bold">Wichtige Downloads</h5>
       <ul class="list-unstyled">
-        <li><a class="text-muted" href="<?= page('allgemeines/downloads')->url() ?>#schulbuchlisten-1">Schulbuchlisten</a></li>
+        <li><a class="text-muted" href="<?= page('allgemeines/schulbuchlisten')->url() ?>">Schulbuchlisten</a></li>
         <li><a class="text-muted" href="#">Schulordnung</a></li>
         <li><a class="text-muted" href="<?= page('allgemeines/wichtigelinks')->url() ?>">Wichtige Links</a></li>
       </ul>
