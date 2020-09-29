@@ -1,0 +1,82 @@
+Title: Informationen für Eltern aus dem Ministerium
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Brief des Kultusministers Herrn Tonne an die Eltern",
+        "id": "_AkPMmVRFo",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Zu den neuen Entwicklungen informiert der Kultusminister Herr Tonne.",
+        "id": "_rGAce6DDf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_xgs5biokz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Informationen rund um Corona",
+        "id": "_ffQ9XNcpT",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das Kultusministerium hat vielfältige Informationen, auch für Eltern, Schülerinnen und Schüler herausgegeben.",
+        "id": "_R9Oj1OahP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Man findet sie unter: <a href=\"https://www.mk.niedersachsen.de/startseite/aktuelles/schule-neues-schuljahr-190409.html\">https://www.mk.niedersachsen.de/startseite/aktuelles/schule-neues-schuljahr-190409.html</a>",
+        "id": "_jGOR6Gny2",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-09-29 03:40
+
+----
+
+Datumstartseite: 2020-11-30 04:40
+
+----
+
+Author: Die Schulleitung
+
+----
+
+Tags: Schulleitung, Corona, Topartikel
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads:
+
+- elternbrief1.pdf
+
+----
+
+Fotoansicht: gallery
