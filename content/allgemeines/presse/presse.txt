@@ -6,6 +6,21 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.rasteder-rundschau.de/2020/09/25/fridays-for-future-ist-zurueck/
+  name: „Fridays for Future“ ist zurück
+  anfang: >
+    Corona hatte das Thema Klimarettung
+    weitgehend von der politischen Agenda
+    verdrängt. Doch an diesem Freitag
+    meldet sich die Bewegung lautstark
+    zurück. Auch in Rastede gehen wieder
+    zahlreiche – vor allem junge –
+    Menschen für den Klimaschutz auf die
+    Straße.
+  datum: 2020-09-25
+  zeitung: rastederrundschau
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-neue-container-klassen-im-anflug_a_50,9,2954364482.html
   name: Neue Container-Klassen „im Anflug“
   anfang: >
