@@ -31,7 +31,7 @@ columns:
             type: editor
           gallery:
             type: files
-            uploads: images
+            uploads: blogbild
             query: page.images
             label: Fotos für den Artikel
             help: Hier nur Fotos, KEINE PDF-Dateien

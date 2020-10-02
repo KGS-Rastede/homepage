@@ -32,6 +32,7 @@ columns:
       downloads:
         label: Verknüpfte Dateien
         type: files
+        uploads: pdfs
       pageSettings3:
         label: Sidebar
         type: headline
