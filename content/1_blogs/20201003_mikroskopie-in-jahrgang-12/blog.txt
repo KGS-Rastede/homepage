@@ -1,0 +1,58 @@
+Title: Mikroskopie in Jahrgang 12
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Auch in Jahrgang 12 wird mikroskopiert, hier haben wir uns im Themenfeld Ökologie den Aufbau von Blättern angeschaut.",
+        "id": "_qgww2i5e4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Thema der Stunde war die Anpassung an den Umweltfaktor Wasser.",
+        "id": "_e2yquyx6l",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- sonnenblatt_buche.jpg
+
+----
+
+Date: 2020-10-03 10:30
+
+----
+
+Datumstartseite: 2020-10-03 14:30
+
+----
+
+Author: Ni
+
+----
+
+Tags: Biologie, Mikroskopie
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
