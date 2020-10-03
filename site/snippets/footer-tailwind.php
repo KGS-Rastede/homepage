@@ -22,7 +22,7 @@
         <li><a class="text-muted" href="<?= page('allgemeines/geschichte')->url() ?>">Unsere Geschichte</a></li>
         <li><a class="text-muted" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
         <li><a class="text-muted" href="<?= page('allgemeines/impressum')->url() ?>">Impressum</a></li>
-        <li><a class="text-muted" href="<?= page('allgemeines/mensa')->url() ?>">Mensa</a></li>
+        <li><a class="text-muted" href="https://www.opc-asp.de/kgs-rastede/menuplan.php?VMP" target="_blank">Mensa</a></li>
       </ul>
     </div>
     <div class="w-1/5">
