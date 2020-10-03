@@ -79,7 +79,7 @@
         </br>
         <h3><b>Schulträger</b></h3>
         <p style="letter-spacing:0.01em; word-spacing:0.3em; line-height:1.3em;">
-            <h5><?= $page->schultrager()->text() ?></h5>
+            <h5><?= $page->schultrager()->text()->kirbytext() ?></h5>
         </p>
     </div>
 </div>
