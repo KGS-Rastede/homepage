@@ -20,6 +20,9 @@ sections:
           Auf dieser Seite können PDF-Dateien hochgeladen werden.
 
           Wenn man auf den *Dateinamen* klickt kann man festlegen, was auf der Webseite <b>angezeigt</b> werden soll.
+
+          # Startseite
+          Man kann pro Datei festlegen, ob diese direkt auf der *Startseite* auftauchen soll
       Unterricht:
         label: Unterricht
         type: files
