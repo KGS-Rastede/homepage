@@ -1,4 +1,4 @@
-Anzeigename: Gebäudeplan Feldbreite
+Anzeigename: Gebäudeplan
 
 ----
 
