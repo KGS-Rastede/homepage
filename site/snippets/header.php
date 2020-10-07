@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title><?= $site->title() ?></title>
+  <title><?= $page->title() ?> | <?= $site->title() ?></title>
 
   <!-- Required meta tags -->
   <meta charset="utf-8">
