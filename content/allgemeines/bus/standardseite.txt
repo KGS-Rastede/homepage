@@ -2,6 +2,10 @@ Title: Schulbusverkehr
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
@@ -37,11 +41,15 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Anfragen zum Schulbusverkehr werden \u00fcber einen Verteiler an die zust\u00e4ndigen Stellen weitergeleitet. Die Emailadresse lautet: <a href=\"mailto:schulbus@kgs-rastede.de\">schulbus@kgs-rastede.de</a>",
+        "content": "Anfragen zum Schulbusverkehr werden über einen Verteiler an die zuständigen Stellen weitergeleitet. Die Emailadresse lautet: <a href=\"mailto:schulbus@kgs-rastede.de\">schulbus@kgs-rastede.de</a>",
         "id": "_y3axG1Dp5",
         "type": "paragraph"
     }
 ]
+
+----
+
+Related: 
 
 ----
 
@@ -62,7 +70,3 @@ Sidebar:
 - 
   link: https://www.vwg.de/
   name: Homepage der VWG
-
-----
-
-Heading: Übersicht über die Stunden
