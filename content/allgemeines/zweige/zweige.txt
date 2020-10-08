@@ -2,18 +2,22 @@ Title: Zweige
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
     {
         "attrs": [],
-        "content": "Die Kooperativ Gesamtschule Rastede bietet drei Schulzweige an. ",
+        "content": "Die Kooperativ Gesamtschule Rastede bietet drei Schulzweige an.",
         "id": "_hdknq550p",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Das Wort 'Kooperativ' bedeutet dabei, dass \u2026",
+        "content": "Das Wort 'Kooperativ' bedeutet dabei, dass …",
         "id": "_l28qh00xi",
         "type": "paragraph"
     }
