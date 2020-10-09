@@ -24,7 +24,3 @@ Text:
         "type": "paragraph"
     }
 ]
-
-----
-
-Heading: Übersicht über die Stunden
