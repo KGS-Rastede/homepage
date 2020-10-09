@@ -20,7 +20,7 @@
             <?php endif ?>
             <!-- Bei Bildschirm Größe md und aufwärts wird <div> gezeigt. Bei kleiner das andere -->
             <div class= "d-none d-md-block">
-              <img height="500" max-width="100" class="" src="<?= $image->url() ?>">
+              <img height="600" max-width="100" class="" src="<?= $image->url() ?>">
             </div>
             <img class="d-block d-md-none w-100" src="<?= $image->url() ?>">
 
