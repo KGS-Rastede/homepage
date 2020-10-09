@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container carousel-dark">
   <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
 
@@ -8,7 +8,7 @@
       <?php endforeach ?>
 
     </ol>
-    <div class="carousel-inner">
+    <div class="carousel-inner text-center">
 
 
       <?php $count = -1;
@@ -16,9 +16,13 @@
         <?php if ($count == 0) : ?>
           <div class="carousel-item active">
           <?php else : ?>
-            <div class="carousel-item">
+            <div class="carousel-item text-center">
             <?php endif ?>
-            <img class="d-block w-100" src="<?= $image->url() ?>">
+            <!-- Bei Bildschirm Größe md und aufwärts wird <div> gezeigt. Bei kleiner das andere -->
+            <div class= "d-none d-md-block">
+              <img height="500" max-width="100" class="" src="<?= $image->url() ?>">
+            </div>
+            <img class="d-block d-md-none w-100" src="<?= $image->url() ?>">
 
             <div class="carousel-caption">
               <h3><?= $image->bildunterschrift() ?></h3>
@@ -28,11 +32,11 @@
           </div>
           <a class=" carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Weiter</span>
+            <span class="sr-only">Zurück</span>
           </a>
           <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Zurück</span>
+            <span class="sr-only">Weiter</span>
           </a>
     </div>
   </div>
