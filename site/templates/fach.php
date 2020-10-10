@@ -11,40 +11,41 @@
   <?= $page->Lehrplantext()->kirbytext() ?>
 
 
-  <div class="col-md-9 ml-auto mr-auto">
-    <div class="table-responsive">
-      <table class="table">
-        <thead>
-          <tr>
-            <th>Lehrplanname</th>
-          </tr>
-        </thead>
-        <tbody>
+  <div class="container">
+    <div class="row align-items-start">
+      <div class="col-xl-10">
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Lehrplan</th>
+              </tr>
+            </thead>
+            <tbody>
 
-          <?php foreach ($page->lehrplaene()->toStructure() as $lehrplan) : ?>
-            <tr>
-              <td><?= $lehrplan->name() ?></td>
-              <td class="td-actions text-right">
-                <a href="<?= $lehrplan->link()->toFile()->url() ?>">
-                  Download
-                  <button type="button" rel="tooltip" class="btn btn-info btn-just-icon btn-sm">
-                    <svg class="bi" width="24" height="24">
-                      <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
-                    </svg>
-                  </button>
-                </a>
-              </td>
-            </tr>
-          <?php endforeach ?>
+              <?php foreach ($page->lehrplaene()->toFiles() as $lehrplan) : ?>
+                <tr>
+                  <td>
+                    <a href="<?= $lehrplan->url() ?>" class="text-decoration-none">
+                      <?= $lehrplan->kurzbeschreibung()->or( $lehrplan->name() ) ?>
+                    </a>
+                  </td>
+                </tr>
+              <?php endforeach ?>
 
-        </tbody>
-      </table>
+            </tbody>
+          </table>
+        </div>
+      </div>
     </div>
   </div>
+
 
 <?php endif ?>
 
 <!-- Die Inhalte, die immer sichtbar sein sollen, sollen über den Blogs stehen  -->
+<h2>Aktuell im Fokus</h2>
+
 <div class="container ml-auto mr-auto">
   <?php snippet('blogs', [
     'blogs' => page('blogs')

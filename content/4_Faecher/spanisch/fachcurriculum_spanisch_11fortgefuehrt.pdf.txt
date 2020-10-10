@@ -1,4 +1,4 @@
-Kurzbeschreibung: Lehrplan Jahrgang 11
+Kurzbeschreibung: Lehrplan Spanisch JG 11
 
 ----
 
@@ -6,7 +6,7 @@ Jahrgang: 11
 
 ----
 
-Schulzweig: GT
+Schulzweig: GZ
 
 ----
 

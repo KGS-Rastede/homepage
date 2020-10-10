@@ -103,22 +103,10 @@ Lehrplantext:
 
 Lehrplaene:
 
-- 
-  link:
-    - netzplan-hauptschulzweig.pdf
-  name: Hauptschulzweig
-- 
-  link:
-    - netzplan-realschulzweig.pdf
-  name: Realschulzweig
-- 
-  link:
-    - netzplan-gymnasialzweig-5-10.pdf
-  name: Gymnasialzweig 5-10
-- 
-  link:
-    - netzplan-gymnasialzweig-11-13.pdf
-  name: Gymnasialzweig 11-13
+- netzplan-realschulzweig.pdf
+- netzplan-hauptschulzweig.pdf
+- netzplan-gymnasialzweig-11-13.pdf
+- netzplan-gymnasialzweig-5-10.pdf
 
 ----
 

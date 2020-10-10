@@ -169,10 +169,7 @@ Lehrplantext:
 
 Lehrplaene:
 
-- 
-  link:
-    - latein-kurzlehrplan-09-2020.pdf
-  name: Lehrpläne Latein JG 6-11
+- latein-kurzlehrplan-09-2020.pdf
 
 ----
 

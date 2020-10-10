@@ -71,22 +71,11 @@ Lehrplantext:
 
 Lehrplaene:
 
-- 
-  link:
-    - netzplan-gz.doc
-  name: Gymnasium 5-10
-- 
-  link:
-    - arbeitsplan-einfuhrungsphase.docx
-  name: Jahrgang 11
-- 
-  link:
-    - netzplan-hz.docx
-  name: Hautpschule 5-10
-- 
-  link:
-    - netzplan-rz.docx
-  name: Realschule 5-10
+- netzplan-gz.pdf
+- netzplan-gz.pdf
+- netzplan-hz.pdf
+- netzplan-rz.pdf
+- arbeitsplan-einfuhrungsphase.pdf
 
 ----
 

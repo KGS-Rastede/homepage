@@ -252,26 +252,10 @@ Lehrplantext: Hier finden sich die Lehrpläne der Jahrgänge 5 - 11 sowie eine M
 
 Lehrplaene:
 
-- 
-  link:
-    - glossar-skizzenbuch-2018.pdf
-  name: >
-    Ein Glossar für das schülereigene
-    Skizzenbuch
-- 
-  link:
-    - ku-11-lehrplan-2019.pdf
-  name: >
-    Lehrplan für Jahrgang 11 der
-    gymnasialen Oberstufe
-- 
-  link:
-    - materialliste-kunst.pdf
-  name: Anzuschaffende Materialien ab Jahrgang 5
-- 
-  link:
-    - schuleigener-lehrplan-kunst-2017.pdf
-  name: Schuljahrgänge 5-10
+- schuleigener-lehrplan-kunst-2017.pdf
+- materialliste-kunst.pdf
+- ku-11-lehrplan-2019.pdf
+- glossar-skizzenbuch-2018.pdf
 
 ----
 

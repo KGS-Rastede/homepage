@@ -11,7 +11,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Sei es durch K\u00fcnstler wie \u00c1lvaro Soler, die durch ihre Musik gute Laune verbreiten, Fu\u00dfballer wie Lionel Messi oder die bekannte \u201eSiesta\u201c nach dem Mittagessen \u2013 das Spanische ist t\u00e4glich pr\u00e4sent! Da liegt es doch nahe, Spanisch zu lernen!",
+        "content": "Sei es durch Künstler wie Álvaro Soler, die durch ihre Musik gute Laune verbreiten, Fußballer wie Lionel Messi oder die bekannte „Siesta“ nach dem Mittagessen – das Spanische ist täglich präsent! Da liegt es doch nahe, Spanisch zu lernen!",
         "id": "_Xow5mWXDS",
         "type": "paragraph"
     },
@@ -29,31 +29,31 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<u>Weltsprache:</u><strong> </strong>Spanisch geh\u00f6rt neben Englisch und Mandarin zu den Top 3 der Sprachen der Welt! Es ist in 21 L\u00e4ndern auf vier Kontinenten Amtssprache und wird von 500 Millionen Menschen als Muttersprache gesprochen.",
+        "content": "<u>Weltsprache:</u><strong> </strong>Spanisch gehört neben Englisch und Mandarin zu den Top 3 der Sprachen der Welt! Es ist in 21 Ländern auf vier Kontinenten Amtssprache und wird von 500 Millionen Menschen als Muttersprache gesprochen.",
         "id": "_Zg6HRpQrs",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<u>Reise:</u><strong> </strong>Das Erlernen des Spanischen bietet die M\u00f6glichkeit, die Menschen, die Kultur und die Gewohnheiten spanischsprachiger L\u00e4nder auf authentische Weise kennen zu lernen. Immerhin ist Spanien das beliebteste Urlaubsziel der Deutschen! F\u00fcr diejenigen, die Spanisch sprechen, ist nach der Schule auch ein freiwilliges soziales Jahr im spanischsprachigen Ausland m\u00f6glich.",
+        "content": "<u>Reise:</u><strong> </strong>Das Erlernen des Spanischen bietet die Möglichkeit, die Menschen, die Kultur und die Gewohnheiten spanischsprachiger Länder auf authentische Weise kennen zu lernen. Immerhin ist Spanien das beliebteste Urlaubsziel der Deutschen! Für diejenigen, die Spanisch sprechen, ist nach der Schule auch ein freiwilliges soziales Jahr im spanischsprachigen Ausland möglich.",
         "id": "_aslCT8oDN",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<u>Wissen:</u><strong> </strong>Durch bereits vorhandenes Wissen im Englischen oder auch durch das Deutsche k\u00f6nnen bereits viele spanische W\u00f6rter wie <em>f\u00fatbol</em> (Fu\u00dfball), <em>informaci\u00f3n</em> (Information) und <em>bicicleta</em> (Fahrrad) verstanden werden.",
+        "content": "<u>Wissen:</u><strong> </strong>Durch bereits vorhandenes Wissen im Englischen oder auch durch das Deutsche können bereits viele spanische Wörter wie <em>fútbol</em> (Fußball), <em>información</em> (Information) und <em>bicicleta</em> (Fahrrad) verstanden werden.",
         "id": "_pgtyr64uo",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<u>Basissprache:</u> Wenn man Spanisch kann, f\u00e4llt einem das Erlernen einer weiteren romanischen Fremdsprache wie Franz\u00f6sisch, Portugiesisch oder Italienisch deutlich leichter, da sich grammatikalische Strukturen wiederholen und eine Vielzahl an W\u00f6rtern sehr \u00e4hnlich sind.",
+        "content": "<u>Basissprache:</u> Wenn man Spanisch kann, fällt einem das Erlernen einer weiteren romanischen Fremdsprache wie Französisch, Portugiesisch oder Italienisch deutlich leichter, da sich grammatikalische Strukturen wiederholen und eine Vielzahl an Wörtern sehr ähnlich sind.",
         "id": "_5BUa4cp2I",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<u>Berufsaussichten:</u><strong> </strong>In vielen Studieng\u00e4ngen oder Berufen ist die Kenntnis einer zweiten modernen Fremdsprache neben dem Englischen sehr erw\u00fcnscht oder sogar notwendig.",
+        "content": "<u>Berufsaussichten:</u><strong> </strong>In vielen Studiengängen oder Berufen ist die Kenntnis einer zweiten modernen Fremdsprache neben dem Englischen sehr erwünscht oder sogar notwendig.",
         "id": "_v9pet6529",
         "type": "paragraph"
     },
@@ -71,7 +71,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Eine Sprache lernt man durch Sprechen! Daher nimmt das Sprechen, sei es in Partner- oder Gruppenarbeit, einen gro\u00dfen Teil ein. Dar\u00fcber hinaus wenden die Sch\u00fclerinnen und Sch\u00fcler in Rollenspielen, die sich an allt\u00e4glichen Situationen orientieren, das Spanische an und sind somit auch f\u00fcr \u201eechte\u201c Erlebnisse im spanischsprachigen Ausland gewappnet. Neben dem Sprechen werden im Unterricht auch die Kompetenzen Leseverstehen, H\u00f6rverstehen, H\u00f6r-Seh-Verstehen, Schreiben und Sprachmittlung geschult. Hierf\u00fcr werden auch authentische Materialien wie Lieder, Comics und Kurzfilme in den Unterricht integriert.",
+        "content": "Eine Sprache lernt man durch Sprechen! Daher nimmt das Sprechen, sei es in Partner- oder Gruppenarbeit, einen großen Teil ein. Darüber hinaus wenden die Schülerinnen und Schüler in Rollenspielen, die sich an alltäglichen Situationen orientieren, das Spanische an und sind somit auch für „echte“ Erlebnisse im spanischsprachigen Ausland gewappnet. Neben dem Sprechen werden im Unterricht auch die Kompetenzen Leseverstehen, Hörverstehen, Hör-Seh-Verstehen, Schreiben und Sprachmittlung geschult. Hierfür werden auch authentische Materialien wie Lieder, Comics und Kurzfilme in den Unterricht integriert.",
         "id": "_GryOqJgds",
         "type": "paragraph"
     },
@@ -89,7 +89,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Erg\u00e4nzend zum Unterricht werden an der KGS Rastede weitere Aktivit\u00e4ten im Fach Spanisch durchgef\u00fchrt:",
+        "content": "Ergänzend zum Unterricht werden an der KGS Rastede weitere Aktivitäten im Fach Spanisch durchgeführt:",
         "id": "_5dqhgiyto",
         "type": "paragraph"
     },
@@ -103,7 +103,7 @@ Text:
         "attrs": {
             "indent": 0
         },
-        "content": "Sch\u00fcleraustausch mit Madrid (Jg. 10 und 11)",
+        "content": "Schüleraustausch mit Madrid (Jg. 10 und 11)",
         "id": "_jjd4yexsz",
         "type": "ul"
     },
@@ -119,7 +119,7 @@ Text:
         "attrs": {
             "indent": 0
         },
-        "content": "au\u00dferschulische Aktivit\u00e4ten: spanischen Schulfilmwochen im Casablanca-Kino in Oldenburg, World Press Photo Ausstellung etc.",
+        "content": "außerschulische Aktivitäten: spanischen Schulfilmwochen im Casablanca-Kino in Oldenburg, World Press Photo Ausstellung etc.",
         "id": "_6kxiy5qcz",
         "type": "ul"
     },
@@ -131,7 +131,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "An der KGS Rastede kann Spanisch als neu einsetzende Fremdsprache folgenderma\u00dfen angew\u00e4hlt werden:",
+        "content": "An der KGS Rastede kann Spanisch als neu einsetzende Fremdsprache folgendermaßen angewählt werden:",
         "id": "_fwm1wm60q",
         "type": "paragraph"
     },
@@ -149,7 +149,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "In der Qualifikationsphase der Oberstufe, also in Jg. 12 und 13, kann Spanisch auf grundlegendem Niveau belegt und als Pr\u00fcfungsfach im Abitur angew\u00e4hlt werden.",
+        "content": "In der Qualifikationsphase der Oberstufe, also in Jg. 12 und 13, kann Spanisch auf grundlegendem Niveau belegt und als Prüfungsfach im Abitur angewählt werden.",
         "id": "_xghJ1797h",
         "type": "paragraph"
     },
@@ -161,7 +161,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "In diesem Sinne: <em>\u00a1aprende espa\u00f1ol!</em>",
+        "content": "In diesem Sinne: <em>¡aprende español!</em>",
         "id": "_1lcgozlgo",
         "type": "paragraph"
     },
@@ -197,7 +197,14 @@ Lehrplantext:
 
 ----
 
-Lehrplaene: 
+Lehrplaene:
+
+- fachcurriculum_spanisch_-jg.9.pdf
+- fachcurriculum_spanisch_-jg.6.pdf
+- >
+  fachcurriculum_spanisch_11fortgefuehrt.pdf
+- fachcurriculum_spanisch_jg.7.pdf
+- fachcurriculum_spanischjg_jg.8.pdf
 
 ----
 
@@ -205,7 +212,9 @@ Haupttag: Spanisch
 
 ----
 
-Hintergrundbild: Faecher/spanisch/spanischflagge3.png
+Hintergrundbild:
+
+- spanischflagge3.png
 
 ----
 

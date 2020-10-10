@@ -138,53 +138,14 @@ Hier finden Sie die Netzlehrpläne für das Fach Englisch an der KGS Rastede fü
 
 Lehrplaene:
 
-- 
-  link:
-    - gesamtnetzplan-gz-5-10.pdf
-  name: 'Lehrpläne des Faches Englisch an der KGS Rastede - Gymnasialzweig'
-- 
-  link:
-    - gesamtnetzplan-rz-5-10.pdf
-  name: 'Lehrpläne des Faches Englisch an der KGS Rastede - Realschulzweig'
-- 
-  link:
-    - gesamtnetzplan-hz-5-10.pdf
-  name: 'Lehrpläne des Faches Englisch an der KGS Rastede - Hauptschulzweig'
-- 
-  link:
-    - prasentationsprufung-englisch.pdf
-  name: >
-    Informationen zur Präsentationsprüfung
-    im Fach Englisch
-- 
-  link:
-    - leitfaden-englisch.pdf
-  name: >
-    Leitfaden des Faches Englisch an unserer
-    Schule / Zuständigkeiten etc
-- 
-  link:
-    - >
-      fachbereich-englisch-an-der-kooperativen-gesamtschule-rastede.docx
-  name: >
-    Infos zum Fachbereich Englisch an der
-    KGS Rastede
-- 
-  link:
-    - operatoren_alle.pdf
-  name: Operatorenliste
-- 
-  link:
-    - 20141017musteraufgabenen.pdf
-  name: 'Musteraufgaben für das Abitur '
-- 
-  link:
-    - bewertung-sprachmittlung.pdf
-  name: 'Bewertungsraster Sprachmittlung - Mustervorlage'
-- 
-  link:
-    - sprechprufungen-an-der-kgs-rastede.doc
-  name: 'Sprechprüfungen an der KGS Rastede - Übersicht der Niveaustufen und Länge'
+- gesamtnetzplan-rz-5-10.pdf
+- 20141017musteraufgabenen.pdf
+- bewertung-sprachmittlung.pdf
+- gesamtnetzplan-hz-5-10.pdf
+- gesamtnetzplan-gz-5-10.pdf
+- leitfaden-englisch.pdf
+- operatoren_alle.pdf
+- prasentationsprufung-englisch.pdf
 
 ----
 

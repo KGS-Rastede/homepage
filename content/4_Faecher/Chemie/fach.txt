@@ -11,19 +11,19 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Doch die Chemie steht nicht nur f\u00fcr knallige Effekte, die einem aus Schulversuchen in Erinnerung bleiben. Der Begriff \u201eChemie\u201c wird h\u00e4ufig auch im Gegensatz zu \u201enat\u00fcrlich\u201c oder \u201ebiologisch\u201c gebraucht: Wenn man \u201eChemie verwendet\u201c, benutzt man aggressive, gef\u00e4hrliche Mittel, die mithilfe von ein bisschen Zauberei z.B. einen Fleck entfernen!",
+        "content": "Doch die Chemie steht nicht nur für knallige Effekte, die einem aus Schulversuchen in Erinnerung bleiben. Der Begriff „Chemie“ wird häufig auch im Gegensatz zu „natürlich“ oder „biologisch“ gebraucht: Wenn man „Chemie verwendet“, benutzt man aggressive, gefährliche Mittel, die mithilfe von ein bisschen Zauberei z.B. einen Fleck entfernen!",
         "id": "_06VsMAWqv",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Ziel des Chemieunterrichts ist es daher unter anderem, dieses allt\u00e4gliche \u2013 meist negative \u2013 Verst\u00e4ndnis zu hinterfragen und zu reflektieren. Chemische Prozesse sind im Alltag \u00fcberall zu finden:",
+        "content": "Ziel des Chemieunterrichts ist es daher unter anderem, dieses alltägliche – meist negative – Verständnis zu hinterfragen und zu reflektieren. Chemische Prozesse sind im Alltag überall zu finden:",
         "id": "_qs6at9lcy",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "das Leben an sich beruht auf (bio)chemischen Vorg\u00e4ngen,",
+        "content": "das Leben an sich beruht auf (bio)chemischen Vorgängen,",
         "id": "_5xu051o8h",
         "type": "ul"
     },
@@ -35,7 +35,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "bei der Hygiene (Fleckentfernung, allt\u00e4gliches H\u00e4ndewaschen),",
+        "content": "bei der Hygiene (Fleckentfernung, alltägliches Händewaschen),",
         "id": "_unq1ctveg",
         "type": "ul"
     },
@@ -47,13 +47,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "in der Freizeit (Akkutechnik in elektronischen Ger\u00e4ten, Funktionsmaterialien im Sport).",
+        "content": "in der Freizeit (Akkutechnik in elektronischen Geräten, Funktionsmaterialien im Sport).",
         "id": "_qafex802y",
         "type": "ul"
     },
     {
         "attrs": [],
-        "content": "Die Chemie erkl\u00e4rt diese Ver\u00e4nderungsprozesse und bietet die Chance, nachhaltige Alternativen f\u00fcr bisher verwendete Mittel zu finden. Diese orientieren sich oft sogar an der Natur selber. So arbeitet die Chemie nicht nur auf der Stoff- und Strukturebene mit der Natur zusammen, sondern hilft auch, diese zu bewahren.",
+        "content": "Die Chemie erklärt diese Veränderungsprozesse und bietet die Chance, nachhaltige Alternativen für bisher verwendete Mittel zu finden. Diese orientieren sich oft sogar an der Natur selber. So arbeitet die Chemie nicht nur auf der Stoff- und Strukturebene mit der Natur zusammen, sondern hilft auch, diese zu bewahren.",
         "id": "_e6eugme7y",
         "type": "paragraph"
     },
@@ -65,19 +65,19 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Das Fach Chemie wird von Jahrgang 6 an in allen Schulzweigen durchgehend unterrichtet, in der Mittelstufe h\u00e4ufig nur epochal. In den Abschlussklassen kann es als m\u00fcndliches Pr\u00fcfungsfach belegt werden. Seit vielen Jahren werden in der gymnasialen Oberstufe Kurse auf erh\u00f6htem Anforderungsniveau (\u201eLeistungskurse\u201c, P1 \u2013 P3) angeboten, nach der Umstellung auf G9 gibt es auch wieder Kurse auf grundlegendem Anforderungsniveau mit der M\u00f6glichkeit zur schriftlichen oder m\u00fcndlichen Pr\u00fcfung (P4/P5-Grundkurse).",
+        "content": "Das Fach Chemie wird von Jahrgang 6 an in allen Schulzweigen durchgehend unterrichtet, in der Mittelstufe häufig nur epochal. In den Abschlussklassen kann es als mündliches Prüfungsfach belegt werden. Seit vielen Jahren werden in der gymnasialen Oberstufe Kurse auf erhöhtem Anforderungsniveau („Leistungskurse“, P1 – P3) angeboten, nach der Umstellung auf G9 gibt es auch wieder Kurse auf grundlegendem Anforderungsniveau mit der Möglichkeit zur schriftlichen oder mündlichen Prüfung (P4/P5-Grundkurse).",
         "id": "_hl9rawdsq",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Chemiekurse werden zudem im Wahlpflichtbereich des Gymnasialzweiges der Mittelstufe angeboten, seit dem Jahr 2018 gibt es zudem in Jahrgang 11 einen f\u00e4cher\u00fcbergreifenden Kurs \u201eMobilit\u00e4t der Zukunft\u201c, der die F\u00e4cher Chemie und Erdkunde inhaltlich miteinander verbindet.",
+        "content": "Chemiekurse werden zudem im Wahlpflichtbereich des Gymnasialzweiges der Mittelstufe angeboten, seit dem Jahr 2018 gibt es zudem in Jahrgang 11 einen fächerübergreifenden Kurs „Mobilität der Zukunft“, der die Fächer Chemie und Erdkunde inhaltlich miteinander verbindet.",
         "id": "_gmI0ysPU2",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Auch im AG-Bereich gibt es Angebote, z.B. die Experimentier-AG f\u00fcr die Jahrg\u00e4nge 5/6 und die Umwelt-AG. Im Rahmen der Umweltwoche in Jg. 7 werden in vielen Projekten chemische Fragestellungen angesprochen.",
+        "content": "Auch im AG-Bereich gibt es Angebote, z.B. die Experimentier-AG für die Jahrgänge 5/6 und die Umwelt-AG. Im Rahmen der Umweltwoche in Jg. 7 werden in vielen Projekten chemische Fragestellungen angesprochen.",
         "id": "_bVlH1D7rG",
         "type": "paragraph"
     },
@@ -105,10 +105,7 @@ Lehrplantext: Hier finden Sie die Netzpläne für die Jahrgänge 5 - 13 für all
 
 Lehrplaene:
 
-- 
-  link:
-    - netzplane-chemie.pdf
-  name: Netzpläne Chemie
+- netzplane-chemie.pdf
 
 ----
 

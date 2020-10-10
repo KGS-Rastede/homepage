@@ -323,20 +323,8 @@ Lehrplantext:
 
 Lehrplaene:
 
-- 
-  link:
-    - kurzversion-wun-rz.pdf
-  name: Lehrplan Realschulzweig
-- 
-  link:
-    - kurzversion-wun-gz.pdf
-  name: Lehrplan Gymnasium
-- 
-  link:
-    - wun-re-brief-an-die-gs.pdf
-  name: >
-    Elternbrief (Link) für die
-    Grundschüler zu Anmeldung WuN/ RE
+- kurzversion-wun-gz.pdf
+- kurzversion-wun-rz.pdf
 
 ----
 

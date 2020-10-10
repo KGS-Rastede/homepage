@@ -11,7 +11,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Die Mathematik ist eine Wissenschaft, die vielen anderen Wissenschaften als Werkzeug dient. War sie bereits in China und im Orient schon vor tausenden von Jahren weit entwickelt, fand sie durch die griechischen Philosophen und Mathematiker auch ihren Weg nach Europa. Bis heute spielt sie nicht nur in den Naturwissenschaften, sondern auch in den Sozial- und Geisteswissenschaften eine wichtige Rolle. So sind z.B. statistische Untersuchungen (nicht zuletzt auch wegen der seit einigen Jahren gut zu nutzenden elektronischen Hilfsmittel) wichtige Bereiche in Soziologie, Psychologie, P\u00e4dagogik etc.",
+        "content": "Die Mathematik ist eine Wissenschaft, die vielen anderen Wissenschaften als Werkzeug dient. War sie bereits in China und im Orient schon vor tausenden von Jahren weit entwickelt, fand sie durch die griechischen Philosophen und Mathematiker auch ihren Weg nach Europa. Bis heute spielt sie nicht nur in den Naturwissenschaften, sondern auch in den Sozial- und Geisteswissenschaften eine wichtige Rolle. So sind z.B. statistische Untersuchungen (nicht zuletzt auch wegen der seit einigen Jahren gut zu nutzenden elektronischen Hilfsmittel) wichtige Bereiche in Soziologie, Psychologie, Pädagogik etc.",
         "id": "_ojc2f3ap0",
         "type": "paragraph"
     },
@@ -23,19 +23,19 @@ Text:
     },
     {
         "attrs": [],
-        "content": "die rechnerischen bzw. algebraischen F\u00e4higkeiten der Sch\u00fclerinnen und Sch\u00fcler zu f\u00f6rdern.",
+        "content": "die rechnerischen bzw. algebraischen Fähigkeiten der Schülerinnen und Schüler zu fördern.",
         "id": "_QaPofOpIC",
         "type": "ul"
     },
     {
         "attrs": [],
-        "content": "die Probleml\u00f6sungskompetenzen und Argumentationsstrukturen am Beispiel mathematischer Aufgabenstellungen zu entwickeln.",
+        "content": "die Problemlösungskompetenzen und Argumentationsstrukturen am Beispiel mathematischer Aufgabenstellungen zu entwickeln.",
         "id": "_27W4d5DsT",
         "type": "ul"
     },
     {
         "attrs": [],
-        "content": "das logische Denken als Notwendigkeit zur L\u00f6sung auch komplexer Sachverhalte zu verdeutlichen.",
+        "content": "das logische Denken als Notwendigkeit zur Lösung auch komplexer Sachverhalte zu verdeutlichen.",
         "id": "_8PTde5ah0",
         "type": "ul"
     },
@@ -47,7 +47,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Dabei ist wichtig, dies auf verschiedenen, den Sch\u00fclerinnen und Sch\u00fclern angemessenen Wegen zu tun. Dies ist das Ziel unserer didaktischen und methodischen Bem\u00fchungen.",
+        "content": "Dabei ist wichtig, dies auf verschiedenen, den Schülerinnen und Schülern angemessenen Wegen zu tun. Dies ist das Ziel unserer didaktischen und methodischen Bemühungen.",
         "id": "_lKeRiRB9c",
         "type": "paragraph"
     }
@@ -68,22 +68,10 @@ Lehrplantext: Hier finden sie die sog. **Netzlehrpläne** für die Jahrgänge 5-
 
 Lehrplaene:
 
-- 
-  link:
-    - netzplan_ma_rz.pdf
-  name: Realschule
-- 
-  link:
-    - netzplan_ma_hz.pdf
-  name: Hauptschule
-- 
-  link:
-    - netzplan_ma_gz.pdf
-  name: Gymnasium
-- 
-  link:
-    - mathe_jg11.pdf
-  name: Jahrgang 11
+- netzplan_ma_gz.pdf
+- mathe_jg11.pdf
+- netzplan_ma_rz.pdf
+- netzplan_ma_hz.pdf
 
 ----
 
@@ -91,7 +79,10 @@ Haupttag: Mathematik
 
 ----
 
-Hintergrundbild: Faecher/Mathematik/benjamin-lizardo-izsbwbz08cs-unsplash.jpg
+Hintergrundbild:
+
+- >
+  benjamin-lizardo-izsbwbz08cs-unsplash.jpg
 
 ----
 

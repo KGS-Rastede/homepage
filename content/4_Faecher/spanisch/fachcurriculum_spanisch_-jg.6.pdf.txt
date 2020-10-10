@@ -1,8 +1,8 @@
-Kurzbeschreibung: Lateinkurzlehrplan
+Kurzbeschreibung: Lehrplan Spanisch JG 6
 
 ----
 
-Jahrgang: 6-11
+Jahrgang: 6
 
 ----
 
