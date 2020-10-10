@@ -29,6 +29,7 @@ columns:
           gallery:
             type: files
             label: Bilder zum Fach
+            uploads: blogbild
             layout: cards
             image:
               cover: true
@@ -62,6 +63,7 @@ columns:
             type: text
           hintergrundbild:
             label: Hintergrundbild
+            uploads: hintergrundbild
             type: files
             layout: cards
             max: 1

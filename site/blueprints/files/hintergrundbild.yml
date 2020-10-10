@@ -1,8 +1,9 @@
-title: Blogbild
+title: Hintergrundbild
 
 accept:
     mime: image/*
     maxheight: 1400
+    orientation: landscape
 
 fields:
   alt:
