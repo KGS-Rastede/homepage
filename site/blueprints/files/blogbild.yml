@@ -1,7 +1,9 @@
 title: Blogbild
 
 accept:
-  mime: image/jpeg, image/png
+    mime: image/*
+    maxheight: 1400
+    orientation: landscape
 
 fields:
   alt:
