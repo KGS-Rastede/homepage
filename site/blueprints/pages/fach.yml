@@ -28,6 +28,8 @@ columns:
             type: editor
           gallery:
             type: files
+            uploads: blogbild
+            query: page.image
             label: Bilder zum Fach
             uploads: blogbild
             layout: cards
