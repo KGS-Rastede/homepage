@@ -1,0 +1,13 @@
+Kurzbeschreibung: Lehrplan Spanisch JG 8
+
+----
+
+Jahrgang: 8
+
+----
+
+Schulzweig: GZ
+
+----
+
+Template: lehrplandatei

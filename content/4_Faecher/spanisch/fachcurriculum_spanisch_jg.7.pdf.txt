@@ -1,0 +1,13 @@
+Kurzbeschreibung: Lehrplan Spanisch JG 7
+
+----
+
+Jahrgang: 7
+
+----
+
+Schulzweig: GZ
+
+----
+
+Template: lehrplandatei

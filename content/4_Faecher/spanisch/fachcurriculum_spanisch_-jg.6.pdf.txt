@@ -1,0 +1,13 @@
+Kurzbeschreibung: Lehrplan Spanisch JG 6
+
+----
+
+Jahrgang: 6
+
+----
+
+Schulzweig: GZ
+
+----
+
+Template: lehrplandatei
