@@ -24,7 +24,7 @@
             </a>
 
             <div class="carousel-caption">
-              <h3><?= $image->bildunterschrift() ?></h3>
+              <h3><?= $image->beschreibung() ?></h3>
             </div>
             </div>
           <?php endforeach ?>
