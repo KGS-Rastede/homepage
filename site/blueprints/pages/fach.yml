@@ -61,6 +61,7 @@ columns:
           hintergrundbild:
             label: Hintergrundbild
             uploads: hintergrundbild
+            query: page.images
             type: files
             layout: cards
             max: 1
