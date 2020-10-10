@@ -19,7 +19,7 @@
             <div class="carousel-item text-center">
             <?php endif ?>
 
-            <a class= "d-flex justify-content-center" href="<?= $image->url() ?>">
+            <a class="d-flex justify-content-center" href="<?= $image->url() ?>">
               <img src="<?= $image->resize(null, 600)->url() ?>">
             </a>
 
