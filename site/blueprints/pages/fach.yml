@@ -28,9 +28,9 @@ columns:
             type: editor
           gallery:
             type: files
-            query: page.image
-            label: Bilder zum Fach
             uploads: blogbild
+            query: page.images
+            label: Bilder zum Fach
             layout: cards
             image:
               cover: true
