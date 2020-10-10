@@ -41,15 +41,9 @@ columns:
             type: textarea
           lehrplaene:
             label: Lehrpläne
-            type: structure
-            fields:
-              link:
-                label: Link (URL)
-                type: files
-                uploads: lehrplandatei
-              name:
-                label: Bezeichnung des Links
-                type: text
+            type: files
+            uploads: lehrplandatei
+            
   sidebar:
     width: 1/3
     sticky: true
