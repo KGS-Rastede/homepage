@@ -20,7 +20,7 @@
             <?php endif ?>
 
             <a class= "d-flex justify-content-center" href="<?= $image->url() ?>">
-              <img class="" src="<?= $image->resize(null, 600)->url() ?>">
+              <img src="<?= $image->resize(null, 600)->url() ?>">
             </a>
 
             <div class="carousel-caption">
