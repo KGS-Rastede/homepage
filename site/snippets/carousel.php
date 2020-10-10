@@ -29,11 +29,11 @@
             </div>
           <?php endforeach ?>
           </div>
-          <a class=" carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <a class="d-none d-sm-flex carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only text-dark">Zurück</span>
           </a>
-          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <a class="d-none d-sm-flex carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
             <span class="sr-only text-dark">Weiter</span>
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
           </a>
