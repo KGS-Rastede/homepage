@@ -19,9 +19,9 @@
             <div class="carousel-item text-center">
             <?php endif ?>
 
-            <div class= "d-flex justify-content-center">
+            <a class= "d-flex justify-content-center" href="<?= $image->url() ?>">
               <img class="" src="<?= $image->resize(null, 600)->url() ?>">
-            </div>
+            </a>
 
             <div class="carousel-caption">
               <h3><?= $image->bildunterschrift() ?></h3>
