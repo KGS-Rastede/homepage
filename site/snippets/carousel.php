@@ -18,11 +18,10 @@
           <?php else : ?>
             <div class="carousel-item text-center">
             <?php endif ?>
-            <!-- Bei Bildschirm Größe md und aufwärts wird <div> gezeigt. Bei kleiner das andere -->
-            <div class= "d-none d-xl-block">
-              <img height="600" max-width="100" class="" src="<?= $image->url() ?>">
+
+            <div class= "d-flex justify-content-center">
+              <img class="" src="<?= $image->resize(null, 600)->url() ?>">
             </div>
-            <img class="d-block d-xl-none w-100" src="<?= $image->url() ?>">
 
             <div class="carousel-caption">
               <h3><?= $image->bildunterschrift() ?></h3>
