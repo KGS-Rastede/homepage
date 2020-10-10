@@ -1,5 +1,5 @@
 <div class="container carousel-dark">
-  <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
 
       <?php $count = -1;
