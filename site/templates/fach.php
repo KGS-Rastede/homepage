@@ -11,7 +11,7 @@
   <?= $page->Lehrplantext()->kirbytext() ?>
 
 
-  <div class="container">
+  <div class="container ml-auto mr-auto">
     <div class="row align-items-start">
       <div class="col-xl-10">
         <div class="table-responsive">
@@ -27,7 +27,7 @@
                 <tr>
                   <td>
                     <a href="<?= $lehrplan->url() ?>" class="text-decoration-none">
-                      <?= $lehrplan->kurzbeschreibung()->or( $lehrplan->name() ) ?>
+                      <?= $lehrplan->kurzbeschreibung()->or($lehrplan->name()) ?>
                     </a>
                   </td>
                 </tr>
@@ -43,37 +43,54 @@
 
 <?php endif ?>
 
-<!-- Die Inhalte, die immer sichtbar sein sollen, sollen über den Blogs stehen  -->
-<h2>Aktuell im Fokus</h2>
+<?php if (page('blogs')->children()->listed()
+  ->filterBy('immer_sichtbar', true)
+  ->filterBy('tags', $page->haupttag(), ',')->isNotEmpty()) : ?>
 
-<div class="container ml-auto mr-auto">
-  <?php snippet('blogs', [
-    'blogs' => page('blogs')
+  <!-- Die Inhalte, die immer sichtbar sein sollen, sollen über den Blogs stehen  -->
+  <h2>Aktuell im Fokus</h2>
+
+  <div class="container ml-auto mr-auto">
+
+    <?php
+    foreach (page('blogs')
       ->children()
       ->listed()
       ->filterBy('immer_sichtbar', true)
       ->filterBy('tags', $page->haupttag(), ',')
-      ->flip()
-  ]) ?>
-</div>
+      ->flip() as $subpage) :
+
+      snippet('blogkarte', ['subpage' => $subpage]);
+    ?>
+
+
+    <?php endforeach ?>
+
+
+  </div>
+<?php endif ?>
 
 
 <?php if (page('blogs')->children()->listed()->filterBy('tags', $page->haupttag(), ',')->isNotEmpty()) : ?>
 
   <h2>Aktuelles aus dem Fach</h2>
-
   <div class="container ml-auto mr-auto">
 
-    <?php snippet('blogs', [
-      'blogs' => page('blogs')
-        ->children()
-        ->listed()
-        ->filterBy('tags', $page->haupttag(), ',')
-        ->flip()
-    ]) ?>
+
+    <?php
+    foreach (page('blogs')
+      ->children()
+      ->listed()
+      ->filterBy('tags', $page->haupttag(), ',')
+      ->flip() as $subpage) :
+
+      snippet('blogkarte', ['subpage' => $subpage]);
+    ?>
+
+
+    <?php endforeach ?>
 
   </div>
-
 <?php endif ?>
 
 

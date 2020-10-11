@@ -28,8 +28,12 @@ columns:
             type: editor
           gallery:
             type: files
+            uploads: blogbild
+            query: page.images
             label: Bilder zum Fach
             uploads: blogbild
+            query: page.images
+            label: Bilder zum Fach
             layout: cards
             image:
               cover: true
@@ -59,6 +63,7 @@ columns:
           hintergrundbild:
             label: Hintergrundbild
             uploads: hintergrundbild
+            query: page.images
             type: files
             layout: cards
             max: 1

@@ -23,19 +23,19 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Aber wir n\u00e4hen, sticken, entwerfen, f\u00e4rben, drucken, knoten, filzen, experimentieren, \u2026</strong>",
+        "content": "<strong>Aber wir nähen, sticken, entwerfen, färben, drucken, knoten, filzen, experimentieren, …</strong>",
         "id": "_3bng6syv0",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Im WPK Textiles Gestalten lernst Du verschiedene textile Verfahren kennen, Du besch\u00e4ftigst Dich mit Mode, ihrer Bedeutung und ihren Herstellungsbedingungen. Du lernst, wie Du Deinen eigenen Style entwickeln und gleichzeitig Widerstand gegen Fast Fashion leisten kannst. Du entwirfst und gestaltest Accessoires wie Kissen, Federtaschen, T-shirts. Und Du schaust \u00fcber den Tellerrand und findest heraus, welches Aussehen und welche Bedeutung Textilien fr\u00fcher oder in anderen Kulturen haben.",
+        "content": "Im WPK Textiles Gestalten lernst Du verschiedene textile Verfahren kennen, Du beschäftigst Dich mit Mode, ihrer Bedeutung und ihren Herstellungsbedingungen. Du lernst, wie Du Deinen eigenen Style entwickeln und gleichzeitig Widerstand gegen Fast Fashion leisten kannst. Du entwirfst und gestaltest Accessoires wie Kissen, Federtaschen, T-shirts. Und Du schaust über den Tellerrand und findest heraus, welches Aussehen und welche Bedeutung Textilien früher oder in anderen Kulturen haben.",
         "id": "_r3taxwv2l",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Du willst es genauer wissen? Der Netzplan gibt Dir eine \u00dcbersicht!",
+        "content": "Du willst es genauer wissen? Der Netzplan gibt Dir eine Übersicht!",
         "id": "_1sn9ehuka",
         "type": "paragraph"
     },
@@ -52,8 +52,8 @@ Text:
 Gallery:
 
 - img_0844.jpeg
-- p1120118.jpeg
 - img_0851.jpeg
+- p1120118.jpg
 
 ----
 
