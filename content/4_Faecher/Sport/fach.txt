@@ -2,7 +2,7 @@ Title: Sport
 
 ----
 
-Heading: wir schwitzen für die Schule
+Heading: Fachbereich Sport der KGS Rastede
 
 ----
 
@@ -10,39 +10,243 @@ Text:
 
 [
     {
+        "attrs": {
+            "guid": "/pages/Faecher+Sport/files/leitbild_logo-sport.jpg",
+            "id": "Faecher/Sport/leitbild_logo-sport.jpg",
+            "filename": "leitbild_logo-sport.jpg",
+            "ratio": 2.1402439024390243,
+            "caption": ""
+        },
+        "content": "v",
+        "id": "_rrfos883w",
+        "type": "image"
+    },
+    {
         "attrs": [],
-        "content": "Die KGS Rastede ist die einzige Schule im Ammerland, die zur Zeit das Sportprofil in der gymnasialen Oberstufe anbietet. In den beiden Jahren der Qualifikationsphase werden sieben sogenannte Rahmenthemen behandelt: Bewegungsanalyse, Grundlagen sportlichen Trainings, Bewegungslernen, Planung und Steuerung sportlichen Trainings, Sportsoziologie, Sportpsychologie und Ausgew\u00e4hlte Ph\u00e4nomene des Sports. Daneben m\u00fcssen f\u00fcnf bis sieben praktische Themen absolviert werden, das k\u00f6nnen u.a. Volleyball, Badminton, Triathlon, Leichtathletik, Fu\u00dfball, Basketball, Turnen etc. sein.",
-        "id": "_KWuRCFDZv",
+        "content": "Bewegung ist Lernen, ist Leben!<br>",
+        "id": "_66orz60mg",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Der Fachbereich Sport der Kooperativen Gesamtschule Rastede sieht seine Aufgabe darin, Schüler*innen in ihrer <strong>Persönlichkeit zu stärken, ihre individuelle Leistungsfähigkeit</strong> zu steigern, <strong>motorische Herausforderungen anzugehen und zu bewältigen</strong>, Vergleiche mit anderen einzugehen und lernen, auch mit Niederlagen umzugehen.<br>Mutige Entscheidungen zu treffen und <strong>individuelle Stärken</strong> herauszuarbeiten. Gleichzeitig <strong>Schwächen </strong>zu erkennen, diese abzubauen, oder auch eigene Grenzen zu akzeptieren, oder darüber hinauszugehen.<br>Aufgabe des Sportunterrichts ist es also, Methoden und Lernkonzepte anzubieten, die diese Ziele unterstützen, fördern und fordern.<br>Unsere hervorragende Ausstattung ermöglicht uns, vielfältiges motorisches und soziales Sporttreiben, was durch das kooperative System unterstützt wird. <strong>Anders sein und sein dürfen</strong> führt im Sportunterricht zu sozialem Handeln in Bewegung und somit auch das Inkludieren von motorisch Eingeschränkten.",
+        "id": "_bqbx1oj0s",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Das Abitur selbst besteht aus der schriftlichen Abiturklausur und den drei sportpraktischen Pr\u00fcfungen jeweils zu 50 Prozent. Teilpr\u00fcfung eins muss eine Individualsportart (z. B. Triathlon) sein, Teilpr\u00fcfung zwei eine Sportart aus dem Bereich Spiele. Die dritte Teilpr\u00fcfung ist eine Theorie-Praxis-Pr\u00fcfung, dabei d\u00fcrfen Sportarten aus der ersten und zweiten Teilpr\u00fcfung nicht noch einmal gew\u00e4hlt werden.",
-        "id": "_g4Twp3cWz",
+        "content": "<strong>Das Schwimmen</strong> nimmt eine besondere Stellung ein, ist es doch lebensrettend! Ein neues Nichtschwimmerkonzept erreicht die fast vollständige Schwimmfähigkeit unserer Schüler*innen. Es holt die Schüler*innen von ihrem Leistungsstand ab und baut davonausgehend die Schwimmförderung auf.",
+        "id": "_U4sxEe2lH",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Alle in den drei Teilpr\u00fcfungen gew\u00e4hlten Sportarten m\u00fcssen im Unterricht behandelt worden sein. Wird eine gew\u00fcnschte Sportart im \u201eSport-LK\u201c nicht unterrichtet, besteht die M\u00f6glichkeit, an einem Grundkurs mit dem entsprechenden Thema teilzunehmen. Dann kann die Pr\u00fcfung auch in dieser Sportart im Abitur abgelegt werden.",
-        "id": "_6HuOZkQd7",
+        "content": "<strong>Talente </strong>in den einzelnen Sportarten werden gesucht und können sich in den örtlichen Vereinen weiterentwickeln. Leistungssportler erhalten Unterstützung bei ihrer Weiterentwicklung als „Profi“.",
+        "id": "_qSKXGjG02",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Null Punkte einem der beiden Pr\u00fcfungsteile (schriftlich bzw. praktisch) schlie\u00dft in der Regel eine ausreichende Note oder besser aus. Eine mangelhafte Leistung in einem der beiden Pr\u00fcfungsteile schlie\u00dft in der Regel eine Note \u201ebefriedigend\u201c oder besser aus.",
-        "id": "_V77DNadDt",
+        "content": "<strong>Jugend trainiert für Olympia</strong> ist ein weiterer Baustein in den Vergleichswettkämpfen mit anderen Schulen. Und ermöglicht Erfahrungen zu sammeln, die über den normalen Schulalltag hinausgehen.",
+        "id": "_FQbq0BBW6",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Wer in der Qualifikationsphase den \u201eSport-LK\u201c belegen will, muss in Klasse 10 an einem halbj\u00e4hrigen Vorbereitungskurs teilgenommen haben.",
-        "id": "_HBGF67tJ1",
+        "content": "<br><br><br>",
+        "id": "_r94v8jld6",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Der \u201eSport-LK\u201c basiert auf dem breiten AG-Angebot der KGS im Bereich Sport, der Kooperation mit den \u00f6rtlichen Sportvereinen und den sehr guten Sportanlagen im Gemeindebereich.",
-        "id": "_zNKalAPD1",
+        "content": "KGS Sportfeste/ Turniere/Aktionen",
+        "id": "_sku3z5954",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><br>Jahreskalender des Sports an der KGS</strong>",
+        "id": "_rgzq8QlEb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Januar: Sportfest der Klassen 10",
+        "id": "_BSMWUEFbP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Februar: Jugend trainiert für Olympia z.B. Basketball, Handball Bezirksentscheide",
+        "id": "_h2MQQeBRY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "März: Rosenmontagsfeier Kl. 5+6",
+        "id": "_ONXlhjtiU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "April: Sportfest Oberstufe, Jugend trainiert Fußball Kl. 5-10",
+        "id": "_cOmkhpInN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mai: Beginn der Pausenturniere Kl. 5+6, Sportabzeichen üben und abnehmen für alle",
+        "id": "_DaYpFUPT0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mai: Jugend trainiert Golf, NFV Cup Fußballturnier Kl. 7-10, Sportabiturprüfungen",
+        "id": "_icK1cRYCI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Juni/Juli: Sportfeste der Kl. 5+6, 7+8+9, EWE Baskets Street Ball Turnier",
+        "id": "_iLjWTlgj9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Inselsportfest Kl.6,7,8",
+        "id": "_nuel259u3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "August/September: Sportabzeichen Forts., Sportabiturprüfungen",
+        "id": "_yydxxm7yn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Oktober:",
+        "id": "_shyagsatf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "November: Jugend trainiert Tischtennis, Basketball, Handball,",
+        "id": "_4qmzy26k7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dezember: Kreisgruppenentscheide Jugend trainiert für Olympia",
+        "id": "_X4KfTycnX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br><br>",
+        "id": "_h6h3o9zi2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schwimmkonzept KGS Rastede (ab August 2020)",
+        "id": "_b6d4yuc7d",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Die KGS Rastede legt großen Wert auf das Erreichen einer gesicherten Schwimmfähigkeit, ist es doch die einzige Sportart, die Leben erhalten und auch retten kann. Außerdem spielt das Schwimmen in der Alltagswirklichkeit der Schüler*innen eine herausragende Rolle, es prägt das soziale Miteinander und fördert die Gesundheit!",
+        "id": "_ilwc1yq24",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die unten aufgeführten Hintergründe erläutern die Maßnahmen des Sportfachbereiches",
+        "id": "_z5w860aq2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "-Die Zahl der „Nichtschwimmer“ - hierunter fallen alle Schülerinnen und Schüler(1), die nicht das deutsche Jugendschwimmabzeichen Bronze („Freischwimmer“) haben - ist in den letzten Jahren stark gestiegen und ist alarmierend.<br>- Das Seepferdchen ist dabei kein Schwimmabzeichen, hier handelt es sich lediglich um eine Bescheinigung darüber, dass sich das Kind auf einer Stecke von 25 Metern über Wasser halten kann.<br>- Eine repräsentative Forsa-Umfrage der „Deutsche Lebens-Rettungs-Gesellschaft“ (DLRG) hat deutlich aufgezeigt, dass knapp 60 Prozent der Zehnjährigen keine sicheren Schwimmer sind (2017). Zudem nimmt die Schwimmfähigkeit unter Kindern weiter stetig ab.<br>- Die Gründe für diese Entwicklung sind vielschichtig und sowohl im familiären, als auch im schulischen Bereich zu suchen; auch die bundesweiten Bäderschließungen spielen eine Rolle.<br>- Aktuell sind coronabedingt an den Schulen und in den Bädern Schwimmkurse ausgefallen, es gibt deutlich mehr nicht schwimmfähige Schüler*innen, als früher.<br><br><strong>Seit Januar 2020 aber gibt es einen neuen Erlass (KMK), der die Standards für die Schwimmabzeichendeutlich anhebt, dies steht der Entwicklung konträr entgegen.</strong>",
+        "id": "_ddhhsxz8m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Diese Ergebnisse decken sich mit unseren Beobachtungen an der KGS. Insbesondere in den Jahrgängen 5-7 ist die Anzahl der „Nichtschwimmer“ mit ca. 50 SuS recht hoch (Schuljahr 2019-2020). Die Anzahl der „Nichtschwimmer“ in den höheren Jahrgängen ist ebenfalls deutlich, wobei die Dunkelziffer schwer abzuschätzen ist",
+        "id": "_y3e5mtt9e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_nbzh2fxs6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Konzept mit 2 Säulen",
+        "id": "_gbhyvb6tj",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "- Säule 1) Schwimmbegleitung in den Jg. 5&amp;6<br>- Säule 2) Nichtschwimmerförderung in den Jg. 7-9/10 (AG-Angebot)",
+        "id": "_g3c88ynjh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "—&gt; Erwerb d. DLRG Bronze für interessierte SuS des Jg.10 in den letzten Wochen des Schuljahres im Kontext der AG!",
+        "id": "_O3Z4LI0fE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im 1.Halbjahr (2019-2020) haben 31 SuS das Bronzeabzeichen im Kontext der Nichtschwimmerförderung nachgeholt! Im 2.Halbjahr sind in Klasse 5+6 bis auf wenige Ausnahmen alle SuS zum Bronzeabzeichen geführt worden.",
+        "id": "_OPgkpeAdg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>zu 1. Schwimmbegleitung Jg. 5+6</strong><br>• In den Jahrgängen 5 und 6 erfolgt eine Doppelsteckung zu den jeweiligen Schwimmzeiten, so können die „Nichtschwimmer“ gesondert gefördert und individuell zu Bronzeabzeichen gebracht werden",
+        "id": "_9FA5rKcTQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "• Die Benotung der Einheit erfolgt durch die Lehrkraft der Schwimmbegleitung.",
+        "id": "_gerg8lpd2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>zu 2. Nichtschwimmerförderung Jg. 7-9/10 (AG-Angebot)</strong>",
+        "id": "_sy16CtxAc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "• Die Nichtschwimmerförderung erfolgt als ein AG-Angebot und findet dienstags und/oder donnerstags in der ‚6. Stunde &amp; Mittagspause‘ (12:45 – 14:30) statt.<br>• Die AG erfolgt durch eine Doppelsteckung und wird betreut durch die Lehrkraft (BGT/WUE und OBK/DUI) geleitet.<br>• Die Teilnehmerzahl ist auf 12 SuS beschränkt. Bei erfolgreichem Abschließen rücken weitere SuS auf.<br>• Die Teilnahme am Kurs ist NICHT freiwillig und wird durch die Sportlehrkräfte in Absprache mit den Verantwortlichen der AG festgelegt.<br>• Die Erziehungsberechtigten werden in einem Brief auf die fehlende Schwimmfähigkeit ihrer Kinder<br>hingewiesen und über den Kurs informiert. Der Kurs wird dabei als zusätzliche Unterstützung bei Erwerb der Schwimmfähigkeit (Schwimmabzeichen Bronze) gesehen.<br>• Nach erfolgreicher Beendigung erhalten die SuS den Schwimmpass mit dem Abzeichen Bronze, sowie eine positive Bemerkung auf dem Zeugnis.",
+        "id": "_yn8g9zst2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br>",
+        "id": "_u7zlbl78b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "(1) Zur Vereinfachung wird im Folgenden stets die Abkürzung „SuS“ verwendet: Wenn von „SuS“ gesprochen wird, sind immer Schülerinnen und Schüler gemeint.",
+        "id": "_z0v539uqq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Quellen:<br>http://bayerischer-schwimmverband.de/index.php/hidden-doc/sonstige-dokumente/schwimmabzeichen/2019-02-dpo-schwimmen-dsv-2020-trixi-hai-a/file<br>https://www.presseportal.de/pm/amp/7044/3652879<br>",
+        "id": "_gl479cp86",
         "type": "paragraph"
     }
 ]
