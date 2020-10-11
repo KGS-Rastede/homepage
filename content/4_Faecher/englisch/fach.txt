@@ -114,7 +114,6 @@ Gallery:
 - download.jpg
 - download.png
 - uk-flag.jpg
-- english-header.jpg
 - >
   ammerland_rastede_2_2003bd26-1ee5-4ce6-98e0-70290fcc7a02-600x308.jpg
 - >
@@ -126,6 +125,7 @@ Gallery:
 - img_0222-365x337.jpg
 - >
   ammerland_rastede_2_3e033d67-68a3-461b-af94-e9abf95686ec_c8_2320841.jpg
+- 7959737fdf513543d872faf3bb895e5f.jpg
 
 ----
 
