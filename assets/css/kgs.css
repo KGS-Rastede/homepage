@@ -22,6 +22,10 @@
   position: static !important;
 }
 
+.carousel-caption {
+  position: static !important;
+}
+
 footer {
   width: 100%;
   padding: 30px 0;
