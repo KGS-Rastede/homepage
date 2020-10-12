@@ -2,7 +2,7 @@
     <div class="card-body ">
         <h4 class="card-category">Aus der Presse</h4>
         <?php
-        $items = page('allgemeines/presse')->pressenachrichten()->toStructure()->sortBy("datum")->flip()->limit(6);
+        $items = page('schule/presse')->pressenachrichten()->toStructure()->sortBy("datum")->flip()->limit(6);
 
         foreach ($items as $item) : ?>
             <p>
