@@ -99,19 +99,13 @@
 
 
       <h1 class="title">Aktuelle Nachrichten</h1>
+
       <div class="row row-cols-1 row-cols-xs-1 row-cols-lg-2 g-4">
 
-        <!-- <div class="row row-cols-1 row-cols-xs-1 row-cols-md-2"> -->
-
-
-
-        <!--  
-                    Jetzt werden die Elemente angefügt. 
-                    -->
-        <?php $index = 0;
-        foreach (page('blogs')
+  
+        <?php foreach (page('blogs')
           ->children()
-          ->flip() as $subpage) : $index++ ?>
+          ->flip() as $subpage) : ?>
 
 
           <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')) : ?>
@@ -120,12 +114,9 @@
             ?>
           <?php endif ?>
 
-
         <?php endforeach ?>
 
       </div>
-
-
 
 
       <a href="<?= page("blogs") ?>">
