@@ -1,38 +1,36 @@
 <div class="col">
-    <div class="card">
-        <div class="card-body">
-            <h2 class="card-title">
-                <?= $subpage->title() ?>
-            </h2>
-
-            <div class="text-right">
-                <svg class="bi" width="24" height="24">
-                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags" />
-                </svg>
-                <?php foreach ($subpage->tags()->split() as $tag) : ?>
-                    <a  class="badge rounded-pill bg-info" 
-                        href="<?= url('blogs', ['params' => ['tag' => $tag]]) ?>">
-                        <?= $tag ?>
-                    </a>
-                <?php endforeach ?>
-
-                - <b><?= $subpage->author() ?></b> - <?= $subpage->date()->toDate("d.m.Y") ?>
+    <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-md-4 text-white bg-danger lead align-bottom">
+                <span class="align-bottom"><?= $subpage->title() ?></span>
             </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <p class="card-text">
+                        <!-- 
+                            <p>
+                            <svg class="bi" width="24" height="24">
+                                <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags" />
+                            </svg>
+                            <?php foreach ($subpage->tags()->split() as $tag) : ?>
+                                <a class="badge rounded-pill bg-info" href="<?= url('blogs', ['params' => ['tag' => $tag]]) ?>">
+                                    <?= $tag ?>
+                                </a>
+                            <?php endforeach ?>
 
-            <p class="card-text mt-2">
-                <?= $subpage->Text()->blocks()->excerpt(250) ?>
-            </p>
-        </div>
+                        </p> 
+                        -->
 
+                        <?= $subpage->Text()->blocks()->excerpt(250) ?>
+                        (<?= $subpage->author() ?>)
 
-        <div class="card-footer">
-            <div class="text-right">
-                <a href="<?= $subpage->url() ?>">
-                    <button type="button" class="btn btn-warning">...weiterlesen</button>
-                </a>
+                    </p>
+                    <p class="text-right">
+                        <a href="<?= $subpage->url() ?>">weiterlesen...</a>
+
+                    </p>
+                </div>
             </div>
-
-
         </div>
     </div>
 </div>
