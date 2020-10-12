@@ -81,11 +81,11 @@ Text:
 
 Related:
 
-- allgemeines/oberstufe/anmeldung
-- allgemeines/oberstufe/auslandsjahr
-- allgemeines/oberstufe/fachhochschulreife
-- allgemeines/oberstufe/schwerpunkte
-- allgemeines/oberstufe/seminarfaecher
+- schule/oberstufe/anmeldung
+- schule/oberstufe/auslandsjahr
+- schule/oberstufe/fachhochschulreife
+- schule/oberstufe/schwerpunkte
+- schule/oberstufe/seminarfaecher
 
 ----
 
