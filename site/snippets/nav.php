@@ -91,13 +91,13 @@
           &Uuml;ber die Schule
         </a>
         <div class="dropdown-menu dropdown-with-icons">
-        <a class="dropdown-item" href="<?= page('allgemeines/konzepte')->url() ?>">
+        <a class="dropdown-item" href="<?= page('schule/leitbild')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#layout-wtf" />
             </svg> Leitbild
           </a>
 
-          <a class="dropdown-item" href="<?= page('allgemeines/konzepte')->url() ?>">
+          <a class="dropdown-item" href="<?= page('schule/schulprogramm')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#layout-wtf" />
             </svg> Schulprogramm
@@ -133,7 +133,7 @@
           </a>
 
 
-          <a class="dropdown-item" href="<?= page('allgemeines/oberstufe')->url() ?>">
+          <a class="dropdown-item" href="<?= page('schule/abschluesse')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#subtract" />
             </svg> Abschlüsse an der KGS
@@ -141,7 +141,7 @@
 
           <div class="dropdown-divider"></div>
 
-          <a class="dropdown-item" href="<?= page('allgemeines/zweige')->url() ?>">
+          <a class="dropdown-item" href="<?= page('schule/organigramm')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#list-ol" />
             </svg> Zuständigkeiten / Organigramm
