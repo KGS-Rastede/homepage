@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<?php snippet('page-header') ?>
+<?php snippet('home-page-header') ?>
 
 
 <div class="container-fluid">
