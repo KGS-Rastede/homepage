@@ -7,7 +7,7 @@
 
     <div class="col-md-2">
       <a href="<?= $site->url() ?>">
-        <?php snippet('logo-als-svg') ?>
+        <?= asset('assets/bilder/logo.svg')->read() ?>
       </a>
     </div>
 
