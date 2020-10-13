@@ -8,15 +8,25 @@
       <p>Kooperative Gesamtschule Rastede</p>
     </div>
 
-    <div class="hero-subtext row">
-      <a href="#" class="card col">
-        <img class="d-block w-100 img img-raised rounded" alt="Aktuelles" src="<?= $page->files()->find('acker.jpg')->url() ?>">
+
+  <div class="ConBoxR">
+    <div class="rechts">
+      <a href="#r">
+        <img class="imagez" src="<?= $page->files()->find('acker.jpg')->url() ?>" alt="Termine">
+        <div class="middle h6">Termine</div>
       </a>
-      <a href="#" class="col">  
-        <button>Termine</button>
-      </a>
-    
     </div>
+  </div>
+  <div class="ConBoxL">
+    <div class="links">
+      <a href="#l">
+        <img class="imagez rounded" src="<?= $page->files()->find('acker.jpg')->url() ?>" alt="Termine">
+        <div class="middle h6">Ereignisse</div>
+      </a>
+    </div>
+  </div>
+
+    
   </div>
       
 

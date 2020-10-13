@@ -321,7 +321,7 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
     /* Use "linear-gradient" to add a darken background effect to the image */
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("kgs-bg.jpg");
     /* Set a specific height */
-    height: 75%;
+    height: 90%;
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
     background-repeat: no-repeat;
@@ -339,16 +339,55 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
     color: white;
   }
 
-.hero-subtext {
-
-    text-align: center;
+.ConBoxL {
     position: absolute;
+    width: 20%;
     top: 75%;
-    left: 75%;
-    transform: translater(-25%, -25%);
-    color: whitesmoke;
-    
+    left: 55%;
+    background: rgb(192, 0, 0);
+    transition: all 0.3s ease-out;
 }
+.ConBoxR {
+    position: absolute;
+    width: 20%;
+    top: 75%;
+    left: 79%;
+    // transform: translate(50%, 50%);
+    background: rgb(192, 0, 0);
+    transition: all 0.3s ease-out;
+
+    // border-top-right-radius: 10px;
+    justify-content: center;
+    // box-shadow: 0 14px 26px rgba(0,0,0,0.04);
+    // overflow: hidden;
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    // text-decoration: none;
+}
+.imagez {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+.ConBoxR:hover .imagez{
+    opacity: 0.3;
+}
+.ConBoxL:hover .imagez{
+    opacity: 0.3;
+}
+.middle {
+    transition: .5s ease;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #ffffff;
+  }
 
 /* -------end customization-------- */
 

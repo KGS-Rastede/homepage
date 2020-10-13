@@ -276,7 +276,7 @@ footer {
   /* Use "linear-gradient" to add a darken background effect to the image */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("kgs-bg.jpg");
   /* Set a specific height */
-  height: 75%;
+  height: 90%;
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
@@ -294,13 +294,51 @@ footer {
   color: white;
 }
 
-.hero-subtext {
-  text-align: center;
+.ConBoxL {
   position: absolute;
+  width: 20%;
   top: 75%;
-  left: 75%;
-  transform: translater(-25%, -25%);
-  color: whitesmoke;
+  left: 55%;
+  background: #c00000;
+  transition: all 0.3s ease-out;
+}
+
+.ConBoxR {
+  position: absolute;
+  width: 20%;
+  top: 75%;
+  left: 79%;
+  background: #c00000;
+  transition: all 0.3s ease-out;
+  justify-content: center;
+}
+
+.imagez {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.5s ease;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+.ConBoxR:hover .imagez {
+  opacity: 0.3;
+}
+
+.ConBoxL:hover .imagez {
+  opacity: 0.3;
+}
+
+.middle {
+  transition: 0.5s ease;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
 }
 
 /* -------end customization-------- */
