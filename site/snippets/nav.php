@@ -4,7 +4,7 @@
           Müssen wir am Ende vom Design her entscheiden.      
         -->
   <div class="d-none d-sm-none d-lg-block d-xl-block">
-    <?php snippet('logo-als-svg') ?>
+    <?= asset('assets/bilder/logo.svg')->read() ?>
   </div>
   <a class="navbar-brand text-white d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
