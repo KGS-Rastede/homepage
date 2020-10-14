@@ -5,7 +5,7 @@
         -->
   <div class="d-none d-sm-none d-lg-block d-xl-block">
     <a href="<?= $site->url() ?>">
-      <?php snippet('logo-als-svg') ?>
+      <?= asset('assets/bilder/logo.svg')->read() ?>
     </a>
   </div>
   <a class="navbar-brand text-white d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
@@ -28,12 +28,6 @@
           </a>
 
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#haus">
-            <svg class="bi" width="24" height="24">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tools" />
-            </svg> Hausmeister
-          </a>
-
           <a class="dropdown-item" href="<?= page('kontakte/schulleitung')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-circle" />
@@ -45,16 +39,22 @@
             </svg> Fachbereichsleiter
           </a>
 
+          <a class="dropdown-item" href="<?= page('lehrer')->url() ?>">
+            <svg class="bi" width="24" height="24">
+              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-lines-fill" />
+            </svg> Kollegium
+          </a>
+
           <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#sek">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#telephone-fill" />
             </svg> Sekretariate
           </a>
 
-          <a class="dropdown-item" href="<?= page('lehrer')->url() ?>">
+          <a class="dropdown-item" href="<?= page('kontakte/sekretariate')->url() ?>#haus">
             <svg class="bi" width="24" height="24">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#person-lines-fill" />
-            </svg> Kollegium
+              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tools" />
+            </svg> Hausmeister
           </a>
 
           <div class="dropdown-divider"></div>
@@ -209,7 +209,7 @@
           </a>
 
 
-          <a class="dropdown-item" href="<?= page('Faecher')->url() ?>">
+          <a class="dropdown-item" href="<?= page('allgemeines/schuelerfirmen')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#journals" />
             </svg> Schülerfirmen

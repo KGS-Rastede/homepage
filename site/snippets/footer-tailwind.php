@@ -2,7 +2,7 @@
   <div class="flex">
     <div class="w-2/5">
       <a href="<?= $site->url() ?>">
-        <?php snippet('logo-als-svg') ?>
+        <?= asset('assets/bilder/logo.svg')->read() ?>
       </a>
     </div>
     <div class="w-1/5">
