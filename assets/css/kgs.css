@@ -304,7 +304,7 @@ footer {
 }
 
 .ConBoxR {
-  position: fixed;
+  position: absolute;
   width: 20%;
   top: 75%;
   left: 79%;
