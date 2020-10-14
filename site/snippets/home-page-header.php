@@ -8,14 +8,14 @@
       <p>Kooperative Gesamtschule Rastede</p>
     </div>
 
-
+  <div class="d-none d-md-block">
     <div class="ConBoxR">
       <a href="#r">
         <img class="imagez" src="<?= $page->files()->find('acker.jpg')->url() ?>" alt="Termine">
         <div class="middle h6">Termine
           <svg class="bi" width="24" height="24">
             <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" /></svg>
-        </div>
+          </div>
       </a>
     </div>
     <div class="ConBoxL">
@@ -27,11 +27,12 @@
         </div>
       </a>
     </div>
+  </div>
 
     
   </div>
       
-
+  
 
 
       <!-- Titelfeld -->
