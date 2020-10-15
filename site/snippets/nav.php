@@ -202,20 +202,20 @@
 
           
           
-          <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/berufsorientierung')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#door-open" />
             </svg> Berufsorientierung
           </a>
 
 
-          <a class="dropdown-item" href="<?= page('allgemeines/schuelerfirmen')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/schuelerfirmen')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#journals" />
             </svg> Schülerfirmen
           </a>
 
-          <a class="dropdown-item" href="<?= page('allgemeines/beratung')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/beratung')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-dots" />
             </svg> Beratung
@@ -258,7 +258,7 @@
 
           <div class="dropdown-divider"></div>
 
-          <a class="dropdown-item" href="<?= page('allgemeines/ssd')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/ssd')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#people" />
             </svg> Schulsanitätsdienst
