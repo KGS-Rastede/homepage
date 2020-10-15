@@ -319,6 +319,11 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
             filter: invert(100%);
 }
 
+.navtext {
+    background-color: rgb(0, 0, 0);
+    font-size: 16px;
+    padding: 16px 32px;
+  }
 
 
 .hero-image {
@@ -336,7 +341,7 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
   /* Place text in the middle of the image */
 .hero-text {
 //    font-family: "Lucida Console";
-    text-align: center;
+    text-align: justify;
     position: absolute;
     top: 50%;
     left: 50%;

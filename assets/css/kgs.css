@@ -276,6 +276,12 @@ footer {
   filter: invert(100%);
 }
 
+.navtext {
+  background-color: black;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("kgs-bg.jpg");
@@ -290,7 +296,7 @@ footer {
 
 /* Place text in the middle of the image */
 .hero-text {
-  text-align: center;
+  text-align: justify;
   position: absolute;
   top: 50%;
   left: 50%;
