@@ -160,7 +160,7 @@
       <h3 class="card-category card-title mb-3 text-warning">Arbeit-Wirtschaft-Technik</h3>
       <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Henken</h4>
       <div class="list-group">
-        <a href="<?= page('allgemeines/schuelerfirmen')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+        <a href="<?= page('unterricht/schuelerfirmen')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
         <svg class="bi" width="24" height="24">
             <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#wallet2" /></svg> Schülerfirmen
         </a>
