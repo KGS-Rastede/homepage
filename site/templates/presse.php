@@ -6,51 +6,65 @@
 
 
 <!--  -->
+<div class="p-4 p-md-5 mb-4 rounded">
+  <div class="row">
 
-<?php
-// `toStructure()` erzeugt einen Iterator fuer die URLs
-$items = $page->pressenachrichten()->toStructure()->sortBy("datum")->flip();
 
-$list = $items->paginate(5);
+    <?php
+    // `toStructure()` erzeugt einen Iterator fuer die URLs
+    $items = $page->pressenachrichten()->toStructure()->sortBy("datum")->flip();
 
-$quelle = "";
+    $list = $items->paginate(10);
 
-// Nun kann man jede URL durchgehen und jeweils einen Links erzeugen
-foreach ($list as $item) : ?>
+    $quelle = "";
 
-  <?php
-  if ($item->zeitung() == "nwz") {
-    $quelle = "Nordwest Zeitung";
-  } elseif ($item->zeitung() == "youtube") {
-    $quelle = "YouTube";
-  }
-  else {
-    $quelle = "Rasteder Rundschau";
-  }
-  ?>
+    // Nun kann man jede URL durchgehen und jeweils einen Links erzeugen
+    foreach ($list as $item) : ?>
 
-<dl class="list-inline">
-  <dt class="list-inline-item h3">
-      <a href="<?= $item->link() ?>">
-        <?= $item->name()->html() ?>
-      </a>
-  </dt>
-  <dd class="list-inline-item">
-        <div class="h5 ">
-          <span class="badge badge-pill bg-secondary"><?= $quelle ?></span>
-          Datum: <?= $item->datum()->html() ?>
+      <?php
+      if ($item->zeitung() == "nwz") {
+        $quelle = "Nordwest Zeitung";
+      } elseif ($item->zeitung() == "youtube") {
+        $quelle = "YouTube";
+      } else {
+        $quelle = "Rasteder Rundschau";
+      }
+      ?>
+
+      <div class="col-md-6">
+        <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <div class="d-flex justify-content-between">
+              <div>
+                <h3>
+                  <?= $item->name()->html() ?>
+                </h3>
+              </div>
+              <div>
+                <span class="badge badge-pill bg-secondary"><?= $quelle ?></span>  
+              </div>
+            </div>
+
+            <div class="mb-1 text-muted">
+              Datum: <?= $item->datum()->html() ?>
+            </div>
+
+            <p class="card-text mt-3 mb-auto">
+              <?= $item->anfang() ?>
+            </p>
+
+            <a class="stretched-link" href="<?= $item->link() ?>">
+              weiterlesen... 
+            </a>
+
+          </div>
         </div>
-  </dd>
-</dl>
+      </div>
 
+    <?php endforeach ?>
+  </div>
 
-  <p><?= $item->anfang() ?></p>
-
-  <hr>
-
-<?php endforeach ?>
-
-
+</div>
 
 <!--  -->
 
