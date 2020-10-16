@@ -7,28 +7,3 @@ Heading:
 ----
 
 Text:
-
-[
-    {
-        "attrs": {
-            "guid": "/pages/error/files/404alarm.png",
-            "id": "error/404alarm.png",
-            "filename": "404alarm.png",
-            "ratio": 2.839622641509434,
-            "caption": ""
-        },
-        "content": "",
-        "id": "_e9m9mamkc",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "blah blah",
-        "id": "_d0sfzw4ab",
-        "type": "paragraph"
-    }
-]
-
-----
-
-Downloads: 
