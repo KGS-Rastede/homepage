@@ -19,7 +19,7 @@
     <div class="w-1/5">
       <h5 class="font-bold">Über die KGS</h5>
       <ul>
-        <li><a class="text-muted" href="<?= page('allgemeines/geschichte')->url() ?>">Unsere Geschichte</a></li>
+        <li><a class="text-muted" href="<?= page('schule/geschichte')->url() ?>">Unsere Geschichte</a></li>
         <li><a class="text-muted" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
         <li><a class="text-muted" href="<?= page('allgemeines/impressum')->url() ?>">Impressum</a></li>
         <li><a class="text-muted" href="https://www.opc-asp.de/kgs-rastede/menuplan.php?VMP" target="_blank">Mensa</a></li>
