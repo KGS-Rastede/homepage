@@ -48,7 +48,9 @@
                 <?php endif ?>
               </tr>
             <?php endforeach ?>
-
+            <td>
+              <a class="text-decoration-none" href="<?= page("/allgemeines/schulbuchlisten")->url() ?>">Schulbuchlisten</a>
+            </td>
           </tbody>
         </table>
       </div>

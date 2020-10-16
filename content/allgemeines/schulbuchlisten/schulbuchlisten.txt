@@ -57,6 +57,11 @@ Schulbuchlistengz:
   name: 12. Klasse
   0: schulbuchliste-07gz.pdf
 
+- 
+  link:
+    - schulbuchliste-13.pdf
+  name: 13. Klasse
+
 ----
 
 Schulbuchlistenrz:

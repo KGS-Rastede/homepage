@@ -27,7 +27,7 @@
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                     <svg class="bi" width="24" height="24">
-                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
+                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#file-earmark-text-fill" />
                                                     </svg>
                                                 </button>
                                             </a>
@@ -65,7 +65,7 @@
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                     <svg class="bi" width="24" height="24">
-                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
+                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#file-earmark-text-fill" />
                                                     </svg>
                                                 </button>
                                             </a>
@@ -104,7 +104,7 @@
                                                 <a href="<?= $liste->link()->toFile()->url() ?>">
                                                     <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                         <svg class="bi" width="24" height="24">
-                                                            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
+                                                            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#file-earmark-text-fill" />
                                                         </svg>
                                                     </button>
                                                 </a>
