@@ -228,27 +228,27 @@
           </a>
           <div class="dropdown-divider"></div>
 
-          <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/kulturelles')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#door-open" />
             </svg> Kulturelles
           </a>
 
-          <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/wettbewerbe')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#door-open" />
             </svg> Wettbewerbe
           </a>
 
           
-          <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/ag-angebot')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#door-open" />
             </svg> Das AG-Angebot
           </a>
 
           
-          <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>">
+          <a class="dropdown-item" href="<?= page('allgemeines/schule-ohne-rassismus-schule-mit-courage')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#door-open" />
             </svg> Schule ohne Rassismus - Schule mit Courage
@@ -264,20 +264,20 @@
             </svg> Schulsanitätsdienst
           </a>
           
-          <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/bo-coaches')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#door-open" />
             </svg> BO-Coaches
           </a>
           
-          <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/schulhund')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#door-open" />
             </svg> Schulhund
           </a>
 
           
-          <a class="dropdown-item" href="<?= page('allgemeines/inklusion')->url() ?>">
+          <a class="dropdown-item" href="<?= page('unterricht/streitschlichter')->url() ?>">
             <svg class="bi" width="24" height="24">
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#door-open" />
             </svg> Streitschlichter 
