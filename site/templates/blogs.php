@@ -8,13 +8,14 @@
   ])
 ?>
 
+<div class="d-flex justify-content-center">
+  <?php
+    $pagination = $articles->pagination();
 
-<?php
-  $pagination = $articles->pagination();
-
-  snippet('pagination', [
-    'pagination' => $pagination
-  ])
-?>
+    snippet('pagination', [
+      'pagination' => $pagination
+    ])
+  ?>
+</div>
 
 <?php snippet('footer') ?>

@@ -48,7 +48,9 @@
                 <?php endif ?>
               </tr>
             <?php endforeach ?>
-
+            <td>
+              <a class="text-decoration-none" href="<?= page("/allgemeines/schulbuchlisten")->url() ?>">Schulbuchlisten</a>
+            </td>
           </tbody>
         </table>
       </div>
@@ -111,7 +113,7 @@
 
 <p>Hinweis: Artikel, die mit einem <svg class="bi" width="24" height="24">
     <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#lightning-fill" />
-  </svg> markiert sind, sind direkt auf der Startseite markiert.
+  </svg> markiert sind, sind direkt auf der Startseite unter "Zur Zeit aktuelle Downloads" verlinkt.
 </p>
 
 

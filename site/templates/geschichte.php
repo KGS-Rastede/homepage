@@ -178,7 +178,6 @@
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
 
-                            <p>Gründung des KGO</p>
                             <p>erste Projektwoche</p>
                             <p>erster Austausch mit der niederländischen Partnerschule in Hardenberg</p>
 
@@ -196,6 +195,7 @@
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
 
+                            <p>Gründung des KGO</p>
                             <p>Anschaffung der ersten Computer</p>
 
 

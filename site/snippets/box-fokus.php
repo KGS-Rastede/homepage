@@ -4,7 +4,7 @@
           Die tauchen hier immer auch, egal welches Datumsbereich
           jeweils eingestellt ist
          -->
-    <h1>Aktuell im Fokus</h1>
+    <h1 class="ml-3">Aktuell im Fokus</h1>
     <div class="container-fluid">
         <?php $index = 0;
         foreach (page('blogs')

@@ -31,31 +31,31 @@ Schulbuchlistengz:
   link:
     - schulbuchliste-08gz.pdf
   name: 8. Klasse
-  0: schulbuchliste-07gz.pdf
-   
+ 
 - 
   link:
     - schulbuchliste-09gz.pdf
   name: 9. Klasse
-  0: schulbuchliste-07gz.pdf
-   
+    
 - 
   link:
     - schulbuchliste-10gz.pdf
   name: 10. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-11.pdf
   name: 11. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-12.pdf
   name: 12. Klasse
-  0: schulbuchliste-07gz.pdf
+
+- 
+  link:
+    - schulbuchliste-13.pdf
+  name: 13. Klasse
 
 ----
 
@@ -65,37 +65,31 @@ Schulbuchlistenrz:
   link:
     - schulbuchliste-05rz.pdf
   name: 5. Klasse
-  0: schulbuchliste-07gz.pdf
-   
+ 
 - 
   link:
     - schulbuchliste-06rz.pdf
   name: 6. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-07rz.pdf
   name: 7. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-08rz.pdf
   name: 8. Klasse
-  0: schulbuchliste-07gz.pdf
-   
+ 
 - 
   link:
     - schulbuchliste-09rz.pdf
   name: 9. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-10hz.pdf
   name: 10. Klasse
-  0: schulbuchliste-07gz.pdf
    
 
 ----
@@ -106,46 +100,32 @@ Schulbuchlistenhz:
   link:
     - schulbuchliste-05hz.pdf
   name: 5. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-06hz.pdf
   name: 6. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-07hz.pdf
   name: 7. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-08hz.pdf
   name: 8. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-09hz.pdf
   name: 9. Klasse
-  0: schulbuchliste-07gz.pdf
    
 - 
   link:
     - schulbuchliste-10hz.pdf
   name: 10. Klasse
-  0: schulbuchliste-07gz.pdf
    
-
-----
-
-Subtitle2: Ag-Wahllisten
-
-----
-
-Subtitle3: Busfahrpläne
 
 ----
 

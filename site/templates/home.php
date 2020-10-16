@@ -101,14 +101,12 @@
     <div class="col-xl-4">
       <div class="container mt-5">
         <?php snippet('box-schnellzugriff') ?>
-        <?php // snippet('box-kalender') 
-        ?>
+        <?php // snippet('box-kalender') ?>
         <?php snippet('box-fokus') ?>
         <?php snippet('box-presse') ?>
         <?php snippet('box-foerderverein') ?>
         <?php snippet('box-links') ?>
-        <?php //snippet('box-wetter') 
-        ?>
+        <?php //snippet('box-wetter') ?>
       </div>
     </div>
 
