@@ -1,4 +1,4 @@
-<nav class="navbar fixed-top navbar-expand-lg navbar-light">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
   <!-- 
           Hier kann das Logo stehen oder der Name der Schule.
           Müssen wir am Ende vom Design her entscheiden.      
@@ -16,7 +16,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto mb-2 mr-3 mb-lg-0 ">
       <li class="dropdown nav-item">
-        <a href="#" class="dropdown-toggle nav-link navtext mr-2" data-toggle="dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
           Kontakt
         </a>
 
@@ -91,7 +91,7 @@
       </li>
 
       <li class="dropdown nav-item">
-        <a href="#" class="dropdown-toggle nav-link navtext" data-toggle="dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
           &Uuml;ber die Schule
         </a>
         <div class="dropdown-menu dropdown-with-icons">
@@ -189,7 +189,7 @@
       </li>
 
       <li class="dropdown nav-item">
-        <a href="#" class="dropdown-toggle nav-link navtext" data-toggle="dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
           Unterricht &amp; Schulleben
         </a>
         <div class="dropdown-menu dropdown-with-icons">
@@ -288,7 +288,7 @@
       </li>
 
       <li class="dropdown nav-item">
-        <a href="#" class="dropdown-toggle nav-link navtext" data-toggle="dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
           Service &amp; Downloads
         </a>
         <div class="dropdown-menu dropdown-with-icons">
@@ -311,7 +311,7 @@
           </a>
 
       <li class="dropdown nav-item">
-        <a class="nav-link navtext" href="<?= page('allgemeines/kalender')->url() ?>">
+        <a class="nav-link" href="<?= page('allgemeines/kalender')->url() ?>">
           Kalender
         </a>
       </li>
