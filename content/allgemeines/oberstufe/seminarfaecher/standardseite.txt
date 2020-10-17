@@ -2,12 +2,16 @@ Title: Seminarfächer
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
     {
         "attrs": [],
-        "content": "Das Seminarfach ist deine Familie in der Qualifikationsphase. Die Seminarfachlehrkraft ist gleichzeitig deine Tutorin bzw. dein Tutor und erster Ansprechpartner in allen schulischen Fragen. Das Seminarfach dient der Vorbereitung wissenschaftsprop\u00e4deutischen Arbeitens, hier geht es um Methodenlernen, Pr\u00e4sentieren und das Erstellen einer Facharbeit. Au\u00dferdem findet die Studienfahrt innerhalb der Seminarfachgemeinschaft statt. Jedes Seminarfach steht unter einem bestimmten Thema. Die aktuellen und auch fr\u00fchere Seminarfachthemen findest du hier.",
+        "content": "Das Seminarfach ist deine Familie in der Qualifikationsphase. Die Seminarfachlehrkraft ist gleichzeitig deine Tutorin bzw. dein Tutor und erster Ansprechpartner in allen schulischen Fragen. Das Seminarfach dient der Vorbereitung wissenschaftspropädeutischen Arbeitens, hier geht es um Methodenlernen, Präsentieren und das Erstellen einer Facharbeit. Außerdem findet die Studienfahrt innerhalb der Seminarfachgemeinschaft statt. Jedes Seminarfach steht unter einem bestimmten Thema. Die aktuellen und auch frühere Seminarfachthemen findest du hier.",
         "id": "_cwy1it879",
         "type": "paragraph"
     }
@@ -23,7 +27,7 @@ Downloads:
 
 ----
 
-Toggle: true
+Toggle: false
 
 ----
 

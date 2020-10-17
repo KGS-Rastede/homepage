@@ -2,12 +2,16 @@ Title: Fachhochschulreife
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
     {
         "attrs": [],
-        "content": "Bereits nach dem ersten Jahr der Qualifikationsphase kann man unter bestimmten Voraussetzungen den schulischen Teil der Fachhochschulreife erreichen, der dann zusammen mit dem praktischen Teil vielf\u00e4ltige Studienm\u00f6glichkeiten er\u00f6ffnet. Der praktische Teil kann ein einj\u00e4hriges berufsbezogenes Vollzeitpraktikum, ein FSJ, F\u00d6J usw., ein einj\u00e4hriger freiwilliger Wehrdienst oder eine abgeschlossene Berufsausbildung sein. Bevor man sich f\u00fcr einen bestimmten Bereich oder ein bestimmtes Unternehmen entscheidet, sollte immer eine R\u00fccksprache mit der Oberstufenkoordination erfolgen.",
+        "content": "Bereits nach dem ersten Jahr der Qualifikationsphase kann man unter bestimmten Voraussetzungen den schulischen Teil der Fachhochschulreife erreichen, der dann zusammen mit dem praktischen Teil vielfältige Studienmöglichkeiten eröffnet. Der praktische Teil kann ein einjähriges berufsbezogenes Vollzeitpraktikum, ein FSJ, FÖJ usw., ein einjähriger freiwilliger Wehrdienst oder eine abgeschlossene Berufsausbildung sein. Bevor man sich für einen bestimmten Bereich oder ein bestimmtes Unternehmen entscheidet, sollte immer eine Rücksprache mit der Oberstufenkoordination erfolgen.",
         "id": "_m6nbfsczs",
         "type": "paragraph"
     }
@@ -23,7 +27,7 @@ Downloads:
 
 ----
 
-Toggle: true
+Toggle: false
 
 ----
 

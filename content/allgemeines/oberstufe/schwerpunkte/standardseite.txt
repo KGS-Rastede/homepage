@@ -2,12 +2,16 @@ Title: Schwerpunkte
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
 [
     {
         "attrs": [],
-        "content": "Die KGS Rastede bietet als allein stehende Schule in der Qualifikationsphase alle f\u00fcnf in Niedersachsen existierenden Schwerpunkte an: den sprachlichen, den naturwissenschaftlichen, den musisch-k\u00fcnstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es dar\u00fcber hinaus vielf\u00e4ltige Kombinationsm\u00f6glichkeiten der Pr\u00fcfungsf\u00e4cher.",
+        "content": "Die KGS Rastede bietet als allein stehende Schule in der Qualifikationsphase alle fünf in Niedersachsen existierenden Schwerpunkte an: den sprachlichen, den naturwissenschaftlichen, den musisch-künstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es darüber hinaus vielfältige Kombinationsmöglichkeiten der Prüfungsfächer.",
         "id": "_kpwvipddd",
         "type": "paragraph"
     },
@@ -19,7 +23,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Wir haben als Entscheidungshilfe eine \u00dcbersicht zusammengestellt, welcher Schwerpunkt f\u00fcr welchen Sch\u00fclertyp geeignet sein k\u00f6nnte. Dar\u00fcber hinaus solltest du vor deiner Wahl aber noch zahlreiche Gespr\u00e4che mit Freunden, Eltern, Lehrkr\u00e4ften oder auch der Oberstufenkoordination f\u00fchren. Au\u00dferdem findest du hier eine \u00dcbersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Pr\u00fcfungsfachkombinationen.",
+        "content": "Wir haben als Entscheidungshilfe eine Übersicht zusammengestellt, welcher Schwerpunkt für welchen Schülertyp geeignet sein könnte. Darüber hinaus solltest du vor deiner Wahl aber noch zahlreiche Gespräche mit Freunden, Eltern, Lehrkräften oder auch der Oberstufenkoordination führen. Außerdem findest du hier eine Übersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Prüfungsfachkombinationen.",
         "id": "_RxXuTswpj",
         "type": "paragraph"
     }
@@ -35,7 +39,7 @@ Downloads:
 
 ----
 
-Toggle: true
+Toggle: false
 
 ----
 
