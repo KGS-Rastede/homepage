@@ -138,11 +138,12 @@ Hier finden Sie die Netzlehrpläne für das Fach Englisch an der KGS Rastede fü
 
 Lehrplaene:
 
+- >
+  netzplan_en_hz_-_anpassung_jg._6__jg.9.pdf
 - gesamtnetzplan-rz-5-10.pdf
+- gesamtnetzplan-gz-5-10.pdf
 - 20141017musteraufgabenen.pdf
 - bewertung-sprachmittlung.pdf
-- gesamtnetzplan-hz-5-10.pdf
-- gesamtnetzplan-gz-5-10.pdf
 - leitfaden-englisch.pdf
 - operatoren_alle.pdf
 - prasentationsprufung-englisch.pdf
