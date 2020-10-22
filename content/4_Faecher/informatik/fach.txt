@@ -11,19 +11,19 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Unsere Gesellschaft wird in hohem Ma\u00dfe von Informations- und Kommunikationstechnologien bestimmt und zunehmend von automatisierten Prozessen durchdrungen. Das betrifft in gleicher Weise das private, das berufliche und das gesellschaftliche Umfeld. Ein Grundverst\u00e4ndnis der verwendeten Technologien ist daher Voraussetzung, um ein selbstbestimmtes Leben in dieser Umgebung f\u00fchren zu k\u00f6nnen.",
+        "content": "Unsere Gesellschaft wird in hohem Maße von Informations- und Kommunikationstechnologien bestimmt und zunehmend von automatisierten Prozessen durchdrungen. Das betrifft in gleicher Weise das private, das berufliche und das gesellschaftliche Umfeld. Ein Grundverständnis der verwendeten Technologien ist daher Voraussetzung, um ein selbstbestimmtes Leben in dieser Umgebung führen zu können.",
         "id": "_il32NYFVu",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Der Informatikunterricht bef\u00e4higt die Sch\u00fclerinnen und Sch\u00fcler zum reflektierten und verantwortungsbewussten Umgang mit Informatiksystemen. (Quelle Bildungsbeitrag Sek 1)",
+        "content": "Der Informatikunterricht befähigt die Schülerinnen und Schüler zum reflektierten und verantwortungsbewussten Umgang mit Informatiksystemen. (Quelle Bildungsbeitrag Sek 1)",
         "id": "_7Nl2Qwmzf",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Informatikunterricht ist also kein Programmierkurs, aber auch keine Word-Schulung. Er findet auch nicht notwendigerweise an Computern statt. Im Informatikunterricht arbeiten wir mit Modellen, mit Algorithmen und mit Simulationen, aber auch mit Softwarewerkzeugen. Dabei eignen sich die Sch\u00fclerinnen und Sch\u00fcler ein systematisches und produktunabh\u00e4ngiges Grundwissen \u00fcber den Aufbau und die Funktionsweise von Informatiksystemen an. (Vgl. Quelle wie oben)",
+        "content": "Informatikunterricht ist also kein Programmierkurs, aber auch keine Word-Schulung. Er findet auch nicht notwendigerweise an Computern statt. Im Informatikunterricht arbeiten wir mit Modellen, mit Algorithmen und mit Simulationen, aber auch mit Softwarewerkzeugen. Dabei eignen sich die Schülerinnen und Schüler ein systematisches und produktunabhängiges Grundwissen über den Aufbau und die Funktionsweise von Informatiksystemen an. (Vgl. Quelle wie oben)",
         "id": "_PVZ7xRZir",
         "type": "paragraph"
     },
@@ -35,7 +35,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Ein zentraler Bestandteil unseres Unterrichtskonzepts ist die Projektorientierung. Im projektorientierten Unterricht sollen die Sch\u00fclerinnen und Sch\u00fcler durch praktische, soziale und m\u00f6glichst lebensnahe Arbeit, an informatische Fragestellungen, Aufgaben und Probleme herangef\u00fchrt werden. Die Sch\u00fclerinnen und Sch\u00fcler sind dabei eigenverantwortlich t\u00e4tig. Wir Lehrkr\u00e4fte liefern die n\u00f6tigen Grundlagen, begleiten den Prozess und stehen w\u00e4hrend der Projektarbeit mit Rat und Tat zur Seite. Zu jedem guten Projekt geh\u00f6rt nat\u00fcrlich auch ein Entwurf, eine Dokumentation und die Vorstellung des fertigen Produkts.",
+        "content": "Ein zentraler Bestandteil unseres Unterrichtskonzepts ist die Projektorientierung. Im projektorientierten Unterricht sollen die Schülerinnen und Schüler durch praktische, soziale und möglichst lebensnahe Arbeit, an informatische Fragestellungen, Aufgaben und Probleme herangeführt werden. Die Schülerinnen und Schüler sind dabei eigenverantwortlich tätig. Wir Lehrkräfte liefern die nötigen Grundlagen, begleiten den Prozess und stehen während der Projektarbeit mit Rat und Tat zur Seite. Zu jedem guten Projekt gehört natürlich auch ein Entwurf, eine Dokumentation und die Vorstellung des fertigen Produkts.",
         "id": "_tF7Dd7Bqv",
         "type": "paragraph"
     },
@@ -47,13 +47,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Das Fach Informatik wird bei uns im Hauptschulzweig und Realschulzweig in den Jahrg\u00e4ngen 6 bis 8 angeboten. In diesem Jahrg\u00e4ngen steht neben der Vermittlung informatischer Grundprinzipien vor allem die informationstechnische Grundbildung der Sch\u00fcerlinnen und Sch\u00fcler im Fokus, damit sie diese F\u00e4higkeiten im Rahmen der Arbeit in den Sch\u00fclerfirmen und den Profilen in den Jahrg\u00e4ngen 9 und 10 anwenden und vertiefen k\u00f6nnen.",
+        "content": "Das Fach Informatik wird bei uns im Hauptschulzweig und Realschulzweig in den Jahrgängen 6 bis 8 angeboten. In diesem Jahrgängen steht neben der Vermittlung informatischer Grundprinzipien vor allem die informationstechnische Grundbildung der Schüerlinnen und Schüler im Fokus, damit sie diese Fähigkeiten im Rahmen der Arbeit in den Schülerfirmen und den Profilen in den Jahrgängen 9 und 10 anwenden und vertiefen können.",
         "id": "_WkvxRGiOm",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Im Gymnasialzweig ist der Informatikunterricht besonderer Bestandteil des Profilangebotes mit einem eigenen Schwerpunkt. Auch wer den Schwerpunkt Informatik nicht w\u00e4hlt, hat wenigstens ein Halbjahr lang das Fach.",
+        "content": "Im Gymnasialzweig ist der Informatikunterricht besonderer Bestandteil des Profilangebotes mit einem eigenen Schwerpunkt. Auch wer den Schwerpunkt Informatik nicht wählt, hat wenigstens ein Halbjahr lang das Fach.",
         "id": "_U8UGZxu13",
         "type": "paragraph"
     },
@@ -71,19 +71,19 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Einf\u00fchrungsphase",
+        "content": "Einführungsphase",
         "id": "_8uoiuuae9",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "In der Einf\u00fchrungsphase kann Informatik statt einer Naturwissenschaft von allen Sch\u00fclerinnen und Sch\u00fclern belegt werden. Es gibt keinerlei inhaltliche Voraussetzung f\u00fcr die Teilnahme. Es ist also explizit nicht n\u00f6tig den Schwerpunkt Informatik vorher gew\u00e4hlt zu haben oder \u00fcberhaupt im Fach unterrichtet worden zu sein, beispielsweise wenn ein Sch\u00fcler / eine Sch\u00fclerin von einer anderen Schule zu uns gewechselt ist.",
+        "content": "In der Einführungsphase kann Informatik statt einer Naturwissenschaft von allen Schülerinnen und Schülern belegt werden. Es gibt keinerlei inhaltliche Voraussetzung für die Teilnahme. Es ist also explizit nicht nötig den Schwerpunkt Informatik vorher gewählt zu haben oder überhaupt im Fach unterrichtet worden zu sein, beispielsweise wenn ein Schüler / eine Schülerin von einer anderen Schule zu uns gewechselt ist.",
         "id": "_hDUXxCfAc",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "In diesem zweist\u00fcndigen, ganzj\u00e4hrigen Kurs werden alle n\u00f6tigen Kompetenzen f\u00fcr die Qualifikationsphase vermittelt.",
+        "content": "In diesem zweistündigen, ganzjährigen Kurs werden alle nötigen Kompetenzen für die Qualifikationsphase vermittelt.",
         "id": "_bCm7k1NMS",
         "type": "paragraph"
     },
@@ -95,13 +95,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Neben der Belegung als Erg\u00e4nzungsfach besteht die M\u00f6glichkeit zwischen einem Grund- und Leistungskurs Informatik zu w\u00e4hlen. Voraussetzung ist die Wahl des mathematisch-naturwissenschaftlichen Schwerpunkts im Abitur. Wird das Pr\u00fcfungsfach gew\u00e4hlt, finden auch in diesem Rahmen Projektphasen statt.",
+        "content": "Neben der Belegung als Ergänzungsfach besteht die Möglichkeit zwischen einem Grund- und Leistungskurs Informatik zu wählen. Voraussetzung ist die Wahl des mathematisch-naturwissenschaftlichen Schwerpunkts im Abitur. Wird das Prüfungsfach gewählt, finden auch in diesem Rahmen Projektphasen statt.",
         "id": "_ZIIzcubHg",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "In der Vergangenheit sind im Pr\u00fcfungsfach eine ganze Reihe besonderer Lernleistungen entstanden.",
+        "content": "In der Vergangenheit sind im Prüfungsfach eine ganze Reihe besonderer Lernleistungen entstanden.",
         "id": "_dwMMHoUUO",
         "type": "paragraph"
     },
@@ -119,7 +119,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Die KGS Rastede geh\u00f6rte zu den Pilotschulen in Niedersachsen, die in den 1980er Jahren die Stundenplanerstellung \u00fcber gro\u00dffl\u00e4chige Stecksysteme durch rechnergest\u00fctzte Programme abl\u00f6sen konnten. Seit dieser Zeit ist Informatik an der KGS auch in der Stundentafel f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler fest verankert. Geleitet wird dieser Stellenwert von der Erkenntnis, dass Wissen und Fertigkeiten im Umgang mit neuen Technologien heute einen wesentlichen Beitrag daf\u00fcr leisten, dass Sch\u00fclerinnen und Sch\u00fcler in einer komplexen und sich schnell wandelnden Gesellschaft ein selbstbestimmtes Leben f\u00fchren k\u00f6nnen. Daher sind an der KGS Rastede im Wesentlichen alle Informations- und Wahlsysteme online gestellt. So k\u00f6nnen u.a. alle Sch\u00fclerinnen und Sch\u00fcler ihren Stundenplan immer online abrufen.",
+        "content": "Die KGS Rastede gehörte zu den Pilotschulen in Niedersachsen, die in den 1980er Jahren die Stundenplanerstellung über großflächige Stecksysteme durch rechnergestützte Programme ablösen konnten. Seit dieser Zeit ist Informatik an der KGS auch in der Stundentafel für die Schülerinnen und Schüler fest verankert. Geleitet wird dieser Stellenwert von der Erkenntnis, dass Wissen und Fertigkeiten im Umgang mit neuen Technologien heute einen wesentlichen Beitrag dafür leisten, dass Schülerinnen und Schüler in einer komplexen und sich schnell wandelnden Gesellschaft ein selbstbestimmtes Leben führen können. Daher sind an der KGS Rastede im Wesentlichen alle Informations- und Wahlsysteme online gestellt. So können u.a. alle Schülerinnen und Schüler ihren Stundenplan immer online abrufen.",
         "id": "_wNE6xkVnt",
         "type": "paragraph"
     },
@@ -152,7 +152,9 @@ Haupttag: Informatik
 
 ----
 
-Hintergrundbild: Faecher/informatik/cs2.jpg
+Hintergrundbild:
+
+- cs2.jpg
 
 ----
 
@@ -164,10 +166,21 @@ Sidebar:
 
 - 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=185'
-  name: Informatik Sek I
+  name: Kerncurriculum Sek I
 - 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=173'
-  name: Informatik Sek II
+  name: Kerncurriculum Sek II
 - 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=174'
   name: Ergänzende Hinweise Sek II
+- 
+  link: 'https://www.nibis.de/uploads/mk-bolhoefer/2021/18Informatik%20Hinweise2021NEU.pdf'
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/INF_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021

@@ -11,31 +11,31 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Das Fach Wirtschaft wird im Haupt- und Realschulzweig von Klasse 8 bis 10 unterrichtet. Der <br>Lehrplan enth\u00e4lt Themenbereiche wie die Grundlagen des Wirtschaftens, Wirtschaftskreislauf, <br>Rolle der privaten Haushalte, Unternehmen und des Staates, Globalisierung, rechtliche Fragen <br>uvm. Im 10. Jahrgang bieten wir im Rahmen der Pro\ufb01lbildung an der KGS das Pro\ufb01l Wirtschaft an, in dem verschiedene Wirtschaftsthemen intensiver bearbeitet werden k\u00f6nnen. (s. auch Pro\ufb01le an der KGS)",
+        "content": "Das Fach Wirtschaft wird im Haupt- und Realschulzweig von Klasse 8 bis 10 unterrichtet. Der <br>Lehrplan enthält Themenbereiche wie die Grundlagen des Wirtschaftens, Wirtschaftskreislauf, <br>Rolle der privaten Haushalte, Unternehmen und des Staates, Globalisierung, rechtliche Fragen <br>uvm. Im 10. Jahrgang bieten wir im Rahmen der Proﬁlbildung an der KGS das Proﬁl Wirtschaft an, in dem verschiedene Wirtschaftsthemen intensiver bearbeitet werden können. (s. auch Proﬁle an der KGS)",
         "id": "_t03eiqHzT",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Im Gymnasialzweig kann man das Fach Wirtschaft im Rahmen eines Wahlp\ufb02ichtkurses in <br>Kombination mit Informatik ebenfalls ab Klasse 8 f\u00fcr drei Jahrg\u00e4nge w\u00e4hlen. Teilnahme an <br>Planspielen, Betriebserkundungen und Recherche zu regionalen Unternehmen geh\u00f6ren ebenso <br>dazu wie die Vermittlung von Basiswissen und Wissenswertem aus allen Bereiche der Wirtschaft <br>wie der Entwicklung von M\u00e4rkten, der Geschichte des Geldes, der Rolle von Jugendlichen als <br>Konsumenten und Arbeitskr\u00e4ften, rechtlicher Regelungen. Erste Einblicke k\u00f6nnen auch in die <br>Themen Aktien und B\u00f6rsen sowie Steuern gegeben werden.",
+        "content": "Im Gymnasialzweig kann man das Fach Wirtschaft im Rahmen eines Wahlpﬂichtkurses in <br>Kombination mit Informatik ebenfalls ab Klasse 8 für drei Jahrgänge wählen. Teilnahme an <br>Planspielen, Betriebserkundungen und Recherche zu regionalen Unternehmen gehören ebenso <br>dazu wie die Vermittlung von Basiswissen und Wissenswertem aus allen Bereiche der Wirtschaft <br>wie der Entwicklung von Märkten, der Geschichte des Geldes, der Rolle von Jugendlichen als <br>Konsumenten und Arbeitskräften, rechtlicher Regelungen. Erste Einblicke können auch in die <br>Themen Aktien und Börsen sowie Steuern gegeben werden.",
         "id": "_b9JiiWz3l",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "In der Oberstufe bieten wir im 11. Jahrgang einen halbj\u00e4hrigen Projektkurs Wirtschaft an. Wer <br>Interesse an Wirtschaft hat, kann hier frei von Klausurendruck Antworten auf seine Fragen zum <br>Thema Wirtschaft \ufb01nden. Vorkenntnisse sind nicht n\u00f6tig.",
+        "content": "In der Oberstufe bieten wir im 11. Jahrgang einen halbjährigen Projektkurs Wirtschaft an. Wer <br>Interesse an Wirtschaft hat, kann hier frei von Klausurendruck Antworten auf seine Fragen zum <br>Thema Wirtschaft ﬁnden. Vorkenntnisse sind nicht nötig.",
         "id": "_UphKVEAIk",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "In Klasse 12 und 13 gibt es einen Grundkurs Wirtschaft. Den kann man besuchen auch ohne <br>vorher andere Wirtschaftskurse belegt zu haben. Alles, was Sch\u00fclerinnen und Sch\u00fcler an <br>Wirtschaft interessiert, kann hier thematisiert werden: Wirtschaftssysteme, B\u00f6rse, <br>Selbstst\u00e4ndigkeit, die eigenen Finanzen k\u00f6nnen genau so Bestandteil des Unterrichts sein wie die <br>Vertiefung und Erweiterung von wirtschaftlichem Grundwissen.",
+        "content": "In Klasse 12 und 13 gibt es einen Grundkurs Wirtschaft. Den kann man besuchen auch ohne <br>vorher andere Wirtschaftskurse belegt zu haben. Alles, was Schülerinnen und Schüler an <br>Wirtschaft interessiert, kann hier thematisiert werden: Wirtschaftssysteme, Börse, <br>Selbstständigkeit, die eigenen Finanzen können genau so Bestandteil des Unterrichts sein wie die <br>Vertiefung und Erweiterung von wirtschaftlichem Grundwissen.",
         "id": "_q2hiliKAT",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Ein gemeinsames Schwerpunktthema des Wirtschaftsunterrichts in allen Schulzweigen und <br>Jahrg\u00e4ngen ist die beru\ufb02iche Orientierung.",
+        "content": "Ein gemeinsames Schwerpunktthema des Wirtschaftsunterrichts in allen Schulzweigen und <br>Jahrgängen ist die beruﬂiche Orientierung.",
         "id": "_kCeRLSLXF",
         "type": "paragraph"
     }
@@ -67,4 +67,17 @@ Fotoansicht: gallery
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=119'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=122'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=65'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=205'
+  name: Kerncurriculum gymnasiale Oberstufe

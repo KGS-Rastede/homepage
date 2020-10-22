@@ -295,4 +295,23 @@ Fotoansicht: carousel
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=179'
+  name: Kerncurriculum Sek I
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=222'
+  name: 'Kerncurriculum Sek II '
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/19SportHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/SP_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021

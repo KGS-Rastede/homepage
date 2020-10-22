@@ -79,4 +79,8 @@ Fotoansicht: carousel
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=37'
+  name: Kerncurriculum Hauptschule

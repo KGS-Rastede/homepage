@@ -127,6 +127,30 @@ Fotoansicht:
 Sidebar:
 
 - 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=67'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=71'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=18'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=199'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/17PhysikHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
+- 
   link: https://www.leifiphysik.de/
   name: Online Physik lernen
 - 

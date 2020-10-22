@@ -91,4 +91,29 @@ Fotoansicht:
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=82'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=29'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=186'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=94'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/01DeutschHinweise_2021_NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/DE_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021

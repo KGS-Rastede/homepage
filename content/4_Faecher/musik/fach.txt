@@ -11,61 +11,61 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Als 1977 die beiden Raumsonden Voyager 1 und 2 zur Erforschung unseres Planetensystems und des interstellaren Raums ins Weltall geschossen wurden, hatten sie eine interessante Fracht an Bord: die Voyager Golden Records. In der Hoffnung, dass die Sonden irgendwann in ferner Zukunft au\u00dferirdischem Leben in die H\u00e4nde fallen, sollen diese Datentr\u00e4ger Auskunft dar\u00fcber geben, was die Menschheit sei. Darauf befinden sich Bild- und Tondokumente: Neben Gru\u00dfworten in 55 Sprachen gibt es Aufnahmen von Tier- und Umweltger\u00e4uschen und dazu \u2013 Musik: ethnische Musik verschiedener Kulturen, Bach, Mozart, Beethoven, Chuck Berry und Louis Armstrong.",
+        "content": "Als 1977 die beiden Raumsonden Voyager 1 und 2 zur Erforschung unseres Planetensystems und des interstellaren Raums ins Weltall geschossen wurden, hatten sie eine interessante Fracht an Bord: die Voyager Golden Records. In der Hoffnung, dass die Sonden irgendwann in ferner Zukunft außerirdischem Leben in die Hände fallen, sollen diese Datenträger Auskunft darüber geben, was die Menschheit sei. Darauf befinden sich Bild- und Tondokumente: Neben Grußworten in 55 Sprachen gibt es Aufnahmen von Tier- und Umweltgeräuschen und dazu – Musik: ethnische Musik verschiedener Kulturen, Bach, Mozart, Beethoven, Chuck Berry und Louis Armstrong.",
         "id": "_DRKJinHfg",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Noch lange bevor Musik also ein Schulfach ist, ist sie Ausdruck menschlicher Kultur, Ausdruck unseres Menschseins an sich. Es gibt kaum eine Person, die von sich behauptet, sie h\u00f6re keine Musik, so sehr ist dieses Ph\u00e4nomen mit unserer individuellen Existenz verwoben.",
+        "content": "Noch lange bevor Musik also ein Schulfach ist, ist sie Ausdruck menschlicher Kultur, Ausdruck unseres Menschseins an sich. Es gibt kaum eine Person, die von sich behauptet, sie höre keine Musik, so sehr ist dieses Phänomen mit unserer individuellen Existenz verwoben.",
         "id": "_gN0i7nyvX",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Dies nie zu vergessen ist auch Aufgabe des Schulfaches Musik. Im Musikunterricht an der KGS Rastede versuchen wir daher, m\u00f6glichst viele Aspekte von Musik zu ber\u00fccksichtigen und sie ins Verh\u00e4ltnis zur Lebenswirklichkeit der Kinder und Jugendlichen im Ammerland zu setzen. Wir suchen Ankn\u00fcpfungspunkte im Bekannten und bauen Br\u00fccken ins Unbekannte, denn vor allem dort lassen sich neue Antworten darauf finden, wer man denn eigentlich ist.",
+        "content": "Dies nie zu vergessen ist auch Aufgabe des Schulfaches Musik. Im Musikunterricht an der KGS Rastede versuchen wir daher, möglichst viele Aspekte von Musik zu berücksichtigen und sie ins Verhältnis zur Lebenswirklichkeit der Kinder und Jugendlichen im Ammerland zu setzen. Wir suchen Anknüpfungspunkte im Bekannten und bauen Brücken ins Unbekannte, denn vor allem dort lassen sich neue Antworten darauf finden, wer man denn eigentlich ist.",
         "id": "_lAe6p8Ntn",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Nach dem nieders\u00e4chsischen Kerncurriculum soll Musik \u201eerfahrend erschlossen werden\u201c. Dieser Maxime wird der Musikunterricht an der KGS in besonderer Weise gerecht, da wir einen hohen Anteil von Musikpraxis in den Unterricht integrieren. Jede*r Sch\u00fcler*in macht in jeder Doppelstunde selbst Musik, sammelt so umfangreiche Erfahrungen an sehr unterschiedlichen Instrumenten. Dazu \u00fcben wir mit den Sch\u00fcler*innen immer wieder das genaue Zuh\u00f6ren. Im Vordergrund stehen also \u00e4sthetische Erfahrungen, die Musiktheorie hat dabei dienende Funktion und erm\u00f6glicht ein vertieftes Verstehen von Musik.",
+        "content": "Nach dem niedersächsischen Kerncurriculum soll Musik „erfahrend erschlossen werden“. Dieser Maxime wird der Musikunterricht an der KGS in besonderer Weise gerecht, da wir einen hohen Anteil von Musikpraxis in den Unterricht integrieren. Jede*r Schüler*in macht in jeder Doppelstunde selbst Musik, sammelt so umfangreiche Erfahrungen an sehr unterschiedlichen Instrumenten. Dazu üben wir mit den Schüler*innen immer wieder das genaue Zuhören. Im Vordergrund stehen also ästhetische Erfahrungen, die Musiktheorie hat dabei dienende Funktion und ermöglicht ein vertieftes Verstehen von Musik.",
         "id": "_CxUDylAPh",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Wichtig ist zudem die historische, gesellschaftliche und funktionale Dimension von Musik: Dementsprechend behandeln wir Themen aus sehr unterschiedlichen Bereichen, vom Worksong bis zum Rap, vom gregorianischen Gesang bis zur Neuen Musik, von Nationalhymnen zur Musik in der Werbung und im Film. Dies dient auch dazu, dass die Sch\u00fcler*innen die Kultur ihrer Zeit als historisch gewachsen und ver\u00e4nderbar verstehen.",
+        "content": "Wichtig ist zudem die historische, gesellschaftliche und funktionale Dimension von Musik: Dementsprechend behandeln wir Themen aus sehr unterschiedlichen Bereichen, vom Worksong bis zum Rap, vom gregorianischen Gesang bis zur Neuen Musik, von Nationalhymnen zur Musik in der Werbung und im Film. Dies dient auch dazu, dass die Schüler*innen die Kultur ihrer Zeit als historisch gewachsen und veränderbar verstehen.",
         "id": "_t2pnMfo3b",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Der Fachbereich musisch-kulturelle Bildung ist die eigentliche Gesamtschule in der KGS, denn neben Sport werden nur Kunst und Musik schulzweig\u00fcbergreifend in voll integrierten Kursen unterrichtet. Dies erfordert ein hohes Ma\u00df an Differenzierung: Jede*r Sch\u00fcler*in soll auf seinem Niveau gefordert werden und f\u00fcr sich und sein Leben fruchtbare Ankn\u00fcpfungspunkte zur Musik finden.",
+        "content": "Der Fachbereich musisch-kulturelle Bildung ist die eigentliche Gesamtschule in der KGS, denn neben Sport werden nur Kunst und Musik schulzweigübergreifend in voll integrierten Kursen unterrichtet. Dies erfordert ein hohes Maß an Differenzierung: Jede*r Schüler*in soll auf seinem Niveau gefordert werden und für sich und sein Leben fruchtbare Anknüpfungspunkte zur Musik finden.",
         "id": "_Ocqc3MUHx",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "In Jahrgang 5 wird das Fach ganzj\u00e4hrig unterrichtet, anschlie\u00dfend bis Jg. 10 epochal. in Jg. 5/6 gibt es ein Chorprofil, in dem in zwei zus\u00e4tzlichen Musikstunden Stimmbildung betrieben und mehrstimmiger Gesang ge\u00fcbt werden. Hier n\u00e4hert man sich auch zahlreichen theoretischen Inhalten \u00fcber den Gesang. Im Gymnasialzweig besteht ab Jg. 8 zudem die M\u00f6glichkeit, das musisch-kulturelle Profil zu w\u00e4hlen. Hier haben die Jugendlichen in Jg. 8 und 10 zwei zus\u00e4tzliche Stunden Musik. Am Ende des 10. Jahrgangs steht eine Musiktheaterproduktion in Zusammenarbeit mit dem Fach Darstellendes Spiel.",
+        "content": "In Jahrgang 5 wird das Fach ganzjährig unterrichtet, anschließend bis Jg. 10 epochal. in Jg. 5/6 gibt es ein Chorprofil, in dem in zwei zusätzlichen Musikstunden Stimmbildung betrieben und mehrstimmiger Gesang geübt werden. Hier nähert man sich auch zahlreichen theoretischen Inhalten über den Gesang. Im Gymnasialzweig besteht ab Jg. 8 zudem die Möglichkeit, das musisch-kulturelle Profil zu wählen. Hier haben die Jugendlichen in Jg. 8 und 10 zwei zusätzliche Stunden Musik. Am Ende des 10. Jahrgangs steht eine Musiktheaterproduktion in Zusammenarbeit mit dem Fach Darstellendes Spiel.",
         "id": "_4ti2lv2xj",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Dazu kommen einige Arbeitsgemeinschaften im Ganztagsbereich: der Chor f\u00fcr die Jahrg\u00e4nge 5/6, der Chor f\u00fcr die Jahrg\u00e4nge 7-10, der Oberstufenchor und die Big Band \"Koops\".",
+        "content": "Dazu kommen einige Arbeitsgemeinschaften im Ganztagsbereich: der Chor für die Jahrgänge 5/6, der Chor für die Jahrgänge 7-10, der Oberstufenchor und die Big Band \"Koops\".",
         "id": "_iejbq6l4e",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Auslaufend bestehen z.Zt. noch Bl\u00e4serkurse in den Jahrg\u00e4ngen 6 und 7.",
+        "content": "Auslaufend bestehen z.Zt. noch Bläserkurse in den Jahrgängen 6 und 7.",
         "id": "_sl8g2s1co",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "In der Oberstufe kann ein Musik-Leistungskurs gew\u00e4hlt werden. Hier sind auch fachpraktische Abiturpr\u00fcfungen m\u00f6glich.",
+        "content": "In der Oberstufe kann ein Musik-Leistungskurs gewählt werden. Hier sind auch fachpraktische Abiturprüfungen möglich.",
         "id": "_wk58ske3x",
         "type": "paragraph"
     }
@@ -100,12 +100,26 @@ Fotoansicht: gallery
 Sidebar:
 
 - 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/mu_igs_si_kc_druck_2017.pdf
-  name: Kerncurriculum Musik 5-10
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=40'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=110'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=200'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=104'
+  name: Kerncurriculum gymnasiale Oberstufe
 - 
   link: >
-    http://db2.nibis.de/1db/cuvo/datei/mu_go_kc_druck.pdf
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/08MusikHinweise2021NEU.pdf
   name: >
-    Kerncurriculum für die gymnasiale
-    Oberstufe
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/MU_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021

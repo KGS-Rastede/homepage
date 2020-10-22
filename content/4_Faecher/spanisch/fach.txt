@@ -199,12 +199,12 @@ Lehrplantext:
 
 Lehrplaene:
 
-- fachcurriculum_spanisch_-jg.9.pdf
 - fachcurriculum_spanisch_-jg.6.pdf
+- fachcurriculum_spanisch_jg.7.pdf
+- fachcurriculum_spanisch_-jg.9.pdf
+- fachcurriculum_spanischjg_jg.8.pdf
 - >
   fachcurriculum_spanisch_11fortgefuehrt.pdf
-- fachcurriculum_spanisch_jg.7.pdf
-- fachcurriculum_spanischjg_jg.8.pdf
 
 ----
 
@@ -225,28 +225,28 @@ Fotoansicht: carousel
 Sidebar:
 
 - 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/sn_gym_si_kc_druck_2017.pdf
-  name: Kerncurriculum Sek I
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=58'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=203'
+  name: Kerncurriculum gymnasiale Oberstufe
 - 
   link: >
-    http://db2.nibis.de/1db/cuvo/datei/sn_go_kc_druck_2018.pdf
-  name: Kerncurriculum Sek II
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/za2021/04SpanischHinweise2021.pdf
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/04SpanischHinweise2021NEU.pdf
   name: >
     Hinweise zur schriftlichen
     Abiturprüfung 2021
 - 
   link: >
-    https://nibis.de/uploads/1gohrgs/operatoren_2021/SN_2021Abi_Operatoren.pdf
-  name: Operatorenliste
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/SN_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
 - 
   link: >
-    https://nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf
+    https://www.nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf
   name: 'Sek II - Hinweise zur Bewertung der sprachlichen Leistung'
 - 
   link: >
-    https://nibis.de/uploads/1gohrgs/za2021/02_Skala_Bewertung_der_inhaltlichen_Leistung.pdf
+    https://www.nibis.de/uploads/1gohrgs/za2021/02_Skala_Bewertung_der_inhaltlichen_Leistung.pdf
   name: 'Sek II - Hinweise zur Bewertung der inhaltlichen Leistung'

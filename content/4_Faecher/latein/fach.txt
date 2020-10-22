@@ -181,29 +181,33 @@ Hintergrundbild:
 
 ----
 
-Fotoansicht: 
+Fotoansicht: carousel
 
 ----
 
 Sidebar:
 
 - 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/la_gym_si_kc_druck_2017.pdf
-  name: >
-    Kerncurriculum für die Jahrgänge 5 bis
-    10
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=196'
+  name: Kerncurriculum Gymnasium
 - 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/la_go_kc_druck_2018.pdf
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=131'
   name: >
     Kerncurriculum für die gymnasiale
-    Oberstufe des Fachs Latein (2018)
+    Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/05LateinHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/LA_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
 - 
   link: >
     https://www.navonline.de/index.php/latinums-und-graecumsvergabe
   name: Informationen zum Latinum
-- 
-  link: >
-    https://db2.nibis.de/1db/cuvo/datei/la_go_kc_druck_2018.pdf
-  name: Informationen zum Latinum (S. 27)

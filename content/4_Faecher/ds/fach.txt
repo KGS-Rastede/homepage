@@ -11,19 +11,19 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Seit 1980 wird an der KGS Theater gespielt, jedes Jahr mindestens eine Premiere. Daher war es konsequent, dass an der KGS seit 1999 Darstellendes Spiel als regul\u00e4res Unterrichtsfach angeboten wird. Zun\u00e4chst gabt es DS nur in der Oberstufe als Wahlfach neben Kunst und Musik, seit 2004 jedoch k\u00f6nnen Sch\u00fclerinnen und Sch\u00fcler DS auch in der Sekundarstufe I aus dem Profilfachangebot im Gymnasialzweig w\u00e4hlen.",
+        "content": "Seit 1980 wird an der KGS Theater gespielt, jedes Jahr mindestens eine Premiere. Daher war es konsequent, dass an der KGS seit 1999 Darstellendes Spiel als reguläres Unterrichtsfach angeboten wird. Zunächst gabt es DS nur in der Oberstufe als Wahlfach neben Kunst und Musik, seit 2004 jedoch können Schülerinnen und Schüler DS auch in der Sekundarstufe I aus dem Profilfachangebot im Gymnasialzweig wählen.",
         "id": "_DcTY67OuF",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Dazu wurden 5 Lehrkr\u00e4fte in mehreren Modulen berufsbegleitend ausgebildet und f\u00fcr den Einsatz in der Sekundarstufe I und II zertifiziert. Das Angebot in DS erg\u00e4nzt die musisch-kulturelle Grundbildung \u00fcber die F\u00e4cher Kunst und Musik durch die Erprobung theatraler M\u00f6glichkeiten. Diese erm\u00f6glichen in besonderer Weise die Reflexion vielf\u00e4ltiger und divergierender Sichtweisen durch das Spielen fremder oder eigener Gedankenwelten. Die Vergangenheit hat gezeigt, das DS besonders einen Beitrag zur Entwicklung \u00fcberfachlicher Kompetenzen liefern kann.",
+        "content": "Dazu wurden 5 Lehrkräfte in mehreren Modulen berufsbegleitend ausgebildet und für den Einsatz in der Sekundarstufe I und II zertifiziert. Das Angebot in DS ergänzt die musisch-kulturelle Grundbildung über die Fächer Kunst und Musik durch die Erprobung theatraler Möglichkeiten. Diese ermöglichen in besonderer Weise die Reflexion vielfältiger und divergierender Sichtweisen durch das Spielen fremder oder eigener Gedankenwelten. Die Vergangenheit hat gezeigt, das DS besonders einen Beitrag zur Entwicklung überfachlicher Kompetenzen liefern kann.",
         "id": "_Ttp3z0DTP",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Im Unterricht lernen Sch\u00fclerinnen und Sch\u00fcler Theater begreifen, Theater spielen, Theater reflektieren und an Theater teilhaben. Daher steht am Ende eines Unterrichtsjahres immer eine Auff\u00fchrung f\u00fcr die Schulgemeinschaft als Unterrichtsprojekt.",
+        "content": "Im Unterricht lernen Schülerinnen und Schüler Theater begreifen, Theater spielen, Theater reflektieren und an Theater teilhaben. Daher steht am Ende eines Unterrichtsjahres immer eine Aufführung für die Schulgemeinschaft als Unterrichtsprojekt.",
         "id": "_pKReDFBJf",
         "type": "paragraph"
     }
@@ -32,6 +32,14 @@ Text:
 ----
 
 Gallery: 
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
 
 ----
 
@@ -44,3 +52,11 @@ Hintergrundbild:
 ----
 
 Fotoansicht: gallery
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=searched_download&skey_lev0_0=Fach&svalue_lev0_0=Darstellendes+Spiel&skey_lev0_1=Dokumentenart&svalue_lev0_1=Kerncurriculum&&uploadnum=0'
+  name: Kerncurriculum gymnasiale Oberstufe

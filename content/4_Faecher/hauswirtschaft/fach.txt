@@ -17,43 +17,43 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Der Hauswirtschaftsunterricht in diesen Jahrg\u00e4ngen findet epochal halbj\u00e4hrlich statt. Die St\u00e4rke der Lerngruppen liegt bei etwa 16.",
+        "content": "Der Hauswirtschaftsunterricht in diesen Jahrgängen findet epochal halbjährlich statt. Die Stärke der Lerngruppen liegt bei etwa 16.",
         "id": "_atqGeXFEE",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Der Unterricht im Fach Hauswirtschaft liefert einen elementaren Bildungsbeitrag mit dem Ziel des Erwerbs von Ern\u00e4hrungs-, Gesundheits- und Konsumkompetenzen und nimmt somit einen engen Bezug zum Alltag der Sch\u00fclerinnen und Sch\u00fcler auf. Diese sollen einen schulischen Beitrag zu einer reflektierten, zunehmend selbstbestimmten, verantwortungsbewussten und gesunden Lebensgestaltung leisten, die auch vor dem Hintergrund einer ausgewogenen Work-Life-Balance einen wichtigen Beitrag f\u00fcr das weitere Leben leistet.",
+        "content": "Der Unterricht im Fach Hauswirtschaft liefert einen elementaren Bildungsbeitrag mit dem Ziel des Erwerbs von Ernährungs-, Gesundheits- und Konsumkompetenzen und nimmt somit einen engen Bezug zum Alltag der Schülerinnen und Schüler auf. Diese sollen einen schulischen Beitrag zu einer reflektierten, zunehmend selbstbestimmten, verantwortungsbewussten und gesunden Lebensgestaltung leisten, die auch vor dem Hintergrund einer ausgewogenen Work-Life-Balance einen wichtigen Beitrag für das weitere Leben leistet.",
         "id": "_5XmwE6VIC",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Mithilfe der Themenfelder <em>Lebensmittelzubereitung</em> sowie <em>Ern\u00e4hrung und Gesundheit</em> werden die Lerninhalte der Basismodule in den Jahrg\u00e4ngen 6 und 7 vermittelt und anhand sinnvoller Rezepte in Praxisbeispielen erprobt. Ein Grundlagenerwerb",
+        "content": "Mithilfe der Themenfelder <em>Lebensmittelzubereitung</em> sowie <em>Ernährung und Gesundheit</em> werden die Lerninhalte der Basismodule in den Jahrgängen 6 und 7 vermittelt und anhand sinnvoller Rezepte in Praxisbeispielen erprobt. Ein Grundlagenerwerb",
         "id": "_5GvF9ovDb",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "im Bereich der Gartechniken sowie der Verarbeitung von Lebensmitteln geh\u00f6rt selbstverst\u00e4ndlich dazu. Im Jahrgang 8 werden die erworbenen Alltagskompetenzen mit weiteren Themenfeldern erg\u00e4nzt und vertieft. Diese betreffen die Fachinhalte <em>Lebensmittelqualit\u00e4t und Konsumentscheidungen, Lebensstile und Essgewohnheiten, \u00d6konomie, \u00d6kologie und Soziales.</em>",
+        "content": "im Bereich der Gartechniken sowie der Verarbeitung von Lebensmitteln gehört selbstverständlich dazu. Im Jahrgang 8 werden die erworbenen Alltagskompetenzen mit weiteren Themenfeldern ergänzt und vertieft. Diese betreffen die Fachinhalte <em>Lebensmittelqualität und Konsumentscheidungen, Lebensstile und Essgewohnheiten, Ökonomie, Ökologie und Soziales.</em>",
         "id": "_UrfKR0Zxr",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Das Fach Hauswirtschaft kn\u00fcpft somit an die vielf\u00e4ltige Lebens- und Erfahrungswelt der Sch\u00fclerinnen und Sch\u00fcler an und bindet ebenfalls kulturelle Essgewohnheiten in den Unterricht ein.",
+        "content": "Das Fach Hauswirtschaft knüpft somit an die vielfältige Lebens- und Erfahrungswelt der Schülerinnen und Schüler an und bindet ebenfalls kulturelle Essgewohnheiten in den Unterricht ein.",
         "id": "_UFRwLzQgQ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Die im Unterricht vermittelten Kompetenzen leisten einen pr\u00e4ventiven gesellschaftlichen Beitrag zur Gesunderhaltung und Gesundheitsf\u00f6rderung des Einzelnen.",
+        "content": "Die im Unterricht vermittelten Kompetenzen leisten einen präventiven gesellschaftlichen Beitrag zur Gesunderhaltung und Gesundheitsförderung des Einzelnen.",
         "id": "_QoDIyKmVd",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Auch auf M\u00f6glichkeiten der Berufsorientierung im hauswirtschaftlichen Bereich wird eingegangen.",
+        "content": "Auch auf Möglichkeiten der Berufsorientierung im hauswirtschaftlichen Bereich wird eingegangen.",
         "id": "_1xTx9nJeX",
         "type": "paragraph"
     }
@@ -79,7 +79,9 @@ Haupttag: Hauswirtschaft
 
 ----
 
-Hintergrundbild: Faecher/hauswirtschaft/katie-smith-uqs1802d0cq-unsplash.jpg
+Hintergrundbild:
+
+- katie-smith-uqs1802d0cq-unsplash.jpg
 
 ----
 
@@ -87,4 +89,8 @@ Fotoansicht:
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=156'
+  name: Kerncurriculum Realschule

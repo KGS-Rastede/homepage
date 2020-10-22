@@ -343,26 +343,26 @@ Fotoansicht: carousel
 Sidebar:
 
 - 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/wn_go_kc_druck_2019.pdf
-  name: KC gymnasiale Oberstufe
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=223'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=123'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=129'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=207'
+  name: Kerncurriculum gymnasiale Oberstufe
 - 
   link: >
-    http://db2.nibis.de/1db/cuvo/datei/wn_gym_si_kc_druck_2017.pdf
-  name: KC SEK I GZ
-- 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/2018-06-25_wn_rs_si_kc_druckfassung.pdf
-  name: KC SEK I RZ
-- 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/2018-06-25_wn_hs_si_kc_druckfassung.pdf
-  name: KC SEK I HZ
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/25WerteNormenHinweise2021.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
 - 
   link: >
     https://www.nibis.de/uploads/1gohrgs/operatoren_2021/WN_2021Abi_Operatoren.pdf
-  name: Operatorenliste
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/za2021/25WerteNormenHinweise2021.pdf
-  name: Hinweise Abitur 2021
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021

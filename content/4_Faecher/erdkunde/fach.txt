@@ -11,7 +11,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Einige Zitate m\u00f6gen dies verdeutlichen:",
+        "content": "Einige Zitate mögen dies verdeutlichen:",
         "id": "_KcR1MfxPS",
         "type": "paragraph"
     },
@@ -23,7 +23,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<table class=\"MsoTableGrid\" border=\"1\" cellspacing=\"0\" cellpadding=\"0&#10;\">\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\" align=\"center\">Zitat<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\" align=\"center\">Unterrichtsinhalte<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">\u201eMailand oder Madrid, Hauptsache Italien.\u201c* (Andreas\n M\u00f6ller, Fu\u00dfballer)<o:p></o:p></p>\n <p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n <p class=\"MsoNormal\">F\u00e4higkeiten zur r\u00e4umlichen Orientierung<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">\u201eWohlt\u00e4tig ist des Feuers Macht, wenn sie der Mensch\n bez\u00e4hmt, bewacht [\u2026] Doch furchtbar wird die Himmelskraft, wenn sie der\n Fessel sich entrafft.\u201c (Friedrich Schiller: Das Lied von der Glocke)<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n <p class=\"MsoNormal\">Naturrisiken, Klimawandel, Energienutzung, Umweltschutz<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">\u201eNach Golde dr\u00e4ngt, am Golde h\u00e4ngt doch alles.\u201c <span&#10; lang=\"EN-GB\">(W. v. Goethe: Faust I)<o:p></o:p></span&#10;></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">Rohstoffe und Ressourcennutzung, globalisierte und\n arbeitsteilige Wirtschaft, Verkehr, Vernetzung, Verteilungsk\u00e4mpfe<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">\u201eHart im Raume sto\u00dfen sich die Sachen.\u201c (Fr. Schiller:\n Wallensteins Tod)<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">R\u00e4umliche Planung im Konflikt zwischen unterschiedlichen\n Nutzungsanspr\u00fcchen und im Spannungsfeld zwischen \u00d6konomie und \u00d6kologie, der\n Mensch als Gestalter des Raumes<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">\u201eWer z\u00e4hlt die V\u00f6lker, nennt die Namen?\u201c (Fr. Schiller:\n Die Kraniche des Ibykus)<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">Verteilung und Entwicklung der Weltbev\u00f6lkerung,\n Verst\u00e4dterung und Migration<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">\u201eDer kluge Mann baut vor.\u201c [Anmerk.: Und die kluge Frau\n nat\u00fcrlich auch!] (Fr. Schiller: Wilhelm Tell)<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">Verantwortungsbewusste Bewahrung der gegenw\u00e4rtigen und\n zuk\u00fcnftigen Welt, Vorsorge, Erde als komplexes System, Nachhaltigkeits- und\n Umweltbildung<o:p></o:p></p>\n </td>\n </tr>\n</table>",
+        "content": "<table class=\"MsoTableGrid\" border=\"1\" cellspacing=\"0\" cellpadding=\"0&#10;\">\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\" align=\"center\">Zitat<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\" align=\"center\">Unterrichtsinhalte<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">„Mailand oder Madrid, Hauptsache Italien.“* (Andreas\n Möller, Fußballer)<o:p></o:p></p>\n <p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n <p class=\"MsoNormal\">Fähigkeiten zur räumlichen Orientierung<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">„Wohltätig ist des Feuers Macht, wenn sie der Mensch\n bezähmt, bewacht […] Doch furchtbar wird die Himmelskraft, wenn sie der\n Fessel sich entrafft.“ (Friedrich Schiller: Das Lied von der Glocke)<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n <p class=\"MsoNormal\">Naturrisiken, Klimawandel, Energienutzung, Umweltschutz<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">„Nach Golde drängt, am Golde hängt doch alles.“ <span&#10; lang=\"EN-GB\">(W. v. Goethe: Faust I)<o:p></o:p></span&#10;></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">Rohstoffe und Ressourcennutzung, globalisierte und\n arbeitsteilige Wirtschaft, Verkehr, Vernetzung, Verteilungskämpfe<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">„Hart im Raume stoßen sich die Sachen.“ (Fr. Schiller:\n Wallensteins Tod)<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">Räumliche Planung im Konflikt zwischen unterschiedlichen\n Nutzungsansprüchen und im Spannungsfeld zwischen Ökonomie und Ökologie, der\n Mensch als Gestalter des Raumes<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">„Wer zählt die Völker, nennt die Namen?“ (Fr. Schiller:\n Die Kraniche des Ibykus)<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">Verteilung und Entwicklung der Weltbevölkerung,\n Verstädterung und Migration<o:p></o:p></p>\n </td>\n </tr>\n <tr>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">„Der kluge Mann baut vor.“ [Anmerk.: Und die kluge Frau\n natürlich auch!] (Fr. Schiller: Wilhelm Tell)<o:p></o:p></p>\n </td>\n <td width=\"307\" valign=\"top\">\n <p class=\"MsoNormal\">Verantwortungsbewusste Bewahrung der gegenwärtigen und\n zukünftigen Welt, Vorsorge, Erde als komplexes System, Nachhaltigkeits- und\n Umweltbildung<o:p></o:p></p>\n </td>\n </tr>\n</table>",
         "id": "_xLwTWVx3I",
         "type": "kirbytext"
     },
@@ -41,25 +41,25 @@ Text:
     },
     {
         "attrs": [],
-        "content": "W\u00e4hrend es im Klassenraum um das Benennen von Dingen, das \u00c4u\u00dfern von Vermutungen, das Erkl\u00e4ren von Zusammenh\u00e4ngen und das Bewerten von Sachverhalten geht, verbunden mit fachspezifischen Methoden, machen <strong>Exkursionen </strong>eine Hinwendung zur \u201eWelt da drau\u00dfen\u201c <strong>erfahrbar und begreifbar</strong>. Auch bietet das Fach Erdkunde Potenzial zum Aufbau einer umfassenden Medienkompetenz. Digitale Geoinformationen geh\u00f6ren zu unserer Lebenswirklichkeit, doch der Umgang mit ihnen und die kritische Reflexion muss erst erlernt werden. Somit ist das Fach Erdkunde auch zentral f\u00fcr die Bew\u00e4ltigung der Digitalisierung.",
+        "content": "Während es im Klassenraum um das Benennen von Dingen, das Äußern von Vermutungen, das Erklären von Zusammenhängen und das Bewerten von Sachverhalten geht, verbunden mit fachspezifischen Methoden, machen <strong>Exkursionen </strong>eine Hinwendung zur „Welt da draußen“ <strong>erfahrbar und begreifbar</strong>. Auch bietet das Fach Erdkunde Potenzial zum Aufbau einer umfassenden Medienkompetenz. Digitale Geoinformationen gehören zu unserer Lebenswirklichkeit, doch der Umgang mit ihnen und die kritische Reflexion muss erst erlernt werden. Somit ist das Fach Erdkunde auch zentral für die Bewältigung der Digitalisierung.",
         "id": "_DeXTdzTWG",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Dar\u00fcber hinaus bietet unser Fach zahlreiche M\u00f6glichkeiten hochaktuelle Themen, die die \u00d6ffentlichkeit bewegen zu vertiefen, damit z.B. Klimawandel, Plastikverm\u00fcllung des \u00d6kosystems Ozean, Migration keine abstrakten Schlagworte bleiben. Wie kaum ein anderes Schulfach sind Nachhaltigkeitsgedanken in allen Jahrgangsstufen verankert. Auch legen wir gro\u00dfen Wert auf F\u00e4cher verkn\u00fcpfenden Unterricht, was in der Sekundarstufe I im gesellschaftswissenschaftlichen F\u00e4cherkanon gew\u00e4hrleistet wird und in Jahrgang 11 im Wahlpflichtbereich nutzen wir Synergien mit dem Fach Chemie, was aktuell unter dem Thema:",
+        "content": "Darüber hinaus bietet unser Fach zahlreiche Möglichkeiten hochaktuelle Themen, die die Öffentlichkeit bewegen zu vertiefen, damit z.B. Klimawandel, Plastikvermüllung des Ökosystems Ozean, Migration keine abstrakten Schlagworte bleiben. Wie kaum ein anderes Schulfach sind Nachhaltigkeitsgedanken in allen Jahrgangsstufen verankert. Auch legen wir großen Wert auf Fächer verknüpfenden Unterricht, was in der Sekundarstufe I im gesellschaftswissenschaftlichen Fächerkanon gewährleistet wird und in Jahrgang 11 im Wahlpflichtbereich nutzen wir Synergien mit dem Fach Chemie, was aktuell unter dem Thema:",
         "id": "_ii3VPwvDx",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Mobilit\u00e4t der Zukunft",
+        "content": "Mobilität der Zukunft",
         "id": "_5W8vThS7x",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "- smart cities geschieht. In der Qualifikationsstufe wird von zahlreichen Sch\u00fcler*innen die M\u00f6glichkeit genutzt das Fach Erdkunde als f\u00fcnfst\u00fcndigen Schwerpunktkurs (Kurs auf erh\u00f6htem Anforderungsniveau) zu belegen. Auch Seminarf\u00e4cher bedienen sich immer wieder bei der Themenwahl an erdkundlichen Inhalten, woraus sich geographisch gepr\u00e4gte Facharbeitsthemen mit Aktualit\u00e4tsbezug und Zukunftsrelevanz ergeben, was oftmals auch den Reiz ausmacht.",
+        "content": "- smart cities geschieht. In der Qualifikationsstufe wird von zahlreichen Schüler*innen die Möglichkeit genutzt das Fach Erdkunde als fünfstündigen Schwerpunktkurs (Kurs auf erhöhtem Anforderungsniveau) zu belegen. Auch Seminarfächer bedienen sich immer wieder bei der Themenwahl an erdkundlichen Inhalten, woraus sich geographisch geprägte Facharbeitsthemen mit Aktualitätsbezug und Zukunftsrelevanz ergeben, was oftmals auch den Reiz ausmacht.",
         "id": "_09ZfkBMEN",
         "type": "paragraph"
     },
@@ -71,7 +71,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Die Erdkunde begreift unseren Planeten als System und <strong>Lebenswelt</strong>, die es als lebenswert zu erhalten gilt. Somit ist <strong>Erdkunde </strong>ein zeitgem\u00e4\u00dfes und notwendiges <strong>Fach des 21. Jahrhunderts</strong>.",
+        "content": "Die Erdkunde begreift unseren Planeten als System und <strong>Lebenswelt</strong>, die es als lebenswert zu erhalten gilt. Somit ist <strong>Erdkunde </strong>ein zeitgemäßes und notwendiges <strong>Fach des 21. Jahrhunderts</strong>.",
         "id": "_4aHkNWnEq",
         "type": "paragraph"
     },
@@ -115,4 +115,29 @@ Fotoansicht: gallery
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=83'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=114'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=61'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=124'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/09ErdkundeHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/EK-GE-PW-WL_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021

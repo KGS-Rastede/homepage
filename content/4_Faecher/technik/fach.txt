@@ -11,7 +11,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Ganz so weit wie einst Archimedes gehen die Curricularen Vorgaben f\u00fcr das Fach Technik nicht. \"Das Fach Technik vermittelt den Sch\u00fclerinnen und Sch\u00fclern Erkenntnisse \u00fcber Hilfsmittel zur Gestaltung und Umgestaltung der gegebenen Lebenswelt und bietet Raum zur \u00dcbung und Anwendung der entsprechenden Mittel.\" Diese Gestaltung und Umgestaltung der Lebenswelt ist aktueller denn je, der technologische Wandel betrifft uns alle und wirkt in fast alle Lebensbereiche hinein.",
+        "content": "Ganz so weit wie einst Archimedes gehen die Curricularen Vorgaben für das Fach Technik nicht. \"Das Fach Technik vermittelt den Schülerinnen und Schülern Erkenntnisse über Hilfsmittel zur Gestaltung und Umgestaltung der gegebenen Lebenswelt und bietet Raum zur Übung und Anwendung der entsprechenden Mittel.\" Diese Gestaltung und Umgestaltung der Lebenswelt ist aktueller denn je, der technologische Wandel betrifft uns alle und wirkt in fast alle Lebensbereiche hinein.",
         "id": "_ylgsl825s",
         "type": "paragraph"
     },
@@ -53,7 +53,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "abgedeckt. Eine Besonderheit ist die Sch\u00fclerfirma \"Holz und Mehr\" im neunten Jahrgang. Hieran schlie\u00dft sich in Klasse 10 der Profilkurs Technik an.",
+        "content": "abgedeckt. Eine Besonderheit ist die Schülerfirma \"Holz und Mehr\" im neunten Jahrgang. Hieran schließt sich in Klasse 10 der Profilkurs Technik an.",
         "id": "_yeph77hm7",
         "type": "paragraph"
     },
@@ -102,7 +102,9 @@ Haupttag: Technik
 
 ----
 
-Hintergrundbild: Faecher/technik/dsc_0148.jpg
+Hintergrundbild:
+
+- dsc_0148.jpg
 
 ----
 
@@ -110,4 +112,8 @@ Fotoansicht: carousel
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=154'
+  name: Kerncurriculum Realschule

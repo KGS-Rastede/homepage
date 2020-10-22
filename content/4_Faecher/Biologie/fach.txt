@@ -113,13 +113,29 @@ Fotoansicht: carousel
 Sidebar:
 
 - 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
-  name: Operatorenliste Oberstufe
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=67'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=71'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=18'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=20'
+  name: Kerncurriculum gymnasiale Oberstufe
 - 
   link: >
-    https://db2.nibis.de/1db/cuvo/datei/bi_go_kc_druck_2017.pdf
-  name: Biologie Oberstufe
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/15BiologieHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
 
 ----
 

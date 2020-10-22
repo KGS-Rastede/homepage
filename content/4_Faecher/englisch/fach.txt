@@ -167,21 +167,28 @@ Fotoansicht: carousel
 Sidebar:
 
 - 
-  link: >
-    https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gesamtschule/gesamtschule-6424.html
-  name: 'RdErl. d. MK v. 3.8.2015 – 34 – 81072 - VORIS 22410 -'
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=15'
+  name: Kerncurriculum für die Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=69'
+  name: Kerncurriculum für die Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=139'
+  name: Kerncurriculum für das Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=77'
+  name: Kerncurriculum gymnasiale Oberstufe
 - 
   link: >
-    http://db2.nibis.de/1db/cuvo/ausgabe/index.php?mat1=16
-  name: Kerncurriculum Niedersachsen KGS
-- 
-  link: https://nibis.de/startseite_1
-  name: Niedersächsischer Bildungsserver
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/za2021/02EnglischHinweise2021.pdf
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/02EnglischHinweise2021NEU.pdf
   name: >
     Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/EN_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
     Abiturprüfung 2021
 - 
   link: >
@@ -190,27 +197,11 @@ Sidebar:
 - 
   link: >
     https://www.nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf
-  name: >
-    Hinweise zur Bewertung der sprachlichen
-    Leistung
+  name: 'Sek - II Hinweise zur Bewertung der sprachlichen Leistung'
 - 
   link: >
     https://www.nibis.de/uploads/1gohrgs/za2019/2017_Erlass_ZA_Bewertung_FS.pdf
-  name: >
-    Hinweise zur Bewertung der schriftlichen
-    Leistung
-- 
-  link: >
-    https://db2.nibis.de/1db/cuvo/datei/en_gym_si_kc_online.pdf
-  name: Kerncurriculum für das Gymnasium
-- 
-  link: >
-    https://db2.nibis.de/1db/cuvo/datei/kc_englisch_rs.pdf
-  name: Kerncurriculum für die Realschule
-- 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/kc_englisch_hs.pdf
-  name: Kerncurriculum für die Hauptschule
+  name: 'Sek - II Hinweise zur Bewertung der schriftlichen Leistung'
 - 
   link: https://www.britishcouncil.de/
   name: British Council Deutschand

@@ -123,4 +123,8 @@ Fotoansicht: gallery
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: ""
+  name: Hier fehlen noch Kerncurricula

@@ -1,4 +1,4 @@
-Title: Werken
+Title: Gestaltendes Werken
 
 ----
 
@@ -34,4 +34,8 @@ Fotoansicht:
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=38'
+  name: Kerncurriculum Hauptschule

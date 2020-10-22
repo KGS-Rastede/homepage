@@ -277,13 +277,29 @@ Fotoansicht: gallery
 Sidebar:
 
 - 
-  link: >
-    http://db2.nibis.de/1db/cuvo/datei/ku_igs_si_kc_2016_neu.pdf
-  name: Kerncurriculum Gesamtschule 5-10 Kunst
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=39'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=42'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=138'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=103'
+  name: Kerncurriculum gymnasiale Oberstufe
 - 
   link: >
-    http://db2.nibis.de/1db/cuvo/datei/ku_go_kc_druck_23_05_16.pdf
-  name: Kerncurriculum Oberstufe Kunst
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/07KunstHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/KU_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
 - 
   link: https://kumu20.de/
   name: Kumu20
