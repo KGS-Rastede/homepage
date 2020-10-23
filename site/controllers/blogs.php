@@ -5,7 +5,9 @@ return function($page) {
   // fetch the basic set of pages
   $articles = $page->children()->listed()->flip();
 
-  // fetch all tags
+  // das dritte Argument hier (also das 'true') bewirkt,
+  // dass nur einzigartige Tags zurückgegeben werden. Sonst hätte man
+  // etliche Tags doppelt und zehnfach
   $tags = $articles->pluck('tags', ',', true);
 
   // add the tag filter
