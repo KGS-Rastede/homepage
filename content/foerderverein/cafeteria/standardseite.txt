@@ -1,0 +1,65 @@
+title: Förderverein: Cafeteria
+
+----
+
+Heading: „Was lange währt, wird endlich gut“
+
+----
+
+Text:
+
+## Helferinnen und Helfer für die Cafeteria gesucht
+
+Am 6.11.96 wurde die neue Cafeteria offiziell durch den Bürgermeister Dieter Decker eröffnet und der Schule übergeben. Seit Montag, den 11. Nov. läuft der Vormittagsbetrieb und seit dem 25. Nov. auch die Ausgabe von warmen Mittagsmahlzeiten.
+
+(image: cafete1.jpg class: float-right)
+
+Wer sich einmal die Zeit nimmt, während der Vormittagsstunden der Schule einen kurzen Besuch abzustatten, der wird feststellen, dass die Schüler den neuen Raum und das neue Speisenangebot sehr gut angenommen haben. Man fragt sich, wie man eigentlich so lange ohne diesen schönen Raum auskommen konnte. Es liegt auf der Hand, dass er eine große Bereicherung für die Schule darstellt.
+
+Der Betrieb wird durch zwei Lehrerinnen und das Sekretariat logistisch vorbereitet und von ehrenamtlich tätigen Müttern durchgeführt. Es werden dringend noch Eltern gesucht, die zur Mitarbeit bereit sind. Zur Zeit wird kann der Betrieb nur dadurch aufrechterhalten werden, dass eine Reihe von Müttern jede Woche einen Vormittag arbeitet, anstatt wie vorgesehen nur vierzehntägig.
+
+Um eventuellen Interessenten die Scheu vor der fremden Situation zu nehmen, hier eine kurze Beschreibung der anstehenden Arbeiten:
+
+Um acht Uhr trifft sich das jeweilige Team in der Cafeteria. Schlüssel und vorbereitete Wechselgeldkassetten werden aus dem Sekretariat geholt. Kurz danach werden verschiedene Brötchensorten, fertig belegte Brötchen, Wurst, Käse, Quark, Möhren und Äpfel angeliefert. Frischmilchprodukte werden schon frühmorgens geliefert und vom Hausmeister in den Kühlschrank gestellt.
+
+Nun wird die Spülmaschine eingeschaltet, da sie eine Vorheizzeit braucht. Dann werden Kaffee, schwarzer Tee, Früchte- und Kräutertee zubereitet, Quarkspeisen angerührt, Brötchen belegt, d.h. sie werden mit Butter bestrichen, mit einer Scheibe Mettwurst, Kochschinken oder Käse belegt und zugeklappt. Kurz vor der Pause werden die Arbeitsgeräte weggeräumt und statt dessen Yoghurt, Milch, Kakao, gewaschene Möhren und Äpfel auf die Tische in der Mitte des Verkaufsraumes gestellt.
+
+An jedem der drei Ausgabefenster steht ein Tablett mit den belegten Brötchen und eine Geldkassette. Auch Saft- und Wasserflaschen stehen in greifbarer Nähe. Die Mütter verteilen sich auf die drei Ausgaben und verkaufen die Speisen und Getränke an die Schüler. Heiße Getränke werden nur in die Cafeteria hinein ausgegeben.
+
+(image: cafete2.jpg class: float-left)
+
+Die Preise sind so einfach gestaltet, dass man sie spätestens nach einem Vormittag im Kopf hat, außerdem hängen sie an jeder Ausgabe aus. Nach der Pause werden die beiden Ausgaben zum Forum geschlossen, die Milchprodukte wieder in den Kühlschrank gestellt, weitere Brötchen belegt, Tee gekocht und die Spülmaschine mit den Teebechern gefüllt. Diese werden inzwischen gegen Pfand ausgegeben, da zu viele Becher nicht zurückgegeben wurden. Die beschriebenen Vorgänge wiederholen sich in jeder Pause.
+
+Nach der vierten Pause werden alle Ausgaben geschlossen, der Verkaufsraum aufgeräumt, die Wärmebehälter für das Mittagessen mit Wasser gefüllt und angeschaltet, die Spülmaschine abgeschaltet, gebrauchte Geschirrtücher und eventuell Leergut ins Lager und die Kassen und Schlüssel ins Sekretariat gebracht. Gegen 12.15 Uhr geht man nach Hause.
+
+Etwa um 13.00 Uhr erscheint die Mittagsgruppe. Sie nimmt das heiß angelieferte Essen entgegen, stellt es in die Wärmevorrichtung und gibt die Portionen in der Pause nach der sechsten Unterrichtsstunde um 13.30 Uhr gegen Essenmarken aus. Auch Tee und Kaffee sowie eventuell vom Vormittag übriggebliebene Brötchen werden verkauft. Mit dem Spülen des Geschirrs und dem Aufräumen des Verkaufsraumes endet der Dienst gegen 14.30 Uhr.
+
+Das etwa 50-köpfige Cafeteria-Team freut sich über jeden weiteren Mitarbeiter, denn die Belastung für den Einzelnen wird dadurch immer geringer. Auch Väter, die vormittags Zeit haben, sind angesprochen. Nur keine Angst, wir sind alle freundliche Leute und die Arbeit ist leicht und macht Spaß, besonders wenn man sich in der Gruppe erst kennen gelernt hat. Wer jetzt schon überzeugt ist, dass er mitmachen möchte, kann sich telefonisch oder persönlich im Sekretariat melden oder dieses Kontaktformular.
+
+----
+
+Sidebar:
+
+- Link: /foerderverein/ueber_uns
+  Name: Über uns
+- Link: /foerderverein/aktuelles
+  Name: Aktuelles
+- Link: /foerderverein/mitmachen
+  Name: Mitmachen
+- Link: /foerderverein/cafeteria
+  Name: Cafeteria
+- Link: /foerderverein/spenden
+  Name: Spenden
+- Link: /foerderverein/satzung
+  Name: Satzung
+- Link: /foerderverein/kontakt
+  Name: Kontakt
+
+----
+
+Sidetitel: Förderverein der KGS Rastede e.V.
+
+----
+
+Sidetoggle: true
+

@@ -6,7 +6,7 @@ return [
     // Damit auf einem oeffentlichen Server das Panel ueberhaupt geht...
     'panel' => ['install' => true],
 
-    // Damit bei Fehlern der Debugger angeht  
+    // Damit bei Fehlern der Debugger angeht
     'debug'  => true,
 
     // automatische URLs folgen der deuschen Sprache
@@ -16,7 +16,7 @@ return [
     'medienbaecker.autoresize.maxWidth' => 1000,
 
     // Anpassungen des Panels
-    // Anleitung siehe hier: 
+    // Anleitung siehe hier:
     //    https://getkirby.com/docs/cookbook/panel/customizing-panel
     'panel' => [
         'css' => 'assets/css/custom-panel.css'
@@ -40,5 +40,9 @@ return [
                 'password' => '...'
             ]
         ]
-    ]
+    ],
+
+    'markdown' => [
+        'extra' => true,
+    ],
 ];

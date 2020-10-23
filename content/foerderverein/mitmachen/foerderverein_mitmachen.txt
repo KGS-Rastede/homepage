@@ -1,0 +1,47 @@
+Title: Förderverein: Mitmachen
+
+----
+
+Text:
+
+Mit nur 1,50€ pro Monat können Sie dabei sein. Treten Sie jetzt ein!
+
+Und so geht's:
+
+1. Einfach die untenstehenden Felder ausfüllen.
+2. Anschließend die Beitrittserklärung ausdrucken.
+3. Danach brauchen Sie diese nur noch zu unterschreiben und an folgende Adresse zu versenden:
+
+Förderverein der KGS Rastede e.V.
+Wilhelmstr. 5
+26180 Rastede
+
+Ihre Daten werden selbstverständlich nicht im Internet gespeichert!
+
+----
+
+Sidebar:
+
+- Link: /foerderverein/ueber_uns
+  Name: Über uns
+- Link: /foerderverein/aktuelles
+  Name: Aktuelles
+- Link: /foerderverein/mitmachen
+  Name: Mitmachen
+- Link: /foerderverein/cafeteria
+  Name: Cafeteria
+- Link: /foerderverein/spenden
+  Name: Spenden
+- Link: /foerderverein/satzung
+  Name: Satzung
+- Link: /foerderverein/kontakt
+  Name: Kontakt
+
+----
+
+Sidetitel: Förderverein der KGS Rastede e.V.
+
+----
+
+Sidetoggle: true
+

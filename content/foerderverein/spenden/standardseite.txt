@@ -1,0 +1,97 @@
+Title: Förderverein: Spenden
+
+----
+
+Text:
+
+## 2018
+
+| Spender*in                                           | Betrag       |
+| ---------------------------------------------------- | ------------:|
+| L & W (Best Western) Hotel Ol. Für T-shirts Robo-AG  | **548,92 €** |
+| Fa. Ralf Hots (für Abiball)                          |  **60,00 €** |
+| Karsten Schultze (Schultze-Mühlenfeld / für Abiball) | **100,00 €** |
+| Fa. Eckel GmbH (Klassenfahrt 7A1)                    | **168,00 €** |
+| Fa. Eckel GmbH (AG für den Frieden)                  | **300,00 €** |
+
+## 2017
+
+| Spender*in                                  | Betrag         |
+| ------------------------------------------- | --------------:|
+| Anonym                                      |   **300,00 €** |
+| Brötje Automation (für ROBOT AG)            |   **900,00 €** |
+| Spende Cafeteria aus Erlösen                | **5.000,00 €** |
+| Spende SER                                  |   **120,00 €** |
+| Autohaus Horstmann (für Skifreizeit 2018)   |   **100,00 €** |
+| August Brötje Handel (für Skifreizeit 2018) |   **100,00 €** |
+| Spende LIONSCLUB für Musik                  | **1.000,00 €** |
+
+## 2015
+
+| Spender*in                  | Betrag    |
+| --------------------------- | ---------:|
+| Raiffeisenbank Rastede e.V. | **350 €** |
+| KiJuRa                      | **319 €** |
+| Sandra Luks-Otholt          |  **80 €** |
+| Christian Reuver            | **100 €** |
+
+## 2014
+
+| Spender*in             | Betrag    |
+| ---------------------- | ---------:|
+| Lauftreff Rastede e.V. | **750 €** |
+
+## 2013
+
+| Spender*in                     | Betrag      |
+| ------------------------------ | -----------:|
+| Rügenwalder Mühle              | **2.500 €** |
+| Neuapostolische Kirche Rastede |   **400 €** |
+| Raiffeisenbank Rastede eG      | **1.000 €** |
+| ABI-Jahrgang 2012              | **3.577 €** |
+
+## 2012
+
+| Spender*in      | Betrag     |
+| --------------- | ----------:|
+| Uni Datum Print | **3200 €** |
+
+## 2011
+
+| Spender*in                   | Betrag      |
+| ---------------------------- | -----------:|
+| VIEROL Aktiengesellschaft    |   **500 €** |
+| Landessparkasse zu Oldenburg | **2.000 €** |
+| Landessparkasse zu Oldenburg |   **225 €** |
+
+___
+
+Sie möchten auch hier auftauchen? Dann setzen Sie sich doch einfach mit uns in Verbindung und spenden!
+
+----
+
+Sidebar:
+
+- Link: /foerderverein/ueber_uns
+  Name: Über uns
+- Link: /foerderverein/aktuelles
+  Name: Aktuelles
+- Link: /foerderverein/mitmachen
+  Name: Mitmachen
+- Link: /foerderverein/cafeteria
+  Name: Cafeteria
+- Link: /foerderverein/spenden
+  Name: Spenden
+- Link: /foerderverein/satzung
+  Name: Satzung
+- Link: /foerderverein/kontakt
+  Name: Kontakt
+
+----
+
+Sidetitel: Förderverein der KGS Rastede e.V.
+
+----
+
+Sidetoggle: true
+

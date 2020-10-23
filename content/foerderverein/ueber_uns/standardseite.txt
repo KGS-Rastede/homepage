@@ -1,0 +1,65 @@
+Title: Über den Förderverein der KGS Rastede e.V.
+
+----
+
+Heading: Helfen? Unterstützen? Fördern? Mitmachen!
+
+----
+
+Text:
+
+## Über Uns
+
+Ihr Kind soll sich in der Schule **wohl fühlen**. Dazu gehören u.a. ein warmes Mittagessen, die Nutzung von Computern und natürlich auch die finanzielle Unterstützung von Klassenfahrten und der angebotenen AGs. All dies ist durch den seit über zwei Jahrzehnten existierenden **Förderverein der KGS Rastede** gegeben und trägt zu einem angenehmen Schulalltag **ihres Kindes** bei.
+
+___
+
+Um die KGS Rastede bei der Erziehungs- und Bildungsaufgaben zu unterstützen, greift der Förderverein immer dort helfend ein, wo schulische Mittel nicht ausreichen:
+
+- Beschaffung von Lehr- und Lernmitteln
+- Unterstützung von bedürftigen SchülerInnen
+- Stiftung von Preisen und Auszeichnungen
+- Finanzierung von Schülerfirmenvorhaben
+- Hilfe bei der Finanzierung von Schulveranstaltungen
+
+___
+
+Ihr Engagement kann helfen, Projekte in der KGS zu fördern, Projekte, die das Schulleben bereichern. Ein reiches Schulleben fördert die Gemeinschaft. Und in der Gemeinschaft fühlt man sich wohl.
+
+Mit nur **1,50 Euro im Monat** können Sie unsere Arbeit unterstützen!
+
+***Machen Sie jetzt mit!***
+
+___
+
+### Der Vorstand des Fördervereins
+
+Petra Abels (Kassenführerin), Fritz Sundermann (Schriftführer), Maren Hauken (Vertreter SER), Yvonne Hennemann (2. Vorsitzende), Bernd Wüstenbecker (1. Vorsitzender).
+
+----
+
+Sidebar:
+
+- Link: /foerderverein/ueber_uns
+  Name: Über uns
+- Link: /foerderverein/aktuelles
+  Name: Aktuelles
+- Link: /foerderverein/mitmachen
+  Name: Mitmachen
+- Link: /foerderverein/cafeteria
+  Name: Cafeteria
+- Link: /foerderverein/spenden
+  Name: Spenden
+- Link: /foerderverein/satzung
+  Name: Satzung
+- Link: /foerderverein/kontakt
+  Name: Kontakt
+
+----
+
+Sidetitel: Förderverein der KGS Rastede e.V.
+
+----
+
+Sidetoggle: true
+
