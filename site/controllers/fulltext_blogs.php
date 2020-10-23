@@ -9,7 +9,7 @@ return function($page) {
   $articles   = $articles->paginate(5);
   $pagination = $articles->pagination();
 
-  return compact('articles', 'tags', 'tag', 'pagination');
+  return compact('articles', 'pagination');
 
 };
 
