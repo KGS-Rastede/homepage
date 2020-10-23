@@ -14,7 +14,7 @@
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+    <ul class="navbar-nav ml-auto mb-2 mr-3 mb-lg-0 ">
       <li class="dropdown nav-item">
         <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
           Kontakt

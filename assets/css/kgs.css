@@ -269,6 +269,89 @@ footer {
   background: #ff6b6b;
 }
 
+/*==================================
+    Hompage-Startseite
+==================================*/
+.svginvert {
+  filter: invert(100%);
+}
+
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("kgs-bg.jpg");
+  /* Set a specific height */
+  height: 75%;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: justify;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.ConBoxL {
+  position: absolute;
+  width: 20%;
+  top: 75%;
+  left: 55%;
+}
+
+.ConBoxR {
+  position: absolute;
+  width: 20%;
+  top: 75%;
+  left: 79%;
+  justify-content: center;
+}
+
+.hovereffekt {
+  background: #0e5499;
+  transition: all 0.3s ease-out;
+}
+
+.imagez {
+  opacity: 1;
+  width: 100%;
+  height: auto;
+  transition: 0.5s ease;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+.setText {
+  text-align: center;
+  transform: translate(0, -200%);
+  color: #ffffff;
+  overflow-y: hidden;
+}
+
+.hovereffekt:hover .imagez {
+  opacity: 0.3;
+}
+
+.hovereffekt:hover .imagez {
+  opacity: 0.3;
+}
+
+.middle {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+}
+
 /* -------end customization-------- */
 /* finally, import Bootstrap to set the changes! */
 /*!
@@ -10565,4 +10648,3 @@ progress {
     display: none !important;
   }
 }
-/*# sourceMappingURL=kgs.css.map */
