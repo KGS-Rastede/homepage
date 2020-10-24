@@ -1,0 +1,24 @@
+title: "Blogartikel-Anzeige im Volltext"
+icon: 📔
+
+options:
+  update:
+    *: false
+    foerderverein: true
+    admin: true
+
+sections:
+  drafts:
+    headline: noch nicht öffentlich
+    type: pages
+    status: draft
+    templates: blog
+    sortBy: date desc
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}"
+  published:
+    headline: öffentlich einsehbar
+    type: pages
+    status: listed
+    templates: blog
+    sortBy: date desc
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}"
