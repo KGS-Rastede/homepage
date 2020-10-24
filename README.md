@@ -45,10 +45,10 @@ Kein Problem! Wir können uns entweder mal (z.B. in einer Mittagspause) treffen 
 * Unter Linux verwende ich schon immer [Vim](https://www.vim.org/), ein besserer Editor kann kaum existieren :-)
 * Atom (https://atom.io/) ist auch super, technisch VS Code sehr ähnlich
 * Zurecht schwören viele auf Sublime (https://www.sublimetext.com/
-* Notepad++ ist ein einfacher zubeherschender Editor, der auf jeden Fall auch ok ist. https://notepad-plus-plus.org/ 
+* Notepad++ ist ein einfacher zu beherschender Editor, der auf jeden Fall auch ok ist. https://notepad-plus-plus.org/ 
 
 ### Quellcode verwalten
-Um den Quellcode zuverwalten braucht man [Git](https://git-scm.com/). Das kann man einfach installieren, Visual Code kann das dann direkt benutzen. Man (jedenfalls ich) benutzt Git direkt aus VS Code heraus. Auch andere sehr gute Editoren (Vim, Sublime, Atom, ...) unterstüzten Git direkt, denn Git ist de fakto ein Standard geworden. Jeder benutzt es.
+Um den Quellcode zu verwalten braucht man [Git](https://git-scm.com/). Das kann man einfach installieren, Visual Code kann das dann direkt benutzen. Man (jedenfalls ich) benutzt Git direkt aus VS Code heraus. Auch andere sehr gute Editoren (Vim, Sublime, Atom, ...) unterstüzten Git direkt, denn Git ist de fakto ein Standard geworden. Jeder benutzt es.
 
 # WebServer (Kurzfassung: Unter Windows WAMP installieren!)
 Nginx ist heutzutage von vielen bevorzugt. Apache ist natürlich genauso gut. Wir brauchen *keinen MySQL-Server* (oder irgendeinen anderen Datenbankserver), denn Kirby nutzt intern kein SQL.
