@@ -38,10 +38,13 @@ fields:
       datum:
         label: Datum
         type: date
-      zeitung:
+      medium:
         label: Medium
         type: select
+        required: true
         options:
           nwz: NWZ
           rastederrundschau: Rasteder Rundschau
           youtube: YouTube
+          gemeinde: Gemeinde Rastede
+          sonstiges: Sonstige Medien

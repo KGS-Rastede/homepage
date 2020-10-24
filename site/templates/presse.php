@@ -22,12 +22,16 @@
     foreach ($list as $item) : ?>
 
       <?php
-      if ($item->zeitung() == "nwz") {
+      if ($item->medium() == "nwz") {
         $quelle = "Nordwest Zeitung";
-      } elseif ($item->zeitung() == "youtube") {
+      } elseif ($item->medium() == "youtube") {
         $quelle = "YouTube";
-      } else {
+      } elseif ($item->medium() == "rastederrundschau") {
         $quelle = "Rasteder Rundschau";
+      } elseif ($item->medium() == "gemeinde") {
+        $quelle = "Gemeinde Rastede";
+      } else {
+        $quelle = "";
       }
       ?>
 
