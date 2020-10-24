@@ -6,6 +6,19 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-mehr-als-100000-euro-fuer-mobile-geraete-tablets-und-laptops-fuer-rasteder-schueler_a_50,10,1490788104.html
+  name: >
+    Tablets und Laptops für Rasteder
+    Schüler
+  anfang: >
+    Rasteder Schüler sollen jetzt
+    verstärkt mit Laptops ausgestattet
+    werden. Das wurde in der jüngsten
+    Ratssitzung mitgeteilt.
+  datum: 2020-10-12
+  zeitung: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-rasteder-projektgruppe-feiert-erfolg-laufend-frisches-trinkwasser-an-der-kgs_a_50,10,1492316253.html
   name: Laufend frisches Trinkwasser an der KGS
   anfang: >
