@@ -2,7 +2,7 @@ Anzeigename: Gebäudeplan
 
 ----
 
-Startseite: true
+Startseite: false
 
 ----
 

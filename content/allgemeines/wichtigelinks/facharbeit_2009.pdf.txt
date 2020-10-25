@@ -2,7 +2,7 @@ Anzeigename: Informationen zur Facharbeit
 
 ----
 
-Startseite: true
+Startseite: false
 
 ----
 

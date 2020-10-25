@@ -1,0 +1,9 @@
+Anzeigename: Ministerbrief an die Schülerinnen und Schüler
+
+----
+
+Startseite: true
+
+----
+
+Template: pdfs
