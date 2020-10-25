@@ -11,12 +11,6 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Schulbusverkehr",
-        "id": "_pTGrEHlNz",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
         "content": "Kontakt",
         "id": "_E65HiW0XM",
         "type": "h3"
