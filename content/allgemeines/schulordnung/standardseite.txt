@@ -1,3 +1,43 @@
 Title: Schulordnung
+
 ----
-Text: Hier fehlt  noch  Inhalt
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Hier steht die Schulordnung als Download zur Verfügung.",
+        "id": "_2dpm4q15q",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Related: 
+
+----
+
+Downloads: 
+
+----
+
+Toggle: true
+
+----
+
+Sidetitel: Downloads
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://www.kgs-rastede.de/index.php/informationen/downloads/informationen-1/41-schulordnung/file
+  name: Schulordnung
