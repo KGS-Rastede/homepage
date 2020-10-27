@@ -82,7 +82,9 @@
           ->flip() as $subpage) : ?>
 
 
-          <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')) : ?>
+          <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')//noch aktuell? 
+            && in_array("Topartikel", $subpage->tags()->split()) == false) : //kein Topartikel?>
+
             <?php
             snippet('blogkarte', ['subpage' => $subpage]);
             ?>
