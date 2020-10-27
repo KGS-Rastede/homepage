@@ -43,33 +43,6 @@
 
 <?php endif ?>
 
-<?php if (page('blogs')->children()->listed()
-  ->filterBy('immer_sichtbar', true)
-  ->filterBy('tags', $page->haupttag(), ',')->isNotEmpty()) : ?>
-
-  <!-- Die Inhalte, die immer sichtbar sein sollen, sollen über den Blogs stehen  -->
-  <h2>Aktuell im Fokus</h2>
-
-  <div class="container ml-auto mr-auto">
-
-    <?php
-    foreach (page('blogs')
-      ->children()
-      ->listed()
-      ->filterBy('immer_sichtbar', true)
-      ->filterBy('tags', $page->haupttag(), ',')
-      ->flip() as $subpage) :
-
-      snippet('blogkarte', ['subpage' => $subpage]);
-    ?>
-
-
-    <?php endforeach ?>
-
-
-  </div>
-<?php endif ?>
-
 
 <?php if (page('blogs')->children()->listed()->filterBy('tags', $page->haupttag(), ',')->isNotEmpty()) : ?>
 
