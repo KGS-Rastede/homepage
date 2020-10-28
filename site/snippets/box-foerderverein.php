@@ -1,3 +1,4 @@
+<!-- wird nicht mehr benötigt -->
 <div class="card">
     <div class="card-body">
         <h4 class="card-category"></h4>
