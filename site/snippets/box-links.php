@@ -2,7 +2,7 @@
 !!Beide arrays müssen gleich lang sein!! */
 $links_bilder = array('https://thalia.webuntis.com/WebUntis/?school=kgs-rastede' => 'webuntis.svg',
 'https://www.schuelerzeitung.kgs-rastede.de/' => 'irregulaer.png',
-'https://kgs-rastede.schulserver.de' => 'IServ_Logo_klein_RGB_clean.svg',
+'https://kgs-rastede.schulserver.de/iserv' => 'IServ_Logo_klein_RGB_clean.svg',
 'foerderverein/ueber_uns' => 'foerderverein.png');
 $alt = array('Webuntis', 'Schülerzeitung', 'IServ', 'Förderverein');
 $count = -1 ?>
