@@ -1,8 +1,8 @@
 <div class="col">
     <div class="card mb-3">
         <div class="row g-0">
-            <div class="col-md-4 text-white bg-danger lead align-bottom">
-                <span class="align-bottom"><?= $subpage->title() ?></span>
+            <div class="col-md-4 p-2 bg-danger text-white lead">
+                <?= $subpage->title() ?>
             </div>
             <div class="col-md-8">
                 <div class="card-body">

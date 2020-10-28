@@ -1,8 +1,9 @@
 <div class="card mb-3 mt-5">
     <!-- Jetzt folgen die als 'Topartikel' getaggte Blogs -->
-    <h1 class="ml-3">Aktuell im Fokus</h1>
-    <div class="container-fluid">
-        <?php foreach (page('blogs')
+    <h2 class="ml-3 mt-2">Aktuell im Fokus</h2>
+    <div class="card-body">
+        <?php $count = 0;
+            foreach (page('blogs')
             ->children()
             ->flip() as $subpage) : ?>
             <?php
@@ -18,16 +19,18 @@
 
             ) : ?>
 
-                <li class="list-group-item">
-                    <a class="btn btn-warning btn-lg btn-block text-left" href="<?= $subpage->url() ?>" role="button">
-                        <h3>
-                            <?= $subpage->title() ?>
-                        </h3>
-
+                <?php if ($count == 1) : ?>
+                    <hr class="mt-3 mb-3">
+                <?php else :  $count = 1; endif ?>
+                
+                <a class="btn btn-danger btn-lg btn-block text-left" href="<?= $subpage->url() ?>" role="button">
+                    <h3 class="font-weight-light">
+                        <?= $subpage->title() ?>
+                    </h3>
+                    <p class="card-text font-weight-light">
                         <?= $subpage->Text()->blocks()->excerpt(150) ?>
-                    </a>
-                </li>
-
+                    </p>
+                </a>
 
             <?php endif ?>
 
