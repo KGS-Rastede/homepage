@@ -11,7 +11,7 @@
                     <div class="card mb-3">
                         <h5 class="card-title text-center">
                             <?php if ($page->sidetitel()->isNotEmpty()) : ?>
-                                <?= $page->sidetitel()->kirbytext() ?>
+                                <?= $page->sidetitel() ?>
                             <?php else : ?>
                                 Weitere Informationen
                             <?php endif ?>
