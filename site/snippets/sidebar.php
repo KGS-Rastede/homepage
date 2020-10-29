@@ -1,8 +1,8 @@
 <?php 
 $sideE = $page->sidebar()->isNotEmpty();
-$downE = $page->downlaods()->isNotEmpty();
 $relaE = $page->related()->isNotEmpty();
-if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
+$downE = $page->downloads()->isNotEmpty();
+if ($sideE or $relaE or $downE) : ?>
     <div class="container"><?= $page->text()->blocks() ?></div>
 
     <div class="container">
@@ -10,8 +10,8 @@ if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty() or $page->d
 
         <div class="d-flex flex-wrap flex-lg-nowrap justify-content-center text-center">
             
-            <?php if ($page->sidebar()->isNotEmpty()) : 
-                if ($page->related()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
+            <?php if ($sideE) : 
+                if ($relaE or $downE) : ?>
                     <div class="col-12 col-lg-4 flex-fill">
                 <?php else : ?>
                     <div class="col-12 col-lg-4">
@@ -38,8 +38,8 @@ if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty() or $page->d
             <?php endif ?>
 
 
-            <?php if ($page->related()->isNotEmpty()) :
-                if ($page->sidebar()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
+            <?php if ($relaE) :
+                if ($sideE or $downE) : ?>
                     <div class="col-12 col-lg-4 ml-lg-3 flex-fill">
                 <?php else : ?>
                     <div class="col-12 col-lg-4 ml-lg-3">
@@ -63,8 +63,8 @@ if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty() or $page->d
                     </div>
             <?php endif ?>
 
-            <?php if ($page->downloads()->isNotEmpty()) :
-                if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty()) : ?>
+            <?php if ($downE) :
+                if ($sideE or $relaE) : ?>
                     <div class="col-12 col-lg-4 ml-lg-3 flex-fill">
                 <?php else : ?>
                     <div class="col-12 col-lg-4 ml-lg-3">
@@ -79,7 +79,7 @@ if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty() or $page->d
                                     $dateien =  $page->downloads()->toFiles();
                                     foreach ($dateien as $datei) : ?>
                                         <li class="list-group-item">
-                                            <a href="<?= $datei->url() ?>"><?= $datei->name() ?></a>
+                                            <a href="<?= $datei->url() ?>"><?= $datei->anzeigename()->or($datei->name()) ?></a>
                                         </li>
                                     <?php endforeach ?>
 
