@@ -1,4 +1,8 @@
-<?php if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
+<?php 
+$sideE = $page->sidebar()->isNotEmpty();
+$downE = $page->downlaods()->isNotEmpty();
+$relaE = $page->related()->isNotEmpty();
+if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
     <div class="container"><?= $page->text()->blocks() ?></div>
 
     <div class="container">
@@ -6,90 +10,83 @@
 
         <div class="d-flex flex-wrap flex-lg-nowrap justify-content-center text-center">
             
-            <?php if ($page->sidebar()->isNotEmpty()) : ?>
-                <div class="col-12 col-lg-4">
-                <?php if ($page->related()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
-                    <div class="flex-fill">
+            <?php if ($page->sidebar()->isNotEmpty()) : 
+                if ($page->related()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
+                    <div class="col-12 col-lg-4 flex-fill">
+                <?php else : ?>
+                    <div class="col-12 col-lg-4">
                 <?php endif ?>
-                    <div class="card mb-3">
-                        <h5 class="card-title">
-                            <?php if ($page->sidetitel()->isNotEmpty()) : ?>
-                                <?= $page->sidetitel() ?>
-                            <?php else : ?>
+                        <div class="card mb-3">
+                            <h5 class="card-title">
+                                <?php if ($page->sidetitel()->isNotEmpty()) : ?>
+                                    <?= $page->sidetitel() ?>
+                                <?php else : ?>
+                                    Weitere Informationen
+                                <?php endif ?>
+                            </h5>
+                            <div class="card-body">
+                                <ul class="list-group list-group-flush">
+                                    <?php foreach ($page->sidebar()->toStructure() as $sidebar) : ?>
+                                        <li class="list-group-item">
+                                            <a href="<?= $sidebar->link() ?>"><?= $sidebar->name() ?></a>
+                                        </li>
+                                    <?php endforeach ?>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            <?php endif ?>
+
+
+            <?php if ($page->related()->isNotEmpty()) :
+                if ($page->sidebar()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
+                    <div class="col-12 col-lg-4 ml-lg-3 flex-fill">
+                <?php else : ?>
+                    <div class="col-12 col-lg-4 ml-lg-3">
+                <?php endif ?>
+                        <div class="card mb-3">
+                            <h5 class="card-title">
                                 Weitere Informationen
-                            <?php endif ?>
-                        </h5>
-                        <div class="card-body">
-                            <ul class="list-group list-group-flush">
-                                <?php foreach ($page->sidebar()->toStructure() as $sidebar) : ?>
-                                    <li class="list-group-item">
-                                        <a href="<?= $sidebar->link() ?>"><?= $sidebar->name() ?></a>
-                                    </li>
-                                <?php endforeach ?>
-                            </ul>
+                            </h5>
+                            <div class="card-body">
+                                <ul class="list-group list-group-flush">
+                                    <?php $relatedPages =  $page->related()->toPages();
+                                    foreach ($relatedPages as $relatedPage) : ?>
+                                        <li class="list-group-item">
+                                            <a href="<?= $relatedPage->url() ?>"><?= $relatedPage->title() ?></a>
+                                        </li>
+                                    <?php endforeach ?>
+
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                <?php if ($page->related()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
-                    </div>
-                <?php endif ?>
-                </div>
-
             <?php endif ?>
 
-
-            <?php if ($page->related()->isNotEmpty()) : ?>
-                <div class="col-12 col-lg-4 ml-lg-3">
-                <?php if ($page->sidebar()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
-                    <div class="flex-fill">
+            <?php if ($page->downloads()->isNotEmpty()) :
+                if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty()) : ?>
+                    <div class="col-12 col-lg-4 ml-lg-3 flex-fill">
+                <?php else : ?>
+                    <div class="col-12 col-lg-4 ml-lg-3">
                 <?php endif ?>
-                    <div class="card mb-3">
-                        <h5 class="card-title">
-                            Weitere Informationen
-                        </h5>
-                        <div class="card-body">
-                            <ul class="list-group list-group-flush">
-                                <?php $relatedPages =  $page->related()->toPages();
-                                foreach ($relatedPages as $relatedPage) : ?>
-                                    <li class="list-group-item">
-                                        <a href="<?= $relatedPage->url() ?>"><?= $relatedPage->title() ?></a>
-                                    </li>
-                                <?php endforeach ?>
+                        <div class="card mb-3">
+                            <h5 class="card-title">
+                                Zugehörige Downloads
+                            </h5>
+                            <div class="card-body">
+                                <ul class="list-group list-group-flush">
+                                    <?php
+                                    $dateien =  $page->downloads()->toFiles();
+                                    foreach ($dateien as $datei) : ?>
+                                        <li class="list-group-item">
+                                            <a href="<?= $datei->url() ?>"><?= $datei->name() ?></a>
+                                        </li>
+                                    <?php endforeach ?>
 
-                            </ul>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                <?php if ($page->sidebar()->isNotEmpty() or $page->downloads()->isNotEmpty()) : ?>
-                    </div>
-                <?php endif ?>
-                </div>
-            <?php endif ?>
-
-            <?php if ($page->downloads()->isNotEmpty()) : ?>
-                <div class="col-12 col-lg-4 ml-lg-3">
-                <?php if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty()) : ?>
-                    <div class="flex-fill">
-                <?php endif ?>
-                    <div class="card mb-3">
-                        <h5 class="card-title">
-                            Zugehörige Downloads
-                        </h5>
-                        <div class="card-body">
-                            <ul class="list-group list-group-flush">
-                                <?php
-                                $dateien =  $page->downloads()->toFiles();
-                                foreach ($dateien as $datei) : ?>
-                                    <li class="list-group-item">
-                                        <a href="<?= $datei->url() ?>"><?= $datei->name() ?></a>
-                                    </li>
-                                <?php endforeach ?>
-
-                            </ul>
-                        </div>
-                    </div>
-                <?php if ($page->sidebar()->isNotEmpty() or $page->related()->isNotEmpty()) : ?>
-                    </div>
-                <?php endif ?>
-                </div>
             <?php endif ?>
 
         </div>
