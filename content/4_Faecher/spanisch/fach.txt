@@ -203,6 +203,7 @@ Lehrplaene:
 - fachcurriculum_spanisch_jg.7.pdf
 - fachcurriculum_spanisch_-jg.9.pdf
 - fachcurriculum_spanischjg_jg.8.pdf
+- fachcurriculum_spanisch_jg.10.pdf
 - >
   fachcurriculum_spanisch_11fortgefuehrt.pdf
 
