@@ -49,7 +49,20 @@ Text:
 
 ----
 
-Gallery: 
+Gallery:
+
+- >
+  8769e292-63d0-4672-806d-f4fdbe6954c8.jpeg
+- >
+  5831f8b8-dfd7-4d5f-b0d1-5419bb9ee235.jpeg
+- >
+  f29ad3db-ed95-4f8f-9478-648dcbcf41fd.jpeg
+- >
+  8088537b-b93a-4ffb-a4d7-472148300d1d.jpeg
+- >
+  c3fca745-6433-46d0-a1d5-5dc32c48d9e0.jpeg
+- >
+  e4d38ce9-37f6-495b-9b19-bba7e8055c73.jpeg
 
 ----
 
@@ -69,12 +82,12 @@ Tags: Chemie, Biologie, Physik, NTW, Projekt
 
 ----
 
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
-Fotoansicht: gallery
+Fotoansicht: carousel
+
+----
+
+Immer-sichtbar: false
