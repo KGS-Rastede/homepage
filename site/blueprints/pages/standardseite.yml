@@ -41,6 +41,4 @@ columns:
         label: Titel der Sidebar
         type: text
         placeholder: Ähnliche Themen
-        when:
-          toggle: true
       sidebar: fields/seitenleiste
