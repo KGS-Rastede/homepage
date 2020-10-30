@@ -22,6 +22,10 @@ columns:
   rechts:
     width: 1/3
     fields:
+      relatedtitel:
+        label: Überschrift für Unterseiten
+        type: text
+        help: Die standard Überschrift ist "Weitere Inforamtionen"
       related:
         label: Unterseiten
         type: pages
@@ -29,6 +33,10 @@ columns:
         label: Dateien
         type: headline
         numbered: false
+      downloadtitel:
+        label: Überschrift für Downloads
+        type: text
+        help: Die standard Überschrift ist "Zugehörige Downloads"
       downloads:
         label: Verknüpfte Dateien
         type: files
@@ -38,7 +46,8 @@ columns:
         type: headline
         numbered: false
       sidetitel:
-        label: Titel der Sidebar
+        label: Überschrift für Links
         type: text
+        help: Die standard Überschrift ist "Weitere Informationen"
         placeholder: Ähnliche Themen
       sidebar: fields/seitenleiste
