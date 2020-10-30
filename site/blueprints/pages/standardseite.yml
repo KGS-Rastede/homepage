@@ -49,15 +49,4 @@ columns:
         placeholder: Ähnliche Themen
         when:
           toggle: true
-      sidebar:
-        label: Links
-        type: structure
-        when:
-          toggle: true
-        fields:
-          link:
-            label: Link (URL)
-            type: url
-          name:
-            label: Bezeichnung des Links
-            type: text
+      sidebar: fields/seitenleiste
