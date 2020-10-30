@@ -34,7 +34,7 @@ columns:
         type: headline
         numbered: false
       downloadtitel:
-        label: Überschrift für Downloads
+        label: Überschrift für Dateien
         type: text
         help: Die standard Überschrift ist "Zugehörige Downloads"
       downloads:
