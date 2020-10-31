@@ -18,11 +18,7 @@ if ($sideE or $relaE or $downE) : ?>
                 <?php endif ?>
                         <div class="card mb-3">
                             <h5 class="card-title">
-                                <?php if ($page->sidetitel()->isNotEmpty()) : ?>
-                                    <?= $page->sidetitel() ?>
-                                <?php else : ?>
-                                    Weitere Informationen
-                                <?php endif ?>
+                                <?= $page->sidetitel()->or("Weiter Inforamtionen") ?>
                             </h5>
                             <div class="card-body">
                                 <ul class="list-group list-group-flush">
@@ -48,7 +44,7 @@ if ($sideE or $relaE or $downE) : ?>
                 <?php endif ?>
                         <div class="card mb-3">
                             <h5 class="card-title">
-                                Weitere Informationen
+                                <?= $page->relatedtitel()->or("Weitere Informationen") ?>
                             </h5>
                             <div class="card-body">
                                 <ul class="list-group list-group-flush">
@@ -73,7 +69,7 @@ if ($sideE or $relaE or $downE) : ?>
                 <?php endif ?>
                         <div class="card mb-3">
                             <h5 class="card-title">
-                                Zugehörige Downloads
+                                <?= $page->downloadtitel()->or("Zugehörige Downloads") ?>
                             </h5>
                             <div class="card-body">
                                 <ul class="list-group list-group-flush">
