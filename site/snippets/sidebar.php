@@ -1,8 +1,8 @@
-<?php 
+<?php //hier werden Variablen festgelegt, die mehrfach im snippet benutzt werden
 $sideE = $page->sidebar()->isNotEmpty();
 $relaE = $page->related()->isNotEmpty();
 $downE = $page->downloads()->isNotEmpty();
-if ($sideE or $relaE or $downE) : ?>
+if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
     <div class="container"><?= $page->text()->blocks() ?></div>
 
     <div class="container">
@@ -91,6 +91,6 @@ if ($sideE or $relaE or $downE) : ?>
 
     </div>
 
-<?php else : ?>
+<?php else : //wenn alle Teile leer sind ?>
     <div class="container"><?= $page->text()->blocks() ?></div>
 <?php endif ?>
