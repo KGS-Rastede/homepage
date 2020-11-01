@@ -7,7 +7,7 @@
 
 
 
-
+<div class="container">
 <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 mx-4">
   <?php foreach ($page->children() as $sf) : ?>
     <div class="col mb-4">
@@ -33,7 +33,8 @@
   <?php endforeach ?>
 </div>
 
-<div class="container ml-auto mr-auto">
+
+
 
   <h2>Aktuelles aus den Schülerfirmen</h2>
 

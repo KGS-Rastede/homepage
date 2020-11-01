@@ -2,9 +2,9 @@
 <?php snippet('page-header') ?>
 
 
-<h2><?= $page->heading() ?></h2>
+<?php snippet('sidebar') ?>
 
-<div class="col-lg-8 col-md-10 ml-auto mr-auto">
+<div class="container">
   <div class="table-responsive">
     <table class="table">
       <thead>

@@ -2,21 +2,60 @@ Title: Förderverein: Mitmachen
 
 ----
 
-Text:
+Heading: 
 
-Mit nur 1,50€ pro Monat können Sie dabei sein. Treten Sie jetzt ein!
+----
 
-Und so geht's:
+Inhalt:
 
-1. Einfach die untenstehenden Felder ausfüllen.
-2. Anschließend die Beitrittserklärung ausdrucken.
-3. Danach brauchen Sie diese nur noch zu unterschreiben und an folgende Adresse zu versenden:
+[
+    {
+        "attrs": [],
+        "content": "Mit nur 1,50€ pro Monat können Sie dabei sein. Treten Sie jetzt ein!",
+        "id": "_QXwIH1omG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Und so geht's:",
+        "id": "_S4EDjDeiE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Einfach die untenstehenden Felder ausfüllen.",
+        "id": "_I1cOYU6ec",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "Anschließend die Beitrittserklärung ausdrucken.",
+        "id": "_mmiCtromn",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "Danach brauchen Sie diese nur noch zu unterschreiben und an folgende Adresse zu versenden:",
+        "id": "_XOtsfuYBf",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "Förderverein der KGS Rastede e.V.<br>Wilhelmstr. 5<br>26180 Rastede",
+        "id": "_TtPb1Y5Wj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ihre Daten werden selbstverständlich nicht im Internet gespeichert!",
+        "id": "_F2x2ZgsST",
+        "type": "paragraph"
+    }
+]
 
-Förderverein der KGS Rastede e.V.
-Wilhelmstr. 5
-26180 Rastede
+----
 
-Ihre Daten werden selbstverständlich nicht im Internet gespeichert!
+Downloads: 
 
 ----
 
@@ -44,4 +83,3 @@ Sidetitel: Förderverein der KGS Rastede e.V.
 ----
 
 Sidetoggle: true
-

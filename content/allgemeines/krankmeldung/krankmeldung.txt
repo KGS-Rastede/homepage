@@ -2,8 +2,21 @@ Title: Krankmeldung
 
 ----
 
+Heading: Melden Sie ihr Kind hier krank!
+
+----
+
 Text:
 
-Melden Sie ihr Kind hier krank!
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ypbXkOotZ",
+        "type": "paragraph"
+    }
+]
 
- 
+----
+
+Downloads: 

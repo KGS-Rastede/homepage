@@ -1,6 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
+<div class="container-fluid">
     <h1>
         Huch, hier solltest du eigentlich nicht rauskommen...
     </h1>
@@ -8,6 +9,7 @@
         width: 100%;
         height: auto;
         ">
+</div>
 
 <?php snippet('sidebar') ?>
 

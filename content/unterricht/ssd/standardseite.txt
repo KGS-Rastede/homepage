@@ -138,3 +138,15 @@ Text:
         "type": "paragraph"
     }
 ]
+
+----
+
+Related: 
+
+----
+
+Downloads: 
+
+----
+
+Sidebar: 

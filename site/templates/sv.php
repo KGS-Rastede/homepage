@@ -1,21 +1,20 @@
 <?php snippet('header') ?>
-
 <?php snippet('page-header') ?>
 
 <?php snippet('sidebar') ?>
 
 
 <div class="container-fluid">
-<?php
-  $items = page('sv/blogs')->children()->listed();
+  <?php
+    $items = page('sv/blogs')->children()->listed();
 
-  $list = $items->paginate(5);
+    $list = $items->paginate(5);
 
-  snippet('blog-schlicht', [
-    'items' => $list
-  ])
+    snippet('blog-schlicht', [
+      'items' => $list
+    ])
 
-?>
+  ?>
 </div>
 
 

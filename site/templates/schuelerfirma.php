@@ -2,7 +2,7 @@
 
 <?php snippet('page-header') ?>
 
-<div class="mx-3">
+<div class="container">
 
     <?= $page->beschreibung()->blocks() ?>
 

@@ -2,125 +2,96 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-9">
-            <div class="container">
-                <?= $page->text()->blocks() ?>
-            </div>
+<div class="container">
+    <?= $page->inhalt()->blocks() ?>
 
-            <div class="container">
-                <form action="" method="post">
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="firstName">Vorname</label>
-                            <input type="text" class="form-control" name="firstName" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="lastName">Nachname</label>
-                            <input type="text" class="form-control" name="lastName" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="postalCode">PLZ</label>
-                            <input type="text" class="form-control" name="postalCode" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="city">Wohnort</label>
-                            <input type="text" class="form-control" name="city" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="street">Straße</label>
-                            <input type="text" class="form-control" name="street" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="email">E-Mail-Adresse</label>
-                            <input type="email" class="form-control" name="email" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-group col-md-6">
-                        Zahlungsweise
-                        <div class="form-check">
-                            <input type="radio" name="payment" value="direct_debit" class="form-check-input" checked="checked" />
-                            <label for="payment">
-                                Der fällige Betrag von mindestens 18€ pro Jahr soll durch Bankeinzug abgebucht werden.
-                            </label>
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="accountOwner">Kontoinhaber*in (falls abweichend vom Mitglied)</label>
-                            <input type="text" class="form-control" name="accountOwner" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="iban">IBAN</label>
-                            <input type="text" class="form-control" name="iban" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="bic">BIC</label>
-                            <input type="text" class="form-control" name="bic" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="bank">Name der Bank</label>
-                            <input type="text" class="form-control" name="bank" required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <label for="fee">Mitgliedsbeitrag (min. 18 EUR)</label>
-                            <input type="number" class="form-control" name="fee" min=18 value=18 required="required" />
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-6">
-                            <button type="submit" class="btn btn-primary">Beitrittserklärung anzeigen</button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-
-        <div class="col">
-            <?php if ($page->sidebar()->isNotEmpty()) : ?>
-
-            <div class="card mb-3">
-                <h5 class="card-title text-center">
-                <?php if ($page->sidetitel()->isNotEmpty()) : ?>
-                    <?= $page->sidetitel()->kirbytext() ?>
-                <?php else : ?>
-                    <?= "Weitere Informationen" ?>
-                <?php endif ?>
-                </h5>
-                <div class="card-body">
-                    <ul class="list-group list-group-flush">
-                    <?php foreach ($page->sidebar()->toStructure() as $sidebar) : ?>
-                        <li class="list-group-item">
-                            <a href="<?= $sidebar->link() ?>"><?= $sidebar->name() ?></a>
-                        </li>
-                    <?php endforeach ?>
-                    </ul>
+    <form action="" method="post">
+    <div class="col-md-6">
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="firstName">Vorname</label>
+                    <input type="text" class="form-control" name="firstName" required="required" />
                 </div>
             </div>
-
-            <?php endif ?>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="lastName">Nachname</label>
+                    <input type="text" class="form-control" name="lastName" required="required" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="postalCode">PLZ</label>
+                    <input type="text" class="form-control" name="postalCode" required="required" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="city">Wohnort</label>
+                    <input type="text" class="form-control" name="city" required="required" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="street">Straße</label>
+                    <input type="text" class="form-control" name="street" required="required" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="email">E-Mail-Adresse</label>
+                    <input type="email" class="form-control" name="email" required="required" />
+                </div>
+            </div>
+            <div class="form-group">
+                Zahlungsweise
+                <div class="form-check">
+                    <input type="radio" name="payment" value="direct_debit" class="form-check-input" checked="checked" />
+                    <label for="payment">
+                        Der fällige Betrag von mindestens 18€ pro Jahr soll durch Bankeinzug abgebucht werden.
+                    </label>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="accountOwner">Kontoinhaber*in (falls abweichend vom Mitglied)</label>
+                    <input type="text" class="form-control" name="accountOwner" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="iban">IBAN</label>
+                    <input type="text" class="form-control" name="iban" required="required" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="bic">BIC</label>
+                    <input type="text" class="form-control" name="bic" required="required" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="bank">Name der Bank</label>
+                    <input type="text" class="form-control" name="bank" required="required" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="fee">Mitgliedsbeitrag (min. 18 EUR)</label>
+                    <input type="number" class="form-control" name="fee" min=18 value=18 required="required" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Beitrittserklärung anzeigen</button>
+                </div>
+            </div>
         </div>
-    </div>
+    </form>
 </div>
+
+<?php snippet('sidebar') ?>
 
 <?php snippet('footer') ?>
 <?php else: ?>

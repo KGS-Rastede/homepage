@@ -1,3 +1,13 @@
 Title: Lehrerliste
+
 ----
-Text: Hier steht die Lehrerliste
+
+Heading: Hier steht die Lehrerliste
+
+----
+
+Text: 
+
+----
+
+Downloads: 

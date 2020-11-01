@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
-<?= $page->text()->blocks() ?>
+<?php snippet('sidebar') ?>
 
 <div class="section-a">
   <div class="container">
@@ -21,5 +21,4 @@
 </div>
 
 
-
-  <?php snippet('footer') ?>
+<?php snippet('footer') ?>

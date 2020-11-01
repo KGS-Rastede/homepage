@@ -1,9 +1,10 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
-<div class="container-fluid">
 
-    <?= $page->text()->blocks() ?>
+<?php snippet('sidebar') ?>
+
+<div class="container">    
 
     <table class="table table-borderless table-responsive table-striped">
         <!-- https://getbootstrap.com/docs/4.4/content/tables/ -->

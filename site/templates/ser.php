@@ -1,10 +1,10 @@
 <?php snippet('header') ?>
-
 <?php snippet('page-header') ?>
 
 <?php snippet('sidebar') ?>
 
-<a role="button" class="btn btn-outline-warning m-4" href="<?= page('ser/geschaeftsordnung')->url() ?>">
+<div class="container">
+<a role="button" class="btn btn-outline-warning my-4" href="<?= page('ser/geschaeftsordnung')->url() ?>">
   Hier geht's zur Geschäftsordnung
 </a>
 
@@ -54,5 +54,6 @@
   ])
 
 ?>
+</div>
 
 <?php snippet('footer') ?>

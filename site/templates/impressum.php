@@ -23,8 +23,8 @@ für eine schnelle elektronische Kontaktaufnahme (Telefon, Fax,
 Mailadresse) enthalten sind. -->
 
 
-<div class="container-fluid">
-    <div class="row">
+<div class="container">
+    <div class="d-flex justify-content-between">
         <div class="col-md-5">
             <h3>Anschrift</h3>
             <?= $page->anschrift() ?>
