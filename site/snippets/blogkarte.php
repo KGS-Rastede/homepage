@@ -1,8 +1,11 @@
 <div class="col">
     <div class="card mb-3">
         <div class="row g-0">
-            <div class="col-md-4 p-2 bg-danger text-white lead">
-                <?= $subpage->title() ?>
+            <div class="col-md-4 p-2 bg-danger text-white">
+                <div class="blog-ueberschrift">
+                    <?= $subpage->title() ?>
+                </div>
+
             </div>
             <div class="col-md-8">
                 <div class="card-body">

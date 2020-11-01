@@ -33,6 +33,13 @@ footer {
   color: #000000;
 }
 
+.blog-ueberschrift {
+  font-weight: 600;
+  font-size: 1.6rem;
+  line-height: 39px;
+  letter-spacing: 0.005em;
+}
+
 /*==================================
     TIMELINE
 ==================================*/
@@ -332,7 +339,6 @@ footer {
   text-align: center;
   transform: translate(0, -200%);
   color: #ffffff;
-  overflow-y: hidden;
 }
 
 .hovereffekt:hover .imagez {
@@ -10648,3 +10654,4 @@ progress {
     display: none !important;
   }
 }
+/*# sourceMappingURL=kgs.css.map */
