@@ -1,0 +1,67 @@
+Title: Anmeldung 5
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Dieses Jahr findet die Infoveranstaltung online statt. Wir haben für Sie ein Video erstellt, so dass Sie sich die Informationen in Ruhe anschauen können.",
+        "id": "_lgeymmc81",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_e4zjdqv4q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_obu2820bu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://youtu.be/CNFC4I9Ja08",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_i2b3lh2pq",
+        "type": "video"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-11-20 07:50
+
+----
+
+Datumstartseite: 2021-03-20 07:50
+
+----
+
+Author: Claudia Berger (BE)
+
+----
+
+Tags: Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
