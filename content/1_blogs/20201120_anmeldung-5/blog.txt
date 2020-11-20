@@ -1,4 +1,4 @@
-Title: Anmeldung 5
+Title: Information für Eltern der 4. Klassen
 
 ----
 
@@ -11,8 +11,56 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Dieses Jahr findet die Infoveranstaltung online statt. Wir haben für Sie ein Video erstellt, so dass Sie sich die Informationen in Ruhe anschauen können.",
+        "content": "Hier finden Sie die Informationen über unsere Schule in einem kleinen Film. Nehmen Sie sich ein halbes Stündchen Zeit dafür.",
         "id": "_lgeymmc81",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_i3eui3462",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ihre Fragen beantworten wir gern am Dienstag, den 24.11.2020 in der Zeit von 19.00 - 20.30 Uhr telefonisch unter folgenden Anschlüssen:",
+        "id": "_4XqYeb91C",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Frau Ildiz 04402-9264 19",
+        "id": "_GAMmDWJuq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Frau Pannenborg 04402-9264 23",
+        "id": "_ejVUN7Qtd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Herr Kleeberg 04402-9264 22",
+        "id": "_Fe3YmKW5q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Herr Bormann 04402-9264 20",
+        "id": "_cqgECSo7W",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Frau Berger 04402-9264 0",
+        "id": "_SbtyvYBaW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Treten später noch Fragen auf, rufen oder mailen Sie uns gerne an. Vielen Dank!",
+        "id": "_kW52hkt9I",
         "type": "paragraph"
     },
     {
