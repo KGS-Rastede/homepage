@@ -56,7 +56,7 @@ $such_summary = 'SUMMARY:';
 $such_farbe = 'COLOR:';
 ///////////////////////////////////////////////
 // Kalender einlesen
-$file_name = 'schuljahresplaner.ics';
+$file_name = 'public.ics';
 $file = fopen($file_name, "r");
 $exportjson = fopen ("schuljahresplaner.json",'w');
 $datensatz_nr = 0;
