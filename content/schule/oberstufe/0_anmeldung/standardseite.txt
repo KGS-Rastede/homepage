@@ -43,22 +43,19 @@ Text:
 
 ----
 
+Relatedtitel: 
+
+----
+
 Related: 
 
 ----
 
-Downloads:
-
-- anmeldeformular-sek-ii-2020.pdf
-- anmeldeformular-sek-ii-hinweise.pdf
-- kurswahl-e-phase-auswaertige.pdf
-- wahlpflichtbereich-module-2020-2021.pdf
-- infoveranstaltung-sek-ii-teil-1.pdf
-- infoveranstaltung-sek-ii-teil-2.pdf
+Downloadtitel: 
 
 ----
 
-Toggle: true
+Downloads: 
 
 ----
 
@@ -67,3 +64,7 @@ Sidetitel:
 ----
 
 Sidebar: 
+
+----
+
+Toggle: true
