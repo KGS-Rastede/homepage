@@ -5,10 +5,6 @@ Title: Informationen und Formulare
 Unterricht:
 
 - facharbeit_2009.pdf
-- 2016_wpk-info-homepage.pdf
-- 2020-10-22_brief_an_die_sus.pdf
-- 2020-10-22_brief_an_die_eltern.pdf
-- elternbrief_oktober_2020.pdf
 
 ----
 
@@ -19,3 +15,9 @@ Schule:
 - >
   gebaeudeplan_aufenthaltsbereiche_endfassung2017.pdf
 - gebaeudeplan.pdf
+- >
+  2020-11-17_leitfaden-schule-in-corona-zeiten_update.pdf
+- 2020-11-17_brief_an_eltern_2.pdf
+- 2020-11-17_brief_an_eltern_1.pdf
+- 2020-11-17_brief_an_sus_sek_ii.pdf
+- 2020-11-17_brief_an_sus_sek_i.pdf
