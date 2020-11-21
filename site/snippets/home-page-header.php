@@ -1,69 +1,46 @@
 <main role="main">
 
-
-  <div class="hero-image">
-
-    <div class="hero-text display-1">
-      <h1>Herzlich Willkommen an der</h1>
-      <p>Kooperativen Gesamtschule Rastede</p>
+  <!-- The CSS grid that makes up the entirety of the hero image/banner image area -->
+  <section class="top-banner-section">
+    <!-- The CSS grid area that displays the image (layer 1) -->
+    <div class="banner-image-div">
+      <img class="banner-image" src="https://source.unsplash.com/random" alt="Banner Image" />
     </div>
-
-    <div class="d-none d-md-block">
-      <div class="ConBoxR hovereffekt">
-        <a href="<?= page('allgemeines/kalender')->url() ?>">
-          <img class="imagez" src="<?= $page->files()->find('acker.jpg')->url() ?>" alt="Termine">
-          <div class="middle h6 d-flex">Termine 
+    <!-- The CSS grid area that displays the semi-transparent gradient overlay (layer 2) -->
+    <div class="banner-overlay-div"></div>
+    <!-- The CSS grid area that displays the content (layer 3) -->
+    <div class="banner-text-div">
+      <span class="banner-text">
+        <p class="banner-body-text">Herzlich willkommen an der</p>
+        <p class="banner-h1-text">Kooperativen Gesamtschule Rastede</p>
+        <p class="banner-btn">
+          <a class="banner-btn-item" href="<?= page('allgemeines/kalender')->url() ?>">Termine
             <svg class="bi" width="24" height="24">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" /></svg>
-            </div>
-        </a>
-      </div>
-      <div class="ConBoxL hovereffekt">
-        <a href="<?= page('blogs')->url() ?>">
-          <img class="imagez" src="<?= $page->files()->find('acker.jpg')->url() ?>" alt="Ereignisse">
-          <div class="middle h6 d-flex">Ereignisse          
+              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" />
+            </svg>
+          </a>
+        </p>
+        <p class="banner-btn">
+          <a class="banner-btn-item" href="<?= page('blogs')->url() ?>">Aktuelles
             <svg class="bi" width="24" height="24">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" /></svg>
-          </div>
-        </a>
-      </div>
+              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" />
+            </svg>
+          </a>
+        </p>
+      </span>
     </div>
+  </section>
+
+
+  <!-- Titelfeld -->
+  <div class="p-3 mb-2 bg-light text-primary">
+    <h1>
+      <?= $page->title() ?>
+    </h1>
   </div>
-      
-  
+  <small class="text-muted"><?= $page->subtitle() ?></small>
 
-
-  <div class="bg-dark d-flex justify-content-center d-block d-md-none">
-    <div class="hovereffekt" style="width: 50%;">
-      <a href="<?= page('allgemeines/kalender')->url() ?>">
-      <img style="height: 10rem;" class="imagez" src="<?= $page->files()->find('acker.jpg')->url() ?>" alt="Termine">
-      <div class="h6 setText">Termine          
-            <svg class="bi" width="24" height="24">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" /></svg>
-          </div>
-      </a>
-    </div>
-    <div class="hovereffekt" style="width: 50%">
-      <a href="<?= page('blogs')->url() ?>">
-        <img style="height: 10rem" class="imagez" src="<?= $page->files()->find('acker.jpg')->url() ?>" alt="Ereignisse">
-        <div class="h6 setText">Ereignisse          
-          <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" /></svg>
-        </div>
-      </a>
-    </div>
+  <h1 class="display-6 mb-3">
+    <?= $page->heading() ?>
+  </h1>
   </div>
-
-
-      <!-- Titelfeld -->
-      <div class="p-3 mb-2 bg-light text-primary">
-        <h1>
-          <?= $page->title() ?>
-        </h1>
-      </div>
-      <small class="text-muted"><?= $page->subtitle() ?></small>
-
-      <h1 class="display-6 mb-3">
-        <?= $page->heading() ?>
-      </h1>
-    </div>
