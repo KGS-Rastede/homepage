@@ -82,9 +82,7 @@
       <div class="row row-cols-1 row-cols-xs-1 row-cols-lg-2 g-4">
 
 
-        <?php foreach (page('blogs')
-          ->children()
-          ->flip() as $subpage) : ?>
+        <?php foreach (collection('blogs')->flip() as $subpage) : ?>
 
 
           <?php if ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s')//noch aktuell? 

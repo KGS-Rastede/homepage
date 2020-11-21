@@ -3,9 +3,7 @@
     <h2 class="ml-3 mt-2">Aktuell im Fokus</h2>
     <div class="card-body">
         <?php $count = 0;
-            foreach (page('blogs')
-            ->children()
-            ->flip() as $subpage) : ?>
+            foreach (collection('blogs')->flip() as $subpage) : ?>
             <?php
 
             // Ist es ein Topartikel?
