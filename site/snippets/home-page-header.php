@@ -4,7 +4,7 @@
   <section class="top-banner-section">
     <!-- The CSS grid area that displays the image (layer 1) -->
     <div class="banner-image-div">
-      <img class="banner-image" src="https://source.unsplash.com/random" alt="Banner Image" />
+      <img class="banner-image" src="<?= $kirby->url('assets') ?>/img/IMG_1343.jpeg" alt="Banner Image" />
     </div>
     <!-- The CSS grid area that displays the semi-transparent gradient overlay (layer 2) -->
     <div class="banner-overlay-div"></div>
@@ -35,7 +35,7 @@
   <!-- Titelfeld -->
   <div class="p-3 mb-2 bg-light text-primary">
     <h1>
-      <?= $page->title() ?>
+      <!-- <?= $page->title() ?> -->
     </h1>
   </div>
   <small class="text-muted"><?= $page->subtitle() ?></small>
