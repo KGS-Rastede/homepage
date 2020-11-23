@@ -1,4 +1,4 @@
-<div class="card mb-3 mt-3">
+<div class="card mb-3">
     <h2 class="ml-3 mt-2">Zur Zeit aktuelle Downloads</h2>
     <div class="card-body">
         

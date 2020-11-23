@@ -110,7 +110,6 @@
 
 
     <div class="col-xl-4 mt-3 mt-xl-5">
-      <div class="d-none d-xl-flex" style="height: 38.4"></div><!-- leere Box ab xl und aufwärts -->
       <?php snippet('box-schnellzugriff') ?>
       <?php snippet('box-kalender') ?>
       <?php snippet('box-presse') ?>
