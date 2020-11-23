@@ -18,7 +18,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
                 <?php endif ?>
                         <div class="card mb-3">
                             <h5 class="card-title">
-                                <?= $page->sidetitel()->or("Weiter Inforamtionen") ?>
+                                <?= $page->sidetitel()->or("Weitere Informationen") ?>
                             </h5>
                             <div class="card-body">
                                 <ul class="list-group list-group-flush">
