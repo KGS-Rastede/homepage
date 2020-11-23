@@ -6,6 +6,8 @@
         <?= $page->text() ?>
     </h5>
 
+    <h1 class="display-5" id="sekr">Sekretariate</h1>
+
     <div class="table-responsive-sm">
         <table class="table table-striped">
             <thead>
@@ -44,7 +46,7 @@
     </div>
 
 
-    <h1 id="haus">Hausmeister und Schulassistenten</h1>
+    <h1 class="display-5" id="haus">Hausmeister und Schulassistenten</h1>
 
     <div class="table-responsive-sm">
         <table class="table table-striped">
