@@ -2,10 +2,9 @@
     <div class="card mb-3">
         <div class="row g-0">
             <div class="col-md-4 p-2 text-danger">
-                <div class="blog-ueberschrift">
+                <div class="fs-4 fw-light">
                     <?= $subpage->title() ?>
                 </div>
-
             </div>
             <div class="col-md-8">
                 <div class="card-body">
