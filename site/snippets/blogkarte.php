@@ -16,7 +16,7 @@
                         <?php endif ?>
                     </p>
                     <p class="text-right">
-                        <a class="text-decoration-none" href="<?= $subpage->url() ?>">weiterlesen...</a>
+                        <a class="text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
 
                     </p>
                 </div>
