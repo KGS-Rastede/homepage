@@ -21,10 +21,54 @@ $items = name => icon_name
   icon_name -> der name des icons z.B. "alarm-fill"
 */
 $titel = array(
-  'Kontakt', 'Über die Schule', 'Unterricht & Schulleben', 'Service & Downloads'
+  "Kontakt", "Über die Schule", "Unterricht & Schulleben", "Service & Downloads"
 );
 $items = array(
+  "Anfahrt" => "allgemeines/anfahrt",
+  "Schulleitung" => "kontakte/schulleitung",
+  "Fachbereichsleiter" => "kontakte/fbl",
+  "Kollegium" => "lehrer",
+  "Sekretariate" => "kontakte/sekretariate",
+  "Hausmeister" => "kontakte/sekretariate",
+  "Schülervertretung (SV)"  => "sv/die_sv",
+  "Personalrat (SPR)" => "kontakte/spr",
+  "Gleichstellungsbeauftragte" => "kontakte/gleichstellung",
+  "Schulelternrat (SER)" => "ser/vorstand",/*
+  "Förderverein" => 
 
+  "spalte",
+  "Leitbild" => 
+  "Schulprogramm" => 
+  "Unsere Geschichte" => 
+  "Übergang Grundschule/KGS" => 
+  "Die drei Schulzweige" => 
+  "Oberstufe" => 
+  "Abschlüsse an der KGS" => 
+  "Zuständigkeiten / Organigramm" => 
+  "Ausbildungsschule" => 
+  "Unsere Schule in der Presse" => 
+
+  "spalte"
+  "Fächer" => 
+  "Berufsorientierung" => 
+  "Schülerfirmen" => 
+  "Beratung" => 
+  "Inklusion" => 
+  "Kulturelles" => 
+  "Wettbewerbe" => 
+  "Das AG-Angebot" => 
+  "Schule ohne Rassismus - Schule mit Courage" => 
+  "Schulsanitätsdienst" => 
+  "BO-Coaches" => 
+  "Schulhund" => 
+  "Streitschlichter" => 
+  
+  "spalte"
+  "Informationen und Formulare" => 
+  "Schulbusverkehr" => 
+  "Zeitraster" => 
+
+*/
 );
 ?>
 
