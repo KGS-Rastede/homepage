@@ -1,0 +1,28 @@
+title: Navbar
+
+
+fields:
+  navbar:
+    type: structure
+    label: Navbar
+    fields:       
+      dropdown:
+        type: toggle
+        label: Dropdown oder Link?
+        text:          
+          - "Direkter Link" #false
+          - "Dropdown" #true
+      kategorieTitel:
+        type: text
+        label: Titel der Kategorie          
+      kategorieSeite:
+        type: pages
+        label: Seite der Kategorie
+        max: 1
+        when: 
+          dropdown: false
+      navItem:
+        type: pages
+        label: Dropdown Elemente
+        when:
+          dropdown: true
