@@ -11,7 +11,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "&nbsp;Ein Hund in der Schule? In der pädagogischen Literatur wird von Untersuchungen berichtet, die zeigen, dass ein Hund im Klassenzimmer dazu beiträgt, die Konzentrationsfähigkeit von SuS zu erhöhen und zu stabilisieren. Das kann nur gelingen, wenn genügend Rücksicht auf den Hund genommen wird: es darf nicht laut sein, niemand darf herumrennen usw. Beobachtet man solche Klassen, so sind sie deutlich ruhiger, Lärmpegel und Stressniveau sind deutlich gesenkt.",
+        "content": "Ein Hund in der Schule? In der pädagogischen Literatur wird von Untersuchungen berichtet, die zeigen, dass ein Hund im Klassenzimmer dazu beiträgt, die Konzentrationsfähigkeit von SuS zu erhöhen und zu stabilisieren. Das kann nur gelingen, wenn genügend Rücksicht auf den Hund genommen wird: es darf nicht laut sein, niemand darf herumrennen usw. Beobachtet man solche Klassen, so sind sie deutlich ruhiger, Lärmpegel und Stressniveau sind deutlich gesenkt.",
         "id": "_jwo1c90ip",
         "type": "paragraph"
     },
