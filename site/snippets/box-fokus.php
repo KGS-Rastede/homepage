@@ -1,25 +1,14 @@
-<div class="card mb-3 mt-5">
-    <!-- Jetzt folgen die als 'Topartikel' getaggte Blogs -->
-    <h2 class="ml-3 mt-2">Aktuell im Fokus</h2>
-    <div class="card-body">
-        <?php $count = 0;
-            foreach (collection('blogs')->flip() as $subpage) : ?>
-            <?php
+<?php if(collection('blogs-topartikel')->isNotEmpty()) : //wenn aktuelle Topartikel vorhanden sind?>
 
-            // Ist es ein Topartikel?
-            if (
-                // handelt es sich um einen Artikel,
-                // auf der Startseite hervorzuheben ist?
-                in_array("Topartikel", $subpage->tags()->split())
+    <div class="card mb-3 mt-5">
+        <h2 class="ml-3 mt-2">Aktuell im Fokus</h2>
+        <div class="card-body">
 
-                // ist der Artikel noch aktuell?
-                and ($subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s'))
+            <?php foreach (collection('blogs-topartikel') as $subpage) : ?>
 
-            ) : ?>
-
-                <?php if ($count == 1) : ?>
+                <?php if ( !$subpage->isFirst(collection('blogs-topartikel')) ) : ?>
                     <hr class="mt-3 mb-3">
-                <?php else :  $count = 1; endif ?>
+                <?php endif //Trennstrich komm nur wenn es keine Artikel vor diesem Element gibt ?>
                 
                 <a class="btn btn-lg btn-block text-left" href="<?= $subpage->url() ?>" role="button">
                     <h3 class="font-weight-light text-info ">
@@ -30,8 +19,9 @@
                     </p>
                 </a>
 
-            <?php endif ?>
+            <?php endforeach ?>
 
-        <?php endforeach ?>
+        </div>
     </div>
-</div>
+
+<?php endif ?>

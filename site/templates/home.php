@@ -75,36 +75,8 @@
   <div class="row">
     <div class="col-xl-8">
       <?php snippet('box-fokus') ?>
-
-
-      <h2 class="mt-5 mb-3">Aus dem Schulleben</h2>
-
-      <div class="row row-cols-1 row-cols-xs-1 row-cols-lg-2 g-4">
-
-
-        <?php foreach (collection('blogs')->flip() as $subpage) : ?>
-
-
-          <?php if (
-            $subpage->datumStartseite()->toDate('Y-m-d-H-i-s') >= date('Y-m-d-H-i-s') //noch aktuell? 
-            && in_array("Topartikel", $subpage->tags()->split()) == false
-          ) : //kein Topartikel
-          ?>
-
-            <?php
-            snippet('blogkarte', ['subpage' => $subpage]);
-            ?>
-          <?php endif ?>
-
-        <?php endforeach ?>
-
-      </div>
-
-
-      <a href="<?= page("blogs") ?>">
-        <button class="btn btn-secondary mb-5">Weitere Nachrichten aus der Schule &#8594;</button>
-      </a>
-
+      <?php snippet('box-blogs') ?>
+      
     </div>
 
 
