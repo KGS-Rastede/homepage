@@ -1,0 +1,56 @@
+Title: Organigramm
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_unbgrq78x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/schule+organigramm/files/organigramm-kgs2.svg",
+            "id": "schule/organigramm/organigramm-kgs2.svg",
+            "filename": "organigramm-kgs2.svg",
+            "ratio": 1.3776223776223777,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_v19atkfxt",
+        "type": "image"
+    }
+]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- organigrammkgs.pdf
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
