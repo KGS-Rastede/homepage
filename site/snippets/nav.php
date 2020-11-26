@@ -1,4 +1,4 @@
-<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-transparent">
   <!--
           Hier kann das Logo stehen oder der Name der Schule.
           Müssen wir am Ende vom Design her entscheiden.
@@ -8,7 +8,7 @@
       <?= asset('assets/bilder/logo.svg')->read() ?>
     </a>
   </div>
-  <a class="navbar-brand text-white d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
+  <a class="navbar-brand d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
