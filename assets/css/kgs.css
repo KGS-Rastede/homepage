@@ -3,15 +3,16 @@
 /* -------begin customization-------- */
 /* simply assign the value */
 .navbar-light .navbar-nav a.nav-link {
-  color: #ffffff;
+  color: #dfe6f7;
+  font-size: 22px;
 }
 
 .dropdown-menu a {
-  color: #ffffff;
+  color: #586994;
 }
 
 .dropdown-menu {
-  background-color: #0e5499 !important;
+  background-color: white !important;
 }
 
 .main {

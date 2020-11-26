@@ -12,17 +12,17 @@
 
 
 
-@font-face{
-    font-family: 'vielkalahizo';
-    src: url('./vielkalahizo.ttf');
-    font-style: normal;
-    font-weight: 400;
+// @font-face{
+//     font-family: 'vielkalahizo';
+//     src: url('./vielkalahizo.ttf');
+//     font-style: normal;
+//     font-weight: 400;
 
-    src: local('vielkalahizo'), local('vielkalahizo'),
-    url('./vielkalahizo.ttf') format('truetype');
-}
+//     src: local('vielkalahizo'), local('vielkalahizo'),
+//     url('./vielkalahizo.ttf') format('truetype');
+// }
 
-$font-family-sans-serif: vielkalahizo, Candara, Segoe UI, Optima, Arial, sans-serif;
+// $font-family-sans-serif: vielkalahizo, Candara, Segoe UI, Optima, Arial, sans-serif;
 
 
 $body-bg: #f4f4f4;
@@ -42,15 +42,16 @@ $theme-colors: (
 );
 
 .navbar-light .navbar-nav a.nav-link {
-    color: #ffffff;
+    color: #dfe6f7;
+    font-size: 22px;
 }
 
 .dropdown-menu a {
-    color: #ffffff;
+    color: #586994;
 }
 
 .dropdown-menu {
-    background-color: #0e5499 !important;
+    background-color: white !important;
 }
 
 .main {
