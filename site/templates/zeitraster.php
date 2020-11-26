@@ -46,7 +46,7 @@
                 <td colspan="2">13.30 Uhr bis 14.30 Uhr</td>
             </tr>
             <tr>
-                <td class="text-center">7-8</td>
+                <td class="text-center">7/8</td>
                 <td>14.30</td>
                 <td>16.00*</td>
             </tr>
