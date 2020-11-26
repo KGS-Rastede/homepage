@@ -25,7 +25,7 @@ columns:
       relatedtitel:
         label: Überschrift für Unterseiten
         type: text
-        help: Die standard Überschrift ist "Weitere Inforamtionen"
+        help: Die Standard-Überschrift lautet "Weitere Informationen"
       related:
         label: Unterseiten
         type: pages
@@ -36,7 +36,7 @@ columns:
       downloadtitel:
         label: Überschrift für Dateien
         type: text
-        help: Die standard Überschrift ist "Zugehörige Downloads"
+        help: Die Standard_Überschrift lautet "Zugehörige Downloads"
       downloads:
         label: Verknüpfte Dateien
         type: files
@@ -48,6 +48,6 @@ columns:
       sidetitel:
         label: Überschrift für Links
         type: text
-        help: Die standard Überschrift ist "Weitere Informationen"
+        help: Die Standard_Überschrift lautet "Weitere Informationen"
         placeholder: Ähnliche Themen
       sidebar: fields/seitenleiste
