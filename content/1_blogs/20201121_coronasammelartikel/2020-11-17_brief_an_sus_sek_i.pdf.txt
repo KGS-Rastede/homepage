@@ -1,0 +1,5 @@
+Anzeigename: Brief an die SchülerInnen der Sek I (JG 5-10)
+
+----
+
+Template: datei

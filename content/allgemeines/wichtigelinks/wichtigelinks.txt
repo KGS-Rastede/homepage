@@ -15,10 +15,3 @@ Schule:
 - >
   gebaeudeplan_aufenthaltsbereiche_endfassung2017.pdf
 - gebaeudeplan.pdf
-- >
-  2020-11-17_leitfaden-schule-in-corona-zeiten_update.pdf
-- 2020-11-17_brief_an_eltern_2.pdf
-- 2020-11-17_brief_an_eltern_1.pdf
-- 2020-11-17_brief_an_sus_sek_ii.pdf
-- 2020-11-17_brief_an_sus_sek_i.pdf
-- anleitung_netzwerk_2019.pdf
