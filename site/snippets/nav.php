@@ -16,7 +16,7 @@ $items = name => link
       "spalte" = Es wird ein neuer Menüpunkt (Splate) eingefügt
   link -> der zugehörige Link
 
-$items = name => icon_name  
+$icons = name => icon_name  
   name -> ist nicht unbedingt nötig und dient nur zur Übersicht
   icon_name -> der name des icons z.B. "alarm-fill"
 */
@@ -33,45 +33,114 @@ $items = array(
   "Schülervertretung (SV)"  => "sv/die_sv",
   "Personalrat (SPR)" => "kontakte/spr",
   "Gleichstellungsbeauftragte" => "kontakte/gleichstellung",
-  "Schulelternrat (SER)" => "ser/vorstand",/*
-  "Förderverein" => 
+  "Schulelternrat (SER)" => "ser/vorstand",
+  "Förderverein" => "foerderverein/ueber_uns",
 
   "spalte",
-  "Leitbild" => 
-  "Schulprogramm" => 
-  "Unsere Geschichte" => 
-  "Übergang Grundschule/KGS" => 
-  "Die drei Schulzweige" => 
-  "Oberstufe" => 
-  "Abschlüsse an der KGS" => 
-  "Zuständigkeiten / Organigramm" => 
-  "Ausbildungsschule" => 
-  "Unsere Schule in der Presse" => 
+  "Leitbild" => "schule/leitbild",
+  "Schulprogramm" => "schule/schulprogramm",
+  "Unsere Geschichte" => "schule/geschichte",
+  "Übergang Grundschule/KGS" => "schule/grundschule",
+  "Die drei Schulzweige" => "schule/zweige",
+  "Oberstufe" => "schule/oberstufe",
+  "Abschlüsse an der KGS" => "schule/abschluesse",
+  "Zuständigkeiten / Organigramm" => "schule/organigramm",
+  "Ausbildungsschule" => "schule/ausbildungsschule",
+  "Unsere Schule in der Presse" => "schule/presse",
 
-  "spalte"
-  "Fächer" => 
-  "Berufsorientierung" => 
-  "Schülerfirmen" => 
-  "Beratung" => 
-  "Inklusion" => 
-  "Kulturelles" => 
-  "Wettbewerbe" => 
-  "Das AG-Angebot" => 
-  "Schule ohne Rassismus - Schule mit Courage" => 
-  "Schulsanitätsdienst" => 
-  "BO-Coaches" => 
-  "Schulhund" => 
-  "Streitschlichter" => 
+  "spalte",
+  "Fächer" => "Faecher",
+  "Berufsorientierung" => "unterricht/berufsorientierung",
+  "Schülerfirmen" => "unterricht/schuelerfirmen",
+  "Beratung" => "unterricht/beratung",
+  "Inklusion" => "unterricht/inklusion",
+  "Kulturelles" => "unterricht/kulturelles",
+  "Wettbewerbe" => "unterricht/wettbewerbe",
+  "Das AG-Angebot" => "unterricht/ag-angebot",
+  "Schule ohne Rassismus - Schule mit Courage" => "unterricht/schule-ohne-rassismus-schule-mit-courage",
+  "Schulsanitätsdienst" => "unterricht/ssd",
+  "BO-Coaches" => "unterricht/bo-coaches",
+  "Schulhund" => "unterricht/schulhund",
+  "Streitschlichter" => "unterricht/streitschlichter",
   
-  "spalte"
-  "Informationen und Formulare" => 
-  "Schulbusverkehr" => 
-  "Zeitraster" => 
+  "spalte",
+  "Informationen und Formulare" => "allgemeines/wichtigelinks",
+  "Schulbusverkehr" => "allgemeines/bus",
+  "Zeitraster" => "allgemeines/zeitraster"
 
-*/
+
 );
-?>
+$icons = array(
 
+  "Anfahrt" => "",
+  "Schulleitung" => "",
+  "Fachbereichsleiter" => "",
+  "Kollegium" => "lehrer",
+  "Sekretariate" => "",
+  "Hausmeister" => "",
+  "Schülervertretung (SV)"  => "",
+  "Personalrat (SPR)" => "",
+  "Gleichstellungsbeauftragte" => "",
+  "Schulelternrat (SER)" => "",
+  "Förderverein" => "",
+
+  
+  "Leitbild" => "",
+  "Schulprogramm" => "",
+  "Unsere Geschichte" => "",
+  "Übergang Grundschule/KGS" => "",
+  "Die drei Schulzweige" => "",
+  "Oberstufe" => "",
+  "Abschlüsse an der KGS" => "",
+  "Zuständigkeiten / Organigramm" => "",
+  "Ausbildungsschule" => "",
+  "Unsere Schule in der Presse" => "",
+
+  
+  "Fächer" => "",
+  "Berufsorientierung" => "",
+  "Schülerfirmen" => "",
+  "Beratung" => "",
+  "Inklusion" => "",
+  "Kulturelles" => "",
+  "Wettbewerbe" => "",
+  "Das AG-Angebot" => "",
+  "Schule ohne Rassismus - Schule mit Courage" => "",
+  "Schulsanitätsdienst" => "",
+  "BO-Coaches" => "",
+  "Schulhund" => "",
+  "Streitschlichter" => "",
+  
+  "Informationen und Formulare" => "",
+  "Schulbusverkehr" => "",
+  "Zeitraster" => "",
+);
+$titel_count = 0;
+$icons_count = 0;
+
+foreach($items as $name => $link) :
+  if($item == "spalte") : ?>
+      </div>
+    </li>
+
+      <li class="dropdown nav-item">
+        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+          <?= $titel[$titel_count] ?>
+        </a>
+
+      <div class="dropdown-menu dropdown-with-icons">
+
+  <?php elseif ($item == "trenn") : ?>
+        <div class="dropdown-divider"></div>
+
+  <?php else : ?>
+        <a class="dropdown-item" href="<?= page($link)->url() ?>">
+          <svg class="bi" width="24" height="24">
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#<?= $icons[$icons_count] ?>" />
+          </svg> <?= $name ?>
+        </a>
+  <?php endif;
+endforeach ?>
 
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
   <!--
