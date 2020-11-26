@@ -10,15 +10,13 @@
     </div>
 <?php endif ?>
 
-<a href="<?= page("blogs") ?>">
-    <button class="btn btn-secondary mb-5">
+<a href="<?= page("blogs") ?>" class="btn btn-secondary mb-5" role="button">    
 
-        <?php if(collection('blogs-startseite')->isNotEmpty()) : //wenn aktuelle Artikel vorhanden sind ?>
-            Weitere Nachrichten aus der Schule &#8594;
-        <?php else : //wenn keine aktuellen Artikel vorhanden sind ?>
-            Nachrichten aus der Schule &#8594;
-        <?php endif ?>
-        
-    </button>
+    <?php if(collection('blogs-startseite')->isNotEmpty()) : //wenn aktuelle Artikel vorhanden sind ?>
+        Weitere Nachrichten aus der Schule &#8594;
+    <?php else : //wenn keine aktuellen Artikel vorhanden sind ?>
+        Nachrichten aus der Schule &#8594;
+    <?php endif ?>        
+   
 </a>
 
