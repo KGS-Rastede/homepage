@@ -137,7 +137,7 @@ $icons_count = 0;
 //Nachfolgend wird die Grundstruktur für die Navbar erstellt
 ?>
 <p> <?//php var_dump($items) ?> </p>
-<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
+<nav class="navbar navbar-expand-lg navbar-light bg-secondary">
   <!--
           Hier kann das Logo stehen oder der Name der Schule.
           Müssen wir am Ende vom Design her entscheiden.
@@ -203,7 +203,6 @@ $icons_count = 0;
 <?php unset($items) ?>
 
 <?php  //Ab hier kommt der alte code für die navbar  ?>
-<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
 <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
   <!--
           Hier kann das Logo stehen oder der Name der Schule.
