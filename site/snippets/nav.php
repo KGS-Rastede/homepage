@@ -174,6 +174,12 @@ $icons_count = 0;
         <?php endif;
       endforeach ?>
 
+      <li class="dropdown nav-item">
+        <a class="nav-link" href="<?= page('allgemeines/kalender')->url() ?>">
+          Kalender
+        </a>
+      </li>
+
     </ul>
   </div>
 </nav> 
