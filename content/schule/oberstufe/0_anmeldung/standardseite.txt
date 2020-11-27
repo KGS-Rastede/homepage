@@ -43,4 +43,30 @@ Text:
 
 ----
 
-Downloads: 
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- anmeldeformular-sek-ii-2020.pdf
+- kurswahl-e-phase-auswaertige.pdf
+- anmeldeformular-sek-ii_2021.pdf
+- infoveranstaltung-sek-ii-teil-1.pdf
+- infoveranstaltung-sek-ii-teil-2.pdf
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
