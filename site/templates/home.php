@@ -12,7 +12,7 @@
 
         <div class="card bg-primary">
           <!-- 
-          An besonderen Tagen (Schneefrei, Heizungsburch, ...) soll ganz schnell
+          An besonderen Tagen (Schneefrei, Heizungsbruch, ...) soll ganz schnell
           ein Banner angezeigt werden, damit die Eltern schnell informiert werden können
           -->
 
