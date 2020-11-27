@@ -204,6 +204,7 @@ $icons_count = 0;
 
 <?php  //Ab hier kommt der alte code für die navbar  ?>
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
+<nav class="navbar navbar-expand-lg navbar-light bg-secondary">
   <!--
           Hier kann das Logo stehen oder der Name der Schule.
           Müssen wir am Ende vom Design her entscheiden.
@@ -213,7 +214,7 @@ $icons_count = 0;
       <?= asset('assets/bilder/logo.svg')->read() ?>
     </a>
   </div>
-  <a class="navbar-brand text-white d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
+  <a class="navbar-brand d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -505,7 +506,7 @@ $icons_count = 0;
         </a>
       </li>
 
-
+    </ul>
   </div>
 
 

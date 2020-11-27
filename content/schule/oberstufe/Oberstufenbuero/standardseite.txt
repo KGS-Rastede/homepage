@@ -1,0 +1,172 @@
+Title: Oberstufenbüro
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Bei Fragen, Problemen oder ähnlichem helfen wir gerne weiter. Sie finden uns im Raum 220, können Sich aber gerne auch per Email oder telefonisch bei uns melden.",
+        "id": "_a01r13xv6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_2vqs82b76",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Telefonnummer: 04402 - 9264 69",
+        "id": "_0pb4j35ms",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_zgckk3l5g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Joachim Diekmann",
+        "id": "_b4kndgth1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "(email: dk@kgs-rastede.de)",
+        "id": "_vn8q2yjbs",
+        "type": "kirbytext"
+    },
+    {
+        "attrs": [],
+        "content": "Hilke Garbe",
+        "id": "_7rjhua11h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "(email:  gb@kgs-rastede.de)",
+        "id": "_adt14w3y6",
+        "type": "kirbytext"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_h5abvhunf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_x0ed5o3xq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_iqxubake2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_k7ohyzrmx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_d7d09wz69",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_akr1mm2kw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_2g4vu8wmw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_nc1lsud5k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ipyaz9uon",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_hefgkfa2n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_tfurjkeiq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_u721jdw7a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_w615oupgk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_9w75iqdk6",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: true

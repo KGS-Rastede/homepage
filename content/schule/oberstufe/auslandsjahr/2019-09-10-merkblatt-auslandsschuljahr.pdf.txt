@@ -1,0 +1,9 @@
+Anzeigename: Merkblatt für Auslandsaufenthalte
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs

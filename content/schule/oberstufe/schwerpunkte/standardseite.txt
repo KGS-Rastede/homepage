@@ -23,11 +23,21 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Wir haben als Entscheidungshilfe eine Übersicht zusammengestellt, welcher Schwerpunkt für welchen Schülertyp geeignet sein könnte. Darüber hinaus solltest du vor deiner Wahl aber noch zahlreiche Gespräche mit Freunden, Eltern, Lehrkräften oder auch der Oberstufenkoordination führen. Außerdem findest du hier eine Übersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Prüfungsfachkombinationen.",
-        "id": "_RxXuTswpj",
+        "content": "Wir haben als Entscheidungshilfe eine Übersicht zusammengestellt, welcher Schwerpunkt für welchen Schülertyp geeignet sein könnte. Darüber hinaus sollten vor der Wahl aber noch zahlreiche Gespräche mit Freunden, Eltern, Lehrkräften oder auch der Oberstufenkoordination geführt werden.",
+        "id": "_afspwyron",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine Übersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Prüfungsfachkombinationen befindet sich im Download-Bereich.",
+        "id": "_pe7fpj6xq",
         "type": "paragraph"
     }
 ]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -35,14 +45,15 @@ Related:
 
 ----
 
-Downloads:
-
-- schwerpunkte_ab-abi-2022.pdf
-- schwerpunkte_ab-abi-2023.pdf
+Downloadtitel: 
 
 ----
 
-Toggle: true
+Downloads:
+
+- info-oberstufe-kgs-rastede2020.pdf
+- schwerpunkte_ab-abi-2022.pdf
+- schwerpunkte_ab-abi-2023.pdf
 
 ----
 
@@ -51,3 +62,7 @@ Sidetitel:
 ----
 
 Sidebar: 
+
+----
+
+Toggle: true

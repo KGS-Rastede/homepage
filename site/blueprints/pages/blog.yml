@@ -101,6 +101,7 @@ columns:
             label: Zugehörige Dateien
             help: Hier können beliebige Dateien für den Download bereitgestellt werden
             type: files
+            uploads: datei
           fotoansicht:
             label: Fotos anzeigen
             type: select

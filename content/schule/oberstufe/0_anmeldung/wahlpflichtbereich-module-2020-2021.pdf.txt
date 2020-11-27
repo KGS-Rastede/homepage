@@ -1,5 +1,0 @@
-Anzeigename: Module des Wahlpflichtbereiches
-
-----
-
-Template: datei

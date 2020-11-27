@@ -2,16 +2,52 @@
 /* import only the necessary Bootstrap files */
 /* -------begin customization-------- */
 /* simply assign the value */
+@font-face {
+  font-family: "PangeaTrial";
+  src: url("PangeaTrial-Light.woff2");
+  font-style: normal;
+  font-weight: 300;
+  src: local("PangeaTrial-Light"), local("PangeaTrial-Light"), url("./PangeaTrial-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Pangea";
+  src: url("./PangeaTrial-Regular.woff2");
+  font-style: normal;
+  font-weight: 400;
+  src: local("PangeaTrial-Regular"), local("PangeaTrial-Regular"), url("./PangeaTrial-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PangeaTrial";
+  src: url("PangeaTrial-Medium.woff2");
+  font-style: normal;
+  font-weight: 500;
+  src: local("PangeaTrial-Medium"), local("PangeaTrial-Medium"), url("./PangeaTrial-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PangeaTrial";
+  src: url("PangeaTrial-SemiBold.woff2");
+  font-style: normal;
+  font-weight: 600;
+  src: local("PangeaTrial-SemiBold"), local("PangeaTrial-SemiBold"), url("./PangeaTrial-SemiBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PangeaTrial";
+  src: url("./PangeaTrial-Bold.woff2");
+  font-style: normal;
+  font-weight: 700;
+  src: local("PangeaTrial-Bold"), local("PangeaTrial-Bold"), url("./PangeaTrial-Bold.woff2") format("woff2");
+}
 .navbar-light .navbar-nav a.nav-link {
-  color: #ffffff;
+  color: #dfe6f7;
+  font-size: 22px;
 }
 
 .dropdown-menu a {
-  color: #ffffff;
+  color: #586994;
 }
 
 .dropdown-menu {
-  background-color: #0e5499 !important;
+  background-color: white !important;
 }
 
 .main {
@@ -396,7 +432,7 @@ footer {
   --bs-danger: #8c271e;
   --bs-light: #0e5499;
   --bs-dark: #c0c0c0;
-  --bs-font-sans-serif: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  --bs-font-sans-serif: PangeaTrial, Segoe UI, Optima, Arial, sans-serif;
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
@@ -416,18 +452,13 @@ footer {
 body {
   margin: 0;
   font-family: var(--bs-font-sans-serif);
-  font-size: calc(1.265rem + 0.18vw);
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #fafdf6;
+  background-color: #f4f4f4;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
-@media (min-width: 1200px) {
-  body {
-    font-size: 1.4rem;
-  }
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -4642,18 +4673,13 @@ textarea.form-control-lg {
   align-items: center;
   width: 100%;
   padding: 1rem 1.25rem;
-  font-size: calc(1.265rem + 0.18vw);
+  font-size: 1rem;
   color: #212529;
   background-color: transparent;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0;
   overflow-anchor: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, border-radius 0.15s ease;
-}
-@media (min-width: 1200px) {
-  .accordion-button {
-    font-size: 1.4rem;
-  }
 }
 @media (prefers-reduced-motion: reduce) {
   .accordion-button {
@@ -5948,16 +5974,11 @@ textarea.form-control-lg {
 .popover-header {
   padding: 0.5rem 1rem;
   margin-bottom: 0;
-  font-size: calc(1.265rem + 0.18vw);
+  font-size: 1rem;
   background-color: #f0f0f0;
   border-bottom: 1px solid #d8d8d8;
   border-top-left-radius: calc(0.3rem - 1px);
   border-top-right-radius: calc(0.3rem - 1px);
-}
-@media (min-width: 1200px) {
-  .popover-header {
-    font-size: 1.4rem;
-  }
 }
 .popover-header:empty {
   display: none;
@@ -7511,7 +7532,7 @@ textarea.form-control-lg {
 }
 
 .bg-body {
-  background-color: #fafdf6 !important;
+  background-color: #f4f4f4 !important;
 }
 
 .bg-white {

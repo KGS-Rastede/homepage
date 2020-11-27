@@ -1,16 +1,22 @@
-<div class="card mb-3 mt-3">
-    <div class="card-body ">
-        <h4 class="card-category">Das Neueste aus der Schule</h4>
+<h2 class="mt-5 mb-3">Aus dem Schulleben</h2>
 
-        <ul class="list-group">
+<?php if(collection('blogs-startseite')->isNotEmpty()) : //wenn aktuelle Artikel vorhanden sind  ?>
+    <div class="row row-cols-1 row-cols-xs-1 row-cols-lg-2 g-4">
 
-            <?php
-                $articles = page('blogs')->children()->listed()->flip()->limit(10);
+        <?php foreach (collection('blogs-startseite') as $subpage){
+            snippet('blogkarte', ['subpage' => $subpage]); 
+        }?>
 
-                foreach ($articles as $item) : ?>
-                    <a href="<?= $item->url() ?>" class="list-group-item list-group-item-action"><?= $item->title() ?></a>
-                <?php endforeach ?>
-
-        </ul>
     </div>
-</div>
+<?php endif ?>
+
+<a href="<?= page("blogs") ?>" class="btn btn-secondary mb-5" role="button">    
+
+    <?php if(collection('blogs-startseite')->isNotEmpty()) : //wenn aktuelle Artikel vorhanden sind ?>
+        Weitere Nachrichten aus der Schule &#8594;
+    <?php else : //wenn keine aktuellen Artikel vorhanden sind ?>
+        Nachrichten aus der Schule &#8594;
+    <?php endif ?>        
+   
+</a>
+

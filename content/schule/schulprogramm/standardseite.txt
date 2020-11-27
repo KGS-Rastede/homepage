@@ -1,0 +1,54 @@
+Title: Unser Schulprogramm
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Diese Seite ist noch nicht fertig",
+        "id": "_50285o7gw",
+        "type": "h1"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/schule+abschluesse/files/baustelle.jpg",
+            "id": "schule/abschluesse/baustelle.jpg",
+            "filename": "baustelle.jpg",
+            "ratio": 1.335113484646195,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_pl8ep1hhz",
+        "type": "image"
+    }
+]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 

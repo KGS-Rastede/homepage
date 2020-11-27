@@ -4,7 +4,7 @@
 <?php snippet('sidebar') ?>
 
 
-<div class="container-fluid">
+<div class="container">
   <?php
     $items = page('sv/blogs')->children()->listed();
 

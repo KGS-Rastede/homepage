@@ -11,11 +11,33 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Bereits nach dem ersten Jahr der Qualifikationsphase kann man unter bestimmten Voraussetzungen den schulischen Teil der Fachhochschulreife erreichen, der dann zusammen mit dem praktischen Teil vielfältige Studienmöglichkeiten eröffnet. Der praktische Teil kann ein einjähriges berufsbezogenes Vollzeitpraktikum, ein FSJ, FÖJ usw., ein einjähriger freiwilliger Wehrdienst oder eine abgeschlossene Berufsausbildung sein. Bevor man sich für einen bestimmten Bereich oder ein bestimmtes Unternehmen entscheidet, sollte immer eine Rücksprache mit der Oberstufenkoordination erfolgen.",
-        "id": "_m6nbfsczs",
+        "content": "Bereits nach dem ersten Jahr der Qualifikationsphase kann unter bestimmten Voraussetzungen der schulische Teil der Fachhochschulreife erreicht werden, der dann zusammen mit dem praktischen Teil vielfältige Studienmöglichkeiten eröffnet. Der praktische Teil kann ein einjähriges berufsbezogenes Vollzeitpraktikum, ein FSJ, FÖJ usw., ein einjähriger freiwilliger Wehrdienst oder eine abgeschlossene Berufsausbildung sein.",
+        "id": "_9j7jvobzt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Weitere Informationen zu den notwendigen schulischen Voraussetzungen und den Anforderungen an das Praktikum befinden sich in den Dokumenten im Download-Bereich dieser Seite. In den Hinweisen zu den Praktikumsregelungen werden die Anforderungen für Schülerinnen und Schüler der gymasialen Oberstufe im Abschnitt 3 beschrieben.",
+        "id": "_25hdh0z1j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vor der Entscheidung für einen bestimmten Bereich oder ein bestimmtes Unternehmen sollte immer eine Rücksprache mit der <a title=\"Oberstufenbüro\" href=\"Oberstufenbuero\">Oberstufenkoordination </a>erfolgen.",
+        "id": "_acrbgjhfp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_v2qsaedpn",
         "type": "paragraph"
     }
 ]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -23,11 +45,15 @@ Related:
 
 ----
 
-Downloads: 
+Downloadtitel: 
 
 ----
 
-Toggle: true
+Downloads:
+
+- fh-schulisch-ab-2019.pdf
+- >
+  20161216_hinweisepraktikum_fhsr_gymn-obst.pdf
 
 ----
 
@@ -36,3 +62,7 @@ Sidetitel:
 ----
 
 Sidebar: 
+
+----
+
+Toggle: true

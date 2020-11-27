@@ -1,0 +1,9 @@
+Anzeigename: Hinweise zu den Praktikumsregelungen
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs

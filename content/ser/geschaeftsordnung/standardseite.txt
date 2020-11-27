@@ -709,7 +709,15 @@ Text:
 
 ----
 
+Relatedtitel: 
+
+----
+
 Related: 
+
+----
+
+Downloadtitel: 
 
 ----
 
@@ -717,23 +725,15 @@ Downloads:
 
 ----
 
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
 Toggle: false
-
-----
-
-Sidetitel: Mehr zum Thema
-
-----
-
-Sidebar:
-
-- 
-  link: https://www.google.de/
-  name: Das ist der erste Link
-- 
-  link: >
-    https://getkirby.com/docs/reference/templates/field-methods/to-structure
-  name: Hier geht es zu Kirby
 
 ----
 

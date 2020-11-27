@@ -1,4 +1,4 @@
-<div class="card">
+<div class="card mb-3">
     <div class="card-body ">
         <h4 class="card-category">Aus der Presse</h4>
         <?php

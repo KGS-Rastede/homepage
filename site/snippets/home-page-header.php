@@ -43,4 +43,3 @@
   <h1 class="display-6 mb-3">
     <?= $page->heading() ?>
   </h1>
-  </div>

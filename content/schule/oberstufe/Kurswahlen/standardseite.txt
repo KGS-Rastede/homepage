@@ -1,0 +1,136 @@
+Title: Kurswahlen
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Die Kurswahlen für die Einführungs- und die Qualikationsphase können unter den folgenden Links probeweise durchgeführt werden:<br>",
+        "id": "_wn7qvti4t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a title=\"Wahlen Einführungsphase\" href=\"http://wahlen11.kgs-rastede.de/\">Wahlen für die Einführungsphase</a>",
+        "id": "_rs07ht3r3",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"http://wahlenquali.kgs-rastede.de/\">Wahlen für die Qualifikationsphase</a>",
+        "id": "_v5c3rqy28",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_x0ed5o3xq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_iqxubake2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_k7ohyzrmx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_d7d09wz69",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_akr1mm2kw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_2g4vu8wmw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_nc1lsud5k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ipyaz9uon",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_hefgkfa2n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_tfurjkeiq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_u721jdw7a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_w615oupgk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_9w75iqdk6",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: true

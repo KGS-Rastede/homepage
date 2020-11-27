@@ -11,11 +11,33 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Der Übergang von der Sekundarstufe I zur Oberstufe ist ein guter Zeitpunkt, ein ganzes Schuljahr oder ein halbes im Ausland zu verbringen. Das Auslandsjahr kann unter bestimmten Voraussetzungen die Einführungsphase ersetzen, so dass man kein Schuljahr verliert und anschließend wieder in seinen alten Jahrgang zurückkehren kann. Hinweise dazu findet man in den Links. Die Freistellung für das Auslandsjahr muss in jedem Fall schriftlich aber formlos rechtzeitig vorher bei der Schulleitung beantragt werden und es sollte immer eine Rücksprache mit der Oberstufenkoordination erfolgen.",
+        "content": "Der Übergang von der Sekundarstufe I zur Oberstufe ist ein guter Zeitpunkt, ein ganzes Schuljahr oder ein halbes im Ausland zu verbringen. Das Auslandsjahr kann unter bestimmten Voraussetzungen die Einführungsphase ersetzen, sodass man kein Schuljahr verliert und anschließend wieder in seinen alten Jahrgang zurückkehren kann. Hinweise dazu befinden sich in den Links. Die Freistellung für das Auslandsjahr muss in jedem Fall schriftlich aber formlos rechtzeitig vorher bei der Schulleitung beantragt werden und es sollte immer eine Rücksprache mit der Oberstufenkoordination erfolgen.",
         "id": "_7krh9h7sc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_5yg798qyk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In OIdenburg findet einmal jährlich die <a title=\"Jugendbildungsmesse\" href=\"https://jugendbildungsmesse.de/jubi-oldenburg/\">Jugendbildungsmesse </a>statt mit Informationen zum Auslandsjahr.",
+        "id": "_ygcs4pgla",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_4iav05ioz",
         "type": "paragraph"
     }
 ]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -23,19 +45,34 @@ Related:
 
 ----
 
-Downloads: 
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- >
+  2019-09-10-merkblatt-auslandsschuljahr.pdf
+
+----
+
+Sidetitel: Weitere Informationen
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gymnasium/gymnasium-6319.html
+  name: Kultusministerium
+- 
+  link: https://www.jugendbildungsmesse.de/
+  name: Jugendbildungsmesse
 
 ----
 
 Toggle: false
-
-----
-
-Sidetitel: 
-
-----
-
-Sidebar: 
 
 ----
 

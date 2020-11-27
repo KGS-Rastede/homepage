@@ -11,32 +11,44 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Jede Schülerin und jeder Schüler muss sich für die Oberstufe anmelden. Anmeldeschluss ist dabei landesweit in jedem Jahr der 20. Februar. Die Anmeldung mit den nebenstehenden Unterlagen muss vormittags persönlich im Sekretariat der KGS Rastede abgegeben werden.",
-        "id": "_nkg7lmk7v",
+        "content": "Jede Schülerin und jeder Schüler muss sich für die Oberstufe anmelden. Anmeldeschluss ist dabei landesweit in jedem Jahr der 20. Februar. Die Anmeldung muss vormittags persönlich im Sekretariat der KGS Rastede abgegeben werden.",
+        "id": "_ev9mi4oki",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "",
-        "id": "_mf3av9dvv",
+        "id": "_fyefbyt43",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Bereits in der Einführungsphase kann man sich in einigen Fachbereichen zwischen verschiedenen Fächern entscheiden. Dabei sollte man berücksichtigen, dass ein einmal abgewähltes Fach in der Qualifikationsphase nicht mehr als Prüfungsfach gewählt werden kann und bestimmte Fächer Voraussetzung zur Wahl bestimmter Schwerpunkte sind. Beispielsweise muss, wer den sportlichen Schwerpunkt anstrebt, in der Einführungsphase Sporttheorie belegen.",
-        "id": "_0thki0bfl",
+        "content": "<strong>Einfluss der Wahlen in der Einführungsphase</strong>&nbsp;",
+        "id": "_n08eaxgjd",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "",
-        "id": "_ELWUwrpEq",
+        "content": "Bereits in der Einführungsphase kann in einigen Fachbereichen eine Entscheidung zwischen verschiedenen Fächern getroffen werden. Dabei sollte berücksichtigt werden, dass ein einmal abgewähltes Fach in der Qualifikationsphase nicht mehr als Prüfungsfach gewählt werden kann und bestimmte Fächer Voraussetzung zur Wahl bestimmter Schwerpunkte sind. Beispielsweise muss, wer den sportlichen Schwerpunkt anstrebt, in der Einführungsphase Sporttheorie belegen.",
+        "id": "_yrrYIXbrr",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Schülerinnen und Schüler, die bereits seit der sechsten Klasse durchgängig eine zweite Fremdsprache belegt haben, können anstelle dieser in der Einführungsphase den Wahlpflichtbereich belegen, der unter bestimmten inhaltlichen Oberthemen steht. Die aktuellen Angebote findet man unter dem Link. Eine Wahl des sprachlichen Schwerpunktes ist dann jedoch nicht mehr möglich.",
-        "id": "_XQ85xJ1Vn",
+        "content": "&nbsp;",
+        "id": "_gR2caDaAE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wahlpflichtbereich</strong>",
+        "id": "_5o5x4zkr0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schülerinnen und Schüler, die bereits seit der sechsten Klasse durchgängig eine zweite Fremdsprache belegt haben, können anstelle dieser in der Einführungsphase den Wahlpflichtbereich belegen, der unter bestimmten inhaltlichen Oberthemen steht. Die aktuellen Angebote finden Sie unter dem Link. Eine Wahl des sprachlichen Schwerpunktes ist dann jedoch nicht mehr möglich.",
+        "id": "_qLl25MhKM",
         "type": "paragraph"
     }
 ]
@@ -55,7 +67,14 @@ Downloadtitel:
 
 ----
 
-Downloads: 
+Downloads:
+
+- anmeldeformular-sek-ii-hinweise.pdf
+- anmeldeformular-sek-ii_2021.pdf
+- kurswahl-e-phase-auswaertige.pdf
+- infoveranstaltung-sek-ii-teil-1.pdf
+- infoveranstaltung-sek-ii-teil-2.pdf
+- module.pdf
 
 ----
 
@@ -64,7 +83,3 @@ Sidetitel:
 ----
 
 Sidebar: 
-
-----
-
-Toggle: true

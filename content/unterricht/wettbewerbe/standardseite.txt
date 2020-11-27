@@ -2,7 +2,48 @@ Title: Wettbewerbe
 
 ----
 
-Text: 
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Diese Seite ist noch nicht fertig",
+        "id": "_apjwr4fj5",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_r2m504123",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_jos76nxs1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/unterricht+wettbewerbe/files/baustelle.jpg",
+            "id": "unterricht/wettbewerbe/baustelle.jpg",
+            "filename": "baustelle.jpg",
+            "ratio": 1.335113484646195,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_rktgcvsr6",
+        "type": "image"
+    }
+]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -10,12 +51,20 @@ Related:
 
 ----
 
+Downloadtitel: 
+
+----
+
 Downloads: 
 
 ----
 
-Toggle: false
+Sidetitel: 
 
 ----
 
 Sidebar: 
+
+----
+
+Toggle: false

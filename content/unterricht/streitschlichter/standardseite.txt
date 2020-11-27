@@ -2,7 +2,48 @@ Title: Streitschlichter
 
 ----
 
-Text: 
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Diese Seite ist noch nicht fertig",
+        "id": "_qsufqshg4",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_20vaf41yv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_bdbhyko72",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/unterricht+streitschlichter/files/baustelle.jpg",
+            "id": "unterricht/streitschlichter/baustelle.jpg",
+            "filename": "baustelle.jpg",
+            "ratio": 1.335113484646195,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_qg0jdie1v",
+        "type": "image"
+    }
+]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -10,12 +51,20 @@ Related:
 
 ----
 
+Downloadtitel: 
+
+----
+
 Downloads: 
 
 ----
 
-Toggle: false
+Sidetitel: 
 
 ----
 
 Sidebar: 
+
+----
+
+Toggle: false

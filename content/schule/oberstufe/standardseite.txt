@@ -59,13 +59,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "In der Qualifikationsphase (Jahrgang 12 und 13) gibt es keinen Klassenverband mehr. Stattdessen wählt man Schwerpunkte und individuelle Prüfungsfächer, so dass sich in jedem Kurs eine neue Schülergemeinschaft bildet. Die Rolle der Klassenlehrkraft übernimmt dabei die <a title=\"Seminarfächer\" href=\"oberstufe/seminarfaecher\">Seminarfachlehrkraft</a>.",
+        "content": "In der Qualifikationsphase (Jahrgang 12 und 13) gibt es keinen Klassenverband mehr. Stattdessen werden Schwerpunkte und individuelle Prüfungsfächer gewählt, sodass sich in jedem Kurs eine neue Schülergemeinschaft bildet. Die Rolle der Klassenlehrkraft übernimmt dabei die <a title=\"Seminarfächer\" href=\"oberstufe/seminarfaecher\">Seminarfachlehrkraft</a>.",
         "id": "_ljxgit9gk",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Die KGS Rastede bietet in der Qualifikationsphase alle fünf in Niedersachsen existierenden <a title=\"Schwerpunkte\" href=\"oberstufe/schwerpunkte\">Schwerpunkte </a>an: den sprachlichen, den naturwissenschaftlichen, den musisch-künstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es darüber hinaus vielfältige Kombinationsmöglichkeiten der Prüfungsfächer, sodass jeder seine individuellen Interessen und Stärken optimal entfalten kann. Die Entscheidung über den eigenen Schwerpunkt und die fünf Abiturprüfungsfächer trifft man zu Beginn des zweiten Halbjahrs der Einführungsphase.",
+        "content": "Die KGS Rastede bietet in der Qualifikationsphase alle fünf in Niedersachsen existierenden <a title=\"Schwerpunkte\" href=\"oberstufe/schwerpunkte\">Schwerpunkte </a>an: den sprachlichen, den naturwissenschaftlichen, den musisch-künstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es darüber hinaus vielfältige Kombinationsmöglichkeiten der Prüfungsfächer, sodass jeder seine individuellen Interessen und Stärken optimal entfalten kann. Die Entscheidung über den eigenen Schwerpunkt und die fünf Abiturprüfungsfächer wird zu Beginn des zweiten Halbjahrs der Einführungsphase getroffen.",
         "id": "_7yb45bpnz",
         "type": "paragraph"
     },
@@ -91,6 +91,10 @@ Text:
 
 ----
 
+Relatedtitel: 
+
+----
+
 Related:
 
 - schule/oberstufe/anmeldung
@@ -98,14 +102,16 @@ Related:
 - schule/oberstufe/schwerpunkte
 - schule/oberstufe/seminarfaecher
 - schule/oberstufe/fachhochschulreife
+- schule/oberstufe/Kurswahlen
+- schule/oberstufe/Oberstufenbuero
+
+----
+
+Downloadtitel: 
 
 ----
 
 Downloads: 
-
-----
-
-Toggle: true
 
 ----
 
@@ -119,3 +125,7 @@ Sidebar:
   link: >
     https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gymnasium/gymnasium-6319.html
   name: 'Kultusministerium: Informationen zum Gymnasium'
+
+----
+
+Toggle: true
