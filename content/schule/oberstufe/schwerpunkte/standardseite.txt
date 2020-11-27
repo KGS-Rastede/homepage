@@ -23,8 +23,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Wir haben als Entscheidungshilfe eine Übersicht zusammengestellt, welcher Schwerpunkt für welchen Schülertyp geeignet sein könnte. Darüber hinaus solltest du vor deiner Wahl aber noch zahlreiche Gespräche mit Freunden, Eltern, Lehrkräften oder auch der Oberstufenkoordination führen. Außerdem findest du hier eine Übersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Prüfungsfachkombinationen.",
-        "id": "_RxXuTswpj",
+        "content": "Wir haben als Entscheidungshilfe eine Übersicht zusammengestellt, welcher Schwerpunkt für welchen Schülertyp geeignet sein könnte. Darüber hinaus sollten vor der Wahl aber noch zahlreiche Gespräche mit Freunden, Eltern, Lehrkräften oder auch der Oberstufenkoordination geführt werden.",
+        "id": "_afspwyron",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine Übersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Prüfungsfachkombinationen befindet sich im Download-Bereich.",
+        "id": "_pe7fpj6xq",
         "type": "paragraph"
     }
 ]

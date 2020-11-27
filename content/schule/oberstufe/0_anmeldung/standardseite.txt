@@ -11,14 +11,20 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Jede Schülerin und jeder Schüler muss sich für die Oberstufe anmelden. Anmeldeschluss ist dabei landesweit in jedem Jahr der 20. Februar. Die Anmeldung mit den nebenstehenden Unterlagen muss vormittags persönlich im Sekretariat der KGS Rastede abgegeben werden.",
-        "id": "_Ecf2VPT2c",
+        "content": "Jede Schülerin und jeder Schüler muss sich für die Oberstufe anmelden. Anmeldeschluss ist dabei landesweit in jedem Jahr der 20. Februar. Die Anmeldung muss vormittags persönlich im Sekretariat der KGS Rastede abgegeben werden.",
+        "id": "_ev9mi4oki",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "&nbsp;",
-        "id": "_YyR11AjVh",
+        "content": "",
+        "id": "_fyefbyt43",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Einfluss der Wahlen in der Einführungsphase</strong>&nbsp;",
+        "id": "_n08eaxgjd",
         "type": "paragraph"
     },
     {
@@ -31,6 +37,12 @@ Text:
         "attrs": [],
         "content": "&nbsp;",
         "id": "_gR2caDaAE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wahlpflichtbereich</strong>",
+        "id": "_5o5x4zkr0",
         "type": "paragraph"
     },
     {
@@ -57,11 +69,12 @@ Downloadtitel:
 
 Downloads:
 
-- anmeldeformular-sek-ii-2020.pdf
-- kurswahl-e-phase-auswaertige.pdf
+- anmeldeformular-sek-ii-hinweise.pdf
 - anmeldeformular-sek-ii_2021.pdf
+- kurswahl-e-phase-auswaertige.pdf
 - infoveranstaltung-sek-ii-teil-1.pdf
 - infoveranstaltung-sek-ii-teil-2.pdf
+- module.pdf
 
 ----
 

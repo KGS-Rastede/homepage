@@ -1,4 +1,4 @@
-Anzeigename: Foo Bar
+Anzeigename: Anmeldeformular
 
 ----
 

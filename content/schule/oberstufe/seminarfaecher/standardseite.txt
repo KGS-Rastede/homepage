@@ -12,7 +12,133 @@ Text:
     {
         "attrs": [],
         "content": "Das Seminarfach ist sozusagen die Familie in der Qualifikationsphase. Die Seminarfachlehrkraft ist gleichzeitig Tutorin bzw. Tutor und erster Ansprechpartner in allen schulischen Fragen. Das Seminarfach dient der Vorbereitung wissenschaftspropädeutischen Arbeitens, hier geht es um Methodenlernen, Präsentieren und das Erstellen einer Facharbeit. Außerdem findet die Studienfahrt innerhalb der Seminarfachgemeinschaft statt. Jedes Seminarfach steht unter einem bestimmten Thema.",
-        "id": "_cwy1it879",
+        "id": "_0bdhug6qh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die aktuellen Themen werden über IServ bekannt gegeben.",
+        "id": "_23ydiagt9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Seminarfachthemen der leztzten Jahre</strong>",
+        "id": "_n0hlewhc3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Fernsehserie - der Roman des 21. Jahrhunderts?",
+        "id": "_mbxmvvien",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Der Einfluss von Ernährung auf den menschlichen Organismus",
+        "id": "_h4v1hr87v",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Dimensionen von Sprache",
+        "id": "_9jumr0vke",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Jeder einmal nach Berlin! - \"Eins in die Fresse, mein Herzblättchen?\" - Berlin in den 20er Jahren",
+        "id": "_wld2whj7x",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Gesellschaft im Wandel",
+        "id": "_cv6rn6t58",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Wohnt das Glück in der Stadt – oder gehen uns Städte auf die<br>Nerven?",
+        "id": "_lgcrwu7cl",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Trend-, Riskio- &amp; Extremsportarten – Sport im Wandel?",
+        "id": "_t6960vwok",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Dimensionen des Sports",
+        "id": "_hg7imq210",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Künstliche Intelligenz",
+        "id": "_nlold1p0r",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Zukunft der Städte – Städte der Zukunft",
+        "id": "_vjdxbemap",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Nation – Nationalismus – nationale Identität – Gibt es überhaupt eine deutsche Geschichte?",
+        "id": "_eosiy7r7y",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Journalismus im 21. Jahrhundert",
+        "id": "_d63koklor",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Machtpoker Weltmeere",
+        "id": "_m64hxw7iu",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Sportgroßveranstaltungen",
+        "id": "_xmui0rf90",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Ubiquitous Computing",
+        "id": "_i7j9q9peq",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "„Nirgendland“ – Utopien und utopisches Denken",
+        "id": "_i39hr2b71",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Klimawandel",
+        "id": "_wscscgvoc",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_zo4xw307y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_7fthex6c8",
         "type": "paragraph"
     }
 ]
