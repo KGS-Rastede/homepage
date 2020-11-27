@@ -112,13 +112,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Elternsprechtag",
-"start": "2020-11-25T16:00",
-"end": "2020-11-25T19:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Informationen Jg. 10 zur Sek. II für Schüler",
 "start": "2021-01-19T11:50",
 "end": "2021-01-19T13:30",
@@ -129,6 +122,13 @@
 "title": "Schulelternrat",
 "start": "2020-09-28T19:30",
 "end": "2020-09-28T21:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Elternsprechtag",
+"start": "2020-11-25T16:00",
+"end": "2020-11-25T19:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -1130,6 +1130,13 @@
 "title": "Herbstferien 2020 Niedersachsen",
 "start": "2020-10-12",
 "end": "2020-10-24",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "vorgezogene Weihnachtsferien",
+"start": "2020-12-21",
+"end": "2020-12-23",
 "color": "white",
 "textColor": "#707070"
 },
