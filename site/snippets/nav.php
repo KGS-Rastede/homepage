@@ -127,11 +127,8 @@ $icons = array(
   "Zeitraster" => "clock",
   "spalte_ende"
 );
-$titel_count = 0;
+$titel_count = -1;
 $icons_count = 0;
-$spalte_anfang = "spalte_anfang";
-$spalte_ende = "spalte_ende";
-$trenn = "trenn";
 
 //Nachfolgend wird die Grundstruktur für die Navbar erstellt
 ?>
@@ -156,9 +153,9 @@ $trenn = "trenn";
     <ul class="navbar-nav ml-auto mb-2 mr-3 mb-lg-0 ">
 
 
-      <?php  foreach($items as $name => $link) : //Ab hier werden die Arrays durchlaufen und alle Elemente werden in die navbar eingefügt
+      <?php  foreach($items as $name => $link) : $titel_count++; //Ab hier werden die Arrays durchlaufen und alle Elemente werden in die navbar eingefügt
       
-        if (strcmp ($name, $spalte_anfang) == 0) : echo strcmp ($name, $spalte_anfang);//Anfang einer Spalte ?>
+        if (strcmp ($name, "spalte_anfang") == 0) : echo strcmp ($name, "spalte_anfang");//Anfang einer Spalte ?>
           <li class="dropdown nav-item">
             <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
               <?= $titel[$titel_count] ?>
@@ -166,11 +163,11 @@ $trenn = "trenn";
 
             <div class="dropdown-menu dropdown-with-icons">
 
-        <?php elseif (strcmp ($name, $spalte_ende) == 0) : //Ende einer Spalte ?>
+        <?php elseif (strcmp ($name, "spalte_ende") == 0) : //Ende einer Spalte ?>
             </div>
           </li>    
 
-        <?php elseif (strcmp ($name, $trenn) == 0) : //Ein Trennstrich zwischen zwei Elementen ?>
+        <?php elseif (strcmp ($name, "trenn") == 0) : //Ein Trennstrich zwischen zwei Elementen ?>
               <div class="dropdown-divider"></div>
 
         <?php else : //Die Elemente bzw. links ?>
