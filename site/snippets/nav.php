@@ -28,11 +28,13 @@ $titel = array(
 $items = array(
   1 => "spalte_anfang",
   "Anfahrt" => "allgemeines/anfahrt",
+    -1 => "trennstrich",
   "Schulleitung" => "kontakte/schulleitung",
   "Fachbereichsleiter" => "kontakte/fbl",
   "Kollegium" => "lehrer",
   "Sekretariate" => "kontakte/sekretariate",
   "Hausmeister" => "kontakte/sekretariate",
+    -2 => "trennstrich",
   "Schülervertretung (SV)"  => "sv/die_sv",
   "Personalrat (SPR)" => "kontakte/spr",
   "Gleichstellungsbeauftragte" => "kontakte/gleichstellung",
@@ -40,18 +42,25 @@ $items = array(
   "Förderverein" => "foerderverein/ueber_uns",
   2 => "spalte_ende",
 
+
   3 => "spalte_anfang",
   "Leitbild" => "schule/leitbild",
   "Schulprogramm" => "schule/schulprogramm",
   "Unsere Geschichte" => "schule/geschichte",
+    -3 => "trennstrich",
   "Übergang Grundschule/KGS" => "schule/grundschule",
+    -4 => "trennstrich",
   "Die drei Schulzweige" => "schule/zweige",
   "Oberstufe" => "schule/oberstufe",
   "Abschlüsse an der KGS" => "schule/abschluesse",
+    -5 => "trennstrich",
   "Zuständigkeiten / Organigramm" => "schule/organigramm",
+    -6 => "trennstrich",
   "Ausbildungsschule" => "schule/ausbildungsschule",
+    -7 => "trennstrich",
   "Unsere Schule in der Presse" => "schule/presse",
   4 => "spalte_ende",
+
 
   5 => "spalte_anfang",
   "Fächer" => "Faecher",
@@ -59,15 +68,18 @@ $items = array(
   "Schülerfirmen" => "unterricht/schuelerfirmen",
   "Beratung" => "unterricht/beratung",
   "Inklusion" => "unterricht/inklusion",
+    -8 => "trennstrich",
   "Kulturelles" => "unterricht/kulturelles",
   "Wettbewerbe" => "unterricht/wettbewerbe",
   "Das AG-Angebot" => "unterricht/ag-angebot",
   "Schule ohne Rassismus - Schule mit Courage" => "unterricht/schule-ohne-rassismus-schule-mit-courage",
+    -9 => "trennstrich",
   "Schulsanitätsdienst" => "unterricht/ssd",
   "BO-Coaches" => "unterricht/bo-coaches",
   "Schulhund" => "unterricht/schulhund",
   "Streitschlichter" => "unterricht/streitschlichter",
   6 => "spalte_ende",
+
 
   7 => "spalte_anfang",
   "Informationen und Formulare" => "allgemeines/wichtigelinks",
@@ -124,6 +136,7 @@ $icons_count = 0;
 
 //Nachfolgend wird die Grundstruktur für die Navbar erstellt
 ?>
+<p> <?//php var_dump($items) ?> </p>
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
   <!--
           Hier kann das Logo stehen oder der Name der Schule.
@@ -156,7 +169,7 @@ $icons_count = 0;
 
               <div class="dropdown-menu dropdown-with-icons">
 
-          <?php elseif ($name%2 == 0) : //Gerade Zahl also -> Ende einer Spalte ?>
+          <?php elseif ($name > 0 && $name%2 == 0) : //Gerade Zahl also -> Ende einer Spalte ?>
               </div>
             </li>    
 
