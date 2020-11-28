@@ -76,7 +76,8 @@ Navbar:
     - 
       isexternal: 'false'
       linktitle: Gleichstellungsbeauftragte
-      pagelink: [ ]
+      pagelink: 
+        - kontakte/gleichstellung
       externallink: ""
       trennstrich: 'false'
       icon: ""
@@ -188,8 +189,105 @@ Navbar:
   unterpunkte:
     - 
       isexternal: 'false'
-      linktitle: ""
-      pagelink: [ ]
+      linktitle: "Fächer"
+      pagelink: 
+        - Faecher
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Berufsorientierung"
+      pagelink: 
+        - unterricht/berufsorientierung
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Schülerfirmen"
+      pagelink: 
+        - unterricht/schuelerfirmen
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Beratung"
+      pagelink: 
+        - unterricht/beratung
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Inkulsion"
+      pagelink: 
+        - unterricht/inklusion
+      externallink: ""
+      trennstrich: 'true'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Kulturelles"
+      pagelink: 
+        - unterricht/kulturelles
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Wettbewerbe"
+      pagelink: 
+        - unterricht/wettbewerbe
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Das Ag-Angebot"
+      pagelink: 
+        - unterricht/ag-angebot
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Schule ohne Rassismus - Schule mit Courage"
+      pagelink: 
+        - unterricht/schule-ohne-rassismus-schule-mit-courage
+      externallink: ""
+      trennstrich: 'true'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Schulsanitätsdienst"
+      pagelink: 
+        - unterricht/ssd
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "BO-Coaches"
+      pagelink: 
+        - unterricht/bo-coaches
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Schulhund"
+      pagelink: 
+        - unterricht/schulhund
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Streitschlichter"
+      pagelink: 
+        - unterricht/streitschlichter
       externallink: ""
       trennstrich: 'false'
       icon: ""
@@ -200,13 +298,31 @@ Navbar:
   unterpunkte:
     - 
       isexternal: 'false'
-      linktitle: ""
-      pagelink: [ ]
+      linktitle: "Informationen und Formulare"
+      pagelink: 
+        - allgemeines/wichtigelinks
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Schulbusverkehr"
+      pagelink: 
+        - allgemeines/bus
+      externallink: ""
+      trennstrich: 'false'
+      icon: ""
+    - 
+      isexternal: 'false'
+      linktitle: "Zeitraster"
+      pagelink: 
+        - allgemeines/zeitraster
       externallink: ""
       trennstrich: 'false'
       icon: ""
 - 
   dropdowntoggle: 'false'
-  kategorietitel: Kalender
-  kategorieseite: [ ]
+  kategorietitel: "Kalender"
+  kategorieseite: 
+    - allgemeines/kalender
   unterpunkte: [ ]
