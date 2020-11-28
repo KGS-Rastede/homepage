@@ -2,7 +2,7 @@
 
 <?php $kategorien = page('navbar')->navbar()->toStructure() ?>
 
-<?php if ($kategorien->isNotEmpty()) : ?>
+<?php if ($kategorien->isNotEmpty()) : //Erst die Grundstruktur für die nav ?>
 
   <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
       <!--
@@ -24,7 +24,8 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto mb-2 mr-3 mb-lg-0">
 
-        <?php snippet('navkategorien', ['items' => $kategorien]) ?>
+        <?php //Jetzt kommen alle Kategorien
+          snippet('navkategorien', ['items' => $kategorien]) ?>
 
       </ul>
     </div>

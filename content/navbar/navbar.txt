@@ -95,7 +95,7 @@ Navbar:
       pagelink:
         - foerderverein/ueber_uns
       externallink: ""
-      trennstrich: 'true'
+      trennstrich: 'false'
       icon: ""
 - 
   dropdowntoggle: 'true'
@@ -180,7 +180,7 @@ Navbar:
       pagelink:
         - schule/presse
       externallink: ""
-      trennstrich: 'true'
+      trennstrich: 'false'
       icon: ""
 - 
   dropdowntoggle: 'true'
