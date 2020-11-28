@@ -6,7 +6,7 @@ Navbar:
 
 - 
   dropdowntoggle: 'true'
-  kategorietitel: Kontakte
+  kategorietitel: Kontakt
   kategorieseite: [ ]
   unterpunkte:
     - 
@@ -76,7 +76,7 @@ Navbar:
     - 
       isexternal: 'false'
       linktitle: Gleichstellungsbeauftragte
-      pagelink: 
+      pagelink:
         - kontakte/gleichstellung
       externallink: ""
       trennstrich: 'false'
@@ -189,104 +189,105 @@ Navbar:
   unterpunkte:
     - 
       isexternal: 'false'
-      linktitle: "Fächer"
-      pagelink: 
+      linktitle: Fächer
+      pagelink:
         - Faecher
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Berufsorientierung"
-      pagelink: 
+      linktitle: Berufsorientierung
+      pagelink:
         - unterricht/berufsorientierung
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Schülerfirmen"
-      pagelink: 
+      linktitle: Schülerfirmen
+      pagelink:
         - unterricht/schuelerfirmen
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Beratung"
-      pagelink: 
+      linktitle: Beratung
+      pagelink:
         - unterricht/beratung
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Inkulsion"
-      pagelink: 
+      linktitle: Inkulsion
+      pagelink:
         - unterricht/inklusion
       externallink: ""
       trennstrich: 'true'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Kulturelles"
-      pagelink: 
+      linktitle: Kulturelles
+      pagelink:
         - unterricht/kulturelles
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Wettbewerbe"
-      pagelink: 
+      linktitle: Wettbewerbe
+      pagelink:
         - unterricht/wettbewerbe
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Das Ag-Angebot"
-      pagelink: 
+      linktitle: Das Ag-Angebot
+      pagelink:
         - unterricht/ag-angebot
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Schule ohne Rassismus - Schule mit Courage"
-      pagelink: 
-        - unterricht/schule-ohne-rassismus-schule-mit-courage
+      linktitle: 'Schule ohne Rassismus - Schule mit Courage'
+      pagelink:
+        - >
+          unterricht/schule-ohne-rassismus-schule-mit-courage
       externallink: ""
       trennstrich: 'true'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Schulsanitätsdienst"
-      pagelink: 
+      linktitle: Schulsanitätsdienst
+      pagelink:
         - unterricht/ssd
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "BO-Coaches"
-      pagelink: 
+      linktitle: BO-Coaches
+      pagelink:
         - unterricht/bo-coaches
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Schulhund"
-      pagelink: 
+      linktitle: Schulhund
+      pagelink:
         - unterricht/schulhund
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Streitschlichter"
-      pagelink: 
+      linktitle: Streitschlichter
+      pagelink:
         - unterricht/streitschlichter
       externallink: ""
       trennstrich: 'false'
@@ -298,31 +299,31 @@ Navbar:
   unterpunkte:
     - 
       isexternal: 'false'
-      linktitle: "Informationen und Formulare"
-      pagelink: 
+      linktitle: Informationen und Formulare
+      pagelink:
         - allgemeines/wichtigelinks
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Schulbusverkehr"
-      pagelink: 
+      linktitle: Schulbusverkehr
+      pagelink:
         - allgemeines/bus
       externallink: ""
       trennstrich: 'false'
       icon: ""
     - 
       isexternal: 'false'
-      linktitle: "Zeitraster"
-      pagelink: 
+      linktitle: Zeitraster
+      pagelink:
         - allgemeines/zeitraster
       externallink: ""
       trennstrich: 'false'
       icon: ""
 - 
   dropdowntoggle: 'false'
-  kategorietitel: "Kalender"
-  kategorieseite: 
+  kategorietitel: Kalender
+  kategorieseite:
     - allgemeines/kalender
   unterpunkte: [ ]

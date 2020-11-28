@@ -1,5 +1,42 @@
-<?php 
-/* 
+
+
+<?php $kategorien = page('navbar')->navbar()->toStructure() ?>
+
+<?php if ($kategorien->isNotEmpty()) : ?>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+      <!--
+            Hier kann das Logo stehen oder der Name der Schule.
+            Müssen wir am Ende vom Design her entscheiden.
+          -->
+    <div class="d-none d-sm-none d-lg-block d-xl-block">
+      <a class="logo" href="<?= $site->url() ?>">
+        <?= asset('assets/bilder/logo.svg')->read() ?>
+      </a>
+    </div>
+
+    <a class="navbar-brand text-white d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto mb-2 mr-3 mb-lg-0">
+
+        <?php snippet('navkategorien', ['items' => $kategorien]) ?>
+
+      </ul>
+    </div>
+  </nav>
+
+<?php endif ?>
+
+
+
+
+<?php  
+/*
 --Navbar--
 Doc zur class navbar: https://v5.getbootstrap.com/docs/5.0/components/navbar/
 Verfügbare icons: https://icons.getbootstrap.com/
@@ -28,7 +65,7 @@ $icons = NAME => ICON_NAME
   NAME -> ist nicht unbedingt nötig und dient nur zur Übersicht | --->>>> zur Zeit wird er benötigt soll aber in Zukunft nicht nötig sein <<---
   ICON_NAME -> der name des icons z.B. "alarm-fill"
 */
-
+/*
 $titel = array(
   "Kontakt", "Über die Schule", "Unterricht & Schulleben", "Service & Downloads"
 );
@@ -208,7 +245,7 @@ $icons_count = -1;
 </nav> 
 
 
-<?php  /*Ab hier kommt der alte code für die navbar  ?>
+<?php  ///Ab hier kommt der alte code für die navbar  ?>
 <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
   <!--
           Hier kann das Logo stehen oder der Name der Schule.
