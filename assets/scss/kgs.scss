@@ -6,15 +6,8 @@
 
 /* -------begin customization-------- */
 
-// $font-size-base: 1.4rem;
-/* simply assign the value */
-
-
-
-
-
-
-
+// Basisschriftgröße etwas erhöhen
+$font-size-base: 1.2rem;
 
 @font-face{
     font-family: 'PangeaTrial';
@@ -88,16 +81,18 @@ $theme-colors: (
 );
 
 .navbar-light .navbar-nav a.nav-link {
-    color: #dfe6f7;
-    font-size: 22px;
+    color: #f4f4f4 !important;
+    // font-size: 22px;
 }
 
-.dropdown-menu a {
-    color: #586994;
-}
+// .dropdown-menu a {
+//     color: #58945d;
+// }
 
 .dropdown-menu {
-    background-color: white !important;
+    // Das ist die Farbe des Hintergrundes
+    // vom Dropdownmenu
+    background-color: #f4f4f4 !important;
 }
 
 .main {

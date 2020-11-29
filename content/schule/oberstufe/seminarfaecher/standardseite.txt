@@ -23,7 +23,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Seminarfachthemen der leztzten Jahre</strong>",
+        "content": "<strong>Seminarfachthemen der letzten Jahre</strong>",
         "id": "_n0hlewhc3",
         "type": "paragraph"
     },

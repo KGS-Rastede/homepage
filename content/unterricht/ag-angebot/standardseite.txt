@@ -1,4 +1,4 @@
-Title: Schule ohne Rassismus - Schule mit Courage
+Title: Das AG-Angebot
 
 ----
 
@@ -12,25 +12,25 @@ Text:
     {
         "attrs": [],
         "content": "Diese Seite ist noch nicht fertig",
-        "id": "_63ivkgsop",
+        "id": "_qmhrl42h0",
         "type": "h1"
     },
     {
         "attrs": [],
         "content": "",
-        "id": "_26vithkw9",
+        "id": "_c38dkru6b",
         "type": "paragraph"
     },
     {
         "attrs": {
-            "guid": "/pages/unterricht+schule-ohne-rassismus-schule-mit-courage/files/baustelle.jpg",
-            "id": "unterricht/schule-ohne-rassismus-schule-mit-courage/baustelle.jpg",
+            "guid": "/pages/unterricht+ag-angebot/files/baustelle.jpg",
+            "id": "unterricht/ag-angebot/baustelle.jpg",
             "filename": "baustelle.jpg",
             "ratio": 1.335113484646195,
             "caption": ""
         },
         "content": "",
-        "id": "_ce00lltax",
+        "id": "_8wq2584yl",
         "type": "image"
     }
 ]
@@ -58,7 +58,3 @@ Sidetitel:
 ----
 
 Sidebar: 
-
-----
-
-Toggle: false

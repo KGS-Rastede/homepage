@@ -7,9 +7,11 @@
             height: 400px;">
 
     <?php else : ?>
-      <div class="p-5 mt-5 text-center bg-image" style="
-    background-image: url('<?= $kirby->url('assets') ?>/img/banner_eng.jpg');
-    ">
+      <div class="p-5 text-center bg-image" style="
+    background-image: url('<?= $kirby->url('assets') ?>/img/carbon.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:30vh    ">
       <?php endif ?>
       </div>
 
