@@ -35,7 +35,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Ein weiteres Merkmal unseres Gymnasialzweig ist die Pflicht, dass ab Klasse 8 bis einschließlich Klasse 10 eines der fünf Profile aus dem Wahlpflichtbereich belegt werden muss. Es gibt dort die dritte Fremdsprache Französisch oder das Profil Wirtschaft Informatik oder das Profil Naturwissenschaften oder das Profil Musisch- kulturelle Bildung oder das Profil Gesellschaftwissenschaft.",
+        "content": "Ein weiteres Merkmal unseres Gymnasialzweig ist die Pflicht, dass ab Klasse 8 bis einschließlich Klasse 10 eines der fünf Profile aus dem Wahlpflichtbereich belegt werden muss. Es gibt dort die dritte Fremdsprache Französisch oder das Profil Wirtschaft Informatik oder das Profil Naturwissenschaften oder das Profil Musisch-kulturelle Bildung oder das Profil Gesellschaftswissenschaften.",
         "id": "_EOfe6GDUk",
         "type": "paragraph"
     },
