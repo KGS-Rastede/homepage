@@ -11,21 +11,45 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Diese Seite ist noch nicht fertig",
-        "id": "_50285o7gw",
-        "type": "h1"
+        "content": "Im Gymnasialzweig der KGS Rastede wird nach derselben Stundentafel und nach denselben Kerncurricula unterrichtet, wie an allen anderen Gymnasien in Niedersachsen. Das Zentralabitur ist identisch mit dem Zentralabitur aller Gymnasien in Niedersachsen.",
+        "id": "_zjxyuSGpf",
+        "type": "paragraph"
     },
     {
-        "attrs": {
-            "guid": "/pages/schule+abschluesse/files/baustelle.jpg",
-            "id": "schule/abschluesse/baustelle.jpg",
-            "filename": "baustelle.jpg",
-            "ratio": 1.335113484646195,
-            "caption": ""
-        },
-        "content": "",
-        "id": "_pl8ep1hhz",
-        "type": "image"
+        "attrs": [],
+        "content": "Allerdings werden die Fächer Kunst und Musik in Kursen gemeinsam mit Schülerinnen und Schüler aus dem Realschulzweig unterrichtet. Das Fach Sport ist hingegen vollintegrativ, d.h. dort werden Schülerinnen und Schüler aller drei Schulzweige in Kursen unterrichtet.",
+        "id": "_jzyyfXIUT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wesentliche Kernpunkte für die gymnasiale Bildung ist die Lerngeschwindigkeit, das Abstraktionsniveau und die Pflicht neben Englisch eine weitere Fremdsprache zu erlernen. Folglich müssen Schülerinnen und Schüler des Gymnasialzweiges eine der drei Fremdsprachen Französisch, Latein oder Spanisch ab Klasse 6 belegen.",
+        "id": "_VP21tfVOS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Für Schülerinnen und Schüler, die erst ab Klasse 11 den Gymnasialzweig besuchen, weil sie z.B. vorher unseren Realschulzweig besucht haben, kann die zweite Fremdsprache ab Klasse 11 erst belegt werden. <br>",
+        "id": "_g7dGYJ1SX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ein weiteres Merkmal unseres Gymnasialzweig ist die Pflicht, dass ab Klasse 8 bis einschließlich Klasse 10 eines der fünf Profile aus dem Wahlpflichtbereich belegt werden muss. Es gibt dort die dritte Fremdsprache Französisch oder das Profil Wirtschaft Informatik oder das Profil Naturwissenschaften oder das Profil Musisch- kulturelle Bildung oder das Profil Gesellschaftwissenschaft.",
+        "id": "_EOfe6GDUk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In unserem Gymnasialzweig bieten wir dann in Jahrgang 12 und 13, also in den letzten beiden Jahren vor dem Abitur, alle fünf möglichen Schwerpunkte an. Auch Schülerinnen und Schüler, die aus dem Realschulzweig kommen und dort den erweiterten Sekundarabschluss I erreicht haben, können dann die elfte Klasse des Gymnasiums besuchen.<br>In unserem Gymnasialzweig können Sie nicht nur nach der zehnten Klasse den erweiterten Sekundarabschluss I ablegen, sondern auch nach Jahrgang zwölf den schulischen Teil der Fachhochschulreife und natürlich nach Jahrgang 13 das Abitur.<br><br><br>",
+        "id": "_dwUUDIWRn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_WCHVcvxi6",
+        "type": "paragraph"
     }
 ]
 
@@ -43,12 +67,4 @@ Downloadtitel:
 
 ----
 
-Downloads: 
-
-----
-
-Sidetitel: 
-
-----
-
-Sidebar: 
+Leitung: Malte Bormann
