@@ -8,7 +8,7 @@
 
     <?php else : ?>
       <div class="p-5 text-center bg-image" style="
-    background-image: url('<?= $kirby->url('assets') ?>/img/carbon.jpg');
+    background-image: url('<?= $kirby->url('assets') ?>/img/IMG_1343.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     height:30vh    ">
