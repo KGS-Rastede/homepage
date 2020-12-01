@@ -68,7 +68,7 @@
     <?php endforeach ?>
   </div>
 
-</div>d
+</div>
 
 <?php $pagination = $list->pagination() ?>
 <?php snippet('pagination', ['pagination' => $pagination]) ?>
