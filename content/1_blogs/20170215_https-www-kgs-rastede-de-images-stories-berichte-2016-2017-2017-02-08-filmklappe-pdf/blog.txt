@@ -11,13 +11,13 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Die Jugendlichen greifen die Themen Ausl\u00e4nderfeindlichkeit und Brandanschl\u00e4ge auf. Gedrehtwurde in Rastedeund in Hahn-Lehmden. VON FRANK JACOB RASTEDE\u2013",
+        "content": "Die Jugendlichen greifen die Themen Ausländerfeindlichkeit und Brandanschläge auf. Gedrehtwurde in Rastedeund in Hahn-Lehmden. VON FRANK JACOB RASTEDE–",
         "id": "_8u85q4jqe",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Eine Sch\u00fclergruppe der Kooperativen Gesamtschule (KGS) Rastede ist f\u00fcr den Nieders\u00e4chsischen Kurzfilmpreis nominiert worden. Die Jugendlichen greifen in ihrem Beitrag \u201eDunkler Rauch\u201c die Themen Ausl\u00e4nderfeindlichkeit, Brandanschl\u00e4ge und \u00dcbergriffe auf Fl\u00fcchtlingseinrichtungen auf. An diesem Mittwochnehmen sie im Astor Grand Cinema in Hannover an der Preisverleihung teil. \u201eWir haben geh\u00f6rt, dass viele Vorurteile gegen Fl\u00fcchtlinge bestehen\u201c, sagt die 16-j\u00e4hrige Lysann Zdarsky. Zusammen mit Maart Wilken(16), Malte Hedemann (17), Keno Fuhrken(16), Celin Ildiz(16), Jasmin Hellwig (16) und Nalin Altin(17) drehte sie daher den f\u00fcnfeinhalb Minutenlangen Kurzfilm, der das Wettbewerbsmotto \u201eganz sch\u00f6n ungerecht\u201caufgreift. Worum geht es in dem Beitrag? Als in ihrem Laden etwas gestohlen wird, beschuldigt die Verk\u00e4uferin sogleich zwei Fl\u00fcchtlinge. \u201eDabei waren es Deutsche\u201c, sagt LysannZdarsky. Die Deutschen m\u00fcssen daraufhin Sozialarbeit leisten, wor\u00fcber sie sich aufregen. Sie geben den Fl\u00fcchtlingen die Schuld, weil die sie verpetzt h\u00e4tten, schildert Maart Wilken die weitere Handlung. Die Deutschen wollen sich r\u00e4chen und z\u00fcnden eine Fl\u00fcchtlingsunterkunftan. \u201eWir haben in Hahn-Lehmden und in Rastede gedreht\u201c, erz\u00e4hlt Wilken. Schaupl\u00e4tze sind unter anderem eine Privatwohnung, vor dem Kindergarten und eine Boutique in Rastede. Drei Tage dauerten dieDreharbeiten. Vorher hatten die Sch\u00fcler das Drehbuch geschrieben, hinterher standen Schnitt und Nachbearbeitung auf dem Programm. Der Kurzfilm entstand im Kunstunterricht mit Lehrerin AlinaEdelmann. \u201eAllein die Nominierung ist schon toll\u201c,sagt sie. Nun seien alle gespannt auf das Urteil der Jury. \u201eIch glaube, die filmische Darstellung ist uns gut gelungen\u201c, sagt Malte Hedemann, der bereits Erfahrungen als Kameramann gesammelt hat. In der Schule gab es imVorfeld auch eine Unterrichtseinheit zum Thema Film. \u201eDa haben wir uns vorallem theoretisch zum Beispiel mit Kameraeinstellungen besch\u00e4ftigt\u201c, berichtet Lysann Zdarsky. Im Kunstunterricht entstanden zudem weitere Kurzfilme. \u201eDrei haben wir eingeschickt, einer wurde nominiert\u201c, sagt Wilken, der sich dar\u00fcber nat\u00fcrlich ebenso wie seine Mitsch\u00fcler freut.",
+        "content": "Eine Schülergruppe der Kooperativen Gesamtschule (KGS) Rastede ist für den Niedersächsischen Kurzfilmpreis nominiert worden. Die Jugendlichen greifen in ihrem Beitrag „Dunkler Rauch“ die Themen Ausländerfeindlichkeit, Brandanschläge und Übergriffe auf Flüchtlingseinrichtungen auf. An diesem Mittwochnehmen sie im Astor Grand Cinema in Hannover an der Preisverleihung teil. „Wir haben gehört, dass viele Vorurteile gegen Flüchtlinge bestehen“, sagt die 16-jährige Lysann Zdarsky. Zusammen mit Maart Wilken(16), Malte Hedemann (17), Keno Fuhrken(16), Celin Ildiz(16), Jasmin Hellwig (16) und Nalin Altin(17) drehte sie daher den fünfeinhalb Minutenlangen Kurzfilm, der das Wettbewerbsmotto „ganz schön ungerecht“aufgreift. Worum geht es in dem Beitrag? Als in ihrem Laden etwas gestohlen wird, beschuldigt die Verkäuferin sogleich zwei Flüchtlinge. „Dabei waren es Deutsche“, sagt LysannZdarsky. Die Deutschen müssen daraufhin Sozialarbeit leisten, worüber sie sich aufregen. Sie geben den Flüchtlingen die Schuld, weil die sie verpetzt hätten, schildert Maart Wilken die weitere Handlung. Die Deutschen wollen sich rächen und zünden eine Flüchtlingsunterkunftan. „Wir haben in Hahn-Lehmden und in Rastede gedreht“, erzählt Wilken. Schauplätze sind unter anderem eine Privatwohnung, vor dem Kindergarten und eine Boutique in Rastede. Drei Tage dauerten die Dreharbeiten. Vorher hatten die Schüler das Drehbuch geschrieben, hinterher standen Schnitt und Nachbearbeitung auf dem Programm. Der Kurzfilm entstand im Kunstunterricht mit Lehrerin AlinaEdelmann. „Allein die Nominierung ist schon toll“,sagt sie. Nun seien alle gespannt auf das Urteil der Jury. „Ich glaube, die filmische Darstellung ist uns gut gelungen“, sagt Malte Hedemann, der bereits Erfahrungen als Kameramann gesammelt hat. In der Schule gab es imVorfeld auch eine Unterrichtseinheit zum Thema Film. „Da haben wir uns vorallem theoretisch zum Beispiel mit Kameraeinstellungen beschäftigt“, berichtet Lysann Zdarsky. Im Kunstunterricht entstanden zudem weitere Kurzfilme. „Drei haben wir eingeschickt, einer wurde nominiert“, sagt Wilken, der sich darüber natürlich ebenso wie seine Mitschüler freut.",
         "id": "_3nm6uqd9e",
         "type": "paragraph"
     }
@@ -35,6 +35,10 @@ Date: 2017-02-15 10:35
 
 ----
 
+Datumstartseite: 
+
+----
+
 Author: Frank Jacob
 
 ----
@@ -43,8 +47,12 @@ Tags: Kunst
 
 ----
 
-Featured: false
+Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
