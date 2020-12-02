@@ -16,7 +16,7 @@ $aktuelleSeite = $pagination->page() ?>
             <?php for ($i = 1; $i <= $extraSeiten; $i++) : ?> 
                 <?php if ($i < ( $aktuelleSeite - ($range/2) + 0.5 )) :
 
-                        //d-none d-sm-blok => auf dem Handy nicht anzeigen?>
+                        //d-none d-sm-block => auf dem Handy nicht anzeigen?>
                     <li class="page-item d-none d-sm-block">
                         <a class="page-link" href="<?= $pagination->pageURL($i) ?>">
                             <?= $i ?>
