@@ -62,7 +62,8 @@ $aktuelleSeite = $pagination->page() ?>
             <?php if ($gesamtSeitenzahl - $extraSeiten > $aktuelleSeite + ($range/2)) : 
                 //Es gibt Elemente zwischen der letzten normalen Seite und der ersten extra Seite
 
-                    //d-none d-sm-blok => auf dem Handy nicht anzeigen?>
+                //d-none d-sm-block => auf dem Handy nicht anzeigen
+                ?>
                 <li class="page-item d-none d-sm-block">
                     <a class="page-link">
                         ...
@@ -71,9 +72,9 @@ $aktuelleSeite = $pagination->page() ?>
             <?php endif ?>
 
             <?php for ($i = $gesamtSeitenzahl - ($extraSeiten-1); $i <= $gesamtSeitenzahl; $i++) : ?> 
-                <?php if ($i > ($aktuelleSeite + $range/2)) : 
-                    
-                        //d-none d-sm-blok => auf dem Handy nicht anzeigen?>
+                <?php if ($i > ($aktuelleSeite + $range/2)) :     
+                //d-none d-sm-block => auf dem Handy nicht anzeigen
+                ?>
                     <li class="page-item d-none d-sm-block">
                         <a class="page-link" href="<?= $pagination->pageURL($i) ?>">
                             <?= $i ?>
