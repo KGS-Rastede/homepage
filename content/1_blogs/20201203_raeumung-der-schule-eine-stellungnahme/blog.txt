@@ -1,0 +1,58 @@
+Title: Räumung der Schule - Eine Stellungnahme
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Was in jedem Haushalt passiert, ist heute auch bei uns im Physikunterricht passiert: Eine Röhre ist durchgebrannt.",
+        "id": "_RX2bhCh4g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vorsorglich wurden sofort Feuerwehr und Krankenwagen alarmiert und die Schule evakuiert. Quecksilber ist nach Angaben der Beteiligten nicht ausgetreten. Auch sind keine Gase ausgetreten.",
+        "id": "_lfnxfmq9s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es gibt keinen Personenschaden, alle betroffenen Schülerinnen und Schüler und eine Lehrkraft wurden der Vorsicht halber ärztlich untersucht.",
+        "id": "_n6wzu80bx",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-12-03 17:35
+
+----
+
+Datumstartseite: 2020-12-10 14:35
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Topartikel, Schulleitung
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
