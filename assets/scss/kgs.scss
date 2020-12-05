@@ -10,59 +10,59 @@
 $font-size-base: 1.2rem;
 
 @font-face{
-    font-family: 'PangeaTrial';
-    src: url('PangeaTrial-Light.woff2');
+    font-family: 'Pangea';
+    src: url('Pangea-LightWeb.woff2');
     font-style: normal;
     font-weight: 300;
 
-    src: local('PangeaTrial-Light'), local('PangeaTrial-Light'),
-    url('./PangeaTrial-Light.woff2') format('woff2');
+    src: local('Pangea-LightWeb'), local('Pangea-LightWeb'),
+    url('./Pangea-LightWeb.woff2') format('woff2');
 }
 
 @font-face{
     font-family: 'Pangea';
-    src: url('./PangeaTrial-Regular.woff2');
+    src: url('./Pangea-RegularWeb.woff2');
     font-style: normal;
     font-weight: 400;
 
-    src: local('PangeaTrial-Regular'), local('PangeaTrial-Regular'),
-    url('./PangeaTrial-Regular.woff2') format('woff2');
+    src: local('Pangea-Regular'), local('Pangea-RegularWeb'),
+    url('./Pangea-RegularWeb.woff2') format('woff2');
 }
 
 @font-face{
-    font-family: 'PangeaTrial';
-    src: url('PangeaTrial-Medium.woff2');
+    font-family: 'Pangea';
+    src: url('Pangea-MediumWeb.woff2');
     font-style: normal;
     font-weight: 500;
 
-    src: local('PangeaTrial-Medium'), local('PangeaTrial-Medium'),
-    url('./PangeaTrial-Medium.woff2') format('woff2');
+    src: local('Pangea-MediumWeb'), local('Pangea-MediumWeb'),
+    url('./Pangea-MediumWeb.woff2') format('woff2');
 }
 
 @font-face{
-    font-family: 'PangeaTrial';
-    src: url('PangeaTrial-SemiBold.woff2');
+    font-family: 'Pangea';
+    src: url('Pangea-SemiBoldWeb.woff2');
     font-style: normal;
     font-weight: 600;
 
-    src: local('PangeaTrial-SemiBold'), local('PangeaTrial-SemiBold'),
-    url('./PangeaTrial-SemiBold.woff2') format('woff2');
+    src: local('Pangea-SemiBold'), local('Pangea-SemiBoldWeb'),
+    url('./Pangea-SemiBoldWeb.woff2') format('woff2');
 }
 
 
 @font-face{
-    font-family: 'PangeaTrial';
-    src: url('./PangeaTrial-Bold.woff2');
+    font-family: 'Pangea';
+    src: url('./Pangea-BoldWeb.woff2');
     font-style: normal;
     font-weight: 700;
 
-    src: local('PangeaTrial-Bold'), local('PangeaTrial-Bold'),
-    url('./PangeaTrial-Bold.woff2') format('woff2');
+    src: local('Pangea-BoldWeb'), local('Pangea-BoldWeb'),
+    url('./Pangea-BoldWeb.woff2') format('woff2');
 }
 
 
 
-$font-family-sans-serif: PangeaTrial, Segoe UI, Optima, Arial, sans-serif;
+$font-family-sans-serif: Pangea, Segoe UI, Optima, Arial, sans-serif;
 
 $body-bg: #f4f4f4;
 
