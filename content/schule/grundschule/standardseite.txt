@@ -37,19 +37,23 @@ Text:
 
 ----
 
+Relatedtitel: 
+
+----
+
 Related:
 
 - schule/zweige/gz
-- schule/zweige/hz
 - schule/zweige/rz
+- schule/zweige/hz
+
+----
+
+Downloadtitel: 
 
 ----
 
 Downloads: 
-
-----
-
-Toggle: false
 
 ----
 
@@ -58,3 +62,7 @@ Sidetitel:
 ----
 
 Sidebar: 
+
+----
+
+Toggle: false
