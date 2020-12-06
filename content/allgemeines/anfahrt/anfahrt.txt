@@ -32,7 +32,7 @@ Adresse-s2:
 
 ----
 
-Anfahrt-text: Beide Standorte können vom Bahnhof Rastede zu Fuß errreicht werden.
+Anfahrt-text: Beide Standorte können vom Bahnhof Rastede zu Fuß erreicht werden.
 
 ----
 
