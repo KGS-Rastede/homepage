@@ -50,10 +50,10 @@
         }).addTo(mymap);
 
         L.marker([53.2442, 8.1963]).addTo(mymap)
-            .bindPopup("<b>Hauptgeb&auml;ude</b><br />Jahrg&auml;nge 7-13").openPopup();
+            .bindPopup("<b>Hauptgebäude</b><br />Jahrgänge 7-13").openPopup();
 
         L.marker([53.24111, 8.194932]).addTo(mymap)
-            .bindPopup("<b>Feldbreite</b><br />Jahrg&auml;nge 5-6.").openPopup();
+            .bindPopup("<b>Feldbreite</b><br />Jahrgänge 5-6.").openPopup();
 
 
         var popup = L.popup();
