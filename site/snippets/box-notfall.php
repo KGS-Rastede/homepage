@@ -22,7 +22,7 @@
 
     <div class="bg-danger text-white p-3">
         <h1><?php echo $titel ?></h1>
-        <p class="fs-3"><?= page('wichtige_informationen/notfall')->text() ?></p>
+        <p class="fs-3"><?= page('wichtige_informationen/notfall')->text()->kt() ?></p>
     </div>
 
 <?php endif ?>
