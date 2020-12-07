@@ -1,0 +1,70 @@
+Title: Notbetreuung in den Weihnachtsferien
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Liebe Eltern,",
+        "id": "_jXmWunHEw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "entsprechend der Ankündigung des Kultusministeriums richtet die KGS für die Schülerinnen und Schüler der Jahrgänge 5 und 6 am 21.12 und 22.12.20 eine Feriennotbetreuung ein.",
+        "id": "_Pw9JXAW18",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Notbetreuung wird von 08.00 Uhr bis 13.00 Uhr angeboten. Die genaue Organisation hängt von den jeweiligen Anmeldezahlen für die Feriennotbetreuung ab.",
+        "id": "_rQdm3WFzV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die <strong>Erziehungsberechtigten melden</strong> Ihre Kinder für die Feriennotbetreuung <strong>bitte schriftlich (oder per Mail an <a title=\"feldbreite@kgs-rastede.de\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"mailto:feldbreite@kgs-rastede.de\">feldbreite@kgs-rastede.de</a>) über das Sekretariat der Feldbreite bis zum Donnerstag, 17.12.2020</strong> an.",
+        "id": "_h0r4kRrxq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bitte geben Sie dabei den <strong>Namen der Schülerin/des Schüler, die Klasse und die Wochentage an</strong>, an denen die Betreuung nötig ist.",
+        "id": "_NLEjd0ZNr",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-12-07 08:40
+
+----
+
+Datumstartseite: 2020-12-17 08:40
+
+----
+
+Author: Naile Ildiz
+
+----
+
+Tags: Schulleitung, Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
