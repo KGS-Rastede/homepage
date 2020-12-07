@@ -2,7 +2,7 @@ Title: Schulausfall: Banner für die Startseite
 
 ----
 
-Toggle: false
+Toggle: true
 
 ----
 
@@ -10,11 +10,17 @@ Category: eigenerTitel
 
 ----
 
-Texttitel: Unfertige Version der neuen Homepage.
+Texttitel: Notbetreuung in den Weihnachtsferien
 
 ----
 
-Text: Dies ist die noch nicht fertige Version der neuen Homepage. Viele Inhalte fehlen noch, zum Teil funktionieren Dinge noch nicht. Konstruktive Kritik gerne an Herrn Niehaus (homepage _at_ kgs-rastede.de) schicken.
+Text:
+
+Entsprechend der Ankündigung des Kultusministeriums richtet die KGS für die Schülerinnen und Schüler der Jahrgänge 5 und 6 am 21.12 und 22.12.20 eine Feriennotbetreuung ein. Die Notbetreuung wird von 08.00 Uhr bis 13.00 Uhr angeboten. Die genaue Organisation hängt von den jeweiligen Anmeldezahlen für die Feriennotbetreuung ab.
+
+Die **Erziehungsberechtigten **melden Ihre Kinder für die Feriennotbetreuung **bitte schriftlich** (oder per Mail an (link: mailto:feldbreite@kgs-rastede.de text: feldbreite@kgs-rastede.de)) über das Sekretariat der Feldbreite **bis zum Donnerstag, 17.12.2020**, an.
+
+Bitte geben Sie dabei den Namen der Schülerin/des Schüler, die Klasse und die Wochentage an, an denen die Betreuung nötig ist.
 
 ----
 

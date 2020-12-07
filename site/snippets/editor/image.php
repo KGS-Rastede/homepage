@@ -1,4 +1,4 @@
-<a href="<?= $image->url() ?>">
+<a href="<?= $src ?>">
     <img class="mw-100"
         src="<?= $src ?>"
         alt="<?= $attrs->alt() ?>"

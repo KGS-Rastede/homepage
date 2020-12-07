@@ -59,9 +59,21 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Die Proben und auch der Auftritt machen sehr viel Spa\u00df und alle Sch\u00fclerinnen und Sch\u00fcler, Lehrerinnen und Lehrer und auch alle Eltern sind eingeladen mitzusingen.",
+        "content": "Die Proben und auch der Auftritt machen sehr viel Spaß und alle Schülerinnen und Schüler, Lehrerinnen und Lehrer und auch alle Eltern sind eingeladen mitzusingen.",
         "id": "_8EkbxLcTO",
         "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_3tb9h71af",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Update: Coronabedingt kann der Chor aktuell nicht aktiv sein",
+        "id": "_pucaui89y",
+        "type": "blockquote"
     }
 ]
 
@@ -75,6 +87,10 @@ Date: 2020-02-28 17:15
 
 ----
 
+Datumstartseite: 
+
+----
+
 Author: 
 
 ----
@@ -83,16 +99,16 @@ Tags:
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

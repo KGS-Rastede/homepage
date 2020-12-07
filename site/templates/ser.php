@@ -35,9 +35,9 @@
 
 
 <?php
-  $items = page('ser/nachrichten')->children()->listed();
+  $items = page('ser/nachrichten')->children()->listed()->flip();
 
-  $list = $items->paginate(3);
+  $list = $items->paginate(6);
 
   snippet('blog-schlicht', [
     'items' => $list

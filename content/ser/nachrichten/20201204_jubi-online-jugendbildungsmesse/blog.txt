@@ -1,0 +1,70 @@
+Title: JuBi-Online (Jugendbildungsmesse)
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Termine:</strong>",
+        "id": "_eOkunxKWs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sa, 05. Dezember 2020 | 10-14 Uhr<br>So, 13. Dezember 2020 | 17-19 Uhr<br>Di, 22. Dezember 2020 | 18-20 Uhr<br>",
+        "id": "_0RoAwmHWW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Erreichbar über den Link: <a href=\"https://weltweiser.de/jugendbildungsmessen/\">https://weltweiser.de/jugendbildungsmessen/</a>",
+        "id": "_e09ESPcLI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Was ist die JuBi?</strong><br>",
+        "id": "_mHkHPVmLu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auf der JugendBildungsmesse JuBi informieren Austauschorganisationen, internationale Bildungsexperten sowie ehemalige Programmteilnehmende über Programme wie Schüleraustausch, Auslandsjahr, High School, Sprachreisen, Freiwilligendienste, Work &amp; Travel, Au-Pair, Praktika, Gastfamilie werden und Studium im Ausland. Die JuBi richtet sich an Schülerinnen und Schüler ab der 8. Klasse sowie an junge Berufstätige und Studierende. Eltern und Lehrende sind ebenso herzlich willkommen.",
+        "id": "_W0kHRXfyJ",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-12-04 13:35
+
+----
+
+Datumstartseite: 2021-04-04 13:35
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

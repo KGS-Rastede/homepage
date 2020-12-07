@@ -292,6 +292,12 @@
               <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#clock" />
             </svg> Zeitraster
           </a>
+
+          <a class="dropdown-item" href="<?= page('allgemeines/schulbuchlisten')->url() ?>">
+            <svg class="bi" width="24" height="24">
+              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#book" />
+            </svg> Schulbuchlisten
+          </a>
       </li>
 
       <li class="dropdown nav-item">

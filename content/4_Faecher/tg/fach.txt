@@ -71,11 +71,11 @@ Haupttag: Textiles_Gestalten
 
 Hintergrundbild:
 
-- img_1425.jpeg
+- adobestock_18020961.jpeg
 
 ----
 
-Fotoansicht: carousel
+Fotoansicht: gallery
 
 ----
 

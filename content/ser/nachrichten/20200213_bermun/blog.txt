@@ -17,7 +17,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<br>Unser Ziel in der gemeinn\u00fctzigen <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://www.kurt--hahn-stiftung.de\">Kurt-Hahn-Stiftung</a> ist es, besonders begabten und leistungsf\u00e4higen Kindern und Jugendlichen durch Stipendien den Besuch Salems unabh\u00e4ngig vom Einkommen der Eltern zu erm\u00f6glichen. Durch Spenden und Zustiftungen geben wir jungen Menschen aus unterschiedlichsten Lebenshintergr\u00fcnden nachhaltige Bildungschancen f\u00fcr sich und unsere Gesellschaft. Ziel ist es, die jungen Sch\u00fclerinnen und Sch\u00fcler zu gesellschaftlich verantwortungsbewussten B\u00fcrgerinnen und B\u00fcrger heranzubilden-ganz nach dem Motto \u201ePlus estenvous!-Es steckt mehr in Dir.\"",
+        "content": "<br>Unser Ziel in der gemeinn\u00fctzigen <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://www.kurt-hahn-stiftung.de\">Kurt-Hahn-Stiftung</a> ist es, besonders begabten und leistungsf\u00e4higen Kindern und Jugendlichen durch Stipendien den Besuch Salems unabh\u00e4ngig vom Einkommen der Eltern zu erm\u00f6glichen. Durch Spenden und Zustiftungen geben wir jungen Menschen aus unterschiedlichsten Lebenshintergr\u00fcnden nachhaltige Bildungschancen f\u00fcr sich und unsere Gesellschaft. Ziel ist es, die jungen Sch\u00fclerinnen und Sch\u00fcler zu gesellschaftlich verantwortungsbewussten B\u00fcrgerinnen und B\u00fcrger heranzubilden-ganz nach dem Motto \u201ePlus estenvous!-Es steckt mehr in Dir.\"",
         "id": "_37RaOkZWL",
         "type": "paragraph"
     },

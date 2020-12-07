@@ -1,0 +1,84 @@
+Title: BIZ
+
+----
+
+Heading: Berufsinformationszentren in Oldenburg
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Die Berufsinformationszentren (BIZ) in Oldenburg und Wilhelmshaven sind zur Zeit nicht für den Publikumsverkehr geöffnet.",
+        "id": "_ndzw4uIBI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Aktuelle Information zur Erreichbarkeit</strong>",
+        "id": "_v9FFvE7Cu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Aufgrund der Corona-Pandemie sind die <strong>Berufsberater der Agentur für Arbeit</strong> überwiegend <strong>online</strong> und <strong>telefonisch</strong> zu erreichen.",
+        "id": "_kRIrDdZcS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Für ein persönliches Beratungsgespräch in der Agentur gibt es weiterhin Einschränkungen, die lokal unterschiedlich sind.",
+        "id": "_i93w9gflE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es gibt aber immer die Möglichkeit, mit einer Berufsberaterin oder einem Berufsberater ein <strong>telefonisches Beratungsgespräch</strong> zu führen.",
+        "id": "_EKiwxkAj6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Einen Termin für ein Beratungsgespräch kann u. a. telefonisch erfolgen unter <strong>0800 4 555500</strong> (gebührenfrei).",
+        "id": "_so1RkQNom",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-12-04 16:15
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: 
+
+----
+
+Tags: SER
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

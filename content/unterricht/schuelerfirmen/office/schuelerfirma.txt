@@ -1,8 +1,8 @@
-Title: Colorful Office
+Title: Fair4everyone
 
 ----
 
-Heading: Geschenke, Karten und mehr
+Heading: Fair4everyone
 
 ----
 
@@ -11,27 +11,31 @@ Beschreibung:
 [
     {
         "attrs": [],
-        "content": "In der Schülerfirma Colorful Office werden Geschenke und Präsente verpackt, Grußkarten gestaltet, Deko-Artikel hergestellt und die KGS-Schulkleidung verkauft.",
-        "id": "_fpx2m3k83",
+        "content": "„Kinderarbeit“ mit Schokolade in der Schülerfirma? Ja! Kinderarbeit für unsere Schokolade in der Dritten Welt? Nein!",
+        "id": "_C7RuYPxpk",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "In regelmäßigen Abständen verlost die Firma die Produkte mit Hilfe eines Glücksrads.",
-        "id": "_lqgiv2f0d",
+        "content": "Wir von Fair4everyone handeln mit fairtrade und bio hergestellten Schokoladenartikeln, Kaffee und anderen Leckereien. Mit unseren Produkten versorgen wir bei Schulveranstaltungen die SchülerInnen der KGS und auch die LehrerInnen kommen durch unsere Verkaufsstände im Lehrerzimmer nicht zu kurz.",
+        "id": "_usM7r9Cda",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Über die Betreuung der Verkaufsstände, den Ein- und Verkauf der Fairtrade-Waren, das Lagermanagement und andere kaufmännische Tätigkeiten hinaus, setzen wir unsere Kenntnisse aus dem Informatikunterricht, bei der Verwaltung, den Abrechnungen und dem Erstellen von Flyern und Werbung am PC, ein. Wir informieren uns über die Situation der Kakao- und Kaffeebauern und Kinderarbeit in der Dritten Welt und achten auf umweltverträgliche Verpackungsmaterialien.",
+        "id": "_cKOZAFOxO",
         "type": "paragraph"
     }
 ]
 
 ----
 
-Mailadresse: eik@kgs-rastede.de
+Mailadresse: lan@kgs-rastede.de
 
 ----
 
-Bild:
-
-- dsc_0102.jpg
+Bild: - dsc_0102.jpg
 
 ----
 
