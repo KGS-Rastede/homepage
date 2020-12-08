@@ -14,12 +14,6 @@ Text:
         "content": "Die Kooperativ Gesamtschule Rastede bietet drei Schulzweige an.",
         "id": "_hdknq550p",
         "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Wort 'Kooperativ' bedeutet dabei, dass …",
-        "id": "_l28qh00xi",
-        "type": "paragraph"
     }
 ]
 

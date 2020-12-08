@@ -35,14 +35,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": "„Können wir aus der Geschichte lernen?“ oder",
-        "id": "_0xul3b9g7",
+        "content": "„Können wir aus der Geschichte lernen?“",
+        "id": "_ju3nmdfdc",
         "type": "blockquote"
     },
     {
         "attrs": [],
-        "content": "„Wie verändert sich unser Blick auf die Geschichte?“ oder",
-        "id": "_o847zsaie",
+        "content": "„Wie verändert sich unser Blick auf die Geschichte?“",
+        "id": "_o8ugxzxdv",
         "type": "blockquote"
     },
     {
@@ -53,8 +53,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "&nbsp;",
-        "id": "_vPIsnMjka",
+        "content": "",
+        "id": "_dsn63s12j",
         "type": "paragraph"
     },
     {

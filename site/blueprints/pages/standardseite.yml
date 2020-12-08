@@ -3,6 +3,7 @@ title: Standardseite
 options:
   update:
     *: false
+    Fachleiter: true
     admin: true
 
 columns:

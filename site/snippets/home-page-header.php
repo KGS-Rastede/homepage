@@ -31,15 +31,7 @@
     </div>
   </section>
 
-
-  <!-- Titelfeld -->
-  <div class="p-3 mb-2 bg-light text-primary">
-    <h1>
-      <!-- <?= $page->title() ?> -->
-    </h1>
-  </div>
-  <small class="text-muted"><?= $page->subtitle() ?></small>
-
-  <h1 class="display-6 mb-3">
-    <?= $page->heading() ?>
-  </h1>
+  <?php if (!page('wichtige_informationen/notfall')->toggle()->bool() === true) : 
+    //Ein blauer Balken wird gezeigt wenn es keine Banner gibt. Siehe snippets/box-notfall.php ?>
+    <div class="p-4 mb-0 bg-light text-primary"></div>
+  <?php endif ?>

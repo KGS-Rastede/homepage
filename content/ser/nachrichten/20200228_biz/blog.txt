@@ -1,0 +1,98 @@
+Title: BIZ
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "BIZ Oldenburg",
+        "id": "_9SFx3Fjrj",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Bundesagentur f\u00fcr Arbeit Oldenburg-Wilhelmshaven:",
+        "id": "_e9V6x9oIK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die n\u00e4chsten Veranstaltungen im BiZ Oldenburg:",
+        "id": "_jL67lGQMN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "12. M\u00e4rz (Do.), 16.00 Uhr: Bundeswehr",
+        "id": "_otr3XThB6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Duale Berufsausbildung u.a. in technischen Berufen, Studium, freiwilliger Wehrdienst, und viele Karrierechancen in ganz Deutschland.",
+        "id": "_yWHukmR0J",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>18. M\u00e4rz (Mi.), 15.00 - 18.00 Uhr: Messe Duales Studium",
+        "id": "_0otescojT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mit rund 20 Unternehmen und Arbeitgebern des \u00d6ffentlichen Dienstes, darunter viele IT-Unternehmen. Neu dabei in diesem Jahr: Landesamt f\u00fcr GEO, Steuerberaterkammer, Nanu Nana, Eurogate, Green Solutions. Die Unternehmen suchen Dual Studierende f\u00fcr den Start im Herbst 2021. Vortr\u00e4ge: um 15.30 Uhr \"Inhalte, Anforderungen und Besonderheiten des Dualen Studiums\" und um 17 Uhr \"Bewerbung um ein Duales Studium\".",
+        "id": "_JI4KbMAlV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "25. M\u00e4rz (Mi.), 17.00 - 21.00 Uhr: Gesundheits- und Pflegemesse",
+        "id": "_mczfwmaib",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "F\u00fcr junge Menschen, die eine betriebliche oder schulische Ausbildung machen m\u00f6chten, wie auch f\u00fcr Erwachsene, die sich f\u00fcr eine Umschulung oder eine Weiterbildung in diesem Berufe-Spektrum interessieren. Erwartet werden rund 30 Aussteller aus Oldenburg und umzu, darunter Kliniken, Heime und Pflegedienste, au\u00dferdem Bildungstr\u00e4ger.",
+        "id": "_rWvEUg9ju",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-02-28 17:15
+
+----
+
+Author: 
+
+----
+
+Tags: SER
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

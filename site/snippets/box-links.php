@@ -20,16 +20,18 @@ $alt =
 $count = -1;
 ?>
 
-<div class="container-sm px-sm-5 px-md-0">
+<div class="container-sm p-0 px-sm-5 px-md-0">
     <div class="row row-cols-1 row-cols-md-5 g-2 g-xl-4 gx-sm-5 gx-md-2 mx-md-3">
-        <?php foreach ($links_bilder as $link => $bild) : $count++ ?>
+        <?php foreach ($links_bilder as $link => $bild) : $count++ ?>        
             <div class="col">
-                <div class="card h-100">
-                    <div class="card-body d-flex justify-content-center align-items-center">
-                        <a href="<?= $link ?>"><img src="<?= $kirby->url('assets') ?>/bilder/<?= $bild ?>" alt="<?= $alt[$count] ?>" class="img-fluid"></a>
+                <a href="<?= $link ?>">
+                    <div class="card h-100">
+                        <div class="card-body d-flex justify-content-center align-items-center">
+                            <img src="<?= $kirby->url('assets') ?>/bilder/<?= $bild ?>" alt="<?= $alt[$count] ?>" class="img-fluid">
+                        </div>
                     </div>
-                </div>
-            </div>
+                </a>
+            </div>            
         <?php endforeach ?>
     </div>
 </div>

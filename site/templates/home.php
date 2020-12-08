@@ -2,11 +2,11 @@
 <?php snippet('home-page-header') ?>
 
 
-<div class="container-fluid">
+
 
   <?php snippet('box-notfall') ?>
-
-  <div class="row">
+<div class="container-fluid">
+  <div class="row">  
     <div class="col-xl-8">
       <?php 
         // auskommentieren, um Farben und Schriften auf die Schnelle zu testen
