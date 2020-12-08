@@ -9,14 +9,14 @@
     </a>
   </div>
   <a class="navbar-brand d-block d-sm-block d-lg-none text-white" href="<?= $site->url() ?>">KGS Rastede</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav ml-auto mb-2 mr-3 mb-lg-0 ">
+    <ul class="navbar-nav ms-auto mb-2 me-3 mb-lg-0 ">
       <li class="dropdown nav-item">
-        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-bs-toggle="dropdown" >
           Kontakt
         </a>
 
@@ -91,7 +91,7 @@
       </li>
 
       <li class="dropdown nav-item">
-        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-bs-toggle="dropdown">
           &Uuml;ber die Schule
         </a>
         <div class="dropdown-menu dropdown-with-icons">
@@ -172,7 +172,7 @@
       </li>
 
       <li class="dropdown nav-item">
-        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-bs-toggle="dropdown">
           Unterricht &amp; Schulleben
         </a>
         <div class="dropdown-menu dropdown-with-icons">
@@ -271,7 +271,7 @@
       </li>
 
       <li class="dropdown nav-item">
-        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-bs-toggle="dropdown">
           Service &amp; Downloads
         </a>
         <div class="dropdown-menu dropdown-with-icons">
