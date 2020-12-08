@@ -277,14 +277,8 @@ Fotoansicht: gallery
 Sidebar:
 
 - 
-  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=39'
-  name: Kerncurriculum Hauptschule
-- 
-  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=42'
-  name: Kerncurriculum Realschule
-- 
-  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=138'
-  name: Kerncurriculum Gymnasium
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=118'
+  name: Kerncurriculum Sek I
 - 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=103'
   name: Kerncurriculum gymnasiale Oberstufe
