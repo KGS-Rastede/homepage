@@ -23,7 +23,7 @@
           <p class="card-text">
               <?= $sf->Beschreibung()->blocks()->excerpt(300) ?>
           </p>
-          <p class="text-right">
+          <p class="text-end">
               <a href="<?= $sf->url() ?>">weiterlesen...</a>
           </p>
         </div>      

@@ -10,7 +10,7 @@
                     <hr class="mt-3 mb-3">
                 <?php endif //Trennstrich komm nur wenn es keine Artikel vor diesem Element gibt ?>
                 
-                <a class="btn btn-lg btn-block text-left p-1" href="<?= $subpage->url() ?>" role="button">
+                <a class="btn btn-lg btn-block text-start p-1" href="<?= $subpage->url() ?>" role="button">
                     <h3 class="font-weight-light text-info ">
                         <?= $subpage->title() ?>
                     </h3>

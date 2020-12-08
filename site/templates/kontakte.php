@@ -3,7 +3,7 @@
 
 
 <div class="container-fluid">
-    <div class="col-md-8 ml-auto mr-auto text-center">
+    <div class="col-md-8 ms-auto me-auto text-center">
         <h2 class="title"><?= $page->title() ?></h2>
         <h5 class="description">
             <?= $page->text() ?>

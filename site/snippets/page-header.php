@@ -29,7 +29,7 @@
       </div>
       <small class="text-muted"><?= $page->subtitle() ?></small>
 
-      <h1 class="display-6 mb-3 ml-3">
+      <h1 class="display-6 mb-3 ms-3">
         <?= $page->heading() ?>
       </h1>
     </div>

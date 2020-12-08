@@ -36,7 +36,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
 
             <?php if ($relaE) :
                 if ($sideE) : //wenn nicht erstes Objekt ?>
-                    <div class="col-12 ml-lg-3 flex-fill">
+                    <div class="col-12 ms-lg-3 flex-fill">
                 <?php elseif ($downE) : //wenn trotzdem nicht alleine ?>
                     <div class="col-12 flex-fill">
                 <?php else : //wenn beide leer sinds ?>
@@ -63,7 +63,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
 
             <?php if ($downE) :
                 if ($sideE or $relaE) : //wenn in einem von beidem etwas drin ist ?>
-                    <div class="col-12 ml-lg-3 flex-fill">
+                    <div class="col-12 ms-lg-3 flex-fill">
                 <?php else : //wenn beide leer sind ?>
                     <div class="col-12 col-lg-5">
                 <?php endif ?>

@@ -2,7 +2,7 @@
     <div class="card mb-3">
         <div class="row g-0">
             <div class="col-md-4 p-1 text-danger">
-                <div class="fs-4 fw-light pl-3">
+                <div class="fs-4 fw-light ps-3">
                     <?= $subpage->title() ?>
                 </div>
             </div>
@@ -14,7 +14,7 @@
                             (<?= $subpage->author() ?>)
                         <?php endif ?>
                     </p>
-                    <p class="text-right">
+                    <p class="text-end">
                         <a class="text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
 
                     </p>
