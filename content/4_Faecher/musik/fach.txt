@@ -100,14 +100,8 @@ Fotoansicht: gallery
 Sidebar:
 
 - 
-  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=40'
-  name: Kerncurriculum Hauptschule
-- 
-  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=110'
-  name: Kerncurriculum Realschule
-- 
-  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=200'
-  name: Kerncurriculum Gymnasium
+  link: 'https://cuvo.nibis.de/cuvo.php?p=searched_download&skey_lev0_0=Schulbereich&svalue_lev0_0=Sek+I&skey_lev0_1=Schulform&svalue_lev0_1=Integrierte+Gesamtschule&skey_lev0_2=Fach&svalue_lev0_2=Musik&&uploadnum=0'
+  name: Kerncurriculum Sek I
 - 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=104'
   name: Kerncurriculum gymnasiale Oberstufe
