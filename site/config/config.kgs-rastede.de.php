@@ -8,4 +8,8 @@ return [
     // eine potentielle Sicherheitslücke:
     // https://getkirby.com/docs/guide/configuration#multi-enviroment-setup
     'debug'  => false,
+
+    'panel' => [
+        'slug' => 'intern'
+      ]
 ];
