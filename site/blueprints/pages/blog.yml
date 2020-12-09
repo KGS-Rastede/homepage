@@ -50,11 +50,13 @@ columns:
           date:
             label: Veröffentlicht am
             type: date
+            display: DD. MMM. YYYY
             time: true
             default: now
           datumStartseite:
             label: Aus Startseite bis zum...
             type: date
+            display: DD. MMM. YYYY
             time: true
             default: now + 4 month
             help: Wenn hier kein Datum steht wird dieser Artikel nicht auf der Startseite angezeigt.
