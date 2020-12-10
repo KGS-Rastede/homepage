@@ -1,5 +1,0 @@
-Anzeigename: Brief an die SchülerInnen Sek 2
-
-----
-
-Template: datei

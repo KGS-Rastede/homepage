@@ -1,0 +1,113 @@
+Title: Corona: Sammelartikel mit allen aktuellen Informationen
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Liebe Schulgemeinschaft,",
+        "id": "_gp42WdeDy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "auch in Niedersachsen sollen die Schulen einen Beitrag zur Kontaktreduzierung leisten. Daher können Eltern ihre Kinder bereits ab Montag, 14.12., ins Distanzlernen holen. Prüfungen, Klausuren, Klassenarbeiten, die nicht verschoben werden können, finden jedoch statt. Hier besteht die <strong>Verpflichtung</strong> teilzunehmen. Eine Ausnahme bilden hier lediglich die Schülerinnen und Schüler, die bereits für den 17./18.12.20 einen Antrag auf Befreiung gestellt hatten (Kontakte zu Risikopersonen), die selbst krank sind oder die in offizieller Quarantäne sind.",
+        "id": "_AR1e2sm4z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie dem Brief des Kultusministeriums zu entnehmen ist, besteht weiterhin vom 14.12. – 18.12.20 Schulpflicht. D.h., der Unterricht in der Schule geht weiter und für die Schülerinnen und Schüler, die zu Hause lernen, wird es Aufgaben geben oder sie nehmen via IServ am Unterricht teil. Das entscheidet die jeweilige Lehrkraft. Die Ankündigungen im WebUntis-Messenger bzw. IServ-Messenger sind zu beachten.",
+        "id": "_JlKXn6pOI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Für die Mitteilung an die Klassenlehrkraft (per Mail) geben Eltern bitte an, ab wann ihr Kind ins Distanzlernen gehen soll.",
+        "id": "_LdlpwzYqt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_37oev67gc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ujtum9kc6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_9yecle9r8",
+        "type": "hr"
+    },
+    {
+        "attrs": [],
+        "content": "Notbetreuung in den Weihnachtsferien",
+        "id": "_7umf9x4rf",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Entsprechend der Ankündigung des Kultusministeriums richtet die KGS für die Schülerinnen und Schüler der Jahrgänge 5 und 6 am 21.12 und 22.12.20 eine Feriennotbetreuung ein. Die Notbetreuung wird von 08.00 Uhr bis 13.00 Uhr angeboten. Die genaue Organisation hängt von den jeweiligen Anmeldezahlen für die Feriennotbetreuung ab.",
+        "id": "_z96hv54am",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die <strong>Erziehungsberechtigten </strong>melden Ihre Kinder für die Feriennotbetreuung <strong>bitte schriftlich</strong> (oder per Mail an <a title=\"feldbreite@kgs-rastede.de\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"mailto:feldbreite@kgs-rastede.de\">feldbreite@kgs-rastede.de</a>) über das Sekretariat der Feldbreite bis zum <strong>Donnerstag, 17.12.2020</strong>, an.",
+        "id": "_XOfDascsz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bitte geben Sie dabei den Namen der Schülerin/des Schülers, die Klasse und die Wochentage an, an denen die Betreuung nötig ist.",
+        "id": "_55qyHGIOL",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-12-10 09:15
+
+----
+
+Datumstartseite: 2021-03-31 08:15
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung, Topartikel, Corona
+
+----
+
+Downloads:
+
+- >
+  2020-12-10_brief_an_eltern_und_erziehungsberechtigte.pdf
+- 2020-12-10_brief_an_sus_sek_i.pdf
+- 2020-12-10_brief_an_sus_sek_ii.pdf
+- >
+  beratungsangebote_f_r_sch_lerinnen_und_sch_ler.pdf
+
+----
+
+Fotoansicht: gallery
