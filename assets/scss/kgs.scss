@@ -1,6 +1,6 @@
 /* import only the necessary Bootstrap files */
-@import "../bootstrap/scss/functions";
-@import "../bootstrap/scss/variables";
+@import "../../vendor/twbs/bootstrap/scss/functions";
+@import "../../vendor/twbs/bootstrap/scss/variables";
 
 @import "./functions";
 
@@ -460,4 +460,5 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
 /* -------end customization-------- */
 
 /* finally, import Bootstrap to set the changes! */
-@import "../bootstrap/scss/bootstrap";
+@import "../../vendor/twbs/bootstrap/scss/bootstrap";
+
