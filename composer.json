@@ -21,14 +21,12 @@
         "forum": "https://forum.getkirby.com",
         "source": "https://github.com/getkirby/starterkit"
     },
-    "scripts": {
-        "build": "postcss assets/css/tailwind.css -o assets/css/tailwind-build.css"
-    },
     "require": {
         "php": ">=7.3.4",
         "getkirby/cms": ">=3.5.0-rc6",
         "getkirby/editor": "^1.0",
-        "pju/kirby-webhook-field": "^1.1"
+        "pju/kirby-webhook-field": "^1.1",
+        "twbs/bootstrap": "^v5.0.0-beta1"
     },
     "config": {
         "optimize-autoloader": true
