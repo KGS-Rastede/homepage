@@ -292,6 +292,14 @@ Navbar:
       externallink: ""
       trennstrich: 'false'
       icon: chat-left-text
+    - 
+      isexternal: 'false'
+      linktitle: Ag für den Frieden
+      pagelink:
+        - unterricht/ag-frieden
+      externallink: ""
+      trennstrich: 'false'
+      icon: peace
 - 
   dropdowntoggle: 'true'
   kategorietitel: 'Servcie & Downloads'
