@@ -1,4 +1,4 @@
-<?php if (page('wichtige_informationen/notfall')->toggle()->bool() === true) : 
+<?php if (page('wichtige_informationen/notfall')->toggle()->bool() === true) :
     /* 
         An besonderen Tagen (Schneefrei, Heizungsbruch, ...) soll ganz schnell
         ein Banner angezeigt werden, damit die Eltern schnell informiert werden können
@@ -20,9 +20,9 @@
         $titel = page('wichtige_informationen/notfall')->textTitel();
     endif ?>
 
-    <div class="bg-danger text-white p-3">
+    <div class="bg-danger text-white p-3 fw-light">
         <h1><?php echo $titel ?></h1>
-        <p class="fs-3"><?= page('wichtige_informationen/notfall')->text()->kt() ?></p>
+        <p><?= page('wichtige_informationen/notfall')->text()->kt() ?></p>
     </div>
 
 <?php endif ?>

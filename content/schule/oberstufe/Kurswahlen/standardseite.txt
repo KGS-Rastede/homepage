@@ -17,7 +17,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<a title=\"Wahlen Einführungsphase\" href=\"https6://wahlen11.kgs-rastede.de/\">Wahlen für die Einführungsphase</a>",
+        "content": "<a title=\"Wahlen Einführungsphase\" href=\"https://wahlen11.kgs-rastede.de/\">Wahlen für die Einführungsphase</a>",
         "id": "_rs07ht3r3",
         "type": "ul"
     },

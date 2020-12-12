@@ -11,7 +11,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Hier finden Sie die Informationen über unsere Schule in einem kleinen Film. Nehmen Sie sich ein halbes Stündchen Zeit dafür.",
+        "content": "Hier finden Sie die Informationen über unsere Schule in einem kleinen Film. Nehmen Sie sich ein halbes Stündchen Zeit dafür. <a title=\"Anmeldung 5\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=CNFC4I9Ja08\">Hier</a> können sie das Video direkt aufrufen.",
         "id": "_lgeymmc81",
         "type": "paragraph"
     },

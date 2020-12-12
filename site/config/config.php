@@ -2,12 +2,14 @@
 
 return [
 
-
-    // Damit auf einem oeffentlichen Server das Panel ueberhaupt geht...
-    'panel' => ['install' => true],
-
     // Damit bei Fehlern der Debugger angeht
+    // https://getkirby.com/docs/cookbook/setup/debugging-basics
+
+    // Auf dem echten Server muss der Debug-Modus aber aus sein! Das ist 
+    // eine potentielle Sicherheitslücke:
+    // https://getkirby.com/docs/guide/configuration#multi-enviroment-setup
     'debug'  => true,
+
 
     // automatische URLs folgen der deuschen Sprache
     'slugs' => 'de',
@@ -19,6 +21,9 @@ return [
     // Anleitung siehe hier:
     //    https://getkirby.com/docs/cookbook/panel/customizing-panel
     'panel' => [
+        // Damit auf einem oeffentlichen Server das Panel ueberhaupt geht...
+        'install' => true,
+
         'css' => 'assets/css/custom-panel.css'
     ],
 

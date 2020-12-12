@@ -6,7 +6,28 @@ Heading:
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Das Fach Gestaltendes Werken wird an der KGS Rastede in den Jahrgängen 7-10 des Hauptschulzweiges unterrichtet. Die Schüler*innen können dort im Wahlpflichtbereich zwischen Textilem Gestalten und Gestaltendem Werken wählen.",
+        "id": "_AUNZNzZ4A",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Fach ermöglicht den Schüler*innen einen stark handlungsbezogenen Zugang zu ihrer Welt. Dafür werden in jedem Jahrgang unterschiedliche Werkstücke aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt. Zuvor müssen jeweils Skizzen und Baupläne angefertigt werden, die die Grundlage für die spätere Reflexion bilden.",
+        "id": "_FKycHQ2c5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auf diese Weise werden Motivation, Neugier und Experimentierfreude geweckt, Konzentration und Ausdauer gefördert und persönliche Handlungskompetenzen erweitert.",
+        "id": "_YZFOg8UCV",
+        "type": "paragraph"
+    }
+]
 
 ----
 

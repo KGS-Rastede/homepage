@@ -266,6 +266,13 @@
             </svg> Streitschlichter
           </a>
 
+          <a class="dropdown-item" href="<?= page('unterricht/ag-frieden')->url() ?>">
+            <svg class="bi" width="24" height="24">
+              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#peace" />
+            </svg> AG für den Frieden
+          </a>
+
+
         </div>
 
       </li>
