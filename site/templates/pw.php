@@ -34,7 +34,7 @@
             </p>
 
             <div class="row align-items-start">
-                <div class="col">
+                <div class="col-md-6">
                     <div class="mb-3">
                         <div class="field">
                             <label for="name" class="form-label">
@@ -47,7 +47,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-md-6">
                     <div class="mb-3">
                         <div class="field">
                             <label for="benutzername" class="form-label">
@@ -55,14 +55,14 @@
                             </label>
                             <input type="text" id="benutzername" class="form-control" name="benutzername" value="<?= $data['benutzername'] ?? '' ?>" required>
                             <?= isset($alert['benutzername']) ? '<span class="alert error">' . html($alert['benutzername']) . '</span>' : '' ?>
-                            <div id="benutzernameHelp" class="form-text">in der Regel 'vorname.nachname'</div>
+                            <div id="benutzernameHelp" class="form-text">In der Regel 'vorname.nachname'</div>
 
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row align-items-start">
-                <div class="col">
+                <div class="col-md-6">
                     <div class="mb-3">
 
                         <div class="field">
@@ -75,7 +75,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-md-6">
                     <div class="mb-3">
                         <label for="klasse" class="form-label">Klasse</label>
                         <input type="text" id="klasse" class="form-control" name="klasse" value="<?= $data['klasse'] ?? '' ?>" required>
