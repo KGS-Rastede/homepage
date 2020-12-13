@@ -14,19 +14,22 @@ return function($kirby, $pages, $page) {
         $data = [
             'name'  => get('name'),
             'email' => get('email'),
-            'text'  => get('text')
+            'klasse' => get('klasse'),
+            'benutzername'  => get('benutzername')
         ];
 
         $rules = [
             'name'  => ['required', 'minLength' => 3],
+            'benutzername'  => ['required', 'minLength' => 3],
             'email' => ['required', 'email'],
-            'text'  => ['required', 'minLength' => 3, 'maxLength' => 3000],
+            'klasse'  => ['required', 'minLength' => 2, 'maxLength' => 3000],
         ];
 
         $messages = [
-            'name'  => 'Please enter a valid name',
-            'email' => 'Please enter a valid email address',
-            'text'  => 'Please enter a text between 3 and 3000 characters'
+            'name'  => 'Bitte einen gültigen Vor- und Nachnamen eingeben',
+            'benutzername'  => 'Bitte einen gültigen Benutzernamen eingeben',
+            'email' => 'Bitte eine gültige EMail-Adresse eingeben',
+            'klasse'  => 'Bitte eine gültige Klasse eingeben'
         ];
 
         // some of the data is invalid
@@ -38,13 +41,13 @@ return function($kirby, $pages, $page) {
             try {
                 $kirby->email([
                     'template' => 'email',
-                    'from'     => 'yourcontactform@yourcompany.com',
+                    'from'     => 'ni@kgs-rastede.eu',
                     'replyTo'  => $data['email'],
-                    'to'       => 'you@yourcompany.com',
-                    'subject'  => esc($data['name']) . ' sent you a message from your contact form',
+                    'to'       => 'netzwerk@kgs-rastede.eu',
+                    'subject'  => esc($data['name']) . ' fordert ein neues Passwort an',
                     'data'     => [
-                        'text'   => esc($data['text']),
-                        'sender' => esc($data['name'])
+                        'text'   => esc($data['klasse']) . " " . esc($data['email']),
+                        'sender' => esc($data['name']) . " " . esc($data['benutzername'])
                     ]
                 ]);
 
@@ -58,7 +61,7 @@ return function($kirby, $pages, $page) {
 
             // no exception occurred, let's send a success message
             if (empty($alert) === true) {
-                $success = 'Your message has been sent, thank you. We will get back to you soon!';
+                $success = 'Die Anfrage zum Zurücksetzen vom Passwort wurde gesendet.';
                 $data = [];
             }
         }

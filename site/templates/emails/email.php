@@ -1,5 +1,7 @@
-Hello Company,
+Klasse / EMail
 
 <?= $text ?>
+
+Name / Benutzername
 
 <?= $sender ?>
