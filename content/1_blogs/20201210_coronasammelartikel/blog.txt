@@ -17,20 +17,50 @@ Text:
     },
     {
         "attrs": [],
-        "content": "auch in Niedersachsen sollen die Schulen einen Beitrag zur Kontaktreduzierung leisten. Daher können Eltern ihre Kinder bereits ab Montag, 14.12., ins Distanzlernen holen. Prüfungen, Klausuren, Klassenarbeiten, die nicht verschoben werden können, finden jedoch statt. Hier besteht die <strong>Verpflichtung</strong> teilzunehmen. Eine Ausnahme bilden hier lediglich die Schülerinnen und Schüler, die bereits für den 17./18.12.20 einen Antrag auf Befreiung gestellt hatten (Kontakte zu Risikopersonen), die selbst krank sind oder die in offizieller Quarantäne sind.",
-        "id": "_AR1e2sm4z",
+        "content": "auch in Niedersachsen sollen die Schulen einen Beitrag zur Kontaktreduzierung leisten. Daher können Eltern ihre Kinder bereits ab Montag, 14.12., ins Distanzlernen holen. Für die Mitteilung an die Klassenlehrkraft (per Mail) geben Eltern bitte an, ab wann ihr Kind ins Distanzlernen gehen soll.",
+        "id": "_v66j0vo52",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Wie den Briefen des Kultusministeriums zu entnehmen ist, besteht weiterhin vom 14.12. – 18.12.20 Schulpflicht. D.h., der Unterricht in der Schule geht weiter und für die Schülerinnen und Schüler, die zu Hause lernen, wird es Aufgaben geben oder sie nehmen via IServ am Unterricht teil. Das entscheidet die jeweilige Lehrkraft. Die Ankündigungen im WebUntis-Messenger bzw. IServ-Messenger sind zu beachten.",
-        "id": "_JlKXn6pOI",
+        "content": "14.12 und 15.12.",
+        "id": "_y6pyfznhq",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Wie den Briefen des Kultusministeriums zu entnehmen ist, besteht weiterhin vom 14.12. – 18.12.20 Schulpflicht. D.h., der Unterricht in der Schule geht weiter und für die Schülerinnen und Schüler, die zu Hause lernen, wird es Aufgaben geben oder sie nehmen via IServ am Unterricht teil.",
+        "id": "_md92zqr6j",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Für die Mitteilung an die Klassenlehrkraft (per Mail) geben Eltern bitte an, ab wann ihr Kind ins Distanzlernen gehen soll.",
+        "content": "16.12 bis 18.12",
+        "id": "_jmnmfbsf1",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Der Unterricht soll nach Möglichkeit ab Mittwoch im Distanzlernen stattfinden. </strong>Die Ankündigungen im WebUntis-Messenger bzw. IServ-Messenger sind zu beachten.",
+        "id": "_kxf8mk23y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
         "id": "_LdlpwzYqt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_19jjfy8d1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Update 13.12.2020, 17.30 Uhr</strong>: Die neuen Beschlüsse von heute wurden durch einen kurzen Text von Minister Tonne ergänzt. Den finden Sie im Anhang. Damit ab Mittwoch die Schulen dann weitestgehend leer sind, werden <strong>alle Tests, Klassenarbeiten und Klausuren ab Mittwoch</strong> abgesagt.",
+        "id": "_m50490vcw",
         "type": "paragraph"
     },
     {
@@ -83,11 +113,11 @@ Gallery:
 
 ----
 
-Date: 2020-12-10 09:15:00
+Date: 2020-12-10 09:15
 
 ----
 
-Datumstartseite: 2021-03-31 08:15:00
+Datumstartseite: 2021-03-31 08:15
 
 ----
 
@@ -108,7 +138,8 @@ Downloads:
 - >
   beratungsangebote_f_r_sch_lerinnen_und_sch_ler.pdf
 - 2020-11-26_rhp_schulen_final.pdf
-- 2020-11-26_rhp_schulen_final.pdf
+- >
+  155-umsetzung-bund-lander-beschlusse-mk.pdf
 
 ----
 
