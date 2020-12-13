@@ -1,0 +1,345 @@
+Title: navbar
+
+----
+
+Navbar:
+
+- 
+  dropdowntoggle: 'true'
+  kategorietitel: Kontakt
+  kategorieseite: [ ]
+  unterpunkte:
+    - 
+      isexternal: 'false'
+      linktitle: Anfahrt
+      pagelink:
+        - allgemeines/anfahrt
+      externallink: ""
+      trennstrich: 'true'
+      icon: geo-alt
+    - 
+      isexternal: 'false'
+      linktitle: Schulleitung
+      pagelink:
+        - kontakte/schulleitung
+      externallink: ""
+      trennstrich: 'false'
+      icon: person-circle
+    - 
+      isexternal: 'false'
+      linktitle: Fachbereichsleiter
+      pagelink:
+        - kontakte/fbl
+      externallink: ""
+      trennstrich: 'false'
+      icon: person-square
+    - 
+      isexternal: 'false'
+      linktitle: Kollegium
+      pagelink:
+        - lehrer
+      externallink: ""
+      trennstrich: 'false'
+      icon: person-lines-fill
+    - 
+      isexternal: 'false'
+      linktitle: Sekreteriate
+      pagelink:
+        - kontakte/sekretariate
+      externallink: ""
+      trennstrich: 'false'
+      icon: telephone-fill
+    - 
+      isexternal: 'false'
+      linktitle: Hausmeister
+      pagelink:
+        - kontakte/sekretariate
+      externallink: ""
+      trennstrich: 'true'
+      icon: tools
+    - 
+      isexternal: 'false'
+      linktitle: Schülervertretung (SV)
+      pagelink:
+        - sv/die_sv
+      externallink: ""
+      trennstrich: 'false'
+      icon: people-fill
+    - 
+      isexternal: 'false'
+      linktitle: Personalrat (SPR)
+      pagelink:
+        - kontakte/spr
+      externallink: ""
+      trennstrich: 'false'
+      icon: briefcase-fill
+    - 
+      isexternal: 'false'
+      linktitle: Gleichstellungsbeauftragte
+      pagelink:
+        - kontakte/gleichstellung
+      externallink: ""
+      trennstrich: 'false'
+      icon: person-fill
+    - 
+      isexternal: 'false'
+      linktitle: Schulelternrat (SER)
+      pagelink:
+        - ser/vorstand
+      externallink: ""
+      trennstrich: 'false'
+      icon: people-fill
+    - 
+      isexternal: 'false'
+      linktitle: Förderverein
+      pagelink:
+        - foerderverein/ueber_uns
+      externallink: ""
+      trennstrich: 'false'
+      icon: tags-fill
+- 
+  dropdowntoggle: 'true'
+  kategorietitel: Über die Schule
+  kategorieseite: [ ]
+  unterpunkte:
+    - 
+      isexternal: 'false'
+      linktitle: Leitbild
+      pagelink:
+        - schule/leitbild
+      externallink: ""
+      trennstrich: 'false'
+      icon: bar-chart
+    - 
+      isexternal: 'false'
+      linktitle: Schulprogramm
+      pagelink:
+        - schule/schulprogramm
+      externallink: ""
+      trennstrich: 'false'
+      icon: layout-wtf
+    - 
+      isexternal: 'false'
+      linktitle: Unsere Geschichte
+      pagelink:
+        - schule/geschichte
+      externallink: ""
+      trennstrich: 'true'
+      icon: book
+    - 
+      isexternal: 'false'
+      linktitle: Übergang Grundschule / KGS
+      pagelink:
+        - schule/grundschule
+      externallink: ""
+      trennstrich: 'true'
+      icon: box-arrow-right
+    - 
+      isexternal: 'false'
+      linktitle: Die drei Schulzweige
+      pagelink:
+        - schule/zweige
+      externallink: ""
+      trennstrich: 'false'
+      icon: list-ol
+    - 
+      isexternal: 'false'
+      linktitle: Oberstufe
+      pagelink:
+        - schule/oberstufe
+      externallink: ""
+      trennstrich: 'false'
+      icon: star
+    - 
+      isexternal: 'false'
+      linktitle: Abschlüsse an der KGS Rastede
+      pagelink:
+        - schule/abschluesse
+      externallink: ""
+      trennstrich: 'true'
+      icon: journal-text
+    - 
+      isexternal: 'false'
+      linktitle: Zuständigkeiten / Organigramm
+      pagelink:
+        - schule/organigramm
+      externallink: ""
+      trennstrich: 'true'
+      icon: diagram-3
+    - 
+      isexternal: 'false'
+      linktitle: Ausbildungsschule
+      pagelink:
+        - schule/ausbildungsschule
+      externallink: ""
+      trennstrich: 'true'
+      icon: award
+    - 
+      isexternal: 'false'
+      linktitle: Unsere Schule in der Presse
+      pagelink:
+        - schule/presse
+      externallink: ""
+      trennstrich: 'false'
+      icon: newspaper
+- 
+  dropdowntoggle: 'true'
+  kategorietitel: 'Unterricht & Schulleben'
+  kategorieseite: [ ]
+  unterpunkte:
+    - 
+      isexternal: 'false'
+      linktitle: Fächer
+      pagelink:
+        - Faecher
+      externallink: ""
+      trennstrich: 'false'
+      icon: easel
+    - 
+      isexternal: 'false'
+      linktitle: Berufsorientierung
+      pagelink:
+        - unterricht/berufsorientierung
+      externallink: ""
+      trennstrich: 'false'
+      icon: signpost-split
+    - 
+      isexternal: 'false'
+      linktitle: Schülerfirmen
+      pagelink:
+        - unterricht/schuelerfirmen
+      externallink: ""
+      trennstrich: 'false'
+      icon: shop
+    - 
+      isexternal: 'false'
+      linktitle: Beratung
+      pagelink:
+        - unterricht/beratung
+      externallink: ""
+      trennstrich: 'false'
+      icon: chat-dots
+    - 
+      isexternal: 'false'
+      linktitle: Inkulsion
+      pagelink:
+        - unterricht/inklusion
+      externallink: ""
+      trennstrich: 'true'
+      icon: door-open
+    - 
+      isexternal: 'false'
+      linktitle: Kulturelles
+      pagelink:
+        - unterricht/kulturelles
+      externallink: ""
+      trennstrich: 'false'
+      icon: globe
+    - 
+      isexternal: 'false'
+      linktitle: Wettbewerbe
+      pagelink:
+        - unterricht/wettbewerbe
+      externallink: ""
+      trennstrich: 'false'
+      icon: trophy
+    - 
+      isexternal: 'false'
+      linktitle: Das Ag-Angebot
+      pagelink:
+        - unterricht/ag-angebot
+      externallink: ""
+      trennstrich: 'false'
+      icon: collection
+    - 
+      isexternal: 'false'
+      linktitle: 'Schule ohne Rassismus - Schule mit Courage'
+      pagelink:
+        - >
+          unterricht/schule-ohne-rassismus-schule-mit-courage
+      externallink: ""
+      trennstrich: 'true'
+      icon: peace
+    - 
+      isexternal: 'false'
+      linktitle: Schulsanitätsdienst
+      pagelink:
+        - unterricht/ssd
+      externallink: ""
+      trennstrich: 'false'
+      icon: people
+    - 
+      isexternal: 'false'
+      linktitle: BO-Coaches
+      pagelink:
+        - unterricht/bo-coaches
+      externallink: ""
+      trennstrich: 'false'
+      icon: signpost
+    - 
+      isexternal: 'false'
+      linktitle: Schulhund
+      pagelink:
+        - unterricht/schulhund
+      externallink: ""
+      trennstrich: 'false'
+      icon: suit-heart
+    - 
+      isexternal: 'false'
+      linktitle: Streitschlichter
+      pagelink:
+        - unterricht/streitschlichter
+      externallink: ""
+      trennstrich: 'false'
+      icon: chat-left-text
+    - 
+      isexternal: 'false'
+      linktitle: Ag für den Frieden
+      pagelink:
+        - unterricht/ag-frieden
+      externallink: ""
+      trennstrich: 'false'
+      icon: peace
+- 
+  dropdowntoggle: 'true'
+  kategorietitel: 'Servcie & Downloads'
+  kategorieseite: [ ]
+  unterpunkte:
+    - 
+      isexternal: 'false'
+      linktitle: Informationen und Formulare
+      pagelink:
+        - allgemeines/wichtigelinks
+      externallink: ""
+      trennstrich: 'false'
+      icon: paperclip
+    - 
+      isexternal: 'false'
+      linktitle: Schulbuchlisten
+      pagelink:
+        - allgemeines/schulbuchlisten
+      externallink: ""
+      trennstrich: 'false'
+      icon: filter
+    - 
+      isexternal: 'false'
+      linktitle: Schulbusverkehr
+      pagelink:
+        - allgemeines/bus
+      externallink: ""
+      trennstrich: 'false'
+      icon: truck
+    - 
+      isexternal: 'false'
+      linktitle: Zeitraster
+      pagelink:
+        - allgemeines/zeitraster
+      externallink: ""
+      trennstrich: 'false'
+      icon: clock
+- 
+  dropdowntoggle: 'false'
+  kategorietitel: Kalender
+  kategorieseite:
+    - allgemeines/kalender
+  unterpunkte: [ ]
