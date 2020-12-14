@@ -15,20 +15,20 @@ return function($kirby, $pages, $page) {
             'name'  => get('name'),
             'email' => get('email'),
             'klasse' => get('klasse'),
-            'benutzername'  => get('benutzername')
+            'klassenlehrer'  => get('klassenlehrer')
         ];
 
         $rules = [
             'name'  => ['required', 'minLength' => 3],
-            'benutzername'  => ['required', 'minLength' => 3],
             'email' => ['required', 'email'],
-            'klasse'  => ['required', 'minLength' => 2, 'maxLength' => 3000],
+            'klassenlehrer'  => ['required', 'minLength' => 2],
+            'klasse'  => ['required', 'minLength' => 2, 'maxLength' => 4],
         ];
 
         $messages = [
             'name'  => 'Bitte einen gültigen Vor- und Nachnamen eingeben',
-            'benutzername'  => 'Bitte einen gültigen Benutzernamen eingeben',
             'email' => 'Bitte eine gültige EMail-Adresse eingeben',
+            'klassenlehrer'  => 'Bitte einen gültigen Namen oder Kürzel eingeben',
             'klasse'  => 'Bitte eine gültige Klasse eingeben'
         ];
 
@@ -41,13 +41,13 @@ return function($kirby, $pages, $page) {
             try {
                 $kirby->email([
                     'template' => 'krankmeldung',
-                    'from'     => esc($data['absender']),
+                    'from'     => esc($data['email']),
                     'replyTo'  => $data['email'],
                     'to'       => 'ni@kgs-rastede.eu',
                     'subject'  => esc($data['name']) . ' fordert ein neues Passwort an',
                     'data'     => [
                         'text'   => esc($data['klasse']) . " " . esc($data['email']),
-                        'sender' => esc($data['name']) . " " . esc($data['benutzername'])
+                        'sender' => esc($data['name']) . " " . esc($data['klassenlehrer'])
                     ]
                 ]);
 
