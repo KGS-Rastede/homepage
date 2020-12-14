@@ -19,10 +19,10 @@ return function($kirby, $pages, $page) {
         ];
 
         $rules = [
-            'name'  => ['required', 'minLength' => 3],
-            'benutzername'  => ['required', 'minLength' => 3],
+            'name'  => ['required', 'minLength' => 3, 'maxLength' => 30],
+            'benutzername'  => ['required', 'minLength' => 3, 'maxLength' => 30],
             'email' => ['required', 'email'],
-            'klasse'  => ['required', 'minLength' => 2, 'maxLength' => 3000],
+            'klasse'  => ['required', 'minLength' => 2, 'maxLength' => 4],
         ];
 
         $messages = [
@@ -40,9 +40,9 @@ return function($kirby, $pages, $page) {
         } else {
             try {
                 $kirby->email([
-                    'template' => 'email',
-                    'from'     => 'ni@kgs-rastede.eu',
-                    'replyTo'  => $data['email'],
+                    'template' => 'iserv',
+                    'from'     => esc($data['email'],
+                    'replyTo'  => esc($data['email'],
                     'to'       => 'netzwerk@kgs-rastede.eu',
                     'subject'  => esc($data['name']) . ' fordert ein neues Passwort an',
                     'data'     => [
