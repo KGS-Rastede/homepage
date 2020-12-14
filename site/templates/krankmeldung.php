@@ -3,40 +3,112 @@
 
 <?php snippet('sidebar') ?>
 
-<div class="container">
-  <form>
-    <div class="form-row">
-      <div class="form-group col-md-6">
-        <label for="inputEmail4">Email</label>
-        <input type="email" class="form-control" id="inputEmail4">
+<!-- Anleitung: https://getkirby.com/docs/guide/emails -->
+
+<?php if ($success) : ?>
+  <div class="alert success">
+    <p><?= $success ?></p>
+  </div>
+<?php else : ?>
+  <?php if (isset($alert['error'])) : ?>
+    <div><?= $alert['error'] ?></div>
+  <?php endif ?>
+
+
+  <!-- <form method="post" action="<?= $page->url() ?>">
+    Muss im CSS noch unsichtbar gemacht werden
+            <div class="honeypot">
+            <label for="website">Website <abbr title="required">*</abbr></label>
+            <input type="website" id="website" name="website" tabindex="-1">
+        </div>  -->
+       
+
+
+    <!--  -->
+
+    <div class="container">
+
+      <p>
+        Sie möchten ihr Kind krankmelden?
+      </p>
+      <p>
+        Bitte füllen Sie folgende Felder aus, die Klassenlehrkraft wird dann informiert.
+      </p>
+
+      <div class="row align-items-start">
+        <div class="col-12">
+          <div class="mb-3">
+            <div class="field">
+              <label for="name" class="form-label">
+                Vorname Nachname
+              </label>
+              <input type="text" id="name" class="form-control" name="name" value="<?= $data['name'] ?? '' ?>" required>
+              <?= isset($alert['name']) ? '<span class="alert error">' . html($alert['name']) . '</span>' : '' ?>
+              <div id="nameHelp" class="form-text">'Max Mustermann'</div>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="mb-3">
+            <div class="field">
+              <label for="klasse" class="form-label">Klassenlehrer</label>
+              <input type="text" id="klasse" class="form-control" name="klasse" value="<?= $data['klasse'] ?? '' ?>" required>
+              <?= isset($alert['klasse']) ? '<span class="alert error">' . html($alert['klasse']) . '</span>' : '' ?>
+              <div id="klasseHelp" class="form-text">z.B. 'Herr Mustermann'</div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="mb-3">
+            <div class="field">
+              <label for="email" class="form-label">
+                Klasse
+              </label>
+              <select id="inputState" class="form-control">
+                <option selected>unbekannt</option>
+                <option>05a2</option>
+                <option>05a3</option>
+                <option>05b1</option>
+                <option>05b2</option>
+                <option>05b3</option>
+                <option>05c2</option>
+                <option>05c3</option>
+                <option>06a1</option>
+                <option>06a2</option>
+                <option>06a3</option>
+                <option>06b1</option>
+                <option>06b2</option>
+                <option>06b3</option>
+                <option>06c2</option>
+                <option>06c3</option>
+                <option>07a1</option>
+                <option>07a2</option>
+                <option>07a3</option>
+                <option>07b1</option>
+                <option>07b2</option>
+                <option>07b3</option>
+                <option>07c2</option>
+                <option>07c3</option>
+                <option>08a1</option>
+                <option>08a2</option>
+                <option>08a3</option>
+                <option>08b1</option>
+                <option>08b2</option>
+                <option>08b3</option>
+                <option>08c2</option>
+                <option>08c3</option>
+              </select>
+            </div>
+          </div>
+        </div>
       </div>
+      <button type="submit" name="submit" value="Submit" class="ms-3 mt-3 btn btn-secondary">Krankmeldung losschicken...</button>
     </div>
 
-    <div class="form-row">
-      <div class="form-group col-md-6">
-        <label for="inputCity">Klassenlehrer*in</label>
-        <input type="text" class="form-control" id="inputCity">
-      </div>
-      <div class="form-group col-md-6">
-        <label for="inputState">Klasse</label>
-        <select id="inputState" class="form-control">
-          <option selected>05a1</option>
-          <option>05b1</option>
-          <option>05a2</option>
-          <option>05a3</option>
-        </select>
-      </div>
-    </div>
-    <div class="form-group">
-      <div class="form-check">
-        <input class="form-check-input" type="checkbox" id="gridCheck">
-        <label class="form-check-label" for="gridCheck">
-          Check me out
-        </label>
-      </div>
-    </div>
-    <button type="submit" class="btn btn-primary">Sign in</button>
+    <!--  -->
   </form>
-</div>
+<?php endif ?>
 
 <?php snippet('footer') ?>
