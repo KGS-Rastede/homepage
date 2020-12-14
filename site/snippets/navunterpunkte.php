@@ -1,5 +1,7 @@
 <?php foreach ($items as $item) : //Es werden alle Unterpunkte durchgegangen ?>
 
+    <li>
+    
     <?php if ($pageLink = $item->pageLink()->toPage()) : //Wenn es eine interne Seite ist ?>
 
         <a class="dropdown-item" href="<?= $pageLink->url() ?>">
@@ -23,5 +25,7 @@
     <?php if ($item->trennstrich()->isTrue()) : ?>
         <div class="dropdown-divider"></div>
     <?php endif ?>
+
+    </li>
 
 <?php endforeach ?>
