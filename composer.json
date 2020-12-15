@@ -23,7 +23,7 @@
     },
     "require": {
         "php": ">=7.3.4",
-        "getkirby/cms": ">=3.5.0-rc6",
+        "getkirby/cms": ">=3.5.0-rc7",
         "getkirby/editor": "^1.0",
         "pju/kirby-webhook-field": "^1.1",
         "twbs/bootstrap": "^v5.0.0-beta1"
