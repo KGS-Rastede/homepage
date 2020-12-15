@@ -37,12 +37,12 @@ return [
             ],
             'transport' => [
                 'type' => 'smtp',
-                'host' => 'smtp.company.com',
-                'port' => 465,
+                'host' => 'smtp.kgs-rastede.eu',
+                'port' => 587,
                 'security' => true,
                 'auth' => true,
-                'username' => '...',
-                'password' => '...'
+                'username' => 'xxx',
+                'password' => 'yyy'
             ]
         ]
     ],
