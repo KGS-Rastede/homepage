@@ -77,7 +77,8 @@
             <label for="klasse" class="form-label">
               Klasse
             </label>
-            <select id="inputState" class="form-control">
+
+            <select type="form-select" id="klasse" class="form-select" name="klasse" value="<?= $data['klasse'] ?? '' ?>" required>
               <option selected>unbekannt</option>
               <option>05a2</option>
               <option>05a3</option>
@@ -111,6 +112,8 @@
               <option>08c2</option>
               <option>08c3</option>
             </select>
+            <?= isset($alert['klasse']) ? '<span class="alert error">' . html($alert['klasse']) . '</span>' : '' ?>
+            
           </div>
         </div>
       </div>
