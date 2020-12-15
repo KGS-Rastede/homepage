@@ -1,10 +1,8 @@
 <?php snippet('header') ?>
 <?php snippet('home-page-header') ?>
 
+<?php snippet('box-notfall') ?>
 
-
-
-  <?php snippet('box-notfall') ?>
 <div class="container-fluid">
   <div class="row">  
     <div class="col-xl-8">
