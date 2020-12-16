@@ -56,6 +56,11 @@
   position: static !important;
 }
 
+.honeypot {
+  position: absolute;
+  left: -9999px;
+}
+
 footer {
   width: 100%;
   padding: 30px 0;
@@ -299,6 +304,9 @@ footer {
   background: #ff6b6b;
 }
 
+/*==================================
+    Heroimage (Startseite)
+==================================*/
 .top-banner-section {
   display: grid;
   grid-template-columns: 1fr;

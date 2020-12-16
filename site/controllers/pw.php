@@ -19,8 +19,8 @@ return function($kirby, $pages, $page) {
         ];
 
         $rules = [
-            'name'  => ['required', 'minLength' => 3, 'maxLength' => 30],
-            'benutzername'  => ['required', 'minLength' => 3, 'maxLength' => 30],
+            'name'  => ['required', 'minLength' => 3, 'maxLength' => 40],
+            'benutzername'  => ['required', 'minLength' => 3, 'maxLength' => 40],
             'email' => ['required', 'email'],
             'klasse'  => ['required', 'minLength' => 2, 'maxLength' => 4],
         ];
@@ -42,20 +42,23 @@ return function($kirby, $pages, $page) {
                 $kirby->email([
                     'template' => 'iserv',
                     'from'     => esc($data['email']),
-                    'replyTo'  => esc($data['email']),
+                    'replyTo'  => $data['email'],
                     'to'       => 'netzwerk@kgs-rastede.eu',
                     'subject'  => esc($data['name']) . ' fordert ein neues Passwort an',
                     'data'     => [
-                        'text'   => esc($data['klasse']) . " " . esc($data['email']),
-                        'sender' => esc($data['name']) . " " . esc($data['benutzername'])
+                        'text'   => "Name: <em>" . esc($data['name']) .
+                        "</em><br>E-Mail: <em>" . esc($data['email']) .
+                        "</em><br>Klasse: <em>" . esc($data['klasse']) .
+                        "</em><br><br>IServ-Benutzername: <strong>" . esc($data['benutzername']) . "</strong>",
+                        'sender' => esc($data['name'])
                     ]
                 ]);
 
             } catch (Exception $error) {
                 if(option('debug')):
-                    $alert['error'] = 'The form could not be sent: <strong>' . $error->getMessage() . '</strong>';
+                    $alert['error'] = 'Die Anfrage konnte nicht gesendet werden: <strong>' . $error->getMessage() . '</strong>';
                 else:
-                    $alert['error'] = 'The form could not be sent!';
+                    $alert['error'] = 'Die Anfrage konnte <strong>nicht</strong> gesendet werden! Bitte schreiben Sie eine E-Mail an: netzwerk@kgs-rastede.eu um ihr Passwort zurück zu setzen.';
                 endif;
             }
 
