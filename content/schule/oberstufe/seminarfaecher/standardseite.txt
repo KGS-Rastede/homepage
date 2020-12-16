@@ -1,4 +1,4 @@
-Title: Seminarfächer
+Title: Seminarfächer und Facharbeiten
 
 ----
 
@@ -17,8 +17,38 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Die aktuellen Themen werden über IServ bekannt gegeben.",
-        "id": "_23ydiagt9",
+        "content": "Die aktuellen Themen werden über IServ bekannt gegeben. Unten auf der Seite befindet sich eine Liste der Seminarfachthemen der letzten Jahre.",
+        "id": "_iapt31p7k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_9kqge4kss",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Facharbeit</strong>",
+        "id": "_t9arso0gy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Informationen zur Erstellung einer Facharbeit haben wir in einem Dokument zusammengestellt. Es steht als Download auf dieser Seite zur Verfügung, ebenso wie die Formblätter für die Facharbeit. Die Formblätter können z.B. sowohl mit Microsoft Office als auch mit LibreOffice geöffnet und bearbeitet werden.",
+        "id": "_dwn0lx9ch",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine weitere sehr informative Seite zur Recherche für Facharbeiten findet Ihr bei der <strong><a title=\"Angebote der Uni-Bibliothek  für Schulen\" href=\"https://uol.de/bis/lernen-und-arbeiten/angebote-fuer-schulen\">Bibliothek der Uni Oldenburg</a>.</strong>",
+        "id": "_ongk5amy1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_cqrglqxdt",
         "type": "paragraph"
     },
     {
@@ -157,7 +187,10 @@ Downloadtitel:
 
 ----
 
-Downloads: 
+Downloads:
+
+- facharbeit-2020.pdf
+- formblaetter_facharbeit.docx
 
 ----
 
@@ -165,7 +198,14 @@ Sidetitel:
 
 ----
 
-Sidebar: 
+Sidebar:
+
+- 
+  link: >
+    https://uol.de/bis/lernen-und-arbeiten/angebote-fuer-schulen
+  name: >
+    Angebote der Uni-Bibliothek Oldenburg
+    für Schulen
 
 ----
 
