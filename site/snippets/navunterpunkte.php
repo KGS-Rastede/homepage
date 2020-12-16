@@ -2,22 +2,31 @@
 
     <li>
     
-    <?php if ($pageLink = $item->pageLink()->toPage()) : //Wenn es eine interne Seite ist ?>
+    <?php if ($pageLink = $item->pageLink()->toPage()) : //----------- Wenn es eine interne Seite ist --------------- ?>
 
-        <a class="dropdown-item" href="<?= $pageLink->url() ?>">
-            <svg class="bi" width="24" height="24">
-                <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#<?= $item->icon() ?>" >
-            </svg>
-            <?= $item->linkTitle()->or($pageLink->title()) //Entweder den eingegebenen Titel oder als Fallback den Titel der Seite ?>
+        <a class="dropdown-item text-umbruch text-sm-kein-umbruch" href="<?= $pageLink->url()?>">
+            <div class="d-flex">            
+                <svg class="bi" width="24" height="24">
+                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#<?= $item->icon() ?>" >
+                </svg>
+                
+                <div class="col ms-1 ">
+                    <?= $item->linkTitle()->or($pageLink->title()) //Entweder den eingegebenen Titel oder als Fallback den Titel der Seite ?>
+                </div>
+            </div>
         </a>
 
-    <?php elseif ($item->externalLink()->isNotEmpty()) : //Wenn es eine externe Seite ist ?>
+    <?php elseif ($item->externalLink()->isNotEmpty()) : // --------- Wenn es eine externe Seite ist ---------- ?>
 
-        <a class="dropdown-item" href="<?= $item->externalLink() ?>">
-            <svg class="bi" width="24" height="24">
-                <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#<?= $item->icon() ?>" >
-            </svg>
-            <?= $item->linkTitle()->or( Url::short($item->externalLink()->value()) ) //Entweder den eingegebenen Titel oder als Fallback den Titel der externen Seite ?>
+        <a class="dropdown-item text-umbruch text-sm-kein-umbruch" href="<?= $item->externalLink() //Dieser Teil kommt bei Bildschirm schmaler als md ?>">
+            <div class="d-flex">   
+                <svg class="bi" width="24" height="24">
+                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#<?= $item->icon() ?>" >
+                </svg>
+                <div class="col ms-1">
+                    <?= $item->linkTitle()->or( Url::short($item->externalLink()->value()) ) //Entweder den eingegebenen Titel oder als Fallback den Titel der externen Seite ?>
+                </div>
+            </div>            
         </a>
 
     <?php endif ?>

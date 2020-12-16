@@ -245,7 +245,7 @@ Navbar:
       icon: trophy
     - 
       isexternal: 'false'
-      linktitle: Das Ag-Angebot
+      linktitle: Das AG-Angebot
       pagelink:
         - unterricht/ag-angebot
       externallink: ""

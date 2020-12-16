@@ -112,6 +112,17 @@ $theme-colors: (
     left: -9999px;
 }
 
+.text-umbruch { //Speziell für die Navbar
+    white-space: normal !important;
+}
+
+ 
+@media (min-width: 576px) { //Speziell für die Navbar
+    .text-sm-kein-umbruch {
+        white-space: nowrap !important;
+    }
+}
+
 footer {
     width: 100%;
     padding: 30px 0;
