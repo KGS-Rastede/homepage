@@ -107,6 +107,11 @@ $theme-colors: (
     position: static !important;
 }
 
+.honeypot { //Für Formulare (sehr primitives antispam)
+    position: absolute;
+    left: -9999px;
+}
+
 footer {
     width: 100%;
     padding: 30px 0;
@@ -366,7 +371,9 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
     }
 }
 
-// Heroimage
+/*==================================
+    Heroimage (Startseite)
+==================================*/
 
 .top-banner-section {
     display: grid;

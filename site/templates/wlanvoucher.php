@@ -14,15 +14,12 @@
 
 
     <form method="post" action="<?= $page->url() ?>">
-        <!-- Muss im CSS noch unsichtbar gemacht werden
-            <div class="honeypot">
+
+        <div class="honeypot">
             <label for="website">Website <abbr title="required">*</abbr></label>
             <input type="website" id="website" name="website" tabindex="-1">
         </div> 
-        -->
 
-
-        <!--  -->
 
         <div class="container">
 
@@ -49,7 +46,7 @@
             <button type="submit" name="submit" value="Submit" class="ms-3 mt-3 btn btn-secondary">WLAN Voucher abschicken...</button>
         </div>
 
-        <!--  -->
+
     </form>
 <?php endif ?>
 

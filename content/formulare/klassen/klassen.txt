@@ -1,0 +1,74 @@
+Title: Klassen
+
+----
+
+Klassen:
+
+- 
+  klasse: 05A2
+- 
+  klasse: 05A3
+- 
+  klasse: 05B1
+- 
+  klasse: 05B2
+- 
+  klasse: 05C2
+- 
+  klasse: 05C3
+- 
+  klasse: ------
+- 
+  klasse: 06A1
+- 
+  klasse: 06A2
+- 
+  klasse: 06A3
+- 
+  klasse: 06B1
+- 
+  klasse: 06B2
+- 
+  klasse: 06B3
+- 
+  klasse: 06C2
+- 
+  klasse: 06C3
+- 
+  klasse: 07A1
+- 
+  klasse: ------
+- 
+  klasse: 07A2
+- 
+  klasse: 07A3
+- 
+  klasse: 07B1
+- 
+  klasse: 07B2
+- 
+  klasse: 07B3
+- 
+  klasse: 07C2
+- 
+  klasse: 07C3
+- 
+  klasse: ------
+- 
+  klasse: 08A1
+- 
+  klasse: 08A2
+- 
+  klasse: 08A3
+- 
+  klasse: 08B1
+- 
+  klasse: 08B2
+- 
+  klasse: 08B3
+- 
+  klasse: 08C2
+- 
+  klasse: 08C3
+- 
+  klasse: ------
