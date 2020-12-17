@@ -6,40 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Noa und Junis aus Jahrgang 5 wollen euch mit der folgenden Videobotschaft Mut machen, aus dieser seltsamen Corona-Zeit das Beste zu machen. Sie haben jede Menge Ideen, wie man auch in der Pandemie den Sommer genießen kann.",
-        "id": "_iTa2UV0dH",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_cj8z3ujx9",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "(video: WeNoFuerHome.mp4)",
-        "id": "_zj06aauw7",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_09qbditcf",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Video haben Noa und Junis für das WeNo-Projekt #StayHealthyStayWeNo gedreht. Eine Webseite und eine Ausstellung mit allen kreativen Werken zum Projekt gibt es zu Beginn des nächsten Schuljahres. Wenn ihr auch noch Ideen habt, könnt ihr gern in den Sommerferien selbst kreativ werden und Videos drehen, Geschichten schreiben, Comics zeichnen, Podcasts aufnehmen, Fotografieren, Malen, Dichten, Erinnerungen in einen Schuhkarton kleben, …",
-        "id": "_hZ8ceYKBW",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Noa und Junis aus Jahrgang 5 wollen euch mit der folgenden Videobotschaft Mut machen, aus dieser seltsamen Corona-Zeit das Beste zu machen. Sie haben jede Menge Ideen, wie man auch in der Pandemie den Sommer genie\u00dfen kann.<\/p>"},"id":"7ff76a95-1c7f-425e-818b-c7fadd461a0a","isHidden":false,"type":"text"},{"content":{"text":"<p>(video: WeNoFuerHome.mp4)<\/p>"},"id":"07fb8806-554a-4ef1-b193-43e0294412db","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Video haben Noa und Junis f\u00fcr das WeNo-Projekt #StayHealthyStayWeNo gedreht. Eine Webseite und eine Ausstellung mit allen kreativen Werken zum Projekt gibt es zu Beginn des n\u00e4chsten Schuljahres. Wenn ihr auch noch Ideen habt, k\u00f6nnt ihr gern in den Sommerferien selbst kreativ werden und Videos drehen, Geschichten schreiben, Comics zeichnen, Podcasts aufnehmen, Fotografieren, Malen, Dichten, Erinnerungen in einen Schuhkarton kleben, \u2026<\/p>"},"id":"b89c5285-fc3b-4ae1-b5bf-a0e40c0e16ce","isHidden":false,"type":"text"}]
 
 ----
 
@@ -47,7 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-07-16 07:20
+Date: 2020-07-16 07:20:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -59,16 +30,16 @@ Tags: Corona, WuN
 
 ----
 
-Featured: true
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false

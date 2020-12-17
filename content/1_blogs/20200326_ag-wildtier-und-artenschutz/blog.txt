@@ -6,94 +6,7 @@ Heading: Bericht aus dem März
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "<strong>Zwei tolle Aktionen</strong>",
-        "id": "_rIU2Ze2iD",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "hat die <strong>AG Wildtier-und Artenschutz der Klassen 5 und 6</strong> im M\u00e4rz durchgef\u00fchrt. <br><strong>Die erste Aktion</strong> war eine Informations- und Spendenaktion f\u00fcr die <strong>Tierwelt und deren Lebensr\u00e4ume in Australien</strong>. Bereits im Januar recherchierten und informierten sich die Sch\u00fcler \u00fcber die Art und den Umfang der",
-        "id": "_fBaY52jfh",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Auswirkungen der extremen Buschbr\u00e4nde",
-        "id": "_SS0DN6INf",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "in Australien auf die Tier-und Pflanzenwelt. Auf Postern wurden Fakten zu m\u00f6glichen Ursachen und Auswirkungen der Br\u00e4nde im \u00dcberblick zusammengefasst. Weiterhin erstellten die Sch\u00fcler informative Poster \u00fcber eine kleine Auswahl von durch die Feuer bedrohten Tierarten in ihren Lebensr\u00e4umen, wie z.B. \u00fcber Wombat, Quokka, Schnabeltier und Koalas.<br>Um an einem Aktionstag am 2. M\u00e4rz in der Feldbreite Spenden zu sammeln und Sch\u00fclerinnen und Sch\u00fcler zu den Info-Stellw\u00e4nden zu locken, hatte jedes AG Mitglied einen leckeren Kuchen gebacken.<br>Durch den Verkauf der Kuchen und Spenden am Aktionstag",
-        "id": "_dRDEY3a06",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "konnte die AG",
-        "id": "_YJvd2oKdu",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>130 Euro </strong>sammeln und viele Sch\u00fcler \u00fcber die Tierwelt Australiens und die aktuellen Bedrohungen informieren. <br>Das gesammelte Geld wurde an den WWF und an Wires (Wildlife Rescue)",
-        "id": "_LuGrjxoHX",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "zur Pflege vieler verletzter Tiere und die langwierige Wiederaufforstung von W\u00e4ldern in Australien gespendet. <br><strong>Unser Dank gilt allen, die unsere Aktion an diesem Tag unterst\u00fctzt haben!</strong>",
-        "id": "_uKEUSBddO",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Unsere zweite Aktion galt unseren heimischen Singv\u00f6geln. Lutz Wemken",
-        "id": "_X1jXgu2FL",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": ", Hegeringleiter des Hegerings Rastede Nord der Ammerl\u00e4nder J\u00e4gerschaft <strong>und seine Frau Regina</strong> sind unserer Einladung gefolgt und besuchten die AG am 5.M\u00e4rz. Sie hatten nicht nur interessante Informationen rund um die Aufgaben der J\u00e4ger im Gep\u00e4ck. Nachdem die Sch\u00fcler*innen ihre vielen <strong>Fragen zur heimischen Tierwelt und deren Hege und Pflege</strong> losgeworden waren, wurde aktiv an deren Schutz gearbeitet. <br><strong>Zehn Nistk\u00e4sten f\u00fcr heimische Singv\u00f6gel bauten die Sch\u00fcler</strong>, jeder einen, gerade noch rechtzeitig, um sie zur Brutsaison aufzuh\u00e4ngen. Beim Aufh\u00e4ngen ist die Katzen- und Mardersicherheit wichtig. Daf\u00fcr bringt man den Kasten mit Metallwinkeln in ca. 2-5m H\u00f6he an einer glatten Haus- oder Garagenwand oder mit einem gro\u00dfen Aluminiumnagel an einem Baumstamm an. V\u00f6gel m\u00f6gen es \u00fcbrigens nicht, wenn der Nistkasten frei im Wind schaukelt und <strong>zwischen den einzelnen K\u00e4sten sollte ein Abstand von ca. 10m gegeben sein.</strong>",
-        "id": "_qxEUYb5Zz",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die Nistk\u00e4sten sollten au\u00dferdem mit der \u00d6ffnung nach Osten (S\u00fcdosten, Nordosten) zeigen, weil Westen die sogenannte \u201eWetterseite\u201c ist, dann k\u00f6nnte es reinregnen.",
-        "id": "_9ac1pTSIO",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Wir bedanken uns herzlich bei Lutz und Regina f\u00fcr die tolle Aktion!</strong>",
-        "id": "_oK0PViTj4",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Die AG Teilnehmer*innen:</strong>",
-        "id": "_HysbPOxel",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ayleen, Franka, Julia, Paula, Jonas, Jonathan, Julian, Mads, Tammo und Tom.",
-        "id": "_IkCwzIDh4",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Susanne B\u00fcrig",
-        "id": "_NA2zGnBMY",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<strong>Zwei tolle Aktionen<\/strong>"},"id":"871c20a5-ef7b-4faf-b596-0893bb505aac","isHidden":false,"type":"text"},{"content":{"text":"<p>hat die <strong>AG Wildtier-und Artenschutz der Klassen 5 und 6<\/strong> im M\u00e4rz durchgef\u00fchrt. <br><strong>Die erste Aktion<\/strong> war eine Informations- und Spendenaktion f\u00fcr die <strong>Tierwelt und deren Lebensr\u00e4ume in Australien<\/strong>. Bereits im Januar recherchierten und informierten sich die Sch\u00fcler \u00fcber die Art und den Umfang der Auswirkungen der extremen Buschbr\u00e4nde in Australien auf die Tier-und Pflanzenwelt. Auf Postern wurden Fakten zu m\u00f6glichen Ursachen und Auswirkungen der Br\u00e4nde im \u00dcberblick zusammengefasst. Weiterhin erstellten die Sch\u00fcler informative Poster \u00fcber eine kleine Auswahl von durch die Feuer bedrohten Tierarten in ihren Lebensr\u00e4umen, wie z.B. \u00fcber Wombat, Quokka, Schnabeltier und Koalas.<br>Um an einem Aktionstag am 2. M\u00e4rz in der Feldbreite Spenden zu sammeln und Sch\u00fclerinnen und Sch\u00fcler zu den Info-Stellw\u00e4nden zu locken, hatte jedes AG Mitglied einen leckeren Kuchen gebacken.<br>Durch den Verkauf der Kuchen und Spenden am Aktionstag konnte die AG <strong>130 Euro <\/strong>sammeln und viele Sch\u00fcler \u00fcber die Tierwelt Australiens und die aktuellen Bedrohungen informieren. <br>Das gesammelte Geld wurde an den WWF und an Wires (Wildlife Rescue) zur Pflege vieler verletzter Tiere und die langwierige Wiederaufforstung von W\u00e4ldern in Australien gespendet. <br><strong>Unser Dank gilt allen, die unsere Aktion an diesem Tag unterst\u00fctzt haben!<\/strong><\/p>"},"id":"71a55a2e-74d8-44c1-89e2-00e8491db4a5","isHidden":false,"type":"text"},{"content":{"text":"<p>Unsere zweite Aktion galt unseren heimischen Singv\u00f6geln. Lutz Wemken, Hegeringleiter des Hegerings Rastede Nord der Ammerl\u00e4nder J\u00e4gerschaft <strong>und seine Frau Regina<\/strong> sind unserer Einladung gefolgt und besuchten die AG am 5.M\u00e4rz. Sie hatten nicht nur interessante Informationen rund um die Aufgaben der J\u00e4ger im Gep\u00e4ck. Nachdem die Sch\u00fcler*innen ihre vielen <strong>Fragen zur heimischen Tierwelt und deren Hege und Pflege<\/strong> losgeworden waren, wurde aktiv an deren Schutz gearbeitet. <br><strong>Zehn Nistk\u00e4sten f\u00fcr heimische Singv\u00f6gel bauten die Sch\u00fcler<\/strong>, jeder einen, gerade noch rechtzeitig, um sie zur Brutsaison aufzuh\u00e4ngen. Beim Aufh\u00e4ngen ist die Katzen- und Mardersicherheit wichtig. Daf\u00fcr bringt man den Kasten mit Metallwinkeln in ca. 2-5m H\u00f6he an einer glatten Haus- oder Garagenwand oder mit einem gro\u00dfen Aluminiumnagel an einem Baumstamm an. V\u00f6gel m\u00f6gen es \u00fcbrigens nicht, wenn der Nistkasten frei im Wind schaukelt und <strong>zwischen den einzelnen K\u00e4sten sollte ein Abstand von ca. 10m gegeben sein.<\/strong><\/p><p>Die Nistk\u00e4sten sollten au\u00dferdem mit der \u00d6ffnung nach Osten (S\u00fcdosten, Nordosten) zeigen, weil Westen die sogenannte \u201eWetterseite\u201c ist, dann k\u00f6nnte es reinregnen.<\/p>"},"id":"09315c64-afca-443c-b1ae-f8b38bb32cd7","isHidden":false,"type":"text"},{"content":{"text":"<strong>Wir bedanken uns herzlich bei Lutz und Regina f\u00fcr die tolle Aktion!<\/strong>"},"id":"b700ff82-c3fe-4745-be2f-9944858b9d5f","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Die AG Teilnehmer*innen:<\/strong><\/p>"},"id":"68ca885a-4cbb-480b-8aad-74a5a32a7c9b","isHidden":false,"type":"text"},{"content":{"text":"<p>Ayleen, Franka, Julia, Paula, Jonas, Jonathan, Julian, Mads, Tammo und Tom.<\/p><p><\/p><p>Susanne B\u00fcrig<\/p>"},"id":"4e227350-b27e-4835-b73b-024135499550","isHidden":false,"type":"text"}]
 
 ----
 
@@ -110,7 +23,11 @@ Gallery:
 
 ----
 
-Date: 2020-03-26 13:40
+Date: 2020-03-26 13:40:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -122,16 +39,16 @@ Tags: Biologie
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: carousel
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

@@ -6,28 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Advent im Schulgarten Feldbreite!",
-        "id": "_j1iby8ijw",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_3rd1uzd0m",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Herzliche Grüße von der AG Schulgarten",
-        "id": "_8w78qlzzq",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Advent im Schulgarten Feldbreite!<\/p><p><\/p><p>Herzliche Gr\u00fc\u00dfe von der AG Schulgarten<\/p>"},"id":"b37f0289-96fa-4d5f-ad9a-8c9f00740aca","isHidden":false,"type":"text"}]
 
 ----
 
@@ -37,11 +16,11 @@ Gallery:
 
 ----
 
-Date: 2020-12-15 19:10
+Date: 2020-12-15 19:10:00
 
 ----
 
-Datumstartseite: 2021-01-10 19:10
+Datumstartseite: 2021-01-10 19:10:00
 
 ----
 

@@ -6,25 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": {
-            "src": "https://youtu.be/SN_ZTRcpQ_k",
-            "caption": "alles neu macht der… August"
-        },
-        "content": "",
-        "id": "_gyksk3c3q",
-        "type": "video"
-    },
-    {
-        "attrs": [],
-        "content": "Das große Sommerupdate ist da, hier finden sich sehr viele Neuigkeiten. Mehr dazu <a href=\"https://help.untis.at/hc/de/articles/360015522359\">hier</a> (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://help.untis.at/hc/de/articles/360015522359\">https://help.untis.at/hc/de/articles/360015522359</a>).",
-        "id": "_0gvwhwhy9",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"url":"https:\/\/youtu.be\/SN_ZTRcpQ_k","caption":"alles neu macht der\u2026 August"},"id":"e8ed8b8d-8c20-4262-ad85-7fdc6e616551","isHidden":false,"type":"video"},{"content":{"text":"<p>Das gro\u00dfe Sommerupdate ist da, hier finden sich sehr viele Neuigkeiten. Mehr dazu <a href=\"https:\/\/help.untis.at\/hc\/de\/articles\/360015522359\" rel=\"noopener noreferrer nofollow\">hier<\/a> (<a href=\"https:\/\/help.untis.at\/hc\/de\/articles\/360015522359\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">https:\/\/help.untis.at\/hc\/de\/articles\/360015522359<\/a>).<\/p>"},"id":"f70df2cd-82da-4e43-801d-c4807d7eb7ac","isHidden":false,"type":"text"}]
 
 ----
 
@@ -32,11 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-07-30 14:25
+Date: 2020-07-30 14:25:00
 
 ----
 
-Datumstartseite: 2020-09-30 12:25
+Datumstartseite: 2020-09-30 12:25:00
 
 ----
 
@@ -48,12 +30,12 @@ Tags: Schulleitung, WebUntis
 
 ----
 
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: 
+
+----
+
+Immer-sichtbar: false

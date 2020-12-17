@@ -6,46 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Wie sieht eine Abschlussfeier in Zeiten der Covid-19-Pandemie aus? Geht das überhaupt?",
-        "id": "_L5rOXbjmd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ja, und das konnte man am Freitag, den 03.07.2020, gleich dreimal bestaunen. Um 13 Uhr, 15 Uhr und 17 Uhr wurde den Absolventen von Haupt- und Realschulzweig feierlich und in Anwesenheit der Eltern ihr Zeugnis überreicht. Corona-gerecht mit dem gebotenen Abstand und unter freiem Himmel auf dem Schulhof. Sogar Petrus spielte mit: Nur zwischendurch gab es eine klitzekleine Schauer…",
-        "id": "_X3viMIzfE",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_j27dqaaaj",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/blogs+abschlussfeier-2020-einzigartige-corona-edition/files/abschluss5.jpg",
-            "id": "blogs/abschlussfeier-2020-einzigartige-corona-edition/abschluss5.jpg",
-            "filename": "abschluss5.jpg",
-            "ratio": 1.5,
-            "caption": ""
-        },
-        "content": "",
-        "id": "_wqfctytha",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "Nach einem Grußwort der Schulleiterin verlasen die Schulzweigleitungen Frau Pannenborg und Herr Kleeberg das Grußwort des Bürgermeisters der Gemeinde Rastede. Sodann entließen die Klassenlehrerinnen und Klassenlehrer ihre Klassen mit sehr persönlichen Worten. Jede Klasse erhielt in einem würdigen Rahmen ihre Zeugnisse. Auch die Schülerinnen und Schüler fanden nette und aufrichtige Worte des Dankes für ihre Klassenlehrerinnen und Klassenlehrer. Man merkte deutlich, dass ihnen der Abschied schwerfiel.",
-        "id": "_3lmbjc1e4",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Wie sieht eine Abschlussfeier in Zeiten der Covid-19-Pandemie aus? Geht das \u00fcberhaupt?<\/p>"},"id":"6bc4bfb5-e1bd-49d8-957d-ef9c923e35b5","isHidden":false,"type":"text"},{"content":{"text":"<p>Ja, und das konnte man am Freitag, den 03.07.2020, gleich dreimal bestaunen. Um 13 Uhr, 15 Uhr und 17 Uhr wurde den Absolventen von Haupt- und Realschulzweig feierlich und in Anwesenheit der Eltern ihr Zeugnis \u00fcberreicht. Corona-gerecht mit dem gebotenen Abstand und unter freiem Himmel auf dem Schulhof. Sogar Petrus spielte mit: Nur zwischendurch gab es eine klitzekleine Schauer\u2026<\/p>"},"id":"6d82b521-415c-4dd9-b262-e67c5d0d4d8e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["abschluss5.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"9d3faedd-2c6d-4144-b662-a1be99040133","isHidden":false,"type":"image"},{"content":{"text":"<p>Nach einem Gru\u00dfwort der Schulleiterin verlasen die Schulzweigleitungen Frau Pannenborg und Herr Kleeberg das Gru\u00dfwort des B\u00fcrgermeisters der Gemeinde Rastede. Sodann entlie\u00dfen die Klassenlehrerinnen und Klassenlehrer ihre Klassen mit sehr pers\u00f6nlichen Worten. Jede Klasse erhielt in einem w\u00fcrdigen Rahmen ihre Zeugnisse. Auch die Sch\u00fclerinnen und Sch\u00fcler fanden nette und aufrichtige Worte des Dankes f\u00fcr ihre Klassenlehrerinnen und Klassenlehrer. Man merkte deutlich, dass ihnen der Abschied schwerfiel.<\/p>"},"id":"04e4a94c-3f72-4b32-9d30-945a07c4695a","isHidden":false,"type":"text"}]
 
 ----
 
@@ -59,11 +20,11 @@ Gallery:
 
 ----
 
-Date: 2020-07-16 07:20
+Date: 2020-07-16 07:20:00
 
 ----
 
-Datumstartseite: 2020-09-30 08:00
+Datumstartseite: 2020-09-30 08:00:00
 
 ----
 
@@ -75,15 +36,15 @@ Tags: Abschluss, Schulleitung
 
 ----
 
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: carousel
+
+----
+
+Immer-sichtbar: false
 
 ----
 

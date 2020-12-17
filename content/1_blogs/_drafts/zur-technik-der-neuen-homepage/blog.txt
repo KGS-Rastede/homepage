@@ -6,52 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "In diesem Artikel möchten wir die Technik der neuen Homepage darstellen. Vielleicht motiviert das den einen oder anderen, sich mit Homepagegestaltung- und programmierung auseinanderzusetzen…",
-        "id": "_5z01w5s7f",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_tcu15j2ei",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die alten Homepage",
-        "id": "_2d69zniy1",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "TEXT",
-        "id": "_ukan0er0r",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_27r37qixa",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das neue CMS",
-        "id": "_44ltz6cyn",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "Die neue Homepage verwendet als CMS <a title=\"Kirby\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://getkirby.com/\">Kirby</a>. Dabei handelt es sich…",
-        "id": "_koqgcfm54",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>In diesem Artikel m\u00f6chten wir die Technik der neuen Homepage darstellen. Vielleicht motiviert das den einen oder anderen, sich mit Homepagegestaltung- und programmierung auseinanderzusetzen\u2026<\/p>"},"id":"49f96f8f-1177-4ebf-9805-8993151ca42d","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Die alten Homepage"},"id":"f085b860-e3d9-4cac-a97a-b04b1bdc66c6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das neue CMS<br>Die neue Homepage verwendet als CMS <a href=\"https:\/\/getkirby.com\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Kirby<\/a>. Dabei handelt es sich\u2026<\/p>"},"id":"7e6154d8-c47e-4bbc-b379-672344715303","isHidden":false,"type":"text"}]
 
 ----
 
@@ -59,11 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-12-01 10:30
+Date: 2020-12-01 10:30:00
 
 ----
 
-Datumstartseite: 2021-04-01 10:30
+Datumstartseite: 2021-04-01 10:30:00
 
 ----
 

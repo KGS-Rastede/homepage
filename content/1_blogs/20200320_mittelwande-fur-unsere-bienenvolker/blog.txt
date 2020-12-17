@@ -6,34 +6,7 @@ Heading: Arbeiten der Imker AG
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Die Sch\u00fclerfirma Imkerei und die Imker AG stellen in diesem Jahr erstmalig Wachsplatten selbst her.",
-        "id": "_LGMTueUgP",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "F\u00fcr jedes Bienenvolk wird im Jahr viel Wachs ben\u00f6tigt\u2026 und das obwohl die Bienen doch Wachs mit Hilfe ihrer Wachsdr\u00fcsen produzieren k\u00f6nnen. Wie kommt das?",
-        "id": "_azvymR9XO",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Der Imker m\u00f6chte den Nektar von den ersten bl\u00fchenden Pflanzen im Jahr f\u00fcr seinen Fr\u00fchtrachthonig gewinnen. Er ist sogar finanziell darauf angewiesen, denn der Unterhalt der V\u00f6lker kostet Geld. Gerade im Fr\u00fchjahr brauchen die Bienenv\u00f6lker viel Energie. Der Imker hilft seinen V\u00f6lkern, indem er in R\u00e4hmchen eingel\u00f6tete Wachsplatten (Mittelw\u00e4nde) in die Bienenv\u00f6lker gibt. Die Bienen bauen die auf den Mittelw\u00e4nden vorgegebenen Zellen z\u00fcgig aus und k\u00f6nnen diese sofort f\u00fcr die Einlagerung von Nektar und Brut nutzen.",
-        "id": "_ILJJNu6Un",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Bisher mussten wir als Schule viele Mittelw\u00e4nde zukaufen, was sehr teuer ist. Durch die Hilfe unseres F\u00f6rdervereins stellen wir unsere Mittelw\u00e4nde mit Hilfe einer Mittelwandpresse jetzt selbst her. Dies ist ein kleiner Schritt in Richtung eigener Wachskreislauf. Unser n\u00e4chstes Ziel ist es, das Altwachs unserer Bienenv\u00f6lker selbst zu reinigen.",
-        "id": "_HdIEP4w6u",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Die Sch\u00fclerfirma Imkerei und die Imker AG stellen in diesem Jahr erstmalig Wachsplatten selbst her.<\/p>"},"id":"6c8c789b-5b35-40f1-9005-6f543423d45c","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00fcr jedes Bienenvolk wird im Jahr viel Wachs ben\u00f6tigt\u2026 und das obwohl die Bienen doch Wachs mit Hilfe ihrer Wachsdr\u00fcsen produzieren k\u00f6nnen. Wie kommt das?<\/p>"},"id":"09ea78c7-b5b6-42e1-8fc3-8ada72c067bc","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Imker m\u00f6chte den Nektar von den ersten bl\u00fchenden Pflanzen im Jahr f\u00fcr seinen Fr\u00fchtrachthonig gewinnen. Er ist sogar finanziell darauf angewiesen, denn der Unterhalt der V\u00f6lker kostet Geld. Gerade im Fr\u00fchjahr brauchen die Bienenv\u00f6lker viel Energie. Der Imker hilft seinen V\u00f6lkern, indem er in R\u00e4hmchen eingel\u00f6tete Wachsplatten (Mittelw\u00e4nde) in die Bienenv\u00f6lker gibt. Die Bienen bauen die auf den Mittelw\u00e4nden vorgegebenen Zellen z\u00fcgig aus und k\u00f6nnen diese sofort f\u00fcr die Einlagerung von Nektar und Brut nutzen.<\/p>"},"id":"d091a832-63c5-4465-9909-9954bbf93e52","isHidden":false,"type":"text"},{"content":{"text":"<p>Bisher mussten wir als Schule viele Mittelw\u00e4nde zukaufen, was sehr teuer ist. Durch die Hilfe unseres F\u00f6rdervereins stellen wir unsere Mittelw\u00e4nde mit Hilfe einer Mittelwandpresse jetzt selbst her. Dies ist ein kleiner Schritt in Richtung eigener Wachskreislauf. Unser n\u00e4chstes Ziel ist es, das Altwachs unserer Bienenv\u00f6lker selbst zu reinigen.<\/p>"},"id":"a4d42b56-c986-4b5e-a3aa-c38263d8c7c0","isHidden":false,"type":"text"}]
 
 ----
 
@@ -46,7 +19,11 @@ Gallery:
 
 ----
 
-Date: 2020-03-20 10:35
+Date: 2020-03-20 10:35:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -58,16 +35,16 @@ Tags: Schülerfirmen, Biologie
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: carousel
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

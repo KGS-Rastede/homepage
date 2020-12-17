@@ -6,16 +6,7 @@ Heading: Mit dem neuen Account in WebUntis anmelden.
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Seit dem Update am 30.7.2020 funktionieren die alten WebUntis-Accounts nicht mehr. Die neuen Accounts haben den selben Benutzernamen wie im Schulnetzwerk (4 Buchstaben, 4 Zahlen, z.B. <em>abcd1234</em>), aber ein anderes Passwort. Es ist das, was bei <a href=\"https://ssp.kgs-rastede.logoip.de/\">https://ssp.kgs-rastede.logoip.de/</a> festgelegt wurde.",
-        "id": "_spawu9udn",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Seit dem Update am 30.7.2020 funktionieren die alten WebUntis-Accounts nicht mehr. Die neuen Accounts haben den selben Benutzernamen wie im Schulnetzwerk (4 Buchstaben, 4 Zahlen, z.B. <em>abcd1234<\/em>), aber ein anderes Passwort. Es ist das, was bei <a href=\"https:\/\/ssp.kgs-rastede.logoip.de\/\" rel=\"noopener noreferrer nofollow\">https:\/\/ssp.kgs-rastede.logoip.de\/<\/a> festgelegt wurde.<\/p>"},"id":"c1895074-0370-48d2-be8a-dd8a82ad33e2","isHidden":false,"type":"text"}]
 
 ----
 
@@ -23,11 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-08-16 06:55
+Date: 2020-08-16 06:55:00
 
 ----
 
-Datumstartseite: 2020-08-16 04:55
+Datumstartseite: 2020-08-16 04:55:00
 
 ----
 
@@ -39,12 +30,12 @@ Tags: WebUntis, Topartikel
 
 ----
 
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Immer-sichtbar: false

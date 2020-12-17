@@ -6,34 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Vom 19. \u2013 23. November war unsere Schule auch in diesem Jahr mit f\u00fcnf TeilnehmerInnen an der Berlin Model United Nations (kurz: BERMUN) beteiligt. Bei der BERMUN handelt es sich um eine Simulation der Vereinten Nationen, bei der rund 600 Sch\u00fclerInnen aus aller Welt in verschiedenen Komitees politische Themen diskutieren. Begleitet haben uns Frau Pohlgeers und Frau H\u00fcllmann.<br>F\u00fcr uns als \u201eFirst-Timers\u201c war die BERMUN eine extrem spannende Konferenz. Im Gegensatz zur OLMUN (Oldenburg Model United Nations) findet die Konferenz in Berlin an einer bilingualen amerikanischen Schule (John F. Kennedy) statt. Das Englischniveau der GastgeberInnen gleicht denen von Muttersprachlern, wodurch Debatten auf einem deutlich h\u00f6heren Level m\u00f6glich werden.<br>Zudem sind bei der BERMUN viele internationale Schulen vertreten, sodass uns die multikulturelle Atmosph\u00e4re faszinierte. Die Gelegenheit an vier Tagen Menschen aus zum Beispiel Pal\u00e4stina, Amerika oder Tschechien kennenzulernen und sich mit ihnen \u00fcber Politik und das Leben auszutauschen, ist eine einmalige Chance. Diese kosmopolitische Atmosph\u00e4re ist eine einzigartige Erfahrung, welche wir unser Leben lang nicht vergessen werden.",
-        "id": "_l6pwywITe",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Jede/r Sch\u00fcler/in sollte die M\u00f6glichkeit, die BERMUN zu besuchen, wahrnehmen.",
-        "id": "_RfeNDANI6",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Wir bedanken uns an dieser Stelle nochmal recht herzlich beim F\u00f6rderverein der KGS Rastede f\u00fcr dessen Unterst\u00fctzung und hoffen auch im n\u00e4chsten Jahr zur BERMUN eingeladen zu werden.",
-        "id": "_aJw0BnDcQ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Jana, Jasmin, Tobias, Markus und Fabian",
-        "id": "_rJrhQR88u",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Vom 19. \u2013 23. November war unsere Schule auch in diesem Jahr mit f\u00fcnf TeilnehmerInnen an der Berlin Model United Nations (kurz: BERMUN) beteiligt. Bei der BERMUN handelt es sich um eine Simulation der Vereinten Nationen, bei der rund 600 Sch\u00fclerInnen aus aller Welt in verschiedenen Komitees politische Themen diskutieren. Begleitet haben uns Frau Pohlgeers und Frau H\u00fcllmann.<br>F\u00fcr uns als \u201eFirst-Timers\u201c war die BERMUN eine extrem spannende Konferenz. Im Gegensatz zur OLMUN (Oldenburg Model United Nations) findet die Konferenz in Berlin an einer bilingualen amerikanischen Schule (John F. Kennedy) statt. Das Englischniveau der GastgeberInnen gleicht denen von Muttersprachlern, wodurch Debatten auf einem deutlich h\u00f6heren Level m\u00f6glich werden.<br>Zudem sind bei der BERMUN viele internationale Schulen vertreten, sodass uns die multikulturelle Atmosph\u00e4re faszinierte. Die Gelegenheit an vier Tagen Menschen aus zum Beispiel Pal\u00e4stina, Amerika oder Tschechien kennenzulernen und sich mit ihnen \u00fcber Politik und das Leben auszutauschen, ist eine einmalige Chance. Diese kosmopolitische Atmosph\u00e4re ist eine einzigartige Erfahrung, welche wir unser Leben lang nicht vergessen werden.<\/p>"},"id":"315c6314-e9f2-4cc2-b10d-f4582cb2f921","isHidden":false,"type":"text"},{"content":{"text":"<p>Jede\/r Sch\u00fcler\/in sollte die M\u00f6glichkeit, die BERMUN zu besuchen, wahrnehmen.<\/p><p>Wir bedanken uns an dieser Stelle nochmal recht herzlich beim F\u00f6rderverein der KGS Rastede f\u00fcr dessen Unterst\u00fctzung und hoffen auch im n\u00e4chsten Jahr zur BERMUN eingeladen zu werden.<\/p>"},"id":"762bcb43-19a2-4153-994b-48c984a8d85c","isHidden":false,"type":"text"},{"content":{"text":"<p>Jana, Jasmin, Tobias, Markus und Fabian<\/p>"},"id":"e241fedb-33c3-4390-9257-0b4f5a15cf9c","isHidden":false,"type":"text"}]
 
 ----
 
@@ -46,7 +19,11 @@ Gallery:
 
 ----
 
-Date: 2020-02-13 11:35
+Date: 2020-02-13 11:35:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -58,16 +35,16 @@ Tags: Englisch
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: carousel
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

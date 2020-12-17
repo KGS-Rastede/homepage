@@ -6,85 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Hier finden Sie die Informationen über unsere Schule in einem kleinen Film. Nehmen Sie sich ein halbes Stündchen Zeit dafür. <a title=\"Anmeldung 5\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=CNFC4I9Ja08\">Hier</a> können sie das Video direkt aufrufen.",
-        "id": "_lgeymmc81",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_i3eui3462",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ihre Fragen beantworten wir gern am Dienstag, den 24.11.2020 in der Zeit von 19.00 - 20.30 Uhr telefonisch unter folgenden Anschlüssen:",
-        "id": "_4XqYeb91C",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Frau Ildiz 04402-9264 19",
-        "id": "_GAMmDWJuq",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Frau Pannenborg 04402-9264 23",
-        "id": "_ejVUN7Qtd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Herr Kleeberg 04402-9264 22",
-        "id": "_Fe3YmKW5q",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Herr Bormann 04402-9264 20",
-        "id": "_cqgECSo7W",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Frau Berger 04402-9264 0",
-        "id": "_SbtyvYBaW",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Treten später noch Fragen auf, rufen oder mailen Sie uns gerne an. Vielen Dank!",
-        "id": "_kW52hkt9I",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_e4zjdqv4q",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_obu2820bu",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "src": "https://youtu.be/CNFC4I9Ja08",
-            "caption": ""
-        },
-        "content": "",
-        "id": "_i2b3lh2pq",
-        "type": "video"
-    }
-]
+Text: [{"content":{"text":"<p>Hier finden Sie die Informationen \u00fcber unsere Schule in einem kleinen Film. Nehmen Sie sich ein halbes St\u00fcndchen Zeit daf\u00fcr. <a href=\"https:\/\/www.youtube.com\/watch?v=CNFC4I9Ja08\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Hier<\/a> k\u00f6nnen sie das Video direkt aufrufen.<\/p>"},"id":"34734a8b-10ba-41fe-8ab2-4e6f0a0b4f62","isHidden":false,"type":"text"},{"content":{"text":"<p>Ihre Fragen beantworten wir gern am Dienstag, den 24.11.2020 in der Zeit von 19.00 - 20.30 Uhr telefonisch unter folgenden Anschl\u00fcssen:<\/p>"},"id":"c3884e41-766f-4d91-9bbb-dfa3bfde00f8","isHidden":false,"type":"text"},{"content":{"text":"<p>Frau Ildiz 04402-9264 19<\/p>"},"id":"c5c9b22c-3dc0-4d0d-bba0-7eb2a4bc18d4","isHidden":false,"type":"text"},{"content":{"text":"<p>Frau Pannenborg 04402-9264 23<\/p>"},"id":"8ff0d7a3-f7d6-46dc-9c44-657120c9da24","isHidden":false,"type":"text"},{"content":{"text":"<p>Herr Kleeberg 04402-9264 22<\/p>"},"id":"dca77570-b239-492a-a1f2-48e2b8693dc5","isHidden":false,"type":"text"},{"content":{"text":"<p>Herr Bormann 04402-9264 20<\/p>"},"id":"a2e1663b-6af8-4e99-a2e1-92bf0ea7ab37","isHidden":false,"type":"text"},{"content":{"text":"<p>Frau Berger 04402-9264 0<\/p>"},"id":"09842373-ad2a-4ad4-86e8-166b408e28e1","isHidden":false,"type":"text"},{"content":{"text":"<p>Treten sp\u00e4ter noch Fragen auf, rufen oder mailen Sie uns gerne an. Vielen Dank!<\/p>"},"id":"92b248f6-adc5-4902-a7be-27872f4b6fbf","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/CNFC4I9Ja08","caption":""},"id":"f39d97e5-ee4c-4911-9b03-0702f18d45be","isHidden":false,"type":"video"}]
 
 ----
 
@@ -92,11 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-11-20 07:50
+Date: 2020-11-20 07:50:00
 
 ----
 
-Datumstartseite: 2021-03-20 07:50
+Datumstartseite: 2021-03-20 07:50:00
 
 ----
 

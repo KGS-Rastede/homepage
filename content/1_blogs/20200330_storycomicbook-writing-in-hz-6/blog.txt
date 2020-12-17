@@ -6,16 +6,7 @@ Heading: Creative Storycomicbooks in HZ 6
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Im Zuge eines zweiw\u00f6chigen Unterrichtsprojekts im Fach Englisch haben die Sch\u00fclerInnen der 6A1 von Frau Schneemann und Frau Eitel-Harms ihre kreativen und k\u00fcnstlerischen F\u00e4higkeiten einmal besonders gezeigt. Verschiedene englischsprachige Comicbooks wurden den Sch\u00fclerInnen vorgestellt und sie durften selbst gestalten, umgestalten, einfach kreativ sein. Einige Sch\u00fclerInnen zeichneten, andere \u00fcbersetzten, andere wagten sich ans Graffiti. Schaut selbst und staunt!",
-        "id": "_1rhm1h088",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Im Zuge eines zweiw\u00f6chigen Unterrichtsprojekts im Fach Englisch haben die Sch\u00fclerInnen der 6A1 von Frau Schneemann und Frau Eitel-Harms ihre kreativen und k\u00fcnstlerischen F\u00e4higkeiten einmal besonders gezeigt. Verschiedene englischsprachige Comicbooks wurden den Sch\u00fclerInnen vorgestellt und sie durften selbst gestalten, umgestalten, einfach kreativ sein. Einige Sch\u00fclerInnen zeichneten, andere \u00fcbersetzten, andere wagten sich ans Graffiti. Schaut selbst und staunt!<\/p>"},"id":"cac315db-2dba-4939-ba6b-fa25434522d7","isHidden":false,"type":"text"}]
 
 ----
 
@@ -58,7 +49,11 @@ Gallery:
 
 ----
 
-Date: 2020-03-30 16:30
+Date: 2020-03-30 16:30:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -70,16 +65,16 @@ Tags: Englisch
 
 ----
 
-Featured: true
-
-----
-
-Immer-sichtbar: true
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: carousel
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: true

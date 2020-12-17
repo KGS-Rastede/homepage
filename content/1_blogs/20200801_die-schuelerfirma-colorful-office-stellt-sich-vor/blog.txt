@@ -6,28 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "<strong>In der Feldbreite k\u00f6nnen Sch\u00fcler dienstags in der zweiten gro\u00dfen Pause an unserem neuen Gl\u00fccksrad drehen (vielen Dank an <em>Holz und Mehr</em> f\u00fcr die Produktion!). Zu gewinnen gibt es unter anderem coole KGS-T-Shirts, Stofftiere und andere Dinge!</strong>",
-        "id": "_r2cveaKDA",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Viele Gr\u00fc\u00dfe vom Colorful Office-Team",
-        "id": "_xqrher8g1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<br>",
-        "id": "_rY1rIylBv",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p><strong>In der Feldbreite k\u00f6nnen Sch\u00fcler dienstags in der zweiten gro\u00dfen Pause an unserem neuen Gl\u00fccksrad drehen (vielen Dank an <em>Holz und Mehr<\/em> f\u00fcr die Produktion!). Zu gewinnen gibt es unter anderem coole KGS-T-Shirts, Stofftiere und andere Dinge!<\/strong><\/p>"},"id":"51832e90-d2d3-41be-91b6-02474dc0cd85","isHidden":false,"type":"text"},{"content":{"text":"<p>Viele Gr\u00fc\u00dfe vom Colorful Office-Team<\/p>"},"id":"1b60971a-2c8a-4241-b536-f06d8f932ae8","isHidden":false,"type":"text"}]
 
 ----
 
@@ -37,7 +16,11 @@ Gallery:
 
 ----
 
-Date: 2020-08-01 13:30
+Date: 2020-08-01 13:30:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -49,16 +32,16 @@ Tags: Schülerfirmen
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

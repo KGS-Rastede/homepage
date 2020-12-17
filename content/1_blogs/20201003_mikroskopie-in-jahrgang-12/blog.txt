@@ -6,22 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Auch in Jahrgang 12 wird mikroskopiert, hier haben wir uns im Themenfeld Ökologie den Aufbau von Blättern angeschaut.",
-        "id": "_qgww2i5e4",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Thema der Stunde war die Anpassung an den Umweltfaktor Wasser.",
-        "id": "_e2yquyx6l",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Auch in Jahrgang 12 wird mikroskopiert, hier haben wir uns im Themenfeld \u00d6kologie den Aufbau von Bl\u00e4ttern angeschaut.<\/p>"},"id":"a56d3387-6acb-4eb9-af11-fa47edc5be90","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Thema der Stunde war die Anpassung an den Umweltfaktor Wasser.<\/p>"},"id":"d8bcb662-dd6b-4b71-8eaa-18d88304891f","isHidden":false,"type":"text"}]
 
 ----
 
@@ -31,11 +16,11 @@ Gallery:
 
 ----
 
-Date: 2020-10-03 10:30
+Date: 2020-10-03 10:30:00
 
 ----
 
-Datumstartseite: 2020-10-03 14:30
+Datumstartseite: 2020-10-03 14:30:00
 
 ----
 
@@ -47,12 +32,12 @@ Tags: Biologie, Mikroskopie
 
 ----
 
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Immer-sichtbar: false

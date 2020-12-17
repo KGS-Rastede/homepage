@@ -6,40 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Die Wahlen zu den Elternvertretungen stehen an. Außer in Jahrgang 11 werden die Elternvertretungen für zwei Jahre gewählt. Daher finden die Wahlen in den Jahrgängen 5, 7, 9, 10 (nur Hauptschulzweig), 11 und 12/13 statt. Dazu laden wir alle Eltern herzlich ein.",
-        "id": "_BHJpElRia",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die Elternabende finden statt am:",
-        "id": "_RfZYQUwSN",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Di, 15.09.2020, 20.00 Uhr: </strong>Jahrgang 5 in den Klassenräumen Feldbreite, Jahrgang 12/ 13 in der Aula",
-        "id": "_77Yxdsyvp",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Mi, 16.09.2020, 20.00 Uhr:</strong> Jahrgänge 9 und 11 in den Klassenräumen Wilhelmstraße",
-        "id": "_Cayprz5AP",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Do, 17.09.2020, 20.00 Uhr: </strong>Jahrgänge 7, 10 HZ und Nachwahlen.",
-        "id": "_Jztsox0YU",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Die Wahlen zu den Elternvertretungen stehen an. Au\u00dfer in Jahrgang 11 werden die Elternvertretungen f\u00fcr zwei Jahre gew\u00e4hlt. Daher finden die Wahlen in den Jahrg\u00e4ngen 5, 7, 9, 10 (nur Hauptschulzweig), 11 und 12\/13 statt. Dazu laden wir alle Eltern herzlich ein.<\/p>"},"id":"739dcabb-b1a1-4fe8-ba0d-fcb548f275d2","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Elternabende finden statt am:<\/p>"},"id":"71ed5d1d-e207-47ca-8da6-be750ebd3052","isHidden":false,"type":"text"},{"content":{"text":"<strong>Di, 15.09.2020, 20.00 Uhr: <\/strong>Jahrgang 5 in den Klassenr\u00e4umen Feldbreite, Jahrgang 12\/ 13 in der Aula"},"id":"583f4264-be6d-41d3-8b6b-f77f5c194180","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Mi, 16.09.2020, 20.00 Uhr:<\/strong> Jahrg\u00e4nge 9 und 11 in den Klassenr\u00e4umen Wilhelmstra\u00dfe<\/p>"},"id":"c0bc657b-1fea-4874-b2eb-4d843847f2e0","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Do, 17.09.2020, 20.00 Uhr: <\/strong>Jahrg\u00e4nge 7, 10 HZ und Nachwahlen.<\/p>"},"id":"329d4d23-ca53-4c89-89cb-9a2cca2c7f59","isHidden":false,"type":"text"}]
 
 ----
 
@@ -47,11 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-09-12 15:20
+Date: 2020-09-12 15:20:00
 
 ----
 
-Datumstartseite: 2020-09-18 12:20
+Datumstartseite: 2020-09-18 12:20:00
 
 ----
 
@@ -63,12 +30,12 @@ Tags: Schulleitung, Topartikel
 
 ----
 
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Immer-sichtbar: false
