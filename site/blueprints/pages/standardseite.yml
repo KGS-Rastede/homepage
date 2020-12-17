@@ -19,7 +19,7 @@ columns:
         numbered: false
       text:
         label: Text
-        type: editor
+        type: blocks
   rechts:
     width: 1/3
     fields:

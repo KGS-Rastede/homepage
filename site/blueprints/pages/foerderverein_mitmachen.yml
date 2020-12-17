@@ -14,7 +14,7 @@ columns:
         label: Untertitel
       inhalt:
         label: Text
-        type: editor
+        type: blocks
         size: large
   sidebar:
     width: 1/3

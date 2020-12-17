@@ -16,7 +16,7 @@ columns:
         label: Untertitel
       textBefore:
         label: Text (vor der Tabelle)
-        type: editor
+        type: blocks
       dataFile:
         label: Tabelle (CSV-Datei)
         type: files
@@ -26,7 +26,7 @@ columns:
         uploads: csvs
       textAfter:
         label: Text (nach der Tabelle)
-        type: editor
+        type: blocks
 
   rechts:
     width: 1/3

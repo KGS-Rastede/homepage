@@ -15,7 +15,7 @@
                         <?= $subpage->title() ?>
                     </h3>
                     <p class="card-text font-weight-light text-black">
-                        <?= $subpage->Text()->blocks()->excerpt(150) ?>
+                        <?= $subpage->Text()->toBlocks()->excerpt(150) ?>
                     </p>
                 </a>
 

@@ -3,7 +3,7 @@ $sideE = $page->sidebar()->isNotEmpty();
 $relaE = $page->related()->isNotEmpty();
 $downE = $page->downloads()->isNotEmpty();
 if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
-    <div class="container"><?= $page->text()->blocks() ?></div>
+    <div class="container"><?= $page->text()->toBlocks() ?></div>
 
     <div class="container">
         <hr class="mt-4 mb-4">
@@ -92,5 +92,5 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
     </div>
 
 <?php else : //wenn alle Teile leer sind ?>
-    <div class="container"><?= $page->text()->blocks() ?></div>
+    <div class="container"><?= $page->text()->toBlocks() ?></div>
 <?php endif ?>

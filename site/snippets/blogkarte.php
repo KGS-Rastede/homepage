@@ -9,7 +9,7 @@
             <div class="col-md-8">
                 <div class="card-body">
                     <p class="card-text">
-                        <?= $subpage->Text()->blocks()->excerpt(250) ?>
+                        <?= $subpage->Text()->toBlocks()->excerpt(250) ?>
                         <?php if ($subpage->author()->isNotEmpty()) : ?>
                             (<?= $subpage->author() ?>)
                         <?php endif ?>
