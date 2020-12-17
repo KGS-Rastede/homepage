@@ -6,124 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Liebe Schulgemeinschaft,",
-        "id": "_gp42WdeDy",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "auch in Niedersachsen sollen die Schulen einen Beitrag zur Kontaktreduzierung leisten. Daher können Eltern ihre Kinder bereits ab Montag, 14.12., ins Distanzlernen holen. Für die Mitteilung an die Klassenlehrkraft (per Mail) geben Eltern bitte an, ab wann ihr Kind ins Distanzlernen gehen soll.",
-        "id": "_v66j0vo52",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_5a36aqvjm",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "16.12 bis 18.12",
-        "id": "_gpzib77k2",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Der Unterricht soll nach Möglichkeit ab Mittwoch im Distanzlernen stattfinden. </strong>Die Ankündigungen im WebUntis-Messenger bzw. IServ-Messenger sind zu beachten.",
-        "id": "_kxf8mk23y",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_LdlpwzYqt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_19jjfy8d1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Update 14.12.2020, 12.08 Uhr</strong>: Damit ab Mittwoch die Schulen dann weitestgehend leer sind, werden <strong>alle Tests, Klassenarbeiten und Klausuren ab Mittwoch</strong> abgesagt.",
-        "id": "_m50490vcw",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Ministerium ergänzt mit einem Schreiben am 14.12.2020:<br>Wenn es Ihnen möglich ist, appellieren Sie an die Eltern in aller Deutlichkeit, ihre <strong>Kinder ab Mittwoch Zuhause zu lassen</strong>. <strong>Wer kann, der soll sein Kind zu Hause lassen</strong>, wer nicht kann, der findet offene Schulen, in denen Unterricht, angepasst an die Situation und die Gegenheiten vor Ort, stattfindet. Der Appell muss aber, wie auch in der gestrigen Pressekonferenz, lauten: <strong>Bleiben Sie zu Hause bzw. bleibt zu Hause und lassen Sie Ihre Kinder zu Hause</strong>.",
-        "id": "_eiqqpq1j9",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_a9yjkpz5f",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Update 15.12.2020, 15.52 Uhr:</strong>",
-        "id": "_abyl54jft",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Minsterium hat neue Briefe für Schülerinnen und Schüler, Eltern und Lehrkräfte veröffentlicht. Diese befinden sich im Anhang.",
-        "id": "_3lux9z1hg",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_37oev67gc",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_ujtum9kc6",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_9yecle9r8",
-        "type": "hr"
-    },
-    {
-        "attrs": [],
-        "content": "Notbetreuung in den Weihnachtsferien",
-        "id": "_7umf9x4rf",
-        "type": "h1"
-    },
-    {
-        "attrs": [],
-        "content": "Entsprechend der Ankündigung des Kultusministeriums richtet die KGS für die Schülerinnen und Schüler der Jahrgänge 5 und 6 am 21.12 und 22.12.20 eine Feriennotbetreuung ein. Die Notbetreuung wird von 08.00 Uhr bis 13.00 Uhr angeboten. Die genaue Organisation hängt von den jeweiligen Anmeldezahlen für die Feriennotbetreuung ab.",
-        "id": "_z96hv54am",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die <strong>Erziehungsberechtigten </strong>melden Ihre Kinder für die Feriennotbetreuung <strong>bitte schriftlich</strong> (oder per Mail an <a title=\"feldbreite@kgs-rastede.de\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"mailto:feldbreite@kgs-rastede.de\">feldbreite@kgs-rastede.de</a>) über das Sekretariat der Feldbreite bis zum <strong>Donnerstag, 17.12.2020</strong>, an.",
-        "id": "_XOfDascsz",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Bitte geben Sie dabei den Namen der Schülerin/des Schülers, die Klasse und die Wochentage an, an denen die Betreuung nötig ist.",
-        "id": "_55qyHGIOL",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"Liebe Schulgemeinschaft,"},"id":"64861567-6d66-4e6c-b589-f3016672b363","isHidden":false,"type":"text"},{"content":{"text":"auch in Niedersachsen sollen die Schulen einen Beitrag zur Kontaktreduzierung leisten. Daher k\u00f6nnen Eltern ihre Kinder bereits ab Montag, 14.12., ins Distanzlernen holen. F\u00fcr die Mitteilung an die Klassenlehrkraft (per Mail) geben Eltern bitte an, ab wann ihr Kind ins Distanzlernen gehen soll."},"id":"2de366d2-6a59-4f7e-a4d0-704f506fc7e8","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"16.12 bis 18.12"},"id":"e9bdd256-2ead-48c7-a651-9fc2d98c6655","isHidden":false,"type":"heading"},{"content":{"text":"<strong>Der Unterricht soll nach M\u00f6glichkeit ab Mittwoch im Distanzlernen stattfinden. <\/strong>Die Ank\u00fcndigungen im WebUntis-Messenger bzw. IServ-Messenger sind zu beachten."},"id":"6625633c-18f8-4fdd-9342-83bb7654086b","isHidden":false,"type":"text"},{"content":{"text":"<strong>Update 14.12.2020, 12.08 Uhr<\/strong>: Damit ab Mittwoch die Schulen dann weitestgehend leer sind, werden <strong>alle Tests, Klassenarbeiten und Klausuren ab Mittwoch<\/strong> abgesagt."},"id":"656c9a04-ef89-409d-907e-36fd294413b7","isHidden":false,"type":"text"},{"content":{"text":"Das Ministerium erg\u00e4nzt mit einem Schreiben am 14.12.2020:<br>Wenn es Ihnen m\u00f6glich ist, appellieren Sie an die Eltern in aller Deutlichkeit, ihre <strong>Kinder ab Mittwoch Zuhause zu lassen<\/strong>. <strong>Wer kann, der soll sein Kind zu Hause lassen<\/strong>, wer nicht kann, der findet offene Schulen, in denen Unterricht, angepasst an die Situation und die Gegenheiten vor Ort, stattfindet. Der Appell muss aber, wie auch in der gestrigen Pressekonferenz, lauten: <strong>Bleiben Sie zu Hause bzw. bleibt zu Hause und lassen Sie Ihre Kinder zu Hause<\/strong>."},"id":"f532513d-74cc-4e97-a637-72d3c3280f99","isHidden":false,"type":"text"},{"content":{"text":"<strong>Update 15.12.2020, 15.52 Uhr:<\/strong>"},"id":"b5829fdb-84b1-4d36-8de3-602f8ed7b6f1","isHidden":false,"type":"text"},{"content":{"text":"Das Minsterium hat neue Briefe f\u00fcr Sch\u00fclerinnen und Sch\u00fcler, Eltern und Lehrkr\u00e4fte ver\u00f6ffentlicht. Diese befinden sich im Anhang."},"id":"c0b83baa-c7de-45dd-8035-3863bac21908","isHidden":false,"type":"text"},{"content":{"body":""},"id":"89c50f59-43a0-47db-88fe-a898a4cd3838","isHidden":false,"type":"hr"},{"content":{"level":"h1","text":"Notbetreuung in den Weihnachtsferien"},"id":"51d0c408-671b-4aa9-ba1e-670c0032b457","isHidden":false,"type":"heading"},{"content":{"text":"Entsprechend der Ank\u00fcndigung des Kultusministeriums richtet die KGS f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler der Jahrg\u00e4nge 5 und 6 am 21.12 und 22.12.20 eine Feriennotbetreuung ein. Die Notbetreuung wird von 08.00 Uhr bis 13.00 Uhr angeboten. Die genaue Organisation h\u00e4ngt von den jeweiligen Anmeldezahlen f\u00fcr die Feriennotbetreuung ab."},"id":"f385bec3-38d5-4b51-9773-c2b4dd63e8c7","isHidden":false,"type":"text"},{"content":{"text":"Die <strong>Erziehungsberechtigten <\/strong>melden Ihre Kinder f\u00fcr die Feriennotbetreuung <strong>bitte schriftlich<\/strong> (oder per Mail an <a title=\"feldbreite@kgs-rastede.de\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"mailto:feldbreite@kgs-rastede.de\">feldbreite@kgs-rastede.de<\/a>) \u00fcber das Sekretariat der Feldbreite bis zum <strong>Donnerstag, 17.12.2020<\/strong>, an."},"id":"d0676ec8-f2a2-4020-bc80-cc1376834c59","isHidden":false,"type":"text"},{"content":{"text":"Bitte geben Sie dabei den Namen der Sch\u00fclerin\/des Sch\u00fclers, die Klasse und die Wochentage an, an denen die Betreuung n\u00f6tig ist."},"id":"fcc06931-177e-417a-bc67-d7b3993b2c70","isHidden":false,"type":"text"}]
 
 ----
 
@@ -131,11 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-12-10 09:15
+Date: 2020-12-10 09:15:00
 
 ----
 
-Datumstartseite: 2021-03-31 08:15
+Datumstartseite: 2021-03-31 08:15:00
 
 ----
 

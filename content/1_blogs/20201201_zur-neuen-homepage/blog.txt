@@ -6,76 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Die neue Homepage ist endlich da…",
-        "id": "_5mibg19ar",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_jrdm2qde3",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "In den letzten zwei Jahren haben wir die in der Schule verwendete Software umfassend umgestellt. Wir haben in der Verwaltung vieles geändert, sind auf <a title=\"IServ\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://kgs-rastede.eu\">IServ</a> umgestiegen und jetzt zum Jahresende stellen wir die Homepage um.",
-        "id": "_fc0wmexfw",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Es gibt zahlreiche Gründe, der Hauptgrund ist dabei, dass die alte Homepage nicht mehr zu warten war. Sie war technisch veraltet und ist über die Jahre so gewachsen, dass man sie nicht ohne Weiteres modernisieren konnte. <br>Daher haben wir uns für einen Neuanfang entschieden und sind bei Null angefangen. Leider sind noch nicht alle Inhalte vorhanden, auf einigen Unterseiten findet man Baustellenschilder. Dafür ist die Homepage technisch auf dem neusten Stand und auch inhaltlich nicht veraltet.",
-        "id": "_tv8ngyu0p",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_gsvk3upjv",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Wir sind ehrlich bemüht, in den kommenden Wochen Inhalte nachzuliefern und Fehler, die sich nie vermeiden lassen, auszubessern. Sachdienliche Hinweise nehmen wir über die Adresse <a title=\"homepage@kgs-rastede.de\" href=\"mailto:homepage@kgs-rastede.de\">homepage@kgs-rastede.de</a> entgegen.",
-        "id": "_okx2y2lqi",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_zr5xtq75w",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ganz herzlich möchten wir uns insb. bei vier Schülern bedanken (JG 7, 12 und 13), die tatkräftig mitgeholfen haben, sowohl beim Programmieren als auch beim Fehlerfinden und -beseitigen. Wir wissen das sehr zu schätzen!",
-        "id": "_e5kfoyo0k",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_p6gg00y68",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Im Namen der Schulleitung",
-        "id": "_igfd1yi3h",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Carsten Niehaus",
-        "id": "_udcpvamoq",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"level":"h2","text":"Die neue Homepage ist endlich da\u2026"},"id":"b03a7ba7-ffb1-4440-8d77-f4ef9a00d8a2","isHidden":false,"type":"heading"},{"content":{"text":""},"id":"9ab6fb1d-1623-40de-b7a8-4ec4e98bb153","isHidden":false,"type":"text"},{"content":{"text":"In den letzten zwei Jahren haben wir die in der Schule verwendete Software umfassend umgestellt. Wir haben in der Verwaltung vieles ge\u00e4ndert, sind auf <a title=\"IServ\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/kgs-rastede.eu\">IServ<\/a> umgestiegen und jetzt zum Jahresende stellen wir die Homepage um."},"id":"5918b643-8dc2-4db8-b429-1ff00b615694","isHidden":false,"type":"text"},{"content":{"text":"<p>Es gibt zahlreiche Gr\u00fcnde, der Hauptgrund ist dabei, dass die alte Homepage nicht mehr zu warten war. Sie war technisch veraltet und ist \u00fcber die Jahre so gewachsen, dass man sie nicht ohne Weiteres modernisieren konnte. <br>Daher haben wir uns f\u00fcr einen Neuanfang entschieden und sind bei Null angefangen. Leider sind noch nicht alle Inhalte vorhanden, auf einigen Unterseiten findet man Baustellenschilder. Daf\u00fcr ist die Homepage technisch auf dem neusten Stand und auch inhaltlich nicht veraltet.<\/p><p>Wir sind ehrlich bem\u00fcht, in den kommenden Wochen Inhalte nachzuliefern und Fehler, die sich nie vermeiden lassen, auszubessern. Sachdienliche Hinweise nehmen wir \u00fcber die Adresse <a href=\"mailto:homepage@kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">homepage@kgs-rastede.de<\/a> entgegen.<\/p><p>Ganz herzlich m\u00f6chten wir uns insb. bei vier Sch\u00fclern bedanken (JG 7, 12 und 13), die tatkr\u00e4ftig mitgeholfen haben, sowohl beim Programmieren als auch beim Fehlerfinden und -beseitigen. Wir wissen das sehr zu sch\u00e4tzen!<\/p>"},"id":"451e6ea9-e387-4163-a139-a88afd452082","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Namen der Schulleitung<\/p><p>  Carsten Niehaus<\/p>"},"id":"c563f6ca-7aef-4db4-a965-7a0a1c126368","isHidden":false,"type":"text"}]
 
 ----
 
@@ -83,11 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-12-01 10:15
+Date: 2020-12-01 10:15:00
 
 ----
 
-Datumstartseite: 2021-01-29 09:15
+Datumstartseite: 2021-01-29 09:15:00
 
 ----
 
