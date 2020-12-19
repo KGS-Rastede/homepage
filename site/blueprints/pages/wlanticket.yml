@@ -1,0 +1,9 @@
+title: Wlan Voucher
+
+columns:
+  spalte:
+    width: 1/2
+    fields:
+      tickets:
+        type: textarea
+        buttons: false
