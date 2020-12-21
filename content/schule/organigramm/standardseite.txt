@@ -6,28 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_unbgrq78x",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/schule+organigramm/files/organigramm-kgs2.svg",
-            "id": "schule/organigramm/organigramm-kgs2.svg",
-            "filename": "organigramm-kgs2.svg",
-            "ratio": 1.3776223776223777,
-            "caption": ""
-        },
-        "content": "",
-        "id": "_v19atkfxt",
-        "type": "image"
-    }
-]
+Text: [{"content":{"location":"kirby","image":["organigramm-kgs2.svg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"e29fa315-ed4f-449f-8992-4cf0710a01a1","isHidden":false,"type":"image"}]
 
 ----
 
