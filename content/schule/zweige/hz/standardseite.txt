@@ -2,112 +2,15 @@ Title: Hauptschulzweig
 
 ----
 
-Text:
+Heading: 
 
-[
-    {
-        "attrs": [],
-        "content": "<strong><em>DER HAUPTSCHULZWEIG DER KGS Rastede</em></strong>",
-        "id": "_AVcrS9BBn",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Der Hauptschulzweig umfasst die Jahrg\u00e4nge 5 bis 10 und wird von rund 200 Sch\u00fclerinnen und Sch\u00fcler (SuS) besucht, in der Regel ist er zwei- bis dreiz\u00fcgig.",
-        "id": "_d5JAauWqU",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Im Mittelpunkt der t\u00e4glichen Arbeit steht das soziale Lernen: die Sozialkompetenz der SuS wird durch durch ein Sozialtraining in Jahrgang 5 entwickelt und in den darauffolgenden Schuljahren gest\u00e4rkt. Die intensive Arbeit mit dem Klassenlehrerteam nach dem Prinzip des sozialen Lernens dient als Beziehungsaufbau sowie -erhalt und der gegenseitigen Wertsch\u00e4tzung auf dem Weg zum Erwachsen werden. Zudem hilft es gruppeninterne Probleme zu erkennen und konstruktiv zu \u00fcberwinden.",
-        "id": "_repWciJzJ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das \u00fcbergeordnete Ziel des Hauptschulzweiges ist es, die SuS zu einem guten Schulabschluss zu f\u00fchren und ihnen einen gelungenen Einstieg in die berufliche Ausbildung zu erm\u00f6glichen.",
-        "id": "_2UjJzEy6w",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<br>Besondere Schwerpunkte liegen neben dem Unterricht auf der erzieherischen Arbeit, dem intensivem Kontakt zu den Erziehungsberechtigten, die Teamarbeit zwischen den Lehrkr\u00e4ften (F\u00f6rderschullehrkraft und Regelschullehrkraft) sowie die Vorbereitung der SuS auf den Weg in den Beruf.",
-        "id": "_499d5vlGQ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ein wichtiges Merkmal des Hauptschulzweigs ist die Vernetzung zwischen Lehrkr\u00e4ften, Sozialp\u00e4dagogen, Schulleitung und Eltern.",
-        "id": "_WTtSEK742",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>DIE ARBEIT IN DEN JAHRG\u00c4NGEN</strong>",
-        "id": "_XBgj79kFw",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "In allen Klassen des Hauptschulzweigs werden einzelne SuS zus\u00e4tzlich durch eine F\u00f6rderschullehrkraft unterst\u00fctzt.",
-        "id": "_htgXd3LHD",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Musikalisch interessierte SuS k\u00f6nnen im Jahrgang 5 das Angebot eines Bl\u00e4serkurses mit zus\u00e4tzlichem Musikunterricht anw\u00e4hlen.",
-        "id": "_NyQm7A0pw",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "In den Jahrg\u00e4ngen 5 und 6 haben die SuS die M\u00f6glichkeit, an einer verl\u00e4sslichen Hausaufgabenbetreuung mit Lehrkr\u00e4ften und p\u00e4dagogischen Mitarbeitern teilzunehmen.",
-        "id": "_dOZZI84tk",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Gem\u00e4\u00df unseres Schulprofiles finden die F\u00e4cher Sport, Musik, Kunst und Informatik in kooperativen Lerngruppen statt.",
-        "id": "_3nGKUaXh1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ab der 8. Klasse wird die Berufsorientierung besonders gef\u00f6rdert, indem die SuS an einer Profilanalyse teilnehmen, die Aufschluss \u00fcber ihre Kompetenzen gibt. Basierend auf diesen Ergebnissen erhalten sie besondere Unterst\u00fctzung bei ihrer Berufsorientierung. Zus\u00e4tzlich nehmen die SuS in Jahrgang 8 und 9 an einem zweiw\u00f6chigen Sch\u00fclerbetriebspratikum teil, bei dem sie erste Eindr\u00fccke sammeln. Neben den aufgef\u00fchrten Ma\u00dfnahmen bietet die \u201eBO-Coaches AG\u201c (Berufsorientierung AG) f\u00fcr einzelne SuS Hilfe und Unterst\u00fctzung im Bereich Berufsorientierung und Hilfestellungen f\u00fcr Bewerbungen an.",
-        "id": "_XLfWdLtIe",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_guSp3JOVt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Abschl\u00fcsse an der Hauptschule</strong>",
-        "id": "_XClIQgudI",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "An der Hauptschule k\u00f6nnen alle schulischen Abschl\u00fcsse der Sek I erreicht werden, vom Hauptschulabschluss \u00fcber den Realschulabschluss bis zum Erweiterten Sekundarabschluss I, der zum \u00dcbergang in die gymnasiale Oberstufe berechtigt.",
-        "id": "_qWEW7a2qM",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_ymrRgZyIm",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_6lPkha2ZL",
-        "type": "paragraph"
-    }
-]
+----
+
+Text: [{"content":{"text":"<p><strong><em>DER HAUPTSCHULZWEIG DER KGS Rastede<\/em><\/strong><\/p>"},"id":"380e307d-f7e5-412a-9217-deff1e087b59","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Hauptschulzweig umfasst die Jahrg\u00e4nge 5 bis 10 und wird von rund 200 Sch\u00fclerinnen und Sch\u00fcler (SuS) besucht, in der Regel ist er zwei- bis dreiz\u00fcgig.<\/p>"},"id":"45dc11a7-b9f8-45e7-be1a-9d19f3109f4b","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Mittelpunkt der t\u00e4glichen Arbeit steht das soziale Lernen: die Sozialkompetenz der SuS wird durch durch ein Sozialtraining in Jahrgang 5 entwickelt und in den darauffolgenden Schuljahren gest\u00e4rkt. Die intensive Arbeit mit dem Klassenlehrerteam nach dem Prinzip des sozialen Lernens dient als Beziehungsaufbau sowie -erhalt und der gegenseitigen Wertsch\u00e4tzung auf dem Weg zum Erwachsen werden. Zudem hilft es gruppeninterne Probleme zu erkennen und konstruktiv zu \u00fcberwinden.<\/p><p>Das \u00fcbergeordnete Ziel des Hauptschulzweiges ist es, die SuS zu einem guten Schulabschluss zu f\u00fchren und ihnen einen gelungenen Einstieg in die berufliche Ausbildung zu erm\u00f6glichen.<\/p>"},"id":"192052ec-2331-4aed-a26e-4d86cf0c7541","isHidden":false,"type":"text"},{"content":{"text":"<p><br>Besondere Schwerpunkte liegen neben dem Unterricht auf der erzieherischen Arbeit, dem intensivem Kontakt zu den Erziehungsberechtigten, die Teamarbeit zwischen den Lehrkr\u00e4ften (F\u00f6rderschullehrkraft und Regelschullehrkraft) sowie die Vorbereitung der SuS auf den Weg in den Beruf.<\/p>"},"id":"ce10ad72-ecaa-473c-8ee8-e0779e95d3db","isHidden":false,"type":"text"},{"content":{"text":"<p>Ein wichtiges Merkmal des Hauptschulzweigs ist die Vernetzung zwischen Lehrkr\u00e4ften, Sozialp\u00e4dagogen, Schulleitung und Eltern.<\/p>"},"id":"f0168611-4070-40f4-bf5d-0548d5962509","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>DIE ARBEIT IN DEN JAHRG\u00c4NGEN<\/strong><\/p>"},"id":"1c013fee-7eaa-4435-89be-9baeb0a229fc","isHidden":false,"type":"text"},{"content":{"text":"<p>In allen Klassen des Hauptschulzweigs werden einzelne SuS zus\u00e4tzlich durch eine F\u00f6rderschullehrkraft unterst\u00fctzt.<\/p>"},"id":"422cc020-b57e-464d-af8d-aa7425e6e6c3","isHidden":false,"type":"text"},{"content":{"text":"<p>Musikalisch interessierte SuS k\u00f6nnen im Jahrgang 5 das Angebot eines Bl\u00e4serkurses mit zus\u00e4tzlichem Musikunterricht anw\u00e4hlen.<\/p>"},"id":"ff2449e6-77da-4d33-a1e8-9a77f5232b5b","isHidden":false,"type":"text"},{"content":{"text":"<p>In den Jahrg\u00e4ngen 5 und 6 haben die SuS die M\u00f6glichkeit, an einer verl\u00e4sslichen Hausaufgabenbetreuung mit Lehrkr\u00e4ften und p\u00e4dagogischen Mitarbeitern teilzunehmen.<\/p><p>Gem\u00e4\u00df unseres Schulprofiles finden die F\u00e4cher Sport, Musik, Kunst und Informatik in kooperativen Lerngruppen statt.<\/p>"},"id":"11cd377d-8806-4af8-9e13-d399fb7da5ac","isHidden":false,"type":"text"},{"content":{"text":"<p>Ab der 8. Klasse wird die Berufsorientierung besonders gef\u00f6rdert, indem die SuS an einer Profilanalyse teilnehmen, die Aufschluss \u00fcber ihre Kompetenzen gibt. Basierend auf diesen Ergebnissen erhalten sie besondere Unterst\u00fctzung bei ihrer Berufsorientierung. Zus\u00e4tzlich nehmen die SuS in Jahrgang 8 und 9 an einem zweiw\u00f6chigen Sch\u00fclerbetriebspratikum teil, bei dem sie erste Eindr\u00fccke sammeln. Neben den aufgef\u00fchrten Ma\u00dfnahmen bietet die \u201eBO-Coaches AG\u201c (Berufsorientierung AG) f\u00fcr einzelne SuS Hilfe und Unterst\u00fctzung im Bereich Berufsorientierung und Hilfestellungen f\u00fcr Bewerbungen an.<\/p>"},"id":"bbab77a9-bef0-4644-b0fd-a732a82174b2","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Abschl\u00fcsse an der Hauptschule<\/strong><\/p>"},"id":"e8e6377e-becc-44d2-8154-f858a486a957","isHidden":false,"type":"text"},{"content":{"text":"An der Hauptschule k\u00f6nnen alle schulischen Abschl\u00fcsse der Sek I erreicht werden, vom Hauptschulabschluss \u00fcber den Realschulabschluss bis zum Erweiterten Sekundarabschluss I, der zum \u00dcbergang in die gymnasiale Oberstufe berechtigt."},"id":"1c191368-87ff-49cc-832f-f56c2ba3c591","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -115,20 +18,28 @@ Related:
 
 ----
 
+Downloadtitel: 
+
+----
+
 Downloads: 
 
 ----
 
-Toggle: true
+Sidetitel: 
 
 ----
 
 Sidebar:
 
 - 
-  link: https://www.mk.niedersachsen.de/download/28616/Erlass_Die_Arbeit_in_der_Hauptschule_.pdf
-
+  link: >
+    https://www.mk.niedersachsen.de/download/28616/Erlass_Die_Arbeit_in_der_Hauptschule_.pdf
   name: Arbeit in der Hauptschule
+
+----
+
+Toggle: true
 
 ----
 

@@ -6,58 +6,11 @@ Heading:
 
 ----
 
-Text:
+Text: [{"content":{"text":"<p><strong><em>Der Realschulzweig der KGS Rastede<\/em><\/strong><\/p>"},"id":"7d0255ba-e8cb-4c80-a8fa-e8b502260cbe","isHidden":false,"type":"text"},{"content":{"text":"<p>umfasst die Jahrg\u00e4nge 5 bis 10 und wird von rund 550 Sch\u00fclerinnen und Sch\u00fclern besucht. In der Regel gibt es pro Jahrgang drei- oder vier parallel laufende Realschulklassen.<\/p>"},"id":"b36f6298-82ea-47e3-bde4-3bed7a645f47","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Mittelpunkt der t\u00e4glichen Arbeit steht neben dem klassischen Unterricht, das Soziale Lernen. Die Sozialkompetenz der Lernenden wird durch ein gezieltes Sozialtraining ab Jahrgang 5, durchgehend in allen Schuljahren gef\u00f6rdert. Die Prinzipien des sozialen Lernens f\u00f6rdern u.a. den Beziehungsaufbau aller Beteiligten, die individuelle Konfliktf\u00e4higkeit, die wechselseitige Wertsch\u00e4tzung und die gegenseitige Empathie.<\/p>"},"id":"6bbc2588-31e5-49b9-b025-81b215e89bcf","isHidden":false,"type":"text"},{"content":{"text":"<p>Ein wesentliches Ziel, neben der St\u00e4rkung der personalen (Sozial-) Kompetenz, ist es selbstverst\u00e4ndlich auch, die Sch\u00fclerinnen und Sch\u00fcler zu Bildungs- und Lernerfolg anzuleiten, um ihnen einen gelungenen Einstieg in eine weitere schulische oder berufliche Ausbildung zu erm\u00f6glichen. So sollten auch f\u00fcr m\u00f6glichst viele Jugendliche die schulischen Grundlagen geschaffen werden, das (Fach-) <strong>Abitur<\/strong> an einer Berufsschule oder einem Gymnasium (nat\u00fcrlich auch an der KGS Rastede) erlangen zu k\u00f6nnen.<\/p><p>Schon ab der 6. Klasse wird die <strong>Berufsorientierung<\/strong> in den Unterrichtsalltag eingebunden. Alle Sch\u00fclerinnen und Sch\u00fcler, die kein Franz\u00f6sisch ab Klasse 6 angew\u00e4hlt haben, werden v.a. in den Bereichen Technik, Hauswirtschaft und Informatik (aber auch in fast allen anderen Schulf\u00e4chern) bis Klasse 8 soweit in ihrer beruflichen Grundkompetenz gef\u00f6rdert, dass sie in der 9. Klasse in der Lage sind, innerhalb einer <strong>Sch\u00fclerfirma<\/strong> berufsbezogen arbeiten zu k\u00f6nnen. F\u00fcr diese Sch\u00fclerfirmen gibt es ein, \u201edem wirklichen Leben\u201c nachempfundenes Bewerbungsverfahren. Mit Beginn der Arbeit ist jede Sch\u00fclerin, jeder Sch\u00fcler einem der <strong>Profilf\u00e4cher<\/strong> <em>Wirtschaft, Technik oder Gesundheit &amp; Soziales<\/em> zugeordnet. In der 10. Klasse haben die Jugendlichen in ihrem Profil ein vierst\u00fcndiges Schwerpunktfach, in dem Theorie und Praxis noch weiter vertieft werden.<\/p>"},"id":"65342e35-4856-4aad-8d17-b76dc2bd0e1e","isHidden":false,"type":"text"},{"content":{"text":"<p>Alle Lernenden nehmen im 8. Jahrgang an einer <strong>Kompetenzanalyse<\/strong> teil, die Aufschluss \u00fcber weitere individuelle F\u00e4higkeiten gibt. Zus\u00e4tzlich werden in den Jahrg\u00e4ngen 8 und 9 <strong>Sch\u00fclerbetriebspraktika<\/strong> durchgef\u00fchrt.<\/p>"},"id":"dd6f8f64-2101-43be-960a-a63b3ed7dfa5","isHidden":false,"type":"text"},{"content":{"text":"<p>Am Realschulzweig der KGS Rastede finden die F\u00e4cher Sport, Musik, Kunst, Informatik und die Profilf\u00e4cher (au\u00dfer Franz\u00f6sisch) in kooperativen Lerngruppen mit Sch\u00fclerinnen und Sch\u00fclern aus den anderen Schulzweigen statt.<\/p><p>In den Jahrg\u00e4ngen 5 und 6 gibt es eine verl\u00e4ssliche Hausaufgabenbetreuung mit Lehrkr\u00e4ften und p\u00e4dagogischen Mitarbeitern.<\/p>"},"id":"f6aba719-5c24-4b87-8cbd-e417f616aad2","isHidden":false,"type":"text"}]
 
-[
-    {
-        "attrs": [],
-        "content": "<strong><em>Der Realschulzweig der KGS Rastede</em></strong>",
-        "id": "_xx2UP13aL",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "umfasst die Jahrgänge 5 bis 10 und wird von rund 550 Schülerinnen und Schülern besucht. In der Regel gibt es pro Jahrgang drei- oder vier parallel laufende Realschulklassen.",
-        "id": "_39nqevbYO",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Im Mittelpunkt der täglichen Arbeit steht neben dem klassischen Unterricht, das Soziale Lernen. Die Sozialkompetenz der Lernenden wird durch ein gezieltes Sozialtraining ab Jahrgang 5, durchgehend in allen Schuljahren gefördert. Die Prinzipien des sozialen Lernens fördern u.a. den Beziehungsaufbau aller Beteiligten, die individuelle Konfliktfähigkeit, die wechselseitige Wertschätzung und die gegenseitige Empathie.",
-        "id": "_j9IycCxJA",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ein wesentliches Ziel, neben der Stärkung der personalen (Sozial-) Kompetenz, ist es selbstverständlich auch, die Schülerinnen und Schüler zu Bildungs- und Lernerfolg anzuleiten, um ihnen einen gelungenen Einstieg in eine weitere schulische oder berufliche Ausbildung zu ermöglichen. So sollten auch für möglichst viele Jugendliche die schulischen Grundlagen geschaffen werden, das (Fach-) <strong>Abitur</strong> an einer Berufsschule oder einem Gymnasium (natürlich auch an der KGS Rastede) erlangen zu können.",
-        "id": "_NjdBNSyTt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Schon ab der 6. Klasse wird die <strong>Berufsorientierung</strong> in den Unterrichtsalltag eingebunden. Alle Schülerinnen und Schüler, die kein Französisch ab Klasse 6 angewählt haben, werden v.a. in den Bereichen Technik, Hauswirtschaft und Informatik (aber auch in fast allen anderen Schulfächern) bis Klasse 8 soweit in ihrer beruflichen Grundkompetenz gefördert, dass sie in der 9. Klasse in der Lage sind, innerhalb einer <strong>Schülerfirma</strong> berufsbezogen arbeiten zu können. Für diese Schülerfirmen gibt es ein, „dem wirklichen Leben“ nachempfundenes Bewerbungsverfahren. Mit Beginn der Arbeit ist jede Schülerin, jeder Schüler einem der <strong>Profilfächer</strong> <em>Wirtschaft, Technik oder Gesundheit &amp; Soziales</em> zugeordnet. In der 10. Klasse haben die Jugendlichen in ihrem Profil ein vierstündiges Schwerpunktfach, in dem Theorie und Praxis noch weiter vertieft werden.",
-        "id": "_lXzbtdBbj",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Alle Lernenden nehmen im 8. Jahrgang an einer <strong>Kompetenzanalyse</strong> teil, die Aufschluss über weitere individuelle Fähigkeiten gibt. Zusätzlich werden in den Jahrgängen 8 und 9 <strong>Schülerbetriebspraktika</strong> durchgeführt.",
-        "id": "_BEa3VXLEe",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Am Realschulzweig der KGS Rastede finden die Fächer Sport, Musik, Kunst, Informatik und die Profilfächer (außer Französisch) in kooperativen Lerngruppen mit Schülerinnen und Schülern aus den anderen Schulzweigen statt.",
-        "id": "_ud5e6KBr1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "In den Jahrgängen 5 und 6 gibt es eine verlässliche Hausaufgabenbetreuung mit Lehrkräften und pädagogischen Mitarbeitern.",
-        "id": "_YlqnU1Keo",
-        "type": "paragraph"
-    }
-]
+----
+
+Relatedtitel: 
 
 ----
 
@@ -65,11 +18,11 @@ Related:
 
 ----
 
-Downloads: 
+Downloadtitel: 
 
 ----
 
-Toggle: true
+Downloads: 
 
 ----
 
@@ -78,6 +31,10 @@ Sidetitel:
 ----
 
 Sidebar: 
+
+----
+
+Toggle: true
 
 ----
 

@@ -6,16 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Die Kooperativ Gesamtschule Rastede bietet drei Schulzweige an.",
-        "id": "_hdknq550p",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Die Kooperativ Gesamtschule Rastede bietet drei Schulzweige an.<\/p>"},"id":"5f4f5e65-ade8-4c11-ae3e-ae1e7ea4261c","isHidden":false,"type":"text"}]
 
 ----
 
