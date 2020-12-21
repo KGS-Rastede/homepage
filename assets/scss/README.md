@@ -1,34 +1,14 @@
-# Wie funktioniert das?
-In der kgs.scss sind alle Änderungen an Bootstrap drin
-
-In dem Unterordner /assets/bootstrap/ ist eine Kopie von Bootstrap 4.5 drin. In dem Ordner ist absolut nichts anderes drin, der wird auchin keiner Weise modifiziert.
+# Erzeugen der kgs.css
+In der kgs.scss sind alle Änderungen an Bootstrap drin. Diese Datei wird aus Bootstrap heraus kompiliert. Dazu wird unser SASS kompiliert zu CSS.
 
 Alle Änderungen werden in der kgs.scss vorgenommen.
 
-Auf dem PC muss Ruby SASS installiert sein, zuletzt getestet mit:
-
-```
-Ruby Sass 3.7.4
-```
-
-Außerdem habe ich in VS Code die `minify` Extension installiert, die macht aus kgs.css dann die kgs.min.css. Das spart laut Ausgabe fast 80% Speicher ein.
-
-Man gibt dann als Befehl ein:
-
-```
-sass .\kgs.scss ..\css\kgs.css
-```
-
-Dieser Befehl erzeugt die .css-Datei. Man öffnet diese Datei und startet mit `F1` dann den Minifier. 
-
-# Alternative zum Kompilieren (die bevorzugte Variante)
-Man kann auch mit Prepos (https://prepros.io/) arbeiten. 
-
+Wir arbeiten mit Prepos (https://prepros.io/). Es gibt diverse andere Methoden, diese ist für uns die einfachste.
 
 # Update von Bootstrap
-Sollte mal Bootstrap 5.0.1 rauskommen, so muss man nur den Bootstrap-Ordner 1:1 austauschen und dann `sass` nau laufen lassen.
-Oder mit der Alternative einfach in Prepos kompilieren. Dann ist das "Output File" der Pfad '/css/kgs.css'. 
+Sollte mal Bootstrap 5.0.1 rauskommen, so muss man nur durch `composer update` den Bootstrap-Ordner updaten (das macht `composer` für uns automatisch) und mit Prepo neu kompilieren. Dann ist das "Output File" der Pfad '/css/kgs.css' und alles ist aktuell. 
 
 # TODO
-Grundsätzlich kann man durch angepasste `@include`-Befehle erreichen, dass nur das CSS kompiliert wird, das auch benutzt wird. 
-Benutzt man z.B. verschiedene Farben nicht, werden die rausgeworfen. So wird das CSS noch ein wenig kompakter.
+Grundsätzlich kann man durch angepasste `@include`-Befehle in der `bootstrap.scss`erreichen, dass nur das CSS kompiliert wird, das auch benutzt wird. 
+Benutzt man z.B. verschiedene Funktionen (wie Tooltipps) nicht, werden die rausgeworfen. So wird das CSS noch ein wenig kompakter.
+Viel besser wäre es allerdings, wenn wir einfach PurgeCSS oder PurifyCSS verwenden würden. Bisher habe ich das aber noch nicht hinbekommen...
