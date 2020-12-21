@@ -1,5 +1,5 @@
 <div class="container carousel-dark">
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
 
     <div class="carousel-inner text-center">
 
@@ -27,11 +27,11 @@
     </div>
 
     <?php if ($page->gallery()->toFiles()->count() >= 2) : ?>
-      <a class="d-none d-sm-flex carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <a class="d-none d-sm-flex carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only text-dark">Zurück</span>
       </a>
-      <a class="d-none d-sm-flex carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <a class="d-none d-sm-flex carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
         <span class="sr-only text-dark">Weiter</span>
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
       </a>
@@ -39,7 +39,7 @@
       <ol class="carousel-indicators">
           <?php $count = -1;
         foreach ($page->gallery()->toFiles() as $image) : $count++ ?>
-          <li data-target="#carouselExampleIndicators" <?php if ($count == 0) : ?> class="active" <?php endif ?> data-slide-to="<?= $count ?>"></li>
+          <li data-bs-target="#carouselExampleIndicators" <?php if ($count == 0) : ?> class="active" <?php endif ?> data-bs-slide-to="<?= $count ?>"></li>
         <?php endforeach ?>
       </ol>
     <?php endif ?>
