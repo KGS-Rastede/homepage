@@ -6,40 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "<strong>Elternarbeit ist ein wichtiger Baustein der eigenverantwortlichen Schule!</strong>",
-        "id": "_2d6M5T9F8",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_xuVbCTHfg",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Sie beinhaltet u.a. einen <strong>intensiven Dialog mit der Schulleitung und der Lehrerschaft, sowie dem Schulträger.</strong> Elternarbeit ist das aktive Mitgestalten des Schullebens, z. B. im Schulvorstand der Schule. Dort haben Eltern die Aufgabe, die Arbeit der Schule mit dem Ziel der <strong>Qualitätsentwicklung bzw. Qualitätssteigerung </strong>zu gestalten. Um diese Gestaltungsmöglichkeit zu gewährleisten, ist eine umfassende <strong>Information und Einbindung aller Eltern </strong>notwendig. Die Kreativität und das Engagement <strong>aller Eltern</strong> sind gefordert, denn dies dient der Bereicherung des Schulalltags. Daher sollte sich niemand scheuen, neue Ideen in die einzelnen Gremien der Schule einzubringen.",
-        "id": "_cNedHDwLt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Elternarbeit</strong> ist notwendig für Eltern, weil es viele schulisch unerfahrene Eltern gibt, die ein Informationsbedürfnis haben, wenn es um Unterstützung und Vermittlung zwischen Eltern, Schüler und Lehrkräften geht.",
-        "id": "_vf9tr8db0",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Elternarbeit</strong> ist notwendig für Schüler, um deren Interessen zu unterstützen und auf diese Weise das <strong>WIR-Gefühl</strong> zu stärken. <strong>Elternarbeit</strong> ist notwendig für Lehrkräfte, weil sie durch ungezwungene Kontakte mit Eltern deren Lebenswelt kennen- und damit das Verhalten einzelner Schüler und Schülerinnen besser verstehen lernen. <strong>Durch die Elternvertreter besteht eine strukturierte und organisierte Verbindung zwischen Elternhaus und Schule.</strong>",
-        "id": "_I07vFvVJa",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<strong>Elternarbeit ist ein wichtiger Baustein der eigenverantwortlichen Schule!<\/strong>"},"id":"f6b24670-9f5d-4def-bb73-34666d5ace93","isHidden":false,"type":"text"},{"content":{"text":"<p>Sie beinhaltet u.a. einen <strong>intensiven Dialog mit der Schulleitung und der Lehrerschaft, sowie dem Schultr\u00e4ger.<\/strong> Elternarbeit ist das aktive Mitgestalten des Schullebens, z. B. im Schulvorstand der Schule. Dort haben Eltern die Aufgabe, die Arbeit der Schule mit dem Ziel der <strong>Qualit\u00e4tsentwicklung bzw. Qualit\u00e4tssteigerung <\/strong>zu gestalten. Um diese Gestaltungsm\u00f6glichkeit zu gew\u00e4hrleisten, ist eine umfassende <strong>Information und Einbindung aller Eltern <\/strong>notwendig. Die Kreativit\u00e4t und das Engagement <strong>aller Eltern<\/strong> sind gefordert, denn dies dient der Bereicherung des Schulalltags. Daher sollte sich niemand scheuen, neue Ideen in die einzelnen Gremien der Schule einzubringen.<\/p><p><strong>Elternarbeit<\/strong> ist notwendig f\u00fcr Eltern, weil es viele schulisch unerfahrene Eltern gibt, die ein Informationsbed\u00fcrfnis haben, wenn es um Unterst\u00fctzung und Vermittlung zwischen Eltern, Sch\u00fcler und Lehrkr\u00e4ften geht.<\/p><p><strong>Elternarbeit<\/strong> ist notwendig f\u00fcr Sch\u00fcler, um deren Interessen zu unterst\u00fctzen und auf diese Weise das <strong>WIR-Gef\u00fchl<\/strong> zu st\u00e4rken. <strong>Elternarbeit<\/strong> ist notwendig f\u00fcr Lehrkr\u00e4fte, weil sie durch ungezwungene Kontakte mit Eltern deren Lebenswelt kennen- und damit das Verhalten einzelner Sch\u00fcler und Sch\u00fclerinnen besser verstehen lernen. <strong>Durch die Elternvertreter besteht eine strukturierte und organisierte Verbindung zwischen Elternhaus und Schule.<\/strong><\/p>"},"id":"79376e4b-4c3b-44d0-8252-c2f4c82db1ae","isHidden":false,"type":"text"}]
 
 ----
 
