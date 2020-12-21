@@ -6,19 +6,19 @@ Heading: id
 
 ----
 
-Email: id
-
-----
-
 Position: Leiterin Jahrgang 5/6
 
 ----
 
-Phone: 04402-9264-21
+Phone: 04402-9265-21
 
 ----
 
 Fotoansicht: schulleiter
+
+----
+
+Email: id
 
 ----
 
