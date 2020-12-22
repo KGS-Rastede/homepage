@@ -14,11 +14,11 @@
     "autoprefixer": "^9.8.6"
   },
   "devDependencies": {
-    "purgecss": "^3.1.3",
+    "purgecss": "^3",
     "css-minify": "^1.1"
   },
   "scripts": {
-    "build": "purgecss --config ./assets/css/purgecss.config.js --output ./assets/css/kgs_shrinked.css",
-    "mini": "css-minify --file ./assets/css/kgs_shrinked.css"
+    "build": "purgecss --config ./assets/css/purgecss.config.js --output ./assets/css/kgs_shrinked.css && css-minify --dir ./assets/css/",
+    "mini": "css-minify --dir ./assets/css/"
   }
 }
