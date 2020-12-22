@@ -51,7 +51,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
                                     <?php $relatedPages =  $page->related()->toPages();
                                     foreach ($relatedPages as $relatedPage) : ?>
                                         <li class="list-group-item">
-                                            <a href="<?= $relatedPage->url() ?>"><?= $relatedPage->title() ?></a>
+                                            <a href="<?= $relatedPage->url() ?>" target="_blank"><?= $relatedPage->title() ?></a>
                                         </li>
                                     <?php endforeach ?>
 

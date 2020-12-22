@@ -24,7 +24,7 @@ $count = -1;
     <div class="row row-cols-1 row-cols-md-5 g-2 g-xl-4 gx-sm-5 gx-md-2 mx-md-3">
         <?php foreach ($links_bilder as $link => $bild) : $count++ ?>        
             <div class="col">
-                <a href="<?= $link ?>">
+                <a href="<?= $link ?>" target="_blank">
                     <div class="card h-100">
                         <div class="card-body d-flex justify-content-center align-items-center">
                             <img src="<?= $kirby->url('assets') ?>/bilder/<?= $bild ?>" alt="<?= $alt[$count] ?>" class="img-fluid">
