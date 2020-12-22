@@ -1,4 +1,4 @@
-// Fuer weiter Optionen: https://purgecss.com/configuration.html#options
+// Fuer weitere Optionen: https://purgecss.com/configuration.html#options
 
 module.exports = {
   content: [
