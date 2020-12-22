@@ -17,7 +17,6 @@
     "purgecss": "^3.1.3"
   },
   "scripts": {
-    "build": "purgecss --config purgecss.config.js"
-    
+    "build": "purgecss --config ./assets/css/purgecss.config.js --output ./assets/css/kgs_shrinked.css"
   }
 }
