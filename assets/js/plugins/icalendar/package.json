@@ -1,0 +1,59 @@
+{
+  "_from": "@fullcalendar/icalendar",
+  "_id": "@fullcalendar/icalendar@5.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-/pDlde2d0z2FQQ76FWZ+qUUztcfnUJakSpCyCrFMR250nQfAFPEld+kHgw1vuJG5HP2322W9T2oseuz8YjVzsQ==",
+  "_location": "/@fullcalendar/icalendar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@fullcalendar/icalendar",
+    "name": "@fullcalendar/icalendar",
+    "escapedName": "@fullcalendar%2ficalendar",
+    "scope": "@fullcalendar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@fullcalendar/icalendar/-/icalendar-5.5.0.tgz",
+  "_shasum": "0e38ea751f297273128522b81731f6b41b4ed830",
+  "_spec": "@fullcalendar/icalendar",
+  "_where": "C:\\wamp64\\www\\kgs-kirby",
+  "author": {
+    "name": "NJ Pearman",
+    "email": "n.pearman@gmail.com",
+    "url": "https://github.com/njpearman/"
+  },
+  "browserGlobal": "FullCalendarICalendar",
+  "bugs": {
+    "url": "https://fullcalendar.io/reporting-bugs"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@fullcalendar/common": "~5.5.0",
+    "ical.js": "^1.4.0",
+    "tslib": "^2.0.3"
+  },
+  "deprecated": false,
+  "description": "Fetch events from a public iCalendar / .ics feed",
+  "docs": "https://fullcalendar.io/docs/icalendar",
+  "homepage": "https://fullcalendar.io/",
+  "jsdelivr": "main.global.min.js",
+  "license": "MIT",
+  "main": "main.cjs.js",
+  "module": "main.js",
+  "name": "@fullcalendar/icalendar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullcalendar/fullcalendar.git",
+    "homepage": "https://github.com/fullcalendar/fullcalendar"
+  },
+  "title": "FullCalendar iCalendar Plugin",
+  "types": "main.d.ts",
+  "version": "5.5.0"
+}
