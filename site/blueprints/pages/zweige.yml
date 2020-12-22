@@ -11,7 +11,7 @@ columns:
             type: text
             label: Untertitel
           text:
-            type: editor
+            type: blocks
   
   sidebar:
     width: 1/3

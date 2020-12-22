@@ -1,0 +1,5 @@
+Anzeigename: Kurswahlen für auswärtige Schülerinnen und Schüler
+
+----
+
+Template: datei

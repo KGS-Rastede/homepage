@@ -6,7 +6,112 @@ Heading:
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Geschichte galt früher einmal als ein Unterrichtsfach, in dem Daten und Zahlen auswendig gelernt und stumpf „gepaukt“ werden mussten. Dies hat sich geändert. &nbsp;Heutzutage stellt sich Geschichtsunterricht gänzlich anders dar:&nbsp;",
+        "id": "_PJc95JyCY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist ein „Denkfach“, in dem neben dem notwendigen Fachwissen die Methoden-, Sach- und Urteilskompetenzen geschult.&nbsp;Hierbei üben die Schüler das kritische Denken und lernen, sich in andere hinein zu versetzen und einen Sachverhalt aus vielen Perspektiven zu betrachten,&nbsp;und ihre wechselseitige Beziehung zur Gegenwart im Blickpunkt zu stellen.&nbsp;",
+        "id": "_sW7MFPt6P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_cBz1x8etG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Fragen wie&nbsp;",
+        "id": "_ec6U89HAY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "„Können wir aus der Geschichte lernen?“",
+        "id": "_ju3nmdfdc",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "„Wie verändert sich unser Blick auf die Geschichte?“",
+        "id": "_o8ugxzxdv",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "\"Wie gehe ich mit Zeugnissen aus der Vergangenheit methodisch um und wie kann ich sie adäquat beurteilen?\"",
+        "id": "_7bvikyh68",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_dsn63s12j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "regen zum (Nach-)Denken und zur kritischen Reflexion an. Das kann manchmal anstrengen, macht aber richtig Spaß!",
+        "id": "_qrarlxzjt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_tworXfDQT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es beginnt gleich in Jahrgang 5 und hört dann nicht mehr auf! &nbsp; &nbsp;",
+        "id": "_4jQQnXyt5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_tdTGWqeDO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Geschichtsunterricht der Sekundarstufe I beschäftigen wir uns in allen drei Schulzweigen chronologisch mit der Geschichte der &nbsp;Menschen von der Ur- und Frühgeschichte (Altsteinzeit) über die Antike, das Mittelalter und die Neuzeit bis zum Ende des 20. Jahrhunderts (bis zur Wiedervereinigung Deutschlands 1990).",
+        "id": "_1n5cWm63A",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Natürlich müssen dabei Schwerpunkte gesetzt werden. Nicht alles kann in der gleichen Intensität behandelt werden; sachliche Notwendigkeiten und Schülerinteresse finden Berücksichtigung.&nbsp;",
+        "id": "_Qee6RW3mW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Mittelpunkt stehen Quellen. Das sind z.B. Texte, Gegenstände, oder allgemein alle Tatsachen, aus denen Kenntnis der Vergangenheit gewonnen werden kann. Text- , Bild- und Tonquellen werden analysiert und kritisch auf ihre Aussagekraft untersucht.&nbsp;",
+        "id": "_1q8egKbhW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_AglD2Pev8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wo möglich, suchen wir außerschulische Lernorte (wie z.B. Oldenburger Museen, Erinnerungsorte) auf, um andere Lernzugänge zu ebnen. &nbsp;&nbsp;",
+        "id": "_LZhNDSJWH",
+        "type": "paragraph"
+    }
+]
 
 ----
 

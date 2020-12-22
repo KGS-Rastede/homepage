@@ -14,8 +14,8 @@ Text:
             "id": null
         },
         "content": "Wer sind wir?",
-        "id": "_oe8k88uoo",
-        "type": "h2"
+        "id": "_5466rhbe3",
+        "type": "h3"
     },
     {
         "attrs": [],
@@ -35,7 +35,7 @@ Text:
         },
         "content": "Ziele",
         "id": "_09nmm1q46",
-        "type": "h2"
+        "type": "h3"
     },
     {
         "attrs": [],
@@ -47,7 +47,7 @@ Text:
         "attrs": [],
         "content": "Die Kommunikation verbessern",
         "id": "_x3cwbdb0y",
-        "type": "h2"
+        "type": "h3"
     },
     {
         "attrs": [],
@@ -59,7 +59,7 @@ Text:
         "attrs": [],
         "content": "An Entscheidungen mitwirken",
         "id": "_YFSIg3B0u",
-        "type": "h2"
+        "type": "h3"
     },
     {
         "attrs": [],
@@ -71,7 +71,7 @@ Text:
         "attrs": [],
         "content": "Die Schule in Projekten etablieren",
         "id": "_jtIkXyOzJ",
-        "type": "h2"
+        "type": "h3"
     },
     {
         "attrs": [],
@@ -85,7 +85,7 @@ Text:
         },
         "content": "Wie erreicht ihr uns?",
         "id": "_eic2r0var",
-        "type": "h2"
+        "type": "h3"
     },
     {
         "attrs": [],
@@ -95,7 +95,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Persönlich: Mittwochs um 13:30 in Raum 240.1",
+        "content": "Persönlich: Mittwochs um 13:30 Uhr in Raum 240.1",
         "id": "_3Zy1MOk8g",
         "type": "paragraph"
     },
@@ -113,44 +113,4 @@ Downloads:
 
 ----
 
-Toggle: true
-
-----
-
-Sidetitel: Mehr zum Thema
-
-----
-
-Sidebar:
-
-- 
-  link: https://www.google.de/
-  name: Das ist der erste Link
-- 
-  link: >
-    https://getkirby.com/docs/reference/templates/field-methods/to-structure
-  name: Hier geht es zu Kirby
-
-----
-
-Sidetoggle: false
-
-----
-
-Url: https://www.google.de/
-
-----
-
-Name: Zur beliebtesten Suchmaschine der Welt
-
-----
-
 Links: 
-
-----
-
-Categories:
-
-- 
-  text: Photography
-  value: photography

@@ -1,0 +1,9 @@
+Anzeigename: Informationen zur Einführungsphase und den Schwerpunkten
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs

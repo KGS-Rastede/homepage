@@ -6,52 +6,7 @@ Heading: Alle Jahre wieder zur Adventszeit..
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_zLM7lAgdt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Am 04.12.19 war es wieder soweit. Der Vorlesewettbewerb f\u00fcr die 6. Klassen wurde erneut in der kleinen KGS ausgetragen.",
-        "id": "_ix04cNIxE",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Acht Sch\u00fclerInnen, welche sich bereits in ihren Klassen als Klassensieger herausgestellt hatten, fanden sich p\u00fcnktlich mit ihren selbst ausgew\u00e4hlten B\u00fcchern in der Schulb\u00fccherei ein. Imanschlie\u00dfenden Wettbewerb, bestehend aus zwei Runden, wurde die beste Vorlesung von der Jury ausgew\u00e4hlt. Diese bestand aus zwei Lehrern der KGS, Herrn Schumacher und Herrn Stockmann, au\u00dferdem Frau Thiemann, welche die Buchhandlung Thiemann in Rastede mit ihrem Mann zusammen f\u00fchrt und sp\u00e4ter den gestifteten Buchpreis an die Siegerin \u00fcberreichte. Das letzte Jurymitglied war die Vorjahressiegern Joline. Sie kam bis in den Kreiswertbewerb und belegte dort den zweiten Platz.",
-        "id": "_oq96atbvf",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "In der ersten Runde stellen die Sch\u00fcler ihr Buch ich kurz vor und lasen drei Minuten eine ausgew\u00e4hlte Stelle und anschlie\u00dfend erhielt jeder einen kleinen Schokoladennikolaus. Nach einer kurzen Pause bekamen die 6. Kl\u00e4sslerInnen das Buch ,,Froschmaul\u201c. Jeder hatte zwei Minuten Zeit, sein K\u00f6nnen erneut unter Beweis zu stellen. Doch man konnte feststellen, dass es allen garnicht so sehr ums Gewinnen ging, sondern viel mehr um den Spa\u00df.",
-        "id": "_xe01led6k",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Viele der Sch\u00fclerinnen nutzen das Lesen in ihrer Freizeit als Zeitvertreib, aber auch weil sie daran Spa\u00df haben. ,,Der Fantasie kann man freien Lauf lassen\u201c, so sagte eine Sch\u00fclerin. Eine andereSch\u00fclerin sagte, sie k\u00f6nne sich manchmal in manchen Charakteren wiederfinden und eventuelle Anreize zum weiteren Handeln finden. ,,Man muss einfach gucken was der Charakter gemacht hat\u201c, sagte sie. Im letzen Teil wurden alle mit Beifall belohnt und bekamen eine Urkunde und das ,,Siegertreppchen\u201c wurde verk\u00fcndet. Dabei setze sich Laura (6A3) mit 85 Punkten knapp vor Jale (6D3) mit 83 Punkten und Klara (6C3) und Connor (6B2), beide hatten 77 Punkte, ab. Laura gewann den Buchpreis und darf sich beim Kreiswettbewerb erneut beweisen.",
-        "id": "_h4xa4v5d4",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_4YQsDKWdt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>An alle Herzlichen Gl\u00fcckwunsch!</strong>",
-        "id": "_Wzqck6NPg",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Am 04.12.19 war es wieder soweit. Der Vorlesewettbewerb f\u00fcr die 6. Klassen wurde erneut in der kleinen KGS ausgetragen.<\/p><p>Acht Sch\u00fclerInnen, welche sich bereits in ihren Klassen als Klassensieger herausgestellt hatten, fanden sich p\u00fcnktlich mit ihren selbst ausgew\u00e4hlten B\u00fcchern in der Schulb\u00fccherei ein. Imanschlie\u00dfenden Wettbewerb, bestehend aus zwei Runden, wurde die beste Vorlesung von der Jury ausgew\u00e4hlt. Diese bestand aus zwei Lehrern der KGS, Herrn Schumacher und Herrn Stockmann, au\u00dferdem Frau Thiemann, welche die Buchhandlung Thiemann in Rastede mit ihrem Mann zusammen f\u00fchrt und sp\u00e4ter den gestifteten Buchpreis an die Siegerin \u00fcberreichte. Das letzte Jurymitglied war die Vorjahressiegern Joline. Sie kam bis in den Kreiswertbewerb und belegte dort den zweiten Platz.<\/p>"},"id":"5e7a154f-eff5-4c0c-91d0-591ec4bbf918","isHidden":false,"type":"text"},{"content":{"text":"<p>In der ersten Runde stellen die Sch\u00fcler ihr Buch ich kurz vor und lasen drei Minuten eine ausgew\u00e4hlte Stelle und anschlie\u00dfend erhielt jeder einen kleinen Schokoladennikolaus. Nach einer kurzen Pause bekamen die 6. Kl\u00e4sslerInnen das Buch ,,Froschmaul\u201c. Jeder hatte zwei Minuten Zeit, sein K\u00f6nnen erneut unter Beweis zu stellen. Doch man konnte feststellen, dass es allen garnicht so sehr ums Gewinnen ging, sondern viel mehr um den Spa\u00df.<\/p>"},"id":"d3e37f96-8352-444d-ac53-f0ac6703b78e","isHidden":false,"type":"text"},{"content":{"text":"<p>Viele der Sch\u00fclerinnen nutzen das Lesen in ihrer Freizeit als Zeitvertreib, aber auch weil sie daran Spa\u00df haben. ,,Der Fantasie kann man freien Lauf lassen\u201c, so sagte eine Sch\u00fclerin. Eine andereSch\u00fclerin sagte, sie k\u00f6nne sich manchmal in manchen Charakteren wiederfinden und eventuelle Anreize zum weiteren Handeln finden. ,,Man muss einfach gucken was der Charakter gemacht hat\u201c, sagte sie. Im letzen Teil wurden alle mit Beifall belohnt und bekamen eine Urkunde und das ,,Siegertreppchen\u201c wurde verk\u00fcndet. Dabei setze sich Laura (6A3) mit 85 Punkten knapp vor Jale (6D3) mit 83 Punkten und Klara (6C3) und Connor (6B2), beide hatten 77 Punkte, ab. Laura gewann den Buchpreis und darf sich beim Kreiswettbewerb erneut beweisen.<\/p>"},"id":"8420bfad-5bd8-4327-8f93-13c60d4939f1","isHidden":false,"type":"text"},{"content":{"text":"<strong>An alle Herzlichen Gl\u00fcckwunsch!<\/strong>"},"id":"6884aa5d-599b-4122-a031-7db56ac3ff10","isHidden":false,"type":"text"}]
 
 ----
 
@@ -61,7 +16,11 @@ Gallery:
 
 ----
 
-Date: 2019-12-04 16:30
+Date: 2019-12-04 16:30:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -73,16 +32,16 @@ Tags: Deutsch
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

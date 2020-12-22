@@ -6,7 +6,8 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
+  <meta name="description" content="Die Homepage der Kooperativen Gesamtschule Rastede (KGS Rastede)" />
+
   <?= css('assets/css/kgs.css') ?>
   
   <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
@@ -22,5 +23,5 @@
 <body>
   
     <header>
-        <?php snippet('nav') ?>
+        <?php snippet('nav2') ?>
     </header>

@@ -6,6 +6,18 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-mittagessen-in-rastede-akademiehotel-tischt-in-vier-schulen-auf_a_50,10,3493567282.html
+  name: Akademiehotel tischt in vier Schulen auf
+  anfang: >
+    Bis zu 250 Portionen werden zurzeit
+    täglich ausgeliefert. Damit kein
+    unnötiger Verpackungsmüll anfällt,
+    wird wiederverwertbares Geschirr
+    eingesetzt.
+  datum: 2020-11-12
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-mehr-als-100000-euro-fuer-mobile-geraete-tablets-und-laptops-fuer-rasteder-schueler_a_50,10,1490788104.html
   name: >
     Tablets und Laptops für Rasteder

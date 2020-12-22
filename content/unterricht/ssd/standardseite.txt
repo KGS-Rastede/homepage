@@ -2,142 +2,15 @@ Title: Schulsanitätsdienst
 
 ----
 
-Text:
+Heading: 
 
-[
-    {
-        "attrs": [],
-        "content": "Das Konzept des Schulsanit\u00e4tsdienstes",
-        "id": "_OxRFx4mBv",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "Der Schulsanit\u00e4tsdienst soll von Sch\u00fclern der Jahrgangsstufe 7 bis 9 vorgenommen werden. Die Teilnahme ist freiwillig. Bei geringer Teilnehmerzahl d\u00fcrfen auch Sch\u00fcler der Jahrgangsstufe 6 teilnehmen.",
-        "id": "_jwyB56iqf",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die Sch\u00fcler erhalten eine Ausbildung in Erste Hilfe, speziell zugeschnitten auf den Schulsanit\u00e4tsdienst. Dieser Kurs wird unter anderem vom DRK Kreisverband Ammerland Herrn Aden organisiert und von DRK Ausbildern durchgef\u00fchrt. Die Teilnehmer verpflichten sich mindestens ein ganzes Kalenderjahr den Schulsanit\u00e4tsdienst durchzuf\u00fchren.",
-        "id": "_XxdJbpKgO",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Es werden jeweils drei bis vier Sch\u00fcler einem Wochentag zugeordnet. Also sollten insgesamt ca. 15 bis 20 Sch\u00fcler an dem Schulsanit\u00e4tsdienst beteiligt sein.",
-        "id": "_pH4LA4ySM",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Aufgaben der Schulsanit\u00e4ter:</strong>",
-        "id": "_jYR1jYDFC",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Pausendienst",
-        "id": "_xs3lpV0kq",
-        "type": "ol"
-    },
-    {
-        "attrs": [],
-        "content": "Die diensthabenden Sch\u00fcler verbringen die Pausen im Sanit\u00e4tsraum und stehen somit zur Verf\u00fcgung, falls Kinder sich verletzen oder leichte Erkrankungen haben. Diese werden entsprechend der Ausbildung der Sanit\u00e4ter versorgt, d.h. sie d\u00fcrfen K\u00fchlelemente oder W\u00e4rmflaschen austeilen, kleine Wunden versorgen usw..",
-        "id": "_Y544qGXXA",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Des Weiteren haben die Sch\u00fcler die Befugnis, gegebenenfalls Eltern oder andere auf der Notfallliste stehenden Personen anzurufen, um kranke Kinder abholen zu lassen. Au\u00dferdem veranlasst der Schulsanit\u00e4tsdienst die Information der betroffenen Lehrer.",
-        "id": "_LmKWkTJgN",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Zwei Sanit\u00e4ter verbleiben w\u00e4hrend der Pause immer im Sanit\u00e4tszimmer, um kranke Kinder zu betreuen.",
-        "id": "_2h3rx2oGt",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Rufbereitschaft",
-        "id": "_0tWgUdgQl",
-        "type": "ol"
-    },
-    {
-        "attrs": [],
-        "content": "Falls ein Sch\u00fcler w\u00e4hrend des Unterrichts erkrankt, sollte seine Lehrkraft veranlassen, dass der Schulsanit\u00e4tsdienst \u00fcber die Rufanlage (Walkie Talkie) ausgerufen bzw. benachrichtigt wird. Die Schulsanit\u00e4ter d\u00fcrfen dann ihren Unterricht verlassen, um das erkrankte Kind vom Sekretariat abzuholen und im Sanit\u00e4tsraum zu versorgen und zu betreuen. Um die Betreuung des kranken Kindes zu gew\u00e4hrleisten, sollten mindestens zwei Sch\u00fcler vor Ort sein, falls Eltern oder andere Personen angerufen werden m\u00fcssen.",
-        "id": "_9XOK3JLL1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Dokumentation",
-        "id": "_K3B697IXZ",
-        "type": "ol"
-    },
-    {
-        "attrs": [],
-        "content": "Alle Unf\u00e4lle von Sch\u00fclern und Besch\u00e4ftigten m\u00fcssen vom Schulsanit\u00e4tsdienst in einem Verbandbuch vermerkt werden, damit bei Sp\u00e4tfolgen der schulische Zusammenhang nachgewiesen werden kann.",
-        "id": "_EnhbE4muk",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die Angaben dienen als Nachweis, dass die Verletzung/Erkrankung bei einer versicherten T\u00e4tigkeit ein- bzw. aufgetreten ist.",
-        "id": "_OJvT3Jiwg",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Sonstiges",
-        "id": "_tP83GANu0",
-        "type": "ol"
-    },
-    {
-        "attrs": [],
-        "content": "Jeden Tag, vor Beginn der ersten Stunde treffen sich die eingeteilten Schulsanit\u00e4ter im Sanit\u00e4tsraum, um Einzelheiten des Dienstes abzusprechen und die Walkie Talkies o. \u00c4. f\u00fcr die Rufbereitschaft an sich zu nehmen.",
-        "id": "_QPLJWf2tM",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Nach der sechsten werden die Walkie Talkies o. \u00c4. wieder in den Sanit\u00e4tsraum zur\u00fcckgelegt.",
-        "id": "_ob6bjvG0u",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Der Schulsanit\u00e4tsdienst ist auch f\u00fcr den Ordnungsdienst im Sanit\u00e4tsraum zust\u00e4ndig.",
-        "id": "_dLJi0JPP2",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Aufgaben der Lehrer:</strong>",
-        "id": "_lUYH1VU9W",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Verst\u00e4ndnis zeigen, falls Schulsanit\u00e4ter nach den gro\u00dfen Pausen nicht rechtzeitig zum Unterrichtsbeginn erscheinen bzw. bei Rufbereitschaft spontan den Unterricht verlassen m\u00fcssen.",
-        "id": "_QB79OaEIx",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Der Sanit\u00e4tsdienst liefert einen wichtigen Beitrag zum Schulklima und zeugt von sozialer Kompetenz der mitwirkenden Sch\u00fcler. Deshalb ist er als positiv f\u00fcr die Bewertung des Sozialverhaltens zu bedenken. Au\u00dferdem erhalten die Sch\u00fcler einen Eintrag ins Zeugnis, gem\u00e4\u00df \u201e<em>Sch\u00fcler X hat sich mit Engagement im Sanit\u00e4tsdienst f\u00fcr die Schulgemeinschaft eingesetzt\u201c.</em>",
-        "id": "_1wKbp9wiv",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ein Wochenplan mit Angabe der Wochentage und der jeweils eingeteilten Sch\u00fcler h\u00e4ngt im Sanit\u00e4tsraum, sowie im Lehrerclub aus!",
-        "id": "_T2lSngyqx",
-        "type": "paragraph"
-    }
-]
+----
+
+Text: [{"content":{"level":"h2","text":"Das Konzept des Schulsanit\u00e4tsdienstes"},"id":"e63bc1a5-2d8a-4daa-8b17-bb755b6be9e9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der Schulsanit\u00e4tsdienst soll von Sch\u00fclern der Jahrgangsstufe 7 bis 9 vorgenommen werden. Die Teilnahme ist freiwillig. Bei geringer Teilnehmerzahl d\u00fcrfen auch Sch\u00fcler der Jahrgangsstufe 6 teilnehmen.<\/p>"},"id":"97dcd914-fc9a-4cd1-80b4-920081b36e8c","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Sch\u00fcler erhalten eine Ausbildung in Erste Hilfe, speziell zugeschnitten auf den Schulsanit\u00e4tsdienst. Dieser Kurs wird unter anderem vom DRK Kreisverband Ammerland Herrn Aden organisiert und von DRK Ausbildern durchgef\u00fchrt. Die Teilnehmer verpflichten sich mindestens ein ganzes Kalenderjahr den Schulsanit\u00e4tsdienst durchzuf\u00fchren.<\/p>"},"id":"b2689383-b5f6-4243-b00e-2012938e405c","isHidden":false,"type":"text"},{"content":{"text":"<p>Es werden jeweils drei bis vier Sch\u00fcler einem Wochentag zugeordnet. Also sollten insgesamt ca. 15 bis 20 Sch\u00fcler an dem Schulsanit\u00e4tsdienst beteiligt sein.<\/p>"},"id":"6b3386fe-48f3-421a-a45d-d40b2e725595","isHidden":false,"type":"text"},{"content":{"text":"<strong>Aufgaben der Schulsanit\u00e4ter:<\/strong>"},"id":"189c6ede-f3a6-4e97-afe8-d48dd2824c34","isHidden":false,"type":"text"},{"content":{"text":"<ol><li><p>Pausendienst<\/p><\/li><\/ol>"},"id":"213cfbbe-d0b6-403d-a19c-7a49a54f8f6a","isHidden":false,"type":"list"},{"content":{"text":"<p>Die diensthabenden Sch\u00fcler verbringen die Pausen im Sanit\u00e4tsraum und stehen somit zur Verf\u00fcgung, falls Kinder sich verletzen oder leichte Erkrankungen haben. Diese werden entsprechend der Ausbildung der Sanit\u00e4ter versorgt, d.h. sie d\u00fcrfen K\u00fchlelemente oder W\u00e4rmflaschen austeilen, kleine Wunden versorgen usw..<\/p>"},"id":"e1355634-7244-4d19-bd38-bc4bd5650606","isHidden":false,"type":"text"},{"content":{"text":"<p>Des Weiteren haben die Sch\u00fcler die Befugnis, gegebenenfalls Eltern oder andere auf der Notfallliste stehenden Personen anzurufen, um kranke Kinder abholen zu lassen. Au\u00dferdem veranlasst der Schulsanit\u00e4tsdienst die Information der betroffenen Lehrer.<\/p>"},"id":"4807f79b-9085-422b-9ee4-3241b8b26713","isHidden":false,"type":"text"},{"content":{"text":"<p>Zwei Sanit\u00e4ter verbleiben w\u00e4hrend der Pause immer im Sanit\u00e4tszimmer, um kranke Kinder zu betreuen.<\/p>"},"id":"376fcca9-048d-48d8-bb30-ad0a85d86c1d","isHidden":false,"type":"text"},{"content":{"text":"<ol><li><p>Rufbereitschaft<\/p><\/li><\/ol>"},"id":"28e66e98-93a9-4a45-8b4b-f1b5549c5997","isHidden":false,"type":"list"},{"content":{"text":"<p>Falls ein Sch\u00fcler w\u00e4hrend des Unterrichts erkrankt, sollte seine Lehrkraft veranlassen, dass der Schulsanit\u00e4tsdienst \u00fcber die Rufanlage (Walkie Talkie) ausgerufen bzw. benachrichtigt wird. Die Schulsanit\u00e4ter d\u00fcrfen dann ihren Unterricht verlassen, um das erkrankte Kind vom Sekretariat abzuholen und im Sanit\u00e4tsraum zu versorgen und zu betreuen. Um die Betreuung des kranken Kindes zu gew\u00e4hrleisten, sollten mindestens zwei Sch\u00fcler vor Ort sein, falls Eltern oder andere Personen angerufen werden m\u00fcssen.<\/p>"},"id":"5b2eeb5c-7dca-43e5-b1ba-5c60dc378933","isHidden":false,"type":"text"},{"content":{"text":"<ol><li><p>Dokumentation<\/p><\/li><\/ol>"},"id":"e55d5a30-66a7-4ba9-ab87-ab8a14855127","isHidden":false,"type":"list"},{"content":{"text":"Alle Unf\u00e4lle von Sch\u00fclern und Besch\u00e4ftigten m\u00fcssen vom Schulsanit\u00e4tsdienst in einem Verbandbuch vermerkt werden, damit bei Sp\u00e4tfolgen der schulische Zusammenhang nachgewiesen werden kann."},"id":"1066bc1f-3948-4c8c-9f67-70980d94449d","isHidden":false,"type":"text"},{"content":{"text":"Die Angaben dienen als Nachweis, dass die Verletzung\/Erkrankung bei einer versicherten T\u00e4tigkeit ein- bzw. aufgetreten ist."},"id":"dbfef611-acf7-4ce4-8326-06e4fa358977","isHidden":false,"type":"text"},{"content":{"text":"<ol><li>Sonstiges<\/li><\/ol>"},"id":"392280ce-1c06-4153-9a24-4a6673b92179","isHidden":false,"type":"list"},{"content":{"text":"<p>Jeden Tag, vor Beginn der ersten Stunde treffen sich die eingeteilten Schulsanit\u00e4ter im Sanit\u00e4tsraum, um Einzelheiten des Dienstes abzusprechen und die Walkie Talkies o. \u00c4. f\u00fcr die Rufbereitschaft an sich zu nehmen.<\/p>"},"id":"656a28a6-93f1-4330-8f21-bb1f801d6fb5","isHidden":false,"type":"text"},{"content":{"text":"<p>Nach der sechsten werden die Walkie Talkies o. \u00c4. wieder in den Sanit\u00e4tsraum zur\u00fcckgelegt.<\/p>"},"id":"2c259233-f934-4a42-b8c3-9b0ae80dce0e","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Schulsanit\u00e4tsdienst ist auch f\u00fcr den Ordnungsdienst im Sanit\u00e4tsraum zust\u00e4ndig.<\/p>"},"id":"88b19fe1-4c35-404b-9ed2-d6dba89ac0ab","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Aufgaben der Lehrer:<\/strong><\/p>"},"id":"3256f9f1-8672-41b4-b1d5-3b27d681b9e8","isHidden":false,"type":"text"},{"content":{"text":"<p>Verst\u00e4ndnis zeigen, falls Schulsanit\u00e4ter nach den gro\u00dfen Pausen nicht rechtzeitig zum Unterrichtsbeginn erscheinen bzw. bei Rufbereitschaft spontan den Unterricht verlassen m\u00fcssen.<\/p><p>Der Sanit\u00e4tsdienst liefert einen wichtigen Beitrag zum Schulklima und zeugt von sozialer Kompetenz der mitwirkenden Sch\u00fcler. Deshalb ist er als positiv f\u00fcr die Bewertung des Sozialverhaltens zu bedenken. Au\u00dferdem erhalten die Sch\u00fcler einen Eintrag ins Zeugnis, gem\u00e4\u00df \u201e<em>Sch\u00fcler X hat sich mit Engagement im Sanit\u00e4tsdienst f\u00fcr die Schulgemeinschaft eingesetzt\u201c.<\/em><\/p>"},"id":"30c0a331-b7e6-4586-923b-aa9328ce529b","isHidden":false,"type":"text"},{"content":{"text":"<p>Ein Wochenplan mit Angabe der Wochentage und der jeweils eingeteilten Sch\u00fcler h\u00e4ngt im Sanit\u00e4tsraum, sowie im Lehrerclub aus!<\/p>"},"id":"c3b42337-7664-4510-8c62-8dc8a4ca0289","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -145,7 +18,15 @@ Related:
 
 ----
 
+Downloadtitel: 
+
+----
+
 Downloads: 
+
+----
+
+Sidetitel: 
 
 ----
 

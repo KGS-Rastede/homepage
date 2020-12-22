@@ -4,7 +4,7 @@
             <h3 class="card-title"><?= $subpage->title() ?></h3>
 
             <p>
-                <?= $subpage->text()->blocks() ?>
+                <?= $subpage->text()->toBlocks() ?>
             </p>
 
             <div class="container bg-gradient rounded">

@@ -4,7 +4,7 @@
 
 <div class="container">
 
-    <?= $page->beschreibung()->blocks() ?>
+    <?= $page->beschreibung()->toBlocks() ?>
 
     Erreichbar unter:
     <p>

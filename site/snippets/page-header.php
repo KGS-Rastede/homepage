@@ -4,12 +4,16 @@
 
     <div class="p-5 text-center bg-image" style="
             background-image: url('<?= $image->url() ?>');
-            height: 400px;">
+            background-repeat: no-repeat;
+            background-size: cover;
+            height:30vh">
 
     <?php else : ?>
-      <div class="p-5 mt-5 text-center bg-image" style="
-    background-image: url('<?= $kirby->url('assets') ?>/img/banner_eng.jpg');
-    ">
+      <div class="p-5 text-center bg-image" style="
+    background-image: url('<?= $kirby->url('assets') ?>/img/IMG_1343.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:30vh">
       <?php endif ?>
       </div>
 
@@ -25,7 +29,7 @@
       </div>
       <small class="text-muted"><?= $page->subtitle() ?></small>
 
-      <h1 class="display-6 mb-3 ml-3">
+      <h1 class="display-6 mb-3 ms-3">
         <?= $page->heading() ?>
       </h1>
     </div>

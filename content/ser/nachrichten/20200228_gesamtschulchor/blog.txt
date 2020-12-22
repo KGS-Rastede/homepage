@@ -6,64 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Gesamt-Schul-Chor",
-        "id": "_EeLSnB7CQ",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "Auch in diesem Schuljahr wird es wieder den Gesamtschulchor geben.",
-        "id": "_XncA0aEtk",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Geprobt in diesem Schuljahr wieder mittwochs von 18-19.30 Uhr in der Aula an folgenden Tagen:",
-        "id": "_oTDjw4KbG",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Mittwoch, 26.02.20",
-        "id": "_dYXWE69RW",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Mittwoch, 04.03.20",
-        "id": "_MT8gpT0o0",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Mittwoch, 11.03.20",
-        "id": "_LJzifNzTa",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Mittwoch, 18.03.20 (Generalprobe)",
-        "id": "_mAtLFp3UZ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Das Konzert findet dann am 19.03.2020 statt.</strong>",
-        "id": "_qRtSB4B6z",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die Proben und auch der Auftritt machen sehr viel Spa\u00df und alle Sch\u00fclerinnen und Sch\u00fcler, Lehrerinnen und Lehrer und auch alle Eltern sind eingeladen mitzusingen.",
-        "id": "_8EkbxLcTO",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"level":"h2","text":"Gesamt-Schul-Chor"},"id":"d3d119b7-690c-42cd-9805-2b8052f255c3","isHidden":false,"type":"heading"},{"content":{"text":"<p>Auch in diesem Schuljahr wird es wieder den Gesamtschulchor geben.<\/p><p>Geprobt in diesem Schuljahr wieder mittwochs von 18-19.30 Uhr in der Aula an folgenden Tagen:<\/p>"},"id":"5681f28e-b66e-48fe-90a6-23fb8a777d52","isHidden":false,"type":"text"},{"content":{"text":"Mittwoch, 26.02.20"},"id":"3da7beea-595c-4722-a667-9a3df583ae55","isHidden":false,"type":"text"},{"content":{"text":"<p>Mittwoch, 04.03.20<\/p>"},"id":"a1a266f2-3522-4212-99b2-904d9ec98b36","isHidden":false,"type":"text"},{"content":{"text":"Mittwoch, 11.03.20"},"id":"01e9563d-e416-4564-ac81-1ff833753e01","isHidden":false,"type":"text"},{"content":{"text":"Mittwoch, 18.03.20 (Generalprobe)"},"id":"6cca0715-78de-4520-856b-8c1f83ee8f8c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Das Konzert findet dann am 19.03.2020 statt.<\/strong><\/p><p>Die Proben und auch der Auftritt machen sehr viel Spa\u00df und alle Sch\u00fclerinnen und Sch\u00fcler, Lehrerinnen und Lehrer und auch alle Eltern sind eingeladen mitzusingen.<\/p>"},"id":"866aebdc-13ff-4481-9f99-fa3b686677a5","isHidden":false,"type":"text"},{"content":{"text":"Update: Coronabedingt kann der Chor aktuell nicht aktiv sein","citation":null},"id":"55de4879-c6d2-4ce1-808a-1602cb22b9ed","isHidden":false,"type":"quote"}]
 
 ----
 
@@ -71,7 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-02-28 17:15
+Date: 2020-02-28 17:15:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -83,16 +30,16 @@ Tags:
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

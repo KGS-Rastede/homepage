@@ -1,17 +1,71 @@
 /* import only the necessary Bootstrap files */
-@import "../bootstrap/scss/functions";
-@import "../bootstrap/scss/variables";
+@import "../../vendor/twbs/bootstrap/scss/functions";
+@import "../../vendor/twbs/bootstrap/scss/variables";
 
 @import "./functions";
 
 /* -------begin customization-------- */
 
-// /* die Standardfarben festlegen */
-// $theme-colors: (
-// );
+// Basisschriftgröße etwas erhöhen
+$font-size-base: 1.2rem;
 
-/* simply assign the value */
-$body-bg: #fafdf6;
+@font-face{
+    font-family: 'Pangea';
+    src: url('Pangea-LightWeb.woff2');
+    font-style: normal;
+    font-weight: 300;
+
+    src: local('Pangea-LightWeb'), local('Pangea-LightWeb'),
+    url('./Pangea-LightWeb.woff2') format('woff2');
+}
+
+@font-face{
+    font-family: 'Pangea';
+    src: url('./Pangea-RegularWeb.woff2');
+    font-style: normal;
+    font-weight: 400;
+
+    src: local('Pangea-Regular'), local('Pangea-RegularWeb'),
+    url('./Pangea-RegularWeb.woff2') format('woff2');
+}
+
+@font-face{
+    font-family: 'Pangea';
+    src: url('Pangea-MediumWeb.woff2');
+    font-style: normal;
+    font-weight: 500;
+
+    src: local('Pangea-MediumWeb'), local('Pangea-MediumWeb'),
+    url('./Pangea-MediumWeb.woff2') format('woff2');
+}
+
+@font-face{
+    font-family: 'Pangea';
+    src: url('Pangea-SemiBoldWeb.woff2');
+    font-style: normal;
+    font-weight: 600;
+
+    src: local('Pangea-SemiBold'), local('Pangea-SemiBoldWeb'),
+    url('./Pangea-SemiBoldWeb.woff2') format('woff2');
+}
+
+
+@font-face{
+    font-family: 'Pangea';
+    src: url('./Pangea-BoldWeb.woff2');
+    font-style: normal;
+    font-weight: 700;
+
+    src: local('Pangea-BoldWeb'), local('Pangea-BoldWeb'),
+    url('./Pangea-BoldWeb.woff2') format('woff2');
+}
+
+
+
+$font-family-sans-serif: Pangea, Segoe UI, Optima, Arial, sans-serif;
+
+$body-bg: #f4f4f4;
+
 
 // Custom
 
@@ -27,15 +81,18 @@ $theme-colors: (
 );
 
 .navbar-light .navbar-nav a.nav-link {
-    color: #ffffff;
+    color: #f4f4f4 !important;
+    // font-size: 22px;
 }
 
-.dropdown-menu a {
-    color: #ffffff;
-}
+// .dropdown-menu a {
+//     color: #58945d;
+// }
 
 .dropdown-menu {
-    background-color: #0e5499 !important;
+    // Das ist die Farbe des Hintergrundes
+    // vom Dropdownmenu
+    background-color: #f4f4f4 !important;
 }
 
 .main {
@@ -48,6 +105,22 @@ $theme-colors: (
 
 .carousel-caption {
     position: static !important;
+}
+
+.honeypot { //Für Formulare (sehr primitives antispam)
+    position: absolute;
+    left: -9999px;
+}
+
+.text-umbruch { //Speziell für die Navbar
+    white-space: normal !important;
+}
+
+ 
+@media (min-width: 576px) { //Speziell für die Navbar
+    .text-sm-kein-umbruch {
+        white-space: nowrap !important;
+    }
 }
 
 footer {
@@ -309,97 +382,101 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
     }
 }
 
-
 /*==================================
-    Hompage-Startseite
+    Heroimage (Startseite)
 ==================================*/
 
-.svginvert {
-    -webkit-filter: invert(100%); 
-            filter: invert(100%);
-}
-
-
-.hero-image {
-    //source: https://www.w3schools.com/howto/howto_css_hero_image.asp
-    /* Use "linear-gradient" to add a darken background effect to the image */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("kgs-bg.jpg");
-    /* Set a specific height */
-    height: 75%;
-    /* Position and center the image to scale nicely on all screens */
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  }
-  /* Place text in the middle of the image */
-.hero-text {
-//    font-family: "Lucida Console";
-    text-align: justify;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-  }
-
-.ConBoxL {
-    position: absolute;
-    width: 20%;
-    top: 75%;
-    left: 55%;
-}
-.ConBoxR {
-    position: absolute;
+.top-banner-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 350px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    align-content: center;
     justify-content: center;
-    // transform: translate(50%, 50%);
+}
+.top-banner-section .banner-image-div {
+    grid-area: 1 / 1 / 2 / 2;
+}
+.top-banner-section .banner-overlay-div {
+    grid-area: 1 / 1 / 2 / 2;
+}
+.top-banner-section .banner-text-div {
+    grid-area: 1 / 1 / 2 / 2;
+}
 
-    // border-top-right-radius: 10px;
-    // box-shadow: 0 14px 26px rgba(0,0,0,0.04);
-    // overflow: hidden;
-    // display: flex;
-    // flex-direction: column;
-    // align-items: center;
-    // text-decoration: none;
-}
-.hovereffekt {
-    background: #0e5499;
-    transition: all 0.3s ease-out;
-}
-.imagez {
-    opacity: 1;
-    // display: block;
+.banner-image {
+    display: grid;
+    min-width: 350px;
     width: 100%;
-    height: auto;
-    transition: .5s ease;
-    backface-visibility: hidden;
+    height: 100%;
+    object-fit: cover;
 }
-.navbutton{
-    width: 300px;
-    height: 50%;
+
+.banner-overlay-div {
+    display: grid;
+    max-width: 100%;
+    background: black;
+    background: linear-gradient(60deg, rgba(0, 0, 0, 0.7777485994) 30%, rgba(255, 255, 255, 0) 100%);
 }
-.setText{
-    text-align: center; 
-    transform: translate(0, -200%); 
-    color: #ffffff;
+
+.banner-text-div {
+    display: grid;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
 }
-.hovereffekt:hover .imagez{
-    opacity: 0.3;
+
+.banner-h1-text {
+    font-size: calc(26pt + 0.15vw);
+    letter-spacing: 0.05em;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: white;
 }
-.hovereffekt:hover .imagez{
-    opacity: 0.3;
+
+.banner-body-text {
+    font-size: calc(20pt + 0.15vw);
+    margin-top: 1.5em;
+    color: white;
+    text-decoration: none;
 }
-.middle {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.banner-body-text:hover {
+    color: white;
+}
+.banner-body-text:visited {
+    color: white;
+}
+.banner-body-text:active {
+    color: white;
+}
+
+.banner-btn {
+    margin-top: 1em;
+}
+
+.banner-btn-item {
+    font-size: calc(8pt + 0.15vw);
+    padding-top: calc(0.5em + 0.08vw);
+    padding-bottom: calc(0.5em + 0.08vw);
+    padding-left: calc(0.5em + 0.08vw);
+    padding-right: calc(0.5em + 0.08vw);
+    color: blue;
+    background-color: white;
     text-align: center;
-    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 1px solid white;
+}
+.banner-btn-item:link {
+    text-decoration: none;
+}
+.banner-btn-item:visited {
+    text-decoration: none;
 }
 
 /* -------end customization-------- */
 
 /* finally, import Bootstrap to set the changes! */
-@import "../bootstrap/scss/bootstrap";
+@import "../../vendor/twbs/bootstrap/scss/bootstrap";
+

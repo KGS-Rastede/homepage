@@ -3,8 +3,8 @@
 
 
 <p class="m-2"><?= $page->Subtitletext1() ?></p>
-<div class="row ml-1 mr-1">
-    <div class="col-lg-4 ml-auto mr-auto">
+<div class="row ms-1 me-1">
+    <div class="col-lg-4 ms-auto me-auto">
         <div class="card">
             <div class="card-header card-header-danger">
                 <h4 class="card-title">Hauptschule</h4>
@@ -23,7 +23,7 @@
                                     <tr>
                                         <td><?= $liste->name() ?>
                                         </td>
-                                        <td class="td-actions text-right">
+                                        <td class="td-actions text-end">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                     <svg class="bi" width="24" height="24">
@@ -42,7 +42,7 @@
         </div>
     </div>
 
-    <div class="col-lg-4 ml-auto mr-auto">
+    <div class="col-lg-4 ms-auto me-auto">
         <div class="card">
             <div class="card-header card-header-danger">
                 <h4 class="card-title">Realschule</h4>
@@ -61,7 +61,7 @@
                                     <tr>
                                         <td><?= $liste->name() ?>
                                         </td>
-                                        <td class="td-actions text-right">
+                                        <td class="td-actions text-end">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                     <svg class="bi" width="24" height="24">
@@ -80,7 +80,7 @@
         </div>
     </div>
 
-    <div class="col-lg-4 ml-auto mr-auto">
+    <div class="col-lg-4 ms-auto me-auto">
         <div class="card">
             <div class="card-header card-header-danger">
                 <h4 class="card-title">Gymnasium</h4>
@@ -100,7 +100,7 @@
                                         <tr>
                                             <td><?= $liste->name() ?>
                                             </td>
-                                            <td class="td-actions text-right">
+                                            <td class="td-actions text-end">
                                                 <a href="<?= $liste->link()->toFile()->url() ?>">
                                                     <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
                                                         <svg class="bi" width="24" height="24">

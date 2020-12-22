@@ -25,7 +25,7 @@ columns:
             label: Untertitel
           text:
             label: Inhalt
-            type: editor
+            type: blocks
           gallery:
             type: files
             uploads: blogbild

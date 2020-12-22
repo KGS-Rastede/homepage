@@ -1,0 +1,45 @@
+Title: BIZ
+
+----
+
+Heading: Berufsinformationszentren in Oldenburg
+
+----
+
+Text: [{"content":{"text":"<p>Die Berufsinformationszentren (BIZ) in Oldenburg und Wilhelmshaven sind zur Zeit nicht f\u00fcr den Publikumsverkehr ge\u00f6ffnet.<\/p><p><strong>Aktuelle Information zur Erreichbarkeit<\/strong><\/p><p>Aufgrund der Corona-Pandemie sind die <strong>Berufsberater der Agentur f\u00fcr Arbeit<\/strong> \u00fcberwiegend <strong>online<\/strong> und <strong>telefonisch<\/strong> zu erreichen.<\/p><p>F\u00fcr ein pers\u00f6nliches Beratungsgespr\u00e4ch in der Agentur gibt es weiterhin Einschr\u00e4nkungen, die lokal unterschiedlich sind.<\/p><p>Es gibt aber immer die M\u00f6glichkeit, mit einer Berufsberaterin oder einem Berufsberater ein <strong>telefonisches Beratungsgespr\u00e4ch<\/strong> zu f\u00fchren.<\/p><p>Einen Termin f\u00fcr ein Beratungsgespr\u00e4ch kann u. a. telefonisch erfolgen unter <strong>0800 4 555500<\/strong> (geb\u00fchrenfrei).<\/p>"},"id":"87f0a8a9-823b-4046-b990-4c8585f7ecb6","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-12-04 16:15:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: 
+
+----
+
+Tags: SER
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

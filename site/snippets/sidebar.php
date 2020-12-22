@@ -3,7 +3,7 @@ $sideE = $page->sidebar()->isNotEmpty();
 $relaE = $page->related()->isNotEmpty();
 $downE = $page->downloads()->isNotEmpty();
 if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
-    <div class="container"><?= $page->text()->blocks() ?></div>
+    <div class="container"><?= $page->text()->toBlocks() ?></div>
 
     <div class="container">
         <hr class="mt-4 mb-4">
@@ -18,7 +18,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
                 <?php endif ?>
                         <div class="card mb-3">
                             <h5 class="card-title">
-                                <?= $page->sidetitel()->or("Weiter Inforamtionen") ?>
+                                <?= $page->sidetitel()->or("Weitere Informationen") ?>
                             </h5>
                             <div class="card-body">
                                 <ul class="list-group list-group-flush">
@@ -36,7 +36,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
 
             <?php if ($relaE) :
                 if ($sideE) : //wenn nicht erstes Objekt ?>
-                    <div class="col-12 ml-lg-3 flex-fill">
+                    <div class="col-12 ms-lg-3 flex-fill">
                 <?php elseif ($downE) : //wenn trotzdem nicht alleine ?>
                     <div class="col-12 flex-fill">
                 <?php else : //wenn beide leer sinds ?>
@@ -63,7 +63,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
 
             <?php if ($downE) :
                 if ($sideE or $relaE) : //wenn in einem von beidem etwas drin ist ?>
-                    <div class="col-12 ml-lg-3 flex-fill">
+                    <div class="col-12 ms-lg-3 flex-fill">
                 <?php else : //wenn beide leer sind ?>
                     <div class="col-12 col-lg-5">
                 <?php endif ?>
@@ -92,5 +92,5 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
     </div>
 
 <?php else : //wenn alle Teile leer sind ?>
-    <div class="container"><?= $page->text()->blocks() ?></div>
+    <div class="container"><?= $page->text()->toBlocks() ?></div>
 <?php endif ?>

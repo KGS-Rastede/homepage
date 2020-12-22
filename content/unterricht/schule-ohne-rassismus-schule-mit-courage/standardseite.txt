@@ -2,7 +2,15 @@ Title: Schule ohne Rassismus - Schule mit Courage
 
 ----
 
-Text: Platzhalter
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h1","text":"Diese Seite ist noch nicht fertig"},"id":"64e41501-fc4a-4b88-81bf-c36220ea7b06","isHidden":false,"type":"heading"},{"content":{"text":"<p><\/p>"},"id":"baf1106d-3b6e-4770-b1a7-ba4bad571adc","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["baustelle.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"6b6f7da8-4f9f-4b0a-83db-c81cdb84d947","isHidden":false,"type":"image"}]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -10,12 +18,20 @@ Related:
 
 ----
 
+Downloadtitel: 
+
+----
+
 Downloads: 
 
 ----
 
-Toggle: false
+Sidetitel: 
 
 ----
 
 Sidebar: 
+
+----
+
+Toggle: false

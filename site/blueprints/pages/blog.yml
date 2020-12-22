@@ -28,7 +28,7 @@ columns:
             label: Untertitel
           text:
             label: Inhalt
-            type: editor
+            type: blocks
           gallery:
             type: files
             uploads: blogbild
@@ -50,11 +50,13 @@ columns:
           date:
             label: Veröffentlicht am
             type: date
+            display: D. MMMM YYYY
             time: true
             default: now
           datumStartseite:
             label: Aus Startseite bis zum...
             type: date
+            display: D. MMMM YYYY
             time: true
             default: now + 4 month
             help: Wenn hier kein Datum steht wird dieser Artikel nicht auf der Startseite angezeigt.
@@ -101,6 +103,7 @@ columns:
             label: Zugehörige Dateien
             help: Hier können beliebige Dateien für den Download bereitgestellt werden
             type: files
+            uploads: datei
           fotoansicht:
             label: Fotos anzeigen
             type: select

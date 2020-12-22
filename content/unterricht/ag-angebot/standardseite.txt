@@ -1,0 +1,60 @@
+Title: Das AG-Angebot
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Diese Seite ist noch nicht fertig",
+        "id": "_qmhrl42h0",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_c38dkru6b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/unterricht+ag-angebot/files/baustelle.jpg",
+            "id": "unterricht/ag-angebot/baustelle.jpg",
+            "filename": "baustelle.jpg",
+            "ratio": 1.335113484646195,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_8wq2584yl",
+        "type": "image"
+    }
+]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 

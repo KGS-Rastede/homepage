@@ -6,22 +6,7 @@ Heading: 20 years of Olmun 23.06.- 26.06.2020 - Youth can change the world
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "<a href=\"https://www.olmun.org/Team/Secretariat/Secretary+General/\">https://www.olmun.org/Team/Secretariat/Secretary+General/</a>",
-        "id": "_j5mmz9bex",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Macht Euch bereit für die die nächste Challenge !!",
-        "id": "_xucont4sc",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p><a href=\"https:\/\/www.olmun.org\/Team\/Secretariat\/Secretary+General\/\" rel=\"noopener noreferrer nofollow\">https:\/\/www.olmun.org\/Team\/Secretariat\/Secretary+General\/<\/a><\/p>"},"id":"57e262f0-3e61-4394-96d1-9325dbb1ca99","isHidden":false,"type":"text"},{"content":{"text":"<p>Macht Euch bereit f\u00fcr die die n\u00e4chste Challenge !!<\/p>"},"id":"c6475d79-8734-4956-9794-52da945aa0b3","isHidden":false,"type":"text"}]
 
 ----
 
@@ -31,7 +16,7 @@ Gallery:
 
 ----
 
-Date: 2020-03-22 15:15
+Date: 2020-03-22 15:15:00
 
 ----
 
@@ -47,10 +32,6 @@ Tags: Englisch
 
 ----
 
-Immer-sichtbar: false
-
-----
-
 Downloads:
 
 - anne_klein.jpg
@@ -59,6 +40,10 @@ Downloads:
 ----
 
 Fotoansicht: gallery
+
+----
+
+Immer-sichtbar: false
 
 ----
 

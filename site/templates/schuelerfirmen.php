@@ -21,9 +21,9 @@
           <h3 class="card-title"><?= $sf->Title() ?></h3>
           <p class="card-text"><?= $sf->Heading() ?></p>
           <p class="card-text">
-              <?= $sf->Beschreibung()->blocks()->excerpt(300) ?>
+              <?= $sf->Beschreibung()->toBlocks()->excerpt(300) ?>
           </p>
-          <p class="text-right">
+          <p class="text-end">
               <a href="<?= $sf->url() ?>">weiterlesen...</a>
           </p>
         </div>      

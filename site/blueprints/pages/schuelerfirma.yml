@@ -12,7 +12,7 @@ columns:
             label: Untertitel
           beschreibung:
             label: Inhalt
-            type: editor
+            type: blocks
 
   sidebar:
     width: 1/3

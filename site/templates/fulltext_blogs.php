@@ -13,7 +13,7 @@
             </div>
         </div>
 
-        <?= $article->text()->blocks() ?>
+        <?= $article->text()->toBlocks() ?>
     </div>
     <?php endforeach; ?>
 </div>

@@ -42,15 +42,12 @@
 <?php endif ?>
 
 
-<?php if (page('blogs')->children()->listed()->filterBy('tags', $page->haupttag(), ',')->isNotEmpty()) : ?>
+<?php if (collection('blogs-haupttag')->isNotEmpty()) : ?>
 
   <h2>Aktuelles aus dem Fach</h2>
 
   <?php
-  foreach (page('blogs')
-    ->children()
-    ->listed()
-    ->filterBy('tags', $page->haupttag(), ',')
+  foreach (collection('blogs-haupttag')
     ->flip() as $subpage) :
 
     snippet('blogkarte', ['subpage' => $subpage]);

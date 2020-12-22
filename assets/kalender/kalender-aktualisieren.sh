@@ -1,1 +1,1 @@
-curl https://ssl.kgs-rastede.de/owncloud/remote.php/dav/public-calendars/BbCYgtNfeJcc2qk5?export > schuljahresplaner.ics && php ics2json.php
+curl https://kgs-rastede.eu/iserv/public/calendar?key=1bad7fec91a3d07904543f4476774fd1 > public.ics && php ics2json.php

@@ -6,46 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Können wir den Apfeltag unter Coronabedingungen überhaupt stattfinden lassen oder sollte er wie so vieles andere besser ausfallen? Denn- die Schüler*innen probieren Äpfel und sie stellen Saft her. Ist das mit unserem Hygienekonzept eigentlich vereinbar? Wir haben uns dann dafür entschieden und einiges verändert. Und der Apfeltag war wieder ein voller Erfolg. Die meisten Schüler*innen waren sehr zufrieden, das Wetter super und es gab viele Apfelspenden von Eltern, Großeltern, Nachbarn und Lehrkräften.",
-        "id": "_FHDgXoIAF",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Zwar musste der Apfeltest in der Klasse dieses Jahr ausfallen und der frische Saft durfte nicht getrunken werden, aber dafür hat jede*r den Test zuhause durchgeführt und der Saft wurde dieses Mal komplett pasteurisiert. 17 Dreiliter Bags sind dabei herausgekommen! Die werden jetzt an die beteiligten Klassen verteilt und können dann im Laufe des Schuljahres genossen werden.",
-        "id": "_e6217bs3x",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die anderen Stationen, allen voran die Apfelpresse, konnten wie immer stattfinden. In den Klassen wurden fleißig Äpfel kleingeschnitten, die dann unter Anleitung von Herrn Breuker von der Schüler*innen mit einer Raspel zerkleinert wurden und mit einer hydraulischen Presse zu Apfelsaft gepresst.",
-        "id": "_808o1w23n",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Frau Bürig erklärte das Leben eines Apfelbaumes im Jahreslauf und stellte verwandte Obstsorten vor.",
-        "id": "_f6K0ojgtz",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Herr Arzenscheg und Herr Frankenberg führten mit den Klassen Experimente rund um den Apfel durch und Frau Kühn demonstrierte das Haltbarmachen des Saftes und erklärte die Gründe dafür.",
-        "id": "_it1wyghLD",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Im Klassenraum beschäftigten sich die Schüler*innen mit den Inhaltsstoffen und dem Aufbau eines Apfels und ansonsten hatten sie viel Spaß und die Möglichkeit viele der gespendeten Äpfel zu probieren.",
-        "id": "_RE8DPXYll",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>K\u00f6nnen wir den Apfeltag unter Coronabedingungen \u00fcberhaupt stattfinden lassen oder sollte er wie so vieles andere besser ausfallen? Denn- die Sch\u00fcler*innen probieren \u00c4pfel und sie stellen Saft her. Ist das mit unserem Hygienekonzept eigentlich vereinbar? Wir haben uns dann daf\u00fcr entschieden und einiges ver\u00e4ndert. Und der Apfeltag war wieder ein voller Erfolg. Die meisten Sch\u00fcler*innen waren sehr zufrieden, das Wetter super und es gab viele Apfelspenden von Eltern, Gro\u00dfeltern, Nachbarn und Lehrkr\u00e4ften.<\/p>"},"id":"2f371753-1fb2-4f3d-88bc-84a54f437bb9","isHidden":false,"type":"text"},{"content":{"text":"<p>Zwar musste der Apfeltest in der Klasse dieses Jahr ausfallen und der frische Saft durfte nicht getrunken werden, aber daf\u00fcr hat jede*r den Test zuhause durchgef\u00fchrt und der Saft wurde dieses Mal komplett pasteurisiert. 17 Dreiliter Bags sind dabei herausgekommen! Die werden jetzt an die beteiligten Klassen verteilt und k\u00f6nnen dann im Laufe des Schuljahres genossen werden.<\/p>"},"id":"b3d8232d-e7bd-4edf-9a3b-191b0dbb14f9","isHidden":false,"type":"text"},{"content":{"text":"<p>Die anderen Stationen, allen voran die Apfelpresse, konnten wie immer stattfinden. In den Klassen wurden flei\u00dfig \u00c4pfel kleingeschnitten, die dann unter Anleitung von Herrn Breuker von der Sch\u00fcler*innen mit einer Raspel zerkleinert wurden und mit einer hydraulischen Presse zu Apfelsaft gepresst.<\/p><p>Frau B\u00fcrig erkl\u00e4rte das Leben eines Apfelbaumes im Jahreslauf und stellte verwandte Obstsorten vor.<\/p><p>Herr Arzenscheg und Herr Frankenberg f\u00fchrten mit den Klassen Experimente rund um den Apfel durch und Frau K\u00fchn demonstrierte das Haltbarmachen des Saftes und erkl\u00e4rte die Gr\u00fcnde daf\u00fcr.<\/p>"},"id":"d818e794-8347-4a88-b10c-055e85b5650f","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Klassenraum besch\u00e4ftigten sich die Sch\u00fcler*innen mit den Inhaltsstoffen und dem Aufbau eines Apfels und ansonsten hatten sie viel Spa\u00df und die M\u00f6glichkeit viele der gespendeten \u00c4pfel zu probieren.<\/p>"},"id":"62f70338-331c-41c4-bb8b-cdf6140341d0","isHidden":false,"type":"text"}]
 
 ----
 
@@ -66,11 +27,11 @@ Gallery:
 
 ----
 
-Date: 2020-10-25 08:00
+Date: 2020-10-25 08:00:00
 
 ----
 
-Datumstartseite: 2021-02-25 08:00
+Datumstartseite: 2021-02-25 08:00:00
 
 ----
 

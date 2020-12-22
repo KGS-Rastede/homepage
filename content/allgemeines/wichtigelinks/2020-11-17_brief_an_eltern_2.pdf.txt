@@ -1,0 +1,9 @@
+Anzeigename: Brief des Ministers an die Eltern
+
+----
+
+Startseite: true
+
+----
+
+Template: pdfs

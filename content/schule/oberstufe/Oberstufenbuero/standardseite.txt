@@ -1,0 +1,37 @@
+Title: Oberstufenbüro
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"Bei Fragen, Problemen oder \u00e4hnlichem helfen wir gerne weiter. Sie finden uns im Raum 220, k\u00f6nnen Sich aber gerne auch per Email oder telefonisch bei uns melden."},"id":"5d554264-8476-4787-8c0f-85132d1947e8","isHidden":false,"type":"text"},{"content":{"text":"<p>Telefonnummer: 04402 - 9264 69<\/p>"},"id":"65cc6466-bbd1-4ef7-9cae-2e4f04f6c113","isHidden":false,"type":"text"},{"content":{"text":"<p>Joachim Diekmann<\/p>"},"id":"635bc71c-2764-477e-b177-23ce16f575d7","isHidden":false,"type":"text"},{"content":{"text":"(email: dk@kgs-rastede.de)"},"id":"c6855a3d-a688-4d37-8971-826d83b8208c","isHidden":false,"type":"markdown"},{"content":{"text":"Hilke Garbe"},"id":"b6179dc7-ef88-4b1a-9e07-bbd462a40aa9","isHidden":false,"type":"text"},{"content":{"text":"(email:  gb@kgs-rastede.de)"},"id":"65e8b313-26a7-4330-9441-9b8c484e0e76","isHidden":false,"type":"markdown"},{"content":{"text":"<p><\/p>"},"id":"023303bd-83d1-43c0-836f-0a2266661608","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"aa5778f8-04a8-4942-a459-ce5a3e724e2c","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"3a642f29-d5f0-4bd8-bd21-b7b836171c67","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"a2c1c4ea-1607-4bbb-a68b-5b410493e742","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"3fa4b9ff-60cc-46cd-b019-f4f292bf1cb6","isHidden":false,"type":"text"},{"content":{"text":""},"id":"6594bcd8-fe07-4403-8a39-cdf6a6f2174d","isHidden":false,"type":"text"},{"content":{"text":""},"id":"e7e5725b-40f4-489a-afec-e662d4cbaa21","isHidden":false,"type":"text"},{"content":{"text":""},"id":"3a2d4fe2-237a-4757-afd6-7d9cbd86185b","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: true

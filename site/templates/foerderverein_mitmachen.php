@@ -3,7 +3,7 @@
 <?php snippet('page-header') ?>
 
 <div class="container">
-    <?= $page->inhalt()->blocks() ?>
+    <?= $page->inhalt()->toBlocks() ?>
 
     <form action="" method="post">
     <div class="col-md-6">

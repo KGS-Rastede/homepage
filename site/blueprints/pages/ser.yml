@@ -15,7 +15,7 @@ columns:
         label: Untertitel
       text:
         label: Beschreibung des Schulelternrats
-        type: editor
+        type: blocks
       Mitglieder:
         label: Mitglieder 
         type: structure

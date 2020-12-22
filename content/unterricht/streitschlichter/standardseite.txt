@@ -2,7 +2,462 @@ Title: Streitschlichter
 
 ----
 
-Text: 
+Heading: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Die Streitschlichter sind für euch da!</strong>",
+        "id": "_BPipgKdfB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_vtWlBrv9P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/unterricht+streitschlichter/files/streitschlichter1.jpg",
+            "id": "unterricht/streitschlichter/streitschlichter1.jpg",
+            "filename": "streitschlichter1.jpg",
+            "ratio": 3.354651162790698,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_g6fq1f34e",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Quelle: o. A., <em>Streitschlichter</em>, <a title=\"http://www.freibuehlschule.de/index.php/streitschlichter.html\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://www.freibuehlschule.de/index.php/streitschlichter.html\">http://www.freibuehlschule.de/index.php/streitschlichter.html</a>, abgerufen am 21.03.2019.",
+        "id": "_ffx1rSgwi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Manchmal ist es einfach verzwickt und wer kennt nicht eine dieser Situationen: Ihr habt Streit und findet alleine keine Lösung? Zwei oder mehrere Leute geraten immer wieder aneinander. Meist sind die Gründe nur irgendwelche Kleinigkeiten, die dem anderen gar nicht verständlich sind. Manchmal kann aber auch viel mehr dahinter stecken, als man auf den ersten Blick erkennen kann.",
+        "id": "_WFodI7VVe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_pUN8eGKKA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Falls ihr euch in einer dieser Situationen wiederfindet, können wir euch helfen, selbstständig eine Lösung für euer Problem zu finden!",
+        "id": "_zqZMIbir1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_moa187izn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir sind die Streitschlichter der KGS Rastede (auch <em>Mediatoren</em> genannt) und führen, in einem Streitfall, ein Mediationsgespräch. Das soll euren <strong>Konflikt klären </strong>und euch zu <strong>eigenen Lösungen eures Problems </strong>führen. Das Gespräch ist natürlich streng <strong>vertraulich</strong>! Niemand, der nicht an diesem Gespräch beteiligt war, wird erfahren, worum es darin ging.",
+        "id": "_AWh3Dh7Et",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_GbTKriveE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Innerhalb dieses Gespräches finden wir also <strong>gemeinsam </strong>eine Lösung, wobei wir aber keine Partei für eine Seite übernehmen werden oder als „Richter“, die <em>eine </em>Lösung vorgeben werden.",
+        "id": "_8slCkYZPD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Das Ziel </strong>einer Streitschlichtung / Mediation ist es auch, dass <strong>alle Streitparteien dann mit der Lösung zufrieden sind</strong>.",
+        "id": "_rzi5qjjh1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_7kmWacW7m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Herzliche Grüße",
+        "id": "_UsNJ7XlRx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Eurer Streitschlichterteam der KGS Rastede</em>",
+        "id": "_TPEulkX1B",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_XnT4MmKgj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_beqWKSvG7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Ausgebildete Streitschlichter in der Feldbreite:</strong>",
+        "id": "_1ufHXFTZ5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>(Gruppenbild)</strong>",
+        "id": "_o3bdifub3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Lil Buggenthin (Einzelfoto)",
+        "id": "_tZp9gQCtq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Emma Becker (Einzelfoto)",
+        "id": "_USPaze29J",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Finley Marhol (Einzelfoto)",
+        "id": "_LfelBJIoQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ihr findet und in der Feldbreite im <strong>Raum 16a.</strong>",
+        "id": "_TFulLEFWI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_r4DezKpG7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unsere Termine sind:",
+        "id": "_q1jba35wv",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>dienstags in der 2. großen Pause</strong>",
+        "id": "_UiUsEhUpB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>&nbsp;und freitags in der 1. großen Pause</strong>",
+        "id": "_v1kyp1b00",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_OnRd4x2jw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_jeIbCCQuz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Streitschlichter AG",
+        "id": "_c06dfpolo",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Streiten ist gut! Sich versöhnen ist besser!</strong>",
+        "id": "_ftpUmCuPI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wenn es Konflikte gibt, sind dafür die Streitschlichter und Streitschlichterinnen da, damit jeder Konflikt friedlich, vertraulich und zur Zufriedenheit aller Beteiligten gelöst werden kann. Die gegenseitige Wertschätzung steht dabei im Vordergrund.",
+        "id": "_2l2gagBUS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_056ZxF7rN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Beschreibung des AG-Konzeptes</strong>",
+        "id": "_Dn1XViR1I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Schüler-Streitschlichterprogramm basiert auf der Idee, dass <strong>Konflikte nachhaltig durch Schüler selbst</strong> als durch die Unterstützung der Streitschlichter und Streitschlichterinnen gelöst werden können.",
+        "id": "_suiECh16P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_z0nf6rwtw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der AG werdet ihr zu Streitschlichtern und Streitschlichterinnen ausgebildet und lernt, wie ihr die Streitparteien durch einen Konflikt lotsen könnt. Dabei trainiert ihr kommunikative Fähigkeiten, werdet selbstsicherer und lernt, die Interessen der jeweiligen Streitenden zu formulieren.",
+        "id": "_9GTC0MCA6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die AG findet <strong>einmal pro Woche am Donnerstagnachmittag</strong> statt und dauert bis zu den Osterferien. Vor den Osterferien werdet ihr auf einer <strong>dreitägigen AG-Fahrt </strong>eure bis dahin erlernten Fähigkeiten vertiefen und eure <strong>Prüfung zum Streitschlichter mit einem Zertifikat</strong> ablegen.",
+        "id": "_EIOabFmEo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+        "id": "_5tmbgNLOE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_8Kd9bMvHx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_rtl0FhG9P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die AG ist in folgende Grundlagen aufgeteilt:",
+        "id": "_0m3ai3drp",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_N5QJt4XyV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "1. Grundlage:&nbsp; Arbeit mit dem Begriff&nbsp;„Konflikt“",
+        "id": "_2zuZm3AS1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Was ist ein Konflikt?",
+        "id": "_NahA87f7L",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Was ist eine Schlichtung / eine Mediation?",
+        "id": "_wSoVyC4qH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Welche Fähigkeiten benötigt ein Schlichter eine Streitschlichterin?",
+        "id": "_ssqOqVjGi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie läuft eine Schlichtung ab?",
+        "id": "_rj6n50XWg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_bl2UDYGkv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2. Grundlage: Arbeit mit dem Begriff „Gefühle“",
+        "id": "_n1SHCADs9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie kann ich Gefühle wahrnehmen und benennen?",
+        "id": "_UkYDHVfiq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Was bewirken Sprache und Körpersprache?",
+        "id": "_xgU2SYrd6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie gehe ich mit Gefühlen um?",
+        "id": "_NuldTKAtB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_0pyQtCDlF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "3. Grundlage: Techniken der Gesprächsführung",
+        "id": "_obrIEPHKV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Was bedeutet ‚Aktives Zuhören’ / ,Gutes Zuhören‘?",
+        "id": "_qUhzhIIYa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie kann ich ein Konfliktgespräch führen?",
+        "id": "_LetApJcaE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie sollten Fragen in einem Gespräch an die Streitenden gestellt werden?",
+        "id": "_O2UPLhJC4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_VGnyn0UyB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "4. Grundlage: Üben von Schlichtungsgesprächen",
+        "id": "_hIkVwFrZP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hier übt ihr mit verschiedenen Fallbeispielen eine Streitschlichtung durchzuführen.",
+        "id": "_yeMB2nKM0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_X3R5WFqLz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nach der erfolgreichen Ausbildung in der AG könnt ihr dann als Streitschlichter/ Streitschlichterinnen in Teams Konflikte von Mitschülerinnen und Mitschülern lösen. Ihr habt dann Termine in den großen Pausen, zu denen die jeweiligen Streitenden zu euch in unserem Raum 16a in der Feldbreite kommen können.",
+        "id": "_PdpGGCYEk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_lbFTaD8hG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Leitende Lehrer der AG",
+        "id": "_zyotucikp",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Nils Husmann (HUS)",
+        "id": "_9Vg8CuIr4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jana Dietl (DTL)",
+        "id": "_x07ysc07n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_XlcmlNfM0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "FOLGT NOCH:",
+        "id": "_aikRXxdui",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Momentan befinden sich folgende Schülerinnen und Schüler in der Ausbildung zu Streitschlichtern und Streitschlichterinnen:",
+        "id": "_FnFUMXvHW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "&nbsp;",
+        "id": "_bkl754qAk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "(Gruppenbild + Namen)",
+        "id": "_Qie5CdxYU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_qaprpigxu",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -10,12 +465,20 @@ Related:
 
 ----
 
+Downloadtitel: 
+
+----
+
 Downloads: 
 
 ----
 
-Toggle: false
+Sidetitel: 
 
 ----
 
 Sidebar: 
+
+----
+
+Toggle: false

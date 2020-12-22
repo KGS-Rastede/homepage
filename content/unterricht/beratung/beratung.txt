@@ -2,55 +2,141 @@ Title: Beratungskonzept
 
 ----
 
+Heading: 
+
+----
+
 Text:
 
-Die Beratung ist freiwillig und unterliegt der Schweigepflicht!
+[
+    {
+        "attrs": [],
+        "content": "Die Beratung ist freiwillig und unterliegt der Schweigepflicht!",
+        "id": "_vMNqBcQe0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir bieten an:",
+        "id": "_Kd9gS63hQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Beratung für Schülerinnen und Schüler",
+        "id": "_sJNIvYlMf",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "unter Anderem bei",
+        "id": "_MZH88OfME",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Stress mit Mitschülerinnen und Mitschülern",
+        "id": "_I48cYjDZF",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Angst vor Klassenarbeiten",
+        "id": "_rwgLU8kzi",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Lernschwierigkeiten",
+        "id": "_6cRcHV68p",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Konflikten mit Lehrkräften",
+        "id": "_6mK4Q9orz",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Ausgrenzung durch Mitschülerinnen und Mitschüler",
+        "id": "_x5c5c14oA",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_fdMDucaPL",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Mobbing",
+        "id": "_swRSvEnqb",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Konflikten im Elternhaus",
+        "id": "_esl1k5LAe",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Beratung für Eltern",
+        "id": "_hhqiL68fV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "u.a.",
+        "id": "_qTSukC9j3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "wenn Ihr Kind nur noch ungern oder mit Bauchschmerzen zur Schule geht<br>bei Problemen mit Mitschülerinnen und Mitschülern<br>Weitervermittlung an andere beratende Institutionen oder TherapeutInnen z.B. bei selbstverletzendem Verhalten oder Essstörungen",
+        "id": "_uHmYNVlrF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Beratung für Lehrkräfte",
+        "id": "_SVUBINI3d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "u.a. bei",
+        "id": "_5aG02z3Kz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "auffälligem Verhalten von Schülerinnen und Schülern<br>bei Konflikten mit Schülerinnen und Schülern<br>Mobbing",
+        "id": "_d1fcGN2ez",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sprechzeiten: siehe Aushang am Beratungsraum R. 219 Wilhelmstraße &amp; R 16A Feldbreite",
+        "id": "_ycUXpXZ38",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kontakt: per Email unter eh@kgs-rastede oder ky@kgs-rastede.de.",
+        "id": "_nB1PX5fwJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "No Blame Approach - Flyer-",
+        "id": "_BhUIagzrr",
+        "type": "paragraph"
+    }
+]
 
- 
+----
 
-Wir bieten an:
-
- - Beratung für Schülerinnen und Schüler
-
-unter Anderem bei
-- 
-- -     Stress mit Mitschülerinnen und Mitschülern
-- -     Angst vor Klassenarbeiten
-- -     Lernschwierigkeiten
-- -     Konflikten mit Lehrkräften
--      Ausgrenzung durch Mitschülerinnen und Mitschüler
-- 
--     Mobbing
--     Konflikten im Elternhaus
-
- 
-
- 
-
-Beratung für Eltern
-
-u.a.
-
-    wenn Ihr Kind nur noch ungern oder mit Bauchschmerzen zur Schule geht
-    bei Problemen mit Mitschülerinnen und Mitschülern
-    Weitervermittlung an andere beratende Institutionen oder TherapeutInnen z.B. bei selbstverletzendem Verhalten oder Essstörungen
-
- 
-
-Beratung für Lehrkräfte
-
- 
-
-u.a. bei
-
-    auffälligem Verhalten von Schülerinnen und Schülern
-    bei Konflikten mit Schülerinnen und Schülern
-    Mobbing
-
-Sprechzeiten: siehe Aushang am Beratungsraum R. 219 Wilhelmstraße & R 16A Feldbreite
-
-Kontakt: per Email unter eh@kgs-rastede oder ky@kgs-rastede.de.
-
- 
-
-No Blame Approach - Flyer-
+Downloads: 

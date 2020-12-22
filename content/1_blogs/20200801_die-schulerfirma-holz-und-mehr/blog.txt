@@ -6,22 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Verkauf von selbst hergestelltem Spielzeug oder \u00c4hnlichem aus Holz; Holzsitzb\u00e4nke und Arbeitsmaterialien f\u00fcr Schulen; weitere Produkte auf Anfrage (Schulhofgestaltung: Basketballfeld aufzeichnen);",
-        "id": "_uafAJautT",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Fachliche und praktische Grundkenntnisse in der Holzbearbeitung sind f\u00fcr die Kunden-Auftragsannahme wichtig und werden erlernt (einschlie\u00dflich der Programmbenutzung von 3D-CAD-Software f\u00fcr Produktentwicklung und Konstruktion ---&gt; Autodesk Inventor)",
-        "id": "_C1scKh91a",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Verkauf von selbst hergestelltem Spielzeug oder \u00c4hnlichem aus Holz; Holzsitzb\u00e4nke und Arbeitsmaterialien f\u00fcr Schulen; weitere Produkte auf Anfrage (Schulhofgestaltung: Basketballfeld aufzeichnen);<\/p>"},"id":"ef21b5e5-465a-4c9e-80b2-7db7e4a164ee","isHidden":false,"type":"text"},{"content":{"text":"<p>Fachliche und praktische Grundkenntnisse in der Holzbearbeitung sind f\u00fcr die Kunden-Auftragsannahme wichtig und werden erlernt (einschlie\u00dflich der Programmbenutzung von 3D-CAD-Software f\u00fcr Produktentwicklung und Konstruktion ---&gt; Autodesk Inventor)<\/p>"},"id":"4d9e57e5-935f-4e53-a001-52d78680b2e6","isHidden":false,"type":"text"}]
 
 ----
 
@@ -39,7 +24,11 @@ Gallery:
 
 ----
 
-Date: 2020-08-01 10:45
+Date: 2020-08-01 10:45:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -51,16 +40,16 @@ Tags: Schülerfirmen
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: carousel
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

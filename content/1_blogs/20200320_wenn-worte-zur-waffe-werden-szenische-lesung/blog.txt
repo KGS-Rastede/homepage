@@ -6,58 +6,7 @@ Heading: Oberstufenschüler setzen sich für Lesung mit Faschismus auseinander
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Sch\u00fcler der KGS Rastede beteiligen sich an der Reihe \u201eRasteder Lesestunden\u201c. Sie bereiten zurzeit eine szenische Lesung vor.",
-        "id": "_xdrJo5yRr",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>VON FRANK JACOB</strong>",
-        "id": "_VKjZhksXR",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>RASTEDE </strong>\u2013 Der schreckliche Anschlag auf eine Synagoge in Halle liegt erst wenige Wochen zur\u00fcck. Er hat auf ersch\u00fctternde Art und Weise gezeigt, wie hochaktuell das Thema Faschismus in Deutschland ist. Und es gibt viele weitere Beispiele daf\u00fcr.",
-        "id": "_72Nh209MZ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "\u201eIch finde, das Thema ist in Deutschland gerade sehr aktuell\u201c, sagt Elias und verweist auf Berichte von Juden, denen die Kippa vom Kopf gerissen wird und die bespuckt und beschimpft werden. Der Elft-Kl\u00e4ssler besucht in Rastede die Kooperative Gesamtschule und bereitet mit seinen Mitsch\u00fclern aus der Klasse 11b gerade eine szenische Lesung vor, die am kommenden Sonntag im Zuge der \u201eRaste-der Lesestunden\u201c pr\u00e4sentiert wird. Der Anschlag von Halle zeige, dass Judenhass immer noch vorhanden sei, erg\u00e4nzt Mitsch\u00fcler Gabriel.",
-        "id": "_sjwxOyoX0",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die Klasse von Lehrer Rolf Schumacher hat in den Herbstferien den Roman \u201eAdressat unbekannt\u201c gelesen. Seitdem arbeitet sie daran, wie die rund 70 Seiten umfassende Handlung auf die B\u00fchne gebracht werden kann. Das Projekt sei Wagnis und Abenteuer zugleich, so Schuhmacher.",
-        "id": "_874cyQlZR",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Buch der Autorin Katherine Kressmann Taylor ist als Briefwechsel gestaltet zwischen einem Deutschen und einem amerikanischen Juden in den Monaten um Hitlers Machtergreifung. Ein Buch, von dem die Sch\u00fcler \u00fcbereinstimmend sagen, dass sie es im Gegensatz zu anderer Unterrichtslekt\u00fcre gerne und mit gro\u00dfem Interesse gelesen h\u00e4tten.",
-        "id": "_ezWPfNOYc",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "\u201eFaschismus ist eine Gefahr f\u00fcr eine Gesellschaft, es ist richtig, davor zu warnen\u201c, sagt Sch\u00fcler Benedikt. Das Buch zeige eindr\u00fccklich, wie schnell sich ein Mensch aufgrund von Propaganda ver\u00e4ndern k\u00f6nne, erkl\u00e4rt Sch\u00fclerin Mia.",
-        "id": "_l4nGGNM5z",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Dr. Friedrich Scheele von der Residenzort GmbH lobt das Engagement der Sch\u00fcler: \u201eIch bin froh, dass wir dieses Thema von ausgesprochen aktueller Bedeutung in die Rasteder Lesestunden integrieren konnten und dass ihr den Mut habt, es in einer szenischen Lesung vorzutragen.\u201c Das Buch mache deutlich, was Worte f\u00fcr eine Waffe sein k\u00f6nnen.",
-        "id": "_h2Dv9IZo1",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Sch\u00fcler der KGS Rastede beteiligen sich an der Reihe \u201eRasteder Lesestunden\u201c. Sie bereiten zurzeit eine szenische Lesung vor.<\/p>"},"id":"78c8b5eb-732d-4aed-98a9-2d072498ee07","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>VON FRANK JACOB<\/strong><\/p>"},"id":"bc365ff0-fd81-48c3-95ea-220b8a54d38d","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>RASTEDE <\/strong>\u2013 Der schreckliche Anschlag auf eine Synagoge in Halle liegt erst wenige Wochen zur\u00fcck. Er hat auf ersch\u00fctternde Art und Weise gezeigt, wie hochaktuell das Thema Faschismus in Deutschland ist. Und es gibt viele weitere Beispiele daf\u00fcr.<\/p>"},"id":"e6b04131-741a-4d27-a119-0b27a8c0b744","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201eIch finde, das Thema ist in Deutschland gerade sehr aktuell\u201c, sagt Elias und verweist auf Berichte von Juden, denen die Kippa vom Kopf gerissen wird und die bespuckt und beschimpft werden. Der Elft-Kl\u00e4ssler besucht in Rastede die Kooperative Gesamtschule und bereitet mit seinen Mitsch\u00fclern aus der Klasse 11b gerade eine szenische Lesung vor, die am kommenden Sonntag im Zuge der \u201eRaste-der Lesestunden\u201c pr\u00e4sentiert wird. Der Anschlag von Halle zeige, dass Judenhass immer noch vorhanden sei, erg\u00e4nzt Mitsch\u00fcler Gabriel.<\/p>"},"id":"91f14b56-8543-4bfb-bf51-47ce4c33f6ec","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Klasse von Lehrer Rolf Schumacher hat in den Herbstferien den Roman \u201eAdressat unbekannt\u201c gelesen. Seitdem arbeitet sie daran, wie die rund 70 Seiten umfassende Handlung auf die B\u00fchne gebracht werden kann. Das Projekt sei Wagnis und Abenteuer zugleich, so Schuhmacher.<\/p>"},"id":"6507936d-ce6d-4f0e-9d5a-ef1b09ac6883","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Buch der Autorin Katherine Kressmann Taylor ist als Briefwechsel gestaltet zwischen einem Deutschen und einem amerikanischen Juden in den Monaten um Hitlers Machtergreifung. Ein Buch, von dem die Sch\u00fcler \u00fcbereinstimmend sagen, dass sie es im Gegensatz zu anderer Unterrichtslekt\u00fcre gerne und mit gro\u00dfem Interesse gelesen h\u00e4tten.<\/p><p>\u201eFaschismus ist eine Gefahr f\u00fcr eine Gesellschaft, es ist richtig, davor zu warnen\u201c, sagt Sch\u00fcler Benedikt. Das Buch zeige eindr\u00fccklich, wie schnell sich ein Mensch aufgrund von Propaganda ver\u00e4ndern k\u00f6nne, erkl\u00e4rt Sch\u00fclerin Mia.<\/p>"},"id":"207dc53d-a74d-4a4f-b974-869fb1433043","isHidden":false,"type":"text"},{"content":{"text":"<p>Dr. Friedrich Scheele von der Residenzort GmbH lobt das Engagement der Sch\u00fcler: \u201eIch bin froh, dass wir dieses Thema von ausgesprochen aktueller Bedeutung in die Rasteder Lesestunden integrieren konnten und dass ihr den Mut habt, es in einer szenischen Lesung vorzutragen.\u201c Das Buch mache deutlich, was Worte f\u00fcr eine Waffe sein k\u00f6nnen.<\/p>"},"id":"bfcc6a86-0a39-4781-9d4b-69b3dcf98fc8","isHidden":false,"type":"text"}]
 
 ----
 
@@ -67,7 +16,11 @@ Gallery:
 
 ----
 
-Date: 2020-03-20 17:40
+Date: 2020-03-20 17:40:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -79,16 +32,16 @@ Tags: Deutsch
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

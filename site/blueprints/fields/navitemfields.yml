@@ -1,0 +1,34 @@
+type: group
+fields:
+  isExternal:
+    type: toggle
+    label: Externer Link
+    text:
+      - "Interne Seite" #false
+      - "Externer Link" #true
+  linkTitle:
+    type: text
+    label: Name
+    help: Dieser Name wird auf der Homepage angezeigt
+  pageLink:
+    label: Page link
+    type: pages
+    max: 1
+    when:
+      isExternal: false
+  externalLink:
+    type: url
+    label: External link
+    when:
+      isExternal: true
+  trennstrich:
+    type: toggle
+    label: Trennstrich
+    text:
+      - "Kein Trennstrich vorhanden" #false
+      - "Trennstrich vorhanden" #true
+    help: Soll nach diesem Unterpunkt ein Trennstrich eingefügt werden ?
+  icon:
+    type: text
+    label: Icon
+    help: "Hier muss der Name für das icon rein. Siehe: https://icons.getbootstrap.com/"

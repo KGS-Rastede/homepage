@@ -19,7 +19,7 @@ columns:
             label: Leitung
           text:
             label: Inhalt
-            type: editor
+            type: blocks
           gallery:
             type: files
             label: Bilder zum Fach

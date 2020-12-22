@@ -1,0 +1,35 @@
+Title: Organigramm
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"location":"kirby","image":["organigramm-kgs2.svg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"e29fa315-ed4f-449f-8992-4cf0710a01a1","isHidden":false,"type":"image"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- organigrammkgs.pdf
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 

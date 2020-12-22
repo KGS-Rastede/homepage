@@ -6,46 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Es kommen wieder alle Schülerinnen und Schüler zur Schule und der Unterricht läuft nach Plan. Auch die Aufenthaltsbereiche in den Pausen bleiben bestehen. Gelüftet wird ab sofort im Rhythmus 20-5-20. Zugluft und Durchzug wird vermieden; trotzdem ist es ratsam sich \"zwiebelmäßig\" anzuziehen und eine Strick- oder Fleecejacke zusätzlich anzuziehen.",
-        "id": "_JFqa5Mc4o",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Auch in Rastede und im Ammerland steigen die Corona-Zahlen. Da wir eine große räumliche Enge haben und in den dicht gefüllten Klassenräumen auch die Abstände zwischen Schülern und Lehrkräften nicht eingehalten werden können, <strong>bitten </strong>wir alle auch im Unterricht die Maske (Mund-Nase-Bedeckung) zu tragen. Noch sind die Zahlen bei uns relativ gering, aber wir müssen ja auch nicht erst dafür sorgen, dass sie steigen....",
-        "id": "_Fuu6OB8BO",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_1clbbjbbq",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/blogs+wie-geht-es-nach-den-herbstferien-weiter/files/wir_halten_zusammen.jpg",
-            "id": "blogs/wie-geht-es-nach-den-herbstferien-weiter/wir_halten_zusammen.jpg",
-            "filename": "wir_halten_zusammen.jpg",
-            "ratio": 1.3333333333333333,
-            "caption": ""
-        },
-        "content": "",
-        "id": "_s50snu7kq",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_c0tinwl22",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Es kommen wieder alle Sch\u00fclerinnen und Sch\u00fcler zur Schule und der Unterricht l\u00e4uft nach Plan. Auch die Aufenthaltsbereiche in den Pausen bleiben bestehen. Gel\u00fcftet wird ab sofort im Rhythmus 20-5-20. Zugluft und Durchzug wird vermieden; trotzdem ist es ratsam sich \"zwiebelm\u00e4\u00dfig\" anzuziehen und eine Strick- oder Fleecejacke zus\u00e4tzlich anzuziehen.<\/p>"},"id":"ce3d8869-eb25-4b5b-9aaa-854caa23c937","isHidden":false,"type":"text"},{"content":{"text":"<p>Auch in Rastede und im Ammerland steigen die Corona-Zahlen. Da wir eine gro\u00dfe r\u00e4umliche Enge haben und in den dicht gef\u00fcllten Klassenr\u00e4umen auch die Abst\u00e4nde zwischen Sch\u00fclern und Lehrkr\u00e4ften nicht eingehalten werden k\u00f6nnen, <strong>bitten <\/strong>wir alle auch im Unterricht die Maske (Mund-Nase-Bedeckung) zu tragen. Noch sind die Zahlen bei uns relativ gering, aber wir m\u00fcssen ja auch nicht erst daf\u00fcr sorgen, dass sie steigen....<\/p>"},"id":"5071dab8-76b5-410f-a9d6-742a2d3e6320","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["wir_halten_zusammen.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"a32cec24-def9-499c-ab25-b73d6490e93a","isHidden":false,"type":"image"}]
 
 ----
 
@@ -55,11 +16,11 @@ Gallery:
 
 ----
 
-Date: 2020-10-25 07:50
+Date: 2020-10-25 07:50:00
 
 ----
 
-Datumstartseite: 2021-02-25 07:50
+Datumstartseite: 2020-11-16 06:50:00
 
 ----
 
@@ -71,12 +32,12 @@ Tags: Schulleitung, Corona, Topartikel
 
 ----
 
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: manuel
+
+----
+
+Immer-sichtbar: false

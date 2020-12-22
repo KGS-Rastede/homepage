@@ -10,8 +10,8 @@
     <div class="card-body">
       <img src="<?= $page->files()->find('fremdsprachen.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
-      <h3 class="card-title blockqoute mb-3 text-warning">Fremdsprachen</h3>
-      <h3 class="card-title blockquote-footer">Fachbereichsleiterin: Frau Backhaus</h3>
+      <h3 class="card-title mb-3 text-warning">Fremdsprachen</h3>
+      <h3 class="card-title">Fachbereichsleiterin: Frau Backhaus</h3>
       <div class="list-group text-white">
         <a href="<?= page('Faecher/englisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
         <svg class="bi" width="24" height="24">
@@ -39,7 +39,7 @@
       <img src="<?= $page->files()->find('mukubi.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
       <h3 class="card-category card-title mb-3 text-warning">Musisch-Kultureller Bereich</h3>
-      <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Schneemann</h4>
+      <h4 class="card-title">Fachbereichsleiter: Herr Schneemann</h4>
       <div class="list-group">
         <a href="<?= page('Faecher/musik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
         <svg class="bi" width="24" height="24">
@@ -71,7 +71,7 @@
       <img src="<?= $page->files()->find('mathe.jpg')->url() ?>" class="card-img" alt="Mathematik">
 
       <h3 class="card-category card-title mb-3 text-warning">Mathematik</h3>
-      <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Mönnich</h4>
+      <h4 class="card-title">Fachbereichsleiter: Herr Mönnich</h4>
 
       <div class="list-group">
         <a href="<?= page('Faecher/Mathematik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
@@ -88,7 +88,7 @@
       <img src="<?= $page->files()->find('sport.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
       <h3 class="card-category card-title mb-3 text-warning">Sport</h3>
-      <h4 class="card-title blockquote-footer">Fachbereichsleiterin: Frau Müller-Pulsfort</h4>
+      <h4 class="card-title">Fachbereichsleiterin: Frau Müller-Pulsfort</h4>
 
       <div class="list-group">
         <a href="<?= page('Faecher/Sport')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
@@ -106,12 +106,12 @@
       <img src="<?= $page->files()->find('deutsch.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
       <h3 class="card-category card-title mb-3 text-warning">Deutsch</h3>
-      <h4 class="card-title blockquote-footer">Fachbereichsleiterin: Frau Wohltmann (komm.)</h4>
+      <h4 class="card-title">Fachbereichsleiterin: Frau Wohltmann (komm.)</h4>
 
       <div class="list-group">
         <a href="<?= page('Faecher/deutsch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
           <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-dots" /></svg>Deutsch
+            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-dots" /></svg> Deutsch
         </a>
         <a href="<?= page('Faecher/deutsch-als-zweitsprache-daz')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
           <svg class="bi" width="24" height="24">
@@ -129,7 +129,7 @@
       <img src="<?= $page->files()->find('ntw.jpg')->url() ?>" class="card-img" alt="Naturwissenschaften">
 
       <h3 class="card-category card-title mb-3 text-warning">Naturwissenschaften</h3>
-      <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Dr. Fach</h4>
+      <h4 class="card-title">Fachbereichsleiter: Herr Dr. Fach</h4>
 
       <div class="list-group">
         <a href="<?= page('Faecher/Physik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
@@ -158,7 +158,7 @@
       <img src="<?= $page->files()->find('awt.jpg')->url() ?>" class="card-img" alt="AWT">
 
       <h3 class="card-category card-title mb-3 text-warning">Arbeit-Wirtschaft-Technik</h3>
-      <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Henken</h4>
+      <h4 class="card-title">Fachbereichsleiter: Herr Henken</h4>
       <div class="list-group">
         <a href="<?= page('unterricht/schuelerfirmen')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
         <svg class="bi" width="24" height="24">
@@ -188,7 +188,7 @@
       <img src="<?= $page->files()->find('sozi.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
       <h3 class="card-category card-title mb-3 text-warning">Sozialwissenschaften</h3>
-      <h4 class="card-title blockquote-footer">Fachbereichsleiter: Herr Meyer</h4>
+      <h4 class="card-title">Fachbereichsleiter: Herr Meyer</h4>
       <div class="list-group">
         <a href="<?= page('Faecher/geschichte')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
         <svg class="bi" width="24" height="24">

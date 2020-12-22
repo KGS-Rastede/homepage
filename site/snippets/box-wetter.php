@@ -2,7 +2,7 @@
     <div class="card-body ">
         <h4 class="card-category">Wetterstation</h4>
         <h7>... unterstützt vom Förderverein</h7>
-        <div class="text-left">
+        <div class="text-start">
             <?php
             global $arr;
 

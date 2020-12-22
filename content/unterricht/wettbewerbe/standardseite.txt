@@ -2,7 +2,15 @@ Title: Wettbewerbe
 
 ----
 
-Text: 
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h1","text":"Diese Seite ist noch nicht fertig"},"id":"b6e25f08-11b3-47aa-8023-4163ae8a0133","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["baustelle.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"e5712be6-6f84-4e60-94c7-e61583f6bc27","isHidden":false,"type":"image"}]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -10,12 +18,20 @@ Related:
 
 ----
 
+Downloadtitel: 
+
+----
+
 Downloads: 
 
 ----
 
-Toggle: false
+Sidetitel: 
 
 ----
 
 Sidebar: 
+
+----
+
+Toggle: false

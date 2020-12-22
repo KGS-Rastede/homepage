@@ -86,24 +86,6 @@ Text:
         "content": "",
         "id": "_90uaanges",
         "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_191kfsez8",
-        "type": "hr"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_gsza2zepj",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_48ijcc7us",
-        "type": "paragraph"
     }
 ]
 

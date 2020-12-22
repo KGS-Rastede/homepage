@@ -9,7 +9,7 @@
             Datum: <?= $subpage->date()->toDate("d.m.Y") ?>
         </p>
         <p class="card-text">
-            <?= $subpage->Text()->blocks()->excerpt(250) ?>
+            <?= $subpage->Text()->toBlocks()->excerpt(250) ?>
             <a href="<?= $subpage->url() ?>" class="card-link">...weiterlesen</a>
         </p>
     </div>

@@ -1,4 +1,4 @@
-<div class="card bg-primary mb-3">
+<div class="card bg-primary mt-5 mb-3">
     <link href='<?= $kirby->url('assets') ?>/js/plugins/main.css' rel='stylesheet' />
 
 
@@ -16,24 +16,25 @@
                 locale: 'de', //Darstellung auf Deutsch
                 height: 'auto',
 
-                initialView: 'listWeek',
-
+                initialView: 'zweiWochen',
 
                 headerToolbar: {
                     left: '',
                     center: 'title',
                     right: ''
                 },
+                
+                views: {
+                    zweiWochen: {
+                        type: 'listWeek',
+                        duration: {
+                            days: 14
+                        },
+                    }
+                },
 
-                // buttonText: {
-                //     today: 'Heute',
-                //     month: 'Monat',
-                //     week: 'Woche',
-                //     day: 'Tag',
-                //     list: 'Monatsliste',
-                // },
                 firstDay: 1,
-                hiddenDays: [ 0, 6 ], // Samstag und Sonntag verstecken
+                hiddenDays: [0, 6], // Samstag und Sonntag verstecken
                 weekLabel: "KW", // Beschriftung der Kalenderwoche
                 allDayText: "ganztägig",
                 noEventsContent: "Keine Ereignisse anzuzeigen",

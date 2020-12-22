@@ -5,10 +5,10 @@
 
 <div class="container">
   <div class="blockqoute">
-    <div class="d-flex justify-content-between">
+    <div class="d-flex justify-content-between mb-3">
 
       <?php if ($page->date()->isNotEmpty() || $page->author()->isNotEmpty()) : ?>
-        <div class="mt-0 mb-0 blockquote-footer h5">
+        <div class="mt-0 mb-0 h5">
 
           <?php if ($page->date()->isNotEmpty()) : ?>
             Datum: <?= $page->date()->toDate("d.m.Y") ?>

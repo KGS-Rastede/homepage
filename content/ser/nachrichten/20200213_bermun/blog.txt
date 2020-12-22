@@ -6,46 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Die Kurt-Hahn-Stiftung unterst\u00fctzt Stipendien an der Schule Schloss Salem",
-        "id": "_uaOf7XRUE",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "<br>Unser Ziel in der gemeinn\u00fctzigen <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://www.kurt--hahn-stiftung.de\">Kurt-Hahn-Stiftung</a> ist es, besonders begabten und leistungsf\u00e4higen Kindern und Jugendlichen durch Stipendien den Besuch Salems unabh\u00e4ngig vom Einkommen der Eltern zu erm\u00f6glichen. Durch Spenden und Zustiftungen geben wir jungen Menschen aus unterschiedlichsten Lebenshintergr\u00fcnden nachhaltige Bildungschancen f\u00fcr sich und unsere Gesellschaft. Ziel ist es, die jungen Sch\u00fclerinnen und Sch\u00fcler zu gesellschaftlich verantwortungsbewussten B\u00fcrgerinnen und B\u00fcrger heranzubilden-ganz nach dem Motto \u201ePlus estenvous!-Es steckt mehr in Dir.\"",
-        "id": "_37RaOkZWL",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Kurt Hahn geh\u00f6rt zu den gro\u00dfen P\u00e4dagogen des 20, Jahrhunderts. Gemeinsam mit dem letzten Reichskanzler Prinz Max von Baden und dem renommierten und erfahrenen P\u00e4dagogen Karl Reinhardt aus Frankfurt: am Main realisierte er im Jahr 1920 mit der Schule Schloss Salem die Idee einer internationalen/ sozial verantwortungsvollen Schulgemeinschaft.",
-        "id": "_RDQcX0RlF",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<br>Junge Menschen, die wissen wollen, was in ihnen steckt, die ihren Horizont erweitern, ihre Talente mehren und diese in den Dienst einer multinationalen Gemeinschaft junger Menschen stellen wollen, sind herzlich dazu eingeladen/ sich um ein Stipendium an der Schule Schloss Salem am Bodensee zu bewerben. Wir freuen uns auf Euch!",
-        "id": "_GbkTpSD7W",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<br>Die Stipendien werden f\u00fcr Sch\u00fclerinnen und Sch\u00fcler der Jahrgangsstufen 5 bis 11 ausgeschrieben, die ihr Abitur oder das International Baccalaureate Diploma (18) anstreben.",
-        "id": "_y9ltrYl4L",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Detaillierte Informationen \u00fcber die Schule Schloss Salem und das Salemer Stipendienprogramm finden Sie<br>unter <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://www.schule-schloss-salem.de/stipendien\">www.schule-schloss-salem.de/stipendien</a>.<br>Bei Fragen kontaktieren Sie uns gerne per E-Mail <a href=\"mailto:stipendium@schule-schloss-salenn.de\">stipendium@schule-schloss-salenn.de</a><br>oder via WhatsApp 0170-85 zo 365.<br>Die Bewerbung um ein Teilstipendium an der Schule Schloss Salem ist ganzj\u00e4hrig m\u00f6glich,",
-        "id": "_gfuFJOTnP",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"level":"h2","text":"Die Kurt-Hahn-Stiftung unterst\u00fctzt Stipendien an der Schule Schloss Salem"},"id":"2ac951b5-9bbf-4af8-911a-7f1769d66e20","isHidden":false,"type":"heading"},{"content":{"text":"<p><br>Unser Ziel in der gemeinn\u00fctzigen <a href=\"http:\/\/www.kurt-hahn-stiftung.de\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Kurt-Hahn-Stiftung<\/a> ist es, besonders begabten und leistungsf\u00e4higen Kindern und Jugendlichen durch Stipendien den Besuch Salems unabh\u00e4ngig vom Einkommen der Eltern zu erm\u00f6glichen. Durch Spenden und Zustiftungen geben wir jungen Menschen aus unterschiedlichsten Lebenshintergr\u00fcnden nachhaltige Bildungschancen f\u00fcr sich und unsere Gesellschaft. Ziel ist es, die jungen Sch\u00fclerinnen und Sch\u00fcler zu gesellschaftlich verantwortungsbewussten B\u00fcrgerinnen und B\u00fcrger heranzubilden-ganz nach dem Motto \u201ePlus estenvous!-Es steckt mehr in Dir.\"<\/p><p>Kurt Hahn geh\u00f6rt zu den gro\u00dfen P\u00e4dagogen des 20, Jahrhunderts. Gemeinsam mit dem letzten Reichskanzler Prinz Max von Baden und dem renommierten und erfahrenen P\u00e4dagogen Karl Reinhardt aus Frankfurt: am Main realisierte er im Jahr 1920 mit der Schule Schloss Salem die Idee einer internationalen\/ sozial verantwortungsvollen Schulgemeinschaft.<\/p><p><br>Junge Menschen, die wissen wollen, was in ihnen steckt, die ihren Horizont erweitern, ihre Talente mehren und diese in den Dienst einer multinationalen Gemeinschaft junger Menschen stellen wollen, sind herzlich dazu eingeladen\/ sich um ein Stipendium an der Schule Schloss Salem am Bodensee zu bewerben. Wir freuen uns auf Euch!<\/p><p><br>Die Stipendien werden f\u00fcr Sch\u00fclerinnen und Sch\u00fcler der Jahrgangsstufen 5 bis 11 ausgeschrieben, die ihr Abitur oder das International Baccalaureate Diploma (18) anstreben.<\/p><p>Detaillierte Informationen \u00fcber die Schule Schloss Salem und das Salemer Stipendienprogramm finden Sie<br>unter <a href=\"http:\/\/www.schule-schloss-salem.de\/stipendien\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">www.schule-schloss-salem.de\/stipendien<\/a>.<br>Bei Fragen kontaktieren Sie uns gerne per E-Mail <a href=\"mailto:stipendium@schule-schloss-salenn.de\" rel=\"noopener noreferrer nofollow\">stipendium@schule-schloss-salenn.de<\/a><br>oder via WhatsApp 0170-85 zo 365.<br>Die Bewerbung um ein Teilstipendium an der Schule Schloss Salem ist ganzj\u00e4hrig m\u00f6glich,<\/p>"},"id":"22e599cd-c614-4588-8497-00257044b597","isHidden":false,"type":"text"}]
 
 ----
 
@@ -53,7 +14,11 @@ Gallery:
 
 ----
 
-Date: 2020-02-13 11:35
+Date: 2020-02-13 11:35:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -65,16 +30,16 @@ Tags: SER
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: carousel
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

@@ -1,0 +1,10 @@
+# robots.txt zu http://kgs-raste.de/
+
+User-agent: *
+Disallow: /site/
+Disallow: /kirby/
+Disallow: /media/
+Disallow: /node_modules/
+Disallow: /assets/
+
+Sitemap: http://kgs-rastede.de/sitemap.xml

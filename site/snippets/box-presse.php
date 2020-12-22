@@ -1,4 +1,4 @@
-<div class="card">
+<div class="card mt-5 mb-3">
     <div class="card-body ">
         <h4 class="card-category">Aus der Presse</h4>
         <?php
@@ -6,7 +6,7 @@
 
         foreach ($items as $item) : ?>
             <p>
-                <a class="card-link" href="<?= $item->link() ?>"><?= $item->name() ?></a>
+                <a class="text-decoration-none" href="<?= $item->link() ?>"><?= $item->name() ?></a>
                 (<?= $item->datum()->toDate('d.m.y') ?>)
             </p>
 

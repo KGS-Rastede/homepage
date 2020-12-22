@@ -1,5 +1,16 @@
 Title: Gymnasialzweig
 
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Im Gymnasialzweig der KGS Rastede wird nach derselben Stundentafel und nach denselben Kerncurricula unterrichtet, wie an allen anderen Gymnasien in Niedersachsen. Das Zentralabitur ist identisch mit dem Zentralabitur aller Gymnasien in Niedersachsen.<\/p><p>Allerdings werden die F\u00e4cher Kunst und Musik in Kursen gemeinsam mit Sch\u00fclerinnen und Sch\u00fcler aus dem Realschulzweig unterrichtet. Das Fach Sport ist hingegen vollintegrativ, d.h. dort werden Sch\u00fclerinnen und Sch\u00fcler aller drei Schulzweige in Kursen unterrichtet.<\/p>"},"id":"4b602d15-962c-45aa-adf7-6c4eeff77cdb","isHidden":false,"type":"text"},{"content":{"text":"<p>Wesentliche Kernpunkte f\u00fcr die gymnasiale Bildung ist die Lerngeschwindigkeit, das Abstraktionsniveau und die Pflicht neben Englisch eine weitere Fremdsprache zu erlernen. Folglich m\u00fcssen Sch\u00fclerinnen und Sch\u00fcler des Gymnasialzweiges eine der drei Fremdsprachen Franz\u00f6sisch, Latein oder Spanisch ab Klasse 6 belegen.<\/p>"},"id":"ae22cdc4-eef8-4413-b1cc-097417cbc20c","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00fcr Sch\u00fclerinnen und Sch\u00fcler, die erst ab Klasse 11 den Gymnasialzweig besuchen, weil sie z.B. vorher unseren Realschulzweig besucht haben, kann die zweite Fremdsprache ab Klasse 11 erst belegt werden. <\/p><p>Ein weiteres Merkmal unseres Gymnasialzweig ist die Pflicht, dass ab Klasse 8 bis einschlie\u00dflich Klasse 10 eines der f\u00fcnf Profile aus dem Wahlpflichtbereich belegt werden muss. Es gibt dort die dritte Fremdsprache Franz\u00f6sisch oder das Profil Wirtschaft Informatik oder das Profil Naturwissenschaften oder das Profil Musisch-kulturelle Bildung oder das Profil Gesellschaftswissenschaften.<\/p><p>In unserem Gymnasialzweig bieten wir dann in Jahrgang 12 und 13, also in den letzten beiden Jahren vor dem Abitur, alle f\u00fcnf m\u00f6glichen Schwerpunkte an. Auch Sch\u00fclerinnen und Sch\u00fcler, die aus dem Realschulzweig kommen und dort den erweiterten Sekundarabschluss I erreicht haben, k\u00f6nnen dann die elfte Klasse des Gymnasiums besuchen.<br>In unserem Gymnasialzweig k\u00f6nnen Sie nicht nur nach der zehnten Klasse den erweiterten Sekundarabschluss I ablegen, sondern auch nach Jahrgang zw\u00f6lf den schulischen Teil der Fachhochschulreife und nat\u00fcrlich nach Jahrgang 13 das Abitur.<br><\/p>"},"id":"5eb98669-1806-43b6-b999-983decb9a7d1","isHidden":false,"type":"text"},{"content":{"text":"&nbsp;"},"id":"95b96aa7-2d6b-4d08-ab5a-014a78eafcbe","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
 
 ----
 
@@ -7,11 +18,11 @@ Related:
 
 ----
 
-Downloads: 
+Downloadtitel: 
 
 ----
 
-Toggle: true
+Downloads: 
 
 ----
 
@@ -19,16 +30,8 @@ Sidetitel:
 
 ----
 
-Sidebar:
-
-- 
-  link: http://www.kgs-rastede.de
-  name: Die Schulhomepage
+Sidebar: 
 
 ----
 
 Leitung: Malte Bormann
-
-----
-
-Gallery: 

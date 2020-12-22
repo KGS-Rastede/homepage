@@ -3,7 +3,7 @@
 
 
 <div class="container-fluid">
-    <div class="col-md-8 ml-auto mr-auto text-center">
+    <div class="col-md-8 ms-auto me-auto text-center">
         <h2 class="title"><?= $page->title() ?></h2>
         <h5 class="description">
             <?= $page->text() ?>
@@ -14,7 +14,7 @@
         <?php foreach ($page->children() as $kontakt) : ?>
             <div class="col mb-4">
 
-                <div class="card">
+                <div class="card h-100">
                     <img class="card-img-top" src="<?= $kontakt->images()->first()->url() ?>" />
                     <div class="card-body">
                         <h5 class="card-title"><?= $kontakt->title() ?></h4>

@@ -6,16 +6,11 @@ Heading:
 
 ----
 
-Text:
+Text: [{"content":{"text":"<p>Bereits nach dem ersten Jahr der Qualifikationsphase kann unter bestimmten Voraussetzungen der schulische Teil der Fachhochschulreife erreicht werden, der dann zusammen mit dem praktischen Teil vielf\u00e4ltige Studienm\u00f6glichkeiten er\u00f6ffnet. Der praktische Teil kann ein einj\u00e4hriges berufsbezogenes Vollzeitpraktikum, ein FSJ, F\u00d6J usw., ein einj\u00e4hriger freiwilliger Wehrdienst oder eine abgeschlossene Berufsausbildung sein.<\/p><p>Weitere Informationen zu den notwendigen schulischen Voraussetzungen und den Anforderungen an das Praktikum befinden sich in den Dokumenten im Download-Bereich dieser Seite. In den Hinweisen zu den Praktikumsregelungen werden die Anforderungen f\u00fcr Sch\u00fclerinnen und Sch\u00fcler der gymasialen Oberstufe im Abschnitt 3 beschrieben.<\/p><p>Vor der Entscheidung f\u00fcr einen bestimmten Bereich oder ein bestimmtes Unternehmen sollte immer eine R\u00fccksprache mit der <a href=\"Oberstufenbuero\" rel=\"noopener noreferrer nofollow\">Oberstufenkoordination <\/a>erfolgen.<\/p>"},"id":"65f36988-1583-402b-a7bb-61085e02f26d","isHidden":false,"type":"text"}]
 
-[
-    {
-        "attrs": [],
-        "content": "Bereits nach dem ersten Jahr der Qualifikationsphase kann man unter bestimmten Voraussetzungen den schulischen Teil der Fachhochschulreife erreichen, der dann zusammen mit dem praktischen Teil vielfältige Studienmöglichkeiten eröffnet. Der praktische Teil kann ein einjähriges berufsbezogenes Vollzeitpraktikum, ein FSJ, FÖJ usw., ein einjähriger freiwilliger Wehrdienst oder eine abgeschlossene Berufsausbildung sein. Bevor man sich für einen bestimmten Bereich oder ein bestimmtes Unternehmen entscheidet, sollte immer eine Rücksprache mit der Oberstufenkoordination erfolgen.",
-        "id": "_m6nbfsczs",
-        "type": "paragraph"
-    }
-]
+----
+
+Relatedtitel: 
 
 ----
 
@@ -23,11 +18,15 @@ Related:
 
 ----
 
-Downloads: 
+Downloadtitel: 
 
 ----
 
-Toggle: false
+Downloads:
+
+- fh-schulisch-ab-2019.pdf
+- >
+  20161216_hinweisepraktikum_fhsr_gymn-obst.pdf
 
 ----
 
@@ -35,13 +34,8 @@ Sidetitel:
 
 ----
 
-Sidebar:
+Sidebar: 
 
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
-  name: Operatorenliste Oberstufe
-- 
-  link: >
-    https://db2.nibis.de/1db/cuvo/datei/bi_go_kc_druck_2017.pdf
-  name: Biologie Oberstufe
+----
+
+Toggle: true

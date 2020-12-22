@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Ich habe Kirby soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann könnt ihr den Code mit folgenden Befehlen runterladen:",
   "main": "postcss.config.js",
-  "scripts": {
-    "build": "postcss assets/css/tailwind.css -o assets/css/tailwind-build.css"
-  },
   "repository": {
     "type": "git",
     "url": "http://git.kgsrastede.de/KGS-Rastede/homepage.git"
@@ -15,7 +12,5 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^9.8.6",
-    "postcss-cli": "^7.1.2",
-    "tailwindcss": "^1.9.0"
-  }
+  },
 }

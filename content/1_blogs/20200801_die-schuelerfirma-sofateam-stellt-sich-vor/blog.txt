@@ -6,34 +6,7 @@ Heading: Wir lieben alte Menschen.
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Bei uns sind eure sozialen Interessen und F\u00e4higkeiten, eure Kreativit\u00e4t und Teamf\u00e4higkeit gefragt. F\u00fcr alle, die sich gerne sozial engagieren und Interesse an sozialen Berufen haben, bietet diese Sch\u00fclerfirma die M\u00f6glichkeit, Sozialkompetenz zu gewinnen. Wir unterst\u00fctzen und begleiten alte Menschen in den Altenheimen oder im Rahmen von Hausbesuchen, indem wir mit ihnen Spiele spielen, spazieren gehen, basteln, kl\u00f6nen, ihnen vorlesen, Boteng\u00e4nge f\u00fcr sie erledigen, bei der Gartenarbeit oder beim Umgang mit Handy und Computer helfen. Gemeinsame Aktionen in den Altenheimen, wie z.B. Weihnachtsfeiern, f\u00f6rdern die Integration von Jung und Alt.",
-        "id": "_k5hd5vv76",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Nicht nur die alten Menschen profitieren von der Arbeit des \u00b4Sofa-Teams`, auch die Mitarbeiter/innen dieser SF lernen viel und sammeln wertvolle Erfahrungen.",
-        "id": "_ys8swemoa",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "\u00dcbrigens: Es werden immer wieder praxisorientierte Projekte durchgef\u00fchrt, z.B. ein Babysitter-Kurs.",
-        "id": "_fovgrlt7a",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_o30cw35ql",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Bei uns sind eure sozialen Interessen und F\u00e4higkeiten, eure Kreativit\u00e4t und Teamf\u00e4higkeit gefragt. F\u00fcr alle, die sich gerne sozial engagieren und Interesse an sozialen Berufen haben, bietet diese Sch\u00fclerfirma die M\u00f6glichkeit, Sozialkompetenz zu gewinnen. Wir unterst\u00fctzen und begleiten alte Menschen in den Altenheimen oder im Rahmen von Hausbesuchen, indem wir mit ihnen Spiele spielen, spazieren gehen, basteln, kl\u00f6nen, ihnen vorlesen, Boteng\u00e4nge f\u00fcr sie erledigen, bei der Gartenarbeit oder beim Umgang mit Handy und Computer helfen. Gemeinsame Aktionen in den Altenheimen, wie z.B. Weihnachtsfeiern, f\u00f6rdern die Integration von Jung und Alt.<\/p>"},"id":"2659fcb0-561b-4854-8202-f0f2c4ead022","isHidden":false,"type":"text"},{"content":{"text":"<p>Nicht nur die alten Menschen profitieren von der Arbeit des \u00b4Sofa-Teams`, auch die Mitarbeiter\/innen dieser SF lernen viel und sammeln wertvolle Erfahrungen.<\/p>"},"id":"59abb4cd-d3ab-485b-b8bd-edb06d0ea0df","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00dcbrigens: Es werden immer wieder praxisorientierte Projekte durchgef\u00fchrt, z.B. ein Babysitter-Kurs.<\/p>"},"id":"efd6e526-48ca-4139-a3bf-513669fef236","isHidden":false,"type":"text"},{"content":{"text":""},"id":"2a64cd05-9935-431f-a92f-0ac0a5d18888","isHidden":false,"type":"text"}]
 
 ----
 
@@ -52,7 +25,11 @@ Gallery:
 
 ----
 
-Date: 2020-08-01 13:30
+Date: 2020-08-01 13:30:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -64,16 +41,16 @@ Tags: Schülerfirmen
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

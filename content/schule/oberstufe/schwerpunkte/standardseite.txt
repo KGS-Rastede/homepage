@@ -6,28 +6,11 @@ Heading:
 
 ----
 
-Text:
+Text: [{"content":{"text":"<p>Die KGS Rastede bietet als allein stehende Schule in der Qualifikationsphase alle f\u00fcnf in Niedersachsen existierenden Schwerpunkte an: den sprachlichen, den naturwissenschaftlichen, den musisch-k\u00fcnstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es dar\u00fcber hinaus vielf\u00e4ltige Kombinationsm\u00f6glichkeiten der Pr\u00fcfungsf\u00e4cher.<\/p>"},"id":"5f2b87b5-08df-4a0d-ac90-a4d9b61e8ee8","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir haben als Entscheidungshilfe eine \u00dcbersicht zusammengestellt, welcher Schwerpunkt f\u00fcr welchen Sch\u00fclertyp geeignet sein k\u00f6nnte. Dar\u00fcber hinaus sollten vor der Wahl aber noch zahlreiche Gespr\u00e4che mit Freunden, Eltern, Lehrkr\u00e4ften oder auch der Oberstufenkoordination gef\u00fchrt werden.<\/p><p>Eine \u00dcbersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Pr\u00fcfungsfachkombinationen befindet sich im Download-Bereich.<\/p>"},"id":"9dc685e6-7bf3-4cf8-9d18-ca9fa7031b98","isHidden":false,"type":"text"}]
 
-[
-    {
-        "attrs": [],
-        "content": "Die KGS Rastede bietet als allein stehende Schule in der Qualifikationsphase alle fünf in Niedersachsen existierenden Schwerpunkte an: den sprachlichen, den naturwissenschaftlichen, den musisch-künstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es darüber hinaus vielfältige Kombinationsmöglichkeiten der Prüfungsfächer.",
-        "id": "_kpwvipddd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_EZ1ty7IrC",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Wir haben als Entscheidungshilfe eine Übersicht zusammengestellt, welcher Schwerpunkt für welchen Schülertyp geeignet sein könnte. Darüber hinaus solltest du vor deiner Wahl aber noch zahlreiche Gespräche mit Freunden, Eltern, Lehrkräften oder auch der Oberstufenkoordination führen. Außerdem findest du hier eine Übersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Prüfungsfachkombinationen.",
-        "id": "_RxXuTswpj",
-        "type": "paragraph"
-    }
-]
+----
+
+Relatedtitel: 
 
 ----
 
@@ -35,11 +18,15 @@ Related:
 
 ----
 
-Downloads: 
+Downloadtitel: 
 
 ----
 
-Toggle: false
+Downloads:
+
+- info-oberstufe-kgs-rastede2020.pdf
+- schwerpunkte_ab-abi-2022.pdf
+- schwerpunkte_ab-abi-2023.pdf
 
 ----
 
@@ -47,13 +34,8 @@ Sidetitel:
 
 ----
 
-Sidebar:
+Sidebar: 
 
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
-  name: Operatorenliste Oberstufe
-- 
-  link: >
-    https://db2.nibis.de/1db/cuvo/datei/bi_go_kc_druck_2017.pdf
-  name: Biologie Oberstufe
+----
+
+Toggle: true
