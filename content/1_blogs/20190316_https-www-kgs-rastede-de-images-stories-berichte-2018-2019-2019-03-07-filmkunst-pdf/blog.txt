@@ -2,20 +2,11 @@ Title: Von der Pflege in die Filmbranche
 
 ----
 
-Heading: https://www.kgs-rastede.de/images/stories/berichte/2018-2019/2019-03-07_filmkunst.pdf
+Heading: 
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Auch beim Zuschauer-preis im Internetist derFilm vorne mit dabei.Noch kann abgestimmtwerden.VON WOLFGANGALEXANDERMEYERRASTEDE\u2013Schlecht bezahlteJobs, harte Arbeit und wenigZeitf\u00fcrdasZwischenmensch-liche\u2013wersichf\u00fcreinenBe-rufin der Pflege entscheidet,derhatesoftnichtleicht.DashatauchSintjeKrausevonderKooperativen GesamtschuleinRastedegemerkt.\u201eDahabeichzumerstenMaldenPfle-genotstand erlebt\u201c, berichtetdieZehntkl\u00e4sslerin.DasThemalie\u00dfSintjenichtmehr los. Als sie dann dieM\u00f6glichkeit hatte, mitihrenMitsch\u00fclerinnen Tomke Alb-recht und Josephine Daries\u00fcber den Kunst-Kurs derSchule an einemKurzfilm-wettbewerb teilzunehmen,wardasThemadesgemeinsa-menFilmesschnellgefunden.Und diese Entscheidung hatschonjetztFr\u00fcchtegetragen.Ein Platzauf dem Podest\u201eWir haben die Benach-richtigung vomVeranstalterbekommen, dass der Film,den die Sch\u00fclerinnen ,Unan-tastbar\u2018genannthaben,unterdieTopTenallereingereich-ten Beitr\u00e4ge gew\u00e4hltwurde\u201c,berichtetLehrerinAlinaEdel-mann,diedenKunst-Kurslei-tet.Obesf\u00fcreinenPlatzaufdemPodestreicht, wei\u00df dieP\u00e4dagogin aber jetztnochnicht.\u201eDaswirdsicham3.Aprilzeigen.\u201eDannfahrenwirzuroffiziellen Bekanntgabe derErgebnisse nach Hannover\u201c,sagtEdelmann.Bisdahinha-be sich auchentschieden,welcherFilmbeitragdenPub-likumspreis f\u00fcr die meistenAufrufe erh\u00e4lt. Und momen-tanliegtderKurzfilmausRas-tede mitetwa1500 Aufrufenvorne. \u201eDakommen hoffent-lich nochviele Aufrufe mehrzusammen\u201c, sagt die Lehre-rin.DenFilmanzusehenloh-nesichaufjedenFall.Inhaltlich haben sich dieSch\u00fclerinnenmitdemThemaPflege auseinandergesetzt.Daf\u00fcrwarensieimAltenheim\u201ePetershof\u201c in Rastede undhaben Interviews mitPflege-kr\u00e4ften und Bewohnern ge-f\u00fchrt.\u201eEsisttoll,dasswirimPe-tershofdrehen durften\u201c, sagtJosephine.DieMitarbeiterha-ben uns wirklich gutunter-st\u00fctzt. Und auchdie Bewoh-ner waren begeistert. Einigehaben sogar gefragt, was siezumDrehtag anziehen sol-len\u201c,erinnertsiesich.Obwohl die Sch\u00fclerinnendieSituationimPetershofalspositivempfunden haben,zeigen die Interviews dochdas generelle Problem, wennes um die Pflegesituation inDeutschland geht: \u201eGenugsindwirnie\u201c,lauteteinerderS\u00e4tze,dievomPersonalkom-men. Man w\u00fcrde sich gerneintensiver um die Bewohnerk\u00fcmmern, das sei wegen dergeringen Personaldecke aberoftnichtm\u00f6glich.Auch die Bezahlung derPflegekr\u00e4fteseinichtgerecht,sagteinerderBewohner.Vorallemwenn man bedenke,dass auchamSonntag ge-arbeitetwerdenm\u00fcsse.Ein weiterer Satz, der imFilm in diesem Zusammen-hang von einer Mitarbeiterinf\u00e4llt, ist\u201eMan hat immer dieZeitimNacken\u201c.Passendda-zuwirdeineSzeneeingeblen-det,inderdieHeimbewohnerGymnastik\u00fcbungenmitHolz-st\u00e4benmachen,diesiesichandenNackendr\u00fccken.AnStellenwiediesenmerktman, dass die Sch\u00fclerinnensich viel M\u00fche bei der Pro-duktion des Filmes gegebenhaben und es verstehen, dieEinzelinterviewsmitdempas-sendenBildmaterialausdemAlltag des Altenheimes zuunterstreichen.Dass die Filmproduktionnichteinfachist,habenTom-ke, Josephine und Sintje im-merwiedererfahrenm\u00fcssen.\u201eWir mussten einige Szenenmehrfachdrehen,weilimmerwieder etwas nichtgepassthat\u201c, berichtetTomke. UndauchdieInterviewsseienzumTeil sehr intensiv gewesen:\u201eDagingesaneinigenStellenauchumsehr pers\u00f6nlicheDinge\u201c, erinnert sich Sintje.Es sei schwer gewesen, in soeinerSituationnichtzuemo-tionalzureagieren.Schnittdauert StundenEine der langwierigstenArbeiten hatJosephine beisich zu Hause \u00fcbernommen:den Schnittdes Materials.\u201eDashatvieleStundengedau-ert\u201c, berichtetdie 15-J\u00e4hrige.\u201eDasgingnurinEtappen.\u201cAm Ende sind die Sch\u00fcle-rinnen mitihrem Ergebnismehr als nur zufrieden. \u201eIchhoffe,dassderFilm\u00f6ffentlichbekannt wird, damitMen-schenaufdieproblematischePflegesituation aufmerksamwerden\u201c, sagt Sintje, die sichselber vorstellen kann, ir-gendwann im Pflegebereichzuarbeiten.",
-        "id": "_c88dafq2f",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Schlecht bezahlte Jobs, harte Arbeit und wenig Zeit f\u00fcr das Zwischenmenschliche \u2013 wer sich f\u00fcr einen Beruf in der Pflege entscheidet, der hat es oft nicht leicht. Das hat auch Sintje Krause von der Kooperativen Gesamtschule in Rastede gemerkt.<\/p><p>\u201eDa habe ich zum ersten Mal den Pflegenotstand erlebt\u201c, berichtet die Zehntkl\u00e4sslerin. DasThema lie \u00dfSintje nicht mehr los. Als sie dann die M\u00f6glichkeit hatte, mit ihren Mitsch\u00fclerinnen Tomke Albrecht und Josephine Daries \u00fcber den Kunst-Kurs der Schule an einem Kurzfilm-Wettbewerb teilzunehmen, war das Thema des gemeinsamen Filmes schnell gefunden. Und diese Entscheidung hat schon jetzt Fr\u00fcchte getragen. Ein Platzauf dem Podest \u201eWir haben die Benachrichtigung vomVeranstalterbekommen, dass der Film,den die Sch\u00fclerinnen ,Unan-tastbar\u2018genannthaben,unter die Top Ten aller eingereichten Beitr\u00e4ge gew\u00e4hlt wurde\u201c,berichtet Lehrerin Alina Edelmann, die den Kunst-Kurs leitet. Ob es f\u00fcr einen Platz auf dem Podest reicht, wei\u00df die P\u00e4dagogin aber jetzt noch nicht. \u201eDas wird sich am 3 .April zeigen. \u201eDann fahren wir zur offiziellen Bekanntgabe der Ergebnisse nach Hannover\u201c,sagt Edelmann.<\/p><p>Bis dahin habe sich auch entschieden,welcherFilmbeitragdenPub-likumspreis f\u00fcr die meistenAufrufe erh\u00e4lt. Und momen-tanliegtderKurzfilmausRas-tede mitetwa1500 Aufrufenvorne. \u201eDakommen hoffent-lich nochviele Aufrufe mehrzusammen\u201c, sagt die Lehre-rin.DenFilmanzusehenloh-nesichaufjedenFall.Inhaltlich haben sich dieSch\u00fclerinnenmitdemThemaPflege auseinandergesetzt. Daf\u00fcr waren sie im Altenheim \u201ePetershof\u201c in Rastede und haben Interviews mit Pflegekr\u00e4ften und Bewohnern gef\u00fchrt. \u201eEs ist toll, dass wir im Petershof drehen durften\u201c, sagtJosephine.DieMitarbeiterha-ben uns wirklich gutunter-st\u00fctzt. Und auchdie Bewohner waren begeistert. Einigehaben sogar gefragt, was siezumDrehtag anziehen sol-len\u201c,erinnertsiesich.<\/p><p>Obwohl die Sch\u00fclerinnen die Situation im Petershof als positiv empfunden haben, zeigen die Interviews doch das generelle Problem, wenn es um die Pflegesituation in Deutschland geht: \u201eGenug sind wir nie\u201c, lautet einer der S\u00e4tze, die vom Persona lkommen. Man w\u00fcrde sich gerne intensiver um die Bewohner k\u00fcmmern, das sei wegen dergeringen Personaldecke aber oft nicht m\u00f6glich.<\/p><p>Auch die Bezahlung der Pflegekr\u00e4fte sei nicht gerecht, sagt einer der Bewohner. Vorallem wenn man bedenke, dass auch am Sonntag gearbeitet werden m\u00fcsse. Ein weiterer Satz, der im Film in diesem Zusammenhang von einer Mitarbeiterin f\u00e4llt, ist \u201eMan hat immer die Zeit im Nacken\u201c. Passend dazu wird eine Szene eingeblendet, in der die Heimbewohner Gymnastik\u00fcbungen mit Holzst\u00e4ben machen, die sie sich an den Nacken dr\u00fccken. An Stellen wie diesen merkt man, dass die Sch\u00fclerinnen sich viel M\u00fche bei der Produktion des Filmes gegebenh aben und es verstehen, die Einzelinterviews mit dem passenden Bildmaterial aus dem Alltag des Altenheimes zu unterstreichen.<\/p><p>Dass die Filmproduktion nicht einfach ist, haben Tomke, Josephine und Sintje immer wieder erfahren m\u00fcssen. \u201eWir mussten einige Szenen mehrfach drehen,weilimmerwieder etwas nichtgepassthat\u201c, berichtetTomke. UndauchdieInterviewsseienzumTeil sehr intensiv gewesen:\u201eDagingesaneinigenStellenauchumsehr pers\u00f6nlicheDinge\u201c, erinnert sich Sintje.Es sei schwer gewesen, in soeinerSituationnichtzuemo-tionalzureagieren.Schnittdauert StundenEine der langwierigstenArbeiten hatJosephine beisich zu Hause \u00fcbernommen:den Schnittdes Materials. \u201eDas hat viele Stunden gedauert\u201c, berichtet die 15-J\u00e4hrige. \u201eDas ging nur in Etappen.\u201c Am Ende sind die Sch\u00fclerinnen mit ihrem Ergebnis mehr als nur zufrieden. \u201eIch hoffe, dass der Film \u00f6ffentlich bekannt wird, damit Menschen auf die problematische Pflegesituation aufmerksam werden\u201c, sagt Sintje, die sich selber vorstellen kann, irgendwann im Pflegebereich zu arbeiten.<\/p>"},"id":"da3a50d2-4af7-42bc-92f8-fa477a5cfa4a","isHidden":false,"type":"text"}]
 
 ----
 
@@ -25,7 +16,11 @@ Gallery:
 
 ----
 
-Date: 2019-03-16 10:45
+Date: 2019-03-16 10:45:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -33,12 +28,16 @@ Author: Wolfgang Alexander Meyer
 
 ----
 
-Tags: Kunst
+Tags: Kunst, Wettbewerb
 
 ----
 
-Featured: true
+Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: true

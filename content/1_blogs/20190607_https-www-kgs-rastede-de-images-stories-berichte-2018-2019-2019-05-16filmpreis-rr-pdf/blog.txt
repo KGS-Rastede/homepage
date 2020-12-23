@@ -6,16 +6,7 @@ Heading: Reportage „Unantastbar“ erzielt 3. Platz beim größten inklusiven 
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Von Stefanie Jahn | \u201eGanz sch\u00f6n aufregend\u201c lautete das diesj\u00e4hrige Motto des Wettbe-werbs, und ganz sch\u00f6n aufre-gend war es sicherlich auch f\u00fcr Josephine Daries, Sintje Krau-se und Tomke Albrecht, als sie k\u00fcrzlich auf der B\u00fchne des Astor Grand Cinemas in Hannover den 3. Preis beim inklusiven Sch\u00fc-ler Kurzfilmwettbewerb \u201eganz sch\u00f6n anders\u201c entgegennehmen durften. Gewonnen hatten die drei mit ihrer Reportage \u201eUnan-tastbar\u201c zum Thema Pflegenot-stand und Menschenw\u00fcrde.Im Kunstunterricht hatten sie im Vorfeld das Thema Film be-handelt und erste Erfahrungen zu Montagetechniken und dem Erstellen eines Storyboards sammeln k\u00f6nnen. Sintje lie-ferte die inhaltliche Idee, die aus ihrem Sch\u00fclerpraktikum im Krankenhaus entstanden war. Im Gegensatz zu anderen Kursteilnehmern agierte das Team nicht selbst als Schau-spieler, sondern fragte im Ra-steder Pflegeheim Petershof an, ob dort ein Filmdreh m\u00f6g-lich sei. Gemeinsam wurden dann ein Storyboard erstellt und Interviews vorbereitet. Es sollte eine \u201erealit\u00e4tsgetreue Filmarbeit\u201c entstehen, so Alina Edelmann, Lehrkraft an der KGS und Leiterin des Kunstkurses. Unterst\u00fctzt wurden die drei Sch\u00fclerinnen der Klasse 10E3 der KGS vom Mediengestalter Marvin Dohrmann aus Bremen, der auch das Equipment zur Verf\u00fcgung stellte. Mit dem Film m\u00f6chten die drei die \u00d6ffent-lichkeit und auch die Politik erreichen. Nicht zuletzt wollten sie aber auch den Wettbewerb gewinnen. Dass daraus dann sogar der 3. Platz wurde, ist, so Alina Edelmann, sehr bemer-kenswert, da das Hauptaugen-merk eher auf Sch\u00fclern mit Beeintr\u00e4chtigungen liege. Ganz sch\u00f6n aufregend ging es dann bei der Preisverleihung zu: Fast der gesamte Kunstkurs und auch Alina Edelmann fieberten in Hannover mit, als die Preis-tr\u00e4gerinnen vor gro\u00dfem Pub-likum auf die B\u00fchne mussten. Diese Aufgabe meisterten sie souver\u00e4n, findet ihre Lehrerin. Der Preis, eine Fr\u00fchst\u00fcckseinla-dung f\u00fcr den gesamten Kunst-kurs, soll noch vor den Som-merferien eingel\u00f6st werden.Die Sch\u00fclerinnen sind offen f\u00fcr R\u00fcckmeldungen und freuen sich \u00fcber Resonanz und zahlrei-che Klicks. Lohnenswert ist der Film allemal, der auf Youtube un-ter https://www.youtube.com/watch?v=UaUYoh67qPM&amp;t=19s zu finden ist.",
-        "id": "_l0bh4ydg3",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>\u201eGanz sch\u00f6n aufregend\u201c lautete das diesj\u00e4hrige Motto des Wettbewerbs, und ganz sch\u00f6n aufregend war es sicherlich auch f\u00fcr Josephine Daries, Sintje Krause und Tomke Albrecht, als sie k\u00fcrzlich auf der B\u00fchne des Astor Grand Cinemas in Hannover den 3. Preis beim inklusiven Sch\u00fc-ler Kurzfilmwettbewerb \u201eganz sch\u00f6n anders\u201c entgegennehmen durften. Gewonnen hatten die drei mit ihrer Reportage \u201eUnantastbar\u201c zum Thema Pflegenotstand und Menschenw\u00fcrde.Im Kunstunterricht hatten sie im Vorfeld das Thema Film be-handelt und erste Erfahrungen zu Montagetechniken und dem Erstellen eines Storyboards sammeln k\u00f6nnen. Sintje lie-ferte die inhaltliche Idee, die aus ihrem Sch\u00fclerpraktikum im Krankenhaus entstanden war. Im Gegensatz zu anderen Kursteilnehmern agierte das Team nicht selbst als Schauspieler, sondern fragte im Rasteder Pflegeheim Petershof an, ob dort ein Filmdreh m\u00f6glich sei. Gemeinsam wurden dann ein Storyboard erstellt und Interviews vorbereitet. Es sollte eine \u201erealit\u00e4tsgetreue Filmarbeit\u201c entstehen, so Alina Edelmann, Lehrkraft an der KGS und Leiterin des Kunstkurses. Unterst\u00fctzt wurden die drei Sch\u00fclerinnen der Klasse 10E3 der KGS vom Mediengestalter Marvin Dohrmann aus Bremen, der auch das Equipment zur Verf\u00fcgung stellte. Mit dem Film m\u00f6chten die drei die \u00d6ffent-lichkeit und auch die Politik erreichen. Nicht zuletzt wollten sie aber auch den Wettbewerb gewinnen. <\/p><p>Dass daraus dann sogar der 3. Platz wurde, ist, so Alina Edelmann, sehr bemerkenswert, da das Hauptaugenmerk eher auf Sch\u00fclern mit Beeintr\u00e4chtigungen liege. Ganz sch\u00f6n aufregend ging es dann bei der Preisverleihung zu: Fast der gesamte Kunstkurs und auch Alina Edelmann fieberten in Hannover mit, als die Preistr\u00e4gerinnen vor gro\u00dfem Publikum auf die B\u00fchne mussten. Diese Aufgabe meisterten sie souver\u00e4n, findet ihre Lehrerin. Der Preis, eine Fr\u00fchst\u00fcckseinla-dung f\u00fcr den gesamten Kunst-kurs, soll noch vor den Som-merferien eingel\u00f6st werden. Die Sch\u00fclerinnen sind offen f\u00fcr R\u00fcckmeldungen und freuen sich \u00fcber Resonanz und zahlrei-che Klicks. Lohnenswert ist der Film allemal, der auf Youtube unter <a href=\"https:\/\/www.youtube.com\/watch?v=UaUYoh67qPM&amp;t=19s\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=UaUYoh67qPM&amp;t=19s\" rel=\"noopener noreferrer nofollow\">https:\/\/www.youtube.com\/watch?v=UaUYoh67qPM&amp;t=19s<\/a> zu finden ist.<\/p>"},"id":"b40d1ca9-cccb-4757-88fe-7d05d3630452","isHidden":false,"type":"text"}]
 
 ----
 
@@ -25,7 +16,11 @@ Gallery:
 
 ----
 
-Date: 2019-06-07 10:50
+Date: 2019-06-07 10:50:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -33,12 +28,16 @@ Author: Stefanie Jahn
 
 ----
 
-Tags: Kunst
+Tags: Kunst, Wettbewerb
 
 ----
 
-Featured: false
+Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
