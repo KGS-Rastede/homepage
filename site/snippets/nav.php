@@ -6,7 +6,7 @@
         -->
     <div class="d-none d-sm-none d-lg-block d-xl-block">
       <a class="logo" href="<?= $site->url() ?>">
-        <?= asset('assets/bilder/logo.svg')->read() ?>
+        <?= asset('assets/bilder/logo_light.svg')->read() ?>
       </a>
     </div>
     <a class="navbar-brand d-block d-sm-block d-lg-none text-white" href="<?= $site->url() ?>">KGS Rastede</a>

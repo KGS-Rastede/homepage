@@ -11,7 +11,7 @@
             -->
       <div class="d-none d-sm-none d-lg-block d-xl-block">
         <a class="logo" href="<?= $site->url() ?>">
-          <?= asset('assets/bilder/logo.svg')->read() ?>
+          <?= asset('assets/bilder/logo_light.svg')->read() ?>
         </a>
       </div>
 
