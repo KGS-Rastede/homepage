@@ -1,0 +1,45 @@
+Title: Valentinstag
+
+----
+
+Heading: Auch dieses Jahr flogen die Liebesboten durch die Schule.
+
+----
+
+Text: [{"content":{"text":"<p>Am Freitag, den 14.02.2020 haben wir ca. 950 Herzen an Sch\u00fclerinnen und Sch\u00fcler aller Jahrg\u00e4nge der KGS Rastede verteilt.<\/p><p>Wie jedes Jahr haben wir zuvor die Herzen bestellt und an euch weitergegeben. Die \u201eLiebesgr\u00fc\u00dfe\u201c wurden nach eigenem Belieben gestaltet, wodurch sehr sch\u00f6ne und bunte Herzen entstanden sind. Die meisten von ihnen \u00fcberbrachten wir in den Jahrg\u00e4ngen f\u00fcnf bis neun, wobei es sehr \u00fcberraschend war, dass viele Sch\u00fclerinnen und Sch\u00fcler aus der Oberstufe an der Aktion teilgenommen und sehns\u00fcchtig ihre Herzen erwartet haben.<\/p><p>Auch gab es dieses Jahr viele Lehrerinnen und Lehrer, die Herzen an ihre Klassen verschickten oder welche von ihnen erhielten, was uns sehr gefreut hat.<\/p><p>Wir entschuldigen uns f\u00fcr die versp\u00e4teten Herzen, die aufgrund von Unterrichtsausf\u00e4llen und verpassten R\u00fcckgaben der Herzen nicht rechtzeitig verteilt werden konnten. Die Sch\u00fclervertretung wird n\u00e4chstes Jahr versuchen alle fr\u00fchzeitig zu informieren.<\/p><p>Schlie\u00dflich bedanken wir uns bei euch und hoffen, dass wir n\u00e4chstes Jahr einen weiteren sch\u00f6nen Valentinstag an der KGS Rastede haben werden.<\/p><p>Eure SV<\/p>"},"id":"d3ddea43-15ba-4968-8e61-677434e32d8e","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-03-04 10:35:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Lasse
+
+----
+
+Tags: SV
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false
