@@ -1,0 +1,32 @@
+title: Artikel des SER oder der SV
+num: '{{ page.date.toDate("YmdHi") }}'
+icon: 📖
+
+options:
+  update:
+    admin: true
+
+
+sections:
+  content:
+    type: fields
+    fields:
+      heading:
+        type: text
+        label: Untertitel
+
+  drafts:
+    headline: noch nicht öffentlich
+    type: pages
+    status: draft
+    templates: artikel
+    sortBy: date desc
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
+
+  published:
+    headline: öffentlich einsehbar
+    type: pages
+    status: listed
+    templates: artikel
+    sortBy: date desc
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
