@@ -4,7 +4,7 @@ return function ($kirby, $pages, $page) {
     $alert = null;
 
     if ($kirby->request()->is('POST') && get('submit')) {
-        if ($page->tickets()->isEmpty()){ //Sind überhaupt tickets vorhanden?
+        if ($page->tickets()->isEmpty()){ //Sind überhaupt Tickets vorhanden?
             go($page->url());
             exit;
         }
@@ -21,7 +21,8 @@ return function ($kirby, $pages, $page) {
         ];
 
         $rules = [
-            'mail'  => ['required', 'minLength' => 3, 'maxLength' => 30],
+            'mail' => ['required', 'email'],
+
         ];
 
         $messages = [
@@ -32,14 +33,14 @@ return function ($kirby, $pages, $page) {
         if ($invalid = invalid($data, $rules, $messages)) {
             $alert = $invalid;
 
-            // Daten sind korrekt -> ticket bestimmen und E-Mail senden
+            // Daten sind korrekt -> Ticket bestimmen und E-Mail senden
         } else {
             
-            $arr_tickets = $page->tickets()->nl2br()->split('<br>'); //Alle tickets im Array speichern
+            $arr_tickets = $page->tickets()->nl2br()->split('<br>'); //Alle Tickets im Array speichern
             $data['ticket'] = $arr_tickets[0]; //Erstes Ticket speichern für E-Mail
             unset($arr_tickets[0]); //Erstes Ticket aus dem Array löschen
             $ubrige_tickets = implode("\n", $arr_tickets); //Das Array zu einem String umformen
-            $page->update([ 'tickets' => $ubrige_tickets ]); //Übrige Tickets wieder speichern
+            // $page->update([ 'tickets' => $ubrige_tickets ]); //Übrige Tickets wieder speichern
             $anzahl_ubrige_tickets = count($arr_tickets); //Anzahl der übrigen Tickets bestimmen
             
 
