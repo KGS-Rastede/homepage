@@ -6,22 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Der diesj\u00e4hrige Spanienaustausch fand vom 23.09.19 bis zum 01.10.19 statt. Den fast achtt\u00e4gigen Aufenthalt verbrachten wir bei unseren Austauschsch\u00fclern in Madrid.<br>Am Montag ging es fr\u00fch morgens f\u00fcr uns los zum Hamburger Flughafen bis nach Madrid, wo wir bereits herzlich von den Spaniern begr\u00fc\u00dft wurden. Danach ging es f\u00fcr jeden von uns in seine Gastfamilie.",
-        "id": "_uke4Tj2s6",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Abends traf sich noch die ganze Gruppe, jedoch ohne Lehrer, im Park. Dienstag haben wir uns um 08:30 Uhr zum Fr\u00fchst\u00fccken in der Schule getroffen. Danach waren wir bei einer Unterrichtsstunde dabei und sind dann anschlie\u00dfend ins Zentrum von Madrid gefahren, um die Stadt erstmals zu erkunden und schon ein wenig kennenzulernen. Wie fast jeden Abend haben sich manche noch in kleinen Gruppen getroffen. Mittwoch sind wir alle zusammen nach Toledo gefahren. Dort haben wir das Museum \u201eCasa del Greco\u201c besucht und sind in Kleingruppen eine Route durch die Stadt gegangen. Wir mussten oft viel laufen, was sich am Ende des Tages aber immer gelohnt hat. Ansonsten sind wir l\u00e4ngere Strecken mit den \u00f6ffentlichen Verkehrsmitteln gefahren. Am Donnerstag hatten wir wieder eine Unterrichtsstunde mit den Spaniern. Im spanischen Unterricht gibt es keine m\u00fcndliche Mitarbeit. Der Lehrer ist der einzige, der redet. Nach der Stunde sind wir nach Aranjuez gefahren, wo wir eine F\u00fchrung durch den Palast bekommen haben. Freitag war der einzige Tag, an dem wir ohne unsere Austauschsch\u00fcler unterwegs waren. Zuerst waren wir im Museum Reina Sof\u00eda, wo wir u.a. Pablo Picassos Bild \u201eGuernica\u201c sahen. Sp\u00e4ter hatten wir etwas Zeit, um ein wenig shoppen zu gehen und die ber\u00fchmten \u201eBocadillos de Calamares \u201e (Tintenfischbr\u00f6tchen) zu probieren. Am Wochenende war kein Programm geplant, trotzdem haben wir viel zusammen unternommen. Samstag waren alle M\u00e4dchen in einem Freizeitpark w\u00e4hrend die Jungs Paintball gespielt haben. Abends wurde eine Party in einem gemieteten Raum veranstaltet. Sonntag wurde etwas mit der Gastfamilie unternommen. Viele liefen \u00fcber den Rastro, einen bekannten Flohmarkt, manche besuchten sogar das Stadion von Atl\u00e9tico \u201eWanda Metropolitano\u201c, das Wachsfigurenmuseum oder waren typisch spanisch Essen. Montag trafen wir uns in der Schule, um die Abschiedsfeier zu planen und vorzubereiten. Wir f\u00fchrten T\u00e4nze auf, zeigten eine Diashow mit Bildern von den vergangenen Tagen und a\u00dfen zusammen. Dienstag mussten wir uns fr\u00fch morgens schweren Herzens von den Spaniern verabschieden. <br>Wir hatten auf jeden Fall eine sch\u00f6ne Zeit in Spanien, mit viel Spa\u00df bei den Ausfl\u00fcgen, trotz des vielen Laufens, aber auch zu Hause mit den Gastgeschwistern. Das gute Wetter war Nebensache. Au\u00dferdem sind wir uns einig, dass wir in kurzer Zeit einen tollen Eindruck von dem Land und vor allem von Madrid bekommen haben. Das einzig bl\u00f6de war der Abschied, weil viele enge Freundschaften zu den Spaniern entstanden sind.",
-        "id": "_6RXrBHQbb",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Der diesj\u00e4hrige Spanienaustausch fand vom 23.09.19 bis zum 01.10.19 statt. Den fast achtt\u00e4gigen Aufenthalt verbrachten wir bei unseren Austauschsch\u00fclern in Madrid.<br>Am Montag ging es fr\u00fch morgens f\u00fcr uns los zum Hamburger Flughafen bis nach Madrid, wo wir bereits herzlich von den Spaniern begr\u00fc\u00dft wurden. Danach ging es f\u00fcr jeden von uns in seine Gastfamilie.<\/p>"},"id":"cd5d323b-44f4-4e01-8a58-9909f868d1ed","isHidden":false,"type":"text"},{"content":{"text":"<p>Abends traf sich noch die ganze Gruppe, jedoch ohne Lehrer, im Park. Dienstag haben wir uns um 08:30 Uhr zum Fr\u00fchst\u00fccken in der Schule getroffen. Danach waren wir bei einer Unterrichtsstunde dabei und sind dann anschlie\u00dfend ins Zentrum von Madrid gefahren, um die Stadt erstmals zu erkunden und schon ein wenig kennenzulernen. Wie fast jeden Abend haben sich manche noch in kleinen Gruppen getroffen. Mittwoch sind wir alle zusammen nach Toledo gefahren. Dort haben wir das Museum \u201eCasa del Greco\u201c besucht und sind in Kleingruppen eine Route durch die Stadt gegangen. Wir mussten oft viel laufen, was sich am Ende des Tages aber immer gelohnt hat. Ansonsten sind wir l\u00e4ngere Strecken mit den \u00f6ffentlichen Verkehrsmitteln gefahren. Am Donnerstag hatten wir wieder eine Unterrichtsstunde mit den Spaniern. Im spanischen Unterricht gibt es keine m\u00fcndliche Mitarbeit. Der Lehrer ist der einzige, der redet. Nach der Stunde sind wir nach Aranjuez gefahren, wo wir eine F\u00fchrung durch den Palast bekommen haben. Freitag war der einzige Tag, an dem wir ohne unsere Austauschsch\u00fcler unterwegs waren. Zuerst waren wir im Museum Reina Sof\u00eda, wo wir u.a. Pablo Picassos Bild \u201eGuernica\u201c sahen. Sp\u00e4ter hatten wir etwas Zeit, um ein wenig shoppen zu gehen und die ber\u00fchmten \u201eBocadillos de Calamares \u201e (Tintenfischbr\u00f6tchen) zu probieren. <\/p><p>Am Wochenende war kein Programm geplant, trotzdem haben wir viel zusammen unternommen. Samstag waren alle M\u00e4dchen in einem Freizeitpark w\u00e4hrend die Jungs Paintball gespielt haben. Abends wurde eine Party in einem gemieteten Raum veranstaltet. Sonntag wurde etwas mit der Gastfamilie unternommen. Viele liefen \u00fcber den Rastro, einen bekannten Flohmarkt, manche besuchten sogar das Stadion von Atl\u00e9tico \u201eWanda Metropolitano\u201c, das Wachsfigurenmuseum oder waren typisch spanisch Essen. Montag trafen wir uns in der Schule, um die Abschiedsfeier zu planen und vorzubereiten. Wir f\u00fchrten T\u00e4nze auf, zeigten eine Diashow mit Bildern von den vergangenen Tagen und a\u00dfen zusammen. Dienstag mussten wir uns fr\u00fch morgens schweren Herzens von den Spaniern verabschieden.<\/p><p>Wir hatten auf jeden Fall eine sch\u00f6ne Zeit in Spanien, mit viel Spa\u00df bei den Ausfl\u00fcgen, trotz des vielen Laufens, aber auch zu Hause mit den Gastgeschwistern. Das gute Wetter war Nebensache. Au\u00dferdem sind wir uns einig, dass wir in kurzer Zeit einen tollen Eindruck von dem Land und vor allem von Madrid bekommen haben. Das einzig bl\u00f6de war der Abschied, weil viele enge Freundschaften zu den Spaniern entstanden sind.<\/p>"},"id":"288a62c7-a525-427e-839e-a70aefc77fb5","isHidden":false,"type":"text"}]
 
 ----
 
@@ -29,7 +14,11 @@ Gallery:
 
 ----
 
-Date: 2019-09-23 08:55
+Date: 2019-09-23 08:55:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -41,16 +30,16 @@ Tags: Spanisch, Austausch
 
 ----
 
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

@@ -8,7 +8,7 @@
 
 
 <div class="container">
-<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 mx-4">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 mx-4 justify-content-center">
   <?php foreach ($page->children() as $sf) : ?>
     <div class="col mb-4">
       <div class="card">

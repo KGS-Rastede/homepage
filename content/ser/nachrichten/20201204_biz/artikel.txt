@@ -18,28 +18,9 @@ Date: 2020-12-04 16:15:00
 
 ----
 
-Datumstartseite: 
-
-----
-
-Author: 
-
-----
-
-Tags: SER
-
-----
-
 Downloads: 
 
 ----
 
 Fotoansicht: gallery
 
-----
-
-Featured: false
-
-----
-
-Immer-sichtbar: false

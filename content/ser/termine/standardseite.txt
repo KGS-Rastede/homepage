@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"level":"h2","text":"N\u00e4chste Termine"},"id":"4316476f-0ddc-4720-8224-490c699bae5e","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>SER-Sitzung<\/strong><\/p>"},"id":"6cf01d4a-bb85-4f1c-a8b0-56e3a6434308","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>24.03.2020 um 19:30 Uhr in der Aula<\/li><\/ul>"},"id":"d53f0704-3b63-42c6-b3e6-f0c1aeb6f637","isHidden":false,"type":"list"},{"content":{"text":"<strong>Fachkonferenzen<\/strong>"},"id":"96bd0d49-7475-4d60-b2f0-ba05a04f1cc4","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>09.03.2020: Deutsch, Mathematik<\/p><\/li><li><p>17.03.2020: Biologie, Physik, Chemie<\/p><\/li><li><p>20.04.2020: WI, HW, TH, DS, WE<\/p><\/li><li><p>27.04.2020: Sport, Erdkunde, Politik, Geschichte<\/p><\/li><li><p>18.05.2020: Musik, Kunst<\/p><\/li><\/ul>"},"id":"94e79538-5ce4-4d20-b681-dc6ebc095c62","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Steuerungsausschuss<\/strong><\/p>"},"id":"9c3a533b-2be4-439d-a7da-d9351c135856","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>18.02.2020 um 16:15 Uhr<\/li><\/ul>"},"id":"51eba100-cc23-4111-8a01-50260a9acd83","isHidden":false,"type":"list"},{"content":{"text":"<strong>Gesamtkonferenz<\/strong>"},"id":"13ab5bf2-29f9-46ed-9d41-aaefcceb3a8d","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>03.03.2020 um 16:15 Uhr<\/p><\/li><li><p>19.05.2020<\/p><\/li><\/ul>"},"id":"62ca2a06-301e-42b6-a88b-c928fa8aac59","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Elternsprechtage<\/strong><\/p>"},"id":"d06f5eb0-e479-4e2d-953c-ae74726c0c4a","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>11.02.2020<\/p><\/li><\/ul>"},"id":"4bcd920c-203e-40cc-ae52-9eac478c7c0f","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Schulvorstand<\/strong><\/p>"},"id":"6c70e791-ce7f-46c8-a921-1479ec0128f7","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>09.06.2020 von 17-19 Uhr<\/p><\/li><\/ul>"},"id":"723bbc4a-9e17-4d86-82f4-2e38a273ff0f","isHidden":false,"type":"list"}]
+Text: [{"content":{"level":"h2","text":"N\u00e4chste Termine"},"id":"4316476f-0ddc-4720-8224-490c699bae5e","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>SER-Sitzung<\/strong><\/p>"},"id":"6cf01d4a-bb85-4f1c-a8b0-56e3a6434308","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>24.03.2020 um 19:30 Uhr in der Aula<\/p><\/li><\/ul>"},"id":"d53f0704-3b63-42c6-b3e6-f0c1aeb6f637","isHidden":false,"type":"list"},{"content":{"text":"<strong>Fachkonferenzen<\/strong>"},"id":"96bd0d49-7475-4d60-b2f0-ba05a04f1cc4","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>09.03.2020: Deutsch, Mathematik<\/p><\/li><li><p>17.03.2020: Biologie, Physik, Chemie<\/p><\/li><li><p>20.04.2020: WI, HW, TH, DS, WE<\/p><\/li><li><p>27.04.2020: Sport, Erdkunde, Politik, Geschichte<\/p><\/li><li><p>18.05.2020: Musik, Kunst<\/p><\/li><\/ul>"},"id":"94e79538-5ce4-4d20-b681-dc6ebc095c62","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Steuerungsausschuss<\/strong><\/p>"},"id":"9c3a533b-2be4-439d-a7da-d9351c135856","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>18.02.2020 um 16:15 Uhr<\/p><\/li><\/ul>"},"id":"51eba100-cc23-4111-8a01-50260a9acd83","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Gesamtkonferenz<\/strong><\/p>"},"id":"13ab5bf2-29f9-46ed-9d41-aaefcceb3a8d","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>03.03.2020 um 16:15 Uhr<\/p><\/li><li><p>19.05.2020<\/p><\/li><\/ul>"},"id":"62ca2a06-301e-42b6-a88b-c928fa8aac59","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Elternsprechtage<\/strong><\/p>"},"id":"d06f5eb0-e479-4e2d-953c-ae74726c0c4a","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>11.02.2020<\/p><\/li><\/ul>"},"id":"4bcd920c-203e-40cc-ae52-9eac478c7c0f","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Schulvorstand<\/strong><\/p>"},"id":"6c70e791-ce7f-46c8-a921-1479ec0128f7","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>09.06.2020 von 17-19 Uhr<\/p><\/li><\/ul>"},"id":"723bbc4a-9e17-4d86-82f4-2e38a273ff0f","isHidden":false,"type":"list"}]
 
 ----
 
@@ -30,15 +30,7 @@ Sidetitel: Mehr zum Thema
 
 ----
 
-Sidebar:
-
-- 
-  link: https://www.google.de/
-  name: Das ist der erste Link
-- 
-  link: >
-    https://getkirby.com/docs/reference/templates/field-methods/to-structure
-  name: Hier geht es zu Kirby
+Sidebar: 
 
 ----
 

@@ -6,40 +6,11 @@ Heading:
 
 ----
 
-Text:
+Text: [{"content":{"level":"h3","text":"Kontakt"},"id":"53635494-6b76-4c0d-b473-a0dc7c3a1fc0","isHidden":false,"type":"heading"},{"content":{"text":"<p>EMail: <a href=\"mailto:schulbus@kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">schulbus@kgs-rastede.de<\/a><\/p>"},"id":"12281720-a25a-4eb7-99d0-d8ce43f6be4c","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Weitere Informationen"},"id":"02941f7e-0d35-47ab-984f-075b1b50175c","isHidden":false,"type":"heading"},{"content":{"text":"Anfragen zum Schulbusverkehr werden \u00fcber einen Verteiler an die zust\u00e4ndigen Stellen weitergeleitet. Die Emailadresse lautet: <a href=\"mailto:schulbus@kgs-rastede.de\">schulbus@kgs-rastede.de<\/a>"},"id":"852108de-a695-454f-aeeb-d051e556c459","isHidden":false,"type":"text"}]
 
-[
-    {
-        "attrs": [],
-        "content": "Kontakt",
-        "id": "_E65HiW0XM",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "EMail: <a href=\"mailto:schulbus@kgs-rastede.de\">schulbus@kgs-rastede.de</a>",
-        "id": "_3EhVqlpZB",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_52s9vx7lo",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Weitere Informationen",
-        "id": "_6SwnKvGxA",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Anfragen zum Schulbusverkehr werden über einen Verteiler an die zuständigen Stellen weitergeleitet. Die Emailadresse lautet: <a href=\"mailto:schulbus@kgs-rastede.de\">schulbus@kgs-rastede.de</a>",
-        "id": "_y3axG1Dp5",
-        "type": "paragraph"
-    }
-]
+----
+
+Relatedtitel: 
 
 ----
 
@@ -47,11 +18,11 @@ Related:
 
 ----
 
-Downloads: 
+Downloadtitel: 
 
 ----
 
-Toggle: true
+Downloads: 
 
 ----
 
@@ -64,3 +35,7 @@ Sidebar:
 - 
   link: https://www.vwg.de/
   name: Homepage der VWG
+
+----
+
+Toggle: true

@@ -2,44 +2,11 @@ Title: Erste Klappe fällt im Klassenzimmer
 
 ----
 
-Heading: SCHULE Video-AG der KGS dreht eigene Filme – Teilnahme an Wettbewerb geplant
+Heading: Video-AG der KGS dreht eigene Filme – Teilnahme an Wettbewerb geplant
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Schule, Gemeinde, Förderverein und Sponsoren investierten in die Ausrüstung. Bis zu den Sommerferien wollen die Jungs einen Kurzfilm produzieren.",
-        "id": "_3la2g9mmd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Angefangen hat alles mit der Kamera seiner Mutter. Die schnappte sich Lenn und drehte in seiner Freizeit gemeinsam mit seiner Schwester kurze Filme. „Wir haben alles Mögliche ausprobiert“, erinnert sich der 14-Jährige. „Faszination Zeitlupe“ oder „Im Leben einer Katze“ heißen seine Projekte. Mittlerweile besitzt er sogar einen eigenen Camcorder. Seine Leidenschaft teilt der Achtklässler mit einigen Mitschülern. Seit Beginn des Schuljahres ist Lenn Mitglied in der Video-AG der Kooperativen Gesamtschule in Rastede. Normalerweise sind sie zu siebt. An diesem Nachmittag, dem ersten Treffen im neuen Halbjahr, brüten neben Lenn nur Kester, Vincent und Kenard über ihren Filmideen.",
-        "id": "_oc1ul5a04",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "AG-Leiter Lutz Weusmann hat viel vor: Er will mit seinen Schülern an einemWettbewerb teilnehmen. Die „Auricher Filmklappe“ ist das Ziel. Bis zu den Sommerferien hat die Gruppe Zeit. Das Thema kann sie frei wählen. Mit Lutz Weusmann haben die Jungs gute Chancen: Der Lehrer für Physik und Religion hat bereits mit anderen Schülern an Filmwettbewerben teilgenommen und Preise abgeräumt. Zunächst hatte er im Unterricht mitseinen Schülern Filme analysiert. „Aber wenn man Medienkompetenz bei den Schülern erreichen will, ist es noch besser, wenn sie selber Filme machen“, betont Weusmann.",
-        "id": "_97rnp8319",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Hauptidee sei, dass seine Schüler kritisch Fernsehen gucken, erklärt er. In den vergangenen Monaten bildete sich Weusmann weiter. Er nahm an der berufsbegleitenden Qualifizierung „Taschengeldkino – Film und Filmen in der Schule“ an der Bundesakademie für kulturelle Bildung in Wolfenbüttel teil. Dort wurde er von Kameramännern, Regisseuren, Drehbuchautoren und anderen Profis in die Filmproduktion eingeführt und darf sich nun Filmlehrer nennen. In diesem Halbjahr kann er mit der Video-AG richtig durchstarten: Die gesamte Ausrüstung ist einsatzbereit. Im vergangenen Jahr hakte es hier und da noch. So dauertees, bis das Schnittprogrammauf den neuangeschafften Laptops installiert war.",
-        "id": "_d1y42qh1p",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Dennoch drehte die Video-AG kurze Filme, unter anderem über ihre Lieblingsorte. Vier hochwertige Kamera-Sets hat die Schule im vergangenen Halbjahr angeschafftund dazu passend vier Schnittplätze eingerichtet. Neben der Schule haben die Gemeinde Rastede, der Förderverein der Schule und Sponsoren in das Projekt investiert. Für ihren Filmbeitrag haben die Jungs an diesem Nachmittag erste Ideen entwickelt. Komisch sollte ihr Beitrag sein, finden Kester und Vincent. „Oder vielleicht ein Dokumentarfilm“, schlägt Lenn vor, der am liebsten alle Aufgaben übernehmen würde: „Ich bin gerne Kameramann, Regisseur und Cutter“, sagt er. Wer schauspielert, müssen die Jungs noch klären, das machen nicht alle gerne.",
-        "id": "_sgw4tfhup",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Schule, Gemeinde, F\u00f6rderverein und Sponsoren investierten in die Ausr\u00fcstung. Bis zu den Sommerferien wollen die Jungs einen Kurzfilm produzieren.<\/p>"},"id":"28ec80d7-e6a0-4db8-ab36-c3a3a96a60bc","isHidden":false,"type":"text"},{"content":{"text":"<p>Angefangen hat alles mit der Kamera seiner Mutter. Die schnappte sich Lenn und drehte in seiner Freizeit gemeinsam mit seiner Schwester kurze Filme. \u201eWir haben alles M\u00f6gliche ausprobiert\u201c, erinnert sich der 14-J\u00e4hrige. \u201eFaszination Zeitlupe\u201c oder \u201eIm Leben einer Katze\u201c hei\u00dfen seine Projekte. Mittlerweile besitzt er sogar einen eigenen Camcorder. Seine Leidenschaft teilt der Achtkl\u00e4ssler mit einigen Mitsch\u00fclern. Seit Beginn des Schuljahres ist Lenn Mitglied in der Video-AG der Kooperativen Gesamtschule in Rastede. Normalerweise sind sie zu siebt. An diesem Nachmittag, dem ersten Treffen im neuen Halbjahr, br\u00fcten neben Lenn nur Kester, Vincent und Kenard \u00fcber ihren Filmideen.<\/p>"},"id":"a8fa0e86-d043-45e5-918e-ec2aad913f4e","isHidden":false,"type":"text"},{"content":{"text":"<p>AG-Leiter Lutz Weusmann hat viel vor: Er will mit seinen Sch\u00fclern an einemWettbewerb teilnehmen. Die \u201eAuricher Filmklappe\u201c ist das Ziel. Bis zu den Sommerferien hat die Gruppe Zeit. Das Thema kann sie frei w\u00e4hlen. Mit Lutz Weusmann haben die Jungs gute Chancen: Der Lehrer f\u00fcr Physik und Religion hat bereits mit anderen Sch\u00fclern an Filmwettbewerben teilgenommen und Preise abger\u00e4umt. Zun\u00e4chst hatte er im Unterricht mitseinen Sch\u00fclern Filme analysiert. \u201eAber wenn man Medienkompetenz bei den Sch\u00fclern erreichen will, ist es noch besser, wenn sie selber Filme machen\u201c, betont Weusmann.<\/p>"},"id":"82cb1683-9704-4e88-b6fd-5f0a8894c618","isHidden":false,"type":"text"},{"content":{"text":"<p>Hauptidee sei, dass seine Sch\u00fcler kritisch Fernsehen gucken, erkl\u00e4rt er. In den vergangenen Monaten bildete sich Weusmann weiter. Er nahm an der berufsbegleitenden Qualifizierung \u201eTaschengeldkino \u2013 Film und Filmen in der Schule\u201c an der Bundesakademie f\u00fcr kulturelle Bildung in Wolfenb\u00fcttel teil. Dort wurde er von Kameram\u00e4nnern, Regisseuren, Drehbuchautoren und anderen Profis in die Filmproduktion eingef\u00fchrt und darf sich nun Filmlehrer nennen. In diesem Halbjahr kann er mit der Video-AG richtig durchstarten: Die gesamte Ausr\u00fcstung ist einsatzbereit. Im vergangenen Jahr hakte es hier und da noch. So dauertees, bis das Schnittprogrammauf den neuangeschafften Laptops installiert war.<\/p><p>Dennoch drehte die Video-AG kurze Filme, unter anderem \u00fcber ihre Lieblingsorte. Vier hochwertige Kamera-Sets hat die Schule im vergangenen Halbjahr angeschafftund dazu passend vier Schnittpl\u00e4tze eingerichtet. Neben der Schule haben die Gemeinde Rastede, der F\u00f6rderverein der Schule und Sponsoren in das Projekt investiert. F\u00fcr ihren Filmbeitrag haben die Jungs an diesem Nachmittag erste Ideen entwickelt. Komisch sollte ihr Beitrag sein, finden Kester und Vincent. \u201eOder vielleicht ein Dokumentarfilm\u201c, schl\u00e4gt Lenn vor, der am liebsten alle Aufgaben \u00fcbernehmen w\u00fcrde: \u201eIch bin gerne Kameramann, Regisseur und Cutter\u201c, sagt er. Wer schauspielert, m\u00fcssen die Jungs noch kl\u00e4ren, das machen nicht alle gerne.<\/p>"},"id":"c0978ec2-bfa5-42a6-9d70-1921f5e04c84","isHidden":false,"type":"text"}]
 
 ----
 
@@ -49,7 +16,7 @@ Gallery:
 
 ----
 
-Date: 2016-02-11 10:20
+Date: 2016-02-11 10:20:00
 
 ----
 
@@ -61,7 +28,7 @@ Author: Sonja Klanke
 
 ----
 
-Tags: Kunst, Video-AG
+Tags: Kunst, Video-AG, AGs, Wettbewerb
 
 ----
 

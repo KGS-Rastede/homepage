@@ -6,28 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Die Schulordnung ist etwas sehr wichtiges, um einen geregelten Umgang aller zu ermöglichen.",
-        "id": "_usw8aamh3",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "In der Schulordnung werden die Grundsätze des Zusammenlebens und der Zusammenarbeit an der kooperativen Gesamtschule Rastede festgelegt.",
-        "id": "_0u8d1yhml",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die Schulordnung der KGS Rastede finden Sie deshalb hier auf unserer Website als Download bereitgestellt.",
-        "id": "_3pt4zq5hg",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Die Schulordnung ist etwas sehr wichtiges, um einen geregelten Umgang aller zu erm\u00f6glichen.<\/p><p>In der Schulordnung werden die Grunds\u00e4tze des Zusammenlebens und der Zusammenarbeit an der kooperativen Gesamtschule Rastede festgelegt. Die Schulordnung der KGS Rastede finden Sie deshalb hier auf unserer Website als Download bereitgestellt.<\/p>"},"id":"5b2e4c09-df0c-4446-ad3d-46573854db72","isHidden":false,"type":"text"}]
 
 ----
 

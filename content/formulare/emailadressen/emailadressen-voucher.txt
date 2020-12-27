@@ -1,0 +1,10 @@
+Emailadressen:
+
+- 
+  emailadresse: ni@kgs-rastede.de
+- 
+  emailadresse: netzwerk@kgs-rastede.de
+- 
+  emailadresse: tb@kgs-rastede.de
+- 
+  emailadresse: dre@kgs-rastede.de

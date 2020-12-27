@@ -1,11 +1,13 @@
 <div class="card bg-primary mt-5 mb-3">
-    <link href='<?= $kirby->url('assets') ?>/js/plugins/main.css' rel='stylesheet' />
-
+    <link href='<?= $kirby->url('assets') ?>/js/plugins/main.min.css' rel='stylesheet' />
 
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
 
 
-    <script src='<?= $kirby->url('assets') ?>/js/plugins/main.js'></script>
+
+
+    <script src='<?= $kirby->url('assets') ?>/js/plugins/main.min.js'></script>
+
 
 
     <script>

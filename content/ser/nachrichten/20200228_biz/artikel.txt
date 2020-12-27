@@ -75,24 +75,4 @@ Date: 2020-02-28 17:15
 
 ----
 
-Author: 
-
-----
-
-Tags: SER
-
-----
-
-Featured: false
-
-----
-
-Immer-sichtbar: false
-
-----
-
-Downloads: 
-
-----
-
 Fotoansicht: gallery
