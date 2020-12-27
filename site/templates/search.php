@@ -3,17 +3,17 @@
 <?php snippet('page-header') ?>
 
 
-<div class="mb-3 align-items-center">
-  <input type="search" class="" name="q" placeholder="Searchquery" value="<?= html($query) ?>">
-  <button type="submit" class="btn btn-primary">Submit</button>
-</div>
-
-
 <form>
-  <input class="form-control" type="search" name="q" value="<?= html($query) ?>">
-  <input type="submit" for="floatingInput" value="🔍">
+  <div class="form-floating input-group-lg mb-3 mx-3 d-block">
+    <input type="search" class="form-control" id="floatingInput" placeholder="Testsuche" name="q" value="<?= html($query) ?>"> <!-- input-group-text -->
+    <label for="floatingInput">Bitte geben Sie hier einen Suchbegriff ein:</label>
+    <div class="d-grid gap-2 col-6 mx-auto mt-3">
+      <button class="btn btn-outline-secondary flex-nowrap" type="submit">Auf gut Glück!🔍</button>
+    </div>
+  </div>
 </form>
 
+Results:
 <ul>
   <?php foreach ($results as $result): ?>
   <li>
