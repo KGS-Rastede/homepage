@@ -4,7 +4,7 @@ return function ($site) {
 
   $query   = get('q');
   $results = page('blogs')->search($query, 'title|text');
-  $results = $results->paginate(15);
+  $results = $results->paginate(10);
 
   return [
     'query'      => $query,
