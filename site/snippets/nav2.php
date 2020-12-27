@@ -28,7 +28,7 @@
             snippet('navkategorien', ['items' => $kategorien, 'count' => $count ]) ?>
 
         </ul>
-        <form class="d-flex"> <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> 
+        <form class="d-flex"> <input class="form-control me-2" type="search" placeholder="Suchen" aria-label="Search"> 
           <button class="btn btn-outline-success" type="submit">Suche</button> 
         </form>
       </div>
