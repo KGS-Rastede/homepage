@@ -47,6 +47,22 @@ return [
         ]
     ],
 
+    //  Diese Route ist für den versteckten Login (aktuell nur für die WLAN-Voucher)
+    // https://getkirby.com/docs/cookbook/security/access-restriction
+    'routes' => [
+        [
+            'pattern' => 'logout',
+            'action'  => function () {
+
+                if ($user = kirby()->user()) {
+                    $user->logout();
+                }
+
+                go('login');
+            }
+        ]
+    ],
+
     'markdown' => [
         'extra' => true,
     ],

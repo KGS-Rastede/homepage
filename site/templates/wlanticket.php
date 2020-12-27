@@ -1,3 +1,11 @@
+<!-- 
+  Diese Seite erfordert einen Login 
+  Anleitung dazu hier: https://getkirby.com/docs/cookbook/security/access-restriction
+-->
+<?php if (!$kirby->user()) go('/') ?>
+
+
+<!-- Ab hier wird die Seite nur für eingeloggte Nutzer angezeigt -->
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 

@@ -42,11 +42,15 @@ return function ($kirby, $pages, $page) {
             $ubrige_tickets = implode("\n", $arr_tickets); //Das Array zu einem String umformen
 
             $kirby = kirby();
-            $kirby->impersonate('kirby');
 
-            $page->update(['tickets' => $ubrige_tickets]); //Übrige Tickets wieder speichern
+            //Übrige Tickets wieder speichern
+            $result = $kirby->impersonate('kirby', function () {
+                page('formulare/wlanticket')->update([
+                    'tickets' => $ubrige_tickets
+                ]);
 
-            $kirby->impersonate('nobody'); #Alle Rechte wieder wegnehmen
+                return 'Tickets wurden gespeichert';
+            });
 
             $anzahl_ubrige_tickets = count($arr_tickets); //Anzahl der übrigen Tickets bestimmen
 
