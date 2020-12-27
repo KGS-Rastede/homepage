@@ -1152,8 +1152,28 @@ progress {
   background-color: #dde0e3;
 }
 
+.form-control-lg {
+  min-height: calc(1.5em + 1rem + 2px);
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+}
+.form-control-lg::file-selector-button {
+  padding: 0.5rem 1rem;
+  margin: -0.5rem -1rem;
+  margin-inline-end: 1rem;
+}
+.form-control-lg::-webkit-file-upload-button {
+  padding: 0.5rem 1rem;
+  margin: -0.5rem -1rem;
+  margin-inline-end: 1rem;
+}
+
 textarea.form-control {
   min-height: calc(1.5em + 0.75rem + 2px);
+}
+textarea.form-control-lg {
+  min-height: calc(1.5em + 1rem + 2px);
 }
 
 .form-select {
@@ -1245,6 +1265,84 @@ textarea.form-control {
   pointer-events: none;
   filter: none;
   opacity: 0.5;
+}
+
+.form-floating {
+  position: relative;
+}
+.form-floating > .form-control,
+.form-floating > .form-select {
+  height: calc(3.5rem + 2px);
+  padding: 1rem 0.75rem;
+}
+.form-floating > label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  padding: 1rem 0.75rem;
+  pointer-events: none;
+  border: 1px solid transparent;
+  transform-origin: 0 0;
+  transition: opacity 0.1s ease-in-out, transform 0.1s ease-in-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .form-floating > label {
+    transition: none;
+  }
+}
+.form-floating > .form-control::placeholder {
+  color: transparent;
+}
+.form-floating > .form-control:focus, .form-floating > .form-control:not(:placeholder-shown) {
+  padding-top: 1.625rem;
+  padding-bottom: 0.625rem;
+}
+.form-floating > .form-control:-webkit-autofill {
+  padding-top: 1.625rem;
+  padding-bottom: 0.625rem;
+}
+.form-floating > .form-select {
+  padding-top: 1.625rem;
+  padding-bottom: 0.625rem;
+}
+.form-floating > .form-control:focus ~ label,
+.form-floating > .form-control:not(:placeholder-shown) ~ label,
+.form-floating > .form-select ~ label {
+  opacity: 0.65;
+  transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
+}
+.form-floating > .form-control:-webkit-autofill ~ label {
+  opacity: 0.65;
+  transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
+}
+
+.input-group-text {
+  display: flex;
+  align-items: center;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+.input-group-lg > .form-control,
+.input-group-lg > .form-select,
+.input-group-lg > .input-group-text,
+.input-group-lg > .btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+}
+
+.input-group-lg > .form-select {
+  padding-right: 1.75rem;
 }
 
 .btn {
@@ -1490,6 +1588,31 @@ textarea.form-control {
   color: #000;
   background-color: #c0c0c0;
   border-color: #c0c0c0;
+}
+
+.btn-outline-secondary {
+  color: #586994;
+  border-color: #586994;
+}
+.btn-outline-secondary:hover {
+  color: #fff;
+  background-color: #586994;
+  border-color: #586994;
+}
+ .btn-outline-secondary:focus {
+  box-shadow: 0 0 0 0.25rem rgba(88, 105, 148, 0.5);
+}
+ .btn-outline-secondary:active, .btn-outline-secondary.active, .btn-outline-secondary.dropdown-toggle.show {
+  color: #fff;
+  background-color: #586994;
+  border-color: #586994;
+}
+ .btn-outline-secondary:active:focus, .btn-outline-secondary.active:focus, .btn-outline-secondary.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(88, 105, 148, 0.5);
+}
+.btn-outline-secondary:disabled, .btn-outline-secondary.disabled {
+  color: #586994;
+  background-color: transparent;
 }
 
 .btn-outline-warning {
@@ -2382,6 +2505,10 @@ textarea.form-control {
   display: block !important;
 }
 
+.d-grid {
+  display: grid !important;
+}
+
 .d-flex {
   display: flex !important;
 }
@@ -2442,6 +2569,14 @@ textarea.form-control {
   flex-wrap: wrap !important;
 }
 
+.flex-nowrap {
+  flex-wrap: nowrap !important;
+}
+
+.gap-2 {
+  gap: 0.5rem !important;
+}
+
 .justify-content-center {
   justify-content: center !important;
 }
@@ -2462,9 +2597,23 @@ textarea.form-control {
   margin: 0.5rem !important;
 }
 
+.m-3 {
+  margin: 1rem !important;
+}
+
+.mx-3 {
+  margin-right: 1rem !important;
+  margin-left: 1rem !important;
+}
+
 .mx-4 {
   margin-right: 1.5rem !important;
   margin-left: 1.5rem !important;
+}
+
+.mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
 }
 
 .my-4 {
@@ -2583,6 +2732,10 @@ textarea.form-control {
 
 .fs-4 {
   font-size: calc(1.275rem + 0.3vw) !important;
+}
+
+.fs-5 {
+  font-size: 1.25rem !important;
 }
 
 .fst-italic {
