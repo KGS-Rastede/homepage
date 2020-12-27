@@ -343,3 +343,9 @@ Navbar:
   kategorieseite:
     - allgemeines/kalender
   unterpunkte: [ ]
+- 
+  dropdowntoggle: 'false'
+  kategorietitel: 🍳
+  kategorieseite:
+    - search
+  unterpunkte: [ ]
