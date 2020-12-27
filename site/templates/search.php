@@ -12,7 +12,7 @@
       <button class="btn btn-outline-secondary flex-nowrap fs-5" type="submit" formaction="#top">
         <svg class="bi" width="24" height="24">
           <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#search" />
-        </svg> Los
+        </svg> Suchen!
       </button>
     </div>
   </div>
