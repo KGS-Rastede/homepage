@@ -5,7 +5,7 @@
 <footer class="container-fluid">
   <div class="row">
 
-    <div class="col-md-2 mb-3 ps-md-4">
+    <div class="col-md-2 mb-3 ps-md-5">
       <a href="<?= $site->url() ?>">
        <?= asset('assets/bilder/logo.svg')->read() ?>
       </a>
