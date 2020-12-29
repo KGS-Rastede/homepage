@@ -28,8 +28,11 @@
             snippet('navkategorien', ['items' => $kategorien, 'count' => $count ]) ?>
 
         </ul>
-        <form class="d-flex"> <input class="form-control me-2" style="width: 75%;" type="search" placeholder="Suchen" aria-label="Search"> 
-          <button class="btn btn-outline-success" type="submit"><svg class="bi" width="24" height="24"><use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#search" /></svg></button>
+        <form class="d-flex"> 
+          <input class="form-control me-2" style="width: 75%;" type="search" placeholder="Suchen" name="q" value="<?php echo (!empty($query)) ? esc($query) : '' ?>"> 
+          <button class="btn btn-outline-success" type="submit" formaction="<?= page('search')->url() ?>#top">
+            <svg class="bi" width="24" height="24"><use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#search" /></svg>
+          </button>
         </form>
       </div>
     </div>
