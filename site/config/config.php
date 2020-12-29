@@ -24,6 +24,8 @@ return [
         // Damit auf einem oeffentlichen Server das Panel ueberhaupt geht...
         'install' => true,
 
+        'language' => 'de',
+
         'css' => 'assets/css/custom-panel.css'
     ],
 

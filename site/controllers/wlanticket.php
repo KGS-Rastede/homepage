@@ -44,7 +44,7 @@ return function ($kirby, $pages, $page) {
             $kirby = kirby();
 
             //Übrige Tickets wieder speichern
-            $result = $kirby->impersonate('kirby', function () {
+            $kirby->impersonate('kirby', function () use($ubrige_tickets) {
                 page('formulare/wlanticket')->update([
                     'tickets' => $ubrige_tickets
                 ]);
