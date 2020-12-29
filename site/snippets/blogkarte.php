@@ -5,14 +5,16 @@
                 <div class="fs-4 fw-light ps-3">
                     <?= $subpage->title() ?>
                 </div>
+                <div class="fs-6 ps-3">
+                    <?php if ($subpage->author()->isNotEmpty()) : ?>
+                        (<?= $subpage->author() ?>)
+                    <?php endif ?>
+                </div>
             </div>
             <div class="col-md-8">
                 <div class="card-body">
                     <p class="card-text">
                         <?= $subpage->Text()->toBlocks()->excerpt(250) ?>
-                        <?php if ($subpage->author()->isNotEmpty()) : ?>
-                            (<?= $subpage->author() ?>)
-                        <?php endif ?>
                     </p>
                     <p class="text-end">
                         <a class="text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
