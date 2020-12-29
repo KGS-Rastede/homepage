@@ -14,6 +14,11 @@
           <?= asset('assets/bilder/logo_light.svg')->read() ?>
         </a>
       </div>
+      <div class="d-block d-lg-none d-xl-none">
+        <a class="logo" href="<?= $site->url() ?>">
+          <?= asset('assets/bilder/logo_square.svg')->read() ?>
+        </a>
+      </div>
 
       <a class="navbar-brand text-white d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
 
