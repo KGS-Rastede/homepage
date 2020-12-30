@@ -22,9 +22,13 @@
       <p class="fs-4">Das Suchfeld darf nicht leer sein.</p> 
     <?php else: ?>
       <?php if ($results->isNotEmpty()) : ?>
-        <?php foreach ($results as $result) {
-          snippet('blogkarte', ['subpage' => $result]);
-        } ?>
+        <div class="row row-cols-1 row-cols-xl-2">
+          <?php foreach ($results as $result): ?>
+            <div class="col">
+              <?php snippet('blogkarte', ['subpage' => $result]); ?>
+            </div>
+          <?php endforeach?>
+        </div>
       <?php elseif($results->isEmpty()) : ?>
         <p class="fs-4">Es wurden leider keine Ergebnisse für  "<?= html($query) ?>" gefunden.</p>
       <?php endif ?>
