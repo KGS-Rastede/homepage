@@ -22,7 +22,7 @@
       <p class="fs-4">Das Suchfeld darf nicht leer sein.</p> 
     <?php else: ?>
       <?php if ($results->isNotEmpty()) : ?>
-        <div class="row row-cols-1 row-cols-xl-2">
+        <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3">
           <?php foreach ($results as $result): ?>
             <div class="col">
               <?php snippet('blogkarte', ['subpage' => $result]); ?>
