@@ -5,7 +5,7 @@
 <span id="top"></span> <!-- Autscrolling -->
 </br>
 <form>
-  <div class="form-floating input-group-lg mx-auto d-block" style="width: 70%;">
+  <div class="form-floating input-group-lg mx-auto d-block w-75">
     <input type="search" class="form-control form-control-lg " id="floatingInput" placeholder="Testsuche" name="q" value="<?= html($query) ?>"> <!-- input-group-text -->
     <label for="floatingInput">Suchbegriff eingeben:</label>
     <div class="d-grid gap-2 col-6 mx-auto mt-3">
