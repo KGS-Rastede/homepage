@@ -1,13 +1,67 @@
+<<<<<<< HEAD
 <svg class="" xml:space="preserve" width="0.4in" height="0.4in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality" viewBox="-1291 0 2070 2400">
     <defs>
         <style type="text/css">
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class=""
+   xml:space="preserve"
+   width="1in"
+   height="1in"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality"
+   viewBox="-1291 0 2070 3369"
+   version="1.1"
+   id="svg259"
+   sodipodi:docname="logo_light.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata263"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="3840"
+   inkscape:window-height="2066"
+   id="namedview261"
+   showgrid="false"
+   inkscape:zoom="10.5"
+   inkscape:cx="48"
+   inkscape:cy="48"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg259" />
+    <defs
+   id="defs203">
+        <style
+   type="text/css"
+   id="style201">
+>>>>>>> master
             <![CDATA[
             .fil3 {
                 fill: #0E5499
             }
 
+<<<<<<< HEAD
             .fil00 {
                 fill: #ffffff
+=======
+            .fil0 {
+                fill: #000000
+>>>>>>> master
             }
 
             .fil2 {
@@ -19,6 +73,7 @@
             }
             ]]>
         </style>
+<<<<<<< HEAD
     </defs>
     <g id="Ebene 1">
     </g>
@@ -42,3 +97,42 @@
         </g>
     </g>
 </svg>
+=======
+    
+        
+    
+            
+            
+            
+            
+            
+            
+            
+        </defs>
+    <g
+   id="Ebene 1">
+    </g>
+    <g
+   id="Hintergrund">
+    </g>
+    <g
+   id="Hilfslinien anzeigen">
+    </g>
+    <path
+   id="38496952"
+   class="fil0"
+   d="m -1357.1875,895.3125 h 961 v 47 h -914 v 1851 h 1850 v -915 h 47 v 962 h -1944 z" /><path
+   id="38497040"
+   class="fil1"
+   d="m -379.1875,2643.3125 -228,-228 1316,-1317 v 457 z" /><path
+   id="38497128"
+   class="fil2"
+   d="m -659.1875,2363.3125 -229,-229 1369,-1368 h 228 v 228 z" /><path
+   id="38497216"
+   class="fil3"
+   d="m -940.1875,2082.3125 -228,-229 1087,-1088 457,1 z" /><path
+   id="38497304"
+   class="fil0"
+   d="m -414.1875,2684.3125 -786,-1 -1,-787 z" />
+</svg>
+>>>>>>> master
