@@ -1,17 +1,24 @@
 <?php $kategorien = page('navbar')->navbar()->toStructure() ?>
-<?php $count = 1 //Wird für die id der Kategorien verwendet, damit diese einmalig bleiben ?> 
+<?php $count = 1 //Wird für die id der Kategorien verwendet, damit diese einmalig bleiben 
+?>
 
-<?php if ($kategorien->isNotEmpty()) : //Erst die Grundstruktur für die nav ?>
+<?php if ($kategorien->isNotEmpty()) : //Erst die Grundstruktur für die nav 
+?>
 
   <nav class="navbar navbar-expand-lg navbar-light bg-primary">
-    <div class="container-fluid"> 
-        <!--
+    <div class="container-fluid">
+      <!--
               Hier kann das Logo stehen oder der Name der Schule.
               Müssen wir am Ende vom Design her entscheiden.
             -->
       <div class="d-none d-sm-none d-lg-block d-xl-block">
         <a class="logo" href="<?= $site->url() ?>">
           <?= asset('assets/bilder/logo.svg')->read() ?>
+        </a>
+      </div>
+      <div class="d-block d-lg-none d-xl-none">
+        <a class="logo" href="<?= $site->url() ?>">
+          <?= asset('assets/bilder/logo_square.svg')->read() ?>
         </a>
       </div>
 
@@ -25,7 +32,7 @@
         <ul class="navbar-nav ms-auto mb-2 me-3 mb-lg-0">
 
           <?php //Jetzt kommen alle Kategorien
-            snippet('navkategorien', ['items' => $kategorien, 'count' => $count ]) ?>
+          snippet('navkategorien', ['items' => $kategorien, 'count' => $count]) ?>
 
         </ul>
       </div>
