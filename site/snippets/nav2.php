@@ -3,7 +3,7 @@
 
 <?php if ($kategorien->isNotEmpty()) : //Erst die Grundstruktur für die nav ?>
 
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-primary">
     <div class="container-fluid"> 
         <!--
               Hier kann das Logo stehen oder der Name der Schule.
@@ -11,7 +11,7 @@
             -->
       <div class="d-none d-sm-none d-lg-block d-xl-block">
         <a class="logo" href="<?= $site->url() ?>">
-          <?= asset('assets/bilder/logo_light.svg')->read() ?>
+          <?= asset('assets/bilder/logo.svg')->read() ?>
         </a>
       </div>
       <div class="d-block d-lg-none d-xl-none">
@@ -20,7 +20,7 @@
         </a>
       </div>
 
-      <a class="navbar-brand text-white d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
+      <a class="navbar-brand d-block d-sm-block d-lg-none" href="<?= $site->url() ?>">KGS Rastede</a>
 
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

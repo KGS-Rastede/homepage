@@ -36,14 +36,6 @@
   font-weight: 700;
   src: local("Pangea-BoldWeb"), local("Pangea-BoldWeb"), url("./Pangea-BoldWeb.woff2") format("woff2");
 }
-.navbar-light .navbar-nav a.nav-link {
-  color: #f4f4f4 !important;
-}
-
-.dropdown-menu {
-  background-color: #f4f4f4 !important;
-}
-
 .main {
   margin-top: 30px;
 }
@@ -70,13 +62,6 @@
     white-space: nowrap !important;
   }
 }
-footer {
-  width: 100%;
-  padding: 30px 0;
-  background: #e6e6e6;
-  color: #000000;
-}
-
 /*==================================
     TIMELINE
 ==================================*/
@@ -349,8 +334,6 @@ footer {
 .banner-overlay-div {
   display: grid;
   max-width: 100%;
-  background: black;
-  background: linear-gradient(60deg, rgba(0, 0, 0, 0.7777485994) 30%, rgba(255, 255, 255, 0) 100%);
 }
 
 .banner-text-div {
@@ -11068,4 +11051,3 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-/*# sourceMappingURL=kgs.css.map */

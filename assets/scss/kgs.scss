@@ -80,20 +80,20 @@ $theme-colors: (
     dark: #c0c0c0,
 );
 
-.navbar-light .navbar-nav a.nav-link {
-    color: #f4f4f4 !important;
-    // font-size: 22px;
-}
+// .navbar-light .navbar-nav a.nav-link {
+//     color: #f4f4f4 !important;
+//     // font-size: 22px;
+// }
 
 // .dropdown-menu a {
 //     color: #58945d;
 // }
 
-.dropdown-menu {
-    // Das ist die Farbe des Hintergrundes
-    // vom Dropdownmenu
-    background-color: #f4f4f4 !important;
-}
+// .dropdown-menu {
+//     // Das ist die Farbe des Hintergrundes
+//     // vom Dropdownmenu
+//     background-color: #f4f4f4 !important;
+// }
 
 .main {
     margin-top: 30px;
@@ -116,19 +116,19 @@ $theme-colors: (
     white-space: normal !important;
 }
 
- 
+
 @media (min-width: 576px) { //Speziell für die Navbar
     .text-sm-kein-umbruch {
         white-space: nowrap !important;
     }
 }
 
-footer {
-    width: 100%;
-    padding: 30px 0;
-    background: darken(#ffffff, 10%);
-    color: set-text-color(#f9f8f8);
-}
+// footer {
+//     width: 100%;
+//     padding: 30px 0;
+//     background: darken(#ffffff, 10%);
+//     color: set-text-color(#f9f8f8);
+// }
 
 // Ab hier für die Geschichtsunterseite
 
@@ -416,8 +416,8 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
 .banner-overlay-div {
     display: grid;
     max-width: 100%;
-    background: black;
-    background: linear-gradient(60deg, rgba(0, 0, 0, 0.7777485994) 30%, rgba(255, 255, 255, 0) 100%);
+    // background: black;
+    // background: linear-gradient(60deg, rgba(0, 0, 0, 0.7777485994) 30%, rgba(255, 255, 255, 0) 100%);
 }
 
 .banner-text-div {
