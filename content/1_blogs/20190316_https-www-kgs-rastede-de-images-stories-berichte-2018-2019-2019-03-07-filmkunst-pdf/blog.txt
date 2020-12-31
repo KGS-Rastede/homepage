@@ -37,7 +37,3 @@ Downloads:
 ----
 
 Fotoansicht: gallery
-
-----
-
-Featured: true
