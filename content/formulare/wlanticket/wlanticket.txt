@@ -2,6 +2,10 @@ Title: WLAN Ticket beantragen
 
 ----
 
+Info: Klicken Sie auf das Auswahlfeld und geben Sie ihr Kürzel ein, um das entsprechende Kürzel schneller zu finden
+
+----
+
 Tickets:
 
 11111-111111
