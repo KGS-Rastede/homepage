@@ -2530,6 +2530,10 @@ textarea.form-control-lg {
   height: 100%;
 }
 
+.ratio-16x9 {
+  --aspect-ratio: calc(9 / 16 * 100%);
+}
+
 .stretched-link::after {
   position: absolute;
   top: 0;
