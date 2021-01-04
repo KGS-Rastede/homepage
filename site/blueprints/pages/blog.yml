@@ -39,6 +39,7 @@ columns:
               - code
               - markdown
               - audio
+              - horizontale-linie
           gallery:
             type: files
             uploads: blogbild
