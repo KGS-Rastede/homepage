@@ -6,58 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "<strong>Hauswirtschaft in Jg. 6-8</strong>",
-        "id": "_ng7ahW86y",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Der Hauswirtschaftsunterricht in diesen Jahrgängen findet epochal halbjährlich statt. Die Stärke der Lerngruppen liegt bei etwa 16.",
-        "id": "_atqGeXFEE",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Der Unterricht im Fach Hauswirtschaft liefert einen elementaren Bildungsbeitrag mit dem Ziel des Erwerbs von Ernährungs-, Gesundheits- und Konsumkompetenzen und nimmt somit einen engen Bezug zum Alltag der Schülerinnen und Schüler auf. Diese sollen einen schulischen Beitrag zu einer reflektierten, zunehmend selbstbestimmten, verantwortungsbewussten und gesunden Lebensgestaltung leisten, die auch vor dem Hintergrund einer ausgewogenen Work-Life-Balance einen wichtigen Beitrag für das weitere Leben leistet.",
-        "id": "_5XmwE6VIC",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Mithilfe der Themenfelder <em>Lebensmittelzubereitung</em> sowie <em>Ernährung und Gesundheit</em> werden die Lerninhalte der Basismodule in den Jahrgängen 6 und 7 vermittelt und anhand sinnvoller Rezepte in Praxisbeispielen erprobt. Ein Grundlagenerwerb",
-        "id": "_5GvF9ovDb",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "im Bereich der Gartechniken sowie der Verarbeitung von Lebensmitteln gehört selbstverständlich dazu. Im Jahrgang 8 werden die erworbenen Alltagskompetenzen mit weiteren Themenfeldern ergänzt und vertieft. Diese betreffen die Fachinhalte <em>Lebensmittelqualität und Konsumentscheidungen, Lebensstile und Essgewohnheiten, Ökonomie, Ökologie und Soziales.</em>",
-        "id": "_UrfKR0Zxr",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Fach Hauswirtschaft knüpft somit an die vielfältige Lebens- und Erfahrungswelt der Schülerinnen und Schüler an und bindet ebenfalls kulturelle Essgewohnheiten in den Unterricht ein.",
-        "id": "_UFRwLzQgQ",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die im Unterricht vermittelten Kompetenzen leisten einen präventiven gesellschaftlichen Beitrag zur Gesunderhaltung und Gesundheitsförderung des Einzelnen.",
-        "id": "_QoDIyKmVd",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Auch auf Möglichkeiten der Berufsorientierung im hauswirtschaftlichen Bereich wird eingegangen.",
-        "id": "_1xTx9nJeX",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p><strong>Hauswirtschaft in Jg. 6-8<\/strong><\/p>"},"id":"f1355ad1-de7a-4f5a-adc4-52bb3df691d5","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Hauswirtschaftsunterricht in diesen Jahrg\u00e4ngen findet epochal halbj\u00e4hrlich statt. Die St\u00e4rke der Lerngruppen liegt bei etwa 16.<\/p>"},"id":"e7a1c4d3-4105-4f28-a656-7fe8284e2ed1","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Unterricht im Fach Hauswirtschaft liefert einen elementaren Bildungsbeitrag mit dem Ziel des Erwerbs von Ern\u00e4hrungs-, Gesundheits- und Konsumkompetenzen und nimmt somit einen engen Bezug zum Alltag der Sch\u00fclerinnen und Sch\u00fcler auf. Diese sollen einen schulischen Beitrag zu einer reflektierten, zunehmend selbstbestimmten, verantwortungsbewussten und gesunden Lebensgestaltung leisten, die auch vor dem Hintergrund einer ausgewogenen Work-Life-Balance einen wichtigen Beitrag f\u00fcr das weitere Leben leistet.<\/p>"},"id":"fa20bb97-386e-46a7-8919-dbfcbfaa0b78","isHidden":false,"type":"text"},{"content":{"text":"<p>Mithilfe der Themenfelder <em>Lebensmittelzubereitung<\/em> sowie <em>Ern\u00e4hrung und Gesundheit<\/em> werden die Lerninhalte der Basismodule in den Jahrg\u00e4ngen 6 und 7 vermittelt und anhand sinnvoller Rezepte in Praxisbeispielen erprobt. Ein Grundlagenerwerb<\/p>"},"id":"d1dcc685-090e-4b41-998e-fba08ffa6724","isHidden":false,"type":"text"},{"content":{"text":"<p>im Bereich der Gartechniken sowie der Verarbeitung von Lebensmitteln geh\u00f6rt selbstverst\u00e4ndlich dazu. Im Jahrgang 8 werden die erworbenen Alltagskompetenzen mit weiteren Themenfeldern erg\u00e4nzt und vertieft. Diese betreffen die Fachinhalte <em>Lebensmittelqualit\u00e4t und Konsumentscheidungen, Lebensstile und Essgewohnheiten, \u00d6konomie, \u00d6kologie und Soziales.<\/em><\/p>"},"id":"638228a4-475a-49ac-8d6d-b54ebe265cc4","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Fach Hauswirtschaft kn\u00fcpft somit an die vielf\u00e4ltige Lebens- und Erfahrungswelt der Sch\u00fclerinnen und Sch\u00fcler an und bindet ebenfalls kulturelle Essgewohnheiten in den Unterricht ein.<\/p>"},"id":"4940d3d1-5c4b-443b-93dc-aca18f0f16dd","isHidden":false,"type":"text"},{"content":{"text":"<p>Die im Unterricht vermittelten Kompetenzen leisten einen pr\u00e4ventiven gesellschaftlichen Beitrag zur Gesunderhaltung und Gesundheitsf\u00f6rderung des Einzelnen.<\/p>"},"id":"268d843e-4723-49b5-bcbc-14a0b9f33f29","isHidden":false,"type":"text"},{"content":{"text":"<p>Auch auf M\u00f6glichkeiten der Berufsorientierung im hauswirtschaftlichen Bereich wird eingegangen.<\/p>"},"id":"b8c77e11-df95-49fb-bed3-49caaae9c6df","isHidden":false,"type":"text"}]
 
 ----
 

@@ -6,58 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "<strong><em>„Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.“</em></strong>",
-        "id": "_prisakp70",
-        "type": "blockquote"
-    },
-    {
-        "attrs": [],
-        "content": "Ludwig Wittgenstein, Philosoph",
-        "id": "_anmgb1cgz",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "…und daher ist es sinnvoll, die deutsche Sprache so gut wie möglich zu beherrschen, ihre Ausdrucksmöglichkeiten ebenso wie die Normen der Rechtschreibung und Grammatik zu erkennen und sicher anzuwenden.",
-        "id": "_UerzITWuA",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ein guter Deutschunterricht bleibt aber hier nicht stehen, denn Sprache stellt die zentrale Grundlage von Kultur und Kommunikation einer Gesellschaft dar; sie vermittelt Vorstellungen, Normen und Denkmuster.",
-        "id": "_pB5Yh2RT7",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "So leistet der Deutschunterricht über die Auseinandersetzung mit Literatur und deren Geschichte einen wesentlichen Beitrag zur sprachlichen, literarischen und medialen Bildung der Schülerinnen und Schüler einerseits; zugleich hilft er den Schülerinnen und Schülern, die Welt zu verstehen und eigene Werthaltungen zu entwickeln. Das Fach Deutsch trägt damit wesentlich zur Persönlichkeitsbildung der Schülerinnen und Schüler bei.",
-        "id": "_XzQFh2oIV",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Aber auch damit ist es nicht getan, denn Sprache verändert sich ebenso wie die Wirklichkeit bzw. unsere Wahrnehmung davon.",
-        "id": "_nu2lqGozU",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Die Beschäftigung mit „der“ Sprache ist damit zugleich auch eine Auseinandersetzung mit einer sich verändernden gesellschaftlichen Wirklichkeit und der Suche nach dem eigenen Selbstverständnis innerhalb dieser Welt.",
-        "id": "_kcWXTlE4N",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Fach Deutsch hilft damit Schülerinnen und Schülern, eigene Grenzen im Sinne von Wittgenstein immer wieder selbst zu bestimmen und reflektiert zu erweitern.",
-        "id": "_0pn329UYf",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<strong><em>\u201eDie Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.\u201c<\/em><\/strong>","citation":""},"id":"c93aaa67-d4a2-4dc2-82fe-e6ae4928f91f","isHidden":false,"type":"quote"},{"content":{"level":"h3","text":"Ludwig Wittgenstein, Philosoph"},"id":"48fda600-322c-483c-a956-23fc333a09e1","isHidden":false,"type":"heading"},{"content":{"text":"<p>\u2026und daher ist es sinnvoll, die deutsche Sprache so gut wie m\u00f6glich zu beherrschen, ihre Ausdrucksm\u00f6glichkeiten ebenso wie die Normen der Rechtschreibung und Grammatik zu erkennen und sicher anzuwenden.<\/p>"},"id":"20b822c7-7d23-496e-85ab-02d66c956a73","isHidden":false,"type":"text"},{"content":{"text":"<p>Ein guter Deutschunterricht bleibt aber hier nicht stehen, denn Sprache stellt die zentrale Grundlage von Kultur und Kommunikation einer Gesellschaft dar; sie vermittelt Vorstellungen, Normen und Denkmuster.<\/p>"},"id":"6164d658-8de7-428e-a8ee-12ae002e4277","isHidden":false,"type":"text"},{"content":{"text":"<p>So leistet der Deutschunterricht \u00fcber die Auseinandersetzung mit Literatur und deren Geschichte einen wesentlichen Beitrag zur sprachlichen, literarischen und medialen Bildung der Sch\u00fclerinnen und Sch\u00fcler einerseits; zugleich hilft er den Sch\u00fclerinnen und Sch\u00fclern, die Welt zu verstehen und eigene Werthaltungen zu entwickeln. Das Fach Deutsch tr\u00e4gt damit wesentlich zur Pers\u00f6nlichkeitsbildung der Sch\u00fclerinnen und Sch\u00fcler bei.<\/p>"},"id":"56487e7b-9228-4e9d-8f9d-eecda1df71a3","isHidden":false,"type":"text"},{"content":{"text":"<p>Aber auch damit ist es nicht getan, denn Sprache ver\u00e4ndert sich ebenso wie die Wirklichkeit bzw. unsere Wahrnehmung davon.<\/p>"},"id":"eb66647e-3dbd-4b10-b6d6-29ea9bd16484","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Besch\u00e4ftigung mit \u201eder\u201c Sprache ist damit zugleich auch eine Auseinandersetzung mit einer sich ver\u00e4ndernden gesellschaftlichen Wirklichkeit und der Suche nach dem eigenen Selbstverst\u00e4ndnis innerhalb dieser Welt.<\/p>"},"id":"7794f518-8515-433f-8a66-6eeaa4746ca7","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Fach Deutsch hilft damit Sch\u00fclerinnen und Sch\u00fclern, eigene Grenzen im Sinne von Wittgenstein immer wieder selbst zu bestimmen und reflektiert zu erweitern.<\/p>"},"id":"e10cad13-bf30-4340-b9b9-f5d4021ff895","isHidden":false,"type":"text"}]
 
 ----
 
