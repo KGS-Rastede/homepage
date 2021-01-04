@@ -20,30 +20,56 @@ return function ($kirby, $pages, $page) {
             'mail'  => get('emailadresse'),
         ];
 
-        $rules = [
-            'mail' => ['required', 'email'],
-
-        ];
-
         $messages = [
             'mail'  => 'Die Mailadresse ist nicht gültig',
         ];
 
-        // some of the data is invalid
-        if ($invalid = invalid($data, $rules, $messages)) {
-            $alert = $invalid;
+        $special = false; //wahr wenn die E-Mail im Panel festgelegt wurde
+        $validate = false; //wahr wenn eine E-Mail gesendet werden soll
+        $name = null; //Name der Lehrkraft
 
-            // Daten sind korrekt -> Ticket bestimmen und E-Mail senden
-        } else {
+        /* --- E-Mail im Panel festgelegt? ---*/
+        foreach (page('formulare/emailadressen')->emailadressen()->toStructure() as $lehrer) {
+            if (V::in($data['mail'], $lehrer->emailadresse()->toArray()) ) {
+            //Zuerst überprüfen, ob die Mailadresse eine special Mailadresse ist. Falls ja: senden. Falls nein: überprüfen ob sie eine lehrer kgs-email ist
+                $special = true;        
+            }
+        }
+        
+        if (!$special) { //Es ist also eine Lehrkraft in der CSV
 
+            /* --- Namen der Lehrkraft bestimmen + in der csv vorhanden? --- */
+            $kuerzel = substr_replace($data['mail'], '', -15); // '@kgs-rastede.eu' ist 15 Zeichen lang, übrig bleibt also das Kürzel
+            foreach (page('lehrer')->children() as $lehrer) {
+                if ($kuerzel == $lehrer->kuerzel()) { //Gibt es ein E-Mail Kürzel was einem Lehrer-Kürzel entspricht?
+                    $name = $lehrer->name();                    
+                    $validate = true;
+                }
+            }
+            if (!($validate === true && //Das Kürzel kommt in der csv vor
+                V::email($data['mail']) && //Es ist allgemein eine gültige E-Mailadresse
+                V::maxLength($data['mail'], 18) && //nicht länger als 18 Zeichen [ 'kgs-rastede.eu' = 15 + Kürzel = 3]
+                V::minLength($data['mail'], 17) && //nicht kürzer als 17 Zeichen [ 'kgs-rastede.eu' = 15 + Kürzel = 2]
+                V::endsWith($data['mail'], '@kgs-rastede.eu'))) //endet mit der KGS-Domain
+                $validate = false;
+            
+        }
+
+        if (empty($name)) //Falls die E-Mail eine extra E-Mail ist und nicht in der Lehrer csv steht
+            $name = esc($data['mail']);   
+            
+        
+        /* --- Daten sind korrekt -> Ticket bestimmen und E-Mail senden ---*/
+        if ($validate || $special)  { 
+
+            /* ---Ticket bestimmen --- */
             $arr_tickets = $page->tickets()->nl2br()->split('<br>'); //Alle Tickets im Array speichern
             $data['ticket'] = $arr_tickets[0]; //Erstes Ticket speichern für E-Mail
             unset($arr_tickets[0]); //Erstes Ticket aus dem Array löschen
-            $ubrige_tickets = implode("\n", $arr_tickets); //Das Array zu einem String umformen
-
-            $kirby = kirby();
+            $ubrige_tickets = implode("\n", $arr_tickets); //Das Array zu einem String umformen            
 
             //Übrige Tickets wieder speichern
+            $kirby = kirby();
             $kirby->impersonate('kirby', function () use($ubrige_tickets) {
                 page('formulare/wlanticket')->update([
                     'tickets' => $ubrige_tickets
@@ -54,7 +80,7 @@ return function ($kirby, $pages, $page) {
 
             $anzahl_ubrige_tickets = count($arr_tickets); //Anzahl der übrigen Tickets bestimmen
 
-
+            /* --- E-Mail senden --- */
             try {
                 $kirby->email([
                     'template' => 'wlanticket',
@@ -64,7 +90,7 @@ return function ($kirby, $pages, $page) {
                     'subject'  => 'Anfrage eines Tickets für das WLAN der KGS Rastede',
                     'data'     => [
                         'ticket'   => esc($data['ticket']),
-                        'sender' => esc($data['mail'])
+                        'sender' => $name
                     ]
                 ]);
             } catch (Exception $error) {
@@ -81,6 +107,7 @@ return function ($kirby, $pages, $page) {
                 $data = [];
             }
 
+            /* --- Überprüfen, ob es zu wenig Tickets gibt und eine Mail geschickt werden muss --- */
             if ($anzahl_ubrige_tickets <= $minimum_tickets && $anzahl_ubrige_tickets % $minimum_tickets == 0) { //Benachrichtigung, falls es zu wenig Tickets gibt
                 if ($anzahl_ubrige_tickets == 0) $subject = 'WLAN Super-GAU | Es gibt keine Tickets mehr'; //Betreff bei keinen Tickets
                 else $subject = 'Die Anzahl der WLAN Tickets beträgt weniger als ' . $minimum_tickets; //Betreff bei wenig Tickets
@@ -107,6 +134,9 @@ return function ($kirby, $pages, $page) {
                     endif;
                 }
             }
+        }
+        else { //Falls die E-Mail ungültig ist
+            $alert['mail'] = $messages['mail'];
         }
     }
 

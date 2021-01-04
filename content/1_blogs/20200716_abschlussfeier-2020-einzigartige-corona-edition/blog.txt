@@ -41,11 +41,3 @@ Downloads:
 ----
 
 Fotoansicht: carousel
-
-----
-
-Immer-sichtbar: false
-
-----
-
-Featured: true

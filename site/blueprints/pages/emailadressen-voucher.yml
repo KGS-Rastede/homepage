@@ -1,18 +1,22 @@
-title: EMailadressen für WLAN-Voucher
+title: E-Mailadressen für WLAN-Voucher
 
 columns:
-  spalte:
-    width: 1/4
+  spalte1:
+    width: 1/1
     fields:
-      info:
-        text: Hier die Liste aller gültigen EMailadressen
+        info:
+          text: Hier können, zusätzlich zu den E-Mailadressen aus der Lehrerliste, weitere E-Mailadressen ergänzt werden
+  spalte:
+    width: 1/3
+    fields:
       emailadressen:
         type: structure
         label: Lehrer
         fields:
-          info:
-            text: '------' Dient als Trennzeichen und wird nicht als Klasse auswählbar sein.
+          kuerzel:
+            type: text
+            label: Anzeigename / -kürzel
           emailadresse:
             type: text
-            label: EMailadressen
+            label: E-Mailadresse
 

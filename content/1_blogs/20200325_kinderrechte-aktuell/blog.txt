@@ -38,11 +38,3 @@ Downloads:
 ----
 
 Fotoansicht: manuel
-
-----
-
-Featured: false
-
-----
-
-Immer-sichtbar: false

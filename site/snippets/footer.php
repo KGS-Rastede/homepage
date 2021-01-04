@@ -1,11 +1,13 @@
 <hr>
+<?php 
 
+?>
 </main>
 
-<footer class="container-fluid bg-primary pt-5">
+<footer class="container-fluid bg-primary pt-4">
   <div class="row">
 
-    <div class="col-md-2 mb-3 ps-md-5">
+    <div class="col-md-2 ps-0 ps-md-3 mb-3">
       <a href="<?= $site->url() ?>">
        <?= asset('assets/bilder/logo.svg')->read() ?>
       </a>
@@ -42,7 +44,7 @@
   </div>
   <hr>
   <div class="row">
-    <div class="col-6">
+    <div class="col">
       Copyright &#xA9; <script>
         document.write(new Date().getFullYear())
       </script> KGS Rastede ; All Rights Reserved.

@@ -49,9 +49,35 @@ return [
         ]
     ],
 
-    //  Diese Route ist für den versteckten Login (aktuell nur für die WLAN-Voucher)
-    // https://getkirby.com/docs/cookbook/security/access-restriction
+
     'routes' => [
+
+        // Dokumentation zur Sitemap hier:
+        // https://getkirby.com/docs/cookbook/content/sitemap
+        [
+            'pattern' => 'sitemap.xml',
+            'action'  => function () {
+                $pages = site()->pages()->index();
+
+                // fetch the pages to ignore from the config settings,
+                // if nothing is set, we ignore the error page
+                $ignore = kirby()->option('sitemap.ignore', ['error']);
+
+                $content = snippet('sitemap', compact('pages', 'ignore'), true);
+
+                // return response with correct header type
+                return new Kirby\Cms\Response($content, 'application/xml');
+            }
+        ],
+        [
+            'pattern' => 'sitemap',
+            'action'  => function () {
+                return go('sitemap.xml', 301);
+            }
+        ],
+        
+        //  Diese Route ist für den versteckten Login (aktuell nur für die WLAN-Voucher)
+        // https://getkirby.com/docs/cookbook/security/access-restriction
         [
             'pattern' => 'logout',
             'action'  => function () {

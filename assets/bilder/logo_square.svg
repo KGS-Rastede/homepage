@@ -19,10 +19,10 @@
    style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality"
    viewBox="-1291 0 2070 3369"
    version="1.1"
-   id="svg259"
-   sodipodi:docname="logo_light.svg"
+   id="svg60"
+   sodipodi:docname="logo_square.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
-   id="metadata263"><rdf:RDF><cc:Work
+   id="metadata64"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
@@ -33,22 +33,26 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="3840"
-   inkscape:window-height="2066"
-   id="namedview261"
+   inkscape:window-width="1773"
+   inkscape:window-height="1867"
+   id="namedview62"
    showgrid="false"
    inkscape:zoom="10.5"
    inkscape:cx="48"
    inkscape:cy="48"
-   inkscape:window-x="-11"
-   inkscape:window-y="-11"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="svg259" />
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg60" />
     <defs
-   id="defs203">
+   id="defs4">
         <style
    type="text/css"
+<<<<<<< HEAD
    id="style201">
+>>>>>>> master
+=======
+   id="style2">
 >>>>>>> master
             <![CDATA[
             .fil3 {
@@ -121,18 +125,32 @@
     <path
    id="38496952"
    class="fil0"
-   d="m -1357.1875,895.3125 h 961 v 47 h -914 v 1851 h 1850 v -915 h 47 v 962 h -1944 z" /><path
+   d="m -1287,404 h 961 v 47 h -914 V 2302 H 610 v -915 h 47 v 962 h -1944 z" /><path
    id="38497040"
    class="fil1"
-   d="m -379.1875,2643.3125 -228,-228 1316,-1317 v 457 z" /><path
+   d="M -309,2152 -537,1924 779,607 v 457 z" /><path
    id="38497128"
    class="fil2"
-   d="m -659.1875,2363.3125 -229,-229 1369,-1368 h 228 v 228 z" /><path
+   d="M -589,1872 -818,1643 551,275 h 228 v 228 z" /><path
    id="38497216"
    class="fil3"
-   d="m -940.1875,2082.3125 -228,-229 1087,-1088 457,1 z" /><path
+   d="M -870,1591 -1098,1362 -11,274 446,275 Z" /><path
    id="38497304"
    class="fil0"
-   d="m -414.1875,2684.3125 -786,-1 -1,-787 z" />
+   d="m -344,2193 -786,-1 -1,-787 z" /><g
+   id="g55">
+                <path
+   id="38500384"
+   class="fil0"
+   d="m -1239,6 h -48 v 334 h 48 v -131 0 c 0,-14 0,-21 -1,-34 13,15 24,28 31,36 v 0 l 121,129 h 68 L -1189,164 -1032,6 h -64 l -117,121 v 0 c -8,9 -13,15 -27,31 1,-12 1,-17 1,-40 v 0 z" />
+                <path
+   id="38500472"
+   class="fil0"
+   d="M -667,20 C -696,9 -724,4 -758,4 c -53,0 -97,15 -131,44 -35,30 -51,70 -51,123 0,105 71,172 182,172 36,0 64,-5 97,-16 v 0 -170 h -118 v 41 h 71 v 97 0 c -20,6 -29,7 -47,7 -38,0 -78,-15 -101,-39 -21,-22 -33,-56 -33,-92 0,-75 54,-127 134,-127 32,0 58,7 85,22 v 0 z" />
+                <path
+   id="38500560"
+   class="fil0"
+   d="m -343,12 c -24,-8 -47,-12 -73,-12 -63,0 -105,36 -105,91 0,42 21,68 74,91 v 0 l 19,9 v 0 c 36,16 51,34 51,59 0,34 -27,56 -68,56 -21,0 -40,-5 -66,-17 v 0 l -5,44 v 0 c 24,9 49,14 77,14 68,0 114,-41 114,-101 0,-43 -18,-66 -75,-94 v 0 l -18,-9 v 0 c -41,-20 -54,-34 -54,-57 0,-27 25,-46 60,-46 19,0 36,4 63,14 v 0 z" />
+            </g>
 </svg>
 >>>>>>> master

@@ -1,9 +1,17 @@
 title: Wlan Voucher
 
 columns:
-  spalte:
+  spalte1:
+    width: 1/1
+    fields: 
+      info:
+        type: text
+        help: Dieser Text wird auf der Homepage angezeigt
+
+  spalte2:
     width: 1/2
     fields:
       tickets:
         type: textarea
         buttons: false
+        help: Ein Ticket pro Zeile

@@ -41,26 +41,40 @@
 
       <div class="container">
         <p>
-          Bitte die richtige Adresse aussuchen und auf den Knopf drücken
+          Bitte das richtige Kürzel aussuchen und auf den Knopf drücken
         </p>
 
         <div class="col-md-6">
           <div class="mb-3">
             <div class="field">
               <label for="emailadresse" class="form-label">
-                EMailadresse*
+                Kürzel*
               </label>
 
               <select type="form-select" id="emailadresse" class="form-select" name="emailadresse" value="<?= $data['emailadresse'] ?? '' ?>" required>
 
-                <option selected disabled>EMailadresse auswählen</option>
-                <?php foreach (page('formulare/emailadressen')->Emailadressen()->toStructure() as $email) : //Das Kirby Feld durchlaufen für alle Einträge 
-                ?>
-                  <option><?= $email->emailadresse() ?></option>
+                <option selected disabled>Kürzel auswählen</option>
+                <option disabled>---Lehrer---</option>
+
+                <?php foreach (page('lehrer')->children() as $l) : //Die Lehrer Liste durchlaufen (csv Datei) ?>
+                  <option value="<?= $l->kuerzel() ?>@kgs-rastede.eu"><?= $l->kuerzel()->upper() ?></option>
+                <?php endforeach ?>
+                
+
+                <?php if (page('formulare/emailadressen')->emailadressen()->isNotEmpty()) : //Nur 'weitere' anzeigen wenn es auch welche gibt ?>
+                  <option disabled>---Weitere---</option>
+                <?php endif ?>
+
+                <?php foreach (page('formulare/emailadressen')->Emailadressen()->toStructure() as $lehrer) : //Das Kirby Feld durchlaufen für alle Einträge ?>
+                  <option value="<?= $lehrer->emailadresse() ?>">
+                    <?= $lehrer->kuerzel()->or($lehrer->emailadresse()) ?>
+                  </option>
                 <?php endforeach ?>
 
               </select>
-              <?= isset($alert['emailadresse']) ? '<span class="alert error text-danger">' . html($alert['emailadresse']) . '</span>' : '' ?>
+              <?= isset($alert['mail']) ? '<span class="alert error text-danger">' . html($alert['mail']) . '</span>' : '' ?>
+
+              <div id="emailadresseHelp" class="form-text"><?= $page->info() ?></div>
 
             </div>
           </div>

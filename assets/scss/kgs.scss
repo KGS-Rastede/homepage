@@ -9,6 +9,8 @@
 // Basisschriftgröße etwas erhöhen
 $font-size-base: 1.2rem;
 
+// Das Swap ist für die Performance, sagen die Analysetools...
+// https://web.dev/font-display/?utm_source=lighthouse&utm_medium=lr#how-to-avoid-showing-invisible-text
 @font-face{
     font-family: 'Pangea';
     src: url('Pangea-LightWeb.woff2');
@@ -17,6 +19,7 @@ $font-size-base: 1.2rem;
 
     src: local('Pangea-LightWeb'), local('Pangea-LightWeb'),
     url('./Pangea-LightWeb.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face{
@@ -27,6 +30,7 @@ $font-size-base: 1.2rem;
 
     src: local('Pangea-Regular'), local('Pangea-RegularWeb'),
     url('./Pangea-RegularWeb.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face{
@@ -37,6 +41,7 @@ $font-size-base: 1.2rem;
 
     src: local('Pangea-MediumWeb'), local('Pangea-MediumWeb'),
     url('./Pangea-MediumWeb.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face{
@@ -47,6 +52,7 @@ $font-size-base: 1.2rem;
 
     src: local('Pangea-SemiBold'), local('Pangea-SemiBoldWeb'),
     url('./Pangea-SemiBoldWeb.woff2') format('woff2');
+    font-display: swap;
 }
 
 
@@ -58,6 +64,7 @@ $font-size-base: 1.2rem;
 
     src: local('Pangea-BoldWeb'), local('Pangea-BoldWeb'),
     url('./Pangea-BoldWeb.woff2') format('woff2');
+    font-display: swap;
 }
 
 

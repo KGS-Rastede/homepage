@@ -39,7 +39,3 @@ Downloads:
 ----
 
 Fotoansicht: carousel
-
-----
-
-Featured: true

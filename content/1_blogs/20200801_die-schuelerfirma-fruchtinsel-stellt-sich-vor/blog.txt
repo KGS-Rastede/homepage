@@ -39,11 +39,3 @@ Downloads:
 ----
 
 Fotoansicht: gallery
-
-----
-
-Featured: false
-
-----
-
-Immer-sichtbar: false

@@ -32,3 +32,11 @@ sections:
     templates: blog
     sortBy: date desc
     info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
+
+  unpublished:
+    headline: NICHT öffentlich einsehbar
+    type: pages
+    status: unlisted
+    templates: blog
+    sortBy: date desc
+    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"

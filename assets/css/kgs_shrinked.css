@@ -7,6 +7,7 @@
   font-style: normal;
   font-weight: 300;
   src: local("Pangea-LightWeb"), local("Pangea-LightWeb"), url("./Pangea-LightWeb.woff2") format("woff2");
+  font-display: swap;
 }
 @font-face {
   font-family: "Pangea";
@@ -14,6 +15,7 @@
   font-style: normal;
   font-weight: 400;
   src: local("Pangea-Regular"), local("Pangea-RegularWeb"), url("./Pangea-RegularWeb.woff2") format("woff2");
+  font-display: swap;
 }
 @font-face {
   font-family: "Pangea";
@@ -21,6 +23,7 @@
   font-style: normal;
   font-weight: 500;
   src: local("Pangea-MediumWeb"), local("Pangea-MediumWeb"), url("./Pangea-MediumWeb.woff2") format("woff2");
+  font-display: swap;
 }
 @font-face {
   font-family: "Pangea";
@@ -28,6 +31,7 @@
   font-style: normal;
   font-weight: 600;
   src: local("Pangea-SemiBold"), local("Pangea-SemiBoldWeb"), url("./Pangea-SemiBoldWeb.woff2") format("woff2");
+  font-display: swap;
 }
 @font-face {
   font-family: "Pangea";
@@ -35,6 +39,7 @@
   font-style: normal;
   font-weight: 700;
   src: local("Pangea-BoldWeb"), local("Pangea-BoldWeb"), url("./Pangea-BoldWeb.woff2") format("woff2");
+  font-display: swap;
 }
 .main {
   margin-top: 30px;
@@ -318,7 +323,8 @@
   min-width: 350px;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .banner-overlay-div {
@@ -949,6 +955,11 @@ progress {
 }
 @media (min-width: 1200px) {
 
+  .row-cols-xl-2 > * {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+
   .row-cols-xl-4 > * {
     flex: 0 0 auto;
     width: 25%;
@@ -980,6 +991,13 @@ progress {
 
   .g-xl-4 {
     --bs-gutter-y: 1.5rem;
+  }
+}
+@media (min-width: 1400px) {
+
+  .row-cols-xxl-3 > * {
+    flex: 0 0 auto;
+    width: 33.3333333333%;
   }
 }
 .table {
@@ -1080,6 +1098,14 @@ progress {
 .form-control::-webkit-date-and-time-value {
   height: 1.5em;
 }
+.form-control::-moz-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+.form-control:-ms-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
 .form-control::placeholder {
   color: #6c757d;
   opacity: 1;
@@ -1091,7 +1117,8 @@ progress {
 .form-control::file-selector-button {
   padding: 0.375rem 0.75rem;
   margin: -0.375rem -0.75rem;
-  margin-inline-end: 0.75rem;
+  -webkit-margin-end: 0.75rem;
+          margin-inline-end: 0.75rem;
   color: #212529;
   background-color: #e9ecef;
   pointer-events: none;
@@ -1113,7 +1140,8 @@ progress {
 .form-control::-webkit-file-upload-button {
   padding: 0.375rem 0.75rem;
   margin: -0.375rem -0.75rem;
-  margin-inline-end: 0.75rem;
+  -webkit-margin-end: 0.75rem;
+          margin-inline-end: 0.75rem;
   color: #212529;
   background-color: #e9ecef;
   pointer-events: none;
@@ -1144,12 +1172,14 @@ progress {
 .form-control-lg::file-selector-button {
   padding: 0.5rem 1rem;
   margin: -0.5rem -1rem;
-  margin-inline-end: 1rem;
+  -webkit-margin-end: 1rem;
+          margin-inline-end: 1rem;
 }
 .form-control-lg::-webkit-file-upload-button {
   padding: 0.5rem 1rem;
   margin: -0.5rem -1rem;
-  margin-inline-end: 1rem;
+  -webkit-margin-end: 1rem;
+          margin-inline-end: 1rem;
 }
 
 textarea.form-control {
@@ -1274,8 +1304,22 @@ textarea.form-control-lg {
     transition: none;
   }
 }
+.form-floating > .form-control::-moz-placeholder {
+  color: transparent;
+}
+.form-floating > .form-control:-ms-input-placeholder {
+  color: transparent;
+}
 .form-floating > .form-control::placeholder {
   color: transparent;
+}
+.form-floating > .form-control:not(:-moz-placeholder-shown) {
+  padding-top: 1.625rem;
+  padding-bottom: 0.625rem;
+}
+.form-floating > .form-control:not(:-ms-input-placeholder) {
+  padding-top: 1.625rem;
+  padding-bottom: 0.625rem;
 }
 .form-floating > .form-control:focus, .form-floating > .form-control:not(:placeholder-shown) {
   padding-top: 1.625rem;
@@ -1288,6 +1332,14 @@ textarea.form-control-lg {
 .form-floating > .form-select {
   padding-top: 1.625rem;
   padding-bottom: 0.625rem;
+}
+.form-floating > .form-control:not(:-moz-placeholder-shown) ~ label {
+  opacity: 0.65;
+  transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
+}
+.form-floating > .form-control:not(:-ms-input-placeholder) ~ label {
+  opacity: 0.65;
+  transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
 }
 .form-floating > .form-control:focus ~ label,
 .form-floating > .form-control:not(:placeholder-shown) ~ label,
@@ -1338,6 +1390,8 @@ textarea.form-control-lg {
   vertical-align: middle;
   cursor: pointer;
   -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
           user-select: none;
   background-color: transparent;
   border: 1px solid transparent;
@@ -1595,31 +1649,6 @@ textarea.form-control-lg {
 }
 .btn-outline-secondary:disabled, .btn-outline-secondary.disabled {
   color: #586994;
-  background-color: transparent;
-}
-
-.btn-outline-success {
-  color: #bdc8d4;
-  border-color: #bdc8d4;
-}
-.btn-outline-success:hover {
-  color: #000;
-  background-color: #bdc8d4;
-  border-color: #bdc8d4;
-}
- .btn-outline-success:focus {
-  box-shadow: 0 0 0 0.25rem rgba(189, 200, 212, 0.5);
-}
- .btn-outline-success:active, .btn-outline-success.active, .btn-outline-success.dropdown-toggle.show {
-  color: #000;
-  background-color: #bdc8d4;
-  border-color: #bdc8d4;
-}
- .btn-outline-success:active:focus, .btn-outline-success.active:focus, .btn-outline-success.dropdown-toggle.show:focus {
-  box-shadow: 0 0 0 0.25rem rgba(189, 200, 212, 0.5);
-}
-.btn-outline-success:disabled, .btn-outline-success.disabled {
-  color: #bdc8d4;
   background-color: transparent;
 }
 
@@ -2462,6 +2491,12 @@ textarea.form-control-lg {
   color: #000;
 }
 
+@-webkit-keyframes spinner-border {
+  to {
+    transform: rotate(360deg) /* rtl:ignore */;
+  }
+}
+
 @keyframes spinner-border {
   to {
     transform: rotate(360deg) /* rtl:ignore */;
@@ -2493,6 +2528,10 @@ textarea.form-control-lg {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.ratio-16x9 {
+  --aspect-ratio: calc(9 / 16 * 100%);
 }
 
 .stretched-link::after {
@@ -2551,6 +2590,10 @@ textarea.form-control-lg {
 
 .border-bottom {
   border-bottom: 1px solid #dee2e6 !important;
+}
+
+.w-75 {
+  width: 75% !important;
 }
 
 .w-100 {
@@ -2734,8 +2777,12 @@ textarea.form-control-lg {
   padding-bottom: 1.5rem !important;
 }
 
-.pt-5 {
-  padding-top: 3rem !important;
+.pt-4 {
+  padding-top: 1.5rem !important;
+}
+
+.ps-0 {
+  padding-left: 0 !important;
 }
 
 .ps-3 {
@@ -2881,8 +2928,8 @@ textarea.form-control-lg {
     padding-left: 0 !important;
   }
 
-  .ps-md-5 {
-    padding-left: 3rem !important;
+  .ps-md-3 {
+    padding-left: 1rem !important;
   }
 }
 @media (min-width: 992px) {
