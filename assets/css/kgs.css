@@ -67,72 +67,9 @@
     white-space: nowrap !important;
   }
 }
-/* Reset */
-*:before, *:after {
-  content: "";
-}
-
-hr {
-  border: 0;
-  margin: 1.35em auto;
-  max-width: 100%;
-  background-position: 50%;
-  box-sizing: border-box;
-}
-
-.bookends-dots {
-  position: relative;
-  border-bottom: 1px solid rgba(128, 128, 128, 0.75);
-  width: 50%;
-}
-
-.bookends-dots:before, .bookends-dots:after {
-  position: absolute;
-  bottom: -5px;
-  width: 10px;
-  height: 10px;
-  display: block;
-  border-width: 0 1px 1px 0;
-  border-color: rgba(128, 128, 128, 0.75);
-  border-style: solid;
-  box-sizing: border-box;
-  border-radius: 100%;
-}
-
-.bookends-dots:before {
-  transform: translateZ(0) rotate(-45deg);
-  left: -10px;
-}
-
-.bookends-dots:after {
-  transform: translateZ(0) rotate(135deg);
-  right: -10px;
-}
-
-.flair {
-  width: 65%;
-  height: 30px;
-  border-style: solid;
-  border-color: rgba(191, 191, 191, 0.9);
-  border-width: 1px 0 0 0;
-  border-radius: 15px;
-}
-
-.flair:before {
-  display: block;
-  height: 30px;
-  margin-top: -31px;
-  border-style: solid;
-  border-color: rgba(191, 191, 191, 0.9);
-  border-width: 0 0 1px 0;
-  border-radius: 15px;
-}
-
 /*==================================
-    TIMELINE
+    TIMELINE für geschichte.php
 ==================================*/
-/*-- GENERAL STYLES
-    ------------------------------*/
 .timeline {
   line-height: 1.4em;
   list-style: none;
