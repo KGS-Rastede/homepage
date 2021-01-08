@@ -6,9 +6,7 @@
 
         <a class="dropdown-item text-umbruch text-sm-kein-umbruch" href="<?= $pageLink->url()?>">
             <div class="d-flex">            
-                <svg class="bi" width="24" height="24">
-                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#<?= $item->icon() ?>" >
-                </svg>
+               <i class="bi bi-<?= $item->icon() ?>"></i>
                 
                 <div class="col ms-1 ">
                     <?= $item->linkTitle()->or($pageLink->title()) //Entweder den eingegebenen Titel oder als Fallback den Titel der Seite ?>
@@ -20,9 +18,8 @@
 
         <a class="dropdown-item text-umbruch text-sm-kein-umbruch" href="<?= $item->externalLink() //Dieser Teil kommt bei Bildschirm schmaler als md ?>">
             <div class="d-flex">   
-                <svg class="bi" width="24" height="24">
-                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#<?= $item->icon() ?>" >
-                </svg>
+                <i class="bi bi-<?= $item->icon() ?>"></i>
+
                 <div class="col ms-1">
                     <?= $item->linkTitle()->or( Url::short($item->externalLink()->value()) ) //Entweder den eingegebenen Titel oder als Fallback den Titel der externen Seite ?>
                 </div>

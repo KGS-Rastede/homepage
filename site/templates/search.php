@@ -10,7 +10,7 @@
     <label for="floatingInput">Suchbegriff eingeben:</label>
     <div class="d-grid gap-2 col-6 mx-auto mt-3">
       <button class="btn btn-outline-secondary flex-nowrap fs-6" type="submit" formaction="#top">
-        <svg class="bi" width="24" height="24"><use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#search" /></svg> Suchen!
+      <i class="bi bi-search"></i> Suchen!
       </button>
     </div>
   </div>

@@ -1,9 +1,6 @@
 <?php if ($item->tags()->isNotEmpty()) : ?>
     <span>
-
-        <svg class="bi" width="24" height="24">
-                    <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#tags" />
-        </svg> Tags:
+        <i class="bi bi-tags"></i> Tags:
 
         <?php foreach ($item->tags()->split() as $tag) : ?>
             <a  class="badge rounded-pill bg-info text-decoration-none"

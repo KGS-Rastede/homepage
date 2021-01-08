@@ -28,9 +28,7 @@
                     </a>
 
                     <?php if ($datei->Startseite() == 'true') : ?>
-                      <svg class="bi" width="24" height="24">
-                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#lightning-fill" />
-                      </svg>
+                      <i class="bi bi-lightning-fill"></i>
                     <?php endif ?>
 
                   </td>
@@ -40,9 +38,7 @@
                       <?= $datei->Anzeigename() ?>
                     </a>
                     <?php if ($datei->Startseite() == 'true') : ?>
-                      <svg class="bi" width="24" height="24">
-                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#lightning-fill" />
-                      </svg>
+                      <i class="bi bi-lightning-fill"></i>
                     <?php endif ?>
                   </td>
                 <?php endif ?>
@@ -75,9 +71,7 @@
                     </a>
 
                     <?php if ($datei->Startseite() == 'true') : ?>
-                      <svg class="bi" width="24" height="24">
-                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#lightning-fill" />
-                      </svg>
+                      <i class="bi bi-lightning-fill"></i>
                     <?php endif ?>
                   </td>
                 <?php else : ?>
@@ -87,9 +81,7 @@
                     </a>
 
                     <?php if ($datei->Startseite() == 'true') : ?>
-                      <svg class="bi" width="24" height="24">
-                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#lightning-fill" />
-                      </svg>
+                      <i class="bi bi-lightning-fill"></i>
                     <?php endif ?>
                   </td>
                 <?php endif ?>
@@ -105,9 +97,8 @@
 
   <hr>
 
-  <p>Hinweis: Artikel, die mit einem <svg class="bi" width="24" height="24">
-      <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#lightning-fill" />
-    </svg> markiert sind, sind direkt auf der Startseite unter "Zur Zeit aktuelle Downloads" verlinkt.
+  <p>Hinweis: Artikel, die mit einem <i class="bi bi-lightning-fill"></i>
+ markiert sind, sind direkt auf der Startseite unter "Zur Zeit aktuelle Downloads" verlinkt.
   </p>
 
 </div>

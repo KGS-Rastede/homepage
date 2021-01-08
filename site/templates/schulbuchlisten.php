@@ -26,9 +26,7 @@
                                         <td class="td-actions text-end">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
-                                                    <svg class="bi" width="24" height="24">
-                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#file-earmark-text-fill" />
-                                                    </svg>
+                                                    <i class="bi bi-file-earmark-text-fill"></i>
                                                 </button>
                                             </a>
                                         </td>
@@ -64,9 +62,7 @@
                                         <td class="td-actions text-end">
                                             <a href="<?= $liste->link()->toFile()->url() ?>">
                                                 <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
-                                                    <svg class="bi" width="24" height="24">
-                                                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#file-earmark-text-fill" />
-                                                    </svg>
+                                                  <i class="bi bi-file-earmark-text-fill"></i>
                                                 </button>
                                             </a>
                                         </td>
@@ -103,9 +99,7 @@
                                             <td class="td-actions text-end">
                                                 <a href="<?= $liste->link()->toFile()->url() ?>">
                                                     <button type="button" rel="tooltip" class="btn btn-primary btn-just-icon">
-                                                        <svg class="bi" width="24" height="24">
-                                                            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#file-earmark-text-fill" />
-                                                        </svg>
+                                                      <i class="bi bi-file-earmark-text-fill"></i>
                                                     </button>
                                                 </a>
                                             </td>

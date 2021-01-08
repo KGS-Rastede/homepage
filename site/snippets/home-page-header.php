@@ -16,16 +16,12 @@
         <div class="d-flex d-sm-block">
         <p class="banner-btn me-3">
           <a class="banner-btn-item" href="<?= page('allgemeines/kalender')->url() ?>">Termine
-            <svg class="bi" width="24" height="24">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" />
-            </svg>
+            <i class="bi bi-arrow-right-circle"></i>
           </a>
         </p>
         <p class="banner-btn">
           <a class="banner-btn-item" href="<?= page('blogs')->url() ?>">Aktuelles
-            <svg class="bi" width="24" height="24">
-              <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#arrow-right-circle" />
-            </svg>
+            <i class="bi bi-arrow-right-circle"></i>
           </a>
         </p>
         </div>
