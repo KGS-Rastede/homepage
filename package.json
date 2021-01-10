@@ -20,7 +20,6 @@
     "sass": "^1.32.0"
   },
   "devDependencies": {
-    "bootstrap-icons": "^1.2.2"
   },
   "scripts": {
     "build": "npm run sass && npm run prefix && npm run purge && npm run mini",
