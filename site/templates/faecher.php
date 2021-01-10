@@ -14,20 +14,16 @@
       <h3 class="card-title">Fachbereichsleiterin: Frau Backhaus</h3>
       <div class="list-group text-white">
         <a href="<?= page('Faecher/englisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-square" /></svg> Englisch
+          <i class="bi bi-chat-square"></i> Englisch
         </a> 
         <a href="<?= page('Faecher/franzoesisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-left-dots" /></svg> Französisch
+          <i class="bi bi-chat-left-dots"></i> Französisch
         </a> 
         <a href="<?= page('Faecher/spanisch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-quote" /></svg> Spanisch
+          <i class="bi bi-chat-quote"></i> Spanisch
         </a> 
         <a href="<?= page('Faecher/latein')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-left" /></svg> Latein
+          <i class="bi bi-chat-left"></i> Latein
         </a> 
       </div>
     </div>
@@ -42,24 +38,19 @@
       <h4 class="card-title">Fachbereichsleiter: Herr Schneemann</h4>
       <div class="list-group">
         <a href="<?= page('Faecher/musik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#music-note-beamed" /></svg> Musik
+          <i class="bi bi-music-note-beamed"></i> Musik
         </a> 
         <a href="<?= page('Faecher/kunst')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#brush" /></svg> Kunst
+          <i class="bi bi-brush"></i> Kunst
         </a> 
         <a href="<?= page('Faecher/ds')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#file-person" /></svg> Darstellendes Spiel
+          <i class="bi bi-file-person"></i> Darstellendes Spiel
         </a> 
         <a href="<?= page('Faecher/tg')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#bezier" /></svg> Textiles Gestalten
+          <i class="bi bi-bezier"></i> Textiles Gestalten
         </a> 
         <a href="<?= page('Faecher/werken')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#hammer" /></svg> Gestaltendes Werken
+          <i class="bi bi-hammer"></i> Gestaltendes Werken
         </a> 
       </div>
     </div>
@@ -75,8 +66,7 @@
 
       <div class="list-group">
         <a href="<?= page('Faecher/Mathematik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#calculator" /></svg> Mathematik
+          <i class="bi bi-calculator"></i> Mathematik
         </a>
       </div>
     </div>
@@ -92,8 +82,7 @@
 
       <div class="list-group">
         <a href="<?= page('Faecher/Sport')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#globe" /></svg> Sport
+          <i class="bi bi-globe"></i> Sport
         </a>
       </div>
     </div>
@@ -110,12 +99,10 @@
 
       <div class="list-group">
         <a href="<?= page('Faecher/deutsch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-dots" /></svg> Deutsch
+          <i class="bi bi-chat-dots"></i> Deutsch
         </a>
         <a href="<?= page('Faecher/deutsch-als-zweitsprache-daz')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#chat-square-dots" /></svg> Deutsch als Zweitsprache
+          <i class="bi bi-chat-square-dots"></i> Deutsch als Zweitsprache
         </a>
       </div>
     </div>
@@ -133,20 +120,16 @@
 
       <div class="list-group">
         <a href="<?= page('Faecher/Physik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#plug" /></svg> Physik
+          <i class="bi bi-plug"></i> Physik
         </a>
         <a href="<?= page('Faecher/Biologie')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#flower1" /></svg> Biologie
+          <i class="bi bi-flower1"></i> Biologie
         </a>
         <a href="<?= page('Faecher/Chemie')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#droplet-half" /></svg> Chemie
+          <i class="bi bi-droplet-half"></i> Chemie
         </a>
         <a href="<?= page('Faecher/informatik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#terminal" /></svg> Informatik
+          <i class="bi bi-terminal"></i> Informatik
         </a>
       </div>
     </div>
@@ -161,20 +144,16 @@
       <h4 class="card-title">Fachbereichsleiter: Herr Henken</h4>
       <div class="list-group">
         <a href="<?= page('unterricht/schuelerfirmen')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#wallet2" /></svg> Schülerfirmen
+          <i class="bi bi-wallet2"></i> Schülerfirmen
         </a>
         <a href="<?= page('Faecher/wirtschaft')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cash-stack" /></svg> Wirtschaft
+          <i class="bi bi-cash-stack"></i> Wirtschaft
         </a>
         <a href="<?= page('Faecher/technik')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#screwdriver" /></svg> Technik
+          <i class="bi bi-screwdriver"></i> Technik
         </a>
         <a href="<?= page('Faecher/hauswirtschaft')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#basket" /></svg> Hauswirtschaft
+          <i class="bi bi-basket"></i> Hauswirtschaft
         </a>
 
       </div>
@@ -191,24 +170,19 @@
       <h4 class="card-title">Fachbereichsleiter: Herr Meyer</h4>
       <div class="list-group">
         <a href="<?= page('Faecher/geschichte')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#clock-history"/></svg> Geschichte
+          <i class="bi bi-clock-history"></i> Geschichte
         </a>
         <a href="<?= page('Faecher/politik-wirtschaft')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#graph-up"/></svg> Politik / Politik-Wirtschaft
+          <i class="bi bi-graph-up"></i> Politik / Politik-Wirtschaft
         </a>
         <a href="<?= page('Faecher/erdkunde')->url() ?>" class="list-group-item list-group-item-light  list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#geo"/></svg> Erdkunde
+          <i class="bi bi-geo"></i> Erdkunde
         </a>
         <a href="<?= page('Faecher/religion')->url() ?>" class="list-group-item list-group-item-light  list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#signpost-split"/></svg> Religion
+          <i class="bi bi-signpost-split"></i> Religion
         </a>
         <a href="<?= page('Faecher/WuN')->url() ?>" class="list-group-item list-group-item-light  list-group-item-action">
-        <svg class="bi" width="24" height="24">
-            <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#diagram-2-fill"/></svg> Werte und Normen
+          <i class="bi bi-diagram-2-fill"></i> Werte und Normen
         </a>
       </div>
     </div>
