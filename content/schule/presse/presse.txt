@@ -6,6 +6,20 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/kgs-rastede-klima-klimaneutral-klimaneutrale-gemeinde-2040-kfw-foerderung-passivhaus-effizienzhaus_a_50,11,3519098052.html
+  name: >
+    Der Klimaschutz steht an erster Stelle
+    beim KGS-Anbau
+  anfang: >
+    Statt Energieeffizienz 55 geht es bei
+    dem geplanten Anbau der KGS Rastede nun
+    um ein Bauvorhaben auf Basis des
+    Passivhaus-Standards. Möglich ist dies
+    aufgrund einer neuen Förderrichtlinie.
+  datum: 2021-01-20
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-oldenburg-stadt/oldenburg-rastede-gemeinsam-in-die-selbststaendigkeit-oldenburger-schueler-schlagen-corona-ein-schnippchen_a_50,11,3271727525.html
   name: >
     Oldenburger Schüler schlagen Corona ein
