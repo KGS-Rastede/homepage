@@ -77,7 +77,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
                                     $dateien =  $page->downloads()->toFiles();
                                     foreach ($dateien as $datei) : ?>
                                         <li class="list-group-item">
-                                            <a href="<?= $datei->url() ?>"><?= $datei->anzeigename()->or($datei->name()) ?></a>
+                                            <a class="text-decoration-none" href="<?= $datei->url() ?>"><?= $datei->anzeigename()->or($datei->name()) ?></a>
                                         </li>
                                     <?php endforeach ?>
 
