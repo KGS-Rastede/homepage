@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"text":"<p>Der Artikel wird zur Zeit \u00fcberarbeitet<\/p>"},"id":"3f889f3b-ddd5-4bde-bc4a-ac33db163122","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"Die aktuellen Entscheidungen zur Pandemie f\u00fchren bei uns zu zwei Ver\u00e4nderungen:\n\n- Das Distanzlernen f\u00fcr die Jahrg\u00e4nge 5 \u2013 12 wird um zwei Wochen bis zum 14. Februar verl\u00e4ngert.\n- Eltern k\u00f6nnen entscheiden, ob ihr Kind im Abschlussjahrgang bis zum 14.02. ins Distanzlernen geht. \n- Die Mitteilung (Formblatt \u2013 siehe unten) muss bis **Freitag, 22.01., 10.00 Uhr**, bei der Klassenlehrkraft und der jeweiligen Schulzweigleitung vorliegen.\n\nDas hat zu folgenden Entscheidungen f\u00fcr die Abschlussjahrg\u00e4nge gef\u00fchrt:\n\n- Bis zum 29.01. bleibt es wie bisher. Das bedeutet, dass diese Lerngruppen m\u00f6glicherweise noch eine Woche gemeinsam in die Schule kommen. \n- Ab 05.02. beginnt f\u00fcr diese Lerngruppen der Unterricht im Szenario B \u2013 also in halben Gruppen. \n- F\u00fcr die **Abschlussklassen des Hauptschulzweigs** werden m\u00f6glicherweise andere Regelungen getroffen."},"id":"3f889f3b-ddd5-4bde-bc4a-ac33db163122","isHidden":false,"type":"markdown"}]
 
 ----
 
