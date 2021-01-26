@@ -1,0 +1,10 @@
+name: Lokales Video
+icon: video
+label: "{{ name }} - {{ autor }}"
+fields:
+  video:
+    type: files
+  name:
+    type: text
+  autor:
+    type: text

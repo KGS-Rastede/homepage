@@ -36,6 +36,7 @@ columns:
               - image
               - gallery
               - video
+              - local-video
               - code
               - markdown
               - audio
