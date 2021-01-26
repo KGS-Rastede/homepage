@@ -2781,6 +2781,10 @@ textarea.form-control-lg {
   padding-bottom: 1.5rem !important;
 }
 
+.pt-3 {
+  padding-top: 1rem !important;
+}
+
 .pt-4 {
   padding-top: 1.5rem !important;
 }
