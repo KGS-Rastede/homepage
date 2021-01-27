@@ -5,6 +5,7 @@ label: "{{ name }} - {{ creator }}"
 fields:
   soundfile:
     type: files
+    max: 1
   name:
     type: text
   creator:
