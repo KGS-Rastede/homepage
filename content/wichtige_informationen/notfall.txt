@@ -6,10 +6,6 @@ Toggle: true
 
 ----
 
-Category: eigenerTitel
-
-----
-
 Texttitel: Unterrichtsausfall am 3. und 4. Februar 21
 
 ----
@@ -19,6 +15,10 @@ Text:
 Am 3. und 4. Februar findet an der KGS kein Unterricht statt. Für Lehrerinnen und Lehrer findet eine schulinterne Fortbildung zum Thema „Digitalisierung“ statt. Für Schülerinnen und Schüler sind es Studientage. Das bedeutet, dass sie Aufgaben von den Lehrkräften bekommen. Das geht natürlich nur in den Fächern, die in beiden Halbjahren unterrichtet werden. Ansonsten empfehlen wir, die beiden Tage zur Wiederholung und Auffrischung zu nutzen.
 
 Corona: Details dazu finden Sie hier (link: https://kgs-rastede.de/blogs/coronasammelartikel text: im Sammelartikel)
+
+----
+
+Category: eigenerTitel
 
 ----
 
