@@ -1,6 +1,6 @@
 title: Informationen zum Notfall
 num: '{{ page.date.toDate("Ymd") }}'
-icon: 📖
+icon: alert
 
 options:
   update:
@@ -39,4 +39,3 @@ sections:
         type: textarea
         when:
           toggle: true
-                
