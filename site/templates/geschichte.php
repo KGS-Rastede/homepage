@@ -1,176 +1,23 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
+<p><strong>Die Historie der KGS Rastede in ihren groben Zügen</strong></p>
+<p><em>Die Historie der KGS Rastede wird stichpunktartig skizziert und fokussiert in chronologischer Reihenfolge einzelne ausgewählte Aspekte (die Entstehung der KGS, die schulischen Veränderungen, die baulichen Maßnahmen an der Schule sowie Personalveränderungen in der Schulleitung und ausgewählte Ereignisse). Letztlich bildet diese Chronologie einen Spiegel der Presse.</em></p>
+
+
 <div class="container">
+    <div class="row example-centered">
+        <ul class="timeline timeline-centered">
+            <?= $page->text()->toBlocks() ?>
+        </ul>
+    </div>
+</div>
 
-    <p><strong>Die Historie der KGS Rastede in ihren groben Zügen</strong></p>
-    <p><em>Die Historie der KGS Rastede wird stichpunktartig skizziert und fokussiert in chronologischer Reihenfolge einzelne ausgewählte Aspekte (die Entstehung der KGS, die schulischen Veränderungen, die baulichen Maßnahmen an der Schule sowie Personalveränderungen in der Schulleitung und ausgewählte Ereignisse). Letztlich bildet diese Chronologie einen Spiegel der Presse.</em></p>
-
+<div class="container">
     <div class="row example-centered">
         <ul class="timeline timeline-centered">
 
-            <li class="timeline-item period">
-                <div class="timeline-info"></div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-                    <h2 class="timeline-title">Wie alles begann</h2>
-                </div>
-            </li>
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1970er Jahre</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-
-                    <p>Schulbestand <strong>Anfang der 70er</strong>: fünf Grundschulen, eine Sonderschule für Lernbehinderte, drei als Grund- und Hauptschulen geführte Mittelpunktschulen sowie eine Realschule</p>
-                    <p><strong>1974 </strong>lange Zeit kaum aktive Betreibung von Bildungspolitik</p>
-                    <p>Reformklima in Rastede, Initiativgruppe diskutiert über die Gründung einer Kooperativen Gesamtschule</p>
-                    <p>Gemeinderat beschließt KGS und gibt <em>grünes Licht für Neubau</em></p>
-
-                </div>
-            </li>
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1975</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-
-                    <p>Planungsgruppe von Eltern, Schülerinnen und Schülern, Lehrerinnen und Lehrern, Kommunalpolitikern sowie Vertreter der Schulaufsichtsbehörde übernimmt Arbeit und Planung</p>
-
-                    <p>Neubau des Schulzentrums</p>
-
-
-                </div>
-
-
-            </li>
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1976/77</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-                    <p><strong>KGS</strong> <strong>Rastede</strong> mit Haupt- und Realschulzweig sowie dem Gymnasialzweig bis Klasse 10 (Genehmigung durch den damaligen Kultusminister Dr. Remmers) – Klassen 7 – 10; <strong>erstes komplettes Bildungsangebot in Rastede</strong></p>
-                    <ul>
-                        <li>Genehmigung einer Lateinklasse für Gymnasialzweig</li>
-                        <li><em>Einweihung der dreiteiligen Sporthalle</em></li>
-
-                </div>
-
-
-            </li>
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1978</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-                    <p>erster deutsch-französischer Schüleraustausch mit Partnerschulen in Liffré und St. Aubin</p>
-                    <p>Gemeinde Rastede beantragt Änderung des Kreisschulentwicklungsplanes: Einführung einer gymnasialen Oberstufe&nbsp;</p>
-                    <p>KGS beantragt bei der Gemeinde ein freiwilliges 10. Schuljahr für den Hauptschulzweig</p>
-                    <p>alle Hauptschulen des Gemeindegebiets gehen ganz in der KGS auf</p>
-                    <p>erstes Betriebspraktikum des gesamten 9. Jahrgangs</p>
-
-                </div>
-
-            </li>
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1979</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-                    
-                    <p>erste Abschlüsse im Hauptschulzweig nach Klasse 9</p>
-                    <p>Rat der Gemeinde beschließt die Einrichtung der gymnasialen Oberstufe</p>
-                    <p>Kultusminister Dr. Remmers genehmigt Oberstufe</p>
-                    <p>ehemalige Realschule geht in der KGS auf</p>
-                </div>
-
-            </li>
-            <li class="timeline-item period">
-                <div class="timeline-info"></div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-                    <h2 class="timeline-title">Die Achtziger</h2>
-                </div>
-            </li>
-
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1980</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-
-                    
-                        <p>Beginn der Arbeit der gymnasialen Oberstufe</p>
-                        <p>erster Schuljahrgang der 10. Klassen verlässt die Schule</p>
-                    
-
-                </div>
-            </li>
-
-
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1981</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-
-                    <p><em>Einweihung des Neubaus der Oberstufe</em></p>
-                    <p>Gelder für Erstausstattung der Sek. II</p>
-
-
-                </div>
-
-            </li>
-
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1982</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-
-
-                    <p>gemeinsame Vereinbarung über Sek. I und Sek. II zwischen Rastede und</p>
-                    <p>Wiefelstede unterzeichnet</p>
-
-                </div>
-            </li>
-
-
-
-
-            <li class="timeline-item">
-                <div class="timeline-info">
-                    <span>1983</span>
-                </div>
-                <div class="timeline-marker"></div>
-                <div class="timeline-content">
-
-                    <p>Verabschiedung des ersten Abiturjahrgangs an der KGS</p>
-                    <p><em>Bäume für den Frieden auf dem Schulhof gepflanzt</em></p>
-
-
-                </div>
-
-
-            </li>
-
-
+ 
             <li class="timeline-item">
                 <div class="timeline-info">
                     <span>1984</span>
