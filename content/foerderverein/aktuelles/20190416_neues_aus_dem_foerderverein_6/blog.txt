@@ -2,7 +2,23 @@ Title: Neues aus dem Förderverein (06)
 
 ----
 
-Date: 2019-04-16
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>**Liebe Mitglieder und Freunde des F\u00f6rdervereins der KGS Rastede.** Wir m\u00f6chten Ihnen\/Euch eine Art Newsletter des F\u00f6rdervereins pr\u00e4sentieren, in dem wir die Projekte des FV kurz vorstellen. Dieser Newsletter wird in unregelm\u00e4\u00dfigen Abst\u00e4nden an alle Mitglieder per Mail verschickt, sowie auf der Homepage eingestellt und dient dazu, unser Wirken transparenter zu gestalten. Schlie\u00dflich sollen alle wissen, was mit Beitr\u00e4gen und Spendengeldern passiert. Nach einer l\u00e4ngeren Pause, nun endlich mal wieder ein paar Neuigkeiten aus dem F\u00f6rderverein. Wer die Homepage des FV regelm\u00e4\u00dfig besucht, wird bereits festgestellt haben, dass Berichte \u00fcber einzelne Projekte auf der Seite eingestellt wurden. Herr Torsten Sch\u00f6nebaum betreut die Seite ehrenamtlich, so dass wir hoffentlich immer einigerma\u00dfen up to Date sind; vielen Dank daf\u00fcr an dieser Stelle. Am Mittwoch, den 20.03. fand die diesj\u00e4hrige Jahreshauptversammlung statt. Es waren 18 Personen anwesend; immer noch recht wenige, gemessen an der Mitgliederzahl des FV, aber nachdem ich auch schon Sitzungen miterlebt habe, wo wir zu f\u00fcnft dort gesessen haben, ist das eine erfreuliche Entwicklung. Ein Punkt waren die Wahlen eines\/einer neuen zweiten Vorsitzenden, sowie des Kassenwartes \/ der Kassenwartin und des Stellvertreters \/ der Stellvertreterin. Das Amt des zweiten Vorsitzenden war seit dem Sommer des vergangenen Jahres vakant, da Petra Kickler ihr Amt in den Sommerferien niedergelegt hat. An dieser Stelle meinen ganz herzlichen Dank an Petra, die eine tolle Arbeit geleistet hat, insbesondere auch in der Doppelfunktion als zweite Vorsitzende und Kassenwartin. Die inspirierenden Ideen und Anregungen werden mir sehr fehlen und ich w\u00fcnsche Petra im Namen des Vorstandes alles Gute f\u00fcr die Zukunft. Ich bin mir aber auch sicher, dass wir mit der Wahl von Yvonne Hennemann eine w\u00fcrdige Nachfolgerin gefunden haben, der ich hiermit noch einmal ganz herzlich zu ihrer Wahl gratuliere. Ich freue mich auf eine gute Zusammenarbeit, an der ich nach unseren ersten Gespr\u00e4chen \u00fcberhaupt keine Zweifel habe. Im Amt der Kassenwartin wurde Frau Petra Abels best\u00e4tigt; wiedergew\u00e4hlt wurde auch Herr Jan Hoffmann, als Stellvertreter von Frau Abels. Auch an Euch nochmal meine herzlichsten Gl\u00fcckw\u00fcnsche zur Wahl und auf weiterhin gute Zusammenarbeit. Ich freue mich drauf! Nachdem im letzten Jahr deutlich weniger Antr\u00e4ge auf F\u00f6rderung von Projekten eingegangen sind, und nur etwa 3700,-\u20ac an F\u00f6rdergeldern ausgezahlt wurden (davon auch ein Gutteil private Spenden), wurde auf der Sitzung darauf hingewiesen, dass hier durchaus mehr m\u00f6glich ist Dieser Aufruf ist offensichtlich im Kollegium angekommen; in den zehn Tagen seit der JHV sind bereits diverse Antr\u00e4ge auf F\u00f6rderung beim F\u00f6rderverein eingegangen, sehr erfreulich! Nach mehreren Jahren der Preisstabilit\u00e4t, hat der Essenslieferant EKS zum neuen Schulhalbjahr die Preise f\u00fcr das Mittagessen um 0,10\u20ac erh\u00f6ht, wie ich denke, eine sehr moderate Anpassung. Ich wei\u00df, dass es immer wieder auch Kritik am Mittagessen gibt, insbesondere was die Bestell- und noch mehr die Abbestellzeiten betrifft. Wir konnten im gemeinsamen Gespr\u00e4ch bislang keine befriedigende L\u00f6sung finden, da Planung, Lieferung und Bereitstellung diversen Zw\u00e4ngen unterliegen. Wir bleiben aber im Gespr\u00e4ch. Die EKS bezieht ganz viele Lebensmittel aus der Region und unterst\u00fctzt damit die heimische Landwirtschaft, ein Punkt, den man bei der Gesamtbetrachtung nicht au\u00dfer acht lassen sollte. Auch die Anlieferung erfolgt aus der Region, was der Umwelt zugute kommt und damit dem Grundgedanken der KGS Rastede entspricht. F\u00f6rderverein und Schulleitung behalten die gesamte Thematik aber im Blick. Im Namen des Vorstandes w\u00fcnsche ich allen Lesern eine gute Zeit, den Abiturientinnen und Abiturienten ganz viel Erfolg, und allen Sch\u00fclerinnen und Sch\u00fclern ein erfolgreiches zweites Schulhalbjahr. F\u00fcr den Vorstand des F\u00f6rdervereins, Bernd W\u00fcstenbecker<\/p>"},"id":"c37e002e-6bea-43d7-b09c-661dae85f1cf","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2019-04-16 00:00:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -10,32 +26,12 @@ Author: Bernd Wüstenbecker
 
 ----
 
-Text:
+Tags: 
 
-**Liebe Mitglieder und Freunde des Fördervereins der KGS Rastede.**
+----
 
-Wir möchten Ihnen/Euch eine Art Newsletter des Fördervereins präsentieren, in dem wir die Projekte des FV kurz vorstellen. Dieser Newsletter wird in unregelmäßigen Abständen an alle Mitglieder per Mail verschickt, sowie auf der Homepage eingestellt und dient dazu, unser Wirken transparenter zu gestalten.
-Schließlich sollen alle wissen, was mit Beiträgen und Spendengeldern passiert.
+Downloads: 
 
-Nach einer längeren Pause, nun endlich mal wieder ein paar Neuigkeiten aus dem Förderverein. Wer die Homepage des FV regelmäßig besucht, wird bereits festgestellt haben, dass Berichte über einzelne Projekte auf der Seite eingestellt wurden. Herr Torsten Schönebaum betreut die Seite ehrenamtlich, so dass wir hoffentlich immer einigermaßen up to Date sind; vielen Dank dafür an dieser Stelle.
+----
 
-Am Mittwoch, den 20.03. fand die diesjährige Jahreshauptversammlung statt. Es waren 18 Personen anwesend; immer noch recht wenige, gemessen an der Mitgliederzahl des FV, aber nachdem ich auch schon Sitzungen miterlebt habe, wo wir zu fünft dort gesessen haben, ist das eine erfreuliche Entwicklung.
-Ein Punkt waren die Wahlen eines/einer neuen zweiten Vorsitzenden, sowie des Kassenwartes / der Kassenwartin und des Stellvertreters / der Stellvertreterin.
-Das Amt des zweiten Vorsitzenden war seit dem Sommer des vergangenen Jahres vakant, da Petra Kickler ihr Amt in den Sommerferien niedergelegt hat.
-An dieser Stelle meinen ganz herzlichen Dank an Petra, die eine tolle Arbeit geleistet hat, insbesondere auch in der Doppelfunktion als zweite Vorsitzende und Kassenwartin. Die inspirierenden Ideen und Anregungen werden mir sehr fehlen und ich wünsche Petra im Namen des Vorstandes alles Gute für die Zukunft.
-Ich bin mir aber auch sicher, dass wir mit der Wahl von Yvonne Hennemann eine würdige Nachfolgerin gefunden haben, der ich hiermit noch einmal ganz herzlich zu ihrer Wahl gratuliere. Ich freue mich auf eine gute Zusammenarbeit, an der ich nach unseren ersten Gesprächen überhaupt keine Zweifel habe.
-Im Amt der Kassenwartin wurde Frau Petra Abels bestätigt; wiedergewählt wurde auch Herr Jan Hoffmann, als Stellvertreter von Frau Abels.
-Auch an Euch nochmal meine herzlichsten Glückwünsche zur Wahl und auf weiterhin gute Zusammenarbeit. Ich freue mich drauf!
-
-Nachdem im letzten Jahr deutlich weniger Anträge auf Förderung von Projekten eingegangen sind, und nur etwa 3700,-€ an Fördergeldern ausgezahlt wurden (davon auch ein Gutteil private Spenden), wurde auf der Sitzung darauf hingewiesen, dass hier durchaus mehr möglich ist
-Dieser Aufruf ist offensichtlich im Kollegium angekommen; in den zehn Tagen seit der JHV sind bereits diverse Anträge auf Förderung beim Förderverein eingegangen, sehr erfreulich!
-
-Nach mehreren Jahren der Preisstabilität, hat der Essenslieferant EKS zum neuen Schulhalbjahr die Preise für das Mittagessen um 0,10€ erhöht, wie ich denke, eine sehr moderate Anpassung.
-Ich weiß, dass es immer wieder auch Kritik am Mittagessen gibt, insbesondere was die Bestell- und noch mehr die Abbestellzeiten betrifft. Wir konnten im gemeinsamen Gespräch bislang keine befriedigende Lösung finden, da Planung, Lieferung und Bereitstellung diversen Zwängen unterliegen. Wir bleiben aber im Gespräch.
-Die EKS bezieht ganz viele Lebensmittel aus der Region und unterstützt damit die heimische Landwirtschaft, ein Punkt, den man bei der Gesamtbetrachtung nicht außer acht lassen sollte. Auch die Anlieferung erfolgt aus der Region, was der Umwelt zugute kommt und damit dem Grundgedanken der KGS Rastede entspricht.
-Förderverein und Schulleitung behalten die gesamte Thematik aber im Blick.
-
-Im Namen des Vorstandes wünsche ich allen Lesern eine gute Zeit, den Abiturientinnen und Abiturienten ganz viel Erfolg, und allen Schülerinnen und Schülern ein erfolgreiches zweites Schulhalbjahr.
-
-Für den Vorstand des Fördervereins,
-Bernd Wüstenbecker
+Fotoansicht: 
