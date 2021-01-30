@@ -1,0 +1,23 @@
+name: Tabelle
+icon: menu
+label: "{{ text }}"
+fields:
+  info:
+    label: Hinweis
+    type: info
+    theme: 
+    text: "Tabelle-Überschrift und Tabelle-Inhalt sollten die **gleiche Anzahl an Spalten** besitzen.<br>In den meisten Fällen sollte nur **eine Zeile** für Tabelle-Überschrift verwendet werden.<br>Es muss nicht imemer Tabelle-Überschrift und Tabelle-Inhalt geben."
+  text:
+    label: Tabellenname
+    type: text
+    help: Wird im Panel als Vorschauname verwendet
+  tabellehead:
+    label: Tabelle-Überschrift
+    type: table
+    minColumns: 1
+    help: Verwende die Symbole um die Tabelle anzupassen
+  tabellebody:
+    label: Tabelle-Inhalt
+    type: table
+    minColumns: 1
+    help: Verwende die Symbole um die Tabelle anzupassen

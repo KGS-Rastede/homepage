@@ -41,6 +41,7 @@ columns:
               - markdown
               - audio
               - horizontale-linie
+              - tabelle
           gallery:
             type: files
             uploads: blogbild
