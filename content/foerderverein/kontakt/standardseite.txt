@@ -6,15 +6,22 @@ Heading:
 
 ----
 
-Text: [{"content":{"text":"<p>Sie haben Fragen, Anregungen oder Kritik an uns? Schreiben Sie uns einfach an (email: kontakt@foerderverein.kgs-rastede.de)<\/p>"},"id":"6034ed29-3367-4efc-bb7d-4076b59fcd8d","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p>Sie haben Fragen, Anregungen oder Kritik an uns? Schreiben Sie uns einfach an <a href=\"mailto:kontakt@foerderverein.kgs-rastede.de\" title=\"kontakt@foerderverein.kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">kontakt@foerderverein.kgs-rastede.de<\/a>.<\/p>"},"id":"6034ed29-3367-4efc-bb7d-4076b59fcd8d","isHidden":false,"type":"text"}]
 
 ----
 
-Relatedtitel: 
+Relatedtitel: Förderverein der KGS Rastede e.V.
 
 ----
 
-Related: 
+Related:
+
+- foerderverein/aktuelles
+- foerderverein/cafeteria
+- foerderverein/kontakt
+- foerderverein/mitmachen
+- foerderverein/satzung
+- foerderverein/spenden
 
 ----
 
@@ -23,36 +30,6 @@ Downloadtitel:
 ----
 
 Downloads: 
-
-----
-
-Sidetitel: Förderverein der KGS Rastede e.V.
-
-----
-
-Sidebar:
-
-- 
-  link: /foerderverein/ueber_uns
-  name: Über uns
-- 
-  link: /foerderverein/aktuelles
-  name: Aktuelles
-- 
-  link: /foerderverein/mitmachen
-  name: Mitmachen
-- 
-  link: /foerderverein/cafeteria
-  name: Cafeteria
-- 
-  link: /foerderverein/spenden
-  name: Spenden
-- 
-  link: /foerderverein/satzung
-  name: Satzung
-- 
-  link: /foerderverein/kontakt
-  name: Kontakt
 
 ----
 
