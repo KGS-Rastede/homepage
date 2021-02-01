@@ -50,3 +50,13 @@ Icon
 composer.lock
 assets/prepros.config
 prepros.config
+site/plugins/table-field/.gitignore
+site/plugins/table-field/composer.json
+site/plugins/table-field/index.php
+site/plugins/table-field/LICENSE.md
+site/plugins/table-field/package.json
+site/plugins/table-field/README.md
+site/plugins/table-field/src/index.js
+site/plugins/table-field/src/assets/js/lodash.js
+site/plugins/table-field/src/assets/scss/index.scss
+site/plugins/table-field/src/components/table.vue
