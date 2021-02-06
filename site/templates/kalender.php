@@ -7,9 +7,10 @@
 
 
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar/main.min.css">
 
 
-<script src='<?= $kirby->url('assets') ?>/js/plugins/main.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/fullcalendar/main.min.js'></script>
 <script src='<?= $kirby->url('assets') ?>/js/plugins/icalendar/main.js'></script>
 
 
