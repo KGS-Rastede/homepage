@@ -35,6 +35,7 @@
                     }
                 },
 
+                stickyHeaderDates: false, //Die Terminleiste wird nicht immer oben am Bildschirm angezeigt
                 firstDay: 1,
                 hiddenDays: [0, 6], // Samstag und Sonntag verstecken
                 weekLabel: "KW", // Beschriftung der Kalenderwoche
