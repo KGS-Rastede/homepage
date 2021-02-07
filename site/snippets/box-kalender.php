@@ -1,12 +1,11 @@
 <div class="card bg-primary mt-5 mb-3">
-    <link href='<?= $kirby->url('assets') ?>/js/plugins/main.min.css' rel='stylesheet' />
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
 
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar/main.min.css">
+<script src='https://cdn.jsdelivr.net/npm/fullcalendar/main.min.js'></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar/main.min.css" />
 
 
-    <script src='https://cdn.jsdelivr.net/npm/fullcalendar/main.min.js'></script>
-    
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
