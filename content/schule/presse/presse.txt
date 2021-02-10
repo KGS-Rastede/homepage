@@ -6,6 +6,19 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-palais-rastede-ausstellung-mit-schuelerarbeiten-erneut-abgesagt_a_50,12,135999009.html
+  name: >
+    Ausstellung mit Schülerarbeiten erneut
+    abgesagt
+  anfang: >
+    Die Corona-Pandemie sorgt zum zweiten
+    Mal für einen Ausfall der Ausstellung.
+    Ein weiterer Nachholtermin ist nun nicht
+    mehr geplant.
+  datum: 2021-02-04
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/schule-bildung-hybridunterricht-szenario-b-rastede-kgs-online-unterricht_a_50,11,3968933818.html
   name: Hybridunterricht an Schulen gefordert
   anfang: 'Die CDU-Ratsfraktion in Rastede beantragt die Möglichkeiten für eine Mischung aus Präsenz- und Online-Unterricht zu prüfen. So könnten alle Schüler wieder gleichzeitig unterrichtet werden'
