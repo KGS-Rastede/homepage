@@ -2,11 +2,11 @@
 
 <?php snippet('page-header') ?>
 
-
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
+<?php /* Fontawesome wird nur für bootstrap themes benötigt
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.2/css/all.css">
+*/ ?>
 
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar/main.min.js'></script>
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar/main.min.css" />
 
 
