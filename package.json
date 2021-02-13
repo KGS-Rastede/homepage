@@ -21,6 +21,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "_comment": "build: Wenn die scss angepasst wurde | dev: Wenn man neue Bootstrap Klassen benutzt, die noch nicht vorher benutzt wurden",
     "build": "npm run sass && npm run prefix && npm run purge && npm run mini",
     "dev": "npm run purge && npm run mini",
     "sass": "sass ./assets/scss/kgs.scss ./assets/css/kgs.css",
