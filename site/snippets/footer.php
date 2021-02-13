@@ -8,7 +8,7 @@
   <div class="row">
 
     <div class="col-md-2 ps-0 ps-md-3 mb-3">
-      <a href="<?= $site->url() ?>">
+      <a href="<?= $site->url() ?>"  aria-label="logo-bottom">
        <?= asset('assets/bilder/logo.svg')->read() ?>
       </a>
     </div>
