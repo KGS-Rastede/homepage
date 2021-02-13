@@ -35,7 +35,6 @@
                 stickyHeaderDates: false, //Die Terminleiste wird nicht immer oben am Bildschirm angezeigt
                 firstDay: 1,
                 hiddenDays: [0, 6], // Samstag und Sonntag verstecken
-                weekLabel: "KW", // Beschriftung der Kalenderwoche
                 allDayText: "ganztägig",
                 noEventsContent: "Keine Ereignisse anzuzeigen",
                 displayEventTime: true, // don't show the time column in list view
