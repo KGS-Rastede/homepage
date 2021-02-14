@@ -1,0 +1,50 @@
+Title: Eltern- und Schüler*innensprechtag am 11.02.21
+
+----
+
+Heading: Elternsprechtag
+
+----
+
+Text: [{"content":{"text":"<p>Der f\u00fcr den 11.02.21 geplante Sch\u00fcler*innen und Elternsprechtag kann leider in der \u00fcblichen Form nicht stattfinden. Wir laden euch und Sie aber herzlich ein, bei Gespr\u00e4chsbedarf per Email Kontakt aufzunehmen zu den Lehrerinnen und Lehrern (k\u00fcrzel@kgs-rastede.de), um einen Termin f\u00fcr ein Telefonat oder eine Videokonferenz zu verabreden. Auch umgekehrt werden sich die Lehrerinnen bei Gespr\u00e4chsbedarf \u00fcber die IServ-Emailadresse des Sch\u00fclers bzw. der Sch\u00fclerin melden.<\/p>"},"id":"3f889f3b-ddd5-4bde-bc4a-ac33db163122","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-01-06 09:15:00
+
+----
+
+Datumstartseite: 2021-03-31 08:15:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung, Corona, Elternsprechtag
+
+----
+
+Downloads:
+
+- >
+  beratungsangebote_f_r_sch_lerinnen_und_sch_ler.pdf
+- >
+  155-umsetzung-bund-lander-beschlusse-mk.pdf
+- 2021-01-05_brief_an_eltern.pdf
+- 2021-01-05_brief_an_eltern_kurz.pdf
+- >
+  2021-01-05_brief_an_schulleitungen_und_lehrkr_fte.pdf
+- 2021-01-05_brief_an_sus_seki.pdf
+- >
+  2021-01-05_brief_an_sus_sekii_und_bbs.pdf
+- 2021-01-08_rhp_schulen_4.2_final.pdf
+
+----
+
+Fotoansicht: gallery

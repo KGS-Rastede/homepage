@@ -48,3 +48,7 @@ Downloads:
 ----
 
 Fotoansicht: carousel
+
+----
+
+Immer-sichtbar: false

@@ -70,3 +70,11 @@ Downloads:
 ----
 
 Fotoansicht: carousel
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: true

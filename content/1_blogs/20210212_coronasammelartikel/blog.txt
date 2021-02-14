@@ -1,0 +1,53 @@
+Title: Corona: Sammelartikel mit allen aktuellen Informationen
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"Die aktuellen Entscheidungen zur Pandemie f\u00fchren bei uns zu zwei Ver\u00e4nderungen:\n\n- Das Distanzlernen f\u00fcr die Jahrg\u00e4nge 5 \u2013 12 wird bis M\u00e4rz verl\u00e4ngert.\n- F\u00fcr die Abschlussjahrg\u00e4nge und den 13. Jahrgang bleibt es bei den Regelungen, die seit 05.02.21 gelten - in der Regel Szenario B, also halbe Gruppen.\n- Eltern k\u00f6nnen entscheiden, ob ihr Kind im Abschlussjahrgang ins Distanzlernen geht. \n- Eltern k\u00f6nnen auch entscheiden, dass ihr Kind ab sofort wieder am Pr\u00e4senzunterricht teilnimmt.\n- F\u00fcr die **Abschlussklassen des Hauptschulzweigs** werden m\u00f6glicherweise andere Regelungen getroffen.\n\nWIr m\u00f6chten auf das Beratungsangebot - neben den Lehrkr\u00e4ften - in der Schule hinweisen: Beratungslehrerin\/ Beratungslehrer und Sozialp\u00e4dagogen, desweiteren aber auch auf das Angebot des Landkreises - siehe Flyer in den Anlagen.\n\nAb 22.02. finden in der Schule umfangreiche Umbauma\u00dfnahmen an unserem Server statt. F\u00fcr ca. eine Woche fallen damit IServ, Messenger etc. weg. Die Aufgaben f\u00fcr diese Woche werden in der Woche zuvor betreits an die Lerngruppen gegeben. Lehrkr\u00e4fte sind weiterhin unter der Adresse K\u00fcrzel@kgs-rastede.de erreichbar."},"id":"3f889f3b-ddd5-4bde-bc4a-ac33db163122","isHidden":false,"type":"markdown"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-02-12 09:15:00
+
+----
+
+Datumstartseite: 2021-03-31 08:15:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung, Topartikel, Corona
+
+----
+
+Downloads:
+
+- >
+  beratungsangebote_f_r_sch_lerinnen_und_sch_ler.pdf
+- 2021-01-20_antrag_pr_senzpflicht.docx
+- >
+  2021-02-11_brief_an_schulleitungen_und_lehrkr_fte.pdf
+- >
+  2021-02-11_brief_an_eltern_und_erziehungsberechtigte_verk_rzt.pdf
+- 2021-02-11_brief_an_eltern.pdf
+- pressemitteilung.pdf
+- >
+  10-punkte_agenda_bildung_betreuung_und_zukunftschancen_in_der_pandemie_sichern.pdf
+- >
+  flyer_beratungsstelle_landkreisammerland.pdf
+- 2021-01-08_rhp_schulen_4.2_final.pdf
+- leitfaden_distanzlernen.pdf
+
+----
+
+Fotoansicht: gallery
