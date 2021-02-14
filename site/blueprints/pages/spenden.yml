@@ -31,27 +31,10 @@ columns:
   rechts:
     width: 1/3
     fields:
-      toggle:
-        label: Sidebar
-        type: toggle
-        text:
-          Deaktiviert
-          Aktiviert
-      sidetitel:
-        label: Titel der Sidebar
+      relatedtitel:
+        label: Überschrift für Unterseiten
         type: text
-        placeholder: Ähnliche Themen
-        when:
-          toggle: true
-      sidebar:
-        label: Links
-        type: structure
-        when:
-          toggle: true
-        fields:
-          link:
-            label: Link (URL)
-            type: url
-          name:
-            label: Bezeichnung des Links
-            type: text
+        help: Die Standard-Überschrift lautet "Weitere Informationen"
+      related:
+        label: Unterseiten
+        type: pages

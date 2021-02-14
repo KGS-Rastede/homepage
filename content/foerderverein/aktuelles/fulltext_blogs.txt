@@ -2,28 +2,19 @@ Title: Förderverein: Aktuelles
 
 ----
 
-Sidebar:
-
-- Link: /foerderverein/ueber_uns
-  Name: Über uns
-- Link: /foerderverein/aktuelles
-  Name: Aktuelles
-- Link: /foerderverein/mitmachen
-  Name: Mitmachen
-- Link: /foerderverein/cafeteria
-  Name: Cafeteria
-- Link: /foerderverein/spenden
-  Name: Spenden
-- Link: /foerderverein/satzung
-  Name: Satzung
-- Link: /foerderverein/kontakt
-  Name: Kontakt
+Relatedtitel: Förderverein der KGS Rastede e.V
 
 ----
 
-Sidetitel: Förderverein der KGS Rastede e.V.
+Related:
+
+- foerderverein/cafeteria
+- foerderverein/kontakt
+- foerderverein/mitmachen
+- foerderverein/satzung
+- foerderverein/spenden
+- foerderverein
 
 ----
 
 Sidetoggle: true
-
