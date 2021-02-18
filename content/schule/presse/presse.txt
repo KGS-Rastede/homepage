@@ -6,6 +6,21 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-rosenmontag-mal-anders-rasteder-schueler-feiern-karneval-digital_a_51,0,220294543.html
+  name: >
+    Rasteder Schüler feiern Karneval
+    digital
+  anfang: >
+    Hunderte Schüler feiern am Rosenmontag
+    in Rastede normalerweise zusammen in der
+    Sporthalle Karneval. Weil das wegen
+    Corona in diesem Jahr nicht ging,
+    organisierte eine Lehrerin eine
+    Karnevalsfeier per Videokonferenz.
+  datum: 2021-02-16
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-palais-rastede-ausstellung-mit-schuelerarbeiten-erneut-abgesagt_a_50,12,135999009.html
   name: >
     Ausstellung mit Schülerarbeiten erneut
@@ -923,35 +938,7 @@ Pressenachrichten:
   anfang: >
     Heute Vormittag wurde der Kunstpreis der
     Gemeinde Rastede an Matthias Langer für
-    seine dreiteilige Fotoarbeit
-    „Sternenhimmel“ verliehen. Langer
-    hat sich aus Dingen wie Perlen und
-    Schrauben einen eigenen Kosmos von
-    verblüffender Präzision geschaffen.
-    Den Jugendkunstpreis erhielt Johannes
-    Maximilian Ahlers für sein mehrteiliges
-    Objekt „Dunkle Nacht“, das seine
-    Transsexualität thematisiert.
-  datum: 2019-06-23
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2019/06/20/von-sternen-und-strassenfluchten/
-  name: ' Von Sternen und Straßenfluchten '
-  anfang: >
-    Am kommenden Sonntag, 23. Juni, wird der
-    Kunstpreis der Gemeinde Rastede
-    vergeben. Die Preisverleihung findet ab
-    11.15 Uhr in der Neuen Aula der KGS
-    statt. Anschließend wird die
-    Ausstellung im Palais besucht.
-  datum: 2019-06-20
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rastede.de/2019/06/aula-und-toiletten-der-kgs-werden-zur-baustelle/
-  name: >
-    Aula und Toiletten der KGS werden zur
+    seine dreitd Toiletten der KGS werden zur
     Baustelle
   anfang: >
     Wenn die Schüler der Kooperativen
@@ -1911,32 +1898,7 @@ Pressenachrichten:
   link: >
     https://www.rasteder-rundschau.de/2017/09/26/chance-azubi-erneut-zu-gast-in-rastede/
   name: ' „Chance: Azubi“ erneut zu Gast in Rastede '
-  anfang: 'Heute, am 26. September, findet wieder der Infoabend „Chance: Azubi“ in der KGS Rastede statt. Von 17.30 bis 19.30 Uhr haben Schüler, Eltern und Lehrer die Möglichkeit, sich über regionale Unternehmen und deren Ausbildungsangebote zu informieren.'
-  datum: 2017-09-26
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2017/09/26/kontroverse-ueber-neues-wohngebiet/
-  name: ' Kontroverse über neues Wohngebiet '
-  anfang: >
-    Das geplante Baugebiet im Göhlen wird
-    nun doch nicht über die Straße
-    Hasenbült erschlossen. Auch die
-    Hankhauser Bäke soll nicht – wie
-    beabsichtigt – verrohrt, sondern soll
-    als Fließgewässer erhalten bleiben.
-    Das entschied gestern der Bauausschuss
-    auf seiner Sitzung in der Aula der KGS.
-  datum: 2017-09-26
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2017/09/25/starke-bewerbungen-um-den-kunstpreis/
-  name: ' Starke Bewerbungen um den Kunstpreis '
-  anfang: >
-    Heute trifft sich die Jury im Palais, um
-    in ihrer zweiten Sitzung die
-    Preisträger für den diesjährigen
+  anfang: 'Heute, am 26. September, findet wieder der Infoabend „Chance: Azubi“ in der KGS Rastede statt. Von 17.30 bis 19.30 Uhr haben Schüler, Eltern und Lehren
     Rasteder Kunstpreis zu ermitteln. 100
     Bewerbungen sind eingereicht worden, die
     künstlerische Qualität sei erneut
@@ -2875,33 +2837,7 @@ Pressenachrichten:
   anfang: >
     Am 5. März ist „Dancing Queen – die
     ABBA Show“ in der Neuen Aula zu Gast.
-    Die rasteder rundschau verlost
-    Eintrittskarten.
-  datum: 2016-02-12
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/02/06/sitzstreik-demo-und-boykott/
-  name: ' Sitzstreik, Demo und Boykott '
-  anfang: >
-    Schülervertretung der KGS Rastede
-    erhält Harry-Wilters-Preis 2015. FDP
-    lädt zur feierlichen Übergabe ins
-    Palais.
-  datum: 2016-02-06
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/02/03/trommler-machen-ordentlich-krawumm/
-  name: ' Trommler machen ordentlich Krawumm '
-  anfang: 'Hohes Niveau und Leidenschaft für das Metier: Der Marching-Band-Workshop in der KGS-Rastede war wieder ein Erfolg.'
-  datum: 2016-02-03
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/01/28/flotter-workshop-mit-tradition/
-  name: ' Flotter Workshop mit Tradition '
-  anfang: 'Gute Stimmung und fetzige Rhythmen sind garantiert, wenn am kommenden Wochenende, 30. und 31. Januar, wieder der große Workshop für Marschmusiker an der KGS Rastede stattfindet. Am Sonntag ist die Öffentlichkeit eingeladen: Ab 15 Uhr wird das Erlernte im KGS-Forum an der Wilhelmstraße präsentiert.'
+    Die rasteder rundschaden Wochenende, 30. und 31. Januar, wieder der große Workshop für Marschmusiker an der KGS Rastede stattfindet. Am Sonntag ist die Öffentlichkeit eingeladen: Ab 15 Uhr wird das Erlernte im KGS-Forum an der Wilhelmstraße präsentiert.'
   datum: 2016-01-28
   medium: rastederrundschau
 - 
