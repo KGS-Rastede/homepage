@@ -108,6 +108,7 @@ columns:
               - Austausch
               - Wettbewerb
               - Topartikel
+              - Für den Frieden
 
           line1:
             type: line
@@ -126,5 +127,5 @@ columns:
               gallery: Gallerie
               manuel: Manuel einbinden
 
-        
-      
+
+
