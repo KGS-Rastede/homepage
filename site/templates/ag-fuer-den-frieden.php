@@ -17,7 +17,7 @@
 
 <div class="container">
 
-  <h2>Berichte aus den Arbeitsgemeinschaften</h2>
+  <h2>Aktuelle Aktionen von der AG "Für den Frieden"</h2>
 
   <?php
   foreach (page('blogs')
