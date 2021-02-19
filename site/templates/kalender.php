@@ -32,10 +32,7 @@
       firstDay: 1,
       navLinks: true, // can click day/week names to navigate views
       editable: false,
-      eventLimit: true, // allow "more" link when too many events
-      eventLimitText: "weitere", // allow "more" link when too many events
       weekNumbers: true, // Kalenderwoche anzeigen
-      weekLabel: "KW", // Beschriftung der Kalenderwoche
       allDayText: "ganztägig",
       noEventsContent: 'Keine Ereignisse anzuzeigen',
       displayEventTime: false, // don't show the time column in list view
