@@ -23,6 +23,7 @@
               <tr>
                 <?php if ($datei->Anzeigename() == "") : ?>
                   <td>
+                  <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
                     <a href="<?= $datei->url() ?>" class="text-decoration-none">
                       <?= $datei->name() ?>
                     </a>
@@ -34,6 +35,7 @@
                   </td>
                 <?php else : ?>
                   <td>
+                    <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
                     <a href="<?= $datei->url() ?>" class="text-decoration-none">
                       <?= $datei->Anzeigename() ?>
                     </a>
@@ -66,6 +68,7 @@
               <tr>
                 <?php if ($datei->Anzeigename() == "") : ?>
                   <td>
+                    <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
                     <a href="<?= $datei->url() ?>" class="text-decoration-none">
                       <?= $datei->name() ?>
                     </a>
@@ -76,6 +79,7 @@
                   </td>
                 <?php else : ?>
                   <td>
+                    <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
                     <a href="<?= $datei->url() ?>" class="text-decoration-none">
                       <?= $datei->Anzeigename() ?>
                     </a>
