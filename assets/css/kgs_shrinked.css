@@ -590,9 +590,19 @@ progress {
   width: 100%;
 }
 
+.col-2 {
+  flex: 0 0 auto;
+  width: 16.6666666667%;
+}
+
 .col-6 {
   flex: 0 0 auto;
   width: 50%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+  width: 83.3333333333%;
 }
 
 .col-12 {
@@ -2566,6 +2576,10 @@ textarea.form-control-lg {
   padding-left: 0 !important;
 }
 
+.ps-2 {
+  padding-left: 0.5rem !important;
+}
+
 .ps-3 {
   padding-left: 1rem !important;
 }
@@ -2584,6 +2598,10 @@ textarea.form-control-lg {
 
 .fw-light {
   font-weight: 300 !important;
+}
+
+.text-uppercase {
+  text-transform: uppercase !important;
 }
 
 .text-start {

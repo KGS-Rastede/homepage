@@ -18,7 +18,8 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
                 <?php endif ?>
                         <div class="card mb-3">
                             <h5 class="card-title mt-3">
-                                <?= $page->sidetitel()->or("Weitere Informationen") ?>
+                                <?= $page->sidetitel()->or("Weitere Informationen") ?>                                
+                                <i class="bi bi-box-arrow-up-right ps-2"></i>
                             </h5>
                             <div class="card-body">
                                 <ul class="list-group list-group-flush">
@@ -45,6 +46,7 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
                         <div class="card mb-3">
                             <h5 class="card-title mt-3">
                                 <?= $page->relatedtitel()->or("Weitere Informationen") ?>
+                                <i class="bi bi-arrow-right ps-2"></i>
                             </h5>
                             <div class="card-body">
                                 <ul class="list-group list-group-flush">
@@ -68,20 +70,32 @@ if ($sideE or $relaE or $downE) : //wenn es in einer der Teile Inhalt gibt ?>
                     <div class="col-12 col-lg-5">
                 <?php endif ?>
                         <div class="card mb-3">
-                            <h5 class="card-title">
+                            <h5 class="card-title mt-3">
                                 <?= $page->downloadtitel()->or("Zugehörige Downloads") ?>
+                                <i class="bi bi-download ps-2"></i>
                             </h5>
                             <div class="card-body">
-                                <ul class="list-group list-group-flush">
-                                    <?php
-                                    $dateien =  $page->downloads()->toFiles();
-                                    foreach ($dateien as $datei) : ?>
-                                        <li class="list-group-item">
-                                            <a class="text-decoration-none" href="<?= $datei->url() ?>"><?= $datei->anzeigename()->or($datei->name()) ?></a>
-                                        </li>
-                                    <?php endforeach ?>
-
-                                </ul>
+                                <div class="list-group">                                
+                                    <ul class="list-group list-group-flush">
+                                        <?php
+                                            $dateien =  $page->downloads()->toFiles();
+                                            foreach ($dateien as $datei) : ?>
+                                            
+                                            <li class="list-group-item list-group-item-action ps-0">
+                                                <div class="row align-items-center">
+                                                    <div class="col-2">
+                                                        <span class="badge bg-light text-uppercase">
+                                                            <?= $datei->extension() ?>
+                                                        </span>
+                                                    </div>
+                                                    <div class="col-10">
+                                                        <a class="text-decoration-none" href="<?= $datei->url() ?>"><?= $datei->anzeigename()->or($datei->name()) ?></a>
+                                                    </div>
+                                                <div>
+                                            </li>
+                                        <?php endforeach ?>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
