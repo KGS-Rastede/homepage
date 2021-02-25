@@ -1,30 +1,9 @@
 [
 {
-"title": "Waldjugendspiele JG 6",
-"start": "2021-07-08",
-"end": "2021-07-09",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Schriftliche Abschlussprüfungen EN HZ/ RZ 10",
-"start": "2021-05-17",
-"end": "2021-05-18",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Klassenelternschaftswahlen 5 und 12",
 "start": "2020-09-15T20:00",
 "end": "2020-09-15T21:30",
 "color": "skyblue",
-"textColor": "#707070"
-},
-{
-"title": "Schriftliche Abschlussprüfungen MA  HZ 9/10, RZ 10",
-"start": "2021-05-19",
-"end": "2021-05-20",
-"color": "white",
 "textColor": "#707070"
 },
 {
@@ -112,9 +91,23 @@
 "textColor": "#707070"
 },
 {
+"title": "Elterninformationsabend (RZ/ GZ) Grundschule Kl. 4",
+"start": "2020-11-24T19:00",
+"end": "2020-11-24T21:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Mdl. Abschlussprüfungen HZ/RZ",
 "start": "2021-06-14",
 "end": "2021-06-16",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "FK KU",
+"start": "2020-11-03T16:15",
+"end": "2020-11-03T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -210,16 +203,16 @@
 "textColor": "#707070"
 },
 {
-"title": "Info Eltern Jg. 4 - HZ /RZ (Forum Feldbreite)",
-"start": "2021-03-15T19:00",
-"end": "2021-03-15T20:30",
+"title": "Fachbereichskonferenz SoWi",
+"start": "2021-03-08T16:15",
+"end": "2021-03-08T18:00",
 "color": "white",
 "textColor": "#707070"
 },
 {
-"title": "Info Eltern Jg. 4 - Bläser/Chor- u. Atelierkurs (Forum Feldbreite",
-"start": "2021-03-15T18:00",
-"end": "2021-03-15T19:00",
+"title": "Info Eltern Jg. 4 - HZ /RZ (Forum Feldbreite)",
+"start": "2021-03-15T19:00",
+"end": "2021-03-15T20:30",
 "color": "white",
 "textColor": "#707070"
 },
@@ -427,13 +420,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Besichtigung Feldbreite Eltern Jg. 4",
-"start": "2021-05-04T19:00",
-"end": "2021-05-04T20:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Bartholomäus-Schink-Preis",
 "start": "2021-05-10T10:00",
 "end": "2021-05-10T11:30",
@@ -560,6 +546,13 @@
 "textColor": "#707070"
 },
 {
+"title": "vorgezogene Weihnachtsferien",
+"start": "2020-12-21",
+"end": "2020-12-23",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Einlebenstag Jg. 12",
 "start": "2021-07-20",
 "end": "2021-07-21",
@@ -567,9 +560,37 @@
 "textColor": "#707070"
 },
 {
+"title": "Probe GESAKO in IServ",
+"start": "2020-11-24T17:30",
+"end": "2020-11-24T17:35",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Projekt Zivilcourage JG.9",
+"start": "2020-11-10",
+"end": "2020-11-14",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Gesamtkonferenz",
+"start": "2020-12-01T16:15",
+"end": "2020-12-01T19:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Next Level Vortrag Jg.9",
 "start": "2020-09-29T08:00",
 "end": "2020-09-29T14:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Steuerungsausschuss",
+"start": "2020-11-16T16:15",
+"end": "2020-11-16T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -637,9 +658,30 @@
 "textColor": "#707070"
 },
 {
+"title": "Schulvorstand",
+"start": "2020-11-03T17:00",
+"end": "2020-11-03T20:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "Schulelternrat",
 "start": "2020-09-28T19:30",
 "end": "2020-09-28T21:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Elternsprechtag",
+"start": "2020-11-25T16:00",
+"end": "2020-11-25T19:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Abgabe der Förderpläne beim Koordinator für Inklusion",
+"start": "2020-11-30",
+"end": "2020-12-01",
 "color": "white",
 "textColor": "#707070"
 },
@@ -714,9 +756,9 @@
 "textColor": "#707070"
 },
 {
-"title": "Schriftliche Abschlussprüfungen DE  HZ 9/10, RZ 10",
-"start": "2021-05-10",
-"end": "2021-05-11",
+"title": "Warnung Epochalfächer",
+"start": "2020-11-23",
+"end": "2020-11-24",
 "color": "white",
 "textColor": "#707070"
 },
@@ -745,6 +787,13 @@
 "title": "Mündliche Abiturprüfungen (unterrichtsfrei für 7-12 GZ)",
 "start": "2021-05-26",
 "end": "2021-05-28",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "FK PO, IF",
+"start": "2020-11-09T16:15",
+"end": "2020-11-09T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -854,9 +903,30 @@
 "textColor": "#707070"
 },
 {
+"title": "DB DAZ",
+"start": "2020-11-09T16:15",
+"end": "2020-11-09T18:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
 "title": "DB ILE 5-8",
 "start": "2020-10-07T16:15",
 "end": "2020-10-07T19:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Waldjugendspiele JG 6",
+"start": "2021-07-08",
+"end": "2021-07-09",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "FK DS, HW, TG, WE, EK",
+"start": "2020-11-17T16:15",
+"end": "2020-11-17T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -882,13 +952,6 @@
 "textColor": "#707070"
 },
 {
-"title": "FK KU",
-"start": "2020-11-03T16:15",
-"end": "2020-11-03T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "FK (SN, PH, LA, BI)",
 "start": "2020-10-26T16:15",
 "end": "2020-10-26T18:00",
@@ -896,107 +959,9 @@
 "textColor": "#707070"
 },
 {
-"title": "FK PO, IF",
-"start": "2020-11-09T16:15",
-"end": "2020-11-09T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "DB DAZ",
-"start": "2020-11-09T16:15",
-"end": "2020-11-09T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "FK MA, WN, GE, FR",
 "start": "2020-11-10T16:15",
 "end": "2020-11-10T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Steuerungsausschuss",
-"start": "2020-11-16T16:15",
-"end": "2020-11-16T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Projekt Zivilcourage JG.9",
-"start": "2020-11-10",
-"end": "2020-11-14",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "FK DS, HW, TG, WE, EK",
-"start": "2020-11-17T16:15",
-"end": "2020-11-17T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Warnung Epochalfächer",
-"start": "2020-11-23",
-"end": "2020-11-24",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Elterninformationsabend (RZ/ GZ) Grundschule Kl. 4",
-"start": "2020-11-24T19:00",
-"end": "2020-11-24T21:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Elternsprechtag",
-"start": "2020-11-25T16:00",
-"end": "2020-11-25T19:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Probe GESAKO in IServ",
-"start": "2020-11-24T17:30",
-"end": "2020-11-24T17:35",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Schulvorstand",
-"start": "2020-11-03T17:00",
-"end": "2020-11-03T20:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "vorgezogene Weihnachtsferien",
-"start": "2020-12-21",
-"end": "2020-12-23",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Gesamtkonferenz",
-"start": "2020-12-01T16:15",
-"end": "2020-12-01T19:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Abgabe der Förderpläne beim Koordinator für Inklusion",
-"start": "2020-11-30",
-"end": "2020-12-01",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Fachbereichskonferenz SoWi",
-"start": "2021-03-08T16:15",
-"end": "2021-03-08T18:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -1085,9 +1050,9 @@
 "textColor": "#707070"
 },
 {
-"title": "Zeugniskonferenz (9/10 RZ, 7/ 11 GZ)",
-"start": "2021-01-19T15:00",
-"end": "2021-01-19T20:00",
+"title": "Zeugniskonferenz (5/6HZ/RZ, 9/10GZ)",
+"start": "2021-01-18T15:00",
+"end": "2021-01-18T20:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -1099,9 +1064,9 @@
 "textColor": "#707070"
 },
 {
-"title": "Zeugniskonferenz (5/6HZ/RZ, 9/10GZ)",
-"start": "2021-01-18T15:00",
-"end": "2021-01-18T20:00",
+"title": "Zeugniskonferenz (9/10 RZ, 7/ 11 GZ)",
+"start": "2021-01-19T15:00",
+"end": "2021-01-19T20:00",
 "color": "white",
 "textColor": "#707070"
 },
@@ -1127,9 +1092,9 @@
 "textColor": "#707070"
 },
 {
-"title": "Kino-Seminare zu Propagandafilmen",
-"start": "2021-01-27T10:00",
-"end": "2021-01-27T13:30",
+"title": "Schulschluss nach der 3. Stunde",
+"start": "2021-01-29",
+"end": "2021-01-30",
 "color": "white",
 "textColor": "#707070"
 },
@@ -1142,27 +1107,27 @@
 },
 {
 "title": "Kino-Seminare zu Propagandafilmen",
+"start": "2021-01-27T10:00",
+"end": "2021-01-27T13:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Kino-Seminare zu Propagandafilmen",
 "start": "2021-01-28T10:00",
 "end": "2021-01-28T13:30",
 "color": "white",
 "textColor": "#707070"
 },
 {
-"title": "Schulschluss nach der 3. Stunde",
-"start": "2021-01-29",
-"end": "2021-01-30",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Fototermine 6-12 (13 freiwillig)",
+"title": "Schul-Fotograph",
 "start": "2021-10-11",
 "end": "2021-10-16",
 "color": "white",
 "textColor": "#707070"
 },
 {
-"title": "Schul-Fotograph",
+"title": "Fototermine 6-12 (13 freiwillig)",
 "start": "2021-10-11",
 "end": "2021-10-16",
 "color": "white",
@@ -1228,6 +1193,27 @@
 "title": "Schulvorstand (unter Vorbehalt)",
 "start": "2021-07-13T17:15",
 "end": "2021-07-13T18:45",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schriftliche Abschlussprüfungen DE  HZ 9/10, RZ 10",
+"start": "2021-05-21",
+"end": "2021-05-22",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schriftliche Abschlussprüfungen EN HZ/ RZ 10",
+"start": "2021-05-26",
+"end": "2021-05-27",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Schriftliche Abschlussprüfungen MA  HZ 9/10, RZ 10",
+"start": "2021-05-28",
+"end": "2021-05-29",
 "color": "white",
 "textColor": "#707070"
 }
