@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"text":"Liebe Sch\u00fclerinnen und Sch\u00fcler, sehr geehrte Eltern,\nab 08.03. \u00e4ndert sich f\u00fcr uns noch nicht so viel:\n\n\u00b7        Es kommen weiterhin nur die Abschlussklassen und Jg. 13.\n\n\u00b7        Alle haben auch am Platz im Klassenraum eine Maske (Alltags-, OP- oder FFP2-Maske) zu tragen.\n\n\u00b7        Es besteht f\u00fcr alle in dieser Gruppe Pr\u00e4senzpflicht. Lediglich die Sch\u00fclerinnen und Sch\u00fcler, die zur Risikogruppe geh\u00f6ren, d\u00fcrfen im Distanzlernen bleiben.\n\n Ab 15.03. kommen nach heutigem Stand zus\u00e4tzlich die Jahrg\u00e4nge 5 \u2013 7 und 12 im Szenario B, also Wechselmodell, in die Schule.\n\nAb 22.03. kommen alle Jahrg\u00e4nge im Szenario B, also Wechselmodell.\n\n Wie das dann genau aussieht, beraten wir in den n\u00e4chsten Tagen, sobald uns die genauen Erlasse vorliegen und werden dann umgehend hier informieren.\nDie Briefe des Ministers sind im Corona-Sammelartikel hier auf der Homepage zu finden.\n\nBitte bleibt alle gesund!\n\nWIr m\u00f6chten auf das Beratungsangebot - neben den Lehrkr\u00e4ften - in der Schule hinweisen: Beratungslehrerin\/ Beratungslehrer und Sozialp\u00e4dagogen, desweiteren aber auch auf das Angebot des Landkreises - siehe Flyer in den Anlagen."},"id":"3f889f3b-ddd5-4bde-bc4a-ac33db163122","isHidden":false,"type":"markdown"}]
+Text: [{"content":{"text":"Liebe Sch\u00fclerinnen und Sch\u00fcler, sehr geehrte Eltern,\n\n- ab 15.03. kommen zus\u00e4tzlich die Jahrg\u00e4nge 5 \u2013 7 und 12 im Szenario B, also Wechselmodell, in die Schule.\n- ab 22.03. kommen alle Jahrg\u00e4nge im Szenario B, also Wechselmodell.\n\nWir freuen uns, dass langsam ein St\u00fcck Normalit\u00e4t in die Schule zur\u00fcckkommt und wir uns wiedersehen.\n\nZu den neuen Regeln haben wir f\u00fcr jeden Jahrgang eine \u00dcbersicht erstellt, diese ist [als PDF im Anhang](https:\/\/kgs-rastede.de\/media\/pages\/blogs\/coronasammelartikel\/abdd73d009-1615218981\/plan-ab-15-mrz.pdf) zu finden.\n\nDie Briefe des Ministers sind ebenfalls neben dem Artikel verlinkt, zusammen mit vielen weiteren aktuellen Ver\u00f6ffentlichungen.\n\nBitte bleibt alle gesund!\n\nWir m\u00f6chten auf das Beratungsangebot - neben dem der Lehrkr\u00e4fte - in der Schule hinweisen: Beratungslehrer:in  und Sozialp\u00e4dagog:in, desweiteren aber auch auf das Angebot des Landkreises - siehe Flyer in den Anlagen."},"id":"3f889f3b-ddd5-4bde-bc4a-ac33db163122","isHidden":false,"type":"markdown"}]
 
 ----
 
@@ -47,6 +47,8 @@ Downloads:
 - 2021-03-04_brief_an_eltern_kurz.pdf
 - 2021-03-04_brief_an_eltern.pdf
 - kita-und-schule-bis-ostern.pdf
+- plan-ab-15-mrz.pdf
+- aufsichtsplan.pdf
 
 ----
 
