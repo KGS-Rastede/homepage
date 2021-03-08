@@ -32,7 +32,10 @@
       firstDay: 1,
       navLinks: true, // can click day/week names to navigate views
       editable: false,
+      handleWindowResize: true, 
       nowIndicator: true,
+      slotMinTime: "07:00:00",
+      slotMaxTime: "20:00:00",
       weekNumbers: true, // Kalenderwoche anzeigen
       allDayText: "ganztägig",
       noEventsContent: 'Keine Ereignisse anzuzeigen',
