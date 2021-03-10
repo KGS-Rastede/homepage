@@ -1,0 +1,37 @@
+Title: Informationsveranstaltung für den zukünftigen 5. Jahrgang des Gymnasialzweiges
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die Infoveranstaltung zur Wahl der 2. Fremdsprache f\u00fcr die&nbsp;Erziehungsberechtigten und&nbsp;Sch\u00fclerinnen und Sch\u00fcler der 4. Klassen der umliegenden Grundschulen, die ihre Kinder in Klasse 05 des Gymnasiazweiges anmelden m\u00f6chten, &nbsp;finden Sie hier.<\/p>"},"id":"2aec9bf8-f46f-48fd-8310-8bf25145ce40","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/vimeo.com\/521082265","caption":"Informationsvideo"},"id":"6e42ae10-7c0d-49be-82df-9e3e39793f37","isHidden":false,"type":"video"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-03-09 00:00:00
+
+----
+
+Datumstartseite: 2021-07-09 00:00:00
+
+----
+
+Author: Malte Bormann
+
+----
+
+Tags: Topartikel, Schulleitung
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
