@@ -14,7 +14,7 @@
     // `toStructure()` erzeugt einen Iterator fuer die URLs
     $items = $page->pressenachrichten()->toStructure()->sortBy("datum")->flip();
 
-    $list = $items->paginate(10);
+    $list = $items->paginate(12);
 
     $quelle = "";
 
