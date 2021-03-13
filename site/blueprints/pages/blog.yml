@@ -42,6 +42,8 @@ columns:
               - audio
               - horizontale-linie
               - tabelle
+              - gastautor
+              - quote
           gallery:
             type: files
             uploads: blogbild

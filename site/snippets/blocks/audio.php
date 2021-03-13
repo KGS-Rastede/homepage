@@ -7,6 +7,6 @@
     Your browser does not support the audio element.
   </audio>
   <div class="blockquote-footer p-3 ">
-     <cite title="Source Title"><?= $block->name() ?></cite>
+     <?= $block->name() ?>
   </div>
 </div>

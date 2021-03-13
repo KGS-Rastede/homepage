@@ -166,6 +166,16 @@
   text-decoration: none;
 }
 
+.kgs-transitions > * {
+  --transition-property: transform;
+  --transition-duration: 180ms;
+  transition: var(--transition-property) var(--transition-duration) ease-in-out;
+}
+
+.zoom:hover > * {
+  transform: scale(1.1);
+}
+
 /* -------end customization-------- */
 /* finally, import Bootstrap to set the changes! */
 /*!
@@ -2361,10 +2371,6 @@ progress {
   color: #6c757d;
   opacity: 1;
 }
-.form-control::-ms-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
 .form-control::placeholder {
   color: #6c757d;
   opacity: 1;
@@ -2588,8 +2594,7 @@ textarea.form-control-lg {
   border-radius: 50%;
 }
 .form-check-input:active {
-  -webkit-filter: brightness(90%);
-          filter: brightness(90%);
+  filter: brightness(90%);
 }
 .form-check-input:focus {
   border-color: #86b7fe;
@@ -2613,8 +2618,7 @@ textarea.form-control-lg {
 }
 .form-check-input:disabled {
   pointer-events: none;
-  -webkit-filter: none;
-          filter: none;
+  filter: none;
   opacity: 0.5;
 }
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
@@ -2657,8 +2661,7 @@ textarea.form-control-lg {
 }
 .btn-check[disabled] + .btn, .btn-check:disabled + .btn {
   pointer-events: none;
-  -webkit-filter: none;
-          filter: none;
+  filter: none;
   opacity: 0.65;
 }
 
@@ -2780,9 +2783,6 @@ textarea.form-control-lg {
   color: transparent;
 }
 .form-floating > .form-control:-ms-input-placeholder {
-  color: transparent;
-}
-.form-floating > .form-control::-ms-input-placeholder {
   color: transparent;
 }
 .form-floating > .form-control::placeholder {
@@ -5302,8 +5302,7 @@ textarea.form-control-lg {
 }
 
 .btn-close-white {
-  -webkit-filter: invert(1) grayscale(100%) brightness(200%);
-          filter: invert(1) grayscale(100%) brightness(200%);
+  filter: invert(1) grayscale(100%) brightness(200%);
 }
 
 .toast {
@@ -6081,8 +6080,7 @@ textarea.form-control-lg {
 
 .carousel-dark .carousel-control-prev-icon,
 .carousel-dark .carousel-control-next-icon {
-  -webkit-filter: invert(1) grayscale(100);
-          filter: invert(1) grayscale(100);
+  filter: invert(1) grayscale(100);
 }
 .carousel-dark .carousel-indicators [data-bs-target] {
   background-color: #000;
