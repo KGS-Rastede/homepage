@@ -1,0 +1,37 @@
+Title: Einrichten der Homepage
+
+----
+
+Heading: Eine Anleitung wie man die Homepage auf dem eigenem Pc hosten kann
+
+----
+
+Text: [{"content":{"level":"h2","text":"Allgemeines"},"id":"43d9afba-1575-47dd-be96-4baedcde9081","isHidden":false,"type":"heading"},{"content":{"text":"<p>Im folgenden wird erl\u00e4utert, wie man die Homepage herunterladen kann um im Anschluss die Seite auf seinem eigenen Pc laufen lassen kann. Das Ziel ist es letztendlich aktiv an der Gestaltung der Homepage mitzuarbeiten. Daf\u00fcr werden keine Vorkenntnisse ben\u00f6tigt. Das wichtigste ist die Motivation. F\u00fcr alle Probleme gibt es ausf\u00fchrliche Anleitungen und wenn es Probleme gibt kann man sich auch immer auf dem Discord Server f\u00fcr die Entwicklung der Homepage austauschen.<br><br>Wer einfach nur ein bisschen ausprobieren m\u00f6chte und noch unschl\u00fcssig ist, ob man wirkliche mithelfen m\u00f6chte kann nat\u00fcrlich trotzdem dieser Anleitung folgen und nur bei sich lokal \u00c4nderungen vornehmen.<\/p>"},"id":"2984a800-5ff2-41c6-9871-4fe75083f345","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Windows Installation"},"id":"34bd6ad5-36ec-4f68-b56c-c508f169974e","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Ben\u00f6tigte Programme"},"id":"90b873ca-4044-4b94-b5c5-f4177f6312e3","isHidden":false,"type":"heading"},{"content":{"level":"h2","text":"Linux Installation"},"id":"85a31cd1-f225-4b6b-9068-7a4127cb2e2b","isHidden":false,"type":"heading"},{"content":{"level":"h2","text":"Erste Schritte"},"id":"c984a94e-ff80-4b14-95ac-2bf6f9bc3794","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-03-13 00:00:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Entwickler der Homepage
+
+----
+
+Tags: Homepage
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
