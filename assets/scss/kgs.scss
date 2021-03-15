@@ -231,6 +231,21 @@ $theme-colors: (
     text-decoration: none;
 }
 
+
+// Hier kommen Anpassungen wegen Effekten (übernommen von .smol-transitions)
+
+.kgs-transitions>* {
+    --transition-property: transform;
+    --transition-duration: 180ms;
+    transition: var(--transition-property) var(--transition-duration) ease-in-out;
+}
+
+
+.zoom:hover>* {
+    transform: scale(1.1);
+}
+
+
 /* -------end customization-------- */
 
 /* finally, import Bootstrap to set the changes! */

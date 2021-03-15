@@ -210,23 +210,9 @@
 "textColor": "#707070"
 },
 {
-"title": "Info Eltern Jg. 4 - HZ /RZ (Forum Feldbreite)",
-"start": "2021-03-15T19:00",
-"end": "2021-03-15T20:30",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Fachbereichskonferenz Mathe (GZ)",
 "start": "2021-03-22T16:00",
 "end": "2021-03-22T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Info Eltern Jg. 5 - RZ über Französisch und die weiteren Profile",
-"start": "2021-03-22T19:00",
-"end": "2021-03-22T20:30",
 "color": "white",
 "textColor": "#707070"
 },
@@ -1221,6 +1207,20 @@
 "title": "Information Kl. 4 über die 2. Fremdsprache im GY (Online)",
 "start": "2021-03-09T18:00",
 "end": "2021-03-09T21:00",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Info Eltern Jg. 4 - HZ /RZ (online)",
+"start": "2021-03-15T19:00",
+"end": "2021-03-15T20:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Info Eltern Jg. 5 - RZ über Französisch und die weiteren Profile",
+"start": "2021-03-22T19:00",
+"end": "2021-03-22T20:30",
 "color": "white",
 "textColor": "#707070"
 }

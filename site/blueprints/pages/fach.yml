@@ -39,6 +39,7 @@ columns:
               - audio
               - horizontale-linie
               - tabelle
+              - quote
           gallery:
             type: files
             uploads: blogbild

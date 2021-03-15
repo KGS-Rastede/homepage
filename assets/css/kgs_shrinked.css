@@ -166,6 +166,16 @@
   text-decoration: none;
 }
 
+.kgs-transitions > * {
+  --transition-property: transform;
+  --transition-duration: 180ms;
+  transition: var(--transition-property) var(--transition-duration) ease-in-out;
+}
+
+.zoom:hover > * {
+  transform: scale(1.1);
+}
+
 /* -------end customization-------- */
 /* finally, import Bootstrap to set the changes! */
 /*!
@@ -322,10 +332,6 @@ ul ul,
 ol ul,
 ul ol {
   margin-bottom: 0;
-}
-
-blockquote {
-  margin: 0 0 1rem;
 }
 
 b,
@@ -496,14 +502,6 @@ progress {
   list-style: none;
 }
 
-.blockquote {
-  margin-bottom: 1rem;
-  font-size: 1.25rem;
-}
-.blockquote > :last-child {
-  margin-bottom: 0;
-}
-
 .blockquote-footer {
   margin-top: -1rem;
   margin-bottom: 1rem;
@@ -647,6 +645,11 @@ progress {
     width: 33.3333333333%;
   }
 
+  .col-sm-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+
   .col-sm-8 {
     flex: 0 0 auto;
     width: 66.6666666667%;
@@ -715,11 +718,6 @@ progress {
   }
 }
 @media (min-width: 992px) {
-
-  .row-cols-lg-2 > * {
-    flex: 0 0 auto;
-    width: 50%;
-  }
 
   .row-cols-lg-3 > * {
     flex: 0 0 auto;
@@ -889,10 +887,6 @@ progress {
   color: #6c757d;
   opacity: 1;
 }
-.form-control::-ms-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
 .form-control::placeholder {
   color: #6c757d;
   opacity: 1;
@@ -1040,8 +1034,7 @@ textarea.form-control-lg {
   border-radius: 50%;
 }
 .form-check-input:active {
-  -webkit-filter: brightness(90%);
-          filter: brightness(90%);
+  filter: brightness(90%);
 }
 .form-check-input:focus {
   border-color: #86b7fe;
@@ -1057,8 +1050,7 @@ textarea.form-control-lg {
 }
 .form-check-input:disabled {
   pointer-events: none;
-  -webkit-filter: none;
-          filter: none;
+  filter: none;
   opacity: 0.5;
 }
 
@@ -1090,9 +1082,6 @@ textarea.form-control-lg {
   color: transparent;
 }
 .form-floating > .form-control:-ms-input-placeholder {
-  color: transparent;
-}
-.form-floating > .form-control::-ms-input-placeholder {
   color: transparent;
 }
 .form-floating > .form-control::placeholder {
@@ -1752,13 +1741,6 @@ textarea.form-control-lg {
   margin-bottom: 0;
 }
 
-.card-link:hover {
-  text-decoration: none;
-}
-.card-link + .card-link {
-  margin-left: 1rem /* rtl:ignore */;
-}
-
 .card-header {
   padding: 0.5rem 1rem;
   margin-bottom: 0;
@@ -2272,8 +2254,7 @@ textarea.form-control-lg {
 
 .carousel-dark .carousel-control-prev-icon,
 .carousel-dark .carousel-control-next-icon {
-  -webkit-filter: invert(1) grayscale(100);
-          filter: invert(1) grayscale(100);
+  filter: invert(1) grayscale(100);
 }
 .carousel-dark .carousel-indicators [data-bs-target] {
   background-color: #000;
@@ -2349,10 +2330,6 @@ textarea.form-control-lg {
 
 .d-flex {
   display: flex !important;
-}
-
-.d-inline-flex {
-  display: inline-flex !important;
 }
 
 .d-none {
@@ -2527,10 +2504,6 @@ textarea.form-control-lg {
   margin-left: 1rem !important;
 }
 
-.ms-5 {
-  margin-left: 3rem !important;
-}
-
 .ms-auto {
   margin-left: auto !important;
 }
@@ -2541,10 +2514,6 @@ textarea.form-control-lg {
 
 .p-1 {
   padding: 0.25rem !important;
-}
-
-.p-2 {
-  padding: 0.5rem !important;
 }
 
 .p-3 {
@@ -2584,6 +2553,10 @@ textarea.form-control-lg {
   padding-left: 1rem !important;
 }
 
+.fs-3 {
+  font-size: calc(1.3rem + 0.6vw) !important;
+}
+
 .fs-4 {
   font-size: calc(1.275rem + 0.3vw) !important;
 }
@@ -2598,6 +2571,10 @@ textarea.form-control-lg {
 
 .fw-light {
   font-weight: 300 !important;
+}
+
+.fw-bold {
+  font-weight: 700 !important;
 }
 
 .text-uppercase {
@@ -2644,6 +2621,10 @@ textarea.form-control-lg {
   color: #6c757d !important;
 }
 
+.lh-lg {
+  line-height: 2 !important;
+}
+
 .bg-primary {
   background-color: #f9f8f8 !important;
 }
@@ -2679,6 +2660,9 @@ textarea.form-control-lg {
 /* rtl:begin:remove */
 
 /* rtl:end:remove */
+.font-monospace {
+  font-family: var(--bs-font-monospace) !important;
+}
 
 .rounded {
   border-radius: 0.25rem !important;
@@ -2764,6 +2748,10 @@ textarea.form-control-lg {
   }
 }
 @media (min-width: 1200px) {
+
+  .fs-3 {
+    font-size: 1.75rem !important;
+  }
 
   .fs-4 {
     font-size: 1.5rem !important;

@@ -59,6 +59,14 @@ Navbar:
       icon: tools
     - 
       isexternal: 'false'
+      linktitle: Beratungslehrkräfte
+      pagelink:
+        - unterricht/beratung
+      externallink: ""
+      trennstrich: 'false'
+      icon: "chat-dots"
+    - 
+      isexternal: 'false'
       linktitle: Schülervertretung (SV)
       pagelink:
         - sv/die_sv
@@ -93,7 +101,7 @@ Navbar:
       isexternal: 'false'
       linktitle: Förderverein
       pagelink:
-        - foerderverein/
+        - foerderverein
       externallink: ""
       trennstrich: 'false'
       icon: tags-fill
