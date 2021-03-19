@@ -1,0 +1,5 @@
+Anzeigename: K-Bescheinigung über positiven Test
+
+----
+
+Template: datei
