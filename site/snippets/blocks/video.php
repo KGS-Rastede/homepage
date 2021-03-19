@@ -14,6 +14,6 @@
 
 <?php endif ?>
 <!-- Das editor plugin verwendet diese Datei: https://github.com/getkirby/editor/wiki/Templates 
-    Ratio class: https://v5.getbootstrap.com/docs/5.0/helpers/ratio/
+    Ratio class: https://getbootstrap.com/docs/5.0/helpers/ratio/
     video() : https://getkirby.com/docs/reference/templates/helpers/video
 -->
