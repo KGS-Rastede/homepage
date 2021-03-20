@@ -1,0 +1,37 @@
+Title: Informationsveranstaltung für den zukünftigen 6. Jahrgang des Realschulzweiges
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die Informationsveranstaltung zur Profilwahl und zum Fach Franz\u00f6sisch finden Sie hier, pr\u00e4sentiert von den Fachbereichsleitungen Ellen Backhaus (Fremdsprachen) und Heiko Henken (Arbeit, Wirtschaft, Technik).<\/p>"},"id":"1febcd19-813f-40e5-aee5-07e4f69042b6","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/vimeo.com\/525795703","caption":null},"id":"b8ec774c-828c-4655-abbc-bb595ca5d517","isHidden":false,"type":"video"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-03-19 00:00:00
+
+----
+
+Datumstartseite: 2021-07-19 00:00:00
+
+----
+
+Author: Heiko Henken, Ellen Backhaus
+
+----
+
+Tags: Topartikel, PoWi, Fremdsprachen
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
