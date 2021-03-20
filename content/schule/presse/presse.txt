@@ -933,7 +933,36 @@ Pressenachrichten:
 - 
   link: >
     https://rasteder-rundschau.de/2019/07/04/der-dirigent-der-kgs-verabschiedet-sich/
-  name/
+  name: Der Dirigent der KGS verabschiedet sich
+  anfang: >
+    Gerd Kip geht nach 17 Jahren als
+    Schulleiter in Rastede in den Ruhestand
+  datum: 2019-07-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-verabschiedung-schulleiter-gerd-kip-verlaesst-kgs-rastede_a_50,5,730002467.html
+  name: >
+    Schulleiter Gerd Kip verlässt KGS
+    Rastede
+  anfang: >
+    Nach 17 Jahren als Schulleiter wurde
+    Gerd Kip verabschiedet. Jetzt hat er
+    mehr Zeit für die Enkelkinder.
+  datum: 2019-07-03
+  medium: nwz
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/06/28/erste-huerde-in-richtung-zukunft-genommen/
+  name: >
+    Erste Hürde in Richtung Zukunft
+    genommen
+  anfang: 'Die Haupt- und Realschüler der KGS erhielten gestern ihre Abschlusszeugnisse'
+  datum: 2019-06-28
+  medium: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/06/27/englisch-ist-doch-easy/
   name: ' Englisch? – ist doch easy! '
   anfang: >
     Die KGS Rastede schneidet beim
@@ -1899,7 +1928,35 @@ Pressenachrichten:
     Horror
   anfang: >
     Unter dem Motto „Grusel, Geister,
-    Halloween�en an der
+    Halloween“ lockte die VfL-Showtime
+    rund 600 Zuschauer in die Sporthalle
+    Feldbreite
+  datum: 2017-11-08
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2017/11/01/tickets-fuer-champagnerlaune/
+  name: ' Tickets für Champagnerlaune '
+  anfang: >
+    Heute startet der Vorverkauf für das
+    Rasteder Neujahrskonzert am 12. und 13.
+    Januar 2018 in der Neuen Aula der KGS.
+    An zwei Terminen lässt das
+    Salonorchester Münster die
+    musikalischen Sektkorken knallen.
+  datum: 2017-11-01
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2017/10/26/sonderausschuss-zum-thema-muehlenstrasse/
+  name: Sonderausschuss zum Thema Mühlenstraße
+  anfang: >
+    Am 27. November beschäftigt sich ein
+    zusätzlich terminierter Bauausschuss
+    mit der Neugestaltung des Areals an der
+    Mühlenstraße. Bereits am 20. November
+    gibt es einen Zusatzausschuss zu den
+    Verkehrsproblemen an der
     Raiffeisenstraße.
   datum: 2017-10-26
   medium: rastederrundschau
@@ -2825,7 +2882,38 @@ Pressenachrichten:
 - 
   link: >
     https://www.rasteder-rundschau.de/2016/04/04/wer-stellt-das-sportlichste-seminarfach/
-  name:    Ja zur Windenergie an geeigneten
+  name: Wer stellt das sportlichste Seminarfach?
+  anfang: >
+    300 KGS-Schülerinnen und Schüler der
+    Sekundarstufe II trafen sich zum großen
+    Sportfest in der Mehrzweckhalle
+    Feldbreite
+  datum: 2016-04-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2016/03/14/unbekannte-nachbarn/
+  name: ' Unbekannte Nachbarn '
+  anfang: >
+    Romani Rose war heute in der KGS Rastede
+    zu Gast. Er rief dazu auf, sich
+    gemeinsam für Demokratie einzusetzen.
+  datum: 2016-03-14
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2016/03/10/ist-die-schweiz-kleiner-als-irland/
+  name: ' Ist die Schweiz kleiner als Irland? '
+  anfang: >
+    Die KGS zeichnete die Schulsieger des
+    Diercke-Wissens-Wettbewerbs aus
+  datum: 2016-03-10
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2016/03/09/ja-zur-windenergie-an-geeigneten-standorten/
+  name: >
+    Ja zur Windenergie an geeigneten
     Standorten
   anfang: >
     Neuste Windpotenzialstudie war Thema im
