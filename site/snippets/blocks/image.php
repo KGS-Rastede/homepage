@@ -5,7 +5,9 @@
                 <img src="<?= $image->url() ?>" alt="<?= $block->alt()->or($image->alt()) ?>" class="mw-100">
             </a>
             <?php else: ?>
-            <img src="<?= $image->url() ?>" alt="<?= $block->alt()->or($image->alt()) ?>" class="mw-100">
+            <a href="<?= $image->url() ?>">
+                <img src="<?= $image->url() ?>" alt="<?= $block->alt()->or($image->alt()) ?>" class="mw-100">
+            </a>
         <?php endif ?>
 
         <?php if ($block->caption()->isNotEmpty()): ?>
