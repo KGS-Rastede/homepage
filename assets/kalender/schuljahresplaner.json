@@ -651,13 +651,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Fachbereichskonferenz Mathe (GZ)",
-"start": "2021-03-22T16:00",
-"end": "2021-03-22T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Sportfest Sek.II",
 "start": "2021-04-15",
 "end": "2021-04-16",
@@ -1193,6 +1186,13 @@
 "title": "Schulvorstand",
 "start": "2021-03-16T17:15",
 "end": "2021-03-16T18:45",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Information Eltern Klasse 4 Bläser- und Atelierkurs (online)",
+"start": "2021-04-19T19:30",
+"end": "2021-04-19T20:30",
 "color": "white",
 "textColor": "#707070"
 },
