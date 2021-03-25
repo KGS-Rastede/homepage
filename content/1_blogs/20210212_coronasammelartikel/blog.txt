@@ -39,22 +39,20 @@ Downloads:
 - >
   flyer_beratungsstelle_landkreisammerland.pdf
 - 2021-01-08_rhp_schulen_4.2_final.pdf
-- leitfaden_distanzlernen.pdf
-- >
-  2021-03-04_brief_an_schuelerinnen_schueler_sekii.pdf
-- >
-  2021-03-04_brief_an_schuelerinnen_schueler_seki.pdf
-- 2021-03-04_brief_an_eltern_kurz.pdf
-- 2021-03-04_brief_an_eltern.pdf
-- kita-und-schule-bis-ostern.pdf
-- plan-ab-15-mrz.pdf
-- wilhelmstrasse_schueler_maerz-21.pdf
 - >
   pausenbereiche-wilhelstrasse-ab-15.3.21.pdf
 - feldbreite_einteilung-schulhof.pdf
 - feldbreite_eingaenge.pdf
 - >
   feldbreite_hinweise-fuer-das-b-szenario-schueler.pdf
+- >
+  hinweise-fuer-sus-in-der-wilhelmstrasse.pdf
+- 2021-03-24_brief_an_eltern_kurz.pdf
+- 2021-03-24_brief_an_sus_seki.pdf
+- >
+  2021-03-24_brief_an_schulleitungen_und_lehrkr_fte.pdf
+- 2021-03-24_brief_an_eltern.pdf
+- 2021-03-24_brief_an_sus_sekii.pdf
 
 ----
 
