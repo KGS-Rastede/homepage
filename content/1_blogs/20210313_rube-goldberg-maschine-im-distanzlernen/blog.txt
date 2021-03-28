@@ -1,0 +1,37 @@
+Title: Rube-Goldberg-Maschine im Distanzlernen
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Philip hat als freiwillige Aufgabe im Distanzlernen zu Hause eine Rube Goldberg Maschine gebaut!<\/p>"},"id":"597e1f58-c65b-429d-8f0a-f55ba352a608","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/vimeo.com\/523118355","caption":"Rube-Goldberg Maschine im Distanzlernen"},"id":"4561f72f-17a9-4ba9-8873-10ffd360a70c","isHidden":false,"type":"video"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-03-13 00:00:00
+
+----
+
+Datumstartseite: 2021-05-05 00:00:00
+
+----
+
+Author: Lutz Weusmann
+
+----
+
+Tags: Physik, Distanzlernen
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

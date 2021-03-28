@@ -10,12 +10,12 @@
               Müssen wir am Ende vom Design her entscheiden.
             -->
       <div class="d-none d-sm-none d-lg-block d-xl-block">
-        <a class="logo" href="<?= $site->url() ?>">
+        <a class="logo" href="<?= $site->url() ?>" aria-label="logo-top-big">
           <?= asset('assets/bilder/logo.svg')->read() ?>
         </a>
       </div>
       <div class="d-block d-lg-none d-xl-none">
-        <a class="logo" href="<?= $site->url() ?>">
+        <a class="logo" href="<?= $site->url() ?>" aria-label="logo-top-small">
           <?= asset('assets/bilder/logo_square.svg')->read() ?>
         </a>
       </div>

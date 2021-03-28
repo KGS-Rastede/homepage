@@ -37,6 +37,25 @@
       </tbody>
     </table>
   </div>
+
+  <div class="container">
+
+    <h2>Personalia</h2>
+
+    <?php
+    foreach (page('blogs')
+      ->children()
+      ->listed()
+      ->filterBy('tags', 'Personal', ',')
+      ->flip() as $subpage) :
+
+      snippet('blogkarte', ['subpage' => $subpage]);
+    ?>
+
+    <?php endforeach ?>
+
+  </div>
+
 </div>
 
 <?php snippet('footer') ?>

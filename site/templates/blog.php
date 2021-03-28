@@ -11,10 +11,10 @@
         <div class="mt-0 mb-0 h5">
 
           <?php if ($page->date()->isNotEmpty()) : ?>
-            Datum: <?= $page->date()->toDate("d.m.Y") ?>
+            <?= $page->date()->toDate("d.m.Y") ?>,
           <?php endif ?>
           <?php if ($page->author()->isNotEmpty()) : ?>
-            Autor: <?= $page->author() ?>
+            geschrieben von: <?= $page->author() ?>
           <?php endif ?>
 
         </div>

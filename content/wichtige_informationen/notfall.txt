@@ -1,0 +1,28 @@
+Title: Schulausfall: Banner für die Startseite
+
+----
+
+Toggle: true
+
+----
+
+Texttitel: 
+
+----
+
+Text:
+
+Liebe Schülerinnen und Schüler, sehr geehrte Eltern,
+
+voraussichtlich geht es nach den Osterferien so weiter: Details dazu finden Sie hier (link: https://kgs-rastede.de/blogs/coronasammelartikel text: im Sammelartikel)
+ 
+# Zu den Corona-Selbsttests
+Am letzen Tag vor den Osterferien sind die (link: https://kgs-rastede.de/blogs/corona-selbsttests-wurden-geliefert text: Tests geliefert worden). Ausführliche Informationen zu den Testungen (link: https://kgs-rastede.de/blogs/informationen-zu-den-selbsttests-in-der-schule text: finden Sie hier). Dieser Artikel wird ständig aktualisiert.
+
+----
+
+Category: eigenerTitel
+
+----
+
+Sichtbarkeit: ja

@@ -1,16 +1,12 @@
-Title: Andreas Kleeberg
+Title: Nicht besetzt
 
 ----
 
-Heading: kle
+Heading: NN
 
 ----
 
-Email: kle
-
-----
-
-Position: Realschulzweigleiter
+Position: Realschulzweigleitung
 
 ----
 
@@ -19,6 +15,10 @@ Phone: 04402-9264-22
 ----
 
 Fotoansicht: schulleiter
+
+----
+
+Email: kle
 
 ----
 

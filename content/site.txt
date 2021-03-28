@@ -1,1 +1,11 @@
 Title: KGS Rastede
+
+----
+
+Pages:
+
+- schule
+- ser
+- unterricht
+- wichtige_informationen
+- sv

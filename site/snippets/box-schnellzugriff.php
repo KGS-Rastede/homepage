@@ -11,9 +11,8 @@
                 <?php endif //Trennstrich kommt nur wenn es Downloads vor diesem Element gibt ?>
                 
                 <a class="btn btn-danger btn-lg btn-block" href="<?= $schnellverweis->url() ?>" role="button">
-                    <svg class="bi" width="24" height="24">
-                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
-                    </svg> 
+                    <i class="bi bi-cloud-download"></i>
+
                     <span class="font-weight-light">
                         <?= $schnellverweis->Anzeigename() ?>
                     </span>
@@ -27,9 +26,8 @@
                 <?php endif //Trennstrich kommt nur wenn es Downloads vor diesem Element gibt ?>
             
                 <a class="btn btn-danger btn-lg btn-block" href="<?= $schnellverweis->url() ?>" role="button">
-                    <svg class="bi" width="24" height="24">
-                        <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#cloud-download" />
-                    </svg> 
+                    <i class="bi bi-cloud-download"></i>
+
                     <span class="font-weight-light">
                         <?= $schnellverweis->Anzeigename() ?>
                     </span>

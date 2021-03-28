@@ -14,7 +14,7 @@
             Datum: <?= $page->date()->toDate("d.m.Y") ?>
           <?php endif ?>
           <?php if ($page->author()->isNotEmpty()) : ?>
-            Autor: <?= $page->author() ?>
+            geschrieben von: <?= $page->author() ?>
           <?php endif ?>
 
         </div>

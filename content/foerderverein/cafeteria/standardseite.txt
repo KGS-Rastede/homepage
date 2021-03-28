@@ -1,4 +1,4 @@
-title: Förderverein: Cafeteria
+Title: Förderverein: Cafeteria
 
 ----
 
@@ -6,60 +6,31 @@ Heading: „Was lange währt, wird endlich gut“
 
 ----
 
-Text:
-
-## Helferinnen und Helfer für die Cafeteria gesucht
-
-Am 6.11.96 wurde die neue Cafeteria offiziell durch den Bürgermeister Dieter Decker eröffnet und der Schule übergeben. Seit Montag, den 11. Nov. läuft der Vormittagsbetrieb und seit dem 25. Nov. auch die Ausgabe von warmen Mittagsmahlzeiten.
-
-(image: cafete1.jpg class: float-right)
-
-Wer sich einmal die Zeit nimmt, während der Vormittagsstunden der Schule einen kurzen Besuch abzustatten, der wird feststellen, dass die Schüler den neuen Raum und das neue Speisenangebot sehr gut angenommen haben. Man fragt sich, wie man eigentlich so lange ohne diesen schönen Raum auskommen konnte. Es liegt auf der Hand, dass er eine große Bereicherung für die Schule darstellt.
-
-Der Betrieb wird durch zwei Lehrerinnen und das Sekretariat logistisch vorbereitet und von ehrenamtlich tätigen Müttern durchgeführt. Es werden dringend noch Eltern gesucht, die zur Mitarbeit bereit sind. Zur Zeit wird kann der Betrieb nur dadurch aufrechterhalten werden, dass eine Reihe von Müttern jede Woche einen Vormittag arbeitet, anstatt wie vorgesehen nur vierzehntägig.
-
-Um eventuellen Interessenten die Scheu vor der fremden Situation zu nehmen, hier eine kurze Beschreibung der anstehenden Arbeiten:
-
-Um acht Uhr trifft sich das jeweilige Team in der Cafeteria. Schlüssel und vorbereitete Wechselgeldkassetten werden aus dem Sekretariat geholt. Kurz danach werden verschiedene Brötchensorten, fertig belegte Brötchen, Wurst, Käse, Quark, Möhren und Äpfel angeliefert. Frischmilchprodukte werden schon frühmorgens geliefert und vom Hausmeister in den Kühlschrank gestellt.
-
-Nun wird die Spülmaschine eingeschaltet, da sie eine Vorheizzeit braucht. Dann werden Kaffee, schwarzer Tee, Früchte- und Kräutertee zubereitet, Quarkspeisen angerührt, Brötchen belegt, d.h. sie werden mit Butter bestrichen, mit einer Scheibe Mettwurst, Kochschinken oder Käse belegt und zugeklappt. Kurz vor der Pause werden die Arbeitsgeräte weggeräumt und statt dessen Yoghurt, Milch, Kakao, gewaschene Möhren und Äpfel auf die Tische in der Mitte des Verkaufsraumes gestellt.
-
-An jedem der drei Ausgabefenster steht ein Tablett mit den belegten Brötchen und eine Geldkassette. Auch Saft- und Wasserflaschen stehen in greifbarer Nähe. Die Mütter verteilen sich auf die drei Ausgaben und verkaufen die Speisen und Getränke an die Schüler. Heiße Getränke werden nur in die Cafeteria hinein ausgegeben.
-
-(image: cafete2.jpg class: float-left)
-
-Die Preise sind so einfach gestaltet, dass man sie spätestens nach einem Vormittag im Kopf hat, außerdem hängen sie an jeder Ausgabe aus. Nach der Pause werden die beiden Ausgaben zum Forum geschlossen, die Milchprodukte wieder in den Kühlschrank gestellt, weitere Brötchen belegt, Tee gekocht und die Spülmaschine mit den Teebechern gefüllt. Diese werden inzwischen gegen Pfand ausgegeben, da zu viele Becher nicht zurückgegeben wurden. Die beschriebenen Vorgänge wiederholen sich in jeder Pause.
-
-Nach der vierten Pause werden alle Ausgaben geschlossen, der Verkaufsraum aufgeräumt, die Wärmebehälter für das Mittagessen mit Wasser gefüllt und angeschaltet, die Spülmaschine abgeschaltet, gebrauchte Geschirrtücher und eventuell Leergut ins Lager und die Kassen und Schlüssel ins Sekretariat gebracht. Gegen 12.15 Uhr geht man nach Hause.
-
-Etwa um 13.00 Uhr erscheint die Mittagsgruppe. Sie nimmt das heiß angelieferte Essen entgegen, stellt es in die Wärmevorrichtung und gibt die Portionen in der Pause nach der sechsten Unterrichtsstunde um 13.30 Uhr gegen Essenmarken aus. Auch Tee und Kaffee sowie eventuell vom Vormittag übriggebliebene Brötchen werden verkauft. Mit dem Spülen des Geschirrs und dem Aufräumen des Verkaufsraumes endet der Dienst gegen 14.30 Uhr.
-
-Das etwa 50-köpfige Cafeteria-Team freut sich über jeden weiteren Mitarbeiter, denn die Belastung für den Einzelnen wird dadurch immer geringer. Auch Väter, die vormittags Zeit haben, sind angesprochen. Nur keine Angst, wir sind alle freundliche Leute und die Arbeit ist leicht und macht Spaß, besonders wenn man sich in der Gruppe erst kennen gelernt hat. Wer jetzt schon überzeugt ist, dass er mitmachen möchte, kann sich telefonisch oder persönlich im Sekretariat melden oder dieses Kontaktformular.
+Text: [{"content":{"text":"<p><strong>Helferinnen und Helfer f\u00fcr die Cafeteria gesucht <\/strong><\/p><p>Am 6.11.96 wurde die neue Cafeteria offiziell durch den B\u00fcrgermeister Dieter Decker er\u00f6ffnet und der Schule \u00fcbergeben. Seit Montag, den 11. Nov. l\u00e4uft der Vormittagsbetrieb und seit dem 25. Nov. auch die Ausgabe von warmen Mittagsmahlzeiten. Wer sich einmal die Zeit nimmt, w\u00e4hrend der Vormittagsstunden der Schule einen kurzen Besuch abzustatten, der wird feststellen, dass die Sch\u00fcler den neuen Raum und das neue Speisenangebot sehr gut angenommen haben. Man fragt sich, wie man eigentlich so lange ohne diesen sch\u00f6nen Raum auskommen konnte. <\/p><p>Es liegt auf der Hand, dass er eine gro\u00dfe Bereicherung f\u00fcr die Schule darstellt. Der Betrieb wird durch zwei Lehrerinnen und das Sekretariat logistisch vorbereitet und von ehrenamtlich t\u00e4tigen M\u00fcttern durchgef\u00fchrt. Es werden dringend noch Eltern gesucht, die zur Mitarbeit bereit sind. Zur Zeit wird kann der Betrieb nur dadurch aufrechterhalten werden, dass eine Reihe von M\u00fcttern jede Woche einen Vormittag arbeitet, anstatt wie vorgesehen nur vierzehnt\u00e4gig. Um eventuellen Interessenten die Scheu vor der fremden Situation zu nehmen, hier eine kurze Beschreibung der anstehenden Arbeiten: Um acht Uhr trifft sich das jeweilige Team in der Cafeteria. Schl\u00fcssel und vorbereitete Wechselgeldkassetten werden aus dem Sekretariat geholt. Kurz danach werden verschiedene Br\u00f6tchensorten, fertig belegte Br\u00f6tchen, Wurst, K\u00e4se, Quark, M\u00f6hren und \u00c4pfel angeliefert. Frischmilchprodukte werden schon fr\u00fchmorgens geliefert und vom Hausmeister in den K\u00fchlschrank gestellt. Nun wird die Sp\u00fclmaschine eingeschaltet, da sie eine Vorheizzeit braucht. <\/p><p>Dann werden Kaffee, schwarzer Tee, Fr\u00fcchte- und Kr\u00e4utertee zubereitet, Quarkspeisen anger\u00fchrt, Br\u00f6tchen belegt, d.h. sie werden mit Butter bestrichen, mit einer Scheibe Mettwurst, Kochschinken oder K\u00e4se belegt und zugeklappt. Kurz vor der Pause werden die Arbeitsger\u00e4te wegger\u00e4umt und statt dessen Yoghurt, Milch, Kakao, gewaschene M\u00f6hren und \u00c4pfel auf die Tische in der Mitte des Verkaufsraumes gestellt. An jedem der drei Ausgabefenster steht ein Tablett mit den belegten Br\u00f6tchen und eine Geldkassette. Auch Saft- und Wasserflaschen stehen in greifbarer N\u00e4he. Die M\u00fctter verteilen sich auf die drei Ausgaben und verkaufen die Speisen und Getr\u00e4nke an die Sch\u00fcler. Hei\u00dfe Getr\u00e4nke werden nur in die Cafeteria hinein ausgegeben. <\/p>"},"id":"165b8fef-23ad-4616-8edd-019d5a77fe91","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["cafete1.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"92213ad2-11fc-4a16-a6af-3e28fd57257b","isHidden":false,"type":"image"},{"content":{"text":"<p>Die Preise sind so einfach gestaltet, dass man sie sp\u00e4testens nach einem Vormittag im Kopf hat, au\u00dferdem h\u00e4ngen sie an jeder Ausgabe aus. Nach der Pause werden die beiden Ausgaben zum Forum geschlossen, die Milchprodukte wieder in den K\u00fchlschrank gestellt, weitere Br\u00f6tchen belegt, Tee gekocht und die Sp\u00fclmaschine mit den Teebechern gef\u00fcllt. Diese werden inzwischen gegen Pfand ausgegeben, da zu viele Becher nicht zur\u00fcckgegeben wurden. Die beschriebenen Vorg\u00e4nge wiederholen sich in jeder Pause. Nach der vierten Pause werden alle Ausgaben geschlossen, der Verkaufsraum aufger\u00e4umt, die W\u00e4rmebeh\u00e4lter f\u00fcr das Mittagessen mit Wasser gef\u00fcllt und angeschaltet, die Sp\u00fclmaschine abgeschaltet, gebrauchte Geschirrt\u00fccher und eventuell Leergut ins Lager und die Kassen und Schl\u00fcssel ins Sekretariat gebracht. <\/p><p>Gegen 12.15 Uhr geht man nach Hause. Etwa um 13.00 Uhr erscheint die Mittagsgruppe. Sie nimmt das hei\u00df angelieferte Essen entgegen, stellt es in die W\u00e4rmevorrichtung und gibt die Portionen in der Pause nach der sechsten Unterrichtsstunde um 13.30 Uhr gegen Essenmarken aus. Auch Tee und Kaffee sowie eventuell vom Vormittag \u00fcbriggebliebene Br\u00f6tchen werden verkauft. Mit dem Sp\u00fclen des Geschirrs und dem Aufr\u00e4umen des Verkaufsraumes endet der Dienst gegen 14.30 Uhr. Das etwa 50-k\u00f6pfige Cafeteria-Team freut sich \u00fcber jeden weiteren Mitarbeiter, denn die Belastung f\u00fcr den Einzelnen wird dadurch immer geringer. <\/p><p>Auch V\u00e4ter, die vormittags Zeit haben, sind angesprochen. Nur keine Angst, wir sind alle freundliche Leute und die Arbeit ist leicht und macht Spa\u00df, besonders wenn man sich in der Gruppe erst kennen gelernt hat. Wer jetzt schon \u00fcberzeugt ist, dass er mitmachen m\u00f6chte, kann sich telefonisch oder pers\u00f6nlich im Sekretariat melden oder dieses Kontaktformular.<\/p>"},"id":"5b191b45-ae72-4a69-b566-81fd85523c02","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["cafete2.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"ffcc0483-e8c8-47c6-b219-bde786b9dcce","isHidden":false,"type":"image"}]
 
 ----
 
-Sidebar:
-
-- Link: /foerderverein/ueber_uns
-  Name: Über uns
-- Link: /foerderverein/aktuelles
-  Name: Aktuelles
-- Link: /foerderverein/mitmachen
-  Name: Mitmachen
-- Link: /foerderverein/cafeteria
-  Name: Cafeteria
-- Link: /foerderverein/spenden
-  Name: Spenden
-- Link: /foerderverein/satzung
-  Name: Satzung
-- Link: /foerderverein/kontakt
-  Name: Kontakt
+Relatedtitel: Förderverein der KGS Rastede e.V.
 
 ----
 
-Sidetitel: Förderverein der KGS Rastede e.V.
+Related:
+
+- foerderverein/aktuelles
+- foerderverein/cafeteria
+- foerderverein/kontakt
+- foerderverein/mitmachen
+- foerderverein/satzung
+- foerderverein/spenden
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
 
 ----
 
 Sidetoggle: true
-

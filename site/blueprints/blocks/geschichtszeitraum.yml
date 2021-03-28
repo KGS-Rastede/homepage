@@ -1,0 +1,40 @@
+# /site/blueprints/blocks/geschichtszeitraum.yml
+name: Zeitraum
+icon: clock
+label: "{{ zeitraum }}"
+fields:
+  zeitraum:
+    help: Zeitraum (z.B. "1970er Jahre" oder "2005")
+    type: text
+  line:
+    type: line
+  ereignis1:
+    label: Ereignis 1
+    type: writer
+  ereignis2:
+    label: Ereignis 2
+    type: writer
+  ereignis3:
+    label: Ereignis 3
+    type: writer
+  ereignis4:
+    label: Ereignis 4
+    type: writer
+  ereignis5:
+    label: Ereignis 5
+    type: writer
+  ereignis6:
+    label: Ereignis 6
+    type: writer
+  ereignis7:
+    label: Ereignis 7
+    type: writer
+  ereignis8:
+    label: Ereignis 8
+    type: writer
+  ereignis9:
+    label: Ereignis 9
+    type: writer
+  ereignis10:
+    label: Ereignis 10
+    type: writer

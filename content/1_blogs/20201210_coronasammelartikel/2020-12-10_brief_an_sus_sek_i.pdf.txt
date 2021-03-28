@@ -1,5 +1,0 @@
-Anzeigename: Brief an Schüler*innen der Sek I
-
-----
-
-Template: datei

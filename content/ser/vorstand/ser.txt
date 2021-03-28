@@ -21,32 +21,32 @@ Mitglieder:
   name: Dr. Barbara Valk
   position: stellv. Vorsitzende
   phone: 04402-597766
-  email: valkb@ewetel.net
+  email: barbara.valk@kgs-rastede.eu
 - 
   name: René Ulfers
   position: Bereichselternrat Realschule
   phone: 0174-2069558
-  email: Ulfers-rene@gmx.de
+  email: rene.ulfers@kgs-rastede.eu
 - 
   name: Maren Hauken
   position: Bereichselternrat Hauptschule
   phone: '0441- 61673'
-  email: maren.hauken@ewetel.net
+  email: maren.hauken@kgs-rastede.eu
 - 
   name: Frank Schmitz
   position: Bereichselternrat Gymnasium Sek. II
   phone: 04402-971266
-  email: schmitz.basketball@ewetel.net
+  email: frank.schmitz@kgs-rastede.eu
 - 
   name: Sandra Cordes
   position: Bereichselternrat Gymnasium
   phone: 04402-972994
-  email: san.c@t-online.de
+  email: sandra.cordes@kgs-rastede.eu
 - 
   name: Kim Anne Pöhlker
   position: Schriftführerin
   phone: ----
-  email: Pfert@gmx.de
+  email: kim.anne.poehlker@kgs-rastede.eu
 
 ----
 

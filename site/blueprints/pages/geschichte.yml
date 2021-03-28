@@ -1,0 +1,10 @@
+title: Die Geschichte der KGS
+icon: book
+
+fields:
+  text:
+    label: Inhalt
+    type: blocks
+    fieldsets:
+      - geschichtsepoche
+      - geschichtszeitraum

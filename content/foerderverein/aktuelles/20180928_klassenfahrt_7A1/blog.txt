@@ -2,7 +2,23 @@ Title: Klassenfahrt der 7A1 nach Schloß Dankern
 
 ----
 
-Date: 2018-09-28
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Am Montag, 10.09.18 ging es endlich los auf unsere Klassenfahrt nach Schlo\u00df Dankern. Wir, das sind die Klasse 7A1&nbsp; mit unseren Lehrern Frau Lafeld und Herrn B\u00f6ker. Nach ca. 2 Stunden Fahrt sind wir angekommen und alle waren mega aufgeregt. Nachdem wir uns in den H\u00e4usern eingerichtet hatten, haben wir erst einmal das Gel\u00e4nde erkundet und hatten danach Freizeit. Abends waren wir so aufgeregt, dass wir gar nicht schlafen konnten. Am n\u00e4chsten Morgen ist jedes Sch\u00fclerhaus mit seinem Einkaufzettel zum Lehrerhaus gegangen und hat von Frau Lafeld das Geld f\u00fcr den Einkauf bekommen. Jeden Tag haben wir einmal gekocht. Das war richtig cool und hat auch meistens gut geschmeckt. <\/p><p>Dienstag sind wir erst in den Hochseilgarten gegangen, was mega cool war. Einige sind in 10m und manche in 5m H\u00f6he geklettert. Das war echt schwierig und aufregend. Nachmittags haben wir mit Tretbooten ein Wettrennen gefahren und eine Wasserschlacht im See gemacht. Abends haben wir auf dem riesigen Spielplatz alles unsicher gemacht. Am Mittwoch ging es ins Spa\u00dfbad und wir haben gebowlt. Auch die Lehrer haben mitgespielt. Am Donnerstagmorgen wussten wir, dass wir Kart fahren. Jeder war total aufgeregt. Wir sind zu der 3km entfernten Kartbahn gelaufen, doch die weite Strecke hat sich gelohnt. Wir bekamen Helme und wurden eingewiesen. Das Kartfahren hat riesigen Spa\u00df gemacht. Sven war der Sieger und durfte mit einer Flasche Sekt, nat\u00fcrlich ohne Alkohol, alle nass spritzen. <\/p><p>Auf dem R\u00fcckweg sind wir am Strand zur\u00fcck gelaufen, alle waren gut gelaunt. Bevor wir unser Essen kochten, war noch Preisverleihung f\u00fcr die besten Dankestexte f\u00fcr den F\u00f6rderverein. Die haben wir in der Freizeit in unseren H\u00e4usern geschrieben. Am letzten Abend auf unserer Klassenfahrt haben wir uns gegen halb 9 vor dem Lehrerhaus getroffen und sind zum See gegangen. Dort sind wir durch einen Wald gelaufen und Frau Lafeld sagte, dass Herr B\u00f6ker noch was vergessen hat. Aber pl\u00f6tzlich kam Herr B\u00f6ker mit einer gruseligen Maske aus einem Geb\u00fcsch gesprungen. Einige haben sich voll erschrocken. Danach hat Frau Lafeld Fackeln aus ihrem Rucksack geholt, und wir haben zu zweit eine bekommen. Anschlie\u00dfend sind wir alle mit Fackeln durch den dunklen Wald zu einem riesigen Sandh\u00fcgel hoch gelaufen. Es war mega sch\u00f6n und gem\u00fctlich. Oben haben wir die Fackeln nebeneinander in den Sand gesteckt und einige Jungs sind den Berg heruntergerollt. Das war lustig. Herr B\u00f6ker hat ganz viele Fotos gemacht. Dann mussten wir leider wieder zur\u00fcck zu den H\u00e4usern. Freitag war der Tag der Abreise. Jeder hat aufger\u00e4umt. Als wir fertig waren, kamen Frauen, die die H\u00e4user durchsucht haben. Bei dem anderen Jungenhaus war noch eine Pizza im Ofen. Alle haben gelacht. <\/p><p>Dann kam auch schon der Bus und ab ging es nach Hause. Das war eine richtig coole Klassenfahrt. Und zum Schluss m\u00f6chten wir uns beim F\u00f6rderverein ganz doll bedanken, dass Sie uns unterst\u00fctzt haben. Die Klasse 7A1<\/p>"},"id":"14e7e726-7d9a-4091-8bde-07d4a764ae7a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2018-09-28 00:00:00
+
+----
+
+Datumstartseite: 
 
 ----
 
@@ -10,22 +26,12 @@ Author: Klasse 7A1
 
 ----
 
-Text:
+Tags: 
 
-Am Montag, 10.09.18 ging es endlich los auf unsere Klassenfahrt nach Schloß Dankern. Wir, das sind die Klasse 7A1  mit unseren Lehrern Frau Lafeld und Herrn Böker.
+----
 
-Nach ca. 2 Stunden Fahrt sind wir angekommen und alle waren mega aufgeregt. Nachdem wir uns in den Häusern eingerichtet hatten, haben wir erst einmal das Gelände erkundet und hatten danach Freizeit. Abends waren wir so aufgeregt, dass wir gar nicht schlafen konnten.
+Downloads: 
 
-Am nächsten Morgen ist jedes Schülerhaus mit seinem Einkaufzettel zum Lehrerhaus gegangen und hat von Frau Lafeld das Geld für den Einkauf bekommen. Jeden Tag haben wir einmal gekocht. Das war richtig cool und hat auch meistens gut geschmeckt. Dienstag sind wir erst in den Hochseilgarten gegangen, was mega cool war. Einige sind in 10m und manche in 5m Höhe geklettert. Das war echt schwierig und aufregend. Nachmittags haben wir mit Tretbooten ein Wettrennen gefahren und eine Wasserschlacht im See gemacht. Abends haben wir auf dem riesigen Spielplatz alles unsicher gemacht.
+----
 
-Am Mittwoch ging es ins Spaßbad und wir haben gebowlt. Auch die Lehrer haben mitgespielt.
-
-Am Donnerstagmorgen wussten wir, dass wir Kart fahren. Jeder war total aufgeregt. Wir sind zu der 3km entfernten Kartbahn gelaufen, doch die weite Strecke hat sich gelohnt. Wir bekamen Helme und wurden eingewiesen. Das Kartfahren hat riesigen Spaß gemacht. Sven war der Sieger und durfte mit einer Flasche Sekt, natürlich ohne Alkohol, alle nass spritzen. Auf dem Rückweg sind wir am Strand zurück gelaufen, alle waren gut gelaunt.
-
-Bevor wir unser Essen kochten, war noch Preisverleihung für die besten Dankestexte für den Förderverein. Die haben wir in der Freizeit in unseren Häusern geschrieben. Am letzten Abend auf unserer Klassenfahrt haben wir uns gegen halb 9 vor dem Lehrerhaus getroffen und sind zum See gegangen. Dort sind wir durch einen Wald gelaufen und Frau Lafeld sagte, dass Herr Böker noch was vergessen hat. Aber plötzlich kam Herr Böker mit einer gruseligen Maske aus einem Gebüsch gesprungen. Einige haben sich voll erschrocken. Danach hat Frau Lafeld Fackeln aus ihrem Rucksack geholt, und wir haben zu zweit eine bekommen. Anschließend sind wir alle mit Fackeln durch den dunklen Wald zu einem riesigen Sandhügel hoch gelaufen. Es war mega schön und gemütlich. Oben haben wir die Fackeln nebeneinander in den Sand gesteckt und einige Jungs sind den Berg heruntergerollt. Das war lustig. Herr Böker hat ganz viele Fotos gemacht. Dann mussten wir leider wieder zurück zu den Häusern.
-
-Freitag war der Tag der Abreise. Jeder hat aufgeräumt. Als wir fertig waren, kamen Frauen, die die Häuser durchsucht haben. Bei dem anderen Jungenhaus war noch eine Pizza im Ofen. Alle haben gelacht. Dann kam auch schon der Bus und ab ging es nach Hause. Das war eine richtig coole Klassenfahrt.
-
-Und zum Schluss möchten wir uns beim Förderverein ganz doll bedanken, dass Sie uns unterstützt haben.
-
-Die Klasse 7A1
+Fotoansicht: 

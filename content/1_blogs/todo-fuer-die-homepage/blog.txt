@@ -1,0 +1,37 @@
+Title: TODO für die Homepage
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"# Fehlende Inhalte\n\n| Seite           | Status | URL  | Wer? |\n|----------------|---------------|---------------|----------------|\n| BO Coaches   | 0% |https:\/\/kgs-rastede.de\/unterricht\/bo-coaches | ???|\n| Schulgeschichte   | gegenlesen| https:\/\/kgs-rastede.de\/schule\/geschichte | ??? |\n| Leitbild   | 1:1 Kopie von alter Homepage| https:\/\/kgs-rastede.de\/schule\/leitbild | ??? |\n|  Abschl\u00fcsse  | 0% |  https:\/\/kgs-rastede.de\/schule\/abschluesse| ??? |\n| Berufsorientierung|0%|https:\/\/kgs-rastede.de\/unterricht\/berufsorientierung||\n| Sch\u00fclerfirmen | gegenlesen \/ Layout| https:\/\/kgs-rastede.de\/unterricht\/schuelerfirmen| LM\/ROE |\n| Beratungskonzept| Gegenlesen \/Erweitern |https:\/\/kgs-rastede.de\/unterricht\/beratung | EH\/KY\/(LI) |\n|Kulturelles |0% |https:\/\/kgs-rastede.de\/unterricht\/kulturelles| SCM? |\n|Wettbewerbe|0% (Blogs gehen)|https:\/\/kgs-rastede.de\/unterricht\/wettbewerbe||\n|AGs|0% (Blogs gehen)|https:\/\/kgs-rastede.de\/unterricht\/ag-angebot||\n|Schule ohne Rassismus|0%|https:\/\/kgs-rastede.de\/unterricht\/schule-ohne-rassismus-schule-mit-courage|MY|\n|AG 'f\u00fcr den Frieden'|Nur Bilder, kein Text|https:\/\/kgs-rastede.de\/unterricht\/ag-frieden||\n|Formulare \/ Downloads|unvollst\u00e4ndig|https:\/\/kgs-rastede.de\/allgemeines\/wichtigelinks|alle|"},"id":"bde6cb47-256e-4aa1-a29a-0f4c4eb53702","isHidden":false,"type":"markdown"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-01-02 00:00:00
+
+----
+
+Datumstartseite: 2021-01-02 00:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

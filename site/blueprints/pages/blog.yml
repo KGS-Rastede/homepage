@@ -36,9 +36,14 @@ columns:
               - image
               - gallery
               - video
+              - local-video
               - code
               - markdown
               - audio
+              - horizontale-linie
+              - tabelle
+              - gastautor
+              - quote
           gallery:
             type: files
             uploads: blogbild
@@ -105,6 +110,7 @@ columns:
               - Austausch
               - Wettbewerb
               - Topartikel
+              - Für den Frieden
 
           line1:
             type: line
@@ -123,5 +129,5 @@ columns:
               gallery: Gallerie
               manuel: Manuel einbinden
 
-        
-      
+
+

@@ -18,9 +18,8 @@
 
 
                         <a href="<?php echo $datei->url() ?>" download="<?php echo $datei->filename() ?>" class="btn btn-primary mt-2">
-                            <svg class="bi" width="24" height="24">
-                                <use xlink:href="<?= $kirby->url('assets') ?>/icons/bootstrap-icons.svg#info-square" />
-                            </svg>
+                            <i class="bi bi-info-square"></i>                                 
+
                             <?php echo $datei->name() ?>
 
                         </a>

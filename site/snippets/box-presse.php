@@ -6,7 +6,7 @@
 
         foreach ($items as $item) : ?>
             <p>
-                <a class="text-decoration-none" href="<?= $item->link() ?>" target="_blank"><?= $item->name() ?></a>
+                <a class="text-decoration-none" href="<?= $item->link() ?>" target="_blank" rel="noopener"><?= $item->name() ?></a>
                 (<?= $item->datum()->toDate('d.m.y') ?>)
             </p>
 

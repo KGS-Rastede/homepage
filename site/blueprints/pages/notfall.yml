@@ -1,6 +1,6 @@
 title: Informationen zum Notfall
 num: '{{ page.date.toDate("Ymd") }}'
-icon: 📖
+icon: alert
 
 options:
   update:
@@ -14,20 +14,11 @@ sections:
       toggle:
         label: Banner für Schulausfall
         type: toggle
+        width: 1/4
         text:
           Banner inaktiv
           Banner aktiv
-      category:
-        label: Titel des Banners
-        type: radio
-        when:
-          toggle: true
-        options:
-          sturm: Schulausfall wegen Sturm
-          eis: Schulausfall wegen Glatteis
-          regen: Schulausfall wegen Starkregen
-          heizung: Schulausfall wegen Heizungsausfall
-          eigenerTitel: Eigener Titel
+
       textTitel:
         label: Eigener Titel des Banners
         type: text
@@ -39,4 +30,3 @@ sections:
         type: textarea
         when:
           toggle: true
-                

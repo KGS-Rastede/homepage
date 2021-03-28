@@ -9,7 +9,7 @@
         <div class="blockqoute">
             <div class="mt-3 blockquote-footer h5">
                 Datum: <?= $article->date()->toDate("d.m.Y") ?>
-                Autor: <?= $article->author() ?>
+                geschrieben von: <?= $article->author() ?>
             </div>
         </div>
 

@@ -6,52 +6,7 @@ Heading: "Mathematik ist das Alphabet, mit dessen Hilfe Gott das Universum besch
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Die Mathematik ist eine Wissenschaft, die vielen anderen Wissenschaften als Werkzeug dient. War sie bereits in China und im Orient schon vor tausenden von Jahren weit entwickelt, fand sie durch die griechischen Philosophen und Mathematiker auch ihren Weg nach Europa. Bis heute spielt sie nicht nur in den Naturwissenschaften, sondern auch in den Sozial- und Geisteswissenschaften eine wichtige Rolle. So sind z.B. statistische Untersuchungen (nicht zuletzt auch wegen der seit einigen Jahren gut zu nutzenden elektronischen Hilfsmittel) wichtige Bereiche in Soziologie, Psychologie, Pädagogik etc.",
-        "id": "_ojc2f3ap0",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<br>Die Schule hat heute die Aufgaben",
-        "id": "_uchidas2g",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "die rechnerischen bzw. algebraischen Fähigkeiten der Schülerinnen und Schüler zu fördern.",
-        "id": "_QaPofOpIC",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "die Problemlösungskompetenzen und Argumentationsstrukturen am Beispiel mathematischer Aufgabenstellungen zu entwickeln.",
-        "id": "_27W4d5DsT",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "das logische Denken als Notwendigkeit zur Lösung auch komplexer Sachverhalte zu verdeutlichen.",
-        "id": "_8PTde5ah0",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "den Umgang mit elektronischen Hilfsmitteln zu vermitteln.",
-        "id": "_gw1kq4Jtm",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Dabei ist wichtig, dies auf verschiedenen, den Schülerinnen und Schülern angemessenen Wegen zu tun. Dies ist das Ziel unserer didaktischen und methodischen Bemühungen.",
-        "id": "_lKeRiRB9c",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"<p>Die Mathematik ist eine Wissenschaft, die vielen anderen Wissenschaften als Werkzeug dient. War sie bereits in China und im Orient schon vor tausenden von Jahren weit entwickelt, fand sie durch die griechischen Philosophen und Mathematiker auch ihren Weg nach Europa. Bis heute spielt sie nicht nur in den Naturwissenschaften, sondern auch in den Sozial- und Geisteswissenschaften eine wichtige Rolle. So sind z.B. statistische Untersuchungen (nicht zuletzt auch wegen der seit einigen Jahren gut zu nutzenden elektronischen Hilfsmittel) wichtige Bereiche in Soziologie, Psychologie, P\u00e4dagogik etc.<\/p>"},"id":"c39a67cf-62f8-4cf5-91c6-5bfc0190220c","isHidden":false,"type":"text"},{"content":{"text":"<p><br>Die Schule hat heute die Aufgaben<\/p>"},"id":"9b415c9e-9d36-41d9-9516-4fefab7619af","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>die rechnerischen bzw. algebraischen F\u00e4higkeiten der Sch\u00fclerinnen und Sch\u00fcler zu f\u00f6rdern.<\/p><\/li><li><p>die Probleml\u00f6sungskompetenzen und Argumentationsstrukturen am Beispiel mathematischer Aufgabenstellungen zu entwickeln.<\/p><\/li><li><p>das logische Denken als Notwendigkeit zur L\u00f6sung auch komplexer Sachverhalte zu verdeutlichen.<\/p><\/li><li><p>den Umgang mit elektronischen Hilfsmitteln zu vermitteln.<\/p><\/li><\/ul>"},"id":"0b9d4ccf-fe80-46b4-bbb7-e6db0a27808b","isHidden":false,"type":"list"},{"content":{"text":"<p>Dabei ist wichtig, dies auf verschiedenen, den Sch\u00fclerinnen und Sch\u00fclern angemessenen Wegen zu tun. Dies ist das Ziel unserer didaktischen und methodischen Bem\u00fchungen.<\/p>"},"id":"f5a885a2-ebe5-4cbd-a363-210bbbfffe15","isHidden":false,"type":"text"}]
 
 ----
 

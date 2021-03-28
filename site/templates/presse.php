@@ -14,7 +14,7 @@
     // `toStructure()` erzeugt einen Iterator fuer die URLs
     $items = $page->pressenachrichten()->toStructure()->sortBy("datum")->flip();
 
-    $list = $items->paginate(10);
+    $list = $items->paginate(12);
 
     $quelle = "";
 
@@ -35,7 +35,7 @@
       }
       ?>
 
-      <div class="col-md-6">
+      <div class="col-md-6 col-lg-4">
         <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
             <div class="d-flex justify-content-between">
@@ -57,7 +57,7 @@
               <?= $item->anfang() ?>
             </p>
 
-            <a class="stretched-link" href="<?= $item->link() ?>">
+            <a class="stretched-link text-decoration-none" href="<?= $item->link() ?>" target="_blank" rel="noopener">
               weiterlesen... 
             </a>
 

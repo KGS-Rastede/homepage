@@ -26,6 +26,20 @@ columns:
           text:
             label: Inhalt
             type: blocks
+            fieldsets:
+              - heading
+              - text
+              - list
+              - image
+              - gallery
+              - video
+              - local-video
+              - code
+              - markdown
+              - audio
+              - horizontale-linie
+              - tabelle
+              - quote
           gallery:
             type: files
             uploads: blogbild

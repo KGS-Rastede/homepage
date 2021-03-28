@@ -1,0 +1,44 @@
+Title: Über den Förderverein der KGS Rastede e.V.
+
+----
+
+Heading: Helfen? Unterstützen? Fördern? Mitmachen!
+
+----
+
+Text: [{"content":{"text":"<p>Ihr Kind soll sich in der Schule <strong>wohl f\u00fchlen<\/strong><\/p><p>Dazu geh\u00f6ren u.a. ein warmes Mittagessen, die Nutzung von Computern und nat\u00fcrlich auch die finanzielle Unterst\u00fctzung von Klassenfahrten und der angebotenen AGs. All dies ist durch den seit \u00fcber zwei Jahrzehnten existierenden <strong>F\u00f6rderverein der KGS Rastede<\/strong> gegeben und tr\u00e4gt zu einem angenehmen Schulalltag <strong>ihres Kindes<\/strong> bei.<\/p><p>Um die KGS Rastede bei der Erziehungs- und Bildungsaufgaben zu unterst\u00fctzen, greift der F\u00f6rderverein immer dort helfend ein, wo schulische Mittel nicht ausreichen:<\/p><p>- Beschaffung von Lehr- und Lernmitteln<\/p><p>- Unterst\u00fctzung von bed\u00fcrftigen Sch\u00fclerInnen - Stiftung von Preisen und Auszeichnungen<\/p><p>- Finanzierung von Sch\u00fclerfirmenvorhaben<\/p><p>- Hilfe bei der Finanzierung von Schulveranstaltungen. Ihr Engagement kann helfen, Projekte in der KGS zu f\u00f6rdern, Projekte, die das Schulleben bereichern. Ein reiches Schulleben f\u00f6rdert die Gemeinschaft.<\/p><p>Und in der Gemeinschaft f\u00fchlt man sich wohl. Mit nur <strong>1,50 Euro im Monat<\/strong> k\u00f6nnen Sie unsere Arbeit unterst\u00fctzen!<\/p><p><strong>Machen Sie jetzt mit!<\/strong><\/p><p>Der Vorstand des F\u00f6rdervereins:<\/p><p>Nina Reck (Kassenf\u00fchrerin), Fritz Sundermann (Schriftf\u00fchrer), Maren Hauken (Vertreter SER), Yvonne Hennemann (2. Vorsitzende), Bernd W\u00fcstenbecker (1. Vorsitzender).<\/p>"},"id":"d7f19d26-d61c-476e-acaf-f374db751310","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: Förderverein der KGS Rastede e.V.
+
+----
+
+Related:
+
+- foerderverein/aktuelles
+- foerderverein/cafeteria
+- foerderverein/kontakt
+- foerderverein/mitmachen
+- foerderverein/satzung
+- foerderverein/spenden
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Sidetoggle: true

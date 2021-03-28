@@ -6,6 +6,156 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.rasteder-rundschau.de/2021/03/23/vier-neue-klassenraeume-fuer-die-kgs-feldbreite/
+  name: >
+    Vier neue Klassenräume für die KGS
+    Feldbreite
+  anfang: >
+    Um ein halbes Jahr verspätet sind die
+    Bauarbeiten an der KGS Feldbreite nun
+    angelaufen. Die Fläche wird für die
+    Montage eines Gebäudetrakts in
+    Modulbauweise vorbereitet.
+  datum: 2021-03-23
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-weiter-weg-zum-digitalen-klassenzimmer_a_51,0,1695684419.html
+  name: Weiter Weg zum digitalen Klassenzimmer
+  anfang: >
+    Aus dem Digitalpakt beschafft die
+    Gemeinde Rastede Dokumentenkameras und
+    Freisprechsysteme für Konferenzen. Aus
+    Sicht der Schule ist das aber nur ein
+    erster Schritt, weil wichtige Geräte
+    nach wie vor fehlen.
+  datum: 2021-03-13
+  medium: nwz
+- 
+  link: >
+    http://www.nwzonline.de/plus-ammerland/rastede-kooperative-gesamtschule-rastede-lehrer-auf-vier-pfoten-eingeschult_a_51,0,1480877244.html
+  name: Lehrer auf vier Pfoten eingeschult
+  anfang: >
+    Der Australian Shepherd „Ghost“ soll
+    das soziale Miteinander im Klassenzimmer
+    positiv beeinflussen. Er soll nicht der
+    einzige Schulhund an der KGS Rastede
+    bleiben.
+  datum: 2021-03-10
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-rosenmontag-mal-anders-rasteder-schueler-feiern-karneval-digital_a_51,0,220294543.html
+  name: >
+    Rasteder Schüler feiern Karneval
+    digital
+  anfang: >
+    Hunderte Schüler feiern am Rosenmontag
+    in Rastede normalerweise zusammen in der
+    Sporthalle Karneval. Weil das wegen
+    Corona in diesem Jahr nicht ging,
+    organisierte eine Lehrerin eine
+    Karnevalsfeier per Videokonferenz.
+  datum: 2021-02-16
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-palais-rastede-ausstellung-mit-schuelerarbeiten-erneut-abgesagt_a_50,12,135999009.html
+  name: >
+    Ausstellung mit Schülerarbeiten erneut
+    abgesagt
+  anfang: >
+    Die Corona-Pandemie sorgt zum zweiten
+    Mal für einen Ausfall der Ausstellung.
+    Ein weiterer Nachholtermin ist nun nicht
+    mehr geplant.
+  datum: 2021-02-04
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-antrag-von-cdu-und-gruenen-passivhaus-soll-neuer-standard-in-rastede-werden_a_50,11,4194234578.html
+  name: >
+    Passivhaus soll neuer Standard in
+    Rastede werden
+  anfang: >
+    Der Anbau der KGS könnte der Auftakt
+    sein. Nicht jeder Neubau oder jede
+    Sanierung soll jedoch nach dem hohen
+    Energieeffizienzstandard geplant werden.
+  datum: 2021-02-01
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/schule-bildung-hybridunterricht-szenario-b-rastede-kgs-online-unterricht_a_50,11,3968933818.html
+  name: Hybridunterricht an Schulen gefordert
+  anfang: 'Die CDU-Ratsfraktion in Rastede beantragt die Möglichkeiten für eine Mischung aus Präsenz- und Online-Unterricht zu prüfen. So könnten alle Schüler wieder gleichzeitig unterrichtet werden'
+  datum: 2021-01-28
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2021/01/20/lernen-und-lehren-im-passivhaus/
+  name: ' Lernen und Lehren im Passivhaus'
+  anfang: >
+    Schulausschuss beschließt hohen
+    Energieeffizienz-Standard für den
+    geplanten Erweiterungsbau an der KGS
+    Wilhelmstraße. Eine neue
+    Förderrichtlinie machte dies möglich.
+  datum: 2021-01-20
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/kgs-rastede-klima-klimaneutral-klimaneutrale-gemeinde-2040-kfw-foerderung-passivhaus-effizienzhaus_a_50,11,3519098052.html
+  name: >
+    Der Klimaschutz steht an erster Stelle
+    beim KGS-Anbau
+  anfang: >
+    Statt Energieeffizienz 55 geht es bei
+    dem geplanten Anbau der KGS Rastede nun
+    um ein Bauvorhaben auf Basis des
+    Passivhaus-Standards. Möglich ist dies
+    aufgrund einer neuen Förderrichtlinie.
+  datum: 2021-01-20
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-oldenburg-stadt/oldenburg-rastede-gemeinsam-in-die-selbststaendigkeit-oldenburger-schueler-schlagen-corona-ein-schnippchen_a_50,11,3271727525.html
+  name: >
+    Oldenburger Schüler schlagen Corona ein
+    Schnippchen
+  anfang: >
+    Was macht man bei zu viel Langeweile?
+    Man gründet ein Unternehmen. Das haben
+    jedenfalls drei Schüler aus Oldenburg
+    und umzu getan.
+  datum: 2021-01-16
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/wiefelstede-bildung-in-wiefelstede-so-viele-schueler-erwartet-die-gemeinde_a_50,11,3267306908.html
+  name: So viele Schüler erwartet die Gemeinde
+  anfang: >
+    Aktuell sind 558 Schülerinnen und
+    Schüler an der Oberschule Wiefelstede
+    – in ein paar Jahren vielleicht nur
+    noch 518. Bei den Grundschulen in der
+    Gemeinde sollen die Zahlen konstant
+    bleiben.
+  datum: 2021-01-16
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-bildungsreform-vor-50-jahren-als-rastede-eine-eigene-realschule-bekam_a_50,11,2881458553.html
+  name: Als Rastede eine eigene Realschule bekam
+  anfang: >
+    Vor 50 Jahren gab es noch fünf
+    Volksschulen in und um den Residenzort.
+    Tatsächlich hat Rastede eine der
+    ältesten Schulen des Landes.
+  datum: 2021-01-10
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-mittagessen-in-rastede-akademiehotel-tischt-in-vier-schulen-auf_a_50,10,3493567282.html
   name: Akademiehotel tischt in vier Schulen auf
   anfang: >
@@ -781,38 +931,7 @@ Pressenachrichten:
     Während die Schülerinnen und Schüler
     die letzten Tage der Sommerferien
     genießen, herrscht an der Kooperativen
-    Gesamtschule (KGS) Rastede am Standort
-    Wilhelmstraße emsiges Treiben.
-  datum: 2019-08-01
-  medium: gemeinde
-- 
-  link: >
-    https://rasteder-rundschau.de/2019/07/10/grundsanierung-an-der-kgs/
-  name: ' Grundsanierung an der KGS '
-  anfang: >
-    Aula und Toiletten der Schule werden zur
-    Baustelle
-  datum: 2019-07-10
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2019/07/04/der-dirigent-der-kgs-verabschiedet-sich/
-  name: Der Dirigent der KGS verabschiedet sich
-  anfang: >
-    Gerd Kip geht nach 17 Jahren als
-    Schulleiter in Rastede in den Ruhestand
-  datum: 2019-07-04
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/bildung/rastede-verabschiedung-schulleiter-gerd-kip-verlaesst-kgs-rastede_a_50,5,730002467.html
-  name: >
-    Schulleiter Gerd Kip verlässt KGS
-    Rastede
-  anfang: >
-    Nach 17 Jahren als Schulleiter wurde
-    Gerd Kip verabschiedet. Jetzt hat er
-    mehr Zeit für die Enkelkinder.
+    Gesamtschule (KGS) Rastede am �r die Enkelkinder.
   datum: 2019-07-03
   medium: nwz
 - 
@@ -1775,41 +1894,7 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.rasteder-rundschau.de/2017/11/22/falsche-spendensammler-in-rastede-unterwegs/
-  name: >
-    Falsche Spendensammler in Rastede
-    unterwegs
-  anfang: >
-    Jugendliche geben vor, für die
-    Wildtierauffangstation zu sammeln
-  datum: 2017-11-22
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2017/11/08/bibi-blocksberg-trifft-auf-rasanten-horror/
-  name: >
-    Bibi Blocksberg trifft auf rasanten
-    Horror
-  anfang: >
-    Unter dem Motto „Grusel, Geister,
-    Halloween“ lockte die VfL-Showtime
-    rund 600 Zuschauer in die Sporthalle
-    Feldbreite
-  datum: 2017-11-08
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2017/11/01/tickets-fuer-champagnerlaune/
-  name: ' Tickets für Champagnerlaune '
-  anfang: >
-    Heute startet der Vorverkauf für das
-    Rasteder Neujahrskonzert am 12. und 13.
-    Januar 2018 in der Neuen Aula der KGS.
-    An zwei Terminen lässt das
-    Salonorchester Münster die
-    musikalischen Sektkorken knallen.
-  datum: 2017-11-01
-  medium: rastederrundschau
+    https://www.rasteder-rundschau.de/2017/11/22/falsche-spendensammler-in-rastede-unterwegdium: rastederrundschau
 - 
   link: >
     https://www.rasteder-rundschau.de/2017/10/26/sonderausschuss-zum-thema-muehlenstrasse/
@@ -2731,38 +2816,7 @@ Pressenachrichten:
   name: ' Von New York nach Rastede '
   anfang: >
     KGS-Austauschschüler wurden gestern im
-    Rathaus empfangen
-  datum: 2016-04-07
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/04/04/schnuppertage-an-der-kgs/
-  name: ' Schnuppertage an der KGS '
-  anfang: >
-    Grundschüler lernen weiterführende
-    Schulen kennen
-  datum: 2016-04-04
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/04/04/wer-stellt-das-sportlichste-seminarfach/
-  name: Wer stellt das sportlichste Seminarfach?
-  anfang: >
-    300 KGS-Schülerinnen und Schüler der
-    Sekundarstufe II trafen sich zum großen
-    Sportfest in der Mehrzweckhalle
-    Feldbreite
-  datum: 2016-04-04
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/03/14/unbekannte-nachbarn/
-  name: ' Unbekannte Nachbarn '
-  anfang: >
-    Romani Rose war heute in der KGS Rastede
-    zu Gast. Er rief dazu auf, sich
-    gemeinsam für Demokratie einzusetzen.
-  datum: 2016-03-14
+ 2016-03-14
   medium: rastederrundschau
 - 
   link: >

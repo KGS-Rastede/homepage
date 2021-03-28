@@ -8,7 +8,7 @@
   <div class="row">
 
     <div class="col-md-2 ps-0 ps-md-3 mb-3">
-      <a href="<?= $site->url() ?>">
+      <a href="<?= $site->url() ?>"  aria-label="logo-bottom">
        <?= asset('assets/bilder/logo.svg')->read() ?>
       </a>
     </div>
@@ -38,7 +38,7 @@
         <li><a class="text-muted text-decoration-none" href="<?= page('schule/geschichte')->url() ?>">Unsere Geschichte</a></li>
         <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
         <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/impressum')->url() ?>">Impressum</a></li>
-        <li><a class="text-muted text-decoration-none" href="https://www.opc-asp.de/kgs-rastede/menuplan.php?VMP" target="_blank">Mensa</a></li>
+        <li><a class="text-muted text-decoration-none" href="https://www.opc-asp.de/kgs-rastede/menuplan.php?VMP" target="_blank" rel="noopener">Mensa</a></li>
       </ul>
     </div>
   </div>

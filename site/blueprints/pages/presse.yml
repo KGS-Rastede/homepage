@@ -1,4 +1,6 @@
 title: Presse Artikel
+icon: book
+
 
 options:
   update:
@@ -14,16 +16,16 @@ fields:
   pressenachrichten:
     type: structure
     sortBy: datum desc
-    columns: 
-      link: 
-        width: 1/10      
-      name: 
-        width: 4/10
-      anfang: 
-        width: 3/10
-      datum: 
+    columns:
+      link:
         width: 1/10
-      zeitung: 
+      name:
+        width: 4/10
+      anfang:
+        width: 3/10
+      datum:
+        width: 1/10
+      zeitung:
         width: 1/10
     fields:
       link:

@@ -18,24 +18,21 @@ Related:
 
 ----
 
-Downloadtitel: 
+Downloadtitel: Download
 
 ----
 
-Downloads: 
+Downloads:
+
+- schulordnung2020kgs-rastede.pdf
 
 ----
 
-Sidetitel: Downloads
+Sidetitel: 
 
 ----
 
-Sidebar:
-
-- 
-  link: >
-    https://neu.kgs-rastede.de/media/pages/allgemeines/wichtigelinks/e659a71a80-1603614276/schulordnung2020kgs-rastede.pdf
-  name: Schulordnung
+Sidebar: 
 
 ----
 

@@ -1,0 +1,37 @@
+title: Schulbuchliste
+icon: book
+
+fields:
+  schulbuchlistengz:
+    type: structure
+    label: Gymnasialzweig
+    width: 1/3
+    fields:
+      link: 
+        label: Schulbuchliste
+        type: files
+        max: 1
+      name: 
+        type: text
+  schulbuchlistenrz:
+    type: structure
+    label: Realschulzweig
+    width: 1/3
+    fields:
+      link: 
+        label: Schulbuchliste
+        type: files
+        max: 1
+      name: 
+        type: text
+  schulbuchlistenhz:
+    type: structure
+    label: Hauptschulzweig
+    width: 1/3
+    fields:
+      link:
+        label: Schulbuchliste
+        type: files
+        max: 1
+      name: 
+        type: text

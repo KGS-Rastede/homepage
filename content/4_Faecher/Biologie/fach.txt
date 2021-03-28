@@ -6,70 +6,7 @@ Heading: Das Fach Biologie an der KGS Rastede
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Biologie wird an der KGS Rastede in allen Jahrgängen und Schulzweigen durchgehend unterrichtet. Im Hauptschulzweig wird es in den Jahrgängen 6 und 8 bis 10 epochal, d.h. nur in einem Halbjahr unterrichtet. Im Realschulzweig gilt das für die Jahrgänge 8 bis 10 und im Gymnasialzweig für die Jahrgänge 6 bis 8 und 10. Ab dem Jahrgang 8 kommt auch der Wahlpflichtbereich (WPK) für den gymnasialen Schulzweig mit den unterrichtlich biologischen Schwerpunktsetzungen hinzu. Der WPK wird in Klasse 10 ebenfalls epochal unterrichtet.",
-        "id": "_KWwdeP6UF",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Im Vordergrund stehen biologische Primärerfahrungen, um die Natur möglichst lebensnah im Unterricht abzubilden. Hierfür werden moderne, naturwissenschaftliche Unterrichtsverfahren (Mikroskopie, Experimente) verwendet, um die unterschiedlichen Themen schülerorientiert und mit Schülererfahrungen verbindend zu unterrichten. Im Mittelpunkt stehen die Tier- (Haus-/ Nutztiere, Wirbellose und Wirbeltiere) und Pflanzenwelt (Fotosynthese, <strong>Waldaufbau</strong>, Blütenpflanzen) sowie der Mensch (Abstammung, Herz- Kreislaufsystem, Atmung, Verdauung, Genetik) mit seinen besonderen evolutiven Merkmalen.",
-        "id": "_0a03a5trj",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_lnrboqh5u",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/Faecher+Biologie/files/bio2.jpg",
-            "id": "Faecher/Biologie/bio2.jpg",
-            "ratio": 0.75,
-            "caption": "ein Mikroskop",
-            "filename": "bio2.jpg"
-        },
-        "content": "",
-        "id": "_5b26xmsol",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "<br>Von besonderer Bedeutung für die Auseinandersetzung mit der Biologie ist dabei die Rolle des Menschen als Teil und Gegenüber der Natur: Einerseits sind Schülerinnen und Schüler selbst Gegenstand der biologischen Betrachtung, andererseits nehmen sie sich als Betrachter und Gestalter ihrer Umwelt wahr. Dieser Doppelrolle in Verbindung mit dem Fortschreiten der naturwissenschaftlichen Technologien auf molekularbiologischer, biochemischer, physikalischer und informationstechnischer Ebene trägt der Biologieunterricht Rechnung. (Quelle: Breul et al.: KC Naturwissenschaften Hauptschulzweig Fach Biologie, Hannover 2015, S.77)",
-        "id": "_jnb19gyey",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Dies gilt schulformübergreifend für alle Themen des Faches Biologie. Die verschiedenen Themen in den unterschiedlichen Jahrgängen der verschiedenen Schulformen sind dem Themencluster (s.u.) zu entnehmen. Die schuleigenen Lehrpläne mit den dazugehörigen Bewertungshinweisen sind unter der Rubrik Lehrpläne hinterlegt.",
-        "id": "_J2iKGuXZw",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Das Fach Biologie kann für jegliche Schulabschlüsse angewählt werden, d.h. es können mündliche Abschlussprüfungen im Haupt- und Realschulzweig abgelegt werden. Dies gilt auch insbesondere für die Oberstufe, d.h. den Jahrgängen 11 bis 13 im gymnasialen Schulzweig. Hier werden, neben dem Klassenunterricht im Jahrgang 11, im Kurssystem der Oberstufe Kurse auf erhöhtem und grundlegendem Niveau (die ehemaligen Leistungs- und Grundkurse) angeboten. Jedes Jahr werden drei bis vier Leistungs- und Grundkurse eingerichtet.",
-        "id": "_SaKSe2rDG",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Auch neben dem normalen Unterricht bietet das Fach Biologie vielfältige Lernmöglichkeiten. Im AG-Bereich stehen z.B. die Wildtier-, Naturschutz-, Imker-, Draußen- und Schulgarten-AG sinnbildlich für die vielfältigen, zusätzlichen Lernmöglichkeiten im Fach Biologie. Verschiedene Kooperationen, z.B. mit dem Umweltbildungszentrum Ammerland und der Wildtierauffangstation Rastede, lassen außerschulischen Institutionen Raum, um deren Expertenwissen an die Schülerinnen und Schüler weiterzugeben. Verschiedene Projekte, wie der Apfeltag und die Waldjugendspiele ergänzen den schuleigenen Lehrplan zusätzlich.",
-        "id": "_I4o3pV72K",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Gleichzeitig wird das Fach in verschiedenen Ausschüssen und Dienstbesprechungen durch verschiedene Kolleginnen und Kollegen repräsentiert. Hier sind, z.B., der Umweltausschuss und das Projekt Gesund Leben Lernen in Zusammenarbeit mit der AOK zu nennen.",
-        "id": "_3Pc3hcolt",
-        "type": "paragraph"
-    }
-]
+Text: [{"content":{"text":"Biologie wird an der KGS Rastede in allen Jahrg\u00e4ngen und Schulzweigen durchgehend unterrichtet. Im Hauptschulzweig wird es in den Jahrg\u00e4ngen 6 und 8 bis 10 epochal, d.h. nur in einem Halbjahr unterrichtet. Im Realschulzweig gilt das f\u00fcr die Jahrg\u00e4nge 8 bis 10 und im Gymnasialzweig f\u00fcr die Jahrg\u00e4nge 6 bis 8 und 10. Ab dem Jahrgang 8 kommt auch der Wahlpflichtbereich (WPK) f\u00fcr den gymnasialen Schulzweig mit den unterrichtlich biologischen Schwerpunktsetzungen hinzu. Der WPK wird in Klasse 10 ebenfalls epochal unterrichtet."},"id":"2d083c04-3e0c-460a-8b37-2deb7151e3a8","isHidden":false,"type":"text"},{"content":{"text":"Im Vordergrund stehen biologische Prim\u00e4rerfahrungen, um die Natur m\u00f6glichst lebensnah im Unterricht abzubilden. Hierf\u00fcr werden moderne, naturwissenschaftliche Unterrichtsverfahren (Mikroskopie, Experimente) verwendet, um die unterschiedlichen Themen sch\u00fclerorientiert und mit Sch\u00fclererfahrungen verbindend zu unterrichten. Im Mittelpunkt stehen die Tier- (Haus-\/ Nutztiere, Wirbellose und Wirbeltiere) und Pflanzenwelt (Fotosynthese, <strong>Waldaufbau<\/strong>, Bl\u00fctenpflanzen) sowie der Mensch (Abstammung, Herz- Kreislaufsystem, Atmung, Verdauung, Genetik) mit seinen besonderen evolutiven Merkmalen."},"id":"9905c6f6-4264-45f5-b6ff-48ea661f7b66","isHidden":false,"type":"text"},{"content":{"text":""},"id":"45d013dd-e43b-4132-b7cf-b15a0249d027","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["bio2.jpg"],"src":"","alt":"","caption":"ein Mikroskop","link":"","ratio":"","crop":"false"},"id":"c60ea4f9-f057-45c9-8152-23e646e06247","isHidden":false,"type":"image"},{"content":{"text":"<br>Von besonderer Bedeutung f\u00fcr die Auseinandersetzung mit der Biologie ist dabei die Rolle des Menschen als Teil und Gegen\u00fcber der Natur: Einerseits sind Sch\u00fclerinnen und Sch\u00fcler selbst Gegenstand der biologischen Betrachtung, andererseits nehmen sie sich als Betrachter und Gestalter ihrer Umwelt wahr. Dieser Doppelrolle in Verbindung mit dem Fortschreiten der naturwissenschaftlichen Technologien auf molekularbiologischer, biochemischer, physikalischer und informationstechnischer Ebene tr\u00e4gt der Biologieunterricht Rechnung. (Quelle: Breul et al.: KC Naturwissenschaften Hauptschulzweig Fach Biologie, Hannover 2015, S.77)"},"id":"2ed0c939-6c7f-4f21-912f-189abd3a3c0a","isHidden":false,"type":"text"},{"content":{"text":"Dies gilt schulform\u00fcbergreifend f\u00fcr alle Themen des Faches Biologie. Die verschiedenen Themen in den unterschiedlichen Jahrg\u00e4ngen der verschiedenen Schulformen sind dem Themencluster (s.u.) zu entnehmen. Die schuleigenen Lehrpl\u00e4ne mit den dazugeh\u00f6rigen Bewertungshinweisen sind unter der Rubrik Lehrpl\u00e4ne hinterlegt."},"id":"3bd92db1-d6d1-4a94-ac56-300ce832b35a","isHidden":false,"type":"text"},{"content":{"text":"Das Fach Biologie kann f\u00fcr jegliche Schulabschl\u00fcsse angew\u00e4hlt werden, d.h. es k\u00f6nnen m\u00fcndliche Abschlusspr\u00fcfungen im Haupt- und Realschulzweig abgelegt werden. Dies gilt auch insbesondere f\u00fcr die Oberstufe, d.h. den Jahrg\u00e4ngen 11 bis 13 im gymnasialen Schulzweig. Hier werden, neben dem Klassenunterricht im Jahrgang 11, im Kurssystem der Oberstufe Kurse auf erh\u00f6htem und grundlegendem Niveau (die ehemaligen Leistungs- und Grundkurse) angeboten. Jedes Jahr werden drei bis vier Leistungs- und Grundkurse eingerichtet."},"id":"f91273c1-c9b6-4392-afe8-60523f442042","isHidden":false,"type":"text"},{"content":{"text":"Auch neben dem normalen Unterricht bietet das Fach Biologie vielf\u00e4ltige Lernm\u00f6glichkeiten. Im AG-Bereich stehen z.B. die Wildtier-, Naturschutz-, Imker-, Drau\u00dfen- und Schulgarten-AG sinnbildlich f\u00fcr die vielf\u00e4ltigen, zus\u00e4tzlichen Lernm\u00f6glichkeiten im Fach Biologie. Verschiedene Kooperationen, z.B. mit dem Umweltbildungszentrum Ammerland und der Wildtierauffangstation Rastede, lassen au\u00dferschulischen Institutionen Raum, um deren Expertenwissen an die Sch\u00fclerinnen und Sch\u00fcler weiterzugeben. Verschiedene Projekte, wie der Apfeltag und die Waldjugendspiele erg\u00e4nzen den schuleigenen Lehrplan zus\u00e4tzlich."},"id":"d15a4301-8940-41b2-982e-1cc8543e24e4","isHidden":false,"type":"text"},{"content":{"text":"<p>Gleichzeitig wird das Fach in verschiedenen Aussch\u00fcssen und Dienstbesprechungen durch verschiedene Kolleginnen und Kollegen repr\u00e4sentiert. Hier ist, z.B., das Projekt TLK (Team Lebensraum KGS) zu nennen.<\/p><p>F\u00fcr R\u00fcckfragen stehen folgende Kolleg:innen zur Verf\u00fcgung:<\/p><p>a) Katrin Hallemeier (hal@kgs-rastede.eu) f\u00fcr Sammlungsangelegenheiten<\/p><p>b) Anja Lorzenz (lrz@kgs-rastede.eu) f\u00fcr Medienangelegenheiten<\/p><p>c) Sascha Arzenscheg (as@kgs-rastede.eu) f\u00fcr organisatorische Fragen<\/p>"},"id":"516b4706-8cca-48f9-978e-5ce7bcb6a594","isHidden":false,"type":"text"}]
 
 ----
 
@@ -88,11 +25,13 @@ Gallery:
 
 ----
 
-Lehrplantext: 
+Lehrplantext: Die unten angegebene Übersicht wird als schulinterner Arbeitsplan basierend auf den oben angegebenen, landesweiten Vorgaben verstanden. Die genaueren Pläne mit Hinweisen zu den didkaktisch-methodischen Umsetzungen sind unter der Rubrik Fako Biologie für jede Lehrkraft einsehbar. Sollten Fragen oder Probleme auftreten, kann man sich an die Fachkonferenzleitung unter folgender Adresse wenden: biofachkonferenzleitung@kgs-rastede.eu.
 
 ----
 
-Lehrplaene: 
+Lehrplaene:
+
+- biologiethemen-im-ueberblick.pdf
 
 ----
 

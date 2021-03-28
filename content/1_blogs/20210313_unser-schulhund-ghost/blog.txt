@@ -1,0 +1,37 @@
+Title: Unser Schulhund 'Ghost'
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Hallo liebe Mitsch\u00fcler!<\/p><p>Das niedliche Kerlchen, das ihr auf dem Foto seht, ist Ghost \u2013 unser Schulhund. Vielleicht seid ihr ihm ja schon einmal begegnet? Hier m\u00f6chte ich euch Ghost gerne vorstellen:<\/p>"},"id":"feb36cf4-5fc4-4d96-9e57-e1b79385694e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["ghost.png"],"src":"","alt":"unser Schulhund Ghost","caption":"Ghost","link":"","ratio":"","crop":"false"},"id":"2f1e28ec-4ecf-4f4f-a84d-de77c3a7852d","isHidden":false,"type":"image"},{"content":{"text":"<p>Ghost ist ein fast 5 Jahre alter Australian Sheperd. Er ist kr\u00e4ftig gebaut, ist ca. 55 cm gro\u00df und wiegt etwa 30 kg. Sein langes weiches Fell teilt sich in schwarze und wei\u00dfe Bereiche ein. Am Kopf zieht sich vom Ansatz bis zum Hals ein wei\u00dfer Streifen. Die pechschwarzen, etwas abstehenden Ohren sind leicht abgeknickt. Das helle Fell \u00fcber den runden, braunen Augen hat den Anschein, als h\u00e4tte Ghost Augenbrauen. Um die Augen herum und an den Backen ist sein Fell mit wei\u00dfen Flecken \u00fcbers\u00e4ht. Der Hund hat eine wei\u00dfe Schnauze und eine gro\u00dfe schwarze, ovale Nase. Ghost tr\u00e4gt einen pr\u00e4chtigen schneewei\u00dfen Kragen, der seinen Brust- und Nackenbereich schm\u00fcckt. Am R\u00fccken, Bauch und an den Seiten verteilen sich wei\u00dfe Flecken. Die Rute des Hundes ist \u00fcberwiegend schwarz und nur an der Spitze wei\u00df. Seine langen Beine sind von kurzem wei\u00dfen Fell bedeckt. Auf den hinteren Pfoten befinden sich schwarze Flecken.<\/p>"},"id":"305308d2-0ead-4ccd-8f23-923a58615819","isHidden":false,"type":"text"},{"content":{"text":"Am liebsten esse ich Fleisch!","citation":"Ghost"},"id":"9899f557-eb2f-456e-b1a3-c71bbcd0b575","isHidden":false,"type":"quote"},{"content":{"text":"<p>Ein Australian Shepherd ist ein intelligentes, freundliches und anh\u00e4ngliches Tier. Wenn er jemanden ins Herz geschlossen hat, besch\u00fctzt er denjenigen. Au\u00dferdem ist ein solcher Hund sehr aktiv und braucht viel Bewegung. Ghost spielt gerne mit seiner Schwester. Zu seinen weiteren Lieblingsbesch\u00e4ftigungen geh\u00f6rt das Suchen und Wiederbringen von Gegenst\u00e4nden, aber auch das Ausruhen in der Sonne, wenn diese nicht zu hei\u00df ist. Seine Lieblingsspeise ist Fleisch.<\/p><p>Wenn Ghost im Unterricht dabei ist, l\u00e4sst er sich von den Kindern unserer Klasse gern streicheln, bewegt sich aber nur durch den Klassenraum, wenn er die Erlaubnis von seinem Herrchen, Herrn Roland, bekommt.<\/p><p>Auf dem Schulhof sieht man Ghost immer an der Seite von Herrn Roland, oft angeleint, obwohl er sehr gehorsam ist. Falls ihr ihm begegnet, braucht ihr also keine Angst zu haben.<\/p>"},"id":"097e6917-4b87-44c0-9da8-be6e3bc68154","isHidden":false,"type":"text"},{"content":{"name":"Lina Hermann, 5C3"},"id":"be9700db-2e04-473a-8615-a24e11cb774f","isHidden":false,"type":"gastautor"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-03-13 00:00:00
+
+----
+
+Datumstartseite: 2021-07-13 00:00:00
+
+----
+
+Author: Lina Hermann
+
+----
+
+Tags: Deutsch, Schulhund
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

@@ -6,22 +6,7 @@ Heading: wir lieben alte Menschen
 
 ----
 
-Beschreibung:
-
-[
-    {
-        "attrs": [],
-        "content": "Das ´Sofa` ist hier nicht zum Ausruhen, es bedeutet: soziale Dienste für alte Menschen. Jeden Dienstag gehen wir in die Altenwohnanlagen der AWO und des Petershofes, um mit den Bewohnern/innen zu spielen, klönen, basteln, vorzulesen oder spazieren zu gehen.<br>Mit Botengängen, Einkäufen, Gartenarbeit oder Hilfe am Computer unterstützen wir ältere Menschen zu Hause.",
-        "id": "_hzzs8lid4",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Unsere Kunden freuen sich auf die regelmäßigen Besuche, denn sie erfahren eine wichtige Zuwendung und oft eine Verbesserung ihrer Lebenssituation.",
-        "id": "_x7ho1f3yf",
-        "type": "paragraph"
-    }
-]
+Beschreibung: [{"content":{"text":"<p>Das \u00b4Sofa` ist hier nicht zum Ausruhen, es bedeutet: soziale Dienste f\u00fcr alte Menschen. Jeden Dienstag gehen wir in die Altenwohnanlagen der AWO und des Petershofes, um mit den Bewohnern\/innen zu spielen, kl\u00f6nen, basteln, vorzulesen oder spazieren zu gehen.<br>Mit Boteng\u00e4ngen, Eink\u00e4ufen, Gartenarbeit oder Hilfe am Computer unterst\u00fctzen wir \u00e4ltere Menschen zu Hause.<\/p>"},"id":"7df8ebb0-244f-41d1-b8a1-0b6f07b54177","isHidden":false,"type":"text"},{"content":{"text":"<p>Unsere Kunden freuen sich auf die regelm\u00e4\u00dfigen Besuche, denn sie erfahren eine wichtige Zuwendung und oft eine Verbesserung ihrer Lebenssituation.<\/p>"},"id":"1b5bf385-afd7-47f1-abfc-ee1be86bfe03","isHidden":false,"type":"text"}]
 
 ----
 

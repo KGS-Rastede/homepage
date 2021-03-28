@@ -8,7 +8,7 @@
 
     <?php if ($page->textBefore()->isNotEmpty()): ?>
         <div class="container">
-            <?= $page->textBefore()->kirbyText() ?>
+            <?= $page->textBefore()->toBlocks() ?>
         </div>
     <?php endif; ?>
 
@@ -39,7 +39,7 @@
 
     <?php if ($page->textAfter()->isNotEmpty()): ?>
         <div class="container">
-            <?= $page->textAfter()->kirbyText() ?>
+            <?= $page->textAfter()->toBlocks() ?>
         </div>
     <?php endif; ?>
 </div>

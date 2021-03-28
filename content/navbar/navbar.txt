@@ -43,7 +43,7 @@ Navbar:
       icon: person-lines-fill
     - 
       isexternal: 'false'
-      linktitle: Sekreteriate
+      linktitle: Sekretariate
       pagelink:
         - kontakte/sekretariate
       externallink: ""
@@ -57,6 +57,14 @@ Navbar:
       externallink: ""
       trennstrich: 'true'
       icon: tools
+    - 
+      isexternal: 'false'
+      linktitle: Beratungslehrkräfte
+      pagelink:
+        - unterricht/beratung
+      externallink: ""
+      trennstrich: 'false'
+      icon: "chat-dots"
     - 
       isexternal: 'false'
       linktitle: Schülervertretung (SV)
@@ -93,7 +101,7 @@ Navbar:
       isexternal: 'false'
       linktitle: Förderverein
       pagelink:
-        - foerderverein/ueber_uns
+        - foerderverein
       externallink: ""
       trennstrich: 'false'
       icon: tags-fill
