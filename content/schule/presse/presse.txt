@@ -6,6 +6,20 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.rasteder-rundschau.de/2021/03/23/vier-neue-klassenraeume-fuer-die-kgs-feldbreite/
+  name: >
+    Vier neue Klassenräume für die KGS
+    Feldbreite
+  anfang: >
+    Um ein halbes Jahr verspätet sind die
+    Bauarbeiten an der KGS Feldbreite nun
+    angelaufen. Die Fläche wird für die
+    Montage eines Gebäudetrakts in
+    Modulbauweise vorbereitet.
+  datum: 2021-03-23
+  medium: rastederrundschau
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-weiter-weg-zum-digitalen-klassenzimmer_a_51,0,1695684419.html
   name: Weiter Weg zum digitalen Klassenzimmer
   anfang: >
@@ -917,38 +931,7 @@ Pressenachrichten:
     Während die Schülerinnen und Schüler
     die letzten Tage der Sommerferien
     genießen, herrscht an der Kooperativen
-    Gesamtschule (KGS) Rastede am Standort
-    Wilhelmstraße emsiges Treiben.
-  datum: 2019-08-01
-  medium: gemeinde
-- 
-  link: >
-    https://rasteder-rundschau.de/2019/07/10/grundsanierung-an-der-kgs/
-  name: ' Grundsanierung an der KGS '
-  anfang: >
-    Aula und Toiletten der Schule werden zur
-    Baustelle
-  datum: 2019-07-10
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2019/07/04/der-dirigent-der-kgs-verabschiedet-sich/
-  name: Der Dirigent der KGS verabschiedet sich
-  anfang: >
-    Gerd Kip geht nach 17 Jahren als
-    Schulleiter in Rastede in den Ruhestand
-  datum: 2019-07-04
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/bildung/rastede-verabschiedung-schulleiter-gerd-kip-verlaesst-kgs-rastede_a_50,5,730002467.html
-  name: >
-    Schulleiter Gerd Kip verlässt KGS
-    Rastede
-  anfang: >
-    Nach 17 Jahren als Schulleiter wurde
-    Gerd Kip verabschiedet. Jetzt hat er
-    mehr Zeit für die Enkelkinder.
+    Gesamtschule (KGS) Rastede am �r die Enkelkinder.
   datum: 2019-07-03
   medium: nwz
 - 
@@ -1911,41 +1894,7 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.rasteder-rundschau.de/2017/11/22/falsche-spendensammler-in-rastede-unterwegs/
-  name: >
-    Falsche Spendensammler in Rastede
-    unterwegs
-  anfang: >
-    Jugendliche geben vor, für die
-    Wildtierauffangstation zu sammeln
-  datum: 2017-11-22
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2017/11/08/bibi-blocksberg-trifft-auf-rasanten-horror/
-  name: >
-    Bibi Blocksberg trifft auf rasanten
-    Horror
-  anfang: >
-    Unter dem Motto „Grusel, Geister,
-    Halloween“ lockte die VfL-Showtime
-    rund 600 Zuschauer in die Sporthalle
-    Feldbreite
-  datum: 2017-11-08
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2017/11/01/tickets-fuer-champagnerlaune/
-  name: ' Tickets für Champagnerlaune '
-  anfang: >
-    Heute startet der Vorverkauf für das
-    Rasteder Neujahrskonzert am 12. und 13.
-    Januar 2018 in der Neuen Aula der KGS.
-    An zwei Terminen lässt das
-    Salonorchester Münster die
-    musikalischen Sektkorken knallen.
-  datum: 2017-11-01
-  medium: rastederrundschau
+    https://www.rasteder-rundschau.de/2017/11/22/falsche-spendensammler-in-rastede-unterwegdium: rastederrundschau
 - 
   link: >
     https://www.rasteder-rundschau.de/2017/10/26/sonderausschuss-zum-thema-muehlenstrasse/
@@ -2867,38 +2816,7 @@ Pressenachrichten:
   name: ' Von New York nach Rastede '
   anfang: >
     KGS-Austauschschüler wurden gestern im
-    Rathaus empfangen
-  datum: 2016-04-07
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/04/04/schnuppertage-an-der-kgs/
-  name: ' Schnuppertage an der KGS '
-  anfang: >
-    Grundschüler lernen weiterführende
-    Schulen kennen
-  datum: 2016-04-04
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/04/04/wer-stellt-das-sportlichste-seminarfach/
-  name: Wer stellt das sportlichste Seminarfach?
-  anfang: >
-    300 KGS-Schülerinnen und Schüler der
-    Sekundarstufe II trafen sich zum großen
-    Sportfest in der Mehrzweckhalle
-    Feldbreite
-  datum: 2016-04-04
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/03/14/unbekannte-nachbarn/
-  name: ' Unbekannte Nachbarn '
-  anfang: >
-    Romani Rose war heute in der KGS Rastede
-    zu Gast. Er rief dazu auf, sich
-    gemeinsam für Demokratie einzusetzen.
-  datum: 2016-03-14
+ 2016-03-14
   medium: rastederrundschau
 - 
   link: >
