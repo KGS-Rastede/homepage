@@ -45,6 +45,22 @@ Pressenachrichten:
   medium: nwz
 - 
   link: >
+    https://www.rastede.de/2021/03/kgs-kann-hybridunterricht-demnaechst-deutlich-ausweiten/
+  name: >
+    KGS kann Hybridunterricht demnächst
+    deutlich ausweiten
+  anfang: >
+    Die Kooperative Gesamtschule (KGS)
+    Rastede wird besser für den sogenannten
+    Hybridunterricht ausgestattet. Die
+    Auftragsvergabe für die benötigten
+    Geräte hat der Verwaltungsausschuss der
+    Gemeinde Rastede am Dienstag einstimmig
+    beschlossen.
+  datum: 2021-03-01
+  medium: gemeinde
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-rosenmontag-mal-anders-rasteder-schueler-feiern-karneval-digital_a_51,0,220294543.html
   name: >
     Rasteder Schüler feiern Karneval
@@ -914,24 +930,22 @@ Pressenachrichten:
     https://rasteder-rundschau.de/2019/08/08/ferienzeit-wird-fuer-erforderliche-sanierungsarbeiten-genutzt/
   name: >
     Ferienzeit wird für erforderliche
-    Sanierungsarbeiten genutzt
+    Sanierungsarbeite Der Dirigent der KGS verabschiedet sich
   anfang: >
-    Die Gemeinde Rastede investiert in
-    diesem Sommer über 500 000 Euro in die
-    KGS
-  datum: 2019-08-04
+    Gerd Kip geht nach 17 Jahren als
+    Schulleiter in Rastede in den Ruhestand
+  datum: 2019-07-04
   medium: rastederrundschau
 - 
   link: >
-    https://www.rastede.de/2019/08/gemeinde-investiert-ueber-500-000-euro-in-die-kgs/
+    https://www.nwzonline.de/ammerland/bildung/rastede-verabschiedung-schulleiter-gerd-kip-verlaesst-kgs-rastede_a_50,5,730002467.html
   name: >
-    Gemeinde investiert über 500.000 Euro
-    in die KGS
+    Schulleiter Gerd Kip verlässt KGS
+    Rastede
   anfang: >
-    Während die Schülerinnen und Schüler
-    die letzten Tage der Sommerferien
-    genießen, herrscht an der Kooperativen
-    Gesamtschule (KGS) Rastede am �r die Enkelkinder.
+    Nach 17 Jahren als Schulleiter wurde
+    Gerd Kip verabschiedet. Jetzt hat er
+    mehr Zeit für die Enkelkinder.
   datum: 2019-07-03
   medium: nwz
 - 
@@ -1880,21 +1894,23 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.rasteder-rundschau.de/2017/11/27/konzept-fuer-muehlenstrasse-wieder-auf-der-tagesordnung/
-  name: >
-    Konzept für Mühlenstraße wieder auf
-    der Tagesordnung
-  anfang: >
-    Heute tagt der Ausschuss für Bau,
-    Planung und Umwelt ab 17 Uhr in der
-    Neuen Aula der KGS. Im Mittelpunkt
-    stehen die Zukunftspläne für das Areal
-    rund um die Mühlenstraße.
-  datum: 2017-11-27
+    https://www.rasteder-rundschau.de/rund 600 Zuschauer in die Sporthalle
+    Feldbreite
+  datum: 2017-11-08
   medium: rastederrundschau
 - 
   link: >
-    https://www.rasteder-rundschau.de/2017/11/22/falsche-spendensammler-in-rastede-unterwegdium: rastederrundschau
+    https://www.rasteder-rundschau.de/2017/11/01/tickets-fuer-champagnerlaune/
+  name: ' Tickets für Champagnerlaune '
+  anfang: >
+    Heute startet der Vorverkauf für das
+    Rasteder Neujahrskonzert am 12. und 13.
+    Januar 2018 in der Neuen Aula der KGS.
+    An zwei Terminen lässt das
+    Salonorchester Münster die
+    musikalischen Sektkorken knallen.
+  datum: 2017-11-01
+  medium: rastederrundschau
 - 
   link: >
     https://www.rasteder-rundschau.de/2017/10/26/sonderausschuss-zum-thema-muehlenstrasse/
@@ -2801,22 +2817,23 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.rasteder-rundschau.de/2016/04/13/uwe-ahlers-wird-ehrenvorsitzender/
-  name: ' Uwe Ahlers wird Ehrenvorsitzender '
+    https://www.rastederr stellt das sportlichste Seminarfach?
   anfang: >
-    Der Förderverein der KGS Rastede
-    blickte auf ein erfolgreiches Jahr
-    zurück. Neuer Vorsitzender des Vereins
-    ist Bernd Wüstenbecker.
-  datum: 2016-04-13
+    300 KGS-Schülerinnen und Schüler der
+    Sekundarstufe II trafen sich zum großen
+    Sportfest in der Mehrzweckhalle
+    Feldbreite
+  datum: 2016-04-04
   medium: rastederrundschau
 - 
   link: >
-    https://www.rasteder-rundschau.de/2016/04/07/von-new-york-nach-rastede/
-  name: ' Von New York nach Rastede '
+    https://www.rasteder-rundschau.de/2016/03/14/unbekannte-nachbarn/
+  name: ' Unbekannte Nachbarn '
   anfang: >
-    KGS-Austauschschüler wurden gestern im
- 2016-03-14
+    Romani Rose war heute in der KGS Rastede
+    zu Gast. Er rief dazu auf, sich
+    gemeinsam für Demokratie einzusetzen.
+  datum: 2016-03-14
   medium: rastederrundschau
 - 
   link: >
