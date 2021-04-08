@@ -25,7 +25,7 @@ endif; ?>
 
 
 <?php if(!$empty_head) : //Wenn der Tabellen-Kopf nicht leer ist wird die Tabelle angelegt und die Überschrift eingefügt?>
-    <div class="responsive-table">
+    <div class="table-responsive">
       <table class="table">
         <thead>
         <?php foreach ($table_head as $tableRow): ?>
@@ -47,7 +47,7 @@ endif; ?>
 <?php if(!$empty_body) : //Wenn Tabellen-Inhalt nicht leer ist wird der Inhalt eingefügt ?>
 
   <?php if($empty_head) : //Wenn davor kein Tabellen-Kopf war -> neue Tabelle starten ?>
-    <div class="responsive-table">
+    <div class="table-responsive">
       <table class="table">
   <?php endif ?>
 
