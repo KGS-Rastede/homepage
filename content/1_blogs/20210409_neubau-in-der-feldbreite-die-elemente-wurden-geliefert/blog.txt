@@ -1,0 +1,42 @@
+Title: Neubau in der Feldbreite: Die Elemente wurden geliefert
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>In der Feldbreite bekommen wir f\u00fcr das kommende Schuljahr insgesamt vier neue Klassenzimmer. In diesem Schuljahr war die Raumsituation schon sehr eng, so freuen wir uns ungemein, ab dem Sommer 2021 wieder mehr Spielraum zu haben.<\/p><p>In den n\u00e4chsten Tagen wird in Modulbauweise der Neubau aufgestellt und dann bis zum Somme au\u00dfen und innen fertig gestellt.<\/p>"},"id":"ebcab3fb-1f09-48c1-94f8-884132a4dc4a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- fb3.jpg
+- fb2.jpg
+- fb1.jpg
+- fb4.jpg
+
+----
+
+Date: 2021-04-09 00:00:00
+
+----
+
+Datumstartseite: 2021-08-09 00:00:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Neubau, Feldbreite
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
