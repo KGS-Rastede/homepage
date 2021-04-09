@@ -1,0 +1,41 @@
+Title: Corona-Selbsttests wurden geliefert
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Am Freitag, dem 26.3.2021, wurden die Selbsttests geliefert.<\/p><p><\/p><p>Wir haben direkt begonnen, f\u00fcr jede der 77 Klassen eine Kiste ist zu packen, so dass wir nach den Ferien die Testkits f\u00fcr die Testung zu Hause ausgeben k\u00f6nnen. <\/p>"},"id":"e561778a-cbce-43c6-ad78-3b561585d60c","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- cst2.jpg
+- cst3.jpg
+- cst1.jpg
+
+----
+
+Date: 2021-03-26 00:00:00
+
+----
+
+Datumstartseite: 2021-04-30 00:00:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Corona, Schnelltests
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel

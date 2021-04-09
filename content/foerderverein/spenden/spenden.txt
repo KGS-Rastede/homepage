@@ -2,11 +2,11 @@ Title: Förderverein: Spenden
 
 ----
 
-Heading: 
+Heading:
 
 ----
 
-Textbefore: []
+Textbefore:
 
 ----
 
@@ -16,21 +16,44 @@ Datafile:
 
 ----
 
-Textafter: [{"content":{"text":"<p>Sie m\u00f6chten auch hier auftauchen? Dann setzen Sie sich doch einfach mit uns in Verbindung und spenden!<\/p>"},"id":"1275820d-eb53-4035-8787-a775cba66fe0","isHidden":false,"type":"text"}]
+Textafter:
+
+Sie möchten auch hier auftauchen? Dann setzen Sie sich doch einfach mit uns in Verbindung und spenden!
 
 ----
 
-Relatedtitel: Förderverein der KGS Rastede e.V
+Toggle: true
 
 ----
 
-Related:
-
-- foerderverein/aktuelles
-- foerderverein/cafeteria
-- foerderverein/kontakt
-- foerderverein/mitmachen
-- foerderverein/satzung
-- foerderverein/spenden
+Sidetitel: Förderverein der KGS Rastede e.V.
 
 ----
+
+Sidebar:
+
+-
+  link: /foerderverein/ueber_uns
+  name: Über uns
+-
+  link: /foerderverein/aktuelles
+  name: Aktuelles
+-
+  link: /foerderverein/mitmachen
+  name: Mitmachen
+-
+  link: /foerderverein/cafeteria
+  name: Cafeteria
+-
+  link: /foerderverein/spenden
+  name: Spenden
+-
+  link: /foerderverein/satzung
+  name: Satzung
+-
+  link: /foerderverein/kontakt
+  name: Kontakt
+
+----
+
+Sidetoggle: true

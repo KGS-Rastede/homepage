@@ -19,12 +19,6 @@ sections:
           Banner inaktiv
           Banner aktiv
 
-      textTitel:
-        label: Eigener Titel des Banners
-        type: text
-        when:
-          toggle: true
-          category: eigenerTitel
       text:
         label: Inhalt des Banners
         type: textarea

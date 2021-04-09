@@ -21,34 +21,22 @@
 
             <?php foreach ($page->Unterricht()->toFiles() as $datei) : ?>
               <tr>
-                <?php if ($datei->Anzeigename() == "") : ?>
-                  <td>
+                <td>
                   <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
-                    <a href="<?= $datei->url() ?>" class="text-decoration-none">
-                      <?= $datei->name() ?>
-                    </a>
+                  <a href="<?= $datei->url() ?>" class="text-decoration-none">
+                    <?= $datei->Anzeigename()->or($datei->name()) ?>
+                  </a>
 
-                    <?php if ($datei->Startseite() == 'true') : ?>
-                      <i class="bi bi-lightning-fill"></i>
-                    <?php endif ?>
-
-                  </td>
-                <?php else : ?>
-                  <td>
-                    <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
-                    <a href="<?= $datei->url() ?>" class="text-decoration-none">
-                      <?= $datei->Anzeigename() ?>
-                    </a>
-                    <?php if ($datei->Startseite() == 'true') : ?>
-                      <i class="bi bi-lightning-fill"></i>
-                    <?php endif ?>
-                  </td>
-                <?php endif ?>
+                  <?php if ($datei->Startseite() == 'true') : ?>
+                    <i class="bi bi-lightning-fill"></i>
+                  <?php endif ?>
+                </td>
               </tr>
             <?php endforeach ?>
             <td>
               <a class="text-decoration-none" href="<?= page("/allgemeines/schulbuchlisten")->url() ?>">Schulbuchlisten</a>
             </td>
+            
           </tbody>
         </table>
       </div>
@@ -65,30 +53,17 @@
           <tbody>
 
             <?php foreach ($page->Schule()->toFiles() as $datei) : ?>
-              <tr>
-                <?php if ($datei->Anzeigename() == "") : ?>
-                  <td>
-                    <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
-                    <a href="<?= $datei->url() ?>" class="text-decoration-none">
-                      <?= $datei->name() ?>
-                    </a>
+              <tr>                
+                <td>
+                  <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
+                  <a href="<?= $datei->url() ?>" class="text-decoration-none">
+                    <?= $datei->Anzeigename()->or($datei->name()) ?>
+                  </a>
 
-                    <?php if ($datei->Startseite() == 'true') : ?>
-                      <i class="bi bi-lightning-fill"></i>
-                    <?php endif ?>
-                  </td>
-                <?php else : ?>
-                  <td>
-                    <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
-                    <a href="<?= $datei->url() ?>" class="text-decoration-none">
-                      <?= $datei->Anzeigename() ?>
-                    </a>
-
-                    <?php if ($datei->Startseite() == 'true') : ?>
-                      <i class="bi bi-lightning-fill"></i>
-                    <?php endif ?>
-                  </td>
-                <?php endif ?>
+                  <?php if ($datei->Startseite() == 'true') : ?>
+                    <i class="bi bi-lightning-fill"></i>
+                  <?php endif ?>
+                </td>
               </tr>
             <?php endforeach ?>
 

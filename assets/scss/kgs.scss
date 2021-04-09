@@ -73,7 +73,6 @@ $font-family-sans-serif: Pangea, Segoe UI, Optima, Arial, sans-serif;
 
 $body-bg: #f4f4f4;
 
-
 // Custom
 
 $theme-colors: (
@@ -128,6 +127,40 @@ $theme-colors: (
     .text-sm-kein-umbruch {
         white-space: nowrap !important;
     }
+}
+
+.embed-container { 
+    position: relative; 
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+} 
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%;
+}
+
+//Schriftfarbe für Code auf schwarz, da default pink
+$code-color: #000000;
+
+//Hintergrund für Code-Elemente und monospace
+code {
+    background-color: #e7e7e7;
+    padding: 0.1rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    font-family: monospace !important;
+}
+
+//für mehrzeilige Code-Elemente
+.code-wrapper {
+    background-color: #e7e7e7;
 }
 
 // footer {
