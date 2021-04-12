@@ -1,5 +1,0 @@
-Anzeigename: Flyer Beratungsstelle Ammerland
-
-----
-
-Template: datei

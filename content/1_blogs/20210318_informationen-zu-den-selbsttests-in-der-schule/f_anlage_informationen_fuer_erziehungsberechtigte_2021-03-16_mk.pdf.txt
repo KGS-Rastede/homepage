@@ -1,5 +1,0 @@
-Anzeigename: F-Informationen für Erziehungsberechtigte
-
-----
-
-Template: datei
