@@ -1,0 +1,37 @@
+Title: Informationen zum Artelier- und zum Bläserkurs Jg. 5
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"url":"https:\/\/vimeo.com\/536345805","caption":"Informationen zum Bl\u00e4serkurs"},"id":"459cc800-c316-4b32-a961-c16214324529","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/vimeo.com\/535522401","caption":"Informationen zum Atelierkurs"},"id":"dd803988-dfdc-408e-b3d9-640492bade58","isHidden":false,"type":"video"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-04-11 00:00:00
+
+----
+
+Datumstartseite: 2021-08-11 00:00:00
+
+----
+
+Author: Jesco Scheemann
+
+----
+
+Tags: Musik, Artelierkurs, Topartikel, Kunst
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
