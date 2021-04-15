@@ -27,7 +27,7 @@
                             <td>0</td>
                         </tr>
                         <tr>
-                            <th scope="row">Schüler:innen Hauptgebäude</th>
+                            <th scope="row">Schüler:innen Wilhelmstr.</th>
                             <td>4</td>
                             <td>1</td>
                         </tr>
