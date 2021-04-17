@@ -1,4 +1,4 @@
-Title: Informationen zum Artelier- und zum Bläserkurs Jg. 5
+Title: Informationen zum Atelier- und zum Bläserkurs Jg. 5
 
 ----
 
@@ -26,7 +26,7 @@ Author: Jesco Scheemann
 
 ----
 
-Tags: Musik, Artelierkurs, Topartikel, Kunst
+Tags: Musik, Topartikel, Kunst, Atelierkurs
 
 ----
 
