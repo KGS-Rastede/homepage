@@ -40,6 +40,8 @@ columns:
               - horizontale-linie
               - tabelle
               - quote
+              - karousel
+
           gallery:
             type: files
             uploads: blogbild
