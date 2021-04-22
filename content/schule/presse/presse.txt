@@ -6,6 +6,42 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-schulerweiterung-in-rastede-neue-klassenraeume-in-nur-zwei-monaten_a_51,0,4284936898.html
+  name: Neue Klassenräume in nur zwei Monaten
+  anfang: >
+    An der Feldbreite lässt die Gemeinde
+    Rastede erstmals ein Schulgebäude aus
+    Fertigbauteilen errichten. Wer dabei
+    noch das alte Bild von Containerklassen
+    vor Augen hat, der irrt.
+  datum: 2021-04-22
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-umwelt-initiative-aus-rastede-zehn-wochen-fuer-ein-nachhaltiges-leben_a_51,0,3945812785.html
+  name: Zehn Wochen für ein nachhaltiges Leben
+  anfang: >
+    Die Gruppe „Es geht um Meer“ stellt
+    den Bürgern ab Montag Aufgaben, in
+    denen es um Nachhaltigkeit geht. Zehn
+    Wochen lang sollen die Rasteder animiert
+    werden, etwas Neues auszuprobieren und
+    im besten Falle umzudenken.
+  datum: 2021-04-17
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/ammerland-pandemie-im-ammerland-selbsttests-laufen-in-rastede-ganz-gut_a_51,0,3954176809.html
+  name: Selbsttests laufen in Rastede ganz gut
+  anfang: >
+    Für eine richtige Bilanz ist es nach
+    einer Woche Test-Strategie an den
+    Schulen noch zu früh. Doch zumindest in
+    Rastede läuft es gut.
+  datum: 2021-04-17
+  medium: nwz
+- 
+  link: >
     https://www.rasteder-rundschau.de/2021/03/23/vier-neue-klassenraeume-fuer-die-kgs-feldbreite/
   name: >
     Vier neue Klassenräume für die KGS
@@ -887,38 +923,7 @@ Pressenachrichten:
     für Hüte und Kostüme, An der Bleiche
     11, ein
   datum: 2019-08-22
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2019/08/21/kometen-monde-und-sterntaler/
-  name: ' Kometen, Monde und Sterntaler '
-  anfang: >
-    Michael Büker liest im Evangelischen
-    Bildungshaus Rastede. Vorab stellt die
-    Rastederin Astrid F. Schneider ihre
-    Kurzgeschichte „Der
-    Sterntalereffekt“ vor.
-  datum: 2019-08-21
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2019/08/19/rasteder-schulen-profitieren-vom-digitalpakt/
-  name: >
-    Rasteder Schulen profitieren vom
-    Digitalpakt
-  anfang: >
-    Die Schulen im Ammerland sollen fast
-    sechs Millionen Euro Förderung vom Land
-    erhalten. Für die Schulen in Rastede
-    können je 30 000 Euro beantragt werden.
-  datum: 2019-08-19
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2019/08/12/sommerfest-im-ateliergarten/
-  name: ' Sommerfest im Ateliergarten '
-  anfang: >
-    Am Wochenende, 24. und 25. August, lädt
+  medium: rasteder Wochenende, 24. und 25. August, lädt
     die Designerin Eva Christine Cordes
     interessierte Besucher in ihr Atelier
     für Hüte und Kostüme, An der Bleiche
@@ -930,7 +935,40 @@ Pressenachrichten:
     https://rasteder-rundschau.de/2019/08/08/ferienzeit-wird-fuer-erforderliche-sanierungsarbeiten-genutzt/
   name: >
     Ferienzeit wird für erforderliche
-    Sanierungsarbeite Der Dirigent der KGS verabschiedet sich
+    Sanierungsarbeiten genutzt
+  anfang: >
+    Die Gemeinde Rastede investiert in
+    diesem Sommer über 500 000 Euro in die
+    KGS
+  datum: 2019-08-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rastede.de/2019/08/gemeinde-investiert-ueber-500-000-euro-in-die-kgs/
+  name: >
+    Gemeinde investiert über 500.000 Euro
+    in die KGS
+  anfang: >
+    Während die Schülerinnen und Schüler
+    die letzten Tage der Sommerferien
+    genießen, herrscht an der Kooperativen
+    Gesamtschule (KGS) Rastede am Standort
+    Wilhelmstraße emsiges Treiben.
+  datum: 2019-08-01
+  medium: gemeinde
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/07/10/grundsanierung-an-der-kgs/
+  name: ' Grundsanierung an der KGS '
+  anfang: >
+    Aula und Toiletten der Schule werden zur
+    Baustelle
+  datum: 2019-07-10
+  medium: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2019/07/04/der-dirigent-der-kgs-verabschiedet-sich/
+  name: Der Dirigent der KGS verabschiedet sich
   anfang: >
     Gerd Kip geht nach 17 Jahren als
     Schulleiter in Rastede in den Ruhestand
@@ -1852,38 +1890,7 @@ Pressenachrichten:
 - 
   link: >
     https://www.rasteder-rundschau.de/2018/01/04/shoppen-ein-faires-geschaeft/
-  name: ' Shoppen – Ein faires Geschäft? '
-  anfang: >
-    Schüler der KGS betrachten die
-    Textilproduktion aus globaler
-    Perspektive. Vor den Ferien
-    präsentierten sie ihr Projekt in der
-    Aula. Der Auftritt wurde aufgezeichnet
-    und ist am 17. Januar im TV zu sehen.
-  datum: 2018-01-04
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2018/01/03/lesefoerderung-wird-an-der-kgs-gross-geschrieben/
-  name: >
-    Leseförderung wird an der KGS groß
-    geschrieben
-  anfang: >
-    Der Förderverein der KGS unterstützt
-    die Schulbücherei mit einer Spende in
-    Höhe von 500 Euro
-  datum: 2018-01-03
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2017/11/28/picknick-im-gruenen/
-  name: ' Picknick im Grünen '
-  anfang: >
-    Lange lag der Prozess brach, jetzt kommt
-    Bewegung in das Thema „Neugestaltung
-    Mühlenstraße“. In einer
-    öffentlichen Sitzung in der KGS-Aula
-    erläuterte gestern die Verwaltung die
+  name: ' Shoppe gestern die Verwaltung die
     Bürgervorschläge aus dem vergangenen
     Jahr und stellte einen Zeitplan vor. Dr.
     Friedrich Scheele präsentierte seine
@@ -1894,7 +1901,39 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.rasteder-rundschau.de/rund 600 Zuschauer in die Sporthalle
+    https://www.rasteder-rundschau.de/2017/11/27/konzept-fuer-muehlenstrasse-wieder-auf-der-tagesordnung/
+  name: >
+    Konzept für Mühlenstraße wieder auf
+    der Tagesordnung
+  anfang: >
+    Heute tagt der Ausschuss für Bau,
+    Planung und Umwelt ab 17 Uhr in der
+    Neuen Aula der KGS. Im Mittelpunkt
+    stehen die Zukunftspläne für das Areal
+    rund um die Mühlenstraße.
+  datum: 2017-11-27
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2017/11/22/falsche-spendensammler-in-rastede-unterwegs/
+  name: >
+    Falsche Spendensammler in Rastede
+    unterwegs
+  anfang: >
+    Jugendliche geben vor, für die
+    Wildtierauffangstation zu sammeln
+  datum: 2017-11-22
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2017/11/08/bibi-blocksberg-trifft-auf-rasanten-horror/
+  name: >
+    Bibi Blocksberg trifft auf rasanten
+    Horror
+  anfang: >
+    Unter dem Motto „Grusel, Geister,
+    Halloween“ lockte die VfL-Showtime
+    rund 600 Zuschauer in die Sporthalle
     Feldbreite
   datum: 2017-11-08
   medium: rastederrundschau
@@ -2775,32 +2814,7 @@ Pressenachrichten:
   name: ' „Meine Heimat, deine Heimat“ '
   anfang: >
     An der KGS wurde der
-    Bartholomäus-Schink-Preis für
-    besondere Schülerleistungen verliehen.
-    20 Beiträge waren eingereicht worden.
-  datum: 2016-05-13
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/05/09/ohne-verstaerker-und-mikrofon/
-  name: ' Ohne Verstärker und Mikrofon '
-  anfang: >
-    „KGS unplugged“ lautet das Motto am
-    Donnerstag, 12. Mai. Ab 19.30 Uhr laden
-    vier Schul-Ensembles zum akustischen
-    Konzertabend in die Neue Aula ein.
-  datum: 2016-05-09
-  medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/04/25/manhattan-brodelt-in-der-aula/
-  name: ' Manhattan brodelt in der Aula '
-  anfang: 'Frühlingskonzert mit dem „Duo Riul“: Die Künstler überzeugten Konzertgäste und KGS-Schüler'
-  datum: 2016-04-25
-  medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/04/13/raumnot-an-der-kgs-und-der-schule-kleibrok/
+    Bartholomäus-Schink-Preis f�ibrok/
   name: >
     Raumnot an der KGS und der Schule
     Kleibrok
@@ -2817,7 +2831,37 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.rastederr stellt das sportlichste Seminarfach?
+    https://www.rasteder-rundschau.de/2016/04/13/uwe-ahlers-wird-ehrenvorsitzender/
+  name: ' Uwe Ahlers wird Ehrenvorsitzender '
+  anfang: >
+    Der Förderverein der KGS Rastede
+    blickte auf ein erfolgreiches Jahr
+    zurück. Neuer Vorsitzender des Vereins
+    ist Bernd Wüstenbecker.
+  datum: 2016-04-13
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2016/04/07/von-new-york-nach-rastede/
+  name: ' Von New York nach Rastede '
+  anfang: >
+    KGS-Austauschschüler wurden gestern im
+    Rathaus empfangen
+  datum: 2016-04-07
+  medium: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2016/04/04/schnuppertage-an-der-kgs/
+  name: ' Schnuppertage an der KGS '
+  anfang: >
+    Grundschüler lernen weiterführende
+    Schulen kennen
+  datum: 2016-04-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2016/04/04/wer-stellt-das-sportlichste-seminarfach/
+  name: Wer stellt das sportlichste Seminarfach?
   anfang: >
     300 KGS-Schülerinnen und Schüler der
     Sekundarstufe II trafen sich zum großen
