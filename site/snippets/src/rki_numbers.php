@@ -1,4 +1,8 @@
 <?php
+# Kirby-Aufruf für Zugriff auf Informationen des RKI:  https://getkirby.com/docs/reference/objects/http/remote/__construct
+# GitHub für Projekt Idee: https://github.com/jamct/incidence-snippet
+# API Landkreis / Bundeland: https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/917fc37a709542548cc3be077a786c17_0
+# API Deutschland: https://www.arcgis.com/home/item.html?id=61d0f74ed79d454baad7712a1b85a6d0
 
 class Incidence_local
 {
