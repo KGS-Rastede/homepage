@@ -69,13 +69,35 @@ class Incidence_local
     private function fetchData(string $dt)
     {
         $fieldstr = implode(",", $this->fields);
-        
+        /*
         $request = Remote::get('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=OBJECTID='
         . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json');
-
+        
         if ($request->code() === 200) {
             $result = Xml::parse($request->content());
         }
+        else 
+            throw new Exception("could not contact arcgis server");
+*/
+
+
+        $c = curl_init();
+        curl_setopt(
+            $c,
+            CURLOPT_URL,
+            'https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=OBJECTID='
+                . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json'
+        );
+
+        curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
+        //curl_setopt($c, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($c, CURLOPT_CAINFO, './cacert.pem');
+
+        $result = curl_exec($c);
+        if (curl_errno($c)) {
+            throw new Exception("could not contact arcgis server");
+        }
+        curl_close($c);
 
         $json = json_decode($result, true);
 
@@ -110,7 +132,9 @@ class Incidence_local
     }
 }
 
-
+/* ------===============================================------ */
+/* ------===============================================------ */
+/*
 class Incidence_brd
 {
 
@@ -166,7 +190,7 @@ class Incidence_brd
     {
         $fieldstr = implode(",", $this->fields);
         
-        $request = Remote::get('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=OBJECTID='
+        $request = Remote::get('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/rki_key_data_v/FeatureServer/0/query?where=BundeslandId='
         . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json');
 
         if ($request->code() === 200) {
@@ -204,4 +228,4 @@ class Incidence_brd
         file_put_contents($this->cache_file, json_encode($old));
         return $key;
     }
-}
+}*/

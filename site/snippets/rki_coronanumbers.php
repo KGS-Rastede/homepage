@@ -9,13 +9,16 @@ $cache_file = './data.json';
 $incidence_local = new Incidence_local($id, $cache_file);
 
 $today_local = $incidence_local->getDaily(0);
-
+/*
 $id = 0; //Deutschland
-$cache_file = './rki_numbers_brd.json';
+$cache_file = './rkinumbersbrd.json';
 $incidence_brd = new Incidence_brd($id, $cache_file);
 
 $today_brd = $incidence_brd->getDaily(0);
 
+
+<tr><td>" . $today_brd['Inz7T'] . "<tr><td>
+*/
 
 echo "
 <table border='1'>
