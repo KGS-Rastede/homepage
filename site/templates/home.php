@@ -22,8 +22,6 @@
       <?php snippet('box-presse') ?>
       <?php //snippet('box-wetter') 
       ?>
-      
-      
     </div>
 
   </div>
