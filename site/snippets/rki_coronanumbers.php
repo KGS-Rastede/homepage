@@ -5,13 +5,13 @@
 
 snippet('src/rki_numbers');
 $id = 50; //Ammerland
-$cache_file = './rki_numbers_local.json';
+$cache_file = 'assets/rki_numbers_local.json';
 $incidence_local = new Incidence_local($id, $cache_file);
 
 $today_local = $incidence_local->getDaily(0);
 
 $id = 0; //Deutschland
-$cache_file = './rki_numbers_brd.json';
+$cache_file = 'assets/rki_numbers_brd.json';
 $incidence_brd = new Incidence_brd($id, $cache_file);
 
 $today_brd = $incidence_brd->getDaily(0);
