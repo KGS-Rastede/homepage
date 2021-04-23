@@ -11,17 +11,17 @@ class Incidence_local
         'GEN',
         'BEZ',
         'BL',
-        'cases',
-        'deaths',
-        'cases_per_population',
+        // 'cases',
+        // 'deaths',
+        // 'cases_per_population',
 
         'cases7_per_100k',
-        'cases7_lk',
-        'death7_lk',
+        // 'cases7_lk',
+        // 'death7_lk',
 
         'cases7_bl_per_100k',
-        'cases7_bl',
-        'death7_bl',
+        // 'cases7_bl',
+        // 'death7_bl',
 
         'last_update'
     ];
@@ -69,37 +69,6 @@ class Incidence_local
     private function fetchData(string $dt)
     {
         $fieldstr = implode(",", $this->fields);
-        /*
-        $request = Remote::get('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=OBJECTID='
-        . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json');
-        
-        if ($request->code() === 200) {
-            $result = Xml::parse($request->content());
-        }
-        else 
-            throw new Exception("could not contact arcgis server");
-*/
-
-/*
-        $c = curl_init();
-        curl_setopt(
-            $c,
-            CURLOPT_URL,
-            'https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=OBJECTID='
-                . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json'
-        );
-
-        curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
-        //curl_setopt($c, CURLOPT_SSL_VERIFYPEER, false);
-        curl_setopt($c, CURLOPT_CAINFO, './cacert.pem');
-
-        $result = curl_exec($c);
-        if (curl_errno($c)) {
-            throw new Exception("could not contact arcgis server");
-        }
-        curl_close($c);
-*/
-
         
         $remote = new Remote('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=OBJECTID='
         . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json');
