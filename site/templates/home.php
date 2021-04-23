@@ -22,6 +22,8 @@
       <?php snippet('box-presse') ?>
       <?php //snippet('box-wetter') 
       ?>
+      
+      <?php snippet('corona-ampel') ?>
     </div>
 
   </div>
