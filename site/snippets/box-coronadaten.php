@@ -21,7 +21,7 @@ $name_landkreis =  $today_local['GEN'];
 $incidence_landkreis = round($today_local['cases7_per_100k'], 2);
 $name_bundesland = $today_local['BL'];
 $incidence_bundesland = round($today_local['cases7_bl_per_100k'], 2);
-$incidence_brd =  $today_brd['Inz7T'];
+$incidence_brd =  round($today_brd['Inz7T'], 2);
 ?>
 
 <div class="table-responsive">
