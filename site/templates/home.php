@@ -23,7 +23,7 @@
       <?php //snippet('box-wetter') 
       ?>
       
-      <?php snippet('rki_coronanumbers') ?>
+      
     </div>
 
   </div>
