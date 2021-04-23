@@ -1,6 +1,6 @@
 <?php
 
-class Incidence
+class Incidence_local
 {
 
     private $cache_file;
@@ -24,6 +24,102 @@ class Incidence
         'death7_bl',
 
         'last_update'
+    ];
+
+
+    public function __construct(int $ri, string $cache_file)
+    {
+        $this->cache_file = $cache_file;
+        $this->region_id = $ri;
+    }
+
+    public function getDaily($offset = 0)
+    {
+        $d = new DateTime("today -" . $offset . " day");
+        $dt = $d->format('Ymd');
+
+        $c = $this->getCache($dt);
+        if (is_array($c)) {
+            $c['cached'] = true;
+            return $c;
+        }
+        $c = $this->fetchData($dt);
+        if (is_array($c)) {
+            $c['cached'] = false;
+            return $c;
+        }
+    }
+
+    private function getCache(string $dt)
+    {
+        $f = @file_get_contents($this->cache_file);
+
+        if ($f == false) {
+            return;
+        }
+
+        $data = json_decode($f, true);
+        if (isset($data[$dt])) {
+            return $data[$dt];
+        } else {
+            return;
+        }
+    }
+
+    private function fetchData(string $dt)
+    {
+        $fieldstr = implode(",", $this->fields);
+        
+        $request = Remote::get('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=OBJECTID='
+        . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json');
+
+        if ($request->code() === 200) {
+            $result = Xml::parse($request->content());
+        }
+
+        $json = json_decode($result, true);
+
+        if (!isset($json['features'][0]['attributes'])) {
+            return;
+        }
+
+        $data = $json['features'][0]['attributes'];
+        $date = DateTime::createFromFormat("d.m.Y, H:i", str_replace(" Uhr", "", $data['last_update']));
+        $data['ts'] = $date->format("U");
+        $set = $this->setCache($data);
+        if ($set == $dt) {
+            return $data;
+        } else {
+            return;
+        }
+    }
+
+    private function setCache($data)
+    {
+        $f = @file_get_contents($this->cache_file);
+        if ($f == false) {
+            $old = [];
+        } else {
+            $old = json_decode($f, true);
+        }
+        $date = DateTime::createFromFormat("d.m.Y, H:i", str_replace(" Uhr", "", $data['last_update']));
+        $key = $date->format("Ymd");
+        $old[$key] = $data;
+        file_put_contents($this->cache_file, json_encode($old));
+        return $key;
+    }
+}
+
+
+class Incidence_brd
+{
+
+    private $cache_file;
+    private $region_id;
+
+    private $fields = [
+        'BundeslandId',
+        'Inz7T',
     ];
 
 
