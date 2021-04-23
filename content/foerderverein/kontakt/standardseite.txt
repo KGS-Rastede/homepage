@@ -16,9 +16,9 @@ Relatedtitel: Förderverein der KGS Rastede e.V.
 
 Related:
 
+- foerderverein
 - foerderverein/aktuelles
 - foerderverein/cafeteria
-- foerderverein/kontakt
 - foerderverein/mitmachen
 - foerderverein/satzung
 - foerderverein/spenden
@@ -30,6 +30,14 @@ Downloadtitel:
 ----
 
 Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
 
 ----
 
