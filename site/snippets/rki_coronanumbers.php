@@ -5,11 +5,20 @@ snippet('src/incidence');
 # Find your region here and get the OBJECTID: 
 # https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/917fc37a709542548cc3be077a786c17_0
 
-$id = 50; //Ammerland
-$cache_file = './data.json';
-$incidence = new Incidence($id, $cache_file);
+$id_local = 50; //Ammerland
+$cache_file_local = './rki_numbers_local.json';
+$incidence_local = new Incidence($id, $cache_file_local);
 
-$today = $incidence->getDaily(0);
+$today_local = $incidence_local->getDaily(0);
+
+
+$id_brd = 0; //Deutschland
+$cache_file_brd = './rki_numbers_brd.json';
+$incidence_brd = new Incidence($id, $cache_file_brd);
+
+$today_brd = $incidence_brd->getDaily(0);
+
+
 
 echo "
 <table border='1'>
