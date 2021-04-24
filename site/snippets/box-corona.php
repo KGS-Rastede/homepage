@@ -7,7 +7,7 @@
                 <h4 class="card-category">Aktuelle Informationen zum Infektionsgeschehen an unserer Schule.</h4>
 
 
-                Derzeit befinden sich in vom Gesundheitamt angeordneter Quarantäne:
+                Derzeit befinden sich in vom Gesundheitsamt angeordneter Quarantäne:
 
                 <?= snippet('box-coronadaten', ['coronapage' => page('coronadaten')]) ?>
             </div>
