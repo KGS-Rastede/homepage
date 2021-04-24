@@ -1,0 +1,40 @@
+Title: Anleitung zum Erstellen von Inhalten für die Homepage
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Liebe Kolleginnen und Kollegen,<\/p><p>dieser Text soll eine Anleitung f\u00fcr euch sein, denn ihr m\u00f6chtet bei der inhaltlichen Gestaltung der Homepage helfen. Danke daf\u00fcr!<\/p><p>Die Homepage basiert auf dem Homepage-System Kirby (<a href=\"https:\/\/getkirby.com\/\" rel=\"noopener noreferrer nofollow\">https:\/\/getkirby.com\/<\/a>) und hat einen intern Bereich, in dem die Seiten erstellt werden. Grunds\u00e4tzlich kann jede Seite ma\u00dfgeschneidert werden, wenn es spezielle Anforderungen gibt. Ich habe mich aber bem\u00fcht, sinnvolle Vorgaben zu machen. F\u00fcr Verbesserungsvorschl\u00e4ge bin ich sehr dankbar.<\/p>"},"id":"870c6f96-ceda-49cf-9e01-d1f0df67bbec","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Wo editiert man"},"id":"c92790a2-c756-4e8b-a7f5-dab7b42ff667","isHidden":false,"type":"heading"},{"content":{"text":"<p>Auf die eigentliche Homepage (kgs-rastede.de) haben nur drei Personen Zugriff: Berger, Varelmann und Niehaus. Jeder andere, der einen eigenen Betrag leisten m\u00f6chte, bekommt Zugriff auf eine Schattenkopie der Homepage. Diese Homepage liegt hier: <a href=\"https:\/\/www.niehaus-ol.de\/\" rel=\"noopener noreferrer nofollow\">https:\/\/www.niehaus-ol.de\/<\/a>. Auf der Seite werden auch neue Funktionen gestestet, bevor sie <em>live<\/em> gehen.<\/p><p>Ihr k\u00f6nnt Zugriff auf <a href=\"https:\/\/www.niehaus-ol.de\/\" rel=\"noopener noreferrer nofollow\">https:\/\/www.niehaus-ol.de\/<\/a> bekommen und dort eure Unterseite (z.B. die Seite des Faches 'Erdkunde') editieren, bis die Anpassungen fertig sind. Zum Beispiel neue Bilder einbauen, Texte verbessern, Curicula erneuern, Blogeintr\u00e4ge schreiben und so weiter. Wenn ihr dann fertig seid sagt ihr Carsten NI Bescheid und die \u00c4nderungen werden auf die eigentliche Homepage kopiert. So k\u00f6nnt ihr auch nix kaputt machen.<\/p><p>F\u00fcr den Fall, dass ihr aus Versehen doch auf <a href=\"https:\/\/www.niehaus-ol.de\/\" rel=\"noopener noreferrer nofollow\">https:\/\/www.niehaus-ol.de\/<\/a> alles kaputt macht: Egal, kann ich immer wieder herstellen.<\/p>"},"id":"c9c6cfbc-19ee-49b4-9ff7-dec83d84ac7e","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Einen Blog schreiben"},"id":"4f8af30d-1f34-4337-8921-56241ab7d7ef","isHidden":false,"type":"heading"},{"content":{"text":"<p>M\u00f6chtet ihr einen Blog schreiben, so geht man auf <a href=\"https:\/\/kgs-rastede.de\/intern\/pages\/blogs\" rel=\"noopener noreferrer nofollow\">https:\/\/niehaus-ol.de\/panel\/pages\/blogs<\/a> und klickt oben rechts auf Hinzuf\u00fcgen. Einen Titel ausdenken und dann sieht man schon den Editor. Das k\u00f6nnte dann zum Beispiel so aussehen:<\/p>"},"id":"e2617e1d-3ceb-457f-9c9f-0ad22e220767","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["2021-04-24_11h07_48.png"],"src":"","alt":"So sieht der Editor aus","caption":null,"link":"","ratio":"","crop":"false"},"id":"927d5a3d-ccba-42c1-9cd1-e4608035df5d","isHidden":false,"type":"image"},{"content":{"text":"<p>Und das sch\u00f6ne ist: Ihr k\u00f6nnt einfach von DIESEM Text hier euch anschauen, wie ich das gemacht habt. Dann habt ihr direkt eine Vorlage :-)<\/p><p>Ihr findet DIESEN Text unter <a href=\"https:\/\/niehaus-ol.de\/panel\/pages\/blogs+anleitung-zum-erstellen-von-inhalten-fuer-die-homepage\" rel=\"noopener noreferrer nofollow\">https:\/\/niehaus-ol.de\/panel\/pages\/blogs+anleitung-zum-erstellen-von-inhalten-fuer-die-homepage<\/a> (nat\u00fcrlich erst, wenn ihr Zugangsdaten habt).<\/p>"},"id":"cfca23d8-7304-469f-bdda-a44bf9fa14d7","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Die Fachseiten editieren"},"id":"d39725e8-adf5-4dd7-a011-ce94cad13328","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Seiten der F\u00e4cher sind unter <a href=\"https:\/\/kgs-rastede.de\/intern\/pages\/Faecher\" rel=\"noopener noreferrer nofollow\">https:\/\/niehaus-ol.de\/intern\/pages\/Faecher<\/a> zu finden. F\u00fcr das Fach Biologie sieht das zum Beispiel intern so aus:<\/p>"},"id":"1b8a4040-183a-465e-b974-6a39a083567f","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["2021-04-24_11h17_04.png"],"src":"","alt":"Die Seite vom Fach Biologie","caption":null,"link":"","ratio":"","crop":"false"},"id":"3c096a39-94b1-4be9-92b6-32ca941b6243","isHidden":false,"type":"image"},{"content":{"text":"<p>Auch hier empfiehlt es sich, einfach mal die anderen F\u00e4cher anzuschauen. Wie die das so gemacht haben! Biologie findet man dann zum Beispiel hier: <a href=\"https:\/\/niehaus-ol.de\/panel\/pages\/Faecher+Biologie\" rel=\"noopener noreferrer nofollow\">https:\/\/niehaus-ol.de\/panel\/pages\/Faecher+Biologie<\/a>.<\/p>"},"id":"46aa3f69-f1ef-4ec4-bb23-7cd0b3270095","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Neue Seiten erstellen"},"id":"442dffec-1934-402d-8ee4-9696d587b748","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ihr wollt eine komplett neue Unterseite haben? Zum Beipspiel eine Seite f\u00fcr eure AG? So hat Carsten Teske <a href=\"https:\/\/kgs-rastede.de\/unterricht\/schulsport\" rel=\"noopener noreferrer nofollow\">https:\/\/kgs-rastede.de\/unterricht\/schulsport<\/a> selbst gebastelt. Kein Problem! Sprecht mich an und ich lege ich eine leere Seite an, dann k\u00f6nnt ihr loslegen. Wenn ihr da spezielle W\u00fcnsche habt und die L\u00f6sung f\u00fcr ein Problem nicht findet sprecht mich an. Dann helfe ich euch nat\u00fcrlich dabei. Wir finden einen Weg.<\/p>"},"id":"20032bd2-428e-4459-a483-606ed4a5e415","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"An der Homepage selbst mitarbeiten (erfordert Programmierkenntnisse)"},"id":"f5800903-c880-47ce-a6c5-be9663d16646","isHidden":false,"type":"heading"},{"content":{"text":"<p>Nat\u00fcrlich w\u00fcrden wir in der Schulleitung uns sehr freuen, wenn die technische Weiterentwicklung auf mehr Schultern verteilt werden w\u00fcrde. Vielleicht hat eine Lehrkraft Lust dazu?<\/p><p>Vielleicht kennt ihr aber auch einen Informatik-affinen Sch\u00fcler oder eine Sch\u00fclerin, die darauf Lust hat? Der <a href=\"https:\/\/gitlab.com\/cniehaus\/homepage\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Quelltext der Homepage<\/a> ist komplett offen und Open Source. Entsprechende Sch\u00fcler:innen d\u00fcrfen Carsten sehr gerne ansprechen und sich einbringen. Das w\u00e4re f\u00fcr beide Seiten ein echter Gewinn!<\/p>"},"id":"a0928e7b-dcd9-49bf-94ee-2e2701c9db90","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- 2021-04-24_11h07_48.png
+- 2021-04-24_11h17_04.png
+
+----
+
+Date: 2021-04-24 00:00:00
+
+----
+
+Datumstartseite: 2021-08-24 00:00:00
+
+----
+
+Author: Carsten Niehaus
+
+----
+
+Tags: Homepage
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: manuel
