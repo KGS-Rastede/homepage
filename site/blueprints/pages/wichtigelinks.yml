@@ -38,5 +38,14 @@ sections:
         uploads: pdfs
         info: "angezeigter Name: {{file.anzeigename}}"
 
+      line2:
+        type: line
+
+      datenschutz:
+        label: Datenschutz
+        type: files
+        uploads: pdfs
+        info: "angezeigter Name: {{file.anzeigename}}"
+
         
       
