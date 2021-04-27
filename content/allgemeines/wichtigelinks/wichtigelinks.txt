@@ -15,3 +15,15 @@ Schule:
 - >
   gebaeudeplan_aufenthaltsbereiche_endfassung2017.pdf
 - gebaeudeplan.pdf
+
+----
+
+Datenschutz:
+
+- >
+  2021-04-uebersicht-verarbeitung-personenbezogener-daten-schule.pdf
+- >
+  2021-04-27-datenschutzerklaerung-schulhomepage.pdf
+- >
+  2021-04-datenschutzerklaerung-fuer-eltern_sus.pdf
+- 2020-12-datenuebermittlung-31-rlsb.pdf
