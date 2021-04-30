@@ -308,13 +308,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Lateinfahrt (unter Vorbehalt)",
-"start": "2021-07-12",
-"end": "2021-07-17",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Information Eltern Klasse 5 GZ über 2. Fremdsprache",
 "start": "2021-02-15T18:00",
 "end": "2021-02-15T21:00",
@@ -333,13 +326,6 @@
 "start": "2024-06-24",
 "end": "2024-08-03",
 "color": "orange",
-"textColor": "#707070"
-},
-{
-"title": "Projekttag '20 Jahre Schule ohne Rassismus'",
-"start": "2021-06-23",
-"end": "2021-06-24",
-"color": "white",
 "textColor": "#707070"
 },
 {
@@ -423,13 +409,6 @@
 "title": "Entlassfeier Sek II",
 "start": "2021-07-02",
 "end": "2021-07-03",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Jubiläumsfeier Schule ohne Rassismus",
-"start": "2021-06-23",
-"end": "2021-06-24",
 "color": "white",
 "textColor": "#707070"
 },
@@ -738,13 +717,6 @@
 "title": "Fachkonferenz Informatik",
 "start": "2021-04-27T16:15",
 "end": "2021-04-27T18:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
-"title": "Abitur Latein",
-"start": "2021-04-27",
-"end": "2021-04-28",
 "color": "white",
 "textColor": "#707070"
 },
@@ -1127,13 +1099,6 @@
 "textColor": "#707070"
 },
 {
-"title": "Nachprüfungen ABi",
-"start": "2021-06-28T14:00",
-"end": "2021-06-30T16:00",
-"color": "white",
-"textColor": "#707070"
-},
-{
 "title": "Arbeitsgruppe Digitalisierung",
 "start": "2021-02-15T16:15",
 "end": "2021-02-15T18:00",
@@ -1253,9 +1218,30 @@
 "textColor": "#707070"
 },
 {
-"title": "Info Eltern Jg. 5 - RZ über Französisch und die weiteren Profile",
+"title": "",
 "start": "2021-03-22T19:00",
 "end": "2021-03-22T20:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Online-Eltern-Infoabend zum bilingualen Musikprofil in Jg. 10",
+"start": "2021-04-29T19:30",
+"end": "2021-04-29T20:30",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Abitur Latein",
+"start": "2021-04-27",
+"end": "2021-04-28",
+"color": "white",
+"textColor": "#707070"
+},
+{
+"title": "Nachprüfungen Abi",
+"start": "2021-06-28T14:00",
+"end": "2021-06-30T16:00",
 "color": "white",
 "textColor": "#707070"
 }
