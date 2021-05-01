@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* import only the necessary Bootstrap files */
-/* -------begin customization-------- */
+/* ------- begin customization -------- */
+/* ------------------------------------ */
 @font-face {
   font-family: "Pangea";
   src: url("Pangea-LightWeb.woff2");
@@ -41,6 +42,7 @@
   src: local("Pangea-BoldWeb"), local("Pangea-BoldWeb"), url("./Pangea-BoldWeb.woff2") format("woff2");
   font-display: swap;
 }
+/* === Bootstrap Variablen und Klassen anpassen bzw. überschreiben === */
 .main {
   margin-top: 30px;
 }
@@ -53,11 +55,19 @@
   position: static !important;
 }
 
-.honeypot {
-  position: absolute;
-  left: -9999px;
+code {
+  background-color: #e7e7e7;
+  padding: 0.1rem;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  font-family: monospace !important;
 }
 
+.code-wrapper {
+  background-color: #e7e7e7;
+}
+
+/* =============== Eigene Klassen ergänzen ========================== */
 .text-umbruch {
   white-space: normal !important;
 }
@@ -67,6 +77,11 @@
     white-space: nowrap !important;
   }
 }
+.honeypot {
+  position: absolute;
+  left: -9999px;
+}
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -81,18 +96,6 @@
   left: 0;
   width: 100%;
   height: 100%;
-}
-
-code {
-  background-color: #e7e7e7;
-  padding: 0.1rem;
-  padding-left: 0.2rem;
-  padding-right: 0.2rem;
-  font-family: monospace !important;
-}
-
-.code-wrapper {
-  background-color: #e7e7e7;
 }
 
 /*==================================
@@ -205,6 +208,7 @@ code {
 }
 
 /* -------end customization-------- */
+/* -------------------------------- */
 /* finally, import Bootstrap to set the changes! */
 /*!
  * Bootstrap v5.0.0-beta3 (https://getbootstrap.com/)
@@ -869,12 +873,12 @@ progress {
   margin-bottom: 1rem;
   color: #212529;
   vertical-align: top;
-  border-color: #dee2e6;
+  border-color: #c6cace;
 }
 .table > :not(caption) > * > * {
   padding: 0.5rem 0.5rem;
   background-color: var(--bs-table-bg);
-  border-bottom-width: 1px;
+  border-bottom-width: 3px;
   box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
 }
 .table > tbody {
