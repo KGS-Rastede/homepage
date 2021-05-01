@@ -7,6 +7,10 @@
             font-size: 1.2rem !important;
         }
     }
+    .fc-scroller {
+        position: relative;
+        overflow: scroll !important;
+    }
 </style>
 
 
