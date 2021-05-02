@@ -2,9 +2,6 @@
 
 <?php snippet('page-header') ?>
 
-<?php /* Fontawesome wird nur für bootstrap themes benötigt
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.2/css/all.css">
-*/ ?>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar/main.min.css" />
 <script src='https://github.com/mozilla-comm/ical.js/releases/download/v1.4.0/ical.js'></script>
@@ -54,11 +51,10 @@
       noEventsContent: 'Keine Ereignisse anzuzeigen',
       
       displayEventTime: false, // don't show the time column in list view
-      // Die Datei laden. Aktuell muss diese Datei noch per Hand generiert werden
+      
       events: {
 		  /*url: 'https://kgs-rastede.eu/iserv/public/calendar/?key=1bad7fec91a3d07904543f4476774fd1',*/
-		  /*url: '<?= $kirby->url('assets') ?>/kalender/public.ics',*/
-        url: 'https://kgs-rastede.de/assets/kalender/public.ics',
+		  url: '<?= $kirby->url('assets') ?>/kalender/public.ics',
         format: 'ics',
         failure: function() {
           document.getElementById('script-warning').style.display = 'block';
