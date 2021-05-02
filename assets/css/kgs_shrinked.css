@@ -361,6 +361,10 @@ ul ol {
   margin-bottom: 0;
 }
 
+dt {
+  font-weight: 700;
+}
+
 b,
 strong {
   font-weight: bolder;
@@ -816,14 +820,14 @@ progress {
     width: 25%;
   }
 
+  .col-xl-2 {
+    flex: 0 0 auto;
+    width: 16.6666666667%;
+  }
+
   .col-xl-4 {
     flex: 0 0 auto;
     width: 33.3333333333%;
-  }
-
-  .col-xl-5 {
-    flex: 0 0 auto;
-    width: 41.6666666667%;
   }
 
   .col-xl-7 {
