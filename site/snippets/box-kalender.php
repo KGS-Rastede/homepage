@@ -8,6 +8,10 @@
             font-size: 1.2rem !important;
         }
     }
+    .fc-scroller {
+        position: relative;
+        overflow: scroll !important;
+    }
 </style>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar/main.min.css" />
