@@ -1509,6 +1509,31 @@ textarea.form-control-lg {
   background-color: transparent;
 }
 
+.btn-outline-success {
+  color: #bdc8d4;
+  border-color: #bdc8d4;
+}
+.btn-outline-success:hover {
+  color: #000;
+  background-color: #bdc8d4;
+  border-color: #bdc8d4;
+}
+ .btn-outline-success:focus {
+  box-shadow: 0 0 0 0.25rem rgba(189, 200, 212, 0.5);
+}
+ .btn-outline-success:active, .btn-outline-success.active, .btn-outline-success.dropdown-toggle.show {
+  color: #000;
+  background-color: #bdc8d4;
+  border-color: #bdc8d4;
+}
+ .btn-outline-success:active:focus, .btn-outline-success.active:focus, .btn-outline-success.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(189, 200, 212, 0.5);
+}
+.btn-outline-success:disabled, .btn-outline-success.disabled {
+  color: #bdc8d4;
+  background-color: transparent;
+}
+
 .btn-outline-warning {
   color: #a34c40;
   border-color: #a34c40;
