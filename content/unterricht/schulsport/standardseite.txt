@@ -1,0 +1,39 @@
+Title: Schulsportassistent*innen
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Sport, Engagement, Spa\u00df! \u2013 Schulsportassistent*innen Ausbildung"},"id":"e63bc1a5-2d8a-4daa-8b17-bb755b6be9e9","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["airtramp-sitzendes-huepfen.jpeg"],"src":"","alt":"","caption":"Spa\u00df auf dem Airtrack","link":"","ratio":"16\/9","crop":"false"},"id":"ad638055-8eaa-4db8-bb54-96910d12167b","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Wer sind die Schulsportassistent*innen?"},"id":"54481d3f-a7a9-430c-b1f9-62b11e77d6c7","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wir sind Sch\u00fcler*innen des 10. Jahrgangs, die sich an unserer Schule f\u00fcr einen bewegten Schulalltag einsetzen m\u00f6chten. Unsere kompetente und kompakte Ausbildung, die durch die Kooperation zwischen der Schule und dem Landessportbund erm\u00f6glicht wird, wird von Frau von Essen und Herrn Teske geleitet. Wir \u00fcberlegen uns, welche neuen Bewegungsangeboten f\u00fcr die Pausen und den Ganztagsunterricht an unserer Schule noch m\u00f6glich sind und wie man diese integrieren kann. Wir planen und f\u00fchren Projekte durch, die den jeweiligen Jahrg\u00e4ngen den Spa\u00df am Sport und Teamf\u00e4higkeit n\u00e4herbringen bzw. diese noch weiter f\u00f6rdern sollen. W\u00e4hrend der Planung der Projekte haben wir viel Spa\u00df miteinander, treiben Sport und probieren unsere geplanten Aktionen aus.<\/p>"},"id":"418be343-c1dc-4ac1-a04e-63709372f3c8","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["theorie.jpeg"],"src":"","alt":"","caption":"W\u00e4hrend einer Theorieeinheit der Ausbildung","link":"","ratio":"7\/5","crop":"true"},"id":"98bd73e1-11b0-4bd3-b539-492a71b7e632","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["matterhorn.jpeg"],"src":"","alt":"","caption":"Pfeilen am Aufbau des Matterhorn Balls","link":"","ratio":"","crop":"false"},"id":"42d7ebbc-b3d3-481e-a257-03531b7dbf1c","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Was passiert w\u00e4hrend der Ausbildung?"},"id":"213cfbbe-d0b6-403d-a19c-7a49a54f8f6a","isHidden":false,"type":"heading"},{"content":{"text":"<p>W\u00e4hrend der Ausbildung lernen wir etwas \u00fcber das Planen und Organisieren von Projekten und \u00dcbungsstunden, \u00fcber Erste Hilfe, \u00fcber das Schlichten von Konflikten, \u00fcber die Sicherheit im Sport, FairPlay sowie Teamkommunikation. Zwischen den Theorieeinheiten wird Sport getrieben, Ideen werden ausprobiert und es wird gemeinsam gekocht und sehr viel gelacht.<\/p>"},"id":"e1355634-7244-4d19-bd38-bc4bd5650606","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["table-tennis.jpg"],"src":"","alt":"","caption":"Giant Table Tennis","link":"","ratio":"","crop":"false"},"id":"92c06ba1-cf4f-4300-bc59-fe3410dad408","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["gemeinschaftliches-kochen.jpg"],"src":"","alt":"","caption":"Gemeinschaftliches Kochen","link":"","ratio":"","crop":"false"},"id":"9a59984d-9f41-4c9d-b6e4-f7da37da973b","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Was ist f\u00fcr 2021 geplant?"},"id":"28e66e98-93a9-4a45-8b4b-f1b5549c5997","isHidden":false,"type":"heading"},{"content":{"text":"<p>In 2021 m\u00f6chten wir vor allem einen Bewegungs\u00fcbungenpol f\u00fcr Lehrkr\u00e4fte und Sch\u00fcler*innen anlegen, der z.B. \u00dcbungen f\u00fcr Bewegungspausen und Workouts f\u00fcr zu Hause beinhaltet. Dadurch m\u00f6chten wir den Sch\u00fcler*innen einen bewegten Schulalltag erm\u00f6glichen und interessierten Lehrkr\u00e4ften das Einbauen solcher \u00dcbungen in den Unterricht erleichtern. Sofern Corona es zul\u00e4sst, m\u00f6chten wir einige Projektideen verwirklichen, beispielsweise einen Flashmob auf Abstand, bei dem eine Interaktion der gesamten Schulgemeinschaft miteinander erw\u00fcnscht ist.<\/p>"},"id":"5b2eeb5c-7dca-43e5-b1ba-5c60dc378933","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["workout.jpg"],"src":"","alt":"","caption":"Das erste Workout f\u00fcr zu Hause","link":"","ratio":"","crop":"false"},"id":"e4712a5b-2c40-47ec-a3c3-20a9d497b2d1","isHidden":false,"type":"image"},{"content":{"images":["airtrack-einrollen.jpeg","besprechung-draussen.jpeg","besprechung-drinnen.jpeg","kooperationsspiel-vorbereitungen.jpeg","matterhorn-aufbau.jpeg"]},"id":"4e541621-5af0-41fd-81d8-a233e426d60e","isHidden":false,"type":"gallery"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- ausbildung-2019_2020.pdf
+- >
+  nwz-ueber-die-schulsportassistent.innen-2020_03_03.pdf
+- halloween-aktion-elternbrief.pdf
+- halloween-aktion-plakat.pdf
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 

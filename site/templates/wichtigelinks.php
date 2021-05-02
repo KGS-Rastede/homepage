@@ -7,9 +7,7 @@
 
 <div class="container">
   <div class="row align-items-start">
-    <div class="col-xl-5">
-
-
+    <div class="col-xl-2">
       <div class="table-responsive">
         <table class="table">
           <thead>
@@ -42,7 +40,7 @@
       </div>
     </div>
 
-    <div class="col-xl-5">
+    <div class="col-xl-2">
       <div class="table-responsive">
         <table class="table">
           <thead>
@@ -53,6 +51,37 @@
           <tbody>
 
             <?php foreach ($page->Schule()->toFiles() as $datei) : ?>
+              <tr>                
+                <td>
+                  <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>
+                  <a href="<?= $datei->url() ?>" class="text-decoration-none">
+                    <?= $datei->Anzeigename()->or($datei->name()) ?>
+                  </a>
+
+                  <?php if ($datei->Startseite() == 'true') : ?>
+                    <i class="bi bi-lightning-fill"></i>
+                  <?php endif ?>
+                </td>
+              </tr>
+            <?php endforeach ?>
+
+          </tbody>
+        </table>
+
+      </div>
+    </div>
+
+    <div class="col-xl-2">
+      <div class="table-responsive">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Datenschutz</th>
+            </tr>
+          </thead>
+          <tbody>
+
+            <?php foreach ($page->Datenschutz()->toFiles() as $datei) : ?>
               <tr>                
                 <td>
                   <span class="badge bg-light me-1 text-uppercase"><?= $datei->extension() ?></span>

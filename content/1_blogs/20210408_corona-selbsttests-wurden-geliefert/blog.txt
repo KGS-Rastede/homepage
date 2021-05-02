@@ -1,0 +1,37 @@
+Title: Corona-Selbsttests wurden geliefert
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Anders als noch vor den Osterferien bekanntgegeben finden die Corona-Schnelltests nun zweimal w\u00f6chentlich zu Hause statt. Am Montag, den 12. April, geben wir die Tests dezentral und zu bestimmten Zeiten aus. Jede Sch\u00fclerin und jeder Sch\u00fcler kommt im angegebenen Zeitfenster zur n\u00e4chstgelegenen Ausgabestelle und nimmt einen Test mit nach Hause. Selbstverst\u00e4ndlich darf man f\u00fcr Mitsch\u00fcler, die in der Nachbarschaft wohnen, mitnehmen.<\/p><p>Man w\u00e4hlt die Ausgabestelle, die dem eigenen Wohnort am n\u00e4chsten gelegen ist:<\/p>"},"id":"e561778a-cbce-43c6-ad78-3b561585d60c","isHidden":false,"type":"text"},{"content":{"text":"","tabellehead":null,"tabellebody":[["Rastede, westlich der Oldenburger Stra\u00dfe","KGS Feldbreite (Jg. 5 und 6), Schulhof "],["Rastede, westlich der Oldenburger Stra\u00dfe","KGS Wilhelmstra\u00dfe (Jg. 7 -13), Schulhof"],["Rastede, \u00f6stlich der Oldenburger Stra\u00dfe; Kleibrok etc.","Marktplatz in Rastede"],["Loy","vor der Feuerwehr Loy"],["Hahn-Lehmden","Dorfplatz in Hahn-Lehmden"],["Wahnbek","Parkplatz Sportplatz, Am Sportplatz"],["Metjendorf","Mehrgenerationenhaus CASA, Am Marktplatz 1"],["Wiefelstede","Swemmbad Wiefelstede, Alter Damm 11"]]},"id":"707e9726-415d-4c08-b4fb-f170cde9420a","isHidden":false,"type":"tabelle"},{"content":{"text":"<p>   DIe Ausgabe erfolgt nach Jahrg\u00e4ngen:<\/p>"},"id":"0d99efbc-1ec2-45f9-a44e-4762501f5bfd","isHidden":false,"type":"text"},{"content":{"text":"Die Ausgabe erfolgt nach Jahrg\u00e4ngen:","tabellehead":null,"tabellebody":[["Zeit","9.00 - 9.25","9.30 - 9.55","10.00 - 10.25","10.30 - 10.55","11.00 - 11.25","11.30 - 11.55","12.00 - 12.25","12.30 - 12.55","13-00 - 13.25"],["Jg.","5","6","7","8","9","10","11","12","13"]]},"id":"3f2300ba-fa9b-4c1b-88a1-ad32cb622f24","isHidden":false,"type":"tabelle"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-04-08 00:00:00
+
+----
+
+Datumstartseite: 2021-04-11 00:00:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Corona, Schnelltests
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: 

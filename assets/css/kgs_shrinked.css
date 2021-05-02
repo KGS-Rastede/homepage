@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* import only the necessary Bootstrap files */
-/* -------begin customization-------- */
+/* ------- begin customization -------- */
+/* ------------------------------------ */
 @font-face {
   font-family: "Pangea";
   src: url("Pangea-LightWeb.woff2");
@@ -41,6 +42,7 @@
   src: local("Pangea-BoldWeb"), local("Pangea-BoldWeb"), url("./Pangea-BoldWeb.woff2") format("woff2");
   font-display: swap;
 }
+/* === Bootstrap Variablen und Klassen anpassen bzw. überschreiben === */
 .main {
   margin-top: 30px;
 }
@@ -53,20 +55,6 @@
   position: static !important;
 }
 
-.honeypot {
-  position: absolute;
-  left: -9999px;
-}
-
-.text-umbruch {
-  white-space: normal !important;
-}
-
-@media (min-width: 576px) {
-  .text-sm-kein-umbruch {
-    white-space: nowrap !important;
-  }
-}
 code {
   background-color: #e7e7e7;
   padding: 0.1rem;
@@ -77,6 +65,37 @@ code {
 
 .code-wrapper {
   background-color: #e7e7e7;
+}
+
+/* =============== Eigene Klassen ergänzen ========================== */
+.text-umbruch {
+  white-space: normal !important;
+}
+
+@media (min-width: 576px) {
+  .text-sm-kein-umbruch {
+    white-space: nowrap !important;
+  }
+}
+.honeypot {
+  position: absolute;
+  left: -9999px;
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /*==================================
@@ -189,6 +208,7 @@ code {
 }
 
 /* -------end customization-------- */
+/* -------------------------------- */
 /* finally, import Bootstrap to set the changes! */
 /*!
  * Bootstrap v5.0.0-beta3 (https://getbootstrap.com/)
@@ -339,6 +359,10 @@ ul ul,
 ol ul,
 ul ol {
   margin-bottom: 0;
+}
+
+dt {
+  font-weight: 700;
 }
 
 b,
@@ -752,6 +776,11 @@ progress {
     width: 66.6666666667%;
   }
 
+  .col-md-10 {
+    flex: 0 0 auto;
+    width: 83.3333333333%;
+  }
+
   
 .gx-md-2 {
     --bs-gutter-x: 0.5rem;
@@ -773,6 +802,11 @@ progress {
     flex: 0 0 auto;
     width: 41.6666666667%;
   }
+
+  .col-lg-8 {
+    flex: 0 0 auto;
+    width: 66.6666666667%;
+  }
 }
 @media (min-width: 1200px) {
 
@@ -786,14 +820,19 @@ progress {
     width: 25%;
   }
 
+  .col-xl-2 {
+    flex: 0 0 auto;
+    width: 16.6666666667%;
+  }
+
   .col-xl-4 {
     flex: 0 0 auto;
     width: 33.3333333333%;
   }
 
-  .col-xl-5 {
+  .col-xl-7 {
     flex: 0 0 auto;
-    width: 41.6666666667%;
+    width: 58.3333333333%;
   }
 
   .col-xl-8 {
@@ -820,6 +859,11 @@ progress {
     flex: 0 0 auto;
     width: 33.3333333333%;
   }
+
+  .col-xxl-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
 }
 .table {
   --bs-table-bg: transparent;
@@ -833,12 +877,12 @@ progress {
   margin-bottom: 1rem;
   color: #212529;
   vertical-align: top;
-  border-color: #dee2e6;
+  border-color: #c6cace;
 }
 .table > :not(caption) > * > * {
   padding: 0.5rem 0.5rem;
   background-color: var(--bs-table-bg);
-  border-bottom-width: 1px;
+  border-bottom-width: 3px;
   box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
 }
 .table > tbody {
@@ -2346,10 +2390,6 @@ textarea.form-control-lg {
   height: 100%;
 }
 
-.ratio-16x9 {
-  --bs-aspect-ratio: calc(9 / 16 * 100%);
-}
-
 .stretched-link::after {
   position: absolute;
   top: 0;
@@ -2583,6 +2623,11 @@ textarea.form-control-lg {
 .px-2 {
   padding-right: 0.5rem !important;
   padding-left: 0.5rem !important;
+}
+
+.py-2 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
 }
 
 .py-4 {

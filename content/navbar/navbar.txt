@@ -59,14 +59,6 @@ Navbar:
       icon: tools
     - 
       isexternal: 'false'
-      linktitle: Beratungslehrkräfte
-      pagelink:
-        - unterricht/beratung
-      externallink: ""
-      trennstrich: 'false'
-      icon: "chat-dots"
-    - 
-      isexternal: 'false'
       linktitle: Schülervertretung (SV)
       pagelink:
         - sv/die_sv
@@ -276,6 +268,14 @@ Navbar:
       externallink: ""
       trennstrich: 'false'
       icon: people
+    - 
+      isexternal: 'false'
+      linktitle: Schulsportassitenten
+      pagelink:
+        - unterricht/schulsport
+      externallink: ""
+      trennstrich: 'false'
+      icon: flower1
     - 
       isexternal: 'false'
       linktitle: BO-Coaches

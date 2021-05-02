@@ -1,0 +1,37 @@
+Title: Bienvenue! und ¡Bienvenidos!
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>So werden die teilnehmenden Sch\u00fclerinnen sowie die zahlreichen Zuh\u00f6rerinnen aus den 7. Klassen von den Vorjahressiegern jedes Jahr zum Fremdsprachen-Vorlesewettbewerb Franz\u00f6sisch u. Spanisch begr\u00fc\u00dft. Wer im Klassen- bzw. Kursverband den zuvor von den FachlehrerInnen durchgef\u00fchrten Vorlesewettbewerb Franz\u00f6sisch\/Spanisch gewonnen hat, darf sein K\u00f6nnen auf Schulebene zeigen und auf den Sieg hoffen. Unsicherheit? Anspannung? Aufgeregt-Sein? \u2013 Davon ist oft nur wenig zu sp\u00fcren, obwohl es gar nicht so einfach ist, in der Fremdsprache vor Publikum zu lesen.<\/p>"},"id":"396b5ca6-0f76-4301-94ea-984f3173db90","isHidden":false,"type":"text"},{"content":{"text":"<strong>Bienvenue! und \u00a1Bienvenidos!<\/strong>","citation":null},"id":"ae30cfbe-227a-48dd-a1a2-ba04a9d6a0a0","isHidden":false,"type":"quote"},{"content":{"text":"<p>Die Lekt\u00fcre des selbst gew\u00e4hlten und ge\u00fcbten Lehrwerktextes oder Romanauszugs erfolgt immer mit sehr viel Elan, so dass die Jury \u2013 zusammengesetzt aus den Fachlehrkr\u00e4ften sowie den Vorjahressiegerinnen \u2013 es gar nicht so leicht hat zu entscheiden, wer nun am besten vorgetragen hat. W\u00e4hrend der Juryentscheidungen wird auch das Publikum sprachlich gefordert, z.B. indem die Zuschauerinnen sich in beiden Fremdsprachen begr\u00fc\u00dfen, vorstellen oder auch singen.<\/p><p>Bei der abschlie\u00dfenden Siegerehrung mit kleinen Pr\u00e4senten f\u00fcr alle gibt es immer viele strahlende Gesichter, denn dabei gewesen zu sein und den Applaus f\u00fcr die erbrachte Leistung zu genie\u00dfen, ist doch der sch\u00f6nste Preis, den man f\u00fcr sein Bem\u00fchen erhalten kann.<\/p><p>F\u00fcr weiterf\u00fchrende Fragen: <a href=\"mailto:wht@kgs-rastede.eu\" rel=\"noopener noreferrer nofollow\">wht@kgs-rastede.eu<\/a>, <a href=\"mailto:bmg@kgs-rastede.eu\" rel=\"noopener noreferrer nofollow\">bmg@kgs-rastede.eu<\/a><\/p>"},"id":"31da188a-a5d0-4961-8eb1-959da82b9f2a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-04-22 00:00:00
+
+----
+
+Datumstartseite: 2021-08-22 00:00:00
+
+----
+
+Author: Kirstin Westerholt
+
+----
+
+Tags: Wettbewerb, Spanisch, Französisch
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

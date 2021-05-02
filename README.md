@@ -61,7 +61,7 @@ Ich verwende [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/).
 Wenn [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/) bereits installiert sein solte, aber noch auf einer Älteren PHP Version läuft, kann man dies ganz einfach wie [HIER](http://blog.astemplates.com/change-php-version-wamp/) beschrieben auf PHP 7.4.0 ändern. 
 
 ## PHP (muss eigentlich nicht direkt installiert werden, kommt mit dem Webserver)
-Kibry setzt technisch gesehen nur PHP 7.3+ voraus, dennoch ist PHP 7.4 zu empfehlen.
+Kirby setzt technisch gesehen nur PHP 7.3+ voraus, dennoch ist PHP 7.4 zu empfehlen.
 
 Man muss PHP aber nicht direkt installieren, denn PHP kommt als Teil vom Wamp64 mit.
 
