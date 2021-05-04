@@ -1,0 +1,37 @@
+Title: Zur Technik der neuen Homepage
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>In diesem Artikel m\u00f6chten wir die Technik der neuen Homepage darstellen. Vielleicht motiviert das den einen oder anderen, sich mit Homepagegestaltung- und programmierung auseinanderzusetzen\u2026<\/p>"},"id":"49f96f8f-1177-4ebf-9805-8993151ca42d","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Die alten Homepage"},"id":"f085b860-e3d9-4cac-a97a-b04b1bdc66c6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Bis Ende 2020 war die Homepage mit dem <a href=\"https:\/\/www.joomla.de\/\" target=\"_blank\" title=\"CMS Joomla\" rel=\"noopener noreferrer nofollow\">CMS Joomla<\/a> erstellt. <\/p>"},"id":"4f363c54-80d7-4823-b61b-a448baa4ffea","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Das neue CMS"},"id":"8652e17a-cb1e-498e-9772-0f2114491f80","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die neue Homepage verwendet als CMS <a href=\"https:\/\/getkirby.com\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Kirby<\/a>. Dabei handelt es sich\u2026<\/p>"},"id":"7e6154d8-c47e-4bbc-b379-672344715303","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-05-04 10:30:00
+
+----
+
+Datumstartseite: 2021-06-30 10:30:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Homepage, Informatik
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
