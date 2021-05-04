@@ -44,6 +44,7 @@ columns:
               - tabelle
               - gastautor
               - quote
+              - karousel
           gallery:
             type: files
             uploads: blogbild
