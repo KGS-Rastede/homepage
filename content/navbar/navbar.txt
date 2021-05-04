@@ -270,7 +270,7 @@ Navbar:
       icon: people
     - 
       isexternal: 'false'
-      linktitle: Schulsportassitenten
+      linktitle: Schulsportassistenten
       pagelink:
         - unterricht/schulsport
       externallink: ""
