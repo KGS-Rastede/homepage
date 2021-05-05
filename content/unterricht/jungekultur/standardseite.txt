@@ -1,0 +1,49 @@
+Title: Junge Kultur e.V.
+
+----
+
+Heading: 
+
+----
+
+Text: []
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar:
+
+- 
+  link: https://nibis.de/inklusive-schule_10225
+  name: Übersicht vom Ministerium
+- 
+  link: >
+    https://www.mk.niedersachsen.de/startseite/schule/inklusive_schule/stand-der-einfuehrung-175285.html
+  name: Stand der Einführung
+- 
+  link: >
+    https://www.landesschulbehoerde-niedersachsen.de/themen/schulorganisation/inklusion
+  name: Landesschulbehörde
+
+----
+
+Toggle: true
