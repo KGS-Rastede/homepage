@@ -1,4 +1,4 @@
-Title: navbar
+Title: Menü. Bezeichnungen
 
 ----
 
@@ -235,6 +235,14 @@ Navbar:
       externallink: ""
       trennstrich: 'false'
       icon: globe
+    - 
+      isexternal: 'false'
+      linktitle: Junge Kultur
+      pagelink:
+        - unterricht/jungekultur
+      externallink: ""
+      trennstrich: 'false'
+      icon: music-note-beamed
     - 
       isexternal: 'false'
       linktitle: Herausforderungsprojekt
