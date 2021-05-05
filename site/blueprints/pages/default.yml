@@ -16,6 +16,22 @@ columns:
         label: Text
         type: blocks
         size: large
+        fieldsets:
+            - heading
+            - text
+            - list
+            - image
+            - gallery
+            - video
+            - local-video
+            - code
+            - markdown
+            - audio
+            - horizontale-linie
+            - tabelle
+            - gastautor
+            - quote
+            - karousel
   sidebar:
     width: 1/3
     fields:
