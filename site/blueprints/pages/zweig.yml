@@ -20,31 +20,3 @@ columns:
           text:
             label: Inhalt
             type: blocks
-          gallery:
-            type: files
-            label: Bilder zum Fach
-            layout: cards
-            image:
-              cover: true
-              ratio: 1/1
-  sidebar:
-    width: 1/3
-    sticky: true
-    sections:
-      meta:
-        meta:
-        type: fields
-        fields:
-          sidebar:
-            label: Weiterführende Links
-            type: structure
-            fields:
-              link:
-                label: Link (URL)
-                type: url
-              name:
-                label: Bezeichnung des Links
-                type: text
-
-        
-      
