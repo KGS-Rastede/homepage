@@ -23,7 +23,7 @@
         <a href="<?= page('beratungskonzept/sozialpaedagogen')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
           <i class="bi bi-chat-square-dots"></i> Sozialpädagog:innen
         </a>
-        <a href="<?= page('beratungskonzept/beratung-praevention-der-schule')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
+        <a href="<?= page('beratungskonzept/beratung-und-praevention-in-der-schule')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
           <i class="bi bi-chat-square-dots"></i> Beratung und Prävention der Schule
         </a>
       </div>
