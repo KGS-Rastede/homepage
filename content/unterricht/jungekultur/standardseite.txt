@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: []
+Text: [{"content":{"text":""},"id":"1cb8c1aa-15a3-4413-88e3-5fc5da4cbdd7","isHidden":false,"type":"text"}]
 
 ----
 
