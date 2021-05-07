@@ -1,4 +1,4 @@
-Title: Kulturelles
+Title: Kultur
 
 ----
 
@@ -6,28 +6,7 @@ Heading:
 
 ----
 
-Text:
-
-[
-    {
-        "attrs": [],
-        "content": "Diese Seite ist noch nicht fertig",
-        "id": "_50285o7gw",
-        "type": "h1"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/schule+abschluesse/files/baustelle.jpg",
-            "id": "schule/abschluesse/baustelle.jpg",
-            "filename": "baustelle.jpg",
-            "ratio": 1.335113484646195,
-            "caption": ""
-        },
-        "content": "",
-        "id": "_pl8ep1hhz",
-        "type": "image"
-    }
-]
+Text: [{"content":{"level":"h1","text":"Diese Seite ist noch nicht fertig"},"id":"271fb880-346e-4e0c-b36e-3b014c132476","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["kultur-kgs.png"],"src":"","alt":"","caption":"","link":"","ratio":"5\/3","crop":"false"},"id":"769dc4ee-dca2-4f72-b727-9c9505d2fca4","isHidden":false,"type":"image"}]
 
 ----
 
