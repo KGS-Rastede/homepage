@@ -160,6 +160,14 @@ Navbar:
       icon: journal-text
     - 
       isexternal: 'false'
+      linktitle: Profile und Wahlen
+      pagelink:
+        - schule/wahlen
+      externallink: ""
+      trennstrich: 'true'
+      icon: shield-check
+    - 
+      isexternal: 'false'
       linktitle: Zuständigkeiten / Organigramm
       pagelink:
         - schule/organigramm
@@ -197,14 +205,6 @@ Navbar:
       icon: easel
     - 
       isexternal: 'false'
-      linktitle: Berufsorientierung
-      pagelink:
-        - unterricht/berufsorientierung
-      externallink: ""
-      trennstrich: 'false'
-      icon: signpost-split
-    - 
-      isexternal: 'false'
       linktitle: Schülerfirmen
       pagelink:
         - unterricht/schuelerfirmen
@@ -213,20 +213,45 @@ Navbar:
       icon: shop
     - 
       isexternal: 'false'
-      linktitle: Beratung
+      linktitle: Berufliche Orientierung
       pagelink:
-        - unterricht/beratung
+        - unterricht/berufsorientierung
       externallink: ""
       trennstrich: 'false'
-      icon: chat-dots
+      icon: signpost-split
     - 
       isexternal: 'false'
       linktitle: Inklusion
       pagelink:
         - unterricht/inklusion
       externallink: ""
-      trennstrich: 'true'
+      trennstrich: 'false'
       icon: door-open
+    - 
+      isexternal: 'false'
+      linktitle: Beratung und Prävention
+      pagelink:
+        - unterricht/beratung
+      externallink: ""
+      trennstrich: 'true'
+      icon: chat-dots
+    - 
+      isexternal: 'false'
+      linktitle: 'Schule ohne Rassismus - Schule mit Courage'
+      pagelink:
+        - >
+          unterricht/schule-ohne-rassismus-schule-mit-courage
+      externallink: ""
+      trennstrich: 'false'
+      icon: peace
+    - 
+      isexternal: 'false'
+      linktitle: Herausforderungsprojekt
+      pagelink:
+        - unterricht/herausforderungsprojekt
+      externallink: ""
+      trennstrich: 'true'
+      icon: lightbulb
     - 
       isexternal: 'false'
       linktitle: Kultur
@@ -237,28 +262,12 @@ Navbar:
       icon: globe
     - 
       isexternal: 'false'
-      linktitle: Junge Kultur
+      linktitle: Junge Kultur e.V.
       pagelink:
         - unterricht/jungekultur
       externallink: ""
-      trennstrich: 'false'
+      trennstrich: 'true'
       icon: music-note-beamed
-    - 
-      isexternal: 'false'
-      linktitle: Herausforderungsprojekt
-      pagelink:
-        - unterricht/herausforderungsprojekt
-      externallink: ""
-      trennstrich: 'false'
-      icon: lightbulb
-    - 
-      isexternal: 'false'
-      linktitle: Wettbewerbe
-      pagelink:
-        - unterricht/wettbewerbe
-      externallink: ""
-      trennstrich: 'false'
-      icon: trophy
     - 
       isexternal: 'false'
       linktitle: Arbeitsgemeinschaften
@@ -269,13 +278,28 @@ Navbar:
       icon: collection
     - 
       isexternal: 'false'
-      linktitle: 'Schule ohne Rassismus - Schule mit Courage'
+      linktitle: Wettbewerbe
       pagelink:
-        - >
-          unterricht/schule-ohne-rassismus-schule-mit-courage
+        - unterricht/wettbewerbe
       externallink: ""
       trennstrich: 'true'
+      icon: trophy
+    - 
+      isexternal: 'false'
+      linktitle: "AG 'Für den Frieden'"
+      pagelink:
+        - unterricht/ag-frieden
+      externallink: ""
+      trennstrich: 'false'
       icon: peace
+    - 
+      isexternal: 'false'
+      linktitle: Streitschlichter
+      pagelink:
+        - unterricht/streitschlichter
+      externallink: ""
+      trennstrich: 'false'
+      icon: chat-left-text
     - 
       isexternal: 'false'
       linktitle: Schulsanitätsdienst
@@ -294,7 +318,9 @@ Navbar:
       icon: flower1
     - 
       isexternal: 'false'
-      linktitle: BO-Coaches
+      linktitle: >
+        BO-Coaches. Hilfe bei der
+        Berufsorientierung
       pagelink:
         - unterricht/bo-coaches
       externallink: ""
@@ -308,22 +334,6 @@ Navbar:
       externallink: ""
       trennstrich: 'false'
       icon: suit-heart
-    - 
-      isexternal: 'false'
-      linktitle: Streitschlichter
-      pagelink:
-        - unterricht/streitschlichter
-      externallink: ""
-      trennstrich: 'false'
-      icon: chat-left-text
-    - 
-      isexternal: 'false'
-      linktitle: "AG 'Für den Frieden'"
-      pagelink:
-        - unterricht/ag-frieden
-      externallink: ""
-      trennstrich: 'false'
-      icon: peace
 - 
   dropdowntoggle: 'true'
   kategorietitel: 'Service & Downloads'
