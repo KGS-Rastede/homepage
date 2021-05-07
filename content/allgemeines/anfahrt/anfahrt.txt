@@ -6,29 +6,11 @@ Main-text: So erreichen Sie uns
 
 ----
 
-Adresse-s1:
-
-[
-    {
-        "attrs": [],
-        "content": "Hauptgebäude: Jahrgänge 7-13<br>Wilhelmstraße 5<br>26180 Rastede",
-        "id": "_1wvsew9z5",
-        "type": "paragraph"
-    }
-]
+Adresse-s1: [{"content":{"text":"Hauptgeb\u00e4ude: Jahrg\u00e4nge 7-13<br>Wilhelmstra\u00dfe 5<br>26180 Rastede"},"id":"3025c392-f192-4720-835d-e8659be5a77a","isHidden":false,"type":"text"}]
 
 ----
 
-Adresse-s2:
-
-[
-    {
-        "attrs": [],
-        "content": "Feldbreite: Jahrgänge 5-6<br>Feldbreite 16<br>26180 Rastede",
-        "id": "_0cb0jiv6k",
-        "type": "paragraph"
-    }
-]
+Adresse-s2: [{"content":{"text":"Feldbreite: Jahrg\u00e4nge 5-6<br>Feldbreite 16<br>26180 Rastede"},"id":"18f02a10-3b63-4d5c-8679-7ca9bb52425c","isHidden":false,"type":"text"}]
 
 ----
 
@@ -36,26 +18,8 @@ Anfahrt-text: Beide Standorte können vom Bahnhof Rastede zu Fuß errreicht werd
 
 ----
 
-Anfahrt-text-s1:
-
-[
-    {
-        "attrs": [],
-        "content": "Der Hauptstandort kann ebenfalls mit dem Bus erreicht werden. Haltestelle: Abzw. Bahnhofstraße.<br>Mit dem Auto können Sie von der Oldenburger Straße in die Bahnhofstraße fahren und von dort aus den Parkplatz der Aula erreichen.",
-        "id": "_yws0cnq56",
-        "type": "paragraph"
-    }
-]
+Anfahrt-text-s1: [{"content":{"text":"Der Hauptstandort kann ebenfalls mit dem Bus erreicht werden. Haltestelle: Abzw. Bahnhofstra\u00dfe.<br>Mit dem Auto k\u00f6nnen Sie von der Oldenburger Stra\u00dfe in die Bahnhofstra\u00dfe fahren und von dort aus den Parkplatz der Aula erreichen."},"id":"8503bb92-125d-4b45-9b33-42af0ee2d56f","isHidden":false,"type":"text"}]
 
 ----
 
-Anfahrt-text-s2:
-
-[
-    {
-        "attrs": [],
-        "content": "Den Parkplatz der Feldbreite können Sie erreichen, indem Sie von der Oldenburgerstraße auf die Schloßstraße fahren und von dort aus links in die Feldbreite. Der Parkplatz befindet sich dann an der rechten Seite.",
-        "id": "_lgn3z9ia1",
-        "type": "paragraph"
-    }
-]
+Anfahrt-text-s2: [{"content":{"text":"<p>Den Parkplatz der Feldbreite k\u00f6nnen Sie erreichen, indem Sie von der Oldenburger Stra\u00dfe auf die Schlo\u00dfstra\u00dfe fahren und von dort aus links in die Feldbreite. Der Parkplatz befindet sich dann an der rechten Seite.<\/p>"},"id":"72c88fd6-fb6f-4da9-a531-4371516f9f0d","isHidden":false,"type":"text"}]
