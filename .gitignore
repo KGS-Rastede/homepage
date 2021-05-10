@@ -18,6 +18,8 @@ Icon
 # Cache Files
 # ---------------
 
+/assets/kalender/cache.txt
+/assets/kalender/public.ics
 /site/cache/*
 !/site/cache/index.html
 /assets/rki_numbers_brd.json

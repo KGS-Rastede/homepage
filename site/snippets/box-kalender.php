@@ -19,7 +19,12 @@
 <script src='https://github.com/mozilla-comm/ical.js/releases/download/v1.4.0/ical.js'></script>
 <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar/main.global.js'></script>
 
-
+<?php include('./assets/kalender/kalender-update.php');
+$cache_file = './assets/kalender/cache.txt';
+$ics_file = './assets/kalender/public.ics';
+$update = new kalender_update($cache_file, $ics_file);
+$result = $update->checkForUpdate();
+?>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
@@ -73,6 +78,13 @@
 
 <span class="font-size-1 font-size-sm-1-2">
     <div class="card bg-primary mt-5 mb-3">
+
+        <?php if ($result == false) : ?>
+            <div class="container d-flex justify-content-center">
+                <p class="mt-2 text-danger">Der Kalender ist möglicherweise nicht aktuell!</p>
+            </div>
+        <?php endif ?>
+        
         <div id='calendar'></div>
     </div>
 </span>
