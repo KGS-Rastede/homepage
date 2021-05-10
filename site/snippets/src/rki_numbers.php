@@ -52,6 +52,21 @@ class Incidence_local
             $c['cached'] = false;
             return $c;
         }
+        
+        //If cache is not up to date & (server not contactable or server data not up to date)
+        //-> Try to get chache from past 7 days
+        for ($i = 1; $i <= 7; $i++) {    
+            $offset = $offset + $i;      
+            $d = new DateTime("today -" . $offset . "day");            
+            $dt = $d->format('Ymd');
+
+            $cache = $this->getCache($dt);
+
+            if (is_array($cache)) {
+                $cache['cashed'] = true;
+                return $cache;
+            }
+        }
     }
 
     private function getCache(string $dt)
@@ -77,36 +92,34 @@ class Incidence_local
         $remote = new Remote('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=OBJECTID='
         . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json');
 
-        $remote->fetch();
-        $json = $remote->json();
+        if ($remote->code() < 400) { //API erreichbar?
+            $json = $remote->json(); //json anfragen
 
-        if (!isset($json['features'][0]['attributes'])) {
-            return;
-        }
+            if (!isset($json['features'][0]['attributes'])) {
+                return;
+            }
 
-        $data = $json['features'][0]['attributes'];
-        $date = DateTime::createFromFormat("d.m.Y, H:i", str_replace(" Uhr", "", $data['last_update']));
-        $data['ts'] = $date->format("U");
-        $set = $this->setCache($data);
-        if ($set == $dt) {
-            return $data;
-        } else {
-            return;
+            $data = $json['features'][0]['attributes'];
+            $date = DateTime::createFromFormat("d.m.Y, H:i", str_replace(" Uhr", "", $data['last_update']));
+            $data['ts'] = $date->format("U");
+            $set = $this->setCache($data);
+            if ($set == $dt) {
+                return $data;
+            } else {
+                return;
+            }
         }
+        else 
+            return;
     }
 
     private function setCache($data)
     {
-        $f = @file_get_contents($this->cache_file);
-        if ($f == false) {
-            $old = [];
-        } else {
-            $old = json_decode($f, true);
-        }
         $date = DateTime::createFromFormat("d.m.Y, H:i", str_replace(" Uhr", "", $data['last_update']));
         $key = $date->format("Ymd");
-        $old[$key] = $data;
-        file_put_contents($this->cache_file, json_encode($old));
+        $array = [];
+        $array[$key] = $data;
+        file_put_contents($this->cache_file, json_encode($array));
         return $key;
     }
 }
@@ -126,9 +139,10 @@ class Incidence_brd
     ];
 
 
-    public function __construct(int $ri, string $cache_file)
+    public function __construct(int $ri, string $cache_file, string $chache_file_local)
     {
         $this->cache_file = $cache_file;
+        $this->last_updated_file = $chache_file_local; //Datei mit lokalen / Landkreis Daten um last updated zu ermitteln
         $this->region_id = $ri;
     }
 
@@ -146,6 +160,22 @@ class Incidence_brd
         if (is_array($c)) {
             $c['cached'] = false;
             return $c;
+        }
+
+        
+        //If cache is not up to date & (server not contactable or server data not up to date)
+        //-> Try to get chache from past 7 days
+        for ($i = 1; $i <= 7; $i++) {    
+            $offset = $offset + $i;      
+            $d = new DateTime("today -" . $offset . "day");            
+            $dt = $d->format('Ymd');
+
+            $cache = $this->getCache($dt);
+
+            if (is_array($cache)) {
+                $cache['cashed'] = true;
+                return $cache;
+            }
         }
     }
 
@@ -172,36 +202,43 @@ class Incidence_brd
         $remote = new Remote('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/rki_key_data_v/FeatureServer/0/query?where=BundeslandId='
         . $this->region_id . '&outFields=' . $fieldstr . '&returnGeometry=false&outSR=&f=json');
 
-        $remote->fetch();
-        $json = $remote->json();
+        if ($remote->code() < 400) { //API erreichbar?
+            $json = $remote->json(); //json anfragen
 
-        if (!isset($json['features'][0]['attributes'])) {
+            if (!isset($json['features'][0]['attributes'])) {
+                return;
+            }
+
+            $data = $json['features'][0]['attributes'];           
+            $utd = $this->isUpToDate($dt); //gibt es bei local_zahlen einen Eintrag für den heutigen Tag? Uptodate?
+            if ($utd) {
+                $this->setCache($data, $dt);
+                return $data;
+            } else {
+                return;
+            }
+        }
+    }
+
+    private function isUpToDate($dt) //in BRD Zahlen gibt es keine 'last_updated' deshalb aus local Zahlen auslesen
+    {
+        $f = @file_get_contents($this->last_updated_file);
+        if ($f == false) { //Datei vorhanden?
             return;
         }
 
-        $data = $json['features'][0]['attributes'];
-        $d = new DateTime("today -" . 0 . " day");
-        $date = $d->format('Ymd');
-        $set = $this->setCache($data);
-        if ($set == $dt) {
-            return $data;
+        $data = json_decode($f, true);
+        if (isset($data[$dt])) { //Eintrag für das Datum von heute?
+            return true;
         } else {
             return;
         }
     }
 
-    private function setCache($data)
-    {
-        $f = @file_get_contents($this->cache_file);
-        if ($f == false) {
-            $old = [];
-        } else {
-            $old = json_decode($f, true);
-        }
-        $date = new DateTime("today -" . 0 . " day");
-        $key = $date->format("Ymd");
-        $old[$key] = $data;
-        file_put_contents($this->cache_file, json_encode($old));
-        return $key;
+    private function setCache($data, $key)
+    {        
+        $array = [];
+        $array[$key] = $data;
+        file_put_contents($this->cache_file, json_encode($array));
     }
 }
