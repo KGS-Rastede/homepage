@@ -820,11 +820,6 @@ progress {
     width: 25%;
   }
 
-  .col-xl-2 {
-    flex: 0 0 auto;
-    width: 16.6666666667%;
-  }
-
   .col-xl-4 {
     flex: 0 0 auto;
     width: 33.3333333333%;
