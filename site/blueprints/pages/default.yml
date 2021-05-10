@@ -38,3 +38,4 @@ columns:
       downloads:
         label: Verknüpfte Dateien
         type: files
+        uploads: datei
