@@ -7,7 +7,7 @@
 
 <div class="container">
   <div class="row align-items-start">
-    <div class="col-xl-2">
+    <div class="col-xl-4">
       <div class="table-responsive">
         <table class="table">
           <thead>
@@ -36,7 +36,7 @@
       </div>
     </div>
 
-    <div class="col-xl-2">
+    <div class="col-xl-4">
       <div class="table-responsive">
         <table class="table">
           <thead>
@@ -63,7 +63,7 @@
       </div>
     </div>
 
-    <div class="col-xl-2">
+    <div class="col-xl-4">
       <div class="table-responsive">
         <table class="table">
           <thead>
