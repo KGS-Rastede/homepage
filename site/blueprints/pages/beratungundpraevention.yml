@@ -5,10 +5,17 @@ templates: fach
 
 sections:
   pages:
-    headline: Fächer
-    info: "Tag: {{page.haupttag}}"
+    headline: Beratungsaspekte
   content:
     type: fields
     fields:
       files:
-        label: Bilder zu den Fachbereichen
+        label: Bilder Beratungstypen
+      beratungstyp:
+        label: Beratungstypus
+        type: blocks
+        fieldsets:
+              - beratungstyp
+
+
+

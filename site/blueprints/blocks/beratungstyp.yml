@@ -1,0 +1,14 @@
+# /site/blueprints/blocks/audio.yml
+name: Beratungstypus
+icon: file-audio
+label: "{{ name }} - {{ creator }}"
+fields:
+  name:
+    type: text
+  kurzbeschreibung:
+    type: writer
+  unterseite:
+    label: Verweis auf Unterseite
+    type: pages
+    min: 1
+    query: site.find('beratungskonzept')
