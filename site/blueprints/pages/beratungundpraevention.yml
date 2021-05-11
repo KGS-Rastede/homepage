@@ -9,8 +9,6 @@ sections:
   content:
     type: fields
     fields:
-      files:
-        label: Bilder Beratungstypen
       beratungstyp:
         label: Beratungstypus
         type: blocks

@@ -12,3 +12,7 @@ fields:
     type: pages
     min: 1
     query: site.find('beratungskonzept')
+  bild:
+    type: files
+    max: 1
+    query: page.images
