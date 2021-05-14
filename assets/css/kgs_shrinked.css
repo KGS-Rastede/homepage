@@ -211,7 +211,7 @@ code {
 /* -------------------------------- */
 /* finally, import Bootstrap to set the changes! */
 /*!
- * Bootstrap v5.0.0 (https://getbootstrap.com/)
+ * Bootstrap v5.0.1 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
@@ -862,6 +862,7 @@ progress {
 }
 .table {
   --bs-table-bg: transparent;
+  --bs-table-accent-bg: transparent;
   --bs-table-striped-color: #212529;
   --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
   --bs-table-active-color: #212529;
@@ -945,10 +946,7 @@ progress {
 .form-control[type=file] {
   overflow: hidden;
 }
-.form-control[type=file]:not(:disabled):not(:-moz-read-only) {
-  cursor: pointer;
-}
-.form-control[type=file]:not(:disabled):not(:read-only) {
+.form-control[type=file]:not(:disabled):not([readonly]) {
   cursor: pointer;
 }
 .form-control:focus {
@@ -973,11 +971,7 @@ progress {
   color: #6c757d;
   opacity: 1;
 }
-.form-control:-moz-read-only {
-  background-color: #e9ecef;
-  opacity: 1;
-}
-.form-control:disabled, .form-control:read-only {
+.form-control:disabled {
   background-color: #e9ecef;
   opacity: 1;
 }
@@ -1001,10 +995,7 @@ progress {
     transition: none;
   }
 }
-.form-control:hover:not(:disabled):not(:-moz-read-only)::file-selector-button {
-  background-color: #dde0e3;
-}
-.form-control:hover:not(:disabled):not(:read-only)::file-selector-button {
+.form-control:hover:not(:disabled):not([readonly])::file-selector-button {
   background-color: #dde0e3;
 }
 .form-control::-webkit-file-upload-button {
@@ -1029,7 +1020,7 @@ progress {
     transition: none;
   }
 }
-.form-control:hover:not(:disabled):not(:read-only)::-webkit-file-upload-button {
+.form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button {
   background-color: #dde0e3;
 }
 
