@@ -1,0 +1,10 @@
+Title: Streitschlichter
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://kgs-rastede.de/unterricht/streitschlichter
+  name: ""

@@ -1,0 +1,13 @@
+Title: Hausaufgabenhilfe
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Montags bis Donnerstag bieten wir in den R\u00e4umen der Feldbreite Unterst\u00fctzung bei den Hausaufgaben an. Eltern melden ihr Kind dort an.<\/p><p>Der Hausaufgabenhilfe wird von Lehrkr\u00e4ften, p\u00e4dagogischen Mitarbeiter:innen oder Sch\u00fcler:innen der Arbeitsgemeinschaft angeboten und findet nachmittags von 14:30 - 16:00 Uhr in den R\u00e4umen an der Feldbreite statt. <\/p><p>In der Mittagspause kann ein Mittagessen (kostenpflichtig) eingenommen oder Hausaufgaben erledigt werden; f\u00fcr ein Spieleangebot wird ebenfalls gesorgt.<\/p><p>F\u00fcr angemeldete Sch\u00fcler:innen ist die Teilnahme verpflichtend, da nur eine kontinuierliche Arbeit zu einer Leistungsverbesserung f\u00fchren kann.<\/p>"},"id":"68cdbd2f-b310-410d-ab2b-49b3f3c90084","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 

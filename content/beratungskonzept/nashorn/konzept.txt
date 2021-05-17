@@ -1,0 +1,15 @@
+Title: Balu und Du
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"location":"kirby","image":["balu.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"d5b4a99d-5adb-4dbb-8c0d-b2b95f17de97","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Balu und Du ist ein Mentorenprogramm, das ab dem Schuljahr 2021-22 als Seminarfach in der Sek II angeboten wird."},"id":"343320c5-7fb9-4619-b9f3-229ee1128236","isHidden":false,"type":"heading"},{"content":{"text":"<p>Betreuende Lehrkr\u00e4fte sind Frau Apel (ap@kgs-rastede.eu) und Herr Niebur (nb@kgs-rastede.eu)<\/p>"},"id":"ca2978ed-55c2-4e72-a6a9-c960ce52b117","isHidden":false,"type":"text"}]
+
+----
+
+Downloads:
+
+- top-4-balu-und-du.pdf

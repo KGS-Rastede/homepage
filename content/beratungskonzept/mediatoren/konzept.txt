@@ -1,4 +1,4 @@
-Title: Schüler:innen für Schüler:innen
+Title: Hilfe bei den Hausaufgaben. JG 5-7
 
 ----
 
@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"level":"h2","text":"Wir machen uns f\u00fcr euch stark!"},"id":"ad37b662-e50a-46c1-ab81-f00c008c1a44","isHidden":false,"type":"heading"},{"content":{"text":"<p>Sch\u00fcler:innen engagieren sich vielf\u00e4ltig, um andere zu unterst\u00fctzen.<\/p>"},"id":"ce695239-a04a-4c66-a0c7-dbfd0a18497a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Die Streitschlichter an der Feldbreite"},"id":"7520f0b2-b596-4ad4-8b1b-585a4c4a2171","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["mediatoren-stickerneu.png"],"src":"","alt":"","caption":null,"link":"https:\/\/kgs-rastede.de\/unterricht\/streitschlichter","ratio":"","crop":"false"},"id":"30085826-372c-4529-8ecc-f27461989b61","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Die BO-Coaches"},"id":"464cfd30-ed39-4d27-bcf6-420fbdb8d952","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["logo_bo.png"],"src":"","alt":"","caption":null,"link":"https:\/\/kgs-rastede.de\/unterricht\/bo-coaches","ratio":"","crop":"false"},"id":"b6ba6825-a6c0-4d4c-aa02-e244126d6077","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Das Team f\u00fcr Pausenangebote (JG 5 und 6)"},"id":"20112425-9d63-4d67-8ac6-99c280780950","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["boys-2769553_1920-kopie.png"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"445006eb-e808-4358-aa8e-14a57906fc0e","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Hausaufgabenhilfe"},"id":"e2aba5db-9bb9-4710-a1c4-fa31f67ab039","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"1ee43736-6d27-4158-b0d6-df4f90f68adf","isHidden":false,"type":"image"}]
+Text: [{"content":{"location":"kirby","image":["school-3568390_1920.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"1ee43736-6d27-4158-b0d6-df4f90f68adf","isHidden":false,"type":"image"},{"content":{"text":"<p>Wir unterst\u00fctzen j\u00fcngere Sch\u00fcler:innen bei den Hausaufgaben oder der Vorbereitung auf Klassenarbeiten. Daf\u00fcr werden wir in der Arbeitsgemeinschaft geschult und entwickeln gemeinsam einen Einsatzplan.<\/p>"},"id":"ce695239-a04a-4c66-a0c7-dbfd0a18497a","isHidden":false,"type":"text"},{"content":{"text":"<p>Du m\u00f6chtest mithelfen? Wende dich an Herrn Lehners: leh@kgs-rastede.eu<\/p>"},"id":"3bd363d2-55d5-4bca-a733-ccd4b0ecb43d","isHidden":false,"type":"text"},{"content":{"text":""},"id":"3bc50188-616a-4d4d-af67-9974421b7030","isHidden":false,"type":"text"}]
 
 ----
 

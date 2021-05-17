@@ -1,4 +1,4 @@
-Title: Beratung für Schülerinnen und Schüler
+Title: Gegen Alkohol und Drogen im Straßenverkehr
 
 ----
 
@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"level":"h2","text":"Die Beratung ist freiwillig und unterliegt der Schweigepflicht"},"id":"1a90f22d-1028-472f-aa5b-cc312c522b6c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wir bieten dir Beratung und Unterst\u00fctzung an in diesen aber auch anderen F\u00e4llen:<\/p>"},"id":"4fca1d4d-8b2d-4717-b261-57f9ae853506","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Stress mit Mitsch\u00fclerinnen und Mitsch\u00fclern<\/p><\/li><li><p>Angst vor Klassenarbeiten<\/p><\/li><li><p>Lernschwierigkeiten<\/p><\/li><li><p>Konflikten mit Lehrkr\u00e4ften<\/p><\/li><li><p>Ausgrenzung durch Mitsch\u00fclerinnen und Mitsch\u00fcler<\/p><\/li><li><p>Mobbing<\/p><\/li><li><p>Konflikten im Elternhaus<\/p><\/li><\/ul>"},"id":"fe0945c3-6fa0-499b-b0bd-541c9f72c4ce","isHidden":false,"type":"list"},{"content":{"level":"h5","text":"Melde dich einfach bei uns!"},"id":"9ed1fe72-36ac-4eb0-bb1f-98f3d512ffe4","isHidden":false,"type":"heading"},{"content":{"text":"<p>Frau Eitel-Harms: eh@kgs-rastede.eu<\/p><p>Herr Kayser: ky@kgs-rastede.eu<\/p>"},"id":"7f09a85f-0067-4d5e-b81a-aece3b3d5962","isHidden":false,"type":"text"},{"content":{"text":"<p>Sprechzeiten: siehe Aushang am Beratungsraum R. 219 Wilhelmstra\u00dfe und R 16A Feldbreite<\/p>"},"id":"2fa70fa5-b2a1-41a4-9dbe-77fb14ad5ab8","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p>Die Sch\u00fcler:innen des 10. Jahrgangs nehmen an dem Projekt \u201eDrogen und Alkohohl im Stra\u00dfenverkehr\u201c teil. Durch Vortr\u00e4ge von Richtern sollen Heranwachsende, die an der Schwelle zur motorisierten Verkehrsteilnahme stehen oder bereits motorisiert am Stra\u00dfenverkehr teilnehmen, f\u00fcr die Risiken sensibilisiert werden, die durch die Einnahme von Alkohohl und Drogen entstehen k\u00f6nnen. Aus der Praxis werden dabei Erfahrungen der Gerichte mit auff\u00e4llig gewordenen Fahrzeugf\u00fchrern\/innen, der Polizei sowie versicherungsrechtliche Fragen anschaulich besprochen.<\/p>"},"id":"4fca1d4d-8b2d-4717-b261-57f9ae853506","isHidden":false,"type":"text"}]
 
 ----
 
