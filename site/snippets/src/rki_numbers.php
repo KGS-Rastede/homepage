@@ -42,9 +42,13 @@ class Incidence_local
     // Inzidenzen und andere Informationen werden in einem array zurückgegeben
     public function getDaily($offset = 0) // offset kann benutzt werden, um Daten von vorherigen Tagen zu erhalten
     {
+        date_default_timezone_set('Europe/Berlin'); // Zeitzone richtig festlegen und nicht auf php.ini Einstellung verlassen
         // Es wird ein Datumschlüssel angelegt: 20.01.2021 wird zu 20210120
         $d = new DateTime("today -" . $offset . " day");
         $dt = $d->format('Ymd');
+
+        $t = new DateTime();
+        $hour = $t->format('H'); // aktuelle Stunde im 24 Stundenformat
 
         // Es wird abgefragt, ob ein Cache vorhanden ist, der den Datumschlüssel von heute besitzt
         // ist das der Fall wird das array zurückgegeben
@@ -54,11 +58,14 @@ class Incidence_local
             return $c;
         }
 
-        // gibt es keinen aktuellen Cache werden neue Informationen angefragt, und zurückgegeben
-        $c = $this->fetchData($dt);
-        if (is_array($c)) {
-            $c['cached'] = false;
-            return $c;
+        // nur wenn es nach 6 Uhr ist sollen neue Daten geladen werden, es kann sonst bei der Inzidenz für BRD dazu kommen, dass diese auf dem vorherigen Tag bleibt
+        if ($hour >= 6) { 
+            // gibt es keinen aktuellen Cache werden neue Informationen angefragt, und zurückgegeben
+            $c = $this->fetchData($dt);
+            if (is_array($c)) {
+                $c['cached'] = false;
+                return $c;
+            }
         }
         
         // Wenn der Cache nicht aktuell ist und der Server nicht erreicht werden kann bzw. auch noch nicht aktuell ist
@@ -168,10 +175,13 @@ class Incidence_brd
     // Inzidenzen und andere Informationen werden in einem array zurückgegeben
     public function getDaily($offset = 0)
     {
+        date_default_timezone_set('Europe/Berlin'); // Zeitzone richtig festlegen und nicht auf php.ini Einstellung verlassen
         // Es wird ein Datumschlüssel angelegt: 20.01.2021 wird zu 20210120
         $d = new DateTime("today -" . $offset . " day");
         $dt = $d->format('Ymd');
 
+        $t = new DateTime();
+        $hour = $t->format('H'); // aktuelle Stunde im 24 Stundenformat
         
         // Es wird abgefragt, ob ein Cache vorhanden ist, der den Datumschlüssel von heute besitzt
         // ist das der Fall wird das array zurückgegeben
@@ -181,13 +191,15 @@ class Incidence_brd
             return $c;
         }
 
-        // gibt es keinen aktuellen Cache werden neue Informationen angefragts
-        $c = $this->fetchData($dt);
-        if (is_array($c)) {
-            $c['cached'] = false;
-            return $c;
+        // nur wenn es nach 6 Uhr ist sollen neue Daten geladen werden, es kann sonst bei der Inzidenz für BRD dazu kommen, dass diese auf dem vorherigen Tag bleibt
+        if ($hour >= 6) { 
+            // gibt es keinen aktuellen Cache werden neue Informationen angefragts
+            $c = $this->fetchData($dt);
+            if (is_array($c)) {
+                $c['cached'] = false;
+                return $c;
+            }
         }
-
         
         // Wenn der Cache nicht aktuell ist und der Server nicht erreicht werden kann bzw. auch noch nicht aktuell ist
         // dann wird getestet, ob im Cache noch Informationen gibt, die von der letzten Woche sind

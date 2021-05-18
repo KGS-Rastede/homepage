@@ -31,19 +31,20 @@ if (isset($today_local) && isset($today_brd)) { //Wenn die Daten nicht leer sind
 }
 
 // <<<--- Festellen, ob Daten aktuell --->>>
-$day = new DateTime("today");
-$date_key = $day->format('Ymd'); // Datumsschlüssel aus aktuellem Tag erzeugen
+if ($loaded) { // nur überprüfen, wenn Daten überhaupt vorhanden
+  $day = new DateTime("today");
+  $date_key = $day->format('Ymd'); // Datumsschlüssel aus aktuellem Tag erzeugen
 
-// aus dem Eintrag "last_update" das Datum ermitteln
-$date_numbers = DateTime::createFromFormat("d.m.Y, H:i", str_replace(" Uhr", "", $today_local['last_update']));
-// daraus Datumsschlüssel erzeugen
-$numbers_key = $date_numbers->format("Ymd");
+  // aus dem Eintrag "last_update" das Datum ermitteln
+  $date_numbers = DateTime::createFromFormat("d.m.Y, H:i", str_replace(" Uhr", "", $today_local['last_update']));
+  // daraus Datumsschlüssel erzeugen
+  $numbers_key = $date_numbers->format("Ymd");
 
-if ($date_key == $numbers_key) // die beiden Schlüssel vergleichen
-  $uptodate = true;
-else
-  $uptodate = false;
-
+  if ($date_key == $numbers_key) // die beiden Schlüssel vergleichen
+    $uptodate = true;
+  else
+    $uptodate = false;
+}
 ?>
 
 <div class="table-responsive">
