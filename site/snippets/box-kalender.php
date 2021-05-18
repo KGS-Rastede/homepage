@@ -19,11 +19,15 @@
 <script src='https://github.com/mozilla-comm/ical.js/releases/download/v1.4.0/ical.js'></script>
 <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar/main.global.js'></script>
 
-<?php include('./assets/kalender/kalender-update.php');
+<?php include('./assets/kalender/kalender-update.php'); // Den code für das automatische update laden
 $cache_file = './assets/kalender/cache.txt';
 $ics_file = './assets/kalender/public.ics';
-$update = new kalender_update($cache_file, $ics_file);
-$result = $update->checkForUpdate();
+$update = new kalender_update($cache_file, $ics_file); // neue Klassen mit Cache datei und kalender datei Ort erzeugen
+
+// Hauptmethode ausführen
+// Es wird entweder `true` zurückgegeben, wenn der Kalender breits uptodate wahr oder der Kalender erfolgreich aktualisiert wurde
+// ansonsten wird `false` zurückgegebn, es ist also irgendetwas schiefgelaufen
+$result = $update->checkForUpdate(); 
 ?>
 
 <script>
@@ -79,7 +83,7 @@ $result = $update->checkForUpdate();
 <span class="font-size-1 font-size-sm-1-2">
     <div class="card bg-primary mt-5 mb-3">
 
-        <?php if ($result == false) : ?>
+        <?php if ($result == false) : // Falls etwas schiefgelaufen ist wird diese Fehlermeldung über dem Kalender angezeigt ?>
             <div class="container d-flex justify-content-center">
                 <p class="mt-2 text-danger">Der Kalender ist möglicherweise nicht aktuell!</p>
             </div>
