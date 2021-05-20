@@ -1,0 +1,8 @@
+name: Akkordion
+icon: menu
+label: "{{ text }}"
+fields:
+  accordion:
+    label: Text für das Akkordion
+    type: textarea
+

@@ -9,7 +9,7 @@ columns:
   main:
     width: 2/3
     fields:
-      heading: 
+      heading:
         type: text
         label: Untertitel
       text:
@@ -32,6 +32,7 @@ columns:
             - gastautor
             - quote
             - karousel
+            - accordion
   sidebar:
     width: 1/3
     fields:
