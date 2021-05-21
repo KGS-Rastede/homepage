@@ -45,6 +45,7 @@ columns:
               - gastautor
               - quote
               - karousel
+              - accordion
           gallery:
             type: files
             uploads: blogbild

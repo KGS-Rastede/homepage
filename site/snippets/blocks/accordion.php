@@ -1,47 +1,48 @@
-<h1>testbeginnn</h1>
+<?php if ($block->accordion()->isNotEmpty()) : 
+  $id = $block->accordionid();
+  $count = 1;
+  $acc = $block->accordion()->toStructure() ?>
 
-<?php if ($block->accordion()->isNotEmpty()) : ?>
+  <?php if ($block->flush()->toBool()) : // Wenn das Design flush ausgewählt wurde ?>
+    <div class="accordion accordion-flush mb-3" id="accordionBlock<?= $id ?>">
+  <?php else : // Nicht das flush desgin ?>
+    <div class="accordion mb-3" id="accordionBlock<?= $id ?>">
+  <?php endif ?>
 
-  <?php $count = -1;
-  foreach ($block->karousel()->toFiles() as $image) : $count++ ?>
-    <div class="accordion" id="accordionExample">
+    <?php if ($block->accfirst()->toBool()) : $count ++; // Falls das erste Item bei Laden offen sein soll ?>
+      <?php $accordion = $acc->first() // erstes Element aus der Struktur erhalten ?>
+
       <div class="accordion-item">
-        <h2 class="accordion-header" id="headingOne">
-          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            Accordion Item #1
+        <h2 class="accordion-header" id="heading<?= $id ?>-<?= $count ?>">
+          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse<?= $id ?>-<?= $count ?>" aria-expanded="true" aria-controls="collapse<?= $id ?>-<?= $count ?>">
+            <?= $accordion->accordionheading()->or("Hier fehlt noch eine Überschrift") ?>
           </button>
         </h2>
-        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div id="collapse<?= $id ?>-<?= $count ?>" class="accordion-collapse collapse show" aria-labelledby="heading<?= $id ?>-<?= $count ?>" data-bs-parent="#accordionBlock<?= $id ?>">
           <div class="accordion-body">
-            <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            <?= $accordion->accordionbody()->kt()->or("Hier fehlt noch Inhalt") ?>
           </div>
         </div>
       </div>
+
+      <?php $acc = $acc->slice(1) // das erste Item aus der Struktur entfernen, diese wurde bereits bearbeitet ?>
+    <?php endif ?>
+
+
+    <?php foreach ($acc as $accordion) : $count++ // Alle übrigen Items ?>
       <div class="accordion-item">
-        <h2 class="accordion-header" id="headingTwo">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-            Accordion Item #2
+        <h2 class="accordion-header" id="heading<?= $id ?>-<?= $count ?>">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse<?= $id ?>-<?= $count ?>" aria-expanded="false" aria-controls="collapse<?= $id ?>-<?= $count ?>">
+            <?= $accordion->accordionheading()->or("Hier fehlt noch ein Überschrift") ?>
           </button>
         </h2>
-        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+        <div id="collapse<?= $id ?>-<?= $count ?>" class="accordion-collapse collapse" aria-labelledby="heading<?= $id ?>-<?= $count ?>" data-bs-parent="#accordionBlock<?= $id ?>">
           <div class="accordion-body">
-            <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            <?= $accordion->accordionbody()->kt()->or("Hier fehlt noch Inhalt") ?>
           </div>
         </div>
       </div>
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingThree">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-            Accordion Item #3
-          </button>
-        </h2>
-        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-          <div class="accordion-body">
-            <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-          </div>
-        </div>
-      </div>
-    </div>
-  <?php endforeach ?>
+    <?php endforeach ?>
+
+  </div>
 <?php endif ?>
-<h1>testende</h1>
