@@ -15,10 +15,19 @@ class kalender_update {
     */
     public function checkForUpdate()
     {
+        date_default_timezone_set('Europe/Berlin'); // Zeitzone richtig festlegen und nicht auf php.ini Einstellung verlassen
         $day = new DateTime("today");
         $date = $day->format('Ymd'); // Datumsschlüssel aus dem heutigen Tag erstellen
 
+        $t = new DateTime();
+        $time = $t->format('Hi'); // erzeugt aus der aktuellen Uhrzeit ein code: 16:35 Uhr wird zu 1635
+
         $cache = $this->hasCache($date); //gibt `boolean` zurück
+
+        if ($time < 17) { // entspricht 00:17 Uhr
+            return $cache; // es soll nicht direkt um 0:00 Uhr geupdated werden, ist es noch kurz nach 0:00, dann nicht weiter überprüfen
+        }
+
         if (!$cache) { // Falls der Kalender nicht uptodate ist oder Dateien fehlen
             // Mit der Methode fetchData() wird versucht ein neuer Kalender von IServ zu laden
             $result = $this->fetchData($date); // gibt ein boolean zurück
