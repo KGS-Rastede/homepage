@@ -56,10 +56,12 @@ Downloads:
   20210323_erlass_freiwilliges_zur_cktreten_wiederholen.pdf
 - >
   210412_erlass_noten_versetzungen__berg_nge_wiederholung_4._sjg._original.pdf
-- 2021-05-04_brief_an_eltern_kurz.pdf
-- 2021-05-04_brief_an_sus_seki.pdf
-- 2021-05-04_brief_an_sus_sekii.pdf
-- 2021-05-04_brief_an_eltern.pdf
+- 2021-05-21_brief_an_sus_seki.pdf
+- 2021-05-21_brief_an_sus_sekii.pdf
+- 2021-05-21_brief_an_eltern_kurz.pdf
+- 2021-05-21_brief_an_eltern.pdf
+- >
+  2021-05-21_brief_an_schulleitungen_und_lehrkr_fte.pdf
 
 ----
 
