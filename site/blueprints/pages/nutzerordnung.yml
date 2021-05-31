@@ -7,6 +7,9 @@ options:
     admin: true
 
 fields:
+  beschreibung:
+    label: Hier steht der Einführungstext
+    type: textarea
   dateien:
     type: files
     uploads: datei
