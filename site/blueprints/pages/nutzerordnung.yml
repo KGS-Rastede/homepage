@@ -1,0 +1,12 @@
+title: Nutzerordnung
+icon: 📖
+
+options:
+  update:
+    *: false
+    admin: true
+
+fields:
+  dateien:
+    type: files
+    uploads: datei
