@@ -2,7 +2,7 @@ Anzeigename: Der Interzugang (Anleitung für Schüler:innen)
 
 ----
 
-Beschreibung: hier fehlt Text
+Beschreibung: In dieser Anleitung wird beschrieben, welche Einstellungen am eigenen Endgerät vorgenommen werden müssen, um sich an das WLAN der Schule anmelden zu können
 
 ----
 
