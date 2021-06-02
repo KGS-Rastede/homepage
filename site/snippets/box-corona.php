@@ -4,7 +4,7 @@
 
 
             <div class="table-responsive">
-                <h4 class="card-category">Aktuelle Informationen zum Infektionsgeschehen an unserer Schule.</h4>
+                <h2 class="h4 card-category">Aktuelle Informationen zum Infektionsgeschehen an unserer Schule.</h2>
 
 
                 Derzeit befinden sich in vom Gesundheitsamt angeordneter Quarantäne:

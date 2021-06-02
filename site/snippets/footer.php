@@ -14,7 +14,7 @@
     </div>
 
     <div class="col-md-4">
-      <h5>Kontakt</h5>
+      <h2 class="h5">Kontakt</h2>
       <ul class="list-unstyled">
         <li><a class="text-muted text-decoration-none" href="<?= page('kontakte/schulleitung')->url() ?>">Schulleitung</a></li>
         <li><a class="text-muted text-decoration-none" href="<?= page('kontakte/fbl')->url() ?>">Fachbereichsleiter</a></li>
@@ -25,7 +25,7 @@
       </ul>
     </div>
     <div class="col-md-3">
-      <h5>Wichtige Downloads</h5>
+      <h2 class="h5">Wichtige Downloads</h2>
       <ul class="list-unstyled">
         <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/schulbuchlisten')->url() ?>">Schulbuchlisten</a></li>
         <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/schulordnung')->url() ?>">Schulordnung</a></li>
@@ -33,7 +33,7 @@
       </ul>
     </div>
     <div class="col-md-3">
-      <h5>Über die KGS</h5>
+      <h2 class="h5">Über die KGS</h2>
       <ul class="list-unstyled">
         <li><a class="text-muted text-decoration-none" href="<?= page('schule/geschichte')->url() ?>">Unsere Geschichte</a></li>
         <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
