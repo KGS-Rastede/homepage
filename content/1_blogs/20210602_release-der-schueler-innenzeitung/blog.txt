@@ -1,0 +1,39 @@
+Title: Release der Schüler*innenzeitung
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"<strong>IRREGUL\u00e4R \u2013 Online-Sch\u00fcler*innenzeitung der KGS Rastede<\/strong>"},"id":"ab8cf079-3efd-48e2-aba8-4e0b5fdd342f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Endlich ist sie da - die eine neue Ausgabe der Online-Sch\u00fcler*innenzeitung.<br>Wir Sch\u00fclerzeitungsredakteur*innen haben f\u00fcr euch wieder brisante Themen ausgesucht, Hintergr\u00fcnde recherchiert und kritisch nachgefragt. Die neue Ausgabe ist nicht nur thematisch abwechslungsreich, sondern bietet auch crossmedia alles, was das Herz begehrt: Texte, Fotos, Galerien, Video, Podcasts, Weblog\u2026<\/p>"},"id":"a3c4e189-9a4f-43a6-ba4f-79543a063a79","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>Das ist neu bei IRREGUL\u00e4R<\/strong>"},"id":"4b82e873-4de0-4ab6-b0d2-83be7cb6c515","isHidden":false,"type":"heading"},{"content":{"text":"<p>Hei\u00dfer Schei\u00df \u2013 ein Podcast \u00fcber die KGS-Toiletten<\/p><p>Ein Interview mit der LGBTQ+Initiative der KGS Rastede mit Audios und Tooltips<\/p><p>Ein Crossmedia-Beitrag \u00fcber den Nachhaltigkeitstag 2020 mit Fotos, Audios und Video<\/p><p>Schule fertig \u2013 und dann? \u2013 Inspiration und Information rund um FSJ, Work and Travel, Ausbildung und Studium<\/p><p>nachhaltig.schuelersachen.de \u2013 neue Beitr\u00e4ge im Weblog rund um einen nachhaltigen Alltag<\/p><p>Interviews mit Herrn Steenken und Herr Schwalbe, dem \u201ealten\u201c und dem \u201eneuen\u201c Hausmeister in der Feldbreite<\/p><p>Sch\u00fcler<em>innen-Wunschtr\u00e4ume \u2013 eingesendet von Sch\u00fcler<\/em>innen aus den Jahrg\u00e4ngen 5 und 6<\/p><p>Chemie im Alltag \u2013 ein Podcast f\u00fcr Schlauschnacker \u00fcber die Chemie beim Nudeln Kochen<\/p><p>Feuerfeder \u2013 Fantasy f\u00fcr kreative Leser*innen<\/p><p>&nbsp;<\/p><p>Schaut doch mal vorbei: <a href=\"https:\/\/www.schuelerzeitung.kgs-rastede.de\/\" rel=\"noopener noreferrer nofollow\">schuelerzeitung.kgs-rastede.de<\/a><\/p><p>&nbsp;<\/p><p>Viel Spa\u00df w\u00fcnschen euch die IRREGUL\u00e4R-Chefredaktion und die Redaktion \u201eFeldbreite spezial\u201c!<\/p>"},"id":"29bf280b-b25e-4280-accf-09741b978941","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- 2021-homepage-irregulaer.jpg
+
+----
+
+Date: 2021-06-02 00:00:00
+
+----
+
+Datumstartseite: 2021-10-02 00:00:00
+
+----
+
+Author: IRREGULäR
+
+----
+
+Tags: IRREGULäR , Schüler:innenzeitung
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
