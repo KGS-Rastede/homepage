@@ -1,8 +1,8 @@
-Anzeigename: Nutzungsvertrang (Elternschreiben)
+Anzeigename: Nutzungsvertrag
 
 ----
 
-Beschreibung: Dies ist die Kurzversion
+Beschreibung: Mir der Unterschrift dieses Nutzungsvertrages bestätigen Sie / bestätigst du die Kenntnis und Einhaltung der Nutzerordnung - diese muss für jede Schülerin und jeden Schüler vorliegen.
 
 ----
 

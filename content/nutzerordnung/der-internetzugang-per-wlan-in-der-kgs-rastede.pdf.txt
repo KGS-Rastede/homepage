@@ -2,7 +2,7 @@ Anzeigename: Der Internetzugang per WLAN
 
 ----
 
-Beschreibung: hier fehlt Text
+Beschreibung: Hier wird den KuK beschrieben, wie sie die SuS ihrer Lerngruppe das WLAN für eine selbst auszuwählende Zeitdauer freischalten können.
 
 ----
 
