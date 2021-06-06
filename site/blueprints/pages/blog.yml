@@ -46,6 +46,7 @@ columns:
               - quote
               - karousel
               - accordion
+              - button
           gallery:
             type: files
             uploads: blogbild

@@ -1074,6 +1074,10 @@ textarea.form-control-lg {
   outline: 0;
   box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
 }
+ .form-select[size]:not([size="1"]) {
+  padding-right: 0.75rem;
+  background-image: none;
+}
 .form-select:disabled {
   background-color: #e9ecef;
 }
@@ -1480,6 +1484,31 @@ textarea.form-control-lg {
   border-color: #c0c0c0;
 }
 
+.btn-outline-primary {
+  color: #f9f8f8;
+  border-color: #f9f8f8;
+}
+.btn-outline-primary:hover {
+  color: #000;
+  background-color: #f9f8f8;
+  border-color: #f9f8f8;
+}
+ .btn-outline-primary:focus {
+  box-shadow: 0 0 0 0.25rem rgba(249, 248, 248, 0.5);
+}
+ .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show {
+  color: #000;
+  background-color: #f9f8f8;
+  border-color: #f9f8f8;
+}
+ .btn-outline-primary:active:focus, .btn-outline-primary.active:focus, .btn-outline-primary.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(249, 248, 248, 0.5);
+}
+.btn-outline-primary:disabled, .btn-outline-primary.disabled {
+  color: #f9f8f8;
+  background-color: transparent;
+}
+
 .btn-outline-secondary {
   color: #586994;
   border-color: #586994;
@@ -1502,6 +1531,31 @@ textarea.form-control-lg {
 }
 .btn-outline-secondary:disabled, .btn-outline-secondary.disabled {
   color: #586994;
+  background-color: transparent;
+}
+
+.btn-outline-info {
+  color: #0099cc;
+  border-color: #0099cc;
+}
+.btn-outline-info:hover {
+  color: #000;
+  background-color: #0099cc;
+  border-color: #0099cc;
+}
+ .btn-outline-info:focus {
+  box-shadow: 0 0 0 0.25rem rgba(0, 153, 204, 0.5);
+}
+ .btn-outline-info:active, .btn-outline-info.active, .btn-outline-info.dropdown-toggle.show {
+  color: #000;
+  background-color: #0099cc;
+  border-color: #0099cc;
+}
+ .btn-outline-info:active:focus, .btn-outline-info.active:focus, .btn-outline-info.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(0, 153, 204, 0.5);
+}
+.btn-outline-info:disabled, .btn-outline-info.disabled {
+  color: #0099cc;
   background-color: transparent;
 }
 
@@ -1530,10 +1584,91 @@ textarea.form-control-lg {
   background-color: transparent;
 }
 
+.btn-outline-danger {
+  color: #8c271e;
+  border-color: #8c271e;
+}
+.btn-outline-danger:hover {
+  color: #fff;
+  background-color: #8c271e;
+  border-color: #8c271e;
+}
+ .btn-outline-danger:focus {
+  box-shadow: 0 0 0 0.25rem rgba(140, 39, 30, 0.5);
+}
+ .btn-outline-danger:active, .btn-outline-danger.active, .btn-outline-danger.dropdown-toggle.show {
+  color: #fff;
+  background-color: #8c271e;
+  border-color: #8c271e;
+}
+ .btn-outline-danger:active:focus, .btn-outline-danger.active:focus, .btn-outline-danger.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(140, 39, 30, 0.5);
+}
+.btn-outline-danger:disabled, .btn-outline-danger.disabled {
+  color: #8c271e;
+  background-color: transparent;
+}
+
+.btn-outline-light {
+  color: #0e5499;
+  border-color: #0e5499;
+}
+.btn-outline-light:hover {
+  color: #fff;
+  background-color: #0e5499;
+  border-color: #0e5499;
+}
+ .btn-outline-light:focus {
+  box-shadow: 0 0 0 0.25rem rgba(14, 84, 153, 0.5);
+}
+ .btn-outline-light:active, .btn-outline-light.active, .btn-outline-light.dropdown-toggle.show {
+  color: #fff;
+  background-color: #0e5499;
+  border-color: #0e5499;
+}
+ .btn-outline-light:active:focus, .btn-outline-light.active:focus, .btn-outline-light.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(14, 84, 153, 0.5);
+}
+.btn-outline-light:disabled, .btn-outline-light.disabled {
+  color: #0e5499;
+  background-color: transparent;
+}
+
+.btn-outline-dark {
+  color: #c0c0c0;
+  border-color: #c0c0c0;
+}
+.btn-outline-dark:hover {
+  color: #000;
+  background-color: #c0c0c0;
+  border-color: #c0c0c0;
+}
+ .btn-outline-dark:focus {
+  box-shadow: 0 0 0 0.25rem rgba(192, 192, 192, 0.5);
+}
+ .btn-outline-dark:active, .btn-outline-dark.active, .btn-outline-dark.dropdown-toggle.show {
+  color: #000;
+  background-color: #c0c0c0;
+  border-color: #c0c0c0;
+}
+ .btn-outline-dark:active:focus, .btn-outline-dark.active:focus, .btn-outline-dark.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(192, 192, 192, 0.5);
+}
+.btn-outline-dark:disabled, .btn-outline-dark.disabled {
+  color: #c0c0c0;
+  background-color: transparent;
+}
+
 .btn-lg {
   padding: 0.5rem 1rem;
   font-size: 1.25rem;
   border-radius: 0.3rem;
+}
+
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  border-radius: 0.2rem;
 }
 
 .collapse:not(.show) {

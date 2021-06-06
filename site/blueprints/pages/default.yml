@@ -33,6 +33,7 @@ columns:
             - quote
             - karousel
             - accordion
+            - button
   sidebar:
     width: 1/3
     fields:
