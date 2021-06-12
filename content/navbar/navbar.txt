@@ -229,11 +229,11 @@ Navbar:
       icon: door-open
     - 
       isexternal: 'false'
-      linktitle: Beratung und Prävention
+      linktitle: 'Unterstützung & Beratung'
       pagelink:
-        - unterricht/beratung
+        - beratungskonzept
       externallink: ""
-      trennstrich: 'true'
+      trennstrich: 'false'
       icon: chat-dots
     - 
       isexternal: 'false'
@@ -260,6 +260,14 @@ Navbar:
       externallink: ""
       trennstrich: 'false'
       icon: globe
+    - 
+      isexternal: 'false'
+      linktitle: Schüler:innenzeitung IRRegulär
+      pagelink:
+        - unterricht/online-schueler-innenzeitung
+      externallink: ""
+      trennstrich: 'false'
+      icon: bookmark
     - 
       isexternal: 'false'
       linktitle: Junge Kultur e.V.
@@ -334,6 +342,21 @@ Navbar:
       externallink: ""
       trennstrich: 'false'
       icon: suit-heart
+    - 
+      isexternal: 'false'
+      linktitle: Kultur
+      pagelink:
+        - unterricht/kulturelles
+      externallink: ""
+      trennstrich: 'false'
+      icon: globe
+    - 
+      isexternal: 'false'
+      linktitle: Schüler:innenzeitung. online
+      pagelink: [ ]
+      externallink: ""
+      trennstrich: 'false'
+      icon: bookmark
 - 
   dropdowntoggle: 'true'
   kategorietitel: 'Service & Downloads'
