@@ -1,0 +1,12 @@
+Title: Arbeitsgemeinschaften
+
+----
+
+Agtyp: [{"content":{"name":"foo","kurzbeschreibung":"<p>bar<\/p>","unterseite":["arbeitsgemeinschaften\/ag-beispiel-1"],"bild":["brautstrauss2.jpg"],"icon":""},"id":"553790f5-b746-4bee-941d-8cfc1b4ab9b5","isHidden":false,"type":"arbeitsgemeinschaftentyp"},{"content":{"name":"asdfasdf","kurzbeschreibung":"<p>asdfsadfasdf<\/p>","unterseite":["arbeitsgemeinschaften\/ag-beispiel-2","arbeitsgemeinschaften\/ag-beispiel-1"],"bild":["brautstrauss2.jpg"],"icon":""},"id":"5bd3f9a7-74f4-4009-8cd8-22b3649cc7dd","isHidden":false,"type":"arbeitsgemeinschaftentyp"}]
+
+----
+
+Files:
+
+- awt.jpg
+- deutsch.jpg
