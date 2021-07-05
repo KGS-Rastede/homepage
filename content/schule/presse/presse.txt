@@ -6,6 +6,50 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-bildung-ein-jahrgang-ohne-all-die-schoenen-dinge_a_51,2,1097957569.html
+  name: Ein Jahrgang ohne all die schönen Dinge
+  anfang: >
+    Der Abiturjahrgang der KGS Rastede wurde
+    am Wochenende verabschiedet. Nicht nur
+    die Schüler bedauerten, im Corona-Jahr
+    einiges verpasst zu haben.
+  datum: 2021-07-05
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-pandemie-so-denken-schueler-ueber-corona_a_51,2,912142066.html
+  name: So denken Schüler über Corona
+  anfang: >
+    Mehr als 200 Schüler haben sich an der
+    KGS Rastede mit den Folgen der
+    Corona-Pandemie beschäftigt. Für einen
+    der entstandenen Beiträge gab es sogar
+    einen Preis bei einem bundesweiten
+    Wettbewerb.
+  datum: 2021-07-03
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/region/im-nordwesten-zeugnisuebergabe-abschlussfeiern_a_51,2,934831067.html
+  name: 'Schülerinnen und Schüler erhalten ihre Abschlusszeugnisse - ein Überblick'
+  anfang: 'Es war ein besonderes Schuljahr: Trotz Corona-Pandemie haben am Freitag bei feierlichen Verabschiedungen zahlreiche Schülerinnen und Schüler im Nordwesten ihre Abschlusszeugnisse erhalten. Hier gibt es den Überblick.'
+  datum: 2021-07-03
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-praeventionstag-was-schueler-ueber-sucht-wissen-muessen_a_51,1,3837062587.html
+  name: Was Schüler über Sucht wissen müssen
+  anfang: >
+    Jeder Schüler kommt irgendwann in
+    Kontakt mit Drogen, sagt
+    Präventionsexperte Michael Schröder.
+    Rasteder Achtklässler beschäftigten
+    sich jetzt mit dem Thema. Eine
+    Sozialarbeiterin findet das zu spät.
+  datum: 2021-06-12
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede_a_51,1,3162491693.html
   name: >
     Bis zum 21. Juni möglichst viele
@@ -28,7 +72,7 @@ Pressenachrichten:
     rund um das Thema Nachhaltigkeit auf. In
     dieser Woche soll über mehrere Tage
     Plastikmüll gesammelt werden.
-  datum: 2021-04-26
+  datum: 2021-04-24
   medium: nwz
 - 
   link: >
@@ -41,18 +85,6 @@ Pressenachrichten:
     noch das alte Bild von Containerklassen
     vor Augen hat, der irrt.
   datum: 2021-04-23
-  medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-schulerweiterung-in-rastede-neue-klassenraeume-in-nur-zwei-monaten_a_51,0,4284936898.html
-  name: Neue Klassenräume in nur zwei Monaten
-  anfang: >
-    An der Feldbreite lässt die Gemeinde
-    Rastede erstmals ein Schulgebäude aus
-    Fertigbauteilen errichten. Wer dabei
-    noch das alte Bild von Containerklassen
-    vor Augen hat, der irrt.
-  datum: 2021-04-22
   medium: nwz
 - 
   link: >
@@ -88,17 +120,6 @@ Pressenachrichten:
     Schulen noch zu früh. Doch zumindest in
     Rastede läuft es gut.
   datum: 2021-04-17
-  medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/ausgabestellen-und-zeiten-in-rastede-kgs-verteilt-montag-corona-testkits_a_51,0,3516986589.html
-  name: KGS verteilt Montag Corona-Testkits
-  anfang: >
-    Am Dienstag geht in Rastede die Schule
-    wieder los. Darum werden am Montag
-    Corona-Schnelltests an die Schüler
-    verteilt.
-  datum: 2021-04-10
   medium: nwz
 - 
   link: >
