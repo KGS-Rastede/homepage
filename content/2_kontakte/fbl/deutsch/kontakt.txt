@@ -6,11 +6,7 @@ Heading: woh
 
 ----
 
-Email: woh
-
-----
-
-Position: Fachbereich Deutsch (komm.)
+Position: Fachbereich Deutsch
 
 ----
 
@@ -19,3 +15,7 @@ Phone:
 ----
 
 Fotoansicht: fbl
+
+----
+
+Email: woh

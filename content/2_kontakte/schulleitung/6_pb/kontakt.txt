@@ -1,20 +1,16 @@
-Title: Marieke Pannenborg
+Title: Nicht besetzt
 
 ----
 
-Heading: pb
+Heading: NN
 
 ----
 
-Email: pb
+Position: Hauptschulzweigleitung
 
 ----
 
-Position: Hauptschulzweigleiterin
-
-----
-
-Phone: 04402-9264-23
+Phone: 04402-9264-22
 
 ----
 
@@ -22,7 +18,11 @@ Fotoansicht: schulleiter
 
 ----
 
-Gallery: - ni.jpg
+Email: pb
+
+----
+
+Gallery: - pb.jpg
 
 ----
 

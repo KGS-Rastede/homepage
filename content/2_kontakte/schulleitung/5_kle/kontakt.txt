@@ -1,8 +1,8 @@
-Title: Nicht besetzt
+Title: Marieke Pannenborg
 
 ----
 
-Heading: NN
+Heading: pb
 
 ----
 
@@ -10,7 +10,7 @@ Position: Realschulzweigleitung
 
 ----
 
-Phone: 04402-9264-22
+Phone: 04402-9264-23
 
 ----
 
@@ -18,7 +18,7 @@ Fotoansicht: schulleiter
 
 ----
 
-Email: kle
+Email: pb
 
 ----
 
