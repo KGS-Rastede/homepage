@@ -1,5 +1,0 @@
-title: Lehrkraft
-description: Wird benutzt für die WLAN-Tickets. Kein Zugriff auf das Panel
-permissions:
-  access:
-    panel: false

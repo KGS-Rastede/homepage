@@ -1,5 +1,9 @@
-title: Fachleiter
-description: Fachleiter können Blogs erstellen und Fächer bearbeiten
+title: Blogger
+description: Blogger dürfen nur Blogartikel überarbeiten
+
+user:
+  *: false
+  changeName: true
 
 permissions:
   access:
