@@ -81,7 +81,7 @@ $result = $update->checkForUpdate();
 </script>
 
 <span class="font-size-1 font-size-sm-1-2">
-    <div class="card bg-primary mt-5 mb-3">
+    <div class="card mt-5 mb-3">
 
         <?php if ($result == false) : // Falls etwas schiefgelaufen ist wird diese Fehlermeldung über dem Kalender angezeigt ?>
             <div class="container d-flex justify-content-center">

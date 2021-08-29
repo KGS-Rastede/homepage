@@ -1,4 +1,4 @@
-<div class="card bg-primary mb-3">
+<div class="card mb-3">
   <div class="card-body">
     <img src="<?= $block->bild()->toFile()->url() ?>" class="card-img" alt="Fremdsprachen">
 

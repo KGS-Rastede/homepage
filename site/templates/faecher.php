@@ -6,7 +6,7 @@
 <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 gx-4">
 
 
-  <div class="card bg-primary mb-3">
+  <div class="card mb-3">
     <div class="card-body">
       <img src="<?= $page->files()->find('fremdsprachen.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
@@ -30,7 +30,7 @@
   </div>
 
   <!--KULTURELL-->
-  <div class="card bg-primary mb-3">
+  <div class="card mb-3">
     <div class="card-body">
       <img src="<?= $page->files()->find('mukubi.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
@@ -57,7 +57,7 @@
 
   </div>
 
-  <div class="card bg-primary mb-3">
+  <div class="card mb-3">
     <div class="card-body">
       <img src="<?= $page->files()->find('mathe.jpg')->url() ?>" class="card-img" alt="Mathematik">
 
@@ -73,7 +73,7 @@
 
   </div>
 
-  <div class="card bg-primary mb-3">
+  <div class="card mb-3">
     <div class="card-body">
       <img src="<?= $page->files()->find('sport.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
@@ -90,7 +90,7 @@
   </div>
 
 
-  <div class="card bg-primary mb-3">
+  <div class="card mb-3">
     <div class="card-body">
       <img src="<?= $page->files()->find('deutsch.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
@@ -111,7 +111,7 @@
 
 
   <!--NTW-->
-  <div class="card bg-primary mb-3">
+  <div class="card mb-3">
     <div class="card-body">
       <img src="<?= $page->files()->find('ntw.jpg')->url() ?>" class="card-img" alt="Naturwissenschaften">
 
@@ -136,7 +136,7 @@
   </div>
 
   <!--AWT-->
-  <div class="card bg-primary mb-3">
+  <div class="card mb-3">
     <div class="card-body">
       <img src="<?= $page->files()->find('awt.jpg')->url() ?>" class="card-img" alt="AWT">
 
@@ -162,7 +162,7 @@
 
 
   <!--GSW-->
-  <div class="card bg-primary mb-3">
+  <div class="card mb-3">
     <div class="card-body">
       <img src="<?= $page->files()->find('sozi.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
