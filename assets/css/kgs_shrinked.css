@@ -1,7 +1,6 @@
 @charset "UTF-8";
 /* import only the necessary Bootstrap files */
-/* ------- begin customization -------- */
-/* ------------------------------------ */
+/* -------begin customization-------- */
 @font-face {
   font-family: "Pangea";
   src: url("Pangea-LightWeb.woff2");
@@ -42,7 +41,6 @@
   src: local("Pangea-BoldWeb"), local("Pangea-BoldWeb"), url("./Pangea-BoldWeb.woff2") format("woff2");
   font-display: swap;
 }
-/* === Bootstrap Variablen und Klassen anpassen bzw. überschreiben === */
 .main {
   margin-top: 30px;
 }
@@ -55,19 +53,11 @@
   position: static !important;
 }
 
-code {
-  background-color: #e7e7e7;
-  padding: 0.1rem;
-  padding-left: 0.2rem;
-  padding-right: 0.2rem;
-  font-family: monospace !important;
+.honeypot {
+  position: absolute;
+  left: -9999px;
 }
 
-.code-wrapper {
-  background-color: #e7e7e7;
-}
-
-/* =============== Eigene Klassen ergänzen ========================== */
 .text-umbruch {
   white-space: normal !important;
 }
@@ -77,27 +67,6 @@ code {
     white-space: nowrap !important;
   }
 }
-.honeypot {
-  position: absolute;
-  left: -9999px;
-}
-
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-
-.embed-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
 /*==================================
     Heroimage (Startseite)
 ==================================*/
@@ -208,7 +177,6 @@ code {
 }
 
 /* -------end customization-------- */
-/* -------------------------------- */
 /* finally, import Bootstrap to set the changes! */
 /*!
  * Bootstrap v5.1.0 (https://getbootstrap.com/)
@@ -437,7 +405,7 @@ pre code {
 
 code {
   font-size: 0.875em;
-  color: #000000;
+  color: #d63384;
   word-wrap: break-word;
 }
 a > code {
@@ -900,12 +868,12 @@ progress {
   margin-bottom: 1rem;
   color: #212529;
   vertical-align: top;
-  border-color: #c6cace;
+  border-color: #dee2e6;
 }
 .table > :not(caption) > * > * {
   padding: 0.5rem 0.5rem;
   background-color: var(--bs-table-bg);
-  border-bottom-width: 3px;
+  border-bottom-width: 1px;
   box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
 }
 .table > tbody {
@@ -2642,6 +2610,10 @@ textarea.form-control-lg {
   border-bottom: 1px solid #dee2e6 !important;
 }
 
+.w-50 {
+  width: 50% !important;
+}
+
 .w-75 {
   width: 75% !important;
 }
@@ -2795,6 +2767,10 @@ textarea.form-control-lg {
 
 .p-1 {
   padding: 0.25rem !important;
+}
+
+.p-2 {
+  padding: 0.5rem !important;
 }
 
 .p-3 {

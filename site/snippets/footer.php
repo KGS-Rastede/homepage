@@ -4,7 +4,7 @@
 ?>
 </main>
 
-<footer class="container-fluid bg-primary pt-4">
+<footer class="container-fluid pt-4">
   <div class="row">
 
     <div class="col-md-2 ps-0 ps-md-3 mb-3">
