@@ -26,7 +26,7 @@ return [
 
   'studyGroups' => [
     'url' => 'https://ag-wahl.kgsraste.de/api/v1/study_groups',
-    'token' => 'SECRET'
+    'apiKey' => 'SECRET'
   ],
 
 ];

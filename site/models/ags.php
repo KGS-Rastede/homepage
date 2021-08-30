@@ -80,7 +80,7 @@ class AgsPage extends Page
 
   private function fetchStudyGroupsData()
   {
-    $request = Remote::get($this->apiEndpointUri(), ['headers' => ['Authorization' => 'Bearer ' . $this->apiKey()]]);
+    $request = Remote::get($this->apiEndpointUri() . '?token=' . $this->apiKey());
 
     if ($request->code() === 200) {
       $data = $request->json(true);
