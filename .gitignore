@@ -106,3 +106,6 @@ site/plugins/webhook-field/README.md
 site/plugins/webhook-field/classes/WebhookField.php
 site/plugins/webhook-field/docs/config.md
 site/plugins/webhook-field/docs/quickstart.md
+
+# Exclude cached study group images
+content/unterricht/ag-angebot/**/*[.jpg, .png]

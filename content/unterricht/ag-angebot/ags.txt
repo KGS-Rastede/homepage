@@ -2,34 +2,32 @@ Title: Arbeitsgemeinschaften
 
 ----
 
-Heading: 
+Heading:
 
 ----
 
-Text: [{"content":{"level":"h1","text":"Gemeinschaft. Engagement. Bewegung. Neues ausprobieren."},"id":"ecdfe4b4-694a-4050-a48c-ef863edc6109","isHidden":false,"type":"heading"},{"content":{"text":"<p>In diesem Schuljahr bieten wir einige neue Arbeitsgemeinschaften an.<\/p>"},"id":"97f851da-db4d-4fca-9f30-a0b206119757","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["img_0383.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"64afc3ca-de8a-4025-b0b8-248abcaaf7a8","isHidden":false,"type":"image"},{"content":{"text":"<p>Neugierig? Hier findest du das gesamte Angebot:<\/p>"},"id":"90af86fd-5bea-46a1-b3e8-ac5b272f27fe","isHidden":false,"type":"text"}]
+Text:
 
 ----
 
 Downloads:
 
-- ag-angebot-2020_21.pdf
+----
+
+Relatedtitel:
 
 ----
 
-Relatedtitel: 
+Related:
 
 ----
 
-Related: 
+Downloadtitel:
 
 ----
 
-Downloadtitel: 
+Sidetitel:
 
 ----
 
-Sidetitel: 
-
-----
-
-Sidebar: 
+Sidebar:
