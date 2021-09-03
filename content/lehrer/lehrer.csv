@@ -11,15 +11,15 @@ bgt;Herr Baumgarten;En/Sp
 bg;Frau Berg;If/Ma
 be;Frau Berger;Gesamtschuldirektorin, Ch/Ma
 bnh;Frau Bernhardt;Ch/Ma/Ph
-brs;Frau Berres;En/Ku
 bey;Herr Dr. Beyer;Ch/If/Ph
 bic;Frau Bice;Ch/De
 bke;Frau Böker;De/Ma/Sp
 bkr;Herr Böker;En/GE
+bls;Frau Boelsen;De/Ma
 bl;Frau Bolduan;En/Ge
 bo;Herr Bormann;Gymnasialzweigleiter, Ma/Ph
-bth;Frau Bothen;De/Ds/Re
 btt;Frau Böttner;Fr/Sn
+bth;Frau Bothen;De/Ds/Re
 brk;Herr Breuker;Ma/Ph
 bm;Frau Brömer;De/Fr
 bro;Frau Brossmann;Ma/Sp
@@ -30,14 +30,14 @@ buy;Frau Bünnemeyer;Ds/En/Sp
 brg;Frau Bürig;Bi/En
 bs;Frau Buschmann;En/Ge
 chr;Frau Christiansen;En/Ku
-cz;Frau Czapelka;En/Po
 boe;Frau de Boer;De/En/Sp
 br;Herr de Boer;En/Sp
+cz;Frau Czapelka;En/Po
 dk;Herr Diekmann;Oberstufenkoordinator, Ma/Sp
 dtl;Frau Dietl;Ch/Ku
 dd;Herr Duden;De/En
 dui;Frau Duin-Lay;Ma/Sp
-duw;Frau Duwe;De/Ku, Referendarin 
+duw;Frau Duwe;De/Ku, Referendarin
 dre;Herr von Dreele;Administrator
 kb;Frau Eckhardt-Klebert;Ma/Re
 ed;Frau Edelmann;En/Ku
@@ -58,7 +58,7 @@ fr;Frau Freese;De/Hw
 frb;Frau Friebel;En/Ku/Tg
 fcs;Frau Fuchs;De/Wi
 gb;Frau Garbe;If/Ma
-ger;Frau Gerlach;De/Ku, Referendarin
+ger;Frau Gerlach;De/Ku
 gie;Frau Giersch;De/Sn
 goe;Herr Göckel;Mu/Ph, Referendar
 gpf;Herr Göpfert;Ma/Sp
@@ -71,20 +71,19 @@ hsk;Frau Hasken;Ge/La
 hm;Frau Haßmann;Ge/Sn
 hel;Frau Hellmerichs;Sekretariat
 he;Herr Henken;Fachbereichsleiter AWT, Ds/En/Wi
+hje;Frau Hillje;Ch/Ma, Referendarin
 hf;Frau Hofstra;De/Po
 ho;Herr Hoppe;Ma/Ph
+hst;Frau Horstmann;Ku/Ma/Tg
 hu;Herr Huntemann;Ma/Ku
 hus;Herr Husmann;Fr/Re
 id;Frau Ildiz;Leiterin Feldbreite, Bi/Ma/Sp
 jan;Frau Janßen;Sekretärin Feldbreite
-jb;Frau Jodeit-Bischoff;De/En/Re
 ky;Herr Kayser;Fr/Po
 keh;Frau Kehrberg-Diaconu;Ek/Sn
 ker;Frau Kergel;Bi/De
 kwn;Frau Kiewning;En/Ge
-kst;Frau Knust;Förderschullehrerin
 knr;Herr Körner;Ge/Mu
-kr;Frau Krassuski;De/Ku
 kro;Frau Krolik;Bi/Ek
 kue;Frau Kühn;Ch/Ma
 lag;Frau Lamping;De/Po
@@ -102,6 +101,7 @@ mki;Frau Dr. Malecki;Bi/Ch
 mal;Frau Malich;Sekretärin Schulleitung
 mas;Frau Masa;Sekretärin Oberstufe
 ml;Frau Mellor;De/Ds/En
+mer;Frau Mersinlioglu;De/Ge
 mst;Herr Mester;En/Po
 me;Frau Mester;En/Fr
 my;Herr Meyer;Fachbereichsleiter GSW, Mu/Ge
@@ -111,29 +111,30 @@ mio;Frau Miot;De/En
 moe;Frau Möller;Ch/Ph
 mch;Herr Mönnich;Fachbereichsleiter Mathematik, Ma/Re/Ph
 mll;Frau Müller;Bi/Wi
-mb;Frau Müller-Bininda;Wi/Wn
 mue;Frau Müller;De/Wn, Referendarin
+mb;Frau Müller-Bininda;Wi/Wn
 mp;Frau Müller-Pulsfort;Fachbereichsleiterin Sport, De/Rk/Sp
-na;Frau Nagel;Fr/Mu
-nwr;Herr Dr. Nawrath;Ma/Ph
 nau;Herr Naumann;Hausmeister
+nwr;Herr Dr. Nawrath;Ma/Ph
 neu;Herr Neumann;Ma/Re
 nbd;Frau Nieberding;Fr/Sn, Referendarin
-nbr;Herr Niebur;EK/RE
+nbr;Herr Niebur;Ek/Re
 ni;Herr Niehaus;Direktorstellvertreter, Bi/Ch/If
 no;Frau Novak;De/En
 obk;Frau Oberkampf;De/Ku
 oeb;Frau Oeltjenbruns;De/En/Wn
 olb;Herr Olbricht;Schulassistent
+oln;Frau Olsson;De/Ku
 oth;Frau Otholt;En/WN
-pb;Frau Pannenborg;Hauptschulzweigleiterin, Ma/Wi/Po/If
 ptz;Herr Pätzold;De/En/Wi
+pb;Frau Pannenborg;Realschulzweigleiterin, Ma/Wi/Po/If
 pt;Herr Pernt;Sozialpädagoge
 pet;Herr Peter;En/Sp
-ptr;Frau Peter;Bi/Bi
+ptr;Frau Peter;Bi/En
 pts;Frau Petersen;Sp/En
 phi;Herr Philippsen;Bi/Ek
 pgr;Frau Pohlgeers;En/Wn
+pri;Herr Pritzkau;Förderschullehrer
 ra;Herr Rabe;Förderschullehrer
 ree;Frau Reershemius;Bi/Ma
 rd;Herr Dr. Riedel;Ma/Ph
@@ -141,6 +142,7 @@ rw;Frau Röben-Weiss;Bi/Ch/Ma
 roe;Herr Röder;Te/Wi
 ro;Frau Roland;En/Ge
 rl;Herr Roland;Bi/Sp
+ros;Herr Rosenau;Mu/Ph, Referendar
 rth;Frau Dr. Rothe;Bi/Ch
 san;Frau Sander;Bi/Ge
 sdk;Frau Schadek;De/Ku
@@ -149,16 +151,15 @@ slr;Herr Schindler;Schulassistent Feldbreite
 sch;Frau Schneemann;De/Ku/Re
 scm;Herr Schneemann;Fachbereichsleiter MuKuBi, De/Mu
 sh;Frau Schnell;Bi/Ch
-sor;Frau Schorer;Förderschullehrerin
 sco;Frau Schorling;De/Ge/Wn
 scr;Frau Schrör;Bi/Ma
+shu;Herr Schuler;De/Te, Referendar
+scw;Frau Schwäbe;Ds/Mu/Wn
 stk;Frau Dr. Stöckle;De/Ge
 stm;Herr Dr. Stockmann;De/Wn
-sc;Herr Schubert;De/Mu/Sp
-scw;Frau Schwäbe;Ds/Mu/Wn
 swa;Herr Schwalbe;Hausmeister Feldbreite
 sl;Frau Seidler;La/Fr
-sie;Frau Sieling;De/Ku
+sie;Frau Sieling-Bitter;De/Ku
 sta;Frau Stahmann;Mu/Po
 stz;Herr Stolz;Ge/Mu
 sto;Frau Storz;De/Sp
@@ -168,7 +169,6 @@ sze;Herr Szesny;En/Sp
 szy;Frau Szyltowski;La/Wn
 tas;Herr Tasler;Ma/Ph
 tb;Herr Tebbenhoff;Ma/Ph
-tgk;Frau Tegenkamp;Förderschullehrerin
 ter;Frau Terhorst;En/Mu
 tes;Herr Teske;Ma/Sp
 the;Herr Thelen;Ge/Wi, Referendar
@@ -187,6 +187,7 @@ wst;Frau Westerburg;Sekretärin Feldbreite
 wht;Frau Westerholt;Ek/Fr
 weu;Herr Weusmann;Re/Ph
 woh;Frau Wohltmann;Fachbereichsleiterin Deutsch, Bi/De/DAZ
+wol;Frau Wolter;En/Ge, Referendarin
 wue;Herr Wüllner;Ma/Sp
 za;Herr Zange;En/Sp
 zps;Herr Zaps;De/Po
