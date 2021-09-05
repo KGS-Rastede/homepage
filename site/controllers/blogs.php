@@ -11,7 +11,7 @@ return function($page) {
   $tags = $articles->pluck('tags', ',', true);
 
   // add the tag filter
-  if($tag = param('tag')) {
+  if($tag = urldecode(param('tag'))) {
     $articles = $articles->filterBy('tags', $tag, ',');
   }
 
