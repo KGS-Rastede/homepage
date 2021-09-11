@@ -17,7 +17,7 @@
                     <?php endif ?>
                 </p>
                 <p class="text-end">
-                    <a class="text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
+                    <a class="text-black text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
                 </p>
             </div>
         </div>
@@ -41,7 +41,7 @@
                     <?php endif ?>
                 </p>
                 <p class="text-end">
-                    <a class="text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
+                    <a class="text-black text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
                 </p>
             </div>
         </div>
@@ -63,7 +63,7 @@
                     <?php endif ?>
                 </p>
                 <p class="text-end">
-                    <a class="text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
+                    <a class="text-black text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
 
                 </p>
             </div>
