@@ -5,7 +5,7 @@
 <?php if ($kategorien->isNotEmpty()) : //Erst die Grundstruktur für die nav 
 ?>
 
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-primary">
     <div class="container-fluid">
       <!--
               Hier kann das Logo stehen oder der Name der Schule.
