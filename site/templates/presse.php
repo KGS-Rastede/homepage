@@ -57,7 +57,7 @@
               <?= $item->anfang() ?>
             </p>
 
-            <a class="stretched-link text-decoration-none" href="<?= $item->link() ?>" target="_blank" rel="noopener">
+            <a class="text-black stretched-link text-decoration-none" href="<?= $item->link() ?>" target="_blank" rel="noopener">
               weiterlesen... 
             </a>
 
