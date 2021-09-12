@@ -15,8 +15,7 @@
                         <?php endif ?>
                     </p>
                     <p class="text-end">
-                        <a class="text-black text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
-
+                        <?php snippet('knopf-klein', ['subpage' => $subpage, 'knopftext' => "weiterlesen"]); ?>
                     </p>
                 </div>
             </div>
