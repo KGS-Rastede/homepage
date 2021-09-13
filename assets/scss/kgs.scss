@@ -84,6 +84,12 @@ $theme-colors: (
     "dark": $dark
 );
 
+$table-border-width: 3px; //Tabellen Trennlinien dickers
+$table-border-color: #c6cace; //Tabellen Trennlinien Farbe dunkler
+
+$code-color: #000000; //Schriftfarbe für Code auf schwarz, da default pink
+
+
 // .navbar-light .navbar-nav a.nav-link {
 //     color: #f4f4f4 !important;
 //     // font-size: 22px;
@@ -103,6 +109,20 @@ $theme-colors: (
     margin-top: 30px;
 }
 
+code { 
+    //Hintergrund für Code-Elemente und monospace
+    background-color: #e7e7e7;
+    padding: 0.1rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    font-family: monospace !important;
+  }
+  
+.code-wrapper {
+    //für mehrzeilige Code-Elemente
+    background-color: #e7e7e7;
+}
+
 .carousel-indicators {
     position: static !important;
 }
@@ -110,6 +130,25 @@ $theme-colors: (
 .carousel-caption {
     position: static !important;
 }
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+  
 
 .honeypot {
     //Für Formulare (sehr primitives antispam)
