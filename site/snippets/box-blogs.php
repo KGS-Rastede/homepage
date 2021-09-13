@@ -9,7 +9,7 @@
   </div>
 <?php endif ?>
 
-<a href="<?= page("blogs") ?>" class="btn btn-secondary mb-5" role="button">
+<a href="<?= page("blogs") ?>" class="btn btn-primary mb-5" role="button">
 
   <?php if (collection('blogs-startseite')->isNotEmpty()) : //wenn aktuelle Artikel vorhanden sind 
   ?>
