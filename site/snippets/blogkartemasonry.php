@@ -1,9 +1,9 @@
 <div class="col-sm-6 col-lg-4 mb-4">
 
-    <?php if ($image = $subpage->gallery()->toFile()): ?>
-         
+    <?php if ($image = $subpage->gallery()->toFile()) : ?>
+
         <div class="card mb-3">
-            <img src="<?= $image->url() ?>" class="card-img-top" alt="<?= $image->alt() ?>"  >
+            <img src="<?= $image->url() ?>" class="card-img-top" alt="<?= $image->alt() ?>">
 
             <div class="fs-3 mt-3 fw-bold ps-3 text-danger">
                 <?= $subpage->title() ?>
@@ -17,7 +17,7 @@
                     <?php endif ?>
                 </p>
                 <p class="text-end">
-                    <a class="text-black text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
+                    <?php snippet('knopf-klein', ['subpage' => $subpage, 'knopftext' => "weiterlesen"]); ?>
                 </p>
             </div>
         </div>
@@ -27,7 +27,7 @@
         <?php $image = $block->image()->toFile() ?>
 
         <div class="card mb-3">
-            <img src="<?= $image->url() ?>" class="card-img-top" alt="<?= $block->alt()->or($image->alt()) ?>"  >
+            <img src="<?= $image->url() ?>" class="card-img-top" alt="<?= $block->alt()->or($image->alt()) ?>">
 
             <div class="fs-3 mt-3 fw-bold ps-3 text-danger">
                 <?= $subpage->title() ?>
@@ -41,8 +41,12 @@
                     <?php endif ?>
                 </p>
                 <p class="text-end">
-                    <a class="text-black text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
+                    <?php snippet('knopf-klein', ['subpage' => $subpage, 'knopftext' => "weiterlesen"]); ?>
                 </p>
+
+
+
+
             </div>
         </div>
 
@@ -63,8 +67,7 @@
                     <?php endif ?>
                 </p>
                 <p class="text-end">
-                    <a class="text-black text-decoration-none stretched-link" href="<?= $subpage->url() ?>">weiterlesen...</a>
-
+                    <?php snippet('knopf-klein', ['subpage' => $subpage, 'knopftext' => "weiterlesen"]); ?>
                 </p>
             </div>
         </div>

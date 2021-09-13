@@ -109,3 +109,4 @@ site/plugins/webhook-field/docs/quickstart.md
 
 # Exclude cached study group images
 content/unterricht/ag-angebot/**/*[.jpg, .png]
+package-lock.json
