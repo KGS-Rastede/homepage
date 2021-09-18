@@ -45,7 +45,7 @@
                 </h3>
               </div>
               <div>
-                <span class="badge badge-pill bg-secondary"><?= $quelle ?></span>  
+                <span class="badge badge-pill bg-primary"><?= $quelle ?></span>  
               </div>
             </div>
 
@@ -57,9 +57,9 @@
               <?= $item->anfang() ?>
             </p>
 
-            <a class="text-black stretched-link text-decoration-none" href="<?= $item->link() ?>" target="_blank" rel="noopener">
-              weiterlesen... 
-            </a>
+            <p class="text-muted mt-2">
+              <?php snippet('knopf-klein', ['subpage' => $item->link(), 'knopftext' => "weiterlesen ...", 'neuerTab' => true]); ?>
+            </p>
 
           </div>
         </div>
