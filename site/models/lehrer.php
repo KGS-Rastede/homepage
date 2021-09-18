@@ -8,7 +8,7 @@ class LehrerPage extends Page
         $csv      = csv($this->root() . '/lehrer.csv', ';');
         $children = array_map(function ($lehrer) {
             return [
-                'slug'     => Str::slug($lehrer['name']),
+                'slug'     => Str::slug($lehrer['kuerzel']),
                 'template' => 'lehrer',
                 'model'    => 'lehrer',
                 'num'      => 0,
