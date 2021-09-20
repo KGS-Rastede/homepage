@@ -1,0 +1,37 @@
+Title: Leckere Waffeln mit Kirschen, Eis und Sahne
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die Sch\u00fclerfirma Sofa-Team war hatte zum Schuljahresende Senioren in die Schule eingeladen. Die <a href=\"https:\/\/www.rasteder-rundschau.de\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Rasteder Rundschau<\/a> berichtete dar\u00fcber, hier ist der Artikel:<\/p>"},"id":"e78249a2-c6d4-4f8b-82dc-76e01ce284bf","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["sofa-team-rasteder-rundschau-aug-2021_1.jpg"],"src":"","alt":"","caption":"Artikel aus der Rasteder Rundschau","link":"https:\/\/www.rasteder-rundschau.de\/","ratio":"","crop":"false"},"id":"afb820ee-ac5f-471a-b64e-b02e6eca59a0","isHidden":false,"type":"image"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-09-20 00:00:00
+
+----
+
+Datumstartseite: 2022-01-20 00:00:00
+
+----
+
+Author: Elisabeth Lücken
+
+----
+
+Tags: Schülerfirmen
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery

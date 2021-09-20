@@ -13,36 +13,43 @@
       <div class="col mb-4">
         <div class="card">
           <?php if ($image = $sf->bild()->toFile()) : ?>
-              <img src="<?= $image->url() ?>" class="card-img-top" alt="...">
+            <img src="<?= $image->url() ?>" class="card-img-top" alt="...">
           <?php endif ?>
-          
-            
+
           <div class="card-body">
             <h3 class="card-title"><?= $sf->Title() ?></h3>
             <p class="card-text"><?= $sf->Heading() ?></p>
             <p class="card-text">
-                <?= $sf->Beschreibung()->toBlocks()->excerpt(300) ?>
+              <?= $sf->Beschreibung()->toBlocks()->excerpt(300) ?>
             </p>
             <p class="text-end">
-                <a href="<?= $sf->url() ?>">weiterlesen...</a>
+              <a href="<?= $sf->url() ?>">weiterlesen...</a>
             </p>
-          </div>      
+          </div>
         </div>
-      </div>  
+      </div>
     <?php endforeach ?>
   </div>
 
 
+  <div class="container">
+
+    <h2>Aktuelles aus den Schülerfirmen</h2>
 
 
-  <h2>Aktuelles aus den Schülerfirmen</h2>
-
-  <?php snippet('blogs', [
-    'blogs' => page('blogs')
+    <?php
+    foreach (page('blogs')
       ->children()
       ->listed()
       ->filterBy('tags', 'Schülerfirmen', ',')
-  ]) ?>
+      ->flip() as $subpage) :
+
+      snippet('blogkarte', ['subpage' => $subpage]);
+    ?>
+
+    <?php endforeach ?>
+
+  </div>
 
 </div>
 
