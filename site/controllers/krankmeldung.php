@@ -4,6 +4,8 @@ return function($kirby, $pages, $page) {
     $alert = null;
 
     if($kirby->request()->is('POST') && get('submit')) {
+        $emailEndung = "@kgs-rastede.eu";
+        $email;
 
         // check the honeypot
         if(empty(get('website')) === false) {
@@ -24,7 +26,7 @@ return function($kirby, $pages, $page) {
             'name'  => ['required', 'minLength' => 3],
             'email' => ['required', 'email'],
             'klassenlehrer'  => ['required', 'minLength' => 2],
-            'klasse'  => ['required', 'minLength' => 2, 'maxLength' => 4],
+            'klasse'  => ['required', 'minLength' => 4, 'maxLength' => 4],
             'tel' => ['required'],
             'nachricht' => ['maxLength' => 200]
         ];
@@ -38,6 +40,13 @@ return function($kirby, $pages, $page) {
             'nachricht' => 'Bitte fassen Sie sich kürzer'
         ];
 
+        if(substr($data['klasse'], 0, 2) === "05" || substr($data['klasse'], 0, 2) === "06") { // für füfnte und sechste Klassen an die Feldbreite
+            $email = "feldbreite" . $emailEndung;
+        }
+        else { // alles andere an die Wilhelmstrasse
+            $email = "wilhelmstrasse" . $emailEndung;
+        }
+
         // some of the data is invalid
         if($invalid = invalid($data, $rules, $messages)) {
             $alert = $invalid;
@@ -49,8 +58,8 @@ return function($kirby, $pages, $page) {
                     'template' => 'krankmeldung',
                     'from'     => esc($data['email']),
                     'replyTo'  => $data['email'],
-                    'to'       => 'ni@kgs-rastede.eu',
-                    'subject'  => 'Krankmeldung für: ' . esc($data['name']),
+                    'to'       => $email,
+                    'subject'  => 'Krankmeldung für: ' . esc($data['name']) . ' (' . esc($data['klasse']) . ')',
                     'data'     => [
                         'text'   => "Name: <em>" . esc($data['name']) .
                                 "</em><br>E-Mail: <em>" . esc($data['email']) .
