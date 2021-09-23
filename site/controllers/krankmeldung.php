@@ -17,7 +17,7 @@ return function($kirby, $pages, $page) {
         $data = [
             'name'  => esc(get('name')),
             'email' => esc(get('email')),
-            'klasse' => esc(get('klasse')),
+            'klasse' => esc(get('klasse')), // es wird as Kürzel übertragen
             'klassenlehrer'  => esc(get('klassenlehrer')),
             'tel' => esc(get('tel')),
             'nachricht' => esc(get('nachricht'))
@@ -55,10 +55,20 @@ return function($kirby, $pages, $page) {
             $data['nachricht'] = "Nachricht: <br>" . $data['nachricht'];
         }
 
+        // Lehrer namen aus dem Kürzel bestimmen
+        $lehrerName;
+        // throw new ErrorException($kirby->site()->find('lehrer')->children()->first()->kuerzel());
+        foreach($kirby->site()->find('lehrer')->children() as $csvLehrer) { // für alle Objekte der Lehrer csv
+            if($csvLehrer->kuerzel() == $data['klassenlehrer']) // wenn das Lehrerkürzel aus der CSV mit dem eingegebenem übereinstimmt 
+                $lehrerName = $csvLehrer->name(); // den Namen der Lehrkraft speichern
+        }
+        // Fallbakc Falls die Lehrkraft nicht gefunden werden konnte
+        if(!isset($lehrerName)) 
+            $lehrerName = $data['klassenlehrer'];
 
         // some of the data is invalid
         if($invalid = invalid($data, $rules, $messages)) {
-            $alert = $invalid;
+            $alert = $invalid ;
 
         // the data is fine, let's send the email
         } else {
@@ -75,19 +85,20 @@ return function($kirby, $pages, $page) {
                                 "</em><br>E-Mail: <em>" . $data['email'] .
                                 "</em><br>Telefonnummer: <em>" . $data['tel'] .
                                 "</em><br>Klasse: <em>" . $data['klasse'] .
-                                "</em><br>Klassenlehrerkürzel: <em>" . $data['klassenlehrer'] .
+                                "</em><br>Klassenlehrer: <em>" . $lehrerName .
                                 "</em><br><br>" . $data['nachricht'] .
                                 "<br><br>"
                     ]
                 ]);
 
             } catch (Exception $error) {
-                if(option('debug')):
+                if(option('debug')) {
                     $alert['error'] = 'Die Krankmeldung konnte nicht gesendet werden: <strong>' . $error->getMessage() . '</strong>';
-                else:
+                } else {
                     $alert['error'] = 'Die Krankmeldung konnte <strong>nicht</strong> gesendet werden! Bitte senden Sie eine Mail an das Sekreteriat um Ihr Kind krank zu melden: 
                         <br>' . $sekiEmail;
-                endif;
+                }
+
             }
 
             if (empty($alert) === true) { // falls die E-Mail an das Sekreteriat und die Lehrkraft erfolgreich war
@@ -99,13 +110,17 @@ return function($kirby, $pages, $page) {
                         'subject'   => 'Eingangsbestätigung Krankmeldung für ' . $data['name'],
                         'data'      => [
                             'text'      => "vielen Dank für das Ausfüllen des Krankmeldungsformulars auf der Homepage der KGS Rastede. Hiermit bestätigen wir Ihnen den systemtechnischen Eingang der Krankmeldung für " . $data['name'] .
-                                    "aus der " . $data['klasse'] . "Entsprechend wurde eine E-Mail an das Sekreteriat und an [HIER LEHRER EINFÜGEN] geschickt." .
+                                    " aus der " . $data['klasse'] . ". Entsprechend wurde eine E-Mail an das Sekreteriat und an " . str_replace("Herr", "Herrn", $lehrerName) ." geschickt." .
 
-                                    "<br><br>Falls diese Angaben nicht korrekt sind wenden Sie sich bitte an das Sekreteriat: " . $sekiEmail . "Sie brauchen sonst nichts weiter zu tun.",
+                                    "<br><br>Falls diese Angaben nicht korrekt sind wenden Sie sich bitte an das Sekreteriat: <em>" . $sekiEmail . "</em>. Sie brauchen sonst nichts weiter zu tun.",
                         ] 
                         ]);
                 } catch (Exception $error) {
-                    // do smth
+                    if(option('debug')) {
+                        $alert['error'] = $alert['error'] . 'Die Bestätigungsmail an Sie konnte nicht gesendet werden: <strong>' . $error->getMessage() . '</strong>';
+                    } else { // es muss nicht überprüft werden, ob die Krankmeldung erfolgreich gesendet wurde, da dies bereits weiter oben im 'if' geschehen ist
+                        $alert['error'] = 'Die Bestätigungsmail an Sie konnte <strong>nicht</strong> gesendet werden! Die Krankmeldung wurde trotztdem erfolgreich gesendet. Sie können diese Fenster nun schließen.';
+                    }
                 }
 
             }
