@@ -46,9 +46,15 @@ Klassen:
 - 
   klasse: 06C3
 - 
-  klasse: 07A1
+  klasse: 06D3
+- 
+  klasse: 06E3
+- 
+  klasse: 06F3
 - 
   klasse: ------
+- 
+  klasse: 07A1
 - 
   klasse: 07A2
 - 
@@ -63,6 +69,12 @@ Klassen:
   klasse: 07C2
 - 
   klasse: 07C3
+- 
+  klasse: 07D3
+- 
+  klasse: 07E3
+- 
+  klasse: 07F3
 - 
   klasse: ------
 - 
@@ -82,6 +94,12 @@ Klassen:
 - 
   klasse: 08C3
 - 
+  klasse: 08D3
+- 
+  klasse: 08E3
+- 
+  klasse: 08F3
+- 
   klasse: ------
 -
   klasse: 09A1
@@ -96,9 +114,15 @@ Klassen:
 -
   klasse: 09B3
 -
+  klasse: 09C1
+-
   klasse: 09C2
 -
   klasse: 09C3
+-
+  klasse: 09D3
+-
+  klasse: 09E3
 -
   klasse: ------
 - 
@@ -118,22 +142,20 @@ Klassen:
 -
   klasse: 10C3
 -
-  klasse: ------
+  klasse: 10D3
 -
-  klasse: 11A1
--
-  klasse: 11A2
--
-  klasse: 11A3
--
-  klasse: 11B1
--
-  klasse: 11B2
--
-  klasse: 11B3
--
-  klasse: 11C2
--
-  klasse: 11C3
+  klasse: 10E3
 -
   klasse: ------
+-
+  klasse: 11A
+-
+  klasse: 11B
+-
+  klasse: 11C
+-
+  klasse: 11D
+-
+  klasse: 11E
+-
+  klasse: 11F
