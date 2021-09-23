@@ -59,6 +59,7 @@ return function($kirby, $pages, $page) {
                     'from'     => esc($data['email']),
                     'replyTo'  => $data['email'],
                     'to'       => $email,
+                    'cc'       => $data['klassenlehrer'] . $emailEndung,
                     'subject'  => 'Krankmeldung für: ' . esc($data['name']) . ' (' . esc($data['klasse']) . ')',
                     'data'     => [
                         'text'   => "Name: <em>" . esc($data['name']) .

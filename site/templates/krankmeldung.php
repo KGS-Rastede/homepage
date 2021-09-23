@@ -90,7 +90,7 @@
                 <option selected disabled>Klassenlehrer:in auswählen</option>
 
                 <?php foreach ($site->find('lehrer')->children() as $lehrer) : ?>
-                  <option><?= $lehrer->name() ?></option>
+                  <option value="<?= $lehrer->kuerzel() ?>"><?= $lehrer->name() ?></option>
                 <?php endforeach ?>
 
               </select>
