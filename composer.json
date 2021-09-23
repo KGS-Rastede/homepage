@@ -22,10 +22,10 @@
         "source": "https://github.com/getkirby/starterkit"
     },
     "require": {
-        "php": ">=7.3.4",
+        "php": ">=7.4.4",
         "getkirby/cms": ">=3.5.0",
         "pju/kirby-webhook-field": "^1.1",
-        "twbs/bootstrap": "^v5.0.0-beta1",
+        "twbs/bootstrap": "^v5.1",
         "ragi96/table-field": "^1.1"
     },
     "config": {
