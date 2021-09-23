@@ -3,7 +3,8 @@ Title: Klassen
 ----
 
 Klassen:
-
+- 
+  klasse: 05A1
 - 
   klasse: 05A1
 - 
@@ -81,4 +82,58 @@ Klassen:
 - 
   klasse: 08C3
 - 
+  klasse: ------
+-
+  klasse: 09A1
+-
+  klasse: 09A2
+-
+  klasse: 09A3
+-
+  klasse: 09B1
+-
+  klasse: 09B2
+-
+  klasse: 09B3
+-
+  klasse: 09C2
+-
+  klasse: 09C3
+-
+  klasse: ------
+- 
+  klasse: 10A1
+-
+  klasse: 10A2
+-
+  klasse: 10A3
+-
+  klasse: 10B1
+-
+  klasse: 10B2
+-
+  klasse: 10B3
+-
+  klasse: 10C2
+-
+  klasse: 10C3
+-
+  klasse: ------
+-
+  klasse: 11A1
+-
+  klasse: 11A2
+-
+  klasse: 11A3
+-
+  klasse: 11B1
+-
+  klasse: 11B2
+-
+  klasse: 11B3
+-
+  klasse: 11C2
+-
+  klasse: 11C3
+-
   klasse: ------

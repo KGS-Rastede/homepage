@@ -1,6 +1,5 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
-
 <?php snippet('sidebar') ?>
 
 <!-- Anleitung: https://getkirby.com/docs/guide/emails -->
@@ -30,19 +29,12 @@
     <div class="container">
 
       <p>
-        Sie möchten ihr Kind krankmelden?
-      </p>
-      <p>
-        Bitte füllen Sie folgende Felder aus, die Klassenlehrkraft wird dann informiert.
+        Um ihr Kind krankzumelden, füllen sie bitte die unten stehenden Felder aus, die Klassenlehrkraft wird dann umgehend informiert.
       </p>
 
       <div class="row align-items-start">
 
-        <div class="mb-3">
-          <div class="form-text">
-            Felder mit einem * sind Pflichtfelder
-          </div>
-        </div>
+        
 
         <div class="col-12">
           <div class="mb-3">
@@ -85,16 +77,30 @@
           </div>
         </div>
 
+
         <div class="col-md-6">
           <div class="mb-3">
             <div class="field">
-              <label for="klassenlehrer" class="form-label">Klassenlehrer*</label>
-              <input type="text" id="klassenlehrer" class="form-control" name="klassenlehrer" value="<?= $data['klassenlehrer'] ?? '' ?>" required>
+              <label for="klasse" class="form-label">
+                Klassenlehrer:in*
+              </label>
+
+              <select type="form-select" id="klasse" class="form-select" name="klasse" value="<?= $data['klasse'] ?? '' ?>" required>   
+
+                <option selected disabled>Klassenlehrer:in auswählen</option>
+
+                <?php foreach ($site->find('lehrer')->children() as $lehrer) : ?>
+                  <option><?= $lehrer->name() ?></option>
+                <?php endforeach ?>
+
+              </select>
               <?= isset($alert['klassenlehrer']) ? '<span class="alert error text-danger">' . html($alert['klassenlehrer']) . '</span>' : '' ?>
-              <div id="klassenlehrerHelp" class="form-text">z.B. 'Herr Mustermann'</div>
+              
             </div>
           </div>
         </div>
+
+
         <div class="col-md-6">
           <div class="mb-3">
             <div class="field">
@@ -132,11 +138,26 @@
           </div>
         </div>
 
+        <div class="mb-3">
+          <div class="form-text">
+            Felder mit einem * sind Pflichtfelder
+          </div>
+        </div>
+
       </div>
-      <button type="submit" name="submit" value="Submit" class="mt-3 btn btn-secondary">Krankmeldung losschicken...</button>
+      <button type="submit" name="submit" value="Submit" class="mt-3 btn btn-primary">Krankmeldung übermitteln</button>
     </div>
 
+    
   </form>
+
+  
+
 <?php endif ?>
 
+
+
+
+
+  
 <?php snippet('footer') ?>
