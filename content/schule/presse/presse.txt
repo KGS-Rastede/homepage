@@ -6,6 +6,89 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-juniorwahl-urnengang-im-klassenzimmer_a_51,3,2765278360.html
+  name: ' Urnengang im Klassenzimmer '
+  anfang: 'Wahlbenachrichtigung, Wahlkabine, Wahlurne: So real wie möglich wird in Rastede die Bundestagswahl simuliert. Die KGS beteiligt sich an der bundesweiten Juniorwahl. Was hat es damit auf sich?'
+  datum: 2021-09-24
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-neues-schulgebaeude-komplett-aus-modulen_a_51,3,1309020848.html
+  name: Neues Schulgebäude komplett aus Modulen
+  anfang: >
+    In gerade mal acht Wochen Bauzeit ist in
+    Rastede ein neues Schulgebäude
+    entstanden. Dass der Trakt aus 20
+    einzelnen Modulen zusammengesetzt wurde,
+    sieht man dem dabei Bau nicht an.
+  datum: 2021-09-03
+  medium: nwz
+- 
+  link: >
+    https://mobil.nwzonline.de/plus-ammerland/rastede-wlan-in_a_51,2,3683026765.html
+  name: ' WLAN in Schulen verbessern '
+  anfang: >
+    Die Kooperative Gesamtschule in Rastede
+    ist nach Auffassung der Gemeinde
+    ausreichend mit WLAN versorgt. Jetzt
+    soll auch die Ausstattung der übrigen
+    Schulen verbessert werden.
+  datum: 2021-08-05
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-hochwasserkatastrophe-kgsschueler-zeigen-grosse-hilfsbereitschaft_a_51,2,2438877058.html
+  name: >
+    Schüler wollen den Opfern des
+    Hochwassers helfen
+  anfang: >
+    Durch die Hochwasserkatastrophe, die
+    sich aktuell in Deutschland abspielt,
+    haben viele Menschen fast alles
+    verloren. Die Schülerinnen und Schüler
+    der KGS haben nun eine Spendenaktion
+    initiiert.
+  datum: 2021-07-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-es-geht-um-meer-herausforderungen-wurden-gut-angenommen_a_51,2,2368539037.html
+  name: >
+    Viele positive Rückmeldungen zur
+    zehnwöchigen Nachhaltigkeits-Challenge
+  anfang: 'Die zehnwöchige Nachhaltigkeits-Challenge der Gruppe „Es geht um Meer“ ist beendet. Die Rückmeldungen sind ausschließlich positiv. Der Appell der Gruppe: Jeder kann etwas bewirken.'
+  datum: 2021-07-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-wettbewerb-rasteder-punktet-mit-eigenem-film_a_51,2,2293104647.html
+  name: >
+    Rasteder Schüler schafft es mit eigenem
+    Film auf Platz eins
+  anfang: >
+    Tobias Mester aus Rastede hat mit seinem
+    eigenen Film den ersten Platz bei der
+    Niedersachsen Filmklappe belegt. Der
+    spannende Streifen „Don’t open“
+    hat die Jury überzeugt.
+  datum: 2021-07-20
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-umweltaktion-stadtradler-sparen-18-tonnen-co_a_51,2,1487221760.html
+  name: ' 18 Tonnen CO2 eingespart '
+  anfang: 'Das „Stadtradeln“ in Rastede war ein voller Erfolg: 880 Teilnehmende sind innerhalb von 3 Wochen über 120 000 Kilometer geradelt. Die Einsparung an CO2 -Emission kann sich sehen lassen.'
+  datum: 2021-07-09
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-zeugnisvergabe-den-schulabschluss-in-der-tasche_a_51,2,1252940697.html
+  name: Den Schulabschluss in der Tasche
+  anfang: '152 Schülerinnen und Schüler der KGS Rastede haben Grund zur Freude: Sie haben ihren Schulabschluss in der Tasche. Zehn von ihnen wurden für besondere Leistung ausgezeichnet.'
+  datum: 2021-07-07
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-bildung-ein-jahrgang-ohne-all-die-schoenen-dinge_a_51,2,1097957569.html
   name: Ein Jahrgang ohne all die schönen Dinge
   anfang: >
