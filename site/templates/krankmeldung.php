@@ -81,16 +81,16 @@
         <div class="col-md-6">
           <div class="mb-3">
             <div class="field">
-              <label for="klasse" class="form-label">
+              <label for="klassenlehrer" class="form-label">
                 Klassenlehrer:in*
               </label>
 
-              <select type="form-select" id="klasse" class="form-select" name="klasse" value="<?= $data['klasse'] ?? '' ?>" required>   
+              <select type="form-select" id="klassenlehrer" class="form-select" name="klassenlehrer" value="<?= $data['klassenlehrer'] ?? '' ?>" required>   
 
                 <option selected disabled>Klassenlehrer:in auswählen</option>
 
                 <?php foreach ($site->find('lehrer')->children() as $lehrer) : ?>
-                  <option><?= $lehrer->name() ?></option>
+                  <option value="<?= $lehrer->kuerzel() ?>"><?= $lehrer->name() ?></option>
                 <?php endforeach ?>
 
               </select>
