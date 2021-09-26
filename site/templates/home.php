@@ -20,8 +20,6 @@
       <?php snippet('box-corona') ?>
       <?php snippet('box-kalender') ?>
       <?php snippet('box-presse') ?>
-      <?php //snippet('box-wetter') 
-      ?>
     </div>
 
   </div>
