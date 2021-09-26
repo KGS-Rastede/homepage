@@ -1,5 +1,35 @@
 <?php
 return function($kirby, $pages, $page) {
+    // Es folgt eine Funktion die später im Code verwendet wird:
+
+    /** Ersetzt Platzhalter vom input panelText und gibt einen String zurück, bei dem die Platzhalter durch die Werte ersetzt wurden.
+     * Es wäre theoretisch möglich eine praktische PHP Methode anstatt zu verwenden.
+     *   Siehe hierzu: https://www.php.net/manual/en/function.sprintf.php
+     *
+     * Bei dieser Methode wäre jedoch eine deutlich kompliziertere Formatierung notwendig und dies wäre im Panel nicht Sinnvoll. Deshalb wird im Panel eine einfachere Formatierung genutzt und diese wird hier wieder manuell umgeschrieben.
+     * @param string $panelText - Der Input Text
+     * @param array $pData - Ein Array welches bestimmte Infos enthalt um die Platzhalter zu ersetzen
+     * @param string $pLehrerName - Der ausgeschriebene Name der Lehrkraft
+     * @param string $pSekiEmail - Die Mail Adresse des Skretariats
+     * @param string $pFormatierteNachricht - Den Nachrichtentext angepasst
+     * @return string - Output Text bei dem die Platzhalter ersetzt wurden 
+
+    */
+    function parseMailText($panelText, $pData, $pLehrerName, $pSekiEmail, $pFormatierteNachricht) {
+        $mailText = $panelText; // sicherheitshalber den Text in einer neuen Variable speichern
+
+        // nach diesen Strings wird gesucht
+        $searchArr = array("%name%", "%mail%", "%tel%", "%klassenlehrer%", "%klassenlehrer-herrn%", "%klasse%", "%original-nachricht", "%nachricht%", "%sekiMail%");
+        // und die Strings ^^ werden durch die folgenden Strings in gleicher Reihenfolger ersetzt
+        $replaceArr = array($pData['name'], $pData['email'], $pData['tel'], $pLehrerName, str_replace("Herr", "Herrn", $pLehrerName), $pData['klasse'], $pData['nachricht'], $pFormatierteNachricht, $pSekiEmail);
+
+        for($i = 0; $i < count($searchArr); $i++) { // für alle Elemente des arrays, bzw. für alle Strings die ersetzt werden sollen
+            // ersetze den jeweiligen Platzhalter mit dem jeweiligen Wert und speichere den Text in der Variable
+            // ireplace bedeuted Groß-/kleinschreibung wird ignoriert 
+            $mailText = str_ireplace($searchArr[$i], $replaceArr[$i], $mailText); 
+        }
+        return $mailText;
+    }
 
     $alert = null;
 
@@ -17,8 +47,8 @@ return function($kirby, $pages, $page) {
         $data = [
             'name'  => esc(get('name')),
             'email' => esc(get('email')),
-            'klasse' => esc(get('klasse')), // es wird as Kürzel übertragen
-            'klassenlehrer'  => esc(get('klassenlehrer')),
+            'klasse' => esc(get('klasse')),
+            'klassenlehrer'  => esc(get('klassenlehrer')), // dieser wird as Kürzel übertragen
             'tel' => esc(get('tel')),
             'nachricht' => esc(get('nachricht'))
         ];
@@ -41,36 +71,39 @@ return function($kirby, $pages, $page) {
             'nachricht' => 'Bitte fassen Sie sich kürzer'
         ];
 
-        // für füfnte und sechste Klassen an die Feldbreite
+        // für fünfte und sechste Klassen E-Mail an die Feldbreite
         if(substr($data['klasse'], 0, 2) === "05" || substr($data['klasse'], 0, 2) === "06") { 
             $sekiEmail = "feldbreite" . $emailEndung;
-        } else { // alles andere an die Wilhelmstrasse
+        } 
+        else { // alles andere an die Wilhelmstrasse
             $sekiEmail = "wilhelmstrasse" . $emailEndung;
         }
 
         // Meldung falls keine Nachricht eingegeben wurde anstatt leeres Feld
+        $formatierteNachricht;
         if(empty($data['nachricht'])) {
-            $data['nachricht'] = "Es wurde keine Nachricht eingegeben.";
-        } else { // "Nachricht:" davor schreiben
-            $data['nachricht'] = "Nachricht: <br>" . $data['nachricht'];
+            $formatierteNachricht = $page->noMsgText()->kt();
+        } 
+        else { // Einfach die Nachricht verwenden, wenn es eine Nachricht gibt
+            $formatierteNachricht = $data['nachricht'];
         }
 
         // Lehrer namen aus dem Kürzel bestimmen
         $lehrerName;
-        // throw new ErrorException($kirby->site()->find('lehrer')->children()->first()->kuerzel());
-        foreach($kirby->site()->find('lehrer')->children() as $csvLehrer) { // für alle Objekte der Lehrer csv
+
+        // für alle Objekte der Lehrer csv
+        foreach($kirby->site()->find('lehrer')->children() as $csvLehrer) {
             if($csvLehrer->kuerzel() == $data['klassenlehrer']) // wenn das Lehrerkürzel aus der CSV mit dem eingegebenem übereinstimmt 
                 $lehrerName = $csvLehrer->name(); // den Namen der Lehrkraft speichern
         }
-        // Fallbakc Falls die Lehrkraft nicht gefunden werden konnte
+        // Fallback falls die Lehrkraft nicht gefunden werden konnte
         if(!isset($lehrerName)) 
             $lehrerName = $data['klassenlehrer'];
 
-        // some of the data is invalid
+        // die eingegbenen Daten im Form sind teilweise falsch
         if($invalid = invalid($data, $rules, $messages)) {
             $alert = $invalid ;
-
-        // the data is fine, let's send the email
+        // die eingegebenen Daten sind in Ordnung, versuche eine E-Mail zu schicken
         } else {
             try {
                 $kirby->email([
@@ -79,55 +112,52 @@ return function($kirby, $pages, $page) {
                     'replyTo'  => $data['email'],
                     'to'       => $sekiEmail,
                     'cc'       => $data['klassenlehrer'] . $emailEndung,
-                    'subject'  => 'Krankmeldung für: ' . $data['name'] . ' (' . $data['klasse'] . ')',
+                    'subject'  => parseMailText($page->sekiBetreff(), $data, $lehrerName, $sekiEmail, $formatierteNachricht),
                     'data'     => [
-                        'text'   => "Name: <em>" . $data['name'] .
-                                "</em><br>E-Mail: <em>" . $data['email'] .
-                                "</em><br>Telefonnummer: <em>" . $data['tel'] .
-                                "</em><br>Klasse: <em>" . $data['klasse'] .
-                                "</em><br>Klassenlehrer: <em>" . $lehrerName .
-                                "</em><br><br>" . $data['nachricht'] .
-                                "<br><br>"
+                        'text'   => parseMailText($page->sekiText()->kt(), $data, $lehrerName, $sekiEmail, $formatierteNachricht),
                     ]
                 ]);
 
+            // falls es beim senden der Mail zu einem Fehler kommt
             } catch (Exception $error) {
-                if(option('debug')) {
+                if(option('debug')) { // auf lokalen Test-Systemen
                     $alert['error'] = 'Die Krankmeldung konnte nicht gesendet werden: <strong>' . $error->getMessage() . '</strong>';
-                } else {
-                    $alert['error'] = 'Die Krankmeldung konnte <strong>nicht</strong> gesendet werden! Bitte senden Sie eine Mail an das Sekreteriat um Ihr Kind krank zu melden: 
-                        <br>' . $sekiEmail;
+                } else { // auf dem echten Server
+                    $alert['error'] = parseMailText($page->failKrankmeldung()->kt(), $data, $lehrerName, $sekiEmail, $formatierteNachricht);
                 }
 
             }
 
-            if (empty($alert) === true) { // falls die E-Mail an das Sekreteriat und die Lehrkraft erfolgreich war
-                try { // versuche an die Eltern eine Mail Bestätigungsmail zu schicken
+            // falls die E-Mail an das Sekreteriat und die Lehrkraft erfolgreich war
+            if (empty($alert) === true) { 
+                try { // versuche an die Eltern eine Bestätigungsmail zu schicken
                     $kirby->email([
                         'template'  => 'bestaetigung',
                         'from'      => $sekiEmail,
                         'to'        => $data['email'],
-                        'subject'   => 'Eingangsbestätigung Krankmeldung für ' . $data['name'],
+                        'subject'   => parseMailText($page->confirmationBetreff(), $data, $lehrerName, $sekiEmail, $formatierteNachricht),
                         'data'      => [
-                            'text'      => "vielen Dank für das Ausfüllen des Krankmeldungsformulars auf der Homepage der KGS Rastede. Hiermit bestätigen wir Ihnen den systemtechnischen Eingang der Krankmeldung für " . $data['name'] .
-                                    " aus der " . $data['klasse'] . ". Entsprechend wurde eine E-Mail an das Sekreteriat und an " . str_replace("Herr", "Herrn", $lehrerName) ." geschickt." .
-
-                                    "<br><br>Falls diese Angaben nicht korrekt sind wenden Sie sich bitte an das Sekreteriat: <em>" . $sekiEmail . "</em>. Sie brauchen sonst nichts weiter zu tun.",
+                            'text'      =>  parseMailText($page->confirmationText()->kt(), $data, $lehrerName, $sekiEmail, $formatierteNachricht),
                         ] 
                         ]);
                 } catch (Exception $error) {
                     if(option('debug')) {
+                        if(!isset($alert['error'])) // falls es noch keinen Wert gibt
+                            $alert['error'] = ""; // lege diesen als leeren String fest, um eine Fehlermeldung zu vermeiden
+
                         $alert['error'] = $alert['error'] . 'Die Bestätigungsmail an Sie konnte nicht gesendet werden: <strong>' . $error->getMessage() . '</strong>';
-                    } else { // es muss nicht überprüft werden, ob die Krankmeldung erfolgreich gesendet wurde, da dies bereits weiter oben im 'if' geschehen ist
-                        $alert['error'] = 'Die Bestätigungsmail an Sie konnte <strong>nicht</strong> gesendet werden! Die Krankmeldung wurde trotztdem erfolgreich gesendet. Sie können diese Fenster nun schließen.';
+                    // es muss nicht überprüft werden, ob die Krankmeldung erfolgreich gesendet wurde, da dies bereits weiter oben im 'if' geschehen ist
+                    // die Mail an das Sekreteriat wurde also erfolgreich gesendet
+                    } else { 
+                        $alert['error'] = parseMailText($page->failBestaetigung()->kt(), $data, $lehrerName, $sekiEmail, $formatierteNachricht);
                     }
                 }
 
             }
 
-            // no exception occurred, let's send a success message
+            // keine Fehler sind aufgetreten, es keine eine Bestätigungsnachricht angezeigt werden
             if (empty($alert) === true) {
-                $success = 'Die Krankmeldung wurde erfolgreich gesendet! Sie können dieses Fenster nun schließen.';
+                $success = parseMailText($page->successText()->kt(), $data, $lehrerName, $sekiEmail, $formatierteNachricht);
                 $data = [];
             }
         }
