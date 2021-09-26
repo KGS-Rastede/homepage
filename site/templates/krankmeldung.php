@@ -27,10 +27,7 @@
 
 
     <div class="container">
-
-      <p>
-        Um ihr Kind krankzumelden, füllen sie bitte die unten stehenden Felder aus, die Klassenlehrkraft wird dann umgehend informiert.
-      </p>
+      <?= $page->formularText()->kt() ?>
 
       <div class="row align-items-start">
 
@@ -134,7 +131,7 @@
             
             <textarea class="form-control" id="nachricht" name="nachricht" placeholder="max. 200 Zeichen" maxlength="200" value="<?= $data['nachricht'] ?? '' ?>" style="height: 70px"></textarea>
             <?= isset($alert['nachricht']) ? '<span class="alert error text-danger">' . html($alert['nachricht']) . '</span>' : '' ?>
-            <div id="nachrichtHelp" class="form-text">Es kann eine Nachricht in besonderen Fällen oder bei längerer Krankmeldung angefügt werden</div>
+            <div id="nachrichtHelp" class="form-text"><?= $page->nachrichtText()->kt() ?></div>
           </div>
         </div>
 
