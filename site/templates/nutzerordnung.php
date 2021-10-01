@@ -16,7 +16,8 @@
                     <div class="card-body">
                         <h5 class="card-title"><?= $datei->anzeigename()->or($datei->name()) ?></h5>
                         <p class="card-text"><?= $datei->beschreibung() ?></p>
-                        <a href="<?= $datei->url() ?>" class="btn btn-secondary mb-5" role="button">Datei herunterladen</a>
+
+                        <?php snippet('knopf-klein', ['subpage' => $datei, 'knopftext' => "Datei herunterladen"]); ?>
 
                     </div>
                 </div>
