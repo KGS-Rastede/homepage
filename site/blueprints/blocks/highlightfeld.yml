@@ -6,5 +6,17 @@ fields:
   Ueberschrift:
     label: Überschrift des Feldes
     type: text
+  farbe: Farbe auswählen
+      type: select
+      default: info
+      help: Unser Design hat 7 Farben, hier kann man diese festlegen (hellblau ist voreingestellt)
+      options:
+        primary: Primary
+        secondary: Secondary
+        info: Info (Hellblau)
+        dark: Dark
+        light: Light
+        warning: Warning
+        danger: Danger
   Feldinhalt:
     type: textarea
