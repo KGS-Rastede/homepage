@@ -95,7 +95,7 @@
       <img src="<?= $page->files()->find('deutsch.jpg')->url() ?>" class="card-img" alt="Fremdsprachen">
 
       <h3 class="card-category card-title mb-3 text-warning">Deutsch</h3>
-      <h4 class="card-title">Fachbereichsleiterin: Frau Wohltmann (komm.)</h4>
+      <h4 class="card-title">Fachbereichsleiterin: Frau Wohltmann</h4>
 
       <div class="list-group">
         <a href="<?= page('Faecher/deutsch')->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
