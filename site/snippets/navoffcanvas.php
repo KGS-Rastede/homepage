@@ -9,11 +9,12 @@
     <nav class="navbar navbar-expand-lg fixed-top navbar-light" aria-label="Main navigation">
 
         <div class="container-fluid">
+            <!-- Hier fehlt noch das Logo -->
 
 
             <a class="navbar-brand" href="<?= $site->url() ?>">KGS Rastede</a>
 
-            <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 

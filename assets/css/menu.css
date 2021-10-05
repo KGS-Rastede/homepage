@@ -18,8 +18,8 @@ body {
     padding-left: 1rem;
     overflow-y: auto;
     visibility: hidden;
-    background-color: #343a40;
-    transition: transform .3s ease-in-out, visibility .3s ease-in-out;
+    background-color: #f9f8f8;
+    transition: transform 0.3s ease-in-out, visibility 0.3s ease-in-out;
   }
   .offcanvas-collapse.open {
     visibility: visible;
@@ -40,20 +40,20 @@ body {
   padding-bottom: 1rem;
   margin-top: -1px;
   overflow-x: auto;
-  color: rgba(255, 255, 255, .75);
+  /* color: rgba(255, 255, 255, .75); */
   text-align: center;
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
 
 .nav-underline .nav-link {
-  padding-top: .75rem;
-  padding-bottom: .75rem;
-  font-size: .875rem;
-  color: #6c757d;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  font-size: 0.875rem;
+  /* color: #6c757d; */
 }
 
-.nav-underline .nav-link:hover {
+/* .nav-underline .nav-link:hover {
   color: #007bff;
 }
 
@@ -64,4 +64,4 @@ body {
 
 .bg-purple {
   background-color: #6f42c1;
-}
+} */
