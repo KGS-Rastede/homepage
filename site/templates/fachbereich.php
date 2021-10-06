@@ -5,14 +5,9 @@
 
 <div class="container">
 
-
-
- <!-- //so kann man sehen, welche Tags gesetzt sind.
-  //implode($page->tags()->split(','), ",")  -->
-
-  <!-- // Bug, ich habe hier noch keine funktionierende Lösung für gefunden
-  foreach (collection('blogs')->filterBy('tags', "Biologie")->flip() as $subpage) :
-    snippet('blogkarte', ['subpage' => $subpage]); -->
+  <?php foreach (collection('blogs')->filterBy('tags', 'in', $page->tags()->split(','), ',' )->flip() as $subpage) :
+    snippet('blogkarte', ['subpage' => $subpage]); ?>
+  <?php endforeach ?>
 
     <h2>Der Fachbereich besteht aus folgenden Fächern</h2>
   <?php
