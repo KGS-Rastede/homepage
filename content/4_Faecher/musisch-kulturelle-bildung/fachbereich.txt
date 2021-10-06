@@ -25,10 +25,14 @@ Pages:
 
 ----
 
-Files:
+Symbolbild:
 
 - mukubi.jpg
 
 ----
 
 Tags: Musik, Kunst, Darstellendes Spiel, Werken
+
+----
+
+Files: - mukubi.jpg

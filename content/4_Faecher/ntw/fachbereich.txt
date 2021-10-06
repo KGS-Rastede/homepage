@@ -22,13 +22,17 @@ Pages:
 
 ----
 
-Files:
+Symbolbild:
 
 - ntw.jpg
 
 ----
 
 Tags: Chemie, Physik, Biologie
+
+----
+
+Files: - ntw.jpg
 
 ----
 
