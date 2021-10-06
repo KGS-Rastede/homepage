@@ -42,10 +42,12 @@ columns:
             label: Bild zu den Fachbereichen
             multiple: false
             layout: cards
-          author:
-            label: Author
-            type: users
-            multiple: false
+          # Hier könnte man in Zukunft einen Account einbauen.
+          # Nur dieser Account kann dann die Unterseiten editieren.
+          # author:
+          #   label: Author
+          #   type: users
+          #   multiple: false
           tags:
             label: Tags
             type: tags
