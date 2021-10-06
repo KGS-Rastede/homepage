@@ -10,7 +10,7 @@ Email: fch@kgs-rastede.eu
 
 ----
 
-Text: [{"content":{"text":"<p>Die Naturwissenschaften sind die wichtigstens F\u00e4cher der Welt.<\/p>"},"id":"40c79cce-fb4a-4811-bfbd-218e3d8c7648","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["ntw.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8cf5df67-06d5-48a4-9046-9c82b3f86aae","isHidden":false,"type":"image"},{"content":{"text":"\u00dcber NTW geht nix","citation":"Die Wahrheit"},"id":"5b8e1289-dc24-43ee-afc9-723285c91378","isHidden":false,"type":"quote"},{"content":{"text":"<p>Weiterer Text mit <strong>wichtigen <\/strong>Inhalten.<\/p>"},"id":"13920e8a-21a5-417d-82ff-749a7601ba44","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p>Die Naturwissenschaften sind die wichtigstens F\u00e4cher der Welt.<\/p>"},"id":"40c79cce-fb4a-4811-bfbd-218e3d8c7648","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["sofa-team-rasteder-rundschau-aug-2021_1.jpg"],"src":"https:\/\/source.unsplash.com\/random","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8cf5df67-06d5-48a4-9046-9c82b3f86aae","isHidden":false,"type":"image"},{"content":{"text":"\u00dcber NTW geht nix","citation":"Die Wahrheit"},"id":"5b8e1289-dc24-43ee-afc9-723285c91378","isHidden":false,"type":"quote"},{"content":{"text":"<p>Weiterer Text mit <strong>wichtigen <\/strong>Inhalten.<\/p>"},"id":"13920e8a-21a5-417d-82ff-749a7601ba44","isHidden":false,"type":"text"}]
 
 ----
 
@@ -24,15 +24,16 @@ Pages:
 
 Files:
 
-- ntw.jpg
+- >
+  sofa-team-rasteder-rundschau-aug-2021_1.jpg
+
+----
+
+Tags: Chemie, Physik, Biologie
 
 ----
 
 Author: 
-
-----
-
-Tags: Biologie, Chemie, Physik
 
 ----
 

@@ -1,1 +1,34 @@
 Title: Musisch Kulturelle Bildung
+
+----
+
+Namefbl: Jesco Schneemann
+
+----
+
+Email: scm@kgs-rastede.eu
+
+----
+
+Text: [{"content":{"text":"<p>Jesco, tob dich aus!<\/p>"},"id":"a46f6a9b-ec2c-4c7b-8324-5677dbed9022","isHidden":false,"type":"text"}]
+
+----
+
+Pages:
+
+- Faecher/musisch-kulturelle-bildung/ds
+- Faecher/musisch-kulturelle-bildung/kunst
+- Faecher/musisch-kulturelle-bildung/musik
+- Faecher/musisch-kulturelle-bildung/tg
+- >
+  Faecher/musisch-kulturelle-bildung/werken
+
+----
+
+Files:
+
+- mukubi.jpg
+
+----
+
+Tags: Musik, Kunst, Darstellendes Spiel, Werken
