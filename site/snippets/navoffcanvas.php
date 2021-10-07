@@ -23,10 +23,11 @@
                     <?php //Jetzt kommen alle Kategorien
                     snippet('navkategorien', ['items' => $kategorien, 'count' => $count]) ?>
                 </ul>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Suche" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Suche</button>
+                <form class="d-flex" action="search">
+                    <input class="form-control me-2" type="text" placeholder="Suche" name="q" <button type="submit"></button>
                 </form>
+
+
             </div>
         </div>
     </nav>
