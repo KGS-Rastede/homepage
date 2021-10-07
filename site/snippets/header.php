@@ -17,7 +17,7 @@
     https://web.dev/defer-non-critical-css/ 
   -->
   <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  
+
   <noscript>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
   </noscript>
@@ -35,5 +35,24 @@
 <body>
 
   <header>
-    <?php snippet('nav2') ?>
+    <?php //snippet('nav2') 
+    ?>
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+
+    <?php snippet('navoffcanvas') ?>
   </header>

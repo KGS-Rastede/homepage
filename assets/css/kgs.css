@@ -40,6 +40,16 @@
   src: local("Pangea-BoldWeb"), local("Pangea-BoldWeb"), url("./Pangea-BoldWeb.woff2") format("woff2");
   font-display: swap;
 }
+html,
+body {
+  overflow-x: hidden;
+  /* Prevent scroll on narrow devices */
+}
+
+body {
+  padding-top: 56px;
+}
+
 .main {
   margin-top: 30px;
 }
@@ -256,6 +266,54 @@ code {
 .bs-callout-dark {
   border-color: #250606dc;
   border-left-color: #250606dc;
+}
+
+/* das Menu */
+@media (max-width: 991.98px) {
+  .offcanvas-collapse {
+    position: fixed;
+    top: 56px;
+    /* Height of navbar */
+    bottom: 0;
+    left: 100%;
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    overflow-y: auto;
+    visibility: hidden;
+    background-color: #f9f8f8;
+    transition: transform 0.3s ease-in-out, visibility 0.3s ease-in-out;
+  }
+
+  .offcanvas-collapse.open {
+    visibility: visible;
+    transform: translateX(-100%);
+  }
+}
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+  height: 2.75rem;
+  overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+  display: flex;
+  flex-wrap: nowrap;
+  padding-bottom: 1rem;
+  margin-top: -1px;
+  overflow-x: auto;
+  /* color: rgba(255, 255, 255, .75); */
+  text-align: center;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.nav-underline .nav-link {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  font-size: 0.875rem;
+  /* color: #6c757d; */
 }
 
 /* -------end customization-------- */
