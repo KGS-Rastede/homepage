@@ -275,7 +275,7 @@ code {
     overflow-y: auto;
     visibility: hidden;
     background-color: #f9f8f8;
-    transition: transform 0.3s ease-in-out, visibility 0.3s ease-in-out;
+    transition: all 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   }
 
   .offcanvas-collapse.open {
@@ -3137,6 +3137,11 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.bg-secondary {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-success {
