@@ -6,7 +6,7 @@
 ?>
 
 
-    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-primary" aria-label="Main navigation">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-secondary" aria-label="Main navigation">
 
         <div class="container-fluid">
             <!-- Hier fehlt noch das Logo -->
