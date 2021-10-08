@@ -20,7 +20,8 @@
 
 
         <h3 class="card-title mb-3 text-warning"><?= $fb->title() ?></h3>
-        <h3 class="card-title">Fachbereichsleiter:in <?= $fb->namefbl() ?></h3>
+        <h3 class="card-title"><?= $fb->bezeichnung() ?>:</h3>
+        <h3> <?= $fb->namefbl() ?></h3>
         <div class="list-group text-white">
 
 
