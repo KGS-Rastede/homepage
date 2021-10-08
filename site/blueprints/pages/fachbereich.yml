@@ -12,13 +12,17 @@ columns:
       content:
         type: fields
         fields:
+          bezeichnung:
+            width: 1/4
+            label: Bezeichnung/Anrede
+            type: text
           namefbl:
             width: 1/2
             label: Name der Fachbereichleiter:in
             type: text
           email:
-            width: 1/2
-            label: Email der Fachbereichleiter:in
+            width: 1/4
+            label: Emailadresse
             type: email
           trennlinie:
             type: line
