@@ -308,60 +308,58 @@ code {
     }
 }
 
-
 /* das Menu */
 @media (max-width: 991.98px) {
-  .offcanvas-collapse {
-    position: fixed;
-    top: 56px; /* Height of navbar */
-    bottom: 0;
-    left: 100%;
-    width: 100%;
-    padding-right: 1rem;
-    padding-left: 1rem;
-    overflow-y: auto;
-    visibility: hidden;
-    background-color: $secondary;
-    // 08/15 übergang
-    // transition: transform 0.3s ease-in-out, visibility 0.3s ease-in-out;
-    
-    // eher spielerische mit "über das Ziel hinaus"
-    transition: all 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    .offcanvas-collapse {
+        position: fixed;
+        top: 56px; /* Height of navbar */
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        overflow-y: auto;
+        visibility: hidden;
+        background-color: $secondary;
+        // 08/15 übergang
+        // transition: transform 0.3s ease-in-out, visibility 0.3s ease-in-out;
 
-    // etwas weniger spielerisch
-    // transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        // eher spielerische mit "über das Ziel hinaus"
+        transition: all 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 
-  }
-  .offcanvas-collapse.open {
-    visibility: visible;
-    transform: translateX(-100%);
-  }
+        // etwas weniger spielerisch
+        // transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+    .offcanvas-collapse.open {
+        visibility: visible;
+        transform: translateX(-100%);
+    }
 }
 
 .nav-scroller {
-  position: relative;
-  z-index: 2;
-  height: 2.75rem;
-  overflow-y: hidden;
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
 }
 
 .nav-scroller .nav {
-  display: flex;
-  flex-wrap: nowrap;
-  padding-bottom: 1rem;
-  margin-top: -1px;
-  overflow-x: auto;
-  /* color: rgba(255, 255, 255, .75); */
-  text-align: center;
-  white-space: nowrap;
-  -webkit-overflow-scrolling: touch;
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    /* color: rgba(255, 255, 255, .75); */
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
 }
 
 .nav-underline .nav-link {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-  font-size: 0.875rem;
-  /* color: #6c757d; */
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    font-size: 0.875rem;
+    /* color: #6c757d; */
 }
 
 /* Ab hier für die Geschichtsunterseite */
@@ -605,15 +603,13 @@ $primary-color-hover: scale-color($primary, $lightness: 32%);
     .timeline-marker {
         &:before {
             background: transparent;
-            border-color: $primary
+            border-color: $primary;
         }
     }
     .timeline-item:hover .timeline-marker:before {
         background: $primary;
     }
 }
-
-
 
 /* -------end customization-------- */
 
