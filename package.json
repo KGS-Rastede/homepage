@@ -1,11 +1,11 @@
 {
-  "name": "kgs-kirby",
+  "name": "Homepage_KGS_Rastede",
   "version": "1.0.0",
-  "description": "Ich habe Kirby soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann könnt ihr den Code mit folgenden Befehlen runterladen:",
+  "description": "Die Homepage der KGS Rastede, programmiert mit dem CMS Kirby",
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "http://git.kgsrastede.de/KGS-Rastede/homepage.git"
+    "url": "https://gitlab.com/cniehaus/homepage"
   },
   "keywords": [],
   "author": "",
