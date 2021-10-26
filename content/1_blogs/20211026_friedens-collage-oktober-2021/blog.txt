@@ -1,0 +1,37 @@
+Title: Friedens-Collage Oktober 2021
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"Was f\u00fcr ein unseliges Ding ist doch der Krieg! Machen Sie, dass bald Friede wird (\u2026).","citation":"Lessing"},"id":"d14660ca-5c6b-4660-b551-c84349e38339","isHidden":false,"type":"quote"},{"content":{"text":"<p>Wie Lessing sehnen sich die Menschen nach Friede. Doch weder die \u00c4chtung des Krieges noch die Millionen Toten zweier Weltkriege haben bislang zur Beseitigung personaler und struktureller Gewalt und zur Realisierung einer befriedeten Welt gef\u00fchrt. Unsere Friedens-Collage bietet die M\u00f6glichkeit, sich mit der Idee und der Praxis des Friedens auseinanderzusetzen. Sie dokumentiert Menschen, Organisationen, Ereignisse, Prozesse und Werke, die dem Joch der Friedlosigkeit das Recht des positiven Friedens gegen\u00fcber stellen. Frieden kommt nicht nach durchschlafener Nacht; Frieden muss von Menschen \u201egestiftet werden\u201c (Kant).<\/p>"},"id":"b9f88ff3-4a77-43cd-ae94-74baf11ebced","isHidden":false,"type":"text"},{"content":{"text":"War is over \u2013 if you want it","citation":"John Lennon \/ Yoko Ono"},"id":"107f4000-41ac-4f87-a637-222f95ca52be","isHidden":false,"type":"quote"},{"content":{"images":["ag-fdf-bilderaktion-00003.jpg","ag-fdf-bilderaktion-00002.jpg","ag-fdf-bilderaktion-00004.jpg","ag-fdf-bilderaktion-00006.jpg","ag-fdf-bilderaktion-00001.jpg","ag-fdf-bilderaktion-00005.jpg","ag-fdf-bilderaktion-00007.jpg","ag-fdf-bilderaktion-00008.jpg","ag-fdf-bilderaktion-00011.jpg","ag-fdf-bilderaktion-00010.jpg","ag-fdf-bilderaktion-00009.jpg"]},"id":"f7720225-5aa7-41d7-b089-b9e6cb171d82","isHidden":false,"type":"gallery"},{"content":{"name":"AG \u201eF\u00fcr den Frieden\u201c"},"id":"ae880532-e986-4ae3-93b8-da94d11dde7a","isHidden":false,"type":"gastautor"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-10-26 00:00:00
+
+----
+
+Datumstartseite: 2022-02-26 00:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
