@@ -1,0 +1,45 @@
+Title: Kreativer Matheunterricht  – Comics aus der 8A3
+
+----
+
+Heading: Mathe mal anders
+
+----
+
+Text: [{"content":{"text":"<p>Mathe und Comics, das geh\u00f6rt nicht zusammen? Naja, beim Kiosk findet man dazu wohl tats\u00e4chlich nur schwer etwas, doch mit Phantasie und Geschick lassen sich auch Mathe-Themen in Comics darstellen \u2013 besonders, wenn man die M\u00f6glichkeiten von Apps wie book-creator nutzen kann. So hat die Klasse 8A3 bei Herrn Dr. Fach Comics zum Thema \u201eWas ist eine Funktion?\u201c erstellt, die Ergebnisse sind wirklich toll geworden. Erg\u00e4nzend zum Jahrbuch findet ihr hier eine Auswahl der Werke. Viel Freude damit!<\/p>"},"id":"7f62e5d3-c15a-454a-9388-815b81c3d11c","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-10-21 00:00:00
+
+----
+
+Datumstartseite: 2022-01-31 00:00:00
+
+----
+
+Author: MCH
+
+----
+
+Tags: Mathematik
+
+----
+
+Downloads:
+
+- book_silje.pdf
+- book_fabian.pdf
+- book_florian.pdf
+- book_daina.pdf
+- book_eske.pdf
+- book_lisa.pdf
+- book_leana.pdf
+
+----
+
+Fotoansicht: gallery
