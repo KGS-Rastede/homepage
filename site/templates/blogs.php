@@ -22,8 +22,6 @@
   </div>
 </div>
 
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-
-<?= js('assets/js/masonry_neu_rendern.js') ?>
+<?= js('assets/js/load_masonry.js') ?>
 
 <?php snippet('footer') ?>

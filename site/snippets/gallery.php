@@ -13,4 +13,4 @@
   <?php endforeach ?>
 </div>
 
-<?= js('assets/js/masonry_neu_rendern.js') ?>
+<?= js('assets/js/load_masonry.js.js') ?>
