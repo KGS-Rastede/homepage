@@ -22,4 +22,4 @@
 </a>
 
 <!-- Masonry Skript -->
-<?= js('assets/js/load_masonry.js.js') ?>
+<?= js('assets/js/load_masonry.js') ?>
