@@ -6,6 +6,30 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-auszeichnung-wie-die-kgs-eine-gesunde-lebenswelt-schaffen-will_a_51,4,2537385281.html
+  name: >
+    Rastedes größte Schule freut sich
+    über Auszeichnung
+  anfang: 'Der Lern- und Arbeitsort Schule soll sich zu einer gesunden Lebenswelt entwickeln – für Schüler und Lehrer der KGS Rastede. Einiges wurde bereits verändert, es gibt aber noch viel zu tun.'
+  datum: 2021-11-19
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-schulradeln-schuelerin-tritt-fuers-klima-in-die-pedale_a_51,4,2465768148.html
+  name: >
+    Diese Schülerin tritt fürs Klima in
+    die Pedale
+  anfang: >
+    Anfangs brauchte Saskia Butt mit dem Rad
+    noch 45 Minuten für den Schulweg nach
+    Rastede. Am Ende schaffte sie es in
+    weniger als einer halben Stunde. Jetzt
+    durfte sie zur Preisverleihung in
+    Hannover.
+  datum: 2021-11-12
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede_a_51,3,4076286831.html
   name: >
     Neue Geräte für Physikunterricht in
