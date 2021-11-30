@@ -1,0 +1,37 @@
+Title: Adventsverlosung der „KLEINEN BÜCHEREI“mit dem Leseclub!
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Endlich ist die KLEINE B\u00dcCHEREI in der Feldbreite wieder ge\u00f6ffnet und wir haben ordentlich sauber gemacht, geordnet und neu dekoriert. Dabei sind uns einige doppelte Exemplare in die H\u00e4nde gefallen, die wir an Sch\u00fcler:innen der 5.\/6. Klassen verlosen m\u00f6chten, eine kleine s\u00fc\u00dfe \u00dcberraschung wartet ebenfalls auf euch! Dazu m\u00fcsst ihr an den Adventsmontagen bei dem Schaukasten neben R21 vorbeischauen und die Fragen beantworten. Die Antworten k\u00f6nnt ihr entweder zu den \u00d6ffnungszeiten der KLEINEN B\u00dcCHEREI abgeben, oder an <a href=\"mailto:sch@kgs-rastede.eu\">sch@kgs-rastede.eu<\/a> schicken. Die Gewinner:innen werden von uns per Mail benachrichtigt!<\/p><p>Wir freuen uns auf euch und w\u00fcnschen euch eine sch\u00f6ne AdventszeitJ!<\/p><p>\u00a0<\/p><p>Und vergesst nicht:<\/p><p>Kommt vorbei in die KLEINE B\u00dcCHEREI<\/p><p>\u00a0<\/p><p>Montags: 2. gro\u00dfe Pause<\/p><p>Freitags: 2. gro\u00dfe Pause<\/p><p>\u00a0<\/p><p>\u00a0<\/p><p>Euer Leseclub mit Frau Schneemann<\/p>"},"id":"fcd6cccc-38a5-4714-b1ba-b9c3f4feafe2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["foto-2-leseclub.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"66b9ba22-b873-46cd-85ed-5cb1649b00eb","isHidden":false,"type":"image"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-11-30 00:00:00
+
+----
+
+Datumstartseite: 2022-03-30 00:00:00
+
+----
+
+Author: Frau Schneemann
+
+----
+
+Tags: AGs, Kleine Bücherei, Advent
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
