@@ -65,6 +65,9 @@ Sidetitel: Nützliche Links
 Sidebar:
 
 - 
+  link: http://www.ler-nds.de
+  name: Homepage des Landeselternrates
+- 
   link: >
     https://www.arbeitsagentur.de/vor-ort/oldenburg-wilhelmshaven/berufsberatung
   name: >
@@ -75,13 +78,6 @@ Sidebar:
   name: >
     Infomaterial Studium für Eltern und
     Schüler
-- 
-  link: >
-    https://schulnetzmail.nibis.de/files/d75c6af564911048c0c87ff10366dcb4/newsletter-07-2019.pdf
-  name: Newsletter 9 des Landeselternrates
-- 
-  link: 'http://www.ler-nds.de/.cm4all/uproc.php/0/Newsletter%2015.%20LER/Ausgabe%2010-2019-neu4.pdf?_=16e3d974835&cdp=a'
-  name: Newsletter 10 des Landeselternrates
 
 ----
 
