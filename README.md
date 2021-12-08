@@ -1,22 +1,25 @@
 # Wie UNSERE Homepage runterladen
-Ich habe Kirby soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann könnt ihr den Code mit folgenden Befehlen runterladen:
+Kirby ist soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann könnt ihr den Code mit folgenden Befehlen runterladen:
 
-## Vorher ist folgende Software zu installieren
+## Welche Software muss vorher instlliert werden?
 
-+ composer (https://getcomposer.org/download/)
-+ WebServer (WAMP, LAMP, ...)
-+ PHP 7 (empfohlen ist PHP 7.4)
-+ git
-+ ein guter Editor  (Visual Studio Code, Atom, ...)
++ [composer](https://getcomposer.org/download/)
++ WebServer (WAMP, LAMP, XAMPP, etc) oder falls [VS Code](https://code.visualstudio.com/) benutzt wird, die Extension [PHP-Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
++ PHP 7 (mindestens PHP 7.4)
++ [git](https://git-scm.com/downloads)
++ Ein Editor wie Visual Studio Code, Atom, etc.
 
 *Weitere Details sind unten zu finden.*
 
-
-In der Konsole muss zum herunterladen der Homepage nun folgendes eingegeben werden:
+Wenn alle der vorherigen Punkte erfüllt sind, kann der Code mit folgenden Befehlen in der Console heruntergeladen werden:
 
 ```console
 git clone https://gitlab.com/cniehaus/homepage
 cd homepage
+```
+
+Anschließend müsst ihr euch in git einloggen (mit --global werden diese Login Daten für alle Git Projekte gespeichert).
+```console	
 git config --global user.name "Max Mustermann"
 git config --global user.email "max@mustermann.de"
 ```
@@ -61,7 +64,7 @@ Ich verwende [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/).
 Wenn [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/) bereits installiert sein solte, aber noch auf einer Älteren PHP Version läuft, kann man dies ganz einfach wie [HIER](http://blog.astemplates.com/change-php-version-wamp/) beschrieben auf PHP 7.4.0 ändern. 
 
 ## PHP (muss eigentlich nicht direkt installiert werden, kommt mit dem Webserver)
-Kirby setzt technisch gesehen nur PHP 7.3+ voraus, dennoch ist PHP 7.4 zu empfehlen.
+Kirby setzt technisch gesehen nur PHP 7.4+ voraus, daher ist diese Version auch zu empfehlen.
 
 Man muss PHP aber nicht direkt installieren, denn PHP kommt als Teil vom Wamp64 mit.
 
@@ -76,7 +79,7 @@ C:\wamp64\bin\php\php7.4.0
 
 
 # Git
-Die neue Homepage wird mit Git verwaltet werden. Jeder, der mitmachen möchte, sollte also einen Account bei unserem Git-Server haben. Bitte also auf [den Server](https://gitlab.com/cniehaus/homepage) gehen und einen Account anlegen. 
+Die  Homepage wird mit Git verwaltet werden. Jeder, der mitmachen möchte, sollte also einen Account bei Gitlab haben. Bitte geh also auf [Gitlab](https://gitlab.com/cniehaus/homepage) lege einen Account an
 
 
 # CSS
