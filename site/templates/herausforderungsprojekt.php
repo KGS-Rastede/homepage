@@ -11,7 +11,7 @@
   foreach (page('blogs')
     ->children()
     ->listed()
-    ->filterBy('tags', 'Herausforderung', ',')
+    ->filterBy('tags', 'Herausforderungsprojekt', ',')
     ->flip() as $subpage) :
 
     snippet('blogkarte', ['subpage' => $subpage]);
