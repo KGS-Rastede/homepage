@@ -3,6 +3,10 @@
 
 <?php snippet('sidebar') ?>
 
+<?php if ($file = $page->files()->filterBy('extension', 'svg')->first()) :?>
+<?= svg($file)?>
+<?php endif ?>
+
 <div class="container">
 
   <h2>Berichte aus dem Herausforderungsprojekt</h2>
