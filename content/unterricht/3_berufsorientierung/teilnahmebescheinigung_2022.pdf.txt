@@ -1,0 +1,9 @@
+Anzeigename: Teilnahmebescheinigung
+
+----
+
+Beschreibung: 
+
+----
+
+Template: datei
