@@ -23,3 +23,7 @@ Anfahrt-text-s1: [{"content":{"text":"Der Hauptstandort kann ebenfalls mit dem B
 ----
 
 Anfahrt-text-s2: [{"content":{"text":"<p>Den Parkplatz der Feldbreite k\u00f6nnen Sie erreichen, indem Sie von der Oldenburger Stra\u00dfe auf die Schlo\u00dfstra\u00dfe fahren und von dort aus links in die Feldbreite. Der Parkplatz befindet sich dann an der rechten Seite.<\/p>"},"id":"72c88fd6-fb6f-4da9-a531-4371516f9f0d","isHidden":false,"type":"text"}]
+
+----
+
+Karte: [{"content":{"name":"","reise":""},"id":"97bd9e9e-0369-4410-9ffe-006b4f145dd1","isHidden":false,"type":"reiseroute"}]
