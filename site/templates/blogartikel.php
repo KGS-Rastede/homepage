@@ -31,33 +31,24 @@
       ]) ?>
     </div>
   </div>
-</div>
-
-
-<div class="col">
-      One of three columns
-    </div>
-  
 
 
 
-
-
-<?php foreach ($page->layout()->toLayouts() as $layout) : ?>
-  <section class="grid" id="<?= $layout->id() ?>">
-  <div class="row align-items-start">
-    <?php foreach ($layout->columns() as $column) : ?>
-      <div class="col">
-        <div class="blocks">
-          <?= $column->blocks() ?>
-        </div>
+  <?php foreach ($page->layout()->toLayouts() as $layout) : ?>
+    <section class="grid" id="<?= $layout->id() ?>">
+      <div class="row align-items-start">
+        <?php foreach ($layout->columns() as $column) : ?>
+          <div class="col">
+            <div class="blocks">
+              <?= $column->blocks() ?>
+            </div>
+          </div>
+        <?php endforeach ?>
       </div>
-    <?php endforeach ?>
-  </div>
-  </section>
-<?php endforeach ?>
+    </section>
+  <?php endforeach ?>
 
-
+</div>
 
 <div class="container">
 
