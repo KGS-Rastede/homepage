@@ -48,6 +48,7 @@ columns:
               - karousel
               - accordion
               - button
+              - lesensieauch
           gallery:
             type: files
             uploads: blogbild

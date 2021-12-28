@@ -1,0 +1,12 @@
+# /site/blueprints/blocks/lesensieauch.yml
+name: Lesen Sie auch (Link auf einer andere Seite)
+icon: web # TODO: Echtes Symbol raussuchen
+# label: "{{ lesensieauch }}"
+fields:
+    lesensieauchtitel:
+      label: Name der Zielseite
+      type: text
+      help: Wird auf der Seite als Text angezeigt, wenn man nichts einträgt wird "Lesen Sie auch..." angezeigt
+    lesensieauch:
+      label: Unterseiten
+      type: pages
