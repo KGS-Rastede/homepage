@@ -5,7 +5,7 @@ Kirby ist soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann k�
 
 + [composer](https://getcomposer.org/download/)
 + WebServer (WAMP, LAMP, XAMPP, etc) oder falls [VS Code](https://code.visualstudio.com/) benutzt wird, die Extension [PHP-Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
-+ PHP 7 (mindestens PHP 7.4)
++ PHP 7 oder 8 (mindestens PHP 7.4)
 + [git](https://git-scm.com/downloads)
 + Ein Editor wie Visual Studio Code, Atom, etc.
 
@@ -64,7 +64,7 @@ Ich verwende [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/).
 Wenn [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/) bereits installiert sein solte, aber noch auf einer Älteren PHP Version läuft, kann man dies ganz einfach wie [HIER](http://blog.astemplates.com/change-php-version-wamp/) beschrieben auf PHP 7.4.0 ändern. 
 
 ## PHP (muss eigentlich nicht direkt installiert werden, kommt mit dem Webserver)
-Kirby setzt technisch gesehen nur PHP 7.4+ voraus, daher ist diese Version auch zu empfehlen.
+Kirby setzt technisch gesehen nur PHP 7.4+ voraus, daher ist diese Version auch zu empfehlen. Die echte Homepage läuft schon auf PHP 8.
 
 Man muss PHP aber nicht direkt installieren, denn PHP kommt als Teil vom Wamp64 mit.
 
