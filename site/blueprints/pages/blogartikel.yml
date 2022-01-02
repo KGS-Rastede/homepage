@@ -23,7 +23,7 @@ columns:
       content:
         type: fields
         fields:
-          layout: 
+          text: 
             type: layout
             layouts:
               - "1/1"
