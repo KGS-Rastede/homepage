@@ -34,7 +34,7 @@
 
 
 
-  <?php foreach ($page->layout()->toLayouts() as $layout) : ?>
+  <?php foreach ($page->text()->toLayouts() as $layout) : ?>
     <section class="grid" id="<?= $layout->id() ?>">
       <div class="row align-items-start">
         <?php foreach ($layout->columns() as $column) : ?>
