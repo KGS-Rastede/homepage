@@ -14,9 +14,7 @@
       <?php snippet('box-blogs') ?>
     </div>
 
-
     <div class="col-xl-4">
-      <?php snippet('box-schnellzugriff') ?>
       <?php snippet('box-corona') ?>
       <?php snippet('box-kalender') ?>
       <?php snippet('box-presse') ?>
