@@ -8,7 +8,7 @@
 
                 <?php if ( !$subpage->isFirst(collection('blogs-topartikel')) ) : ?>
                     <hr class="mt-3 mb-3">
-                <?php endif //Trennstrich komm nur wenn es keine Artikel vor diesem Element gibt ?>
+                <?php endif //Trennstrich kommt nur, wenn es keine Artikel vor diesem Element gibt ?>
                 
                 <a class="btn btn-lg btn-block text-start p-1" href="<?= $subpage->url() ?>" role="button">
                     <h3 class="font-weight-light text-info ">
