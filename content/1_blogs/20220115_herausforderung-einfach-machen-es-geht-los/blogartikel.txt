@@ -1,0 +1,25 @@
+Title: Projekt "HERAUSFORDERUNG"
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Informationsabend f\u00fcr Eltern der Sch\u00fcler:innen des 8. Jahrgangs"},"id":"7e3fb4d0-9a7e-4738-b6f2-3187784ae126","isHidden":false,"type":"heading"},{"content":{"name":"."},"id":"f3307063-3bed-45f3-aabf-e8bcefd3b21b","isHidden":false,"type":"horizontale-linie"}],"id":"742a133e-68ae-4318-9598-61a1b450c64e","width":"1\/1"}],"id":"ebcc069a-58d6-4281-be78-70635e4cd38d"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><\/p><p>Zum Start unseres besonderen Projektes zur Pers\u00f6nlichkeitsst\u00e4rkung und Potenzialentwicklung laden wir alle Erziehungsberechtigten der Sch\u00fcler:innen des 8. Jahrgangs herzlich ein zu einer Informationsveranstaltung (online) am 24.01.2022 um 19:30 Uhr. Den Zugangslink erhalten Sie \u00fcber die Klassenlehrer:innen.<\/p>"},"id":"47fa8654-7511-4719-ab77-c92ab87626e1","isHidden":false,"type":"text"}],"id":"7b826160-dc5b-4ffb-9674-5c251290f0e2","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["logo-herausforderungsprojekt.png"],"src":"","alt":"","caption":"Kooperationspartner: www.herausforderung.eu","link":"https:\/\/www.herausforderung.eu","ratio":"","crop":"false"},"id":"6921d873-abb5-4fa5-8033-65ae63e20339","isHidden":false,"type":"image"}],"id":"77474d8a-3ec7-4307-936f-6632f327e024","width":"1\/2"}],"id":"84fe7a80-8a96-49d5-9fb4-06ef9f3d2300"},{"attrs":[],"columns":[{"blocks":[{"content":{"lesensieauchtitel":"","lesensieauch":["unterricht\/herausforderungsprojekt"]},"id":"dd5a0243-4cc6-4b6c-90fe-39daf0d7d592","isHidden":false,"type":"lesensieauch"}],"id":"d2e219d9-dddc-4cd6-8754-f4320c3e3e21","width":"1\/1"}],"id":"ac1ab5d9-7ba0-49f8-8a3b-b67ee81c7069"}]
+
+----
+
+Date: 2022-01-15 00:00:00
+
+----
+
+Datumstartseite: 2022-01-24 00:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: Topartikel, Herausforderung
+
+----
+
+Downloads: 
