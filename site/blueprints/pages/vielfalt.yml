@@ -1,0 +1,41 @@
+title: Vielfalt an der KGS
+icon: 📜
+
+sections:
+  pages:
+    headline: Vielfältigkeitsaspekt
+  content:
+    type: fields
+    fields:
+      beratungstyp:
+        label: Vielfaltsaspekt
+        type: blocks
+        fieldsets:
+          - vielfaltstyp
+      text:
+        label: Inhalt
+        type: blocks
+        fieldsets:
+          - heading
+          - text
+          - list
+          - image
+          - gallery
+          - video
+          - local-video
+          - code
+          - markdown
+          - audio
+          - horizontale-linie
+          - tabelle
+          - gastautor
+          - highlightfeld
+          - quote
+          - karousel
+          - accordion
+          - button
+          - lesensieauch
+
+
+
+

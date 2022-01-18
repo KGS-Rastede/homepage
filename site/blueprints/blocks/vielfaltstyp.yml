@@ -1,0 +1,20 @@
+# /site/blueprints/blocks/vielfaltstyp.yml
+name: Vielfaltsstypus
+icon: file-audio
+label: "{{ name }} - {{ creator }}"
+fields:
+  name:
+    type: text
+  kurzbeschreibung:
+    type: writer
+  unterseite:
+    label: Verweis auf Unterseite
+    type: pages
+    min: 1
+  bild:
+    type: files
+    max: 1
+    query: page.images
+  icon:
+    type: text
+    label: Icon aus der Auswahl von https://icons.getbootstrap.com/ ohne das "bi", nur der reine Name
