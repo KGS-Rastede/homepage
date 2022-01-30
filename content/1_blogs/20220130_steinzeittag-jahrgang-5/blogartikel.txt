@@ -1,0 +1,25 @@
+Title: Steinzeittag Jahrgang 5
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 03.11.2021 haben die Klassen 5A3 und 5F3 gemeinsam mit den Klassenlehrkr\u00e4ften Frau Hofstra und Frau Otholt sowie den jeweiligen Geschichtslehrkr\u00e4ften Frau St\u00f6ckle und Herrn Stolz das Naturkundemuseum Oldenburg besucht. Im Rahmen der \u201eSteinzeitaktion\u201c wurden bei einer F\u00fchrung durch Museumsp\u00e4dagog:innen Ausstellungsst\u00fccke aus der Steinzeit besichtigt und erkundet sowie in einem anschlie\u00dfenden Workshop steinzeitliche Amulette unter professioneller Anleitung angefertigt. Anschlie\u00dfend erhielten die Sch\u00fcler:innen auf Nachfrage noch eine kurze (Ein-)F\u00fchrung in die Geest- und Moorausstellung. Ein rundum gelungener Tag, der den beteiligten Personen in Erinnerung bleiben wird und - wie auf den Fotos gut zu erkennen ist - bei allen Beteiligten gut ankam.<\/p><p><\/p>"},"id":"85b45535-1347-4ed7-9b41-bc5765a8201b","isHidden":false,"type":"text"}],"id":"1acde110-3b6b-4e64-8017-7afc2195c91a","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["foto_5a3_exkursion.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7530795e-9779-413d-9169-64ae6bc3d3c9","isHidden":false,"type":"image"}],"id":"4c4c4b8f-5373-4e65-b1ff-1ba92491ac53","width":"1\/2"}],"id":"d93735c7-e556-4d6f-90a9-42084686e51c"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["whatsapp-image-2021-11-03-at-18.01.40.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7fb466e5-feb8-4c25-8fa8-a997c111cc63","isHidden":false,"type":"image"}],"id":"877528b2-bc0e-44d7-a9bc-fd47c3394dce","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["whatsapp-image-2021-11-03-at-17.16.15-2.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"1ffc0ff7-130e-4c06-868f-6f8c71a28aa8","isHidden":false,"type":"image"}],"id":"e6344c3e-34a0-4c3b-bc0e-ca179b1017a0","width":"1\/2"}],"id":"de4f868a-4670-40ac-946e-41e0b8cc0023"}]
+
+----
+
+Date: 2022-01-30 00:00:00
+
+----
+
+Datumstartseite: 2022-05-30 00:00:00
+
+----
+
+Author: Christopher Stolz
+
+----
+
+Tags: Geschichte, Steinzeittag
+
+----
+
+Downloads: 
