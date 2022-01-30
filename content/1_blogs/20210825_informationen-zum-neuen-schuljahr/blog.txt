@@ -1,4 +1,4 @@
-Title: Informationen zum neuen Schuljahr
+Title: Informationen zum Schuljahr 2021/22
 
 ----
 
@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"text":"<p>An dieser Stelle f\u00fchren wir alle f\u00fcr das Schuljahr 2021\/22 g\u00fcltigen Vorgaben zum Thema Corona (bitte Downloads beachten!) auf. Diese Seite wird regelm\u00e4\u00dfig aktualisiert, zuletzt am <strong>13.01.22.<\/strong><\/p>"},"id":"55f4c7e4-fbfa-4164-b22a-7dabd482c576","isHidden":false,"type":"text"},{"content":{"ueberschrift":"Testen","farbe":"","feldinhalt":"Ab 13.09. Testungen 3x in der Woche zu Hause, JEDEN Montag, Mittwoch und Freitag.\n\nBefreit von der Testpflicht: Vollst\u00e4ndig Geimpfte\/Genesene."},"id":"56dcb8fa-637f-4033-bcb5-031ccdb57602","isHidden":false,"type":"highlightfeld"},{"content":{"text":"<p><strong>MNB (Mund-Nasen-Bedeckung):<\/strong><\/p>"},"id":"bca27f13-7fa1-452a-a906-d4d293307b20","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Im Geb\u00e4ude und im Unterricht (Sitzplatz)<\/li><li>ab 14 Jahre MNB als medizinische Maske (wie \u00d6PNV) oder FFP2<\/li><li>au\u00dferhalb des Schulgeb\u00e4udes auf dem Schulgel\u00e4nde keine MNB<\/li><li>Beeintr\u00e4chtigte mit \u00e4rztlichem Attest oder amtlicher Bescheinigung sind vom Tragen der Maske befreit<\/li><li>Sch\u00fclerinnen und Sch\u00fclern mit Beeintr\u00e4chtigungen sowie mit Unterst\u00fctzungsbedarfen kann auch in der Zwischenzeit ein kurzzeitiges Abnehmen der Mund-Nasen-Bedeckung erm\u00f6glicht werden<\/li><li>Maskenpausen sind unbedingt zu beachten, z.B. im Rahmen der L\u00fcftungspause 20-5-20, beim Essen und Trinken<\/li><\/ul>"},"id":"c113e460-26e2-402b-8d8d-02c855fe142f","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Grunds\u00e4tzlich gilt dar\u00fcber hinaus weiterhin <\/strong>die<strong> <\/strong>Einhaltung der AHA+L Regelungen und der allgemeinen Hygieneregelungen auf der Grundlage des Rahmenhygieneplans.<\/p><p><strong>Ab sofort gilt f\u00fcr das Auftreten eines positiven Selbsttest:<\/strong><\/p><p>Alle Mitsch\u00fclerinnen und -sch\u00fcler der Klasse\/ Lerngruppe testen sich 5 Tage lang t\u00e4glich. Die Tests werden von der Schule zur Verf\u00fcgung gestellt. Das gilt auch f\u00fcr geeimpfte und\/ oder genesene Sch\u00fclerinnen und Sch\u00fcler.<\/p><p>Kleine \u00c4nderungen gelten ab sofort f\u00fcr die <strong>Wilhelmstra\u00dfe<\/strong>:<\/p><p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 H\u00e4nde werden in der gesamten Lerngruppe nur noch in der 1. Std. gewaschen. Im Laufe des Tages d\u00fcrfen Sch\u00fclerinnen und Sch\u00fcler selbstverst\u00e4ndlich, wenn sie das Bed\u00fcrfnis haben, ihre H\u00e4nde waschen.<\/p><p>Aufgrund von Problemen in verschiedenen Pausenbereichen haben wir diese ge\u00e4ndert. Ab morgen, Mittwoch, 08.12.21, gilt:<\/p><p>Die Jahrg\u00e4nge 9 und 10 gehen wieder auf den gro\u00dfen Schulhof. \u00a0Jg. 9 h\u00e4lt sich im Bereich hinter dem Neubau und vor den 190er R\u00e4umen auf.<\/p><p>Jahrgang 10 h\u00e4lt sich im Bereich zwischen den Tischtennisplatten und dem Pavillon auf.<\/p><p>DIe Jahrg\u00e4nge 5 und 6 halten sich bei Unterricht in der Wilhelmstra\u00dfe vor dem Werkbereich auf. <\/p><p>Die Oberstufe nutzt den Bereich an der Thoradestra\u00dfe.<\/p><p>Der Rote Platz ist wieder Parkplatz, ebenso der Bereich an der Bahnhofstra\u00dfe.<\/p><p>Sowohl vor dem Unterricht als auch in den Pausen gehen Sch\u00fclerinnen und Sch\u00fcler nach drau\u00dfen. Vor 8.00 Uhr sind die Flure verschlossen. In den Regenpausen, also wenn es wirklich regnet, bleiben Sch\u00fclerinnen und Sch\u00fcler in den Klassenr\u00e4umen oder wartet vor den Fachr\u00e4umen, wenn ihr Fachunterricht habt.<\/p><p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Die Jge 11 \u2013 13 gehen \u2013 au\u00dfer vor der 1. Stunde - selbstst\u00e4ndig beim 1. Klingeln zu ihrem Unterricht.<\/p><p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Da Lehrkr\u00e4fte nicht wissen, wer schon kontrolliert wurde und wer nicht, zeigen Sch\u00fclerinnen und Sch\u00fcler der Sek. II von sich aus der ersten Lehrkraft des Tages ihr Testergebnis vor.<\/p>"},"id":"6a928301-b82f-45e7-b374-ceb66023e7f4","isHidden":false,"type":"text"},{"content":{"name":""},"id":"a2caecc1-e56a-456c-9449-4ac311b2bf92","isHidden":false,"type":"horizontale-linie"},{"content":{"level":"h2","text":"zuletzt aktualisiert am 13.01.2022"},"id":"ec299f8c-7585-40df-954c-62d85ccbbe29","isHidden":false,"type":"heading"}]
+Text: [{"content":{"text":"<p>An dieser Stelle f\u00fchren wir alle f\u00fcr das Schuljahr 2021\/22 g\u00fcltigen Vorgaben zum Thema Corona (bitte Downloads beachten!) auf. Diese Seite wird regelm\u00e4\u00dfig aktualisiert, zuletzt am <strong>26.01.22.<\/strong><\/p>"},"id":"55f4c7e4-fbfa-4164-b22a-7dabd482c576","isHidden":false,"type":"text"},{"content":{"ueberschrift":"Testen","farbe":"","feldinhalt":"Aktuell testen sich **alle** Sch\u00fclerinnen und Sch\u00fcler, die nicht geimpft und nicht genesen sind, t\u00e4glich - voraussichtlich bis 31.01.2022."},"id":"56dcb8fa-637f-4033-bcb5-031ccdb57602","isHidden":false,"type":"highlightfeld"},{"content":{"text":"<p><strong>MNB (Mund-Nasen-Bedeckung):<\/strong><\/p>"},"id":"bca27f13-7fa1-452a-a906-d4d293307b20","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Im Geb\u00e4ude und im Unterricht (Sitzplatz)<\/li><li>ab 14 Jahre MNB als medizinische Maske (wie \u00d6PNV) oder FFP2<\/li><li>au\u00dferhalb des Schulgeb\u00e4udes auf dem Schulgel\u00e4nde keine MNB<\/li><li>Beeintr\u00e4chtigte mit \u00e4rztlichem Attest oder amtlicher Bescheinigung sind vom Tragen der Maske befreit<\/li><li>Sch\u00fclerinnen und Sch\u00fclern mit Beeintr\u00e4chtigungen sowie mit Unterst\u00fctzungsbedarfen kann auch in der Zwischenzeit ein kurzzeitiges Abnehmen der Mund-Nasen-Bedeckung erm\u00f6glicht werden<\/li><li>Maskenpausen sind unbedingt zu beachten, z.B. im Rahmen der L\u00fcftungspause 20-5-20, beim Essen und Trinken<\/li><\/ul>"},"id":"c113e460-26e2-402b-8d8d-02c855fe142f","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Grunds\u00e4tzlich gilt dar\u00fcber hinaus weiterhin <\/strong>die<strong> <\/strong>Einhaltung der AHA+L Regelungen und der allgemeinen Hygieneregelungen auf der Grundlage des Rahmenhygieneplans.<\/p><p><strong>Ab sofort gilt f\u00fcr das Auftreten eines positiven Selbsttest:<\/strong><\/p><p>Alle Mitsch\u00fclerinnen und -sch\u00fcler der Klasse\/ Lerngruppe testen sich 5 Tage lang t\u00e4glich. Die Tests werden von der Schule zur Verf\u00fcgung gestellt. Das gilt auch f\u00fcr geeimpfte und\/ oder genesene Sch\u00fclerinnen und Sch\u00fcler.<\/p><p>Kleine \u00c4nderungen gelten ab sofort f\u00fcr die <strong>Wilhelmstra\u00dfe<\/strong>:<\/p><p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 H\u00e4nde werden in der gesamten Lerngruppe nur noch in der 1. Std. gewaschen. Im Laufe des Tages d\u00fcrfen Sch\u00fclerinnen und Sch\u00fcler selbstverst\u00e4ndlich, wenn sie das Bed\u00fcrfnis haben, ihre H\u00e4nde waschen.<\/p><p>Aufgrund von Problemen in verschiedenen Pausenbereichen haben wir diese ge\u00e4ndert. Ab morgen, Mittwoch, 08.12.21, gilt:<\/p><p>Die Jahrg\u00e4nge 9 und 10 gehen wieder auf den gro\u00dfen Schulhof. \u00a0Jg. 9 h\u00e4lt sich im Bereich hinter dem Neubau und vor den 190er R\u00e4umen auf.<\/p><p>Jahrgang 10 h\u00e4lt sich im Bereich zwischen den Tischtennisplatten und dem Pavillon auf.<\/p><p>DIe Jahrg\u00e4nge 5 und 6 halten sich bei Unterricht in der Wilhelmstra\u00dfe vor dem Werkbereich auf. <\/p><p>Die Oberstufe nutzt den Bereich an der Thoradestra\u00dfe.<\/p><p>Der Rote Platz ist wieder Parkplatz, ebenso der Bereich an der Bahnhofstra\u00dfe.<\/p><p>Sowohl vor dem Unterricht als auch in den Pausen gehen Sch\u00fclerinnen und Sch\u00fcler nach drau\u00dfen. Vor 8.00 Uhr sind die Flure verschlossen. In den Regenpausen, also wenn es wirklich regnet, bleiben Sch\u00fclerinnen und Sch\u00fcler in den Klassenr\u00e4umen oder wartet vor den Fachr\u00e4umen, wenn ihr Fachunterricht habt.<\/p><p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Die Jge 11 \u2013 13 gehen \u2013 au\u00dfer vor der 1. Stunde - selbstst\u00e4ndig beim 1. Klingeln zu ihrem Unterricht.<\/p><p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Da Lehrkr\u00e4fte nicht wissen, wer schon kontrolliert wurde und wer nicht, zeigen Sch\u00fclerinnen und Sch\u00fcler der Sek. II von sich aus der ersten Lehrkraft des Tages ihr Testergebnis vor.<\/p>"},"id":"6a928301-b82f-45e7-b374-ceb66023e7f4","isHidden":false,"type":"text"},{"content":{"name":""},"id":"a2caecc1-e56a-456c-9449-4ac311b2bf92","isHidden":false,"type":"horizontale-linie"},{"content":{"level":"h2","text":"zuletzt aktualisiert am 26.01.2022"},"id":"ec299f8c-7585-40df-954c-62d85ccbbe29","isHidden":false,"type":"heading"}]
 
 ----
 
@@ -32,8 +32,6 @@ Tags: Schulleitung, Topartikel
 
 Downloads:
 
-- >
-  2021-09-21_presseinformation_absonderungsverordnung.pdf
 - 2021-11-11_rhp_9.0_schule_ef.pdf
 - >
   2021-11-10_hinweise_zum_umgang_mit_corona-leugnern.pdf
@@ -41,29 +39,15 @@ Downloads:
   testen-statt-quarant_ne-schulsetting_2021_11_22.pdf
 - pausenbereiche-aufsichtsbereiche-2.pdf
 - >
-  2021-12-10_formular_befreiung_von_der_pr_senzpflicht.pdf
-- 2021-12-10_brief_an_sus_sekii.pdf
-- >
-  2021-12-10_brief_an_schulleitungen_und_lehrkr_fte.pdf
-- 2021-12-10_brief_an_sus_seki.pdf
-- 2021-12-10_brief_an_eltern.pdf
-- 2021-12-10_brief_an_eltern_gek_rzt.pdf
-- >
   2021-12-14_rundverf_gung_rlsb_os_31-2021.pdf
 - >
   2021-12-17_informationen_zum_impfen_von_5-11-j_hrigen.pdf
-- 2021-12-17_brief_an_sus_sekii.pdf
-- 2021-12-17_brief_an_sus_seki.pdf
-- 2021-12-17_brief_an_eltern_gek_rzt.pdf
-- 2021-12-17_brief_an_eltern.pdf
+- 2022-01-26_brief_an_sus_sekii.pdf
+- 2022-01-26_brief_an_sus_seki.pdf
 - >
-  2021-12-17_brief_an_schulleitungen_und_lehrkr_fte.pdf
-- 2022-01-13_brief_an_sus_sekii.pdf
-- 2022-01-13_brief_an_sus_seki.pdf
-- >
-  2022-01-13_brief_an_schulleitungen_und_lehrkr_fte.pdf
-- 2022-01-13_brief_an_eltern_gek_rzt.pdf
-- 2022-01-13_brief_an_eltern.pdf
+  2022-01-26_brief_an_schulleitungen_und_lehrkr_fte.pdf
+- 2022-01-26_brief_an_eltern_gek_rzt.pdf
+- 2022-01-26_brief_an_eltern.pdf
 
 ----
 
