@@ -1,0 +1,25 @@
+Title: END PLASTIC SOUP
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Ausstellung vom 16.01-06.02.2022<\/strong><\/p><p>G\u00fcterschuppen Westerstede<\/p><p>\u00a0<\/p><p>Wir sind dabei!<\/p><p>\u00a0<\/p><p>Am 16.01.2022 haben wir, die Klasse 8B1, f\u00fcr unseren Projektbeitrag einen Preis erhalten.<\/p><p>\u00a0<\/p><p>Schaut euch gerne bis zum 06.02 unseren Beitrag im G\u00fcterschuppen Westerstede an.<\/p><p>\u00a0<\/p><p>Eure 8B1<\/p><p><\/p>"},"id":"727d9543-8a73-47ef-9027-8e3d8c347ff5","isHidden":false,"type":"text"}],"id":"63ebc496-7cad-4525-baf0-a28a238eae84","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["meer1.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"5d15b114-2a71-4f3f-8036-9fec43aed4e4","isHidden":false,"type":"image"}],"id":"1b7a021e-b275-460d-97d4-172b7e6bf0f0","width":"1\/2"}],"id":"3208b0cf-7d88-48be-bbe8-b18825936668"},{"attrs":[],"columns":[{"blocks":[{"content":{"karousel":["meer2.jpeg","meer3.jpeg"]},"id":"4e91c9b1-c897-4577-9434-048afb7953e7","isHidden":false,"type":"karousel"}],"id":"687ae19a-2d01-47a2-b38f-bc3c49ec1fd8","width":"1\/1"}],"id":"59596ff4-2673-4c85-9b07-44f5b7b0d8e7"}]
+
+----
+
+Date: 2022-01-30 00:00:00
+
+----
+
+Datumstartseite: 2022-05-30 00:00:00
+
+----
+
+Author: Nicola Reershemius
+
+----
+
+Tags: Wettbewerb, Müll, Kunst
+
+----
+
+Downloads: 
