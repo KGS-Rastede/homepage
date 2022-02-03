@@ -1,8 +1,8 @@
-Title: Nicht besetzt
+Title: Christian Janout
 
 ----
 
-Heading: NN
+Heading: JT
 
 ----
 
@@ -18,7 +18,7 @@ Fotoansicht: schulleiter
 
 ----
 
-Email: pb
+Email: jt
 
 ----
 
