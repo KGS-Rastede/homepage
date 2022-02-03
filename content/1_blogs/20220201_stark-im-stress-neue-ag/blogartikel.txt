@@ -1,0 +1,27 @@
+Title: Neue AG startet: Stark im Stress
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>F\u00fcr die Sch\u00fcler:innen der Jahrg\u00e4nge 5 und 6 gibt es eine neue AG.<\/p>"},"id":"9d671f55-6967-4b1e-be0a-5d2dc7facd4f","isHidden":false,"type":"text"}],"id":"91aba2ab-9c96-4fe8-9945-3ee55c87b47e","width":"1\/1"}],"id":"ba4e4faf-e42d-4eeb-ad0a-bfe8319078a4"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Ank\u00fcndigung neue AG<strong><em>\u00a0 Stark im Stress<\/em><\/strong><\/p><p><strong>Hintergrund: <\/strong>In einer zunehmend schnelllebigen und durchdigitalisierten Welt f\u00e4llt es den meisten Menschen schwer noch innezuhalten und achtsam wahrzunehmen, was um sie herum tats\u00e4chlich gerade passiert. Auch Kinder und Jugendlich sind h\u00e4ufig unter gro\u00dfem Stress, da sich viele schulische und private Aufgaben vor ihnen auft\u00fcrmen. Hinzu kommen die unabl\u00e4ssige Ablenkung durch die sozialen Medien und der vermeintliche Zwang, in diesen st\u00e4ndig pr\u00e4sent sein zu m\u00fcssen. Durch die anhaltende Coronapandemie stehen viele Sch\u00fclerinnen und Sch\u00fcler zus\u00e4tzlich unter einer gro\u00dfen Anspannung.<\/p><p><strong>Deshalb hat sich die KGS Rastede entschlossen, den Sch\u00fclerinnen und Sch\u00fclern der Klassen 5 und 6 ein neues AG Angebot zu machen:\u00a0\u00a0 <em>Stark im Stress<\/em><\/strong><\/p><p><strong>Was passiert bei der AG:<\/strong><\/p><p>Die Sch\u00fcler:innen sollen an eine Achtsamkeitsroutine herangef\u00fchrt werden. Hierzu dienen viele kleine \u00dcbungen, die in Ruhe im Sitzen oder Liegen ausgef\u00fchrt werden, kleine Meditations\u00fcbungen, aber auch \u00dcbungen mit Partner:innen, in den versucht wird, deren Emotionen wahrzunehmen. Es k\u00f6nnen auch \u00dcbungen zur \u00e4u\u00dferen Achtsamkeit erfolgen, zum Beispiel zum Walderleben. Letztlich soll mit den Sch\u00fcler:innen herausgefunden werden, welche \u00dcbungen ihnen helfen, im Alltag Ruhe und Gelassenheit zu finden.<\/p><p><strong>Gr\u00fcnde f\u00fcr Achtsamkeitstraining mit Kindern:<\/strong><\/p><p>Achtsame Kinder<\/p><p>-\u00a0 k\u00f6nnen sich besser konzentrieren<\/p><p>-\u00a0 empfinden weniger Stress und Unruhe<\/p><p>-\u00a0 wachsen in ihrem Selbstbewusstsein<\/p><p>-\u00a0 k\u00f6nnen Impulse besser kontrollieren<\/p><p>-\u00a0 k\u00f6nnen sich in andere Menschen einf\u00fchlen<\/p><p>-\u00a0 haben mehr Ressourcen f\u00fcr einen gewaltfreie Konfliktl\u00f6sung<\/p><p>-\u00a0 finden geeignete M\u00f6glichkeiten f\u00fcr den Umgang mit schwierigen Gef\u00fchlen<\/p><p><strong>An wen richtet sich die AG:<\/strong><\/p><p><strong>Die AG richtet sich an alle Sch\u00fcler:innen der 5. und 6. Klassen<\/strong>. Jede\/r ist herzlich willkommen. Es sollte niemand gen\u00f6tigt oder gezwungen werden, an dieser AG teilzunehmen. Freiwilligkeit ist absolut notwendig f\u00fcr den Erfolg von Achtsamkeit.<\/p><p><strong>Wie, wann, wo?<\/strong><\/p><p>Ich freue mich \u00fcber Anmeldungen unter <a href=\"mailto:fi@kgs-rastede.eu\">fi@kgs-rastede.eu<\/a>.<\/p><p>Oder einfach vorbeischauen <strong>donnerstags, ab dem 3. Februar\u00a0 in Raum 12<\/strong><\/p><p>Herzliche Gr\u00fc\u00dfe<\/p><p>Axel Finsterer<\/p><p><\/p><p><\/p>"},"id":"afe766a8-d216-4252-94f2-dd7517db96e0","isHidden":false,"type":"text"}],"id":"7acdb435-2d46-4834-a282-940d39472e77","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["plakat-stark-im-stress-kopie.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7aa2b0fd-f66f-4530-9c90-6e3fe6a2a5a7","isHidden":false,"type":"image"}],"id":"226ea8fe-c4e4-46b2-9d34-f775a7de3008","width":"1\/2"}],"id":"7784d3be-306e-4f63-8e0f-7bd321d68074"}]
+
+----
+
+Date: 2022-02-01 00:00:00
+
+----
+
+Datumstartseite: 2022-06-01 00:00:00
+
+----
+
+Author: Axel Finsterer
+
+----
+
+Tags: AGs, Stark im Stress
+
+----
+
+Downloads:
+
+- ankuendigung-neue-ag-stark-im-stress.pdf
