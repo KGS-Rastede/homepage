@@ -56,4 +56,15 @@
 
 
     <?php snippet('navoffcanvas') ?>
+
+    <?php if ($_SERVER["HTTP_HOST"] == "niehaus-ol.de") : 
+      // Auf https://niehaus-ol.de wird ein riesiges knall gelbes Banner angezeigt, dass darüber informaiert das man nicht auf der richtigen Seite ist. Wenn niehaus-ol z.B. in SuchmaschinenErgebnissen auftaucht ?>
+      <a href="<?= "https://kgs-rastede.de" . $_SERVER["REQUEST_URI"] ?>" class="text-start text-decoration-none text-black" role="button">
+        <div class="container-fluid p-md-5 py-4" style="background-color: #F7F700;">
+          <h1 class="mb-3">Sie befinden sich momentan nicht auf der offiziellen Homepage der KGS. Diese erreichen Sie unter: <span class="link-danger">kgs-rastede.de</span> !</h1>
+          <p class="mb-0">Diese Webseite wird verwendet um neue Funktionen für die offizielle Homepage zu testen. Die Informationen auf dieser Webseite sind jedoch nicht aktuell. Aus diesem Grund bitten wir Sie die offizielle Webseite zu verwenden.<br><br>Vielen Dank für Ihr Verständnis!</p>
+        </div>
+      </a>
+    <?php endif ?>
+
   </header>

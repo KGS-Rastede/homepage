@@ -2911,6 +2911,13 @@ textarea.form-control-lg {
   }
 }
 
+.link-danger {
+  color: #8c271e;
+}
+.link-danger:hover, .link-danger:focus {
+  color: #701f18;
+}
+
 .ratio {
   position: relative;
   width: 100%;
