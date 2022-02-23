@@ -27,4 +27,4 @@ script.onload = function () {
 script.src = 'https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js';
 
 //Masonry Skript laden
-document.head.appendChild(script)
+document.body.appendChild(script)
