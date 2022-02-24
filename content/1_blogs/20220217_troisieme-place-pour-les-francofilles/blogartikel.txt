@@ -1,0 +1,25 @@
+Title: Troisième place pour les francofilles!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bonjour \u00e0 tous!<\/p><p>Am 20.01.2022 haben wir, der Franz\u00f6sisch LK, beim Internet-Teamwettbewerb des Institut Fran\u00e7ais teilgenommen. Bei dem Wettbewerb haben wir zu verschiedenen Themenbereichen Videos angeschaut, Texte gelesen und anschlie\u00dfend Fragen beantwortet. Dabei ging es um aktuelle Themen, wie z.B. \u201eFranz\u00f6sisch, eine lebendige Sprache\u201c, \u201eMusik \u00e0 la fran\u00e7aise\u201c und \u201eUmwelt und Wissenschaft\u201c. Auch Trailer von Filmen oder franz\u00f6sische Internetseiten haben wir uns angeschaut. Der Wettbewerb lief \u00fcber den ganzen Vormittag, allerdings haben wir es innerhalb einer Doppelstunde als Gruppe gut gemeistert. Wir haben uns untereinander zwar auf verschiedene Themen aufgeteilt, aber auch bei kniffligen Fragen zusammengearbeitet. Als Preise f\u00fcr den 3. Platz haben wir einen Stoffbeutel mit franz\u00f6sischer Beschriftung und eine Urkunde erhalten.<\/p><p><\/p>"},"id":"0c4dee7d-c6c7-4385-8566-65ffd77cf440","isHidden":false,"type":"text"}],"id":"049b4f36-7566-4181-bc08-ba440a18fcfa","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["2022-02-17_17h47_36.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"acf9f718-38f2-4902-b5b5-3d0cd5e27920","isHidden":false,"type":"image"}],"id":"a2603252-2ff0-4e28-bf96-b3fca4afa04d","width":"1\/2"}],"id":"5291735d-635f-4006-a219-8ec0c8c34af6"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["2022-02-17_17h48_42.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"a16aceee-ad22-4b9b-a1ec-bcce28ab630a","isHidden":false,"type":"image"}],"id":"4ea4807f-5c85-4279-a2ee-23f8f48a88b5","width":"1\/1"}],"id":"7a6db720-85dd-4084-853b-dfd21cd1cb57"}]
+
+----
+
+Date: 2022-02-17 17:45:00
+
+----
+
+Datumstartseite: 2022-06-17 17:45:00
+
+----
+
+Author: Marike Meyer
+
+----
+
+Tags: Französisch, Wettbewerb
+
+----
+
+Downloads: 

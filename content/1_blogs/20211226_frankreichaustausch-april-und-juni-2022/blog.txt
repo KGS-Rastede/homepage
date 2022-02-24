@@ -1,4 +1,4 @@
-Title: Frankreichaustausch April und Juni 2022
+Title: Frankreichaustausch April und Juni 2022 (abgesagt)
 
 ----
 
@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"text":"<p>Im n\u00e4chsten Jahr gibt es endlich wieder einen Sch\u00fcler:innen-Austausch!<br><\/p><p>Am 27.4.22 bis 6.5.22 sind die franz\u00f6sischen Sch\u00fcler:innen bei uns, vom 7.6.22 bis 17.6.22 fahren wir dann nach Frankreich!<\/p>"},"id":"f2b80b62-2547-4ec8-b23d-de73c2bdf978","isHidden":false,"type":"text"},{"content":{"images":["praesentation-frankreichaustausch_13.png","praesentation-frankreichaustausch_12.png","praesentation-frankreichaustausch_09.png","praesentation-frankreichaustausch_08.png","praesentation-frankreichaustausch_06.png","praesentation-frankreichaustausch_04.png","praesentation-frankreichaustausch_02.png","praesentation-frankreichaustausch_01.png","praesentation-frankreichaustausch_05.png","praesentation-frankreichaustausch_07.png","praesentation-frankreichaustausch_10.png","praesentation-frankreichaustausch_11.png","praesentation-frankreichaustausch_03.png"]},"id":"7ad69106-825b-44a1-816e-4f03ccf93adf","isHidden":false,"type":"gallery"}]
+Text: [{"content":{"text":"<p>In diesem Jahr gibt es endlich wieder einen Sch\u00fcler:innen-Austausch!<br><\/p><p>Am 27.4.22 bis 6.5.22 sind die franz\u00f6sischen Sch\u00fcler:innen bei uns, vom 7.6.22 bis 17.6.22 fahren wir dann nach Frankreich!<\/p>"},"id":"f2b80b62-2547-4ec8-b23d-de73c2bdf978","isHidden":false,"type":"text"},{"content":{"images":["praesentation-frankreichaustausch_13.png","praesentation-frankreichaustausch_12.png","praesentation-frankreichaustausch_09.png","praesentation-frankreichaustausch_08.png","praesentation-frankreichaustausch_06.png","praesentation-frankreichaustausch_04.png","praesentation-frankreichaustausch_02.png","praesentation-frankreichaustausch_01.png","praesentation-frankreichaustausch_05.png","praesentation-frankreichaustausch_07.png","praesentation-frankreichaustausch_10.png","praesentation-frankreichaustausch_11.png","praesentation-frankreichaustausch_03.png"]},"id":"7ad69106-825b-44a1-816e-4f03ccf93adf","isHidden":false,"type":"gallery"}]
 
 ----
 
@@ -18,7 +18,7 @@ Date: 2021-12-26 00:00:00
 
 ----
 
-Datumstartseite: 2022-04-26 00:00:00
+Datumstartseite: 2022-02-14 00:00:00
 
 ----
 
@@ -26,13 +26,11 @@ Author: Katrin Brömer
 
 ----
 
-Tags: Französisch, Austausch, Topartikel
+Tags: Französisch, Austausch
 
 ----
 
-Downloads:
-
-- praesentation-frankreichaustausch.pdf
+Downloads: - praesentation-frankreichaustausch.pdf
 
 ----
 

@@ -1,0 +1,25 @@
+Title: Frankreichaustausch
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Aufrgund der aktuellen Lage haben wir uns schweren Herzens dazu entschlossen, den <strong>Frankreichaustausch f\u00fcr dieses Jahr abzusagen<\/strong>. <br>Im kommenden Schuljahr geht es dann hoffentlich weiter f\u00fcr die Sch\u00fcler*innen des 8. Jahrgangs aus dem Realschulzweig und dem Gymnasialzweig. <br>Die franz\u00f6sische Gruppe wird Mitte M\u00e4rz 2023 erwartet. Der Gegenbesuch erfolgt dann Anfang Juni. Auf diese Begegnungen freuen wir uns schon jetzt!<\/p><p><\/p>"},"id":"59bfaf8b-4b1b-41be-aad8-b6eac0043928","isHidden":false,"type":"text"}],"id":"ad716fa7-dca5-4714-aaf3-165652abee2d","width":"1\/1"}],"id":"7e4bf813-dd03-4157-a3e3-10588cbb61d4"}]
+
+----
+
+Date: 2022-02-17 00:00:00
+
+----
+
+Datumstartseite: 2022-06-17 00:00:00
+
+----
+
+Author: Katrin Brömer
+
+----
+
+Tags: Fremdsprachen
+
+----
+
+Downloads: 
