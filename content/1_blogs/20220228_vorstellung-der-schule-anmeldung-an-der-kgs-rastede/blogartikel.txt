@@ -1,0 +1,27 @@
+Title: Vorstellung der Schule: Anmeldung an der KGS Rastede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Unsere Pr\u00e4sentation stellen wir Ihnen hiermit als PDF-<a href=\"https:\/\/kgs-rastede.de\/blogs\/vorstellung-der-schule-anmeldung-an-der-kgs-rastede\/xkgs-info4-21-22_id_be_vm.pdf\" rel=\"noopener noreferrer\">Download zur Verf\u00fcgung<\/a>.<\/p><p><\/p><p>Zudem finden Sie hier auf der Seite ein Video inkl. m\u00fcndlicher Erk\u00e4rung.<\/p>"},"id":"bf55e36a-ed3a-4cd9-ba12-affdd4c7de7a","isHidden":false,"type":"text"}],"id":"64be3320-a981-4bb6-bacb-d5bdabfe908a","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["2022-02-28_14h09_30.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b1b66051-d872-4e42-bd30-acf19be48115","isHidden":false,"type":"image"}],"id":"469c92d5-838d-457a-8008-8eee8153617b","width":"1\/2"}],"id":"68c3d0c3-788b-4cd0-9ae2-016314950778"},{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https:\/\/vimeo.com\/682833955","caption":""},"id":"a1cd3649-c26c-4dae-ba3f-6f6532163924","isHidden":false,"type":"video"}],"id":"d6511710-41da-4237-b91d-cec72ee3e513","width":"1\/1"}],"id":"86a3f9ee-77cd-4eb4-ac9c-a0ba1985a8a1"}]
+
+----
+
+Date: 2022-02-28 14:10:00
+
+----
+
+Datumstartseite: 2022-05-31 14:10:00
+
+----
+
+Author: Naile Ildiz
+
+----
+
+Tags: Schulleitung, Topartikel
+
+----
+
+Downloads:
+
+- xkgs-info4-21-22_id_be_vm.pdf
