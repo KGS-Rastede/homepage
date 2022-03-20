@@ -1,0 +1,25 @@
+Title: Der Koffer der Erinnerungen - unser Französisch Projekt
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Unser Franz\u00f6sischkurs hat sich ein Halbjahr lang mit dem Thema des ersten Weltkriegs (1914- 1918) befasst. Dabei haben wir den Schwerpunkt auf den Krieg zwischen Frankreich und Deutschland gelegt und den Roman \u201efr\u00e8res de guerre\u201c (Br\u00fcder des Krieges) von Catherine Cuenca gelesen. Der Roman erz\u00e4hlt die Geschichte eines franz\u00f6sischen Jungen namens Eug\u00e8ne Ruy, der sich zusammen mit seinem besten Freund Matthias freiwillig zum Kriegsdienst meldet. <br>Nachdem wir den Roman gelesen haben, kam uns die Idee ein Projekt basierend auf der Geschichte von Eug\u00e8ne durchzuf\u00fchren.<br>Wir haben uns vorgestellt, dass Eug\u00e8ne Gegenst\u00e4nde aus dem Krieg mitgebracht und sie in einen Koffer gelegt hat. Viele Jahrzehnte sp\u00e4ter findet sein Enkel diesen Koffer auf dem Dachboden und \u00f6ffnet ihn neugierig. Was f\u00fcr Gegenst\u00e4nde er gefunden hat, k\u00f6nnt ihr Euch gerne in der Vitrine gegen\u00fcber der Cafeteria angucken.<br><strong><em>Euer Franz\u00f6sisch Kurs Jg.13 KY<\/em><\/strong><\/p><p><\/p>"},"id":"d756cee8-bd74-4020-a0fd-9e7472238d71","isHidden":false,"type":"text"}],"id":"ec3cd02d-fa30-4f28-9685-15d30e969d55","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["photo-2022-03-10-16-26-16.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"017dc0d0-0369-41ae-8d3b-840cc9cf2d78","isHidden":false,"type":"image"}],"id":"674bd9a0-ece4-4945-9d11-194ed473f9ff","width":"1\/2"}],"id":"ecb5ab21-b0ca-4b14-a9f2-1fe6f88a3a74"}]
+
+----
+
+Date: 2022-03-20 09:25:00
+
+----
+
+Datumstartseite: 2022-07-20 09:25:00
+
+----
+
+Author: Hartmut Kayser
+
+----
+
+Tags: Französisch, Projekt
+
+----
+
+Downloads: 
