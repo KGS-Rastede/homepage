@@ -1,0 +1,25 @@
+Title: Projekttag - Mein Profil, ein Video
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 26 Januar 2022 nahmen alle Sch\u00fcler:innen des 8. Jahrgangs am Projekttag \u201eMein Profil\u201c teil. Mit Unterst\u00fctzung der Sch\u00fcler:innen aus dem Seminarfach von Herrn Arzenscheg (Jg. 12) gab es die Gelegenheit, auf spielerische und kreative Weise \u00fcber die Leitfragen des Tages nachzudenken: Was ist mir wichtig? Was kann ich gut? Was fordert mich heraus? <br>Dieses Video gibt Einblicke in die Aktivit\u00e4ten und Stimmungen des Tages.<\/p><p><\/p>"},"id":"dd76dd0e-0218-4ca5-a5ea-e946533a1041","isHidden":false,"type":"text"}],"id":"45f57e6a-cb72-4704-b69a-d959c07a6486","width":"1\/2"},{"blocks":[{"content":{"url":"https:\/\/vimeo.com\/677057566","caption":""},"id":"39eaa0bb-909f-4036-834a-ce0c0842bb52","isHidden":false,"type":"video"}],"id":"031b3fae-ad4b-44b4-a8f3-bfbfeec5bac3","width":"1\/2"}],"id":"bd57c584-2f93-4258-894a-b42006def68d"}]
+
+----
+
+Date: 2022-03-21 10:55:00
+
+----
+
+Datumstartseite: 2022-07-21 10:55:00
+
+----
+
+Author: Das Herausforderungsprojekt
+
+----
+
+Tags: Herausforderungsprojekt
+
+----
+
+Downloads: 
