@@ -2,10 +2,6 @@ title: Übersicht über ein einzelnes Projekt
 
 
 fields:
-  heading:
-    type: text
-    width: 1/2
-    label: Untertitel
   text:
     label: Inhalt
     type: blocks
