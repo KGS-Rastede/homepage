@@ -1,0 +1,25 @@
+Title: Mahnwache "Frieden und Freiheit für die Ukraine"
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die AG \u201eF\u00fcr den Frieden\u201c f\u00fchrt am Montag, 14.3.2022, vor dem Rathaus in Rastede eine Mahnwache durch. Mit dieser \u00f6ffentlichen Aktion stellen wir uns gegen den russischen Angriffskrieg auf die Ukraine und fordern ein sofortiges Ende der Invasion. Zugleich setzen wir uns f\u00fcr eine Welt in Frieden und Freiheit f\u00fcr alle Menschen ein. Wir fordern die Einhaltung der UN-Charta, vor allem in Bezug auf f\u00fcr die Verpflichtung auf den Weltfrieden. Die AG \u201eF\u00fcr den Frieden\u201c betont anstelle des Rechts des St\u00e4rkeren die St\u00e4rke des Rechts und die Kraft der Vernunft. Sie w\u00fcnscht sich ein friedliches Europa in Freiheit und Selbstbestimmung und mit gleichberechtigter Zusammenarbeit. Krieg darf keine M\u00f6glichkeit menschlicher Konfliktbew\u00e4ltigung sein, nirgendwo und zu keiner Zeit \u2013 auch nicht in der Ukraine.<\/p><p><\/p>"},"id":"5aaa26fb-64fb-4e1d-9084-12cac6236400","isHidden":false,"type":"text"}],"id":"dd72b2dd-32a6-49e1-9e0d-5892c48005d3","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["ag-plakate-2022-mahnwache-ukraine-14.3.2022.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f8e41d6a-46d0-48ce-9600-82617f4e5f13","isHidden":false,"type":"image"}],"id":"188a4519-2eae-4643-a465-42f8fe721b44","width":"1\/2"}],"id":"bd6542df-ca74-4ff5-bd87-bb0334827945"},{"attrs":[],"columns":[{"blocks":[{"content":{"karousel":["img_2950-2.jpg","img_2953.jpg","img_2957.jpg","img_2959-2.jpg","img_2960.jpg"]},"id":"0283fd99-1aa2-44b4-9483-443db491c439","isHidden":false,"type":"karousel"}],"id":"caf1cd3c-05e4-495a-840a-cace4d80ad4b","width":"1\/1"}],"id":"44c97ace-e6e2-4b4b-b99d-1a208a482281"}]
+
+----
+
+Date: 2022-03-14 07:50:00
+
+----
+
+Datumstartseite: 2022-08-01 07:50:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: 
