@@ -11,17 +11,8 @@
 
   <?= css('assets/css/kgs_shrinked.min.css') ?>
 
-  <!-- 
-    Diese Konstruktion dient der Performance. 
-    So werden die Icons zuletzt geladen und der Inhalt zuerst
-    https://web.dev/defer-non-critical-css/ 
-  -->
-  <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="../../node_modules/bootstrap-icons/font/bootstrap-icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   
-  <noscript>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
-  </noscript>
-
   <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
