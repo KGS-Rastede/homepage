@@ -1,0 +1,25 @@
+Title: "Ich kann den Bläserkurs sehr empfehlen!"
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>sagte eine begeisterte Sch\u00fclerin, die zuvor im Orchester mit zwei St\u00fccken gegl\u00e4nzt hatte. Zum ersten Mal durften sie vor Publikum spielen und stolz zeigen, was sie trotz der Einschr\u00e4nkungen in so kurzer Zeit gelernt hatten. Das Konzert fand statt im Rahmen der Informationsveranstaltung f\u00fcr Eltern und Sch\u00fcler:innen zu den Wahlen f\u00fcr den k\u00fcnftigen Jahrgang 5. Herr Schneemann und Frau Varelmann informierten \u00fcber die k\u00fcnstlerischen Profile \"Bl\u00e4serkurs\" und \"Atelierkurs\".<\/p><p>\"Das Tolle ist, dass man in der Gemeinschaft spielt. Da ist es auch nicht so schlimm, wenn man sich mal verspielt.\"<\/p>"},"id":"f422fad6-827b-411f-889a-f40d3aaaf01a","isHidden":false,"type":"text"}],"id":"0d2d66c6-421f-4917-8d97-ab7531febd1c","width":"1\/1"}],"id":"cbc7ed71-86a6-4611-8122-84a5e7b10a10"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["adfc1258-d9db-46f7-ba19-7ca095d90030_1_105_c.jpeg"],"src":"","alt":"","caption":"Der Bl\u00e4serkurs des 5. Jahrgangs unter der Leitung von Frau Stahmann","link":"","ratio":"","crop":"false"},"id":"2760c081-ba80-4e14-aea3-6cf3a004482b","isHidden":false,"type":"image"}],"id":"1f2c06d4-89b6-40a5-9ae1-1b454617fd7c","width":"1\/1"}],"id":"ed67b9fe-d13e-4ea9-9ae8-aa9d2139c41d"},{"attrs":[],"columns":[{"blocks":[{"content":{"lesensieauchtitel":"Informationsvideo zum Atelier- und Bl\u00e4serkurs","lesensieauch":[]},"id":"570e12e9-bc69-4356-94a6-d8f15e7eef19","isHidden":false,"type":"lesensieauch"},{"content":{"text":"<p><a href=\"https:\/\/kgs-rastede.de\/blogs\/informationen-zum-artelierkurs-2021\" target=\"_blank\" title=\"Informationsvideos zum Atelier- und Bl\u00e4serkurs\" rel=\"noopener noreferrer\">Informationsvideos zum Atelier- und Bl\u00e4serkurs<\/a><\/p>"},"id":"7be38023-99ac-48a3-9ce2-ea83a211e163","isHidden":false,"type":"text"}],"id":"cd9129b3-3c2b-441d-9c88-a810dff19728","width":"1\/1"}],"id":"989ac990-54b8-4bb7-b9be-f863bcdaaeda"}]
+
+----
+
+Date: 2022-04-28 08:20:00
+
+----
+
+Datumstartseite: 2022-08-28 08:20:00
+
+----
+
+Author: Hildegard Varelmann
+
+----
+
+Tags: Kunst, Musik, Atelierkurs, Bläserkurs, Kulturelles
+
+----
+
+Downloads: 
