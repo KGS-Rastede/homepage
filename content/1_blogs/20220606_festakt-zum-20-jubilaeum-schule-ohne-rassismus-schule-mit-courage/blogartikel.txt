@@ -1,0 +1,25 @@
+Title: Festakt zum 20. Jubiläum Schule ohne Rassismus / Schule mit Courage
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["ag-plakate-2022-sor-smc-jubilaeum-festakt-10.6.2022_1.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"73ada785-406a-43b8-9e88-c4eae80e2bf3","isHidden":false,"type":"image"}],"id":"0035f494-849b-4729-9cdc-898e85fd0b57","width":"1\/1"}],"id":"37347ad8-6ce7-4713-8ca7-3c22f56aae6a"}]
+
+----
+
+Date: 2022-06-06 12:10:00
+
+----
+
+Datumstartseite: 2022-10-06 12:10:00
+
+----
+
+Author: AG Für den Frieden
+
+----
+
+Tags: Courage, Für den Frieden, Jubuläum
+
+----
+
+Downloads: 
