@@ -1,19 +1,20 @@
-<?php if ($image = $block->image()->toFile()): ?>
-    <figure <?= attr(['data-ratio' => $block->ratio(), 'data-crop' => $block->crop()->isTrue()], ' ') ?>>
-        <?php if ($block->link()->isNotEmpty()): ?>
-            <a href="<?= $block->link()->toUrl() ?>">
-                <img src="<?= $image->url() ?>" alt="<?= $block->alt()->or($image->alt()) ?>" class="mw-100">
-            </a>
-            <?php else: ?>
-            <a href="<?= $image->url() ?>">
-                <img src="<?= $image->url() ?>" alt="<?= $block->alt()->or($image->alt()) ?>" class="mw-100">
-            </a>
-        <?php endif ?>
+<!-- 
+  site/blueprints/blocks/grabstein.php
+ -->
 
-        <?php if ($block->caption()->isNotEmpty()): ?>
-            <figcaption class="fw-light fst-italic">
-                <?= $block->caption() ?>
-            </figcaption>
-        <?php endif ?>
-    </figure>
+<?php if ($image = $block->grabsteinbild()->toFile()) : ?>
+    <div class="card shadow-sm">
+        <img width="200rm" src="<?= $image->url() ?>" alt="Grabstein von xxx" />
+
+        <div class="card-body">
+            <p class="card-text">Name: <?= $block->beschriftung() ?> geboren am <b><?= $block->gebdatum() ?></b></p>
+            <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+
+                </div>
+                <small class="text-muted">Max Mustermann</small>
+            </div>
+        </div>
+    </div>
+
 <?php endif ?>
