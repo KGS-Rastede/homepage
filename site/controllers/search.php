@@ -10,7 +10,6 @@ return function ($site) {
     "blogs",
     "kontakte",
     "schulleitung",
-    "2_ni",
     "Faecher",
     "allgemeines",
     "foerderverein",
