@@ -6,7 +6,6 @@
 <div class="container">
 
 
-<a href="https://youtu.be/SEpJkA6Fjpg" class="link-primary">.</a>
 
   <h2>Projekte:</h2>
 
