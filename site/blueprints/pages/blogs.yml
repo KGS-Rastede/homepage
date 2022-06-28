@@ -20,18 +20,26 @@ sections:
   drafts:
     headline: noch nicht öffentlich
     type: pages
+    layout: table
+    columns:
+      date:
+        label: Datum
+        type: date
+        display: DD.MM.YYYY
+      tags:
+        label: Tags
+        type: tags
     status: draft
     template:
       - blogartikel
       - blog
     sortBy: date desc
-    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
 
   published:
     headline: öffentlich einsehbar
     type: pages
     status: listed
-    templates: 
+    templates:
       - blogartikel
       - blog
     sortBy: date desc
@@ -40,9 +48,18 @@ sections:
   unpublished:
     headline: NICHT öffentlich einsehbar
     type: pages
+    layout: table
+    columns:
+      date:
+        label: Datum
+        type: date
+        display: DD.MM.YYYY
+      tags:
+        label: Tags
+        type: tags
     status: unlisted
-    templates: 
+    templates:
       - blogartikel
       - blog
     sortBy: date desc
-    info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
+
