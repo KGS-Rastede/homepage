@@ -1,0 +1,29 @@
+Title: Kleinprojekte zum Thema Rassismus von der 6A2
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Sch\u00fclerInnen aus der Feldbreite befassten sich ebenfalls mit dem Thema Rassismus. Hierbei gab es individuelle Projektegestaltungen und die 6A2 entschied sich dazu, das Thema Rassismus im Klassenverband zu bearbeiten.<\/p><p>Zum Einstieg entwickelten die Sch\u00fclerInnen eine Umfrage, die sie in der Schle und im Park in Rastede durchgef\u00fchrt haben. Danach entwickelten sie unterschiedliche Projekte wie beispielsweise das Entwickeln einer Tagesschau, die den Rassismus im Alltag befasste, das Gestalten verschiedener Plakate oder auch das Zeichnen einer BLM-Faust. Der Kreativit\u00e4t wurde hierbei keine Grenzen gesetzt und jeder konnte sich individuell in Gruppen wiederfinden und sich gemeinsam mit dem Thema auseinandersetzen.<\/p><p>Am Ende der Projektwoche wurden alle Pojekte im Klassenverband vorgestellt und man konnte w\u00e4hrend den Pr\u00e4sentationen Buchstaben finden, die zusammengesestzt ein L\u00f6sungswort ergaben. So konnte spielerisch darauf vertraut werden, dass die Sch\u00fclerInnen aufmerksam die Vorstellungen verfolgten.<\/p>"},"id":"97318fc7-b56b-48a7-a57e-78cb09f26506","isHidden":false,"type":"text"}],"id":"fb17ac21-5585-4699-9718-13a5b0c73b15","width":"1\/1"}],"id":"668729cc-4fd5-4c43-901e-58d1c42789b3"}]
+
+----
+
+Date: 2022-06-24 10:00:00
+
+----
+
+Datumstartseite: 2022-10-24 10:00:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Eda Yildiz
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 

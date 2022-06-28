@@ -1,0 +1,29 @@
+Title: 'Rassismus geht uns alle an'
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Klasse 5C3 hat in der Projektwoche zusammen mit Frau Eickhoff das Buch \"Rassismus geht uns alle an\" behandelt. Dazu hatten sie verschiedene Angebote, mit denen das Thema 'Rassismus' den Kindern n\u00e4her gebracht werden sollte.<\/p><p>Neben den vielen unterschiedlichen Arbeitsbl\u00e4ttern zum Buch hatten sie Kinderb\u00fccher vor dem Hintergrund von Alltagsrassismus analysiert, Rollenspiele durchgef\u00fchrt sowie ihre Handabdr\u00fccke in Beton verewigt. Damit konnten sie lernen, dass trotz verschiedener Hautfarben alle gleiche H\u00e4nde haben und es damit kein Grund f\u00fcr Diskrimminierung gibt. Au\u00dferdem hatten sie gemeinsam ein kulinarisches Fr\u00fchst\u00fcck, womit die kulturelle Vielfalt deutlich wurde.<\/p><p>Zusammenfassend haben die Sch\u00fclerInnen der 5C3 in dieser Woche gelernt, dass Rassismus oft im Alltag vorkommt, inwiefern es das Leben beeinflusst und wie sie mit Rassismus umgehen.<\/p>"},"id":"6e006d91-bc91-4c27-9e22-8c9b70c6016a","isHidden":false,"type":"text"}],"id":"abf187e1-cbe9-4232-a6a5-d2fcc68f36d6","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["bildschirmfoto-2022-06-22-um-08.43.19.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"c45402b1-dd9a-4a35-8678-ae488b193a06","isHidden":false,"type":"image"}],"id":"b606a187-f5de-4139-9ee3-ec36568dc8e8","width":"1\/2"}],"id":"14818c0d-bfc8-4be9-a9bc-f970d169cc1b"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["img_0358.jpeg","img_0359.jpeg","img_0364.jpeg"]},"id":"63b2858f-5de3-4fb8-b3c0-0f2a9763fc8c","isHidden":false,"type":"gallery"}],"id":"29b8ccb5-70cc-44d6-9091-5524a1f22af9","width":"1\/1"}],"id":"a8212633-2c9e-44de-b056-24e594f63f1d"}]
+
+----
+
+Date: 2022-06-24 10:10:00
+
+----
+
+Datumstartseite: 2022-10-24 10:10:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Aysu Aliyeva
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 

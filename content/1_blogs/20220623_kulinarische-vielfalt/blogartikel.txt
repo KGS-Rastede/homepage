@@ -1,0 +1,29 @@
+Title: Kulinarische Vielfalt
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die 9B3 hat sich gemeinsam mit Herrn Elert mithilfe kulinarischer Vielfalten mit dem Thema Rassismus befasst. Als Einf\u00fchrung haben sie verschiedene Formen von Diskriminierung besprochen und um diese Formen zu veranschaulichen, schauten sie eine Dokumentation \u00fcber das Thema Rassismus. In der Doku wurde ein soziales Experiment dargestellt, in dem Menschen mit blauer Augenfarbe und heller Haarfarbe diskriminert wurden, damit sie die Gef\u00fchle von Menschen, die unter Diskriminierung leiden, nachvollziehen k\u00f6nnen. <\/p><p>Nach dieser Ausarbeitung haben sie verschiedene Gerichte aus aller Welt zubereitet. Dazu geh\u00f6rten Lahmacun (t\u00fcrkisch\/arabisch), Sommerrollen (vietnamesisch), Sushi (japanisch) und Cr\u00e8me br\u00fbl\u00e9e (franz\u00f6sisch). Nach der Zubereitung setzten sie sich zusammen und probierten gemeinsam das Essen.<\/p>"},"id":"d0d7e993-4376-4b83-b6e9-33f54291b83f","isHidden":false,"type":"text"}],"id":"fd4b5795-856b-4147-8c07-866c6802c2d2","width":"1\/2"},{"blocks":[{"content":{"images":["20220622_105127.jpg","20220622_105138.jpg","20220622_105148.jpg","20220622_105041.jpg","20220622_105248.jpg"]},"id":"a603ed9c-5f58-4dd9-acf6-2eac169a7869","isHidden":false,"type":"gallery"}],"id":"d64a61e2-fa2d-4901-842b-c7b460499e76","width":"1\/2"}],"id":"aa8b0355-d678-430b-bb04-a27a51499f54"}]
+
+----
+
+Date: 2022-06-23 10:05:00
+
+----
+
+Datumstartseite: 2022-10-23 10:05:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Eda Yildiz
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 

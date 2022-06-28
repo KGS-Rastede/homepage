@@ -1,0 +1,29 @@
+Title: Entwicklung eines Kinderbuchs
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>\"Balu und Du\" SF01<\/p><p>Schon seit fast einem Jahr befasst sich das Seminarfach mit dem bundesweiten Mentorenprogramm \"Balu und Du\". Dies umfasst, sich mindestens ein Jahr ehrenamtlich mit jungen Kindern, die aufgrund von Migrationshintergr\u00fcnden, Sch\u00fcchternheit oder auch auff\u00e4lligen Verhalten auffallen, zu treffen und durch Zugewandheit und aktive Freizeitgestaltung sich in unsere Gesellschaft weiterzuentwickeln. Die Idee \"Balu und Du\" basiert auf einem Kinderbuch namens \"Dschungelbuch\". Hierbei ist der B\u00e4r Balu der Ratgeber von Mogli und die ehrenamtlichen Helfer sehen sich in der Rolle vom B\u00e4r wieder, dass sie die Kinder (Moglis) unterst\u00fctzen.<\/p><p>Sie entwickelten eine starke Bindung zu den Kindern und viele von ihnen freundeten sich auch an. Durch die Projektwoche hat es sich dazu ergeben, Kinderb\u00fccher zum Thema Rassismus zu gestalten , die mit vielen verschiedenen Bildern designt werden. Diese Kinderb\u00fccher wollen sie ihren \"Moglis\" zum Abschied schenken.<\/p><p><\/p>"},"id":"665e11a4-e4cf-453c-a992-4201c8a98fdf","isHidden":false,"type":"text"}],"id":"85623118-b03a-4cba-9701-8182cfa7c2f1","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["20220622_102554.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"13385130-631d-43f9-83c9-bf7c498849db","isHidden":false,"type":"image"}],"id":"3b0fcd6a-ef7f-470e-8cf6-cb911b32325f","width":"1\/2"}],"id":"44b269ff-dc19-4476-b22c-48a2fd11aa06"}]
+
+----
+
+Date: 2022-06-23 10:20:00
+
+----
+
+Datumstartseite: 2022-10-23 10:20:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Khumri Suleman
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 

@@ -74,6 +74,14 @@ columns:
             time: true
             default: now + 4 month
             help: Wenn hier kein Datum steht wird dieser Artikel nicht auf der Startseite angezeigt.
+          toggleStartseite:
+            label: Auf Startseite verstecken?
+            help: Wenn aktiv wird der Artikel niemals auf der Startseite angezeigt
+            type: toggle
+            text: 
+              - "Nein"
+              - "Ja"
+            default: false  
           author:
             type: text
             label: Name des Autors
@@ -116,6 +124,7 @@ columns:
               - SoWi
               - NTW
               - Fremdsprachen
+              - Projektwoche
 
           line1:
             type: line
