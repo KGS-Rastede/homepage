@@ -26,9 +26,11 @@ sections:
         label: Datum
         type: date
         display: DD.MM.YYYY
+        width: 1/6
       tags:
         label: Tags
         type: tags
+        width: 2/6
     status: draft
     template:
       - blogartikel
@@ -54,9 +56,11 @@ sections:
         label: Datum
         type: date
         display: DD.MM.YYYY
+        width: 1/6
       tags:
         label: Tags
         type: tags
+        width: 2/6
     status: unlisted
     templates:
       - blogartikel
