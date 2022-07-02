@@ -9,7 +9,7 @@
 
     <?php foreach ($page->children() as $unterprojekt) : ?>
       <a href="<?= $unterprojekt->url() ?>">
-        <div class="card mb-3">
+        <div class="card <?= $unterprojekt->teamfarbe() ?> mb-3">
 
           <div class="card-body">
             <h3 class="card-title mb-3 text-warning"><?= $unterprojekt->title() ?></h3>
@@ -20,6 +20,7 @@
       </a>
 
     <?php endforeach; ?>
+
 
   </div>
 </div>

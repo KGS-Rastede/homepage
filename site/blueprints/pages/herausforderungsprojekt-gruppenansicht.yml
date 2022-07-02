@@ -18,6 +18,10 @@ fields:
     query: page.images
     ratio: 1/1
     width: 1/2
+  teamfarbe:
+    label: Teamfarbe
+    type: text
+    width: 1/2
   text:
     label: Inhalt
     type: blocks
