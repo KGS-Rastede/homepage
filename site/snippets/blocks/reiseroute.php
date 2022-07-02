@@ -48,6 +48,15 @@
           }
         },
       <?php endforeach ?>
+
+      // test     The following three lines are only executed if the code in the
+      // lines 36 to 50 is NOT run. So if I delete the lines above
+      // the code works
+      <?php foreach ($block->reise()->toBlocks() as $block) : ?>
+        [<?= $block->breitengrad() ?>, <?= $block->laengengrad() ?>],
+      <?php endforeach ?>
+      // test ende xxxxxxxxx
+
     ]
   };
 
@@ -213,27 +222,19 @@
           'type': 'LineString',
           'coordinates': [
 
-            //forschleife fängt an
+      
 
-            //anders als oben ist die Schleife leer, es werden keine Iterationen gemacht
-            // Ich verstehe den Fehler nicht
-
-            <?php foreach ($block->reise()->toBlocks() as $block) : ?> {
-                [<?= $block->breitengrad() ?>, <?= $block->laengengrad() ?>],
-              }
+            //for loop (which is not run)
+            <?php foreach ($block->reise()->toBlocks() as $block) : ?>
+              [<?= $block->breitengrad() ?>, <?= $block->laengengrad() ?>],
             <?php endforeach ?>
+            //end of the for loop
 
+            // These coordinates should 
 
-            //for endet
-
-
-            //zweites for hört auf
-
-            //das hier sind die richtigen Koordinaten
-
-         //   [139.79, 35.7],
-          //  [128.05, 36.26],
-          //  [120, 23.6],
+            //  [139.79, 35.7],
+            //  [128.05, 36.26],
+            //  [120, 23.6],
 
 
             [-122.483696, 37.833818],
