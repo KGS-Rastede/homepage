@@ -2,6 +2,7 @@
 
 // Dieser Code generiert die JSON-Elemente
 $features = [];
+$koordinaten = [];
 foreach ($block->reise()->toBlocks() as $block) {
   $features[] = [
     'type'       => 'Feature',
@@ -15,7 +16,22 @@ foreach ($block->reise()->toBlocks() as $block) {
       'coordinates' => [$block->breitengrad()->value(), $block->laengengrad()->value()],
     ],
   ];
+
+  $aktuelle_koordinate = [];
+  $aktuelle_koordinate[0] = $block->breitengrad()->value();
+  $aktuelle_koordinate[1] = $block->laengengrad()->value();
+
+  echo "aktuelle Korrdinaten:\n";
+  print_r($aktuelle_koordinate);
+  echo "Korrdinaten:\n";
+  print_r($koordinaten);
+
 }
+
+//Achtung, hier ist der Code passend zur Fehlermeldung. Int vs. String
+$koordinaten[0] = [ ["53.1"], ["8.12"] ];
+$koordinaten[2] = [ ["43.1"], ["7.12"] ];
+$koordinaten[3] = [ ["33.1"], ["6.12"] ];
 ?>
 
 <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
@@ -219,16 +235,22 @@ foreach ($block->reise()->toBlocks() as $block) {
 
 
 
-            //for loop (which is not run)
-            <?php foreach ($block->reise()->toBlocks() as $block) : ?>[<?= $block->breitengrad() ?>, <?= $block->laengengrad() ?>],
-            <?php endforeach ?>
-            //end of the for loop
+            // Ok, hier werden die Koordinaten zusammengebastelt
+            // Der Fehler liegt in den Typen (int vs string)
+            //Die Fehlermeldung lautet: 
+            //     Block error: "Array to string conversion" in block type: "reiseroute"
 
-            // These coordinates should 
+            // Der Fehler ist in Zeile 31! Da muss der Array gefüllt werden! Zur Not per Hand mit Demodaten,
+            // Siehe Zeile 31. 
+            // Wenn das geht natürlich automatisch (siehe Zeile 20-31)
 
-            //  [139.79, 35.7],
-            //  [128.05, 36.26],
-            //  [120, 23.6],
+
+            <?php
+              foreach($koordinaten as $value) {
+                echo "["; echo $value[0]; 
+                echo ","; echo $value[1]; echo "],";
+              }
+            ?>
 
 
             [-122.483696, 37.833818],
