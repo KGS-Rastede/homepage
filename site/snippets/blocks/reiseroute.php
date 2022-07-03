@@ -1,39 +1,21 @@
 <?php
 
 // Dieser Code generiert die JSON-Elemente
-// Allerdings ist das nicht 100% korrekt, es wird "value: Tokyo" generiert und nicht "Tokyo"
-
-// {
-//   type: "Feature",
-//   properties: {
-//     message: "Tokyo",
-//     iconSize: [50, 50],
-
-//     //TODO wenn hier kein Bild hochgeladen wurde muss ein Default Bild genommen werden
-//     iconUrl:
-//       "https://kgs-rastede.de/media/pages/unterricht/herausforderungsprojekt/2021/unsere-reise-durch-asien/21a631077c-1656836473/imag1865.jpg",
-//   },
-//   geometry: {
-//     type: "Point",
-//     coordinates: [139.79, 35.7],
-//   },
-// },
-
-// $features = [];
-// foreach ($block->reise()->toBlocks() as $block) {
-//   $features[] = [
-//     'type'       => 'Feature',
-//     'properties' => [
-//       'message'  => [$block->name()],
-//       'iconSize' => [50, 50],
-//       'iconUrl'  => ($image = $block->bild()->toFile()) ? $image->url() : '',
-//       'geometry' => [
-//         'type'        => 'Point',
-//         'coordinates' => [$block->breitengrad(), $block->laengengrad()],
-//       ],
-//     ],
-//   ];
-// }
+$features = [];
+foreach ($block->reise()->toBlocks() as $block) {
+  $features[] = [
+    'type'       => 'Feature',
+    'properties' => [
+      'message'  => $block->name()->value(),
+      'iconSize' => [50, 50],
+      'iconUrl'  => ($image = $block->bild()->toFile()) ? $image->url() : ''
+    ],
+    'geometry' => [
+      'type'        => 'Point',
+      'coordinates' => [$block->breitengrad()->value(), $block->laengengrad()->value()],
+    ],
+  ];
+}
 ?>
 
 <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
@@ -68,48 +50,9 @@
 <script>
   mapboxgl.accessToken = 'pk.eyJ1Ijoia2dzcmFzdGVkZSIsImEiOiJja3hnZ2dnaXczb293MnBvNWxhdWxkdnYxIn0.kHEpdxzycw6ZVg719GpdLA';
 
-  // TODO
-  // An dieser Stelle reichen eigentlich die folgenden vier Zeilen, die rufen dann den Code ganz oben auf:
-  // const geojson = {
-  //   'type': 'FeatureCollection',
-  //   'features': < ?= json_encode($features, JSON_PRETTY_PRINT) ?>
-  // };
-  // ACHTUNG ICH HABE EIN LEERZEICHEN EINGEFÜGT HINTER features
-
-
-
-
   const geojson = {
     'type': 'FeatureCollection',
-    'features': [
-
-      <?php foreach ($block->reise()->toBlocks() as $block) : ?> {
-          'type': 'Feature',
-          'properties': {
-            'message': '<?= $block->name() ?>',
-            'iconSize': [50, 50],
-
-            //TODO wenn hier kein Bild hochgeladen wurde muss ein Default Bild genommen werden
-            'iconUrl': '<?= $block->bild()->toFile()->url() ?>'
-          },
-          'geometry': {
-            'type': 'Point',
-            'coordinates': [<?= $block->breitengrad() ?>, <?= $block->laengengrad() ?>]
-          }
-        },
-
-      <?php endforeach ?>
-
-      // test     The following three lines are only executed if the code in the
-      // lines 36 to 50 is NOT run. So if I delete the lines above
-      // the code works
-      <?php foreach ($block->reise()->toBlocks() as $block) : ?>
-        //here should be at least one coordinate!
-        [<?= $block->breitengrad() ?>, <?= $block->laengengrad() ?>],
-      <?php endforeach; ?>
-      // test ende xxxxxxxxx
-
-    ]
+    'features': <?= json_encode($features, JSON_PRETTY_PRINT) ?>
   };
 
   const map = new mapboxgl.Map({
