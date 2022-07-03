@@ -1,0 +1,29 @@
+Title: Die Gemeinde Rastede erklärt sich zum „Sicheren Hafen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"images":["img_3357.jpg","img_3343.jpg","img_3320.jpg","img_3322.jpg","img_3355.jpg"]},"id":"81e1ae6d-ccdd-4f1a-82b9-bc8255f685b1","isHidden":false,"type":"gallery"}],"id":"90857b89-1722-4370-bf8c-97d12329cf72","width":"1\/2"},{"blocks":[{"content":{"text":"<p>Die Aktion Seebr\u00fccke fordert mit ihrer Initiative \u201eSchafft sichere H\u00e4fen!\u201c alle bundesdeutschen St\u00e4dte und Gemeinden dazu auf, sich f\u00fcr eine menschliche Migrationspolitik einzusetzen. \u201eSichere H\u00e4fen\u201c treten ein f\u00fcr eine staatliche Seenotrettung und hei\u00dfen gefl\u00fcchtete Menschen willkommen. Sie protestieren gegen die Abschottungspolitik der Festung Europa und propagieren die Entkriminalisierung der zivilen Seenotrettung. Aktuell beteiligen sich bundesweit bereits 309 Kommunen an dem Netzwerk. Die AG \u201eF\u00fcr den Frieden\u201c an der KGS Rastede beantragt beim Rat der Gemeinde Rastede, den Beitritt der Gemeinde Rastede zur Initiative \u201eSchafft sichere H\u00e4fen!\u201c zu beschlie\u00dfen. Zur Unterst\u00fctzung f\u00fchrt die Arbeitsgemeinschaft eine Unterschriftensammlung in der Schule und im Ort Rastede durch. <\/p><p>AG \"F\u00fcr den Frieden\"<\/p>"},"id":"2ded365b-37bb-4580-8549-6f81dcb01e5c","isHidden":false,"type":"text"}],"id":"243feecf-6465-443c-808e-f0d165d32a9d","width":"1\/2"}],"id":"dde20169-d03b-4ad3-84ba-8b63e70e7e88"}]
+
+----
+
+Date: 2022-06-28 08:25:00
+
+----
+
+Datumstartseite: 2022-10-28 08:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden, Seebrücke
+
+----
+
+Downloads: 
