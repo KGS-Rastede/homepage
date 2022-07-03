@@ -61,7 +61,7 @@
                         'iconSize': [50, 50],
 
                         //TODO wenn hier kein Bild hochgeladen wurde muss ein Default Bild genommen werden
-                        'iconUrl': 'http://localhost:8888/media/pages/unterricht/herausforderungsprojekt/2021/unsere-reise-durch-asien/7bf4709fe3-1648027418/imag1865.jpg'
+                        'iconUrl': '<?= $unterprojekt->teamlogo()->toFile()->url() ?>'
                       },
                       'geometry': {
                         'type': 'Point',
