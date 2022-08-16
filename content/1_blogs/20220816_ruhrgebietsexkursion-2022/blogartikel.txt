@@ -1,0 +1,29 @@
+Title: Ruhrgebietsexkursion 2022
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>F\u00fcr die Erdkunde-Leistungskurse von Frau Krolik u. Frau Westerholt in Begleitung von Herrn Niebur ging es f\u00fcr zwei Tage ins Ruhrgebiet.<\/p><p>Nachdem wir mit dem Bus angekommen waren, begann unsere Exkursion in Essen, in der Zeche Zollverein. Nach einer kurzen Freizeit, um das Gel\u00e4nde selber zu erkunden, hatten wir gef\u00fchrte Rundg\u00e4nge \u00fcber das alte Gel\u00e4nde. Fr\u00fcher war es die gr\u00f6\u00dfte Steinkohle-Zeche weltweit, heute geh\u00f6rt es zum UNESCO Welterbe. Nachdem wir viel \u00fcber die Kohle und<br>ihren Abbau damals gelernt haben, hatten wir Zeit das Ruhrmuseum zu besuchen. Dort wurden verschiedene Zeitepochen dargestellt, vor allem konnte man noch mehr \u00fcber den Kohleabbau und seine gro\u00dfe Bedeutung f\u00fcr das Ruhrgebiet lernen.<br><\/p><p>Nach einem kurzen Aufenthalt in der Jugendherberge ging es f\u00fcr uns auf einen selbstorganisierten Rundgang durch den Landschaftspark Duisburg-Nord- einem Parkgel\u00e4nde rund um das stillgelegte Eisenh\u00fcttenwerk. Gegenseitig pr\u00e4sentierten wir uns die wichtigsten Elemente, einerseits \u00fcber die Funktion des H\u00fcttenwerks fr\u00fcher, aber auch \u00fcber die Umgestaltung und heutige  Nutzungsm\u00f6glichkeiten.<\/p><p><br>Im ehemaligen Gasometer ist beispielsweise ein Tauchzentrum entstanden. Der Gasometer, leicht zu verwechseln mit der Form einer Kl\u00e4ranlage, bietet aufgrund seiner Gr\u00f6\u00dfe und Form den idealen Platz daf\u00fcr.<\/p>"},"id":"26358d74-2fd3-4201-a5e1-15536ddf84ea","isHidden":false,"type":"text"}],"id":"04f6ecb3-286b-45ca-af13-9e16083448c0","width":"1\/2"},{"blocks":[{"content":{"images":["eklk-krolik.jpg","tetraeder-bottrop.jpg","phoenixsee-dortmund.jpg","landschaftspark-duisburg-nord.jpg","eklk-westerholt.jpg"]},"id":"b9c8a7b8-d2c0-43cf-9234-f79756ba0f5c","isHidden":false,"type":"gallery"}],"id":"b0c06707-e5fc-4b93-9aa3-c86ae84c53d6","width":"1\/2"}],"id":"5673a801-333f-4b56-b0d7-06a3ba6b8312"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>So ist es mit vielen Elementen auf dem alten H\u00fcttengel\u00e4nde, die f\u00fcr die Freizeitnutzung, z.B. in Form eines Kletterparks, umgestaltet wurden. Der Abend endete mit Freizeit in der Duisburger Innenstadt, wo wir unter anderem den Duisburger Innenhafen besuchten. Nach einer kurzen Nacht starteten wir am n\u00e4chsten Morgen eine Bustour zum Thema \u201eStrukturwandel im \u00f6stlichen Ruhregebiet\u201c. Mit zwei  Tourleiter:innen ging es in Essen los und bereits hier war eine modernisierte Stadt zu sehen. Unser erster Halt war dann der Tetraeder in Bottrop, eine bekannte Landmarke auf einer Halde, von wo aus man aus \u00fcber 100 Metern H\u00f6he einen gro\u00dfen Teil des Ruhrgebiets sehen konnte.<\/p><p>Der n\u00e4chste Halt war Gelsenkirchen, wo wir uns den Nordsternpark auf dem ehemaligen Gel\u00e4nde der Zeche<br>Nordstern anschauten. Mittags hatten wir Zeit, den Ruhrpark in Bochum beim Mittagessen kennenzulernen, bevor wir zuletzt an den Phoenixsee nach Dortmund fuhren, um dort noch einmal das modernisierte und ver\u00e4nderte Ruhrgebiet zu sehen. Viele neue Geb\u00e4ude und teure Wohnanlagen waren das Gegenteil der am Vortag besuchten Zechen und befinden sich dort, wo fr\u00fcher ein Stahlwerk stand.<br>Auf der Exkursion haben wir im Schnellverfahren einen Gro\u00dfteil des Ruhrgebiets kennengelernt und selber gesehen, was der Strukturwandel hier in den letzten Jahrzehnten bewirkt hat.<\/p>"},"id":"73a7b164-ff10-4c5b-b694-1f237c7ea3aa","isHidden":false,"type":"text"}],"id":"9f5f863d-29b3-4fcd-86dd-9efbc49c6b32","width":"1\/1"}],"id":"be5d6fcd-7057-47f4-a7e3-2c881be19aa6"}]
+
+----
+
+Date: 2022-08-16 09:20:00
+
+----
+
+Datumstartseite: 2022-12-16 09:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Joelee Kobler
+
+----
+
+Tags: Erdkunde, Exkursion
+
+----
+
+Downloads: 
