@@ -84,3 +84,16 @@
   background-size: contain;
   clear: right;
 }
+
+.k-login-view {
+  background-color: #fffefe;
+  background-image: url('../../assets/logo-kgs.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 10%;
+  background-size: 200px;
+}
+
+.k-icon-key {
+  rotate: 90deg;
+}
