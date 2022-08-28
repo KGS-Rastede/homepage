@@ -2,7 +2,7 @@ Title: Christian Janout
 
 ----
 
-Heading: JT
+Heading: jt
 
 ----
 
