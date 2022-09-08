@@ -14,7 +14,7 @@ Teamfarbe: bs-teamfarbe5
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["die-frankfurter.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"32d20cc0-975a-463c-8e16-4b8847618a45","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"<p>Wir ( Joost, Corvin, Philip und Colin) sind die Frankfurter und wollen mit dem Fahrrad nach Frankfurt und zur\u00fcck fahren. Dies wird eine sportliche Herausfoderung sein. <\/p>"},"id":"6dbc7187-d3d8-4cf2-afa1-7757f7327c8b","isHidden":false,"type":"heading"}]
+Text: [{"content":{"location":"kirby","image":["die-frankfurter.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"32d20cc0-975a-463c-8e16-4b8847618a45","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Wir ( Joost, Corvin, Philip und Colin) sind die Frankfurter und wollen mit dem Fahrrad nach Frankfurt und zur\u00fcck fahren. Dies wird eine sportliche Herausforderung sein."},"id":"6dbc7187-d3d8-4cf2-afa1-7757f7327c8b","isHidden":false,"type":"heading"}]
 
 ----
 
@@ -23,3 +23,24 @@ Gallery:
 - frankfurt-1.jpg
 - photo-2022-08-27-12-20-10.jpg
 - tag-2.jpg
+- photo-2022-08-28-11-48-36.jpg
+- >
+  08e01e73-b888-4475-806b-21a087329977.jpeg
+- >
+  9e7a3e6a-6262-43d1-bb25-4a5f8079f59f.jpeg
+- >
+  a2601421-5c6d-42fc-90c9-8e61c1dd980d.jpeg
+- >
+  084a9ca0-964e-4337-8301-099be8185df0.jpeg
+- >
+  f94551f7-97bc-4670-bef0-b9c90d0a47b6.jpeg
+- >
+  d68f812c-2188-4a36-9428-a9a02d239570.jpeg
+- >
+  9a7c2697-8c94-4632-83dd-5094c0df75d2.jpeg
+- >
+  aaad9a03-c6d4-41ab-aafa-004a4210e879.jpeg
+- >
+  49df8203-fbd7-43c2-9021-f33c5b0e5b08.jpeg
+- >
+  ed9f79e1-d3b0-4789-8c5e-27f9226bacde.jpeg

@@ -17,7 +17,7 @@ Teamfarbe: teamfarbe1
 
 ----
 
-Text: [{"content":{"name":"Von Rastede nach in den Harz","reise":"[{\"content\":{\"name\":\"Rastede\",\"kurzbeschreibung\":\"\",\"bild\":[],\"laengengrad\":\"53.244034, 8.196362\",\"breitengrad\":\"\"},\"id\":\"977c887e-a0ef-4ff7-8827-4bb2cff9bf2f\",\"isHidden\":false,\"type\":\"koordinate\"},{\"content\":{\"name\":\"foo\",\"kurzbeschreibung\":\"<p>bar<\\\/p>\",\"bild\":[],\"laengengrad\":\"22.2\",\"breitengrad\":\"18.2\"},\"id\":\"1bc4df44-f674-47a2-ae59-7ad36af19014\",\"isHidden\":false,\"type\":\"koordinate\"},{\"content\":{\"name\":\"foo\",\"kurzbeschreibung\":\"<p>bar<\\\/p>\",\"bild\":[],\"laengengrad\":\"52.11\",\"breitengrad\":\"9.12\"},\"id\":\"25ff3ae8-ca56-4be7-8c57-30220806f81d\",\"isHidden\":false,\"type\":\"koordinate\"}]"},"id":"792b06e4-226d-4b3c-a41a-5ce2efc7b456","isHidden":false,"type":"reiseroute"},{"content":{"location":"kirby","image":["22910b2b-3833-4d2e-b3a7-370b93ba1b11.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"82400b33-53dc-4e13-a9dc-dacdd9b317c0","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Wir fahren mit dem Rad nach Wolfshagen in den Harz."},"id":"d89c8a61-ada9-4066-86c5-34e7548a0765","isHidden":false,"type":"heading"}]
+Text: [{"content":{"name":"Von Rastede nach in den Harz","reise":"[{\"content\":{\"name\":\"Rastede\",\"kurzbeschreibung\":\"<p>Startpunkt<\\\/p>\",\"bild\":[],\"laengengrad\":\"53.244034\",\"breitengrad\":\"8.196362\"},\"id\":\"977c887e-a0ef-4ff7-8827-4bb2cff9bf2f\",\"isHidden\":false,\"type\":\"koordinate\"},{\"content\":{\"name\":\"Harz\",\"kurzbeschreibung\":\"<p>Der Harz<\\\/p>\",\"bild\":[],\"laengengrad\":\"51.755841183680594\",\"breitengrad\":\"10.655454685453183\"},\"id\":\"25ff3ae8-ca56-4be7-8c57-30220806f81d\",\"isHidden\":false,\"type\":\"koordinate\"}]"},"id":"792b06e4-226d-4b3c-a41a-5ce2efc7b456","isHidden":false,"type":"reiseroute"},{"content":{"location":"kirby","image":["22910b2b-3833-4d2e-b3a7-370b93ba1b11.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"82400b33-53dc-4e13-a9dc-dacdd9b317c0","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Wir fahren mit dem Rad nach Wolfshagen in den Harz."},"id":"d89c8a61-ada9-4066-86c5-34e7548a0765","isHidden":false,"type":"heading"}]
 
 ----
 
@@ -25,6 +25,29 @@ Gallery:
 
 - die-drei-musketiere-harz.jpg
 - img_f414f992c6b4-1.jpeg
+- img_660e89fa1438-1.jpeg
+- >
+  543b2048-86aa-4c86-a3ba-9da879b68abd.jpeg
+- >
+  7b279b1c-4d19-46d0-9aee-44e8d652cd4a.jpeg
+- >
+  1f89ad5a-4f0b-4173-a4db-1d4775d7180a.jpeg
+- >
+  9b054a86-77aa-49e8-a74f-c1c4557e343a.jpeg
+- >
+  34fe1170-4a2d-41bb-9707-e0e947cb5342.jpeg
+- >
+  09431c34-d853-4152-b6c6-83400f208297.jpeg
+- >
+  e9ce09e7-6c6d-4e4d-a6df-16a3ab073343.jpeg
+- >
+  d5bbc46d-ba01-409b-9e4e-9745111f577f.jpeg
+- >
+  28b5e31c-af7e-4e63-afd6-f151f6bdf246.jpeg
+- >
+  dd951896-4b22-42b2-8d27-17165388dde8.jpeg
+- >
+  e144500e-518b-476f-aa46-59a754f1bb57.jpeg
 
 ----
 
