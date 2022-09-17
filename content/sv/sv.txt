@@ -1,0 +1,17 @@
+Title: Schüler*innen Vertretung
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h3","text":"Wer sind wir?"},"id":"7bbf1066-8129-45f2-bea0-4cc6a7a6fc00","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Sch\u00fcler*innen Vertretung besteht momentan aus 16 Menschen aus den Jahrg\u00e4ngen 8-13. Der SV-Vorstand besteht aus Justus Koch, Leonie M\u00fcller und Pauline Scholz.<\/p>"},"id":"e3e96fa6-d5cd-4ff7-8d1d-1395e6d0c489","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Ziele"},"id":"c022c7e7-98f9-4482-b179-8ab4e2efc0f6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Unser Ziel ist die Vertretung euer Interessen! <\/p>"},"id":"fb3d75bd-fe07-41f3-ad87-b7a464313fed","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Die Kommunikation verbessern"},"id":"b915d876-0588-4c50-a0a2-f41e2127376d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wir arbeiten an einer Verbesserung des Informationsflusses zwischen Sch\u00fclern, Schulleitung, Lehrern und Eltern, <em>weil wir \u00fcberzeugt sind, dass jeder Sch\u00fcler die M\u00f6glichkeit bekommen muss, sich \u00fcber das Geschehen an der Schule zu informieren.<\/em><\/p>"},"id":"237de294-a7b1-4cff-960c-758273981bb2","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"An Entscheidungen mitwirken"},"id":"c7061fcc-2143-42bf-9171-3ba579f65119","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der Kernpunkt unserer Arbeit ist es, unser zugesprochenes Recht des Mitwirkens zu nutzen. Das heisst., dass wir an den Gremien und an der Gesamtkonferenz, am besten mit der h\u00f6chstm\u00f6glichsten Zahl von Sch\u00fclern, teilnehmen. Dazu z\u00e4hlt auch die Vor- und Nachbereitungen, was bedeutet, dass wir im Sch\u00fclerrat kommende Konferenzen und Beschlussvorlagen diskutieren und zu einem Votum kommen, oder eigene Vorschl\u00e4ge ausarbeiten.<\/p>"},"id":"9dc58ee5-d0aa-4d9d-b3fa-10b555bfeae9","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Die Schule in Projekten etablieren"},"id":"3661ce90-16de-4913-bf3f-7605b7703dd0","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die KGS Rastede ist als Umweltschule anerkannt worden und tr\u00e4gt weiterhin den Titel \"Schule ohne Rassismus - Schule mit Courage\". Wir versuchen, diese aktiv in Schule mit einzubringen. <em>So wollen wir Projekte wie z. B. die Einf\u00fchrung von umweltsch\u00fctzenden Ma\u00dfnahmen in unsere Schule etablieren.<\/em><\/p>"},"id":"fe348261-488d-41e8-b14f-7288265172ac","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Wie erreicht ihr uns?"},"id":"5457da3c-5832-4f63-9dd5-7ac83fd30ece","isHidden":false,"type":"heading"},{"content":{"text":"<p>Per Mail: <a href=\"mailto:sv@kgs-rastede.eu\">sv@kgs-rastede.eu<\/a><\/p><p>\u00dcber Instagram: <a href=\"https:\/\/www.instagram.com\/svkgsrastede\/\" target=\"_blank\" title=\"svkgsrastede\" rel=\"noopener noreferrer\">svkgsrastede<\/a><\/p><p>Pers\u00f6nlich: Dienstags in der ersten gro\u00dfen Pause (09:40) in der Ruhezone bei den 230er R\u00e4umen<\/p>"},"id":"28a63423-b5c8-4f07-b042-d1c980c96a17","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Links: 

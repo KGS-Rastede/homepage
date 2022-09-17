@@ -5,16 +5,17 @@
 
 
 <div class="container">
-  <?php
-    $items = page('sv/blogs')->children()->listed();
+<?php
+  foreach (page('blogs')
+    ->children()
+    ->listed()
+    ->filterBy('tags', 'SV', ',')
+    ->flip() as $subpage) :
 
-    $list = $items->paginate(5);
-
-    snippet('blog-schlicht', [
-      'items' => $list
-    ])
-
+    snippet('blogkarte', ['subpage' => $subpage]);
   ?>
+
+  <?php endforeach ?>
 </div>
 
 
