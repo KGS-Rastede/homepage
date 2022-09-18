@@ -51,7 +51,7 @@ columns:
               - karousel
               - accordion
               - button
-              - reiseroute
+              - reiseroute-simple
               - lesensieauch
   sidebar:
     width: 1/3

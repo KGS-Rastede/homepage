@@ -1,0 +1,14 @@
+# /site/blueprints/blocks/reiseroute.yml
+name: Reiseroute (Einfach)
+icon: map
+
+fields:
+  name:
+    label: Name der Reise (Einfache Version)
+    type: text
+  reise:
+    label: Route
+    type: blocks
+    fieldsets:
+      - koordinate
+
