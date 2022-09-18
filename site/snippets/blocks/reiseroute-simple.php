@@ -39,8 +39,18 @@
                         'message': '<?= $block->name() ?>',
                         'iconSize': [50, 50],
 
-                        //TODO wenn hier kein Bild hochgeladen wurde muss ein Default Bild genommen werden
-                        'iconUrl': '<?= $block->bild()->toFile()->url() ?>'
+                        <?php
+                        if ($block->bild()->isEmpty()) : ?> 
+                            //Es wurde kein Bild hinterlegt, also ein Standard-Bild
+                           'iconUrl': '<?= $kirby->url('assets') ?>/logo-kgs.jpg'
+
+                        <?php else : ?> 
+
+                            'iconUrl': '<?= $block->bild()->toFile()->url() ?>'
+
+                        <?php endif ?>
+
+
                     },
                     'geometry': {
                         'type': 'Point',
