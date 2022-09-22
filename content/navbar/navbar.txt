@@ -59,9 +59,9 @@ Navbar:
       icon: tools
     - 
       isexternal: 'false'
-      linktitle: Schüler*innen Vertretung (SV)
+      linktitle: 'Schüler*innen Vertretung (SV)'
       pagelink:
-        - sv/die_sv
+        - sv
       externallink: ""
       trennstrich: 'false'
       icon: people-fill
