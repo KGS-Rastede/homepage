@@ -6,6 +6,205 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/plus-ammerland/ammerland-rastede-bildung_a_51,10,1437025771.html
+  name: >
+    Was Eltern aus Rastede zur
+    Förderschul-Diskussion sagen
+  anfang: >
+    Ohne neuen Schulzweig läuft die
+    Förderschule am Voßbarg in Rastede
+    2028 aus. Eltern von aktuellen Schülern
+    fürchten um die Betreuung künftiger
+    Schülerinnen und Schüler.
+  datum: 2022-10-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/ammerland-bildung-wie-geht-es-mit-den-foerderschulen-weiter_a_51,10,1437012316.html
+  name: >
+    Wie geht es mit den Förderschulen
+    weiter?
+  anfang: >
+    Ein neuer Schulzweig soll die Schule am
+    Voßbarg in Rastede retten. Doch der
+    Landkreis sieht keinen Bedarf für
+    weitere Plätze im Förderzweig
+    emotionale und soziale Entwicklung.
+  datum: 2022-10-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-sportstaetten-platz-in-der-mehrzweckhalle-reicht-nicht-aus_a_51,10,1095019760.html
+  name: >
+    Platz in der Mehrzweckhalle reicht nicht
+    aus
+  anfang: >
+    An der KGS Rastede kann der
+    Sportunterricht nicht in der
+    vorgeschriebenen Form stattfinden. Trotz
+    angespannter Finanzlage soll die
+    Gemeindeverwaltung jetzt die Grundlagen
+    für einen Hallen-Neubau vorbereiten.
+  datum: 2022-10-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-ammerland-bildung-zukunft-der-foerderschule-bleibt-streitfall_a_51,10,151531728.html
+  name: >
+    Zukunft der Förderschule – Konflikt
+    mit Landkreis zeichnet sich ab
+  anfang: >
+    In der Diskussion um die Zukunft der
+    Förderschule am Voßbarg in Rastede
+    zeichnet sich ein Streit mit dem
+    Landkreis um die Trägerschaft ab. Die
+    Schule soll einen neuen Förderzweig
+    erhalten.
+  datum: 2022-10-06
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2022/09/schokofahrt-macht-rast-in-rastede-kgs-und-schule-am-vossbarg-unterstuetzen-gruppe-aus-winsen/
+  name: '„Schokofahrt“ macht Rast in Rastede: KGS und Schule am Voßbarg unterstützen Gruppe aus Winsen'
+  anfang: >
+    Ausgeruht und gestärkt hat sich eine
+    Delegation von der Integrierten
+    Gesamtschule (IGS) Winsen-Roydorf am
+    Mittwoch von Rastede aus auf den Weg
+    gemacht, um die letzten Etappen ihrer
+    außergewöhnlichen Reise zu
+    absolvieren.
+  datum: 2022-09-30
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-fridays-for-future-200-teilnehmer-bei-demo-dabei_a_51,9,3486837453.html
+  name: Rund 200 Teilnehmer bei Demo zum Rathaus
+  anfang: >
+    Für den Klimaschutz sind am Freitag in
+    Rastede rund 200 Schüler und Erwachsene
+    auf die Straße gegangen. Bei der
+    Kundgebung vor dem Rathaus erneuerten
+    sie eine konkrete Forderung für den
+    Residenzort.
+  datum: 2022-09-24
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-finanzen-das-sind-die-groessten-baustellen-im-etat_a_51,9,3261666478.html
+  name: >
+    Das sind die größten Baustellen im
+    Etat
+  anfang: >
+    Warnungen aussprechen, das gehört zum
+    obersten Gebot eines Kämmerers. In
+    Rastede gibt es nun aber tatsächlich
+    Grund zur Sorge, auch weil die Gemeinde
+    in den letzten Jahren meist ziemlich gut
+    dastand.
+  datum: 2022-09-21
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2022/09/pimp-your-town-rasteder-jugendliche-erleben-hautnah-wie-demokratie-funktioniert/
+  name: '„Pimp Your Town“: Rasteder Jugendliche erleben hautnah, wie Demokratie funktioniert'
+  anfang: >
+    Anfang September fanden die ersten
+    beiden von insgesamt drei Durchläufen
+    des Planspiels „Pimp Your Town!“
+  datum: 2022-09-13
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-schulleben-auf-dem-weg-zu-mehr-selbststaendigkeit_a_51,9,2100034744.html
+  name: >
+    Rasteder Schüler auf dem Weg zu mehr
+    Selbstständigkeit
+  anfang: >
+    Über 50 Neuntklässler aus Rastede
+    stellen sich gerade verschiedenen
+    Herausforderungen, um selbstständiger
+    zu werden. Fast zwei Wochen sind sie
+    schon unterwegs – ohne Handy, aber
+    hochmotiviert.
+  datum: 2022-09-07
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-jugend-junge-leute-finden-spass-an-der-politik_a_51,9,1935468537.html
+  name: >
+    Demokratie-Planspiel „Pimp Your
+    Town!“ an der KGS Rastede
+  anfang: >
+    Dass Politik Spaß machen kann und die
+    Stimmen junger Menschen wichtig sind,
+    lernten 120 Schülerinnen und Schüler
+    der KGS Rastede in einem
+    Demokratie-Planspiel vergangene Woche.
+  datum: 2022-09-03
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-sanierung-gemeinde-huebscht-schulen-und-kindergaerten-auf_a_51,9,1634837556.html
+  name: >
+    Sanierungen für 100.000 Euro
+    abgeschlossen
+  anfang: >
+    Elf Projekte in Rasteder Schulen und
+    Kitas wurden in den Sommerferien für
+    100.000 Euro angefasst. Bis auf den
+    Behindertenparkplatz neben der neuen
+    Aula der KGS sind alle fertig.
+  datum: 2022-09-01
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-augustfehn-bildung-land-finanziert-technik-fuer-kgs-rastede_a_51,9,1266587979.html
+  name: >
+    Landesmittel für Digitalisierung in
+    Rastede und Apen
+  anfang: >
+    Die Gemeinde Rastede erhält wieder
+    einmal Geld aus dem Digitalpakt Schule.
+    Neben der KGS Rastede profitiert auch
+    die Janosch-Grundschule in Augustfehn.
+  datum: 2022-08-27
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-schule-richtfest-fuer-den-anbau-der-kgs-in-rastede_a_51,9,650870412.html
+  name: >
+    Richtfest für den Anbau der KGS in
+    Rastede
+  anfang: 'Richtfest für den Anbau der KGS in Rastede: Beim Bau liegt man in der Gemeinde vor dem Zeitplan.'
+  datum: 2022-08-18
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2022/07/praeventionsprojekt-balu-und-du-erster-durchgang-mit-24-schuelerinnen-und-schuelern-erfolgreich-abgeschlossen/
+  name: 'Präventionsprojekt „Balu und Du“: Erster Durchgang erfolgreich abgeschlossen'
+  anfang: >
+    Der erste Durchgang des
+    Präventionsprojekts „Balu und Du“
+    ist nach einem Jahr erfolgreich zu Ende
+    gegangen
+  datum: 2022-07-14
+  medium: gemeinde
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/07/12/balu-und-du-auf-erfolgskurs-in-rastede/
+  name: >
+    „Balu und Du“ auf Erfolgskurs in
+    Rastede
+  anfang: >
+    Erster Durchgang des
+    Präventionsprojekts mit 24
+    Schülerinnen und Schülern erfolgreich
+    abgeschlossen
+  datum: 2022-07-12
+  medium: rastederrundschau
+- 
+  link: >
     https://www.nwzonline.de/plus-ammerland/rastede-aktion-schueler-protestieren-gegen-ukraine-krieg_a_51,6,3383290050.html
   name: >
     Schüler demonstrieren gegen Krieg in
@@ -3884,3 +4083,7 @@ Pressenachrichten:
     also auf dem Programm.
   datum: 2015-01-02
   medium: rastederrundschau
+
+----
+
+Uuid: Ag2nsBiezh4V6D53
