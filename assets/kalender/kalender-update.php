@@ -2,7 +2,7 @@
 
 class kalender_update {
 
-    // Konstruktor der Klasse, wird beim erstellen aufgerufen
+    // Konstruktor der Klasse, wird beim Erstellen aufgerufen
     public function __construct(string $cache_file, string $ics_file)
     {
         $this->cache_file = $cache_file;
