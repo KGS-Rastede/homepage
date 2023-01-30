@@ -1,0 +1,33 @@
+Title: Fachbereich Naturwissenschaften überarbeitet das Leitbild – erster Schritt hin zu einem neuen pädagogischen Konzept
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der Fachbereich Naturwissenschaften \u00fcberarbeitet in diesem Jahr sein Leitbild. Dies ist der erste Schritt hin zu einer \u00dcberarbeitung und ggf. Neustrukturierung der Arbeitsweisen im Fachbereich, besonders auch im Hinblick auf Unterricht. Am Ende dieses Weges stehen nicht zuletzt Antworten auf Fragen wie \u201eUnterrichtskonzeptionen\u201c und \u201eUnterrichtsorganisation\u201c, \u201eSammlungsgestaltung\u201c und \u201eRaumkonzept\u201c, also zuk\u00fcnftig ganz konkrete Dinge, auch wenn wir derzeit zun\u00e4chst einmal sehr allgemein und grundlegend nachdenken. Die Arbeit im Fachbereich f\u00fcgt sich damit in die Arbeit am Leitbild der gesamten KGS ein, was ja ebenfalls in diesem Schuljahr grundlegend \u00fcberarbeitet wird. Im Rahmen der Fachbereichskonferenz sind dabei Formulierungsvorschl\u00e4ge entstanden, an denen wir in den kommenden Wochen und Monaten weiter arbeiten werden und die dann demn\u00e4chst zur Abstimmung gestellt werden.<br>Bisherige Vorschl\u00e4ge:<\/p>"},"id":"0a29c9dc-4fb1-4e22-8876-68f7e707b580","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Vorschlag 1"},"id":"5d2586fd-0d39-4655-82ca-97344cb5f585","isHidden":false,"type":"heading"},{"content":{"text":"<p>Unser NTW-Unterricht erm\u00f6glicht es unseren Sch\u00fcler:innen, sich mit Ph\u00e4nomenen der Natur forschend und probleml\u00f6send auseinanderzusetzen in zunehmend selbstregulierten und offenen Lernsituationen. Sie arbeiten dabei praxisorientiert und zielgerichtet zusammen.<\/p>"},"id":"b599eb38-1066-449c-8a36-2e924a312276","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Vorschlag 2"},"id":"0627a356-1bb1-445e-ab64-860c7557fe56","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Die Sch\u00fcler:innen sollen verstehen, wie die Welt funktioniert.<\/li><li>Die Sch\u00fcler:innen zum Staunen bringen, die Welt erfahrbar machen.<\/li><li>Den naturwissenschaftlichen Erkenntnisweg kennen lernen (Stichwort: Fake News).<\/li><li>Daraus Schl\u00fcsse f\u00fcr verantwortungsvolles Handeln ziehen.<\/li><li>Genug Zeit f\u00fcr gemeinsames Handeln, z.B. durch naturwissenschaftliche Exkursionen zu au\u00dferschulischen Lernorten.<\/li><\/ul>"},"id":"8d9b2de6-4822-456f-8989-3bf8ddb5e114","isHidden":false,"type":"list"}],"id":"1d011ba6-dee7-4242-be9b-f201da52d1b8","width":"1\/1"}],"id":"0e7c1416-02a9-4267-8bb2-e9233ff2ff8f"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Vorschlag 3"},"id":"534168c2-bd92-4606-8a03-828f0002ff96","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Erweitertes (Hauptschul)wissen<\/li><li>Wissenschaftliches Arbeiten<\/li><li> Freude am Unterricht und den gewonnenen Erkenntnissen<\/li><li>Forschend-entwickelndes Denken<\/li><li> Lernen der naturwissenschaftlichen Arbeitsmethoden (selbstst\u00e4ndig)<\/li><li>Nachhaltiges Denken st\u00e4rken (Orientierung an den 17 SDG)<\/li><li>Selbstst\u00e4ndiges Forschen<\/li><\/ul>"},"id":"d8bafc40-0576-4388-bc56-129b5b7da098","isHidden":false,"type":"list"}],"id":"22ec0c70-3fe2-49ff-977e-20d8e83197b2","width":"1\/1"}],"id":"7534571d-1c57-4db3-84b1-05e8918cbef7"}]
+
+----
+
+Date: 2023-01-22 18:55:00
+
+----
+
+Datumstartseite: 2023-05-22 18:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: NTW, Biologie, Chemie, Physik, Leitbild
+
+----
+
+Downloads: 
+
+----
+
+Uuid: j761LNvTCoR0kPJt

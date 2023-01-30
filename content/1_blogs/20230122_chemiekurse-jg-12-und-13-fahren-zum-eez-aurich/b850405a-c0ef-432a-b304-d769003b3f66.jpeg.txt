@@ -1,0 +1,5 @@
+Uuid: DGINv9bSgZPtNET0
+
+----
+
+Template: blocks/image

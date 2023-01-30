@@ -1,0 +1,33 @@
+Title: Chemiekurse Jg. 12 und 13 fahren zum EEZ Aurich
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der Chemieleistungskurs Jg. 12 von Herrn Dr. L\u00fcschen und der Grundkurs Jg. 13 von Herrn Dr. Fach haben das Energieerlebniszentrum (EEZ) Aurich besucht. Am 08.12. konnten wir dort in den modern eingerichteten Labor- und Seminarr\u00e4umen chemische Experimente zu den Themen \u201eElektrochemie\u201c \u201eEnergetik\u201c durchf\u00fchren. Nach einer etwas turbulenten Busfahrt erreichten wir leicht versp\u00e4tet das EEZ und konnten daher nur einen kleinen Einblick in die Ausstellung werfen, wo man unter anderem eine Windkraftanlage virtuell durchschreiten kann. F\u00fcr uns ging es direkt ins Labor, wo wir u.a. Obstbatterien, aber auch Nachbauten von Taschenlampenbatterien untersuchten und ausprobierten. Im anderen Kurs wurden verschiedene Messungen zu Reaktionsw\u00e4rmen durchgef\u00fchrt, die teilweise in der Schule so nicht m\u00f6glich sind. Zwischendurch erhielten wir sogar Besuch vom Auricher B\u00fcrgermeister! Nun ja, das war vielleicht eher Zufall\u2026<br>Etwas gehetzt mussten wir dann nach den Experimenten alsbald die R\u00fcckfahrt antreten, unser Busfahrer wollte dieses Mal auf Nummer sicher gehen. So kamen wir fr\u00fcher als n\u00f6tig wieder in Rastede an. Fazit: Bei etwas besserer Zeitplanung in jedem Fall ein lohnendes Ziel f\u00fcr die Chemiekurse, die dort unter hervorragenden Bedingungen experimentieren konnten. Wenn beim n\u00e4chsten Mal auch noch Zeit f\u00fcr die Auswertung der Experimente in den ebenfalls sehr gut ausgestatteten Seminarr\u00e4umen und evtl. noch f\u00fcr einen Gang durch die Ausstellung bleibt, ist der Ausflug nach Aurich eine rundum gelungene Sache!<\/p>"},"id":"6ce68901-180f-4009-b47e-7148ba3f07f0","isHidden":false,"type":"text"}],"id":"9cc6c372-c9c8-4e25-8404-eb55c4bcc0be","width":"1\/2"},{"blocks":[{"content":{"images":["file:\/\/4gDX5XIZAFTHpQrD","file:\/\/DGINv9bSgZPtNET0"],"caption":"","ratio":"","crop":"false"},"id":"c5c527c4-5644-4043-9733-f63c6abe4e34","isHidden":false,"type":"gallery"}],"id":"0862b088-f5bd-4dea-ba25-78f58da5b915","width":"1\/2"}],"id":"442ba9b5-38f7-4913-bbfd-a7b5f09f8eec"}]
+
+----
+
+Date: 2023-01-22 18:55:00
+
+----
+
+Datumstartseite: 2023-05-22 18:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: Chemie, Exkursion, EEZ Aurich
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ikSu2bXJnAy5vKQq

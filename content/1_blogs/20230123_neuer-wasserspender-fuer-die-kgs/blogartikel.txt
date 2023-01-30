@@ -1,0 +1,33 @@
+Title: Neuer Wasserspender für die KGS
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Liebe Sch\u00fcler*innen, sehr geehrte Lehrkr\u00e4fte,<\/p><p>wie euch und Ihnen bestimmt schon aufgefallen ist, wurde der Wasserspender in der Schule an der Wilhelmstra\u00dfe durch ein neueres, gr\u00f6\u00dferes Modell ersetzt. Der neue Wasserspender verf\u00fcgt \u00fcber 4 Zapfstellen, an denen ihr und Sie bis zu 270 Liter gek\u00fchltes Wasser in der Stunde zapfen k\u00f6nnt. Der andere Wasserspender befindet sich nun in der Schule an der Feldbreite. Ab sofort k\u00f6nnen also auch die Jahrg\u00e4nge 5-6 t\u00e4glich frisches Wasser zapfen. Zur offiziellen Einweihung kamen Herr Krause (B\u00fcrgermeister von Rastede), Herr Specht (Gesch\u00e4ftsf\u00fchrer des OOWV\u2018s) und Herr Logemann (OOWV), Frau Dr. Abke (EWE Stiftung), Herr W\u00fcstenbecker (F\u00f6rderverein), die Presse, welche Artikel zu dem Projekt verfasst hat und nat\u00fcrlich unsere Schulleiterin Frau Berger.<\/p><p>Daf\u00fcr bedanken wir - die Gruppe \u201eEs geht um Meer!\u201c - uns ganz herzlich bei allen Beteiligten, die dieses Projekt durch finanzielle Unterst\u00fctzung m\u00f6glich gemacht haben.<\/p><p>Von Meret Folkens, Jg. 12<br><br><\/p>"},"id":"e7b23826-dd93-4d96-b025-2372b92d9993","isHidden":false,"type":"text"}],"id":"0748f7ea-40d2-47b7-9b6b-0c1e94cb7536","width":"1\/1"}],"id":"97b891c8-d5c4-4d46-87af-7e05900e6260"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/UEq2E8fTssIsZqjo"],"src":"","alt":"","caption":"Offizielle \u00dcbergabe des Wasserspenders","link":"","ratio":"","crop":"false"},"id":"c0fbdd67-c0f2-4d16-9796-af7381839b28","isHidden":false,"type":"image"}],"id":"6b390135-0221-4fc1-8ea5-abae721563d2","width":"1\/1"}],"id":"8cc80361-11bf-4f11-bed9-157d4fa3442a"}]
+
+----
+
+Date: 2023-01-23 08:35:00
+
+----
+
+Datumstartseite: 2023-05-23 08:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Rbfgn9DP3l7bRJIZ

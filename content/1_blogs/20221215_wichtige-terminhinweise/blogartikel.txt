@@ -1,0 +1,33 @@
+Title: Wichtige Terminhinweise
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Zeugnisausgabe am Freitag,  <u>27. Jan<\/u>., in der 3. Stunde, Schulschluss ist nach der 3. Std.<\/p><p>Am <u>30. und 31. Jan<\/u>. sind Zeugnisferien. Am <u>01. und 02. Februar 23<\/u> findet die diesj\u00e4hrige schulinterne Lehrerfortbildung zum Thema \u201eLeitbild der Schule\u201c statt. Daran nehmen auch Klassensprecherinnen und Klassensprecher sowie einige Elternvertreter teil. F\u00fcr alle anderen Sch\u00fclerinnen und Sch\u00fcler sind es Studientage, die zuhause verbracht werden. In vielen F\u00e4chern gibt es Aufgaben, die in diesen Tagen zu erledigen sind.<\/p><p>Die Sch\u00fclerinnen und Sch\u00fcler, die im September am Herausforderungsprojekt teilgenommen haben, nehmen am <u>01. und 02.<\/u> <u>Feb.<\/u> am Projekt \u201ePimp yout town\u201c teil.<\/p><p>F\u00fcr die Jahrg\u00e4nge 5 und 6 gibt es eine Notbetreuung; Anmeldung dazu bitte an <a href=\"mailto:feldbreite@kgs-rastede.eu\">feldbreite@kgs-rastede.eu<\/a>.<\/p><p>Die Schulleitung<\/p>"},"id":"b85be000-6f16-4d98-ba03-ca8091eff033","isHidden":false,"type":"text"}],"id":"2dee5442-0f2f-4717-8020-618be9a63aec","width":"1\/1"}],"id":"e371a534-7292-4554-8c98-25c28c0e651e"}]
+
+----
+
+Date: 2022-12-15 14:30:00
+
+----
+
+Datumstartseite: 2023-02-03 14:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung, Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: NnctQonTOwsC8d1U

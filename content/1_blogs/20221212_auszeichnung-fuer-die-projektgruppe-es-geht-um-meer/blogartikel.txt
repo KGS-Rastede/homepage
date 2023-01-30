@@ -1,0 +1,33 @@
+Title: Auszeichnung für  die Projektgruppe "Es geht um Meer"
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Projektgruppe wurde durch den (ehem.) Kultusminister Grant Hendrik Tonne im Herbst dieses Jahres f\u00fcr ihr Engagement im Bereich Umweltschutz als Leuchtturmprojekt an nieders\u00e4chsischen Schulen im Rahmen des Wettbewerbes <strong>#Projekt Erde \u2013 Lasst uns die Zukunft<\/strong> <strong>sein <\/strong>ausgezeichnet.<\/p><p>Mit einem eigens erstellten Videobeitrag hatte die Projektgruppe am Wettbewerb teilgenommen. In einer zweit\u00e4gigen digitalen Veranstaltung Ende Mai wurde die Gruppe ausgew\u00e4hlt, ihre Arbeit in einer Pr\u00e4sentation den anderen 57 Teams aus ganz Niedersachsen vorzustellen. Auf die Vorstellung ausgew\u00e4hlter Leuchtturmprojekte, folgten interessante Vortr\u00e4gen von Fachleuten, wie u.a. Prof. Dr. Mojib Latif vom Helmholtz-Institut sowie ein Austausch der Teams, um gemeinsam neue Ideen zu entwickeln.<\/p><p>Weitere Informationen zum Wettbewerb und der Gruppe \"Es geht um Meer\" unter:<\/p><p><a href=\"https:\/\/zukunftscamp-niedersachsen.de\/die-projekte\/\" rel=\"noopener noreferrer\">https:\/\/zukunftscamp-niedersachsen.de\/die-projekte\/<\/a><\/p><p><a href=\"https:\/\/zukunftscamp-niedersachsen.de\/es-geht-um-meer\/\" rel=\"noopener noreferrer\">https:\/\/zukunftscamp-niedersachsen.de\/es-geht-um-meer\/<\/a><\/p><p>F\u00fcr die Projektgruppe ist diese Auszeichnung ein gro\u00dfer Erfolg f\u00fcr ihre gemeinsame Arbeit und Aktionen, wie z. B. die Gestaltung des \"Gr\u00fcne Klassenzimmer\" in der Wilhelmstra\u00dfe, die beiden Wasserspender an der KGS, die Teilnahme am Nachhaltigkeitstag der KGS.<\/p><p>Gratulation an die Projektgruppe!<\/p>"},"id":"ff55a50d-d3b4-49e5-9687-77fc49821e0b","isHidden":false,"type":"text"}],"id":"8c6a2643-9faf-4dc2-aef4-43bb74d4c51f","width":"1\/1"}],"id":"018f8a84-6b03-43b7-aab0-516492ca8a46"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/JUhfV4doBHtIX8FX"],"src":"","alt":"","caption":"Freude \u00fcber die Auszeichnung!","link":"","ratio":"","crop":"false"},"id":"a52204fc-a2ea-449b-baf7-281092ad8cff","isHidden":false,"type":"image"}],"id":"4402af65-1bb5-41d0-84fe-97ce659b86b9","width":"1\/1"}],"id":"ed9c94a9-149c-4be6-98b0-b916218f69b0"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Mehr Informationen \u00fcber die Projektgruppe auf Instagram!<\/p><p><a href=\"https:\/\/www.instagram.com\/esgehtummeer\/\" rel=\"noopener noreferrer\">https:\/\/www.instagram.com\/esgehtummeer\/<\/a><\/p><p><\/p>"},"id":"16b59cdf-d1b1-4cc8-afdc-54519ee15676","isHidden":false,"type":"text"}],"id":"b05f00f8-c13a-40fd-998e-4693107374fa","width":"1\/1"},{"blocks":[],"id":"581dda3e-ce5f-4e42-b088-b51900036f8d","width":"1\/3"},{"blocks":[],"id":"1267bedc-f200-4092-875b-0f3269d28058","width":"2\/3"}],"id":"1b31c920-1b53-45d3-8944-fd3828df528f"}]
+
+----
+
+Date: 2022-12-12 23:00:00
+
+----
+
+Datumstartseite: 2023-04-12 23:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Denise Apel
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: h8cDO1IRSFVKxhfM

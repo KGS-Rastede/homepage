@@ -1,0 +1,33 @@
+Title: Pia ist Schulsiegerin beim Vorlesewettbewerb
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wie alle Jahre fand auch in diesem Jahr der Vorlesewettbewerb der 6. Klassen statt. Am 07. Dezember 2022 traf sich die Jury, bestehend aus den Lehrkr\u00e4ften Herrn Stockmann und Frau Schneemann, der Vorjahressiegerin Svenja Wegener und den Sch\u00fclerinnen Saskia Butt und Mia Niehus, um in der Feldbreite die oder den besten Vorleser:in der 6. Klassen zu k\u00fcren.<\/p><p>Nach einer kurzen Vorstellungsrunde der Jury fing der Wettbewerb auch schon an. Vorgelesen wurde aus den Romanen \u201eWunder\u201c (J. B. Palacios), \u201eVerschollen im Berschmudadreieck\u201c (Paluten) und aus vielen mehr. Es wurde Satz um Satz, Seite um Seite gelesen und die Jury verteilte flei\u00dfig Punkte. Nachdem die Teilnehmer*innen ihre eigenen Geschichten vorgelesen hatten, ging es dann an ein fremdes Buch: \u201eFroschmaul\u201c von Andreas Steinh\u00f6fel. Es wurde von allen Teilnehmer:innen gut vorgelesen, sodass die Entscheidung zum Gewinner am Ende ziemlich knapp war.<\/p><p>Die ersten drei Pl\u00e4tze unterschieden sich nur in wenigen Punkten voneinander, aber am Ende hie\u00df die gl\u00fcckliche Gewinnerin Pia Beeken aus der 6C3. Sie bekam neben ihrer Urkunde, die sie als Schulsiegerin auszeichnet, ein Buchpr\u00e4sent der B\u00fccherei \u201eSeite Eins\u201c aus Rastede \u00fcberreicht.<\/p><p>Alle Teilnehmer:innen sind nach Ende des Vorlesewettbewerbs mit einem L\u00e4cheln im Gesicht gegangen und haben sich sehr f\u00fcr Pia gefreut.<\/p>"},"id":"09470fe1-5c80-49b1-a68c-522aeef1df26","isHidden":false,"type":"text"}],"id":"8e6138d1-03dd-463e-bcfd-537f3ae2d3b1","width":"1\/1"}],"id":"d5df0965-860c-497d-b461-a7b3e3a07115"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/49rybva3lOX7smyM"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"c48038fc-316a-4219-a596-62a89239f4c7","isHidden":false,"type":"image"}],"id":"bd84ee14-360d-41f0-8baa-3a2b42dc5a43","width":"1\/1"}],"id":"871359e1-fa06-4a07-986c-20cb79a9333b"}]
+
+----
+
+Date: 2023-01-09 08:55:00
+
+----
+
+Datumstartseite: 2023-05-09 08:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Saskia Butt, 10D3
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: qm4yg1JcZ2azQinY
