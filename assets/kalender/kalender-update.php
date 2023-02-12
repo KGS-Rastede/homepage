@@ -2,6 +2,9 @@
 
 class kalender_update {
 
+    private string $cache_file;
+    private string $ics_file;
+    
     // Konstruktor der Klasse, wird beim Erstellen aufgerufen
     public function __construct(string $cache_file, string $ics_file)
     {
