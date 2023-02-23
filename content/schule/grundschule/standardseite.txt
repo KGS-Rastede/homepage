@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"text":"<p>Liebe Sch\u00fclerinnen und Sch\u00fcler, liebe Eltern,<\/p><p>wir begr\u00fc\u00dfen Euch und Sie ganz herzlich an der KGS Rastede und freuen uns \u00fcber Euer und Ihr Interesse an unserer Schule.<\/p><p>In dem Kasten finden Sie Informationen zu den einzelnen Schulzweigen.<\/p><p>Bei weiteren Fragen zum \u00dcbergang von der Grundschule zur KGS steht Ihnen Frau Ildiz (<a href=\"mailto:id@kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">id@kgs-rastede.de<\/a>) als Leiterin der 5. und 6. Klasse im Geb\u00e4ude der Feldbreite sehr gerne zur Verf\u00fcgung.<\/p>"},"id":"41cefe3b-da47-4d51-9205-4dcb8ed6af6d","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p>Liebe Sch\u00fclerinnen und Sch\u00fcler, liebe Eltern,<\/p><p>wir begr\u00fc\u00dfen Euch und Sie ganz herzlich an der KGS Rastede und freuen uns \u00fcber Euer und Ihr Interesse an unserer Schule.<\/p><p>In dem Kasten finden Sie Informationen zu den einzelnen Schulzweigen.<\/p><p>Bei weiteren Fragen zum \u00dcbergang von der Grundschule zur KGS steht Ihnen Frau Ildiz (<a href=\"mailto:id@kgs-rastede.eu\" rel=\"noopener noreferrer nofollow\">id@kgs-rastede.eu<\/a>) als Leiterin der 5. und 6. Klasse im Geb\u00e4ude der Feldbreite sehr gerne zur Verf\u00fcgung.<\/p>"},"id":"41cefe3b-da47-4d51-9205-4dcb8ed6af6d","isHidden":false,"type":"text"}]
 
 ----
 
