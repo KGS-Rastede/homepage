@@ -89,10 +89,10 @@ columns:
             label: Fotos anzeigen
             type: select
             default: gallery
-            help: Karousel und Gallerie sind automatische Darstellungen der Bilder. Wird 'manuel' ausgewählt müssen die Bilder per Hand eingebunden werden.
+            help: Karousel und Galerie sind automatische Darstellungen der Bilder. Wird 'manuel' ausgewählt müssen die Bilder per Hand eingebunden werden.
             options:
               carousel: Karousel
-              gallery: Gallerie
+              gallery: Galerie
               manuel: Manuell einbinden
                 toggle:
           sidebar: fields/seitenleiste

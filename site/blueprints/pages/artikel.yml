@@ -70,7 +70,7 @@ columns:
             default: gallery
             options:
               carousel: Karousel
-              gallery: Gallerie
+              gallery: Galerie
               manuel: Manuel einbinden
 
 
