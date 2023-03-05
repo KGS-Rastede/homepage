@@ -8,6 +8,9 @@
 		<item>
 			<title><?= $note->title()->xml() ?></title>
 			<pubDate><?= $note->date()->toDate('r') ?></pubDate>
+            <description>
+                <?= $note->Text()->toBlocks()->excerpt(100) ?>
+            </description>
 			<link><?= $note->url() ?></link>
 			<guid isPermaLink="true"><?= $note->url() ?></guid>
 		</item>
