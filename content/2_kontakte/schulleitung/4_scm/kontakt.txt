@@ -1,12 +1,8 @@
-Title: Malte Bormann
+Title: Jesco Schneemann
 
 ----
 
-Heading: bo
-
-----
-
-Email: bo
+Heading: scm
 
 ----
 
@@ -19,6 +15,10 @@ Phone: 04402-9264-20
 ----
 
 Fotoansicht: schulleiter
+
+----
+
+Email: bo
 
 ----
 
