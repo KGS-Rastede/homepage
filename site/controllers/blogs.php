@@ -11,9 +11,11 @@ return function($page) {
   $tags = $articles->pluck('tags', ',', true);
 
   // add the tag filter
-  if($tag = urldecode(param('tag'))) {
+  if ($tag = param('tag')) {
+    $tag = urldecode($tag);
     $articles = $articles->filterBy('tags', $tag, ',');
   }
+  
 
   // apply pagination
   $articles   = $articles->paginate(10);
