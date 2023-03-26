@@ -1,0 +1,33 @@
+Title: Jugend trainiert für Olympia – Handball – Mädchen sammeln spannende Erfahrungen im Niedersachsenfinale
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Als Sieger des Bezirksfinales konnte unsere KGS-Handball-M\u00e4dchenmannschaft am Mittwoch 08.03.23 nach Barsinghausen zum Niedersachsenfinale reisen. Gegner dort waren die besten Mannschaften der Bezirke L\u00fcneburg (Gymnasium Buxtehude S\u00fcd), Braunschweig (Gymnasium Corvinianum Northeim) und Hannover (Humboldtschule Hannover).<\/p><p>Das erste Spiel gegen Northeim begann \u00fcberraschend gut und wir konnten sogar 2:0 in F\u00fchrung gehen. Dann zeigte sich aber, dass die Spielerinnen beim Northeimer HC durchweg in der Oberliga aktiv sind und wir mussten uns 11:6 geschlagen geben.<\/p><p>Das gleiche Bild bot sich im Spiel gegen das Gymnasium Buxtehude S\u00fcd mit Spielerinnen des Buxtehuder SV aus der Oberliga. Aber auch hier war unsere Abwehr mit Luri im Tor recht stabil. Im Angriff waren wir aber wieder k\u00f6rperlich deutlich unterlegen und konnten nur 4 Tore erzielen. Endstand 11:4.<\/p><p>Gegen die Mannschaft vom Humboldtgymnasium Hannover (\u201eDOSB-Eliteschule des Sports\u201c, <a href=\"https:\/\/humboldtschule.de\/eliteschule-des-sports\/\" rel=\"noopener noreferrer\">https:\/\/humboldtschule.de\/eliteschule-des-sports\/<\/a>) verloren wir mit einem Tor \u2013 also nicht ein Tor Unterschied, sondern wir konnten ein Tor erzielen ;-). In der Mannschaft waren mehrere Spielerinnen, die am letzten Lehrgang der U17-Nationalmannschaft teilgenommen hatten. Einige spielen bereits bei den Damen in der Oberliga oder sogar in der 3. Liga mit. Trotz des klaren 22:1 konnten wir die Niederlage mit Humor wegstecken und uns \u00fcber das eine erzielte Tor freuen.<\/p><p>Alles in allem war der 12-Stunden-Trip ein spannendes Erlebnis. Es war zu erkennen, wo die Unterschiede zwischen Freizeit- und Leistungssport sind. Kraft, Schnelligkeit und Spielverst\u00e4ndnis der gegnerischen Mannschaften waren beeindruckend. Und dennoch k\u00f6nnen wir mit erhobenem Kopf aus dem Turnier gehen. Wir haben uns durchgehend mit vollem Einsatz reingeh\u00e4ngt und unser Bestes gegeben. Herzlichen Gl\u00fcckwunsch an die Mannschaft der Humboldtschule Hannover. Wir dr\u00fccken die Daumen f\u00fcr das Bundesfinale in Berlin!<\/p><p>In unserem Team waren aktiv: Luri, Isalie, Sarah, Jule, Smilla, Mattea, Lena, Klara, Ida<\/p>"},"id":"06c105b9-4098-4e81-a70e-b25ade163389","isHidden":false,"type":"text"}],"id":"90e042a2-3103-4d42-86f2-9532edd3e1cc","width":"1\/1"}],"id":"6e58b179-c974-463d-976c-1e3dc553f6ea"}]
+
+----
+
+Date: 2023-03-10 09:50:00
+
+----
+
+Datumstartseite: 2023-07-10 09:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Ron Zange
+
+----
+
+Tags: Sport, Handball
+
+----
+
+Downloads: 
+
+----
+
+Uuid: fz0aKamomXfDoItn
