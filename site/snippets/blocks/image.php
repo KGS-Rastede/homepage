@@ -19,7 +19,7 @@ if ($block->location() == 'web') {
  * Erweiterung, um Bilder links/rechts/mittig darzustellen
  * https://getbootstrap.com/docs/5.3/content/images/#responsive-images
  */
-$orientation = $block->orientation() == 'links' ? 'links' :
+$orientation = $block->orientation() == 'links' ? 'float-start' :
        ($block->orientation() == 'rechts' ? 'float-end' :
        ($block->orientation() == 'mitte' ? 'mx-auto d-block' : ''));
 ?>
