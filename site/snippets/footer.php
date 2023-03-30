@@ -19,9 +19,6 @@
         <li><a class="text-muted text-decoration-none" href="<?= page('kontakte/schulleitung')->url() ?>">Schulleitung</a></li>
         <li><a class="text-muted text-decoration-none" href="<?= page('kontakte/fbl')->url() ?>">Fachbereichsleiter</a></li>
         <li><a class="text-muted text-decoration-none" href="<?= page('kontakte/sekretariate')->url() ?>">Sekretariate</a></li>
-        <?php /* Funktioniert noch nicht
-          <li><a class="text-muted" href="<?= page('allgemeines/krankmeldung')->url() ?>">Krankmeldung</a></li> 
-        */ ?>
       </ul>
     </div>
     <div class="col-md-3">
