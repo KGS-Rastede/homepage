@@ -1,26 +1,19 @@
 {
-    "name": "getkirby/plainkit",
-    "description": "Kirby Plainkit",
+    "description": "Homepage der KGS Rastede",
     "type": "project",
     "keywords": [
-        "kirby",
-        "cms",
-        "starterkit"
+        "KGS Rastede",
+        "homepage",
+        "schule"
     ],
-    "homepage": "https://getkirby.com",
+    "homepage": "https://www.kgs-rastede.de",
     "authors": [
         {
-            "name": "Bastian Allgeier",
-            "email": "bastian@getkirby.com",
-            "homepage": "https://getkirby.com"
+            "name": "Carsten Niehaus",
+            "email": "ni@kgs-rastede.eu",
+            "homepage": "https://www.kgs-rastede.de"
         }
     ],
-    "support": {
-        "email": "support@getkirby.com",
-        "issues": "https://github.com/getkirby/starterkit/issues",
-        "forum": "https://forum.getkirby.com",
-        "source": "https://github.com/getkirby/starterkit"
-    },
     "require": {
         "php": ">=8.0",
         "getkirby/cms": ">=3.9",
