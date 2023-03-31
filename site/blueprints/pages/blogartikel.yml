@@ -3,8 +3,6 @@ num: '{{ page.date.toDate("Ymd") }}'
 icon: 📖
 
 options:
-  create:
-    blogger: true
   update:
     blogger: true
   changeTitle:
