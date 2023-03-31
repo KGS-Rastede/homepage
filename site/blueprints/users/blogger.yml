@@ -9,6 +9,7 @@ user:
 permissions:
   access:
     system: false
+    users: false
   files:
     *: false
     create: true
