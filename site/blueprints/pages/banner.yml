@@ -1,0 +1,67 @@
+fields:
+  info:
+    label: Info
+    type: info
+    text: Diese drei Bilder werden je nach Tageszeit ausgetauscht
+  bildmorgens:
+    width: 1/3
+    label: Morgens (Sonnenaufgang bis Zenit)
+    cover: true
+    type: files
+    multiple: false
+    layout: cards
+  bildtag:
+    width: 1/3
+    label: Tag (Zenit bis Sonnenuntergang)
+    type: files
+    multiple: false
+    layout: cards
+  bildnacht:
+    width: 1/3
+    label: Nacht (Sonnerunter- bis aufgang)
+    type: files
+    multiple: false
+    layout: cards
+  info2:
+    label: Info
+    type: info
+    text: Bild für den Pride Month (Juni)
+  bildpride:
+    label: Pridemonth (Regenbogenflagge)
+    cover: true
+    type: files
+    multiple: false
+    layout: cards
+  info3:
+    label: Info
+    type: info
+    text: Bild für den Tag der Deutschen Einheit (3. Oktober)
+  bildtdde:
+    label: Tag der Deutschen Einheit
+    cover: true
+    type: files
+    multiple: false
+    layout: cards
+  info4:
+    label: Info
+    type: info
+    text: Diese drei Bilder werden je nach Wetter ausgetauscht
+  bildschnee:
+    width: 1/3
+    label: Schnee
+    type: files
+    multiple: false
+    layout: cards
+  bildregen:
+    width: 1/3
+    label: Regen
+    type: files
+    multiple: false
+    layout: cards
+  bildsonne:
+    width: 1/3
+    label: Sonne
+    cover: true
+    type: files
+    multiple: false
+    layout: cards
