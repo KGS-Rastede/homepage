@@ -3,10 +3,7 @@ num: '{{ page.date.toDate("YmdHi") }}'
 icon: 📖
 
 options:
-  update:
-    *: false
-    fachleiter: true
-    admin: true
+  *: true
 
 
 sections:

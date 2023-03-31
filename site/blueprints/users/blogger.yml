@@ -1,48 +1,24 @@
 title: Blogger
 description: Blogger dürfen nur Blogartikel überarbeiten
 
+
 user:
   *: false
   changeName: true
 
 permissions:
   access:
-    panel: true
-    site: true
-    settings: false
-    users: false
+    system: false
   files:
-    create: true
-    changeName: true
-    delete: true
-    replace: true
-    update: false
+    *: false
   site:
-    update: false
+    *: false
   pages:
-    create: true
-    changeTemplate: true
-    changeTitle: true
-    changeSlug: true
-    delete: false
-    hide: true
+    *: false
+    preview: true
+    read: true
     sort: true
-    update: true
   user:
-    create: false
-    changeName: false
-    changeEmail: false
-    changeLanguage: true
-    changePassword: false
-    changeRole: false
-    delete: false
-    update: false
+    *: false
   users:
-    create: true
-    changeEmail: false
-    changeLanguage: true
-    changeName: false
-    changePassword: false
-    changeRole: false
-    delete: false
-    update: false
+    *: false

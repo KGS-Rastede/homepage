@@ -3,18 +3,15 @@ num: '{{ page.date.toDate("Ymd") }}'
 icon: 📖
 
 options:
+  create:
+    blogger: true
   update:
-    *: false
-    fachleiter: true
-    admin: true
-  pages:
-    *: false
-    fachleiter: true
-    admin: true
-  files:
-    *: false
-    fachleiter: true
-    admin: true
+    blogger: true
+  changeTitle:
+    blogger: true
+  changeStatus:
+    blogger: true
+
 
 columns:
   main:
