@@ -34,7 +34,6 @@ sections:
     status: draft
     template:
       - blogartikel
-      - blog
     sortBy: date desc
 
   published:
@@ -43,7 +42,6 @@ sections:
     status: listed
     templates:
       - blogartikel
-      - blog
     sortBy: date desc
     info: "Autor: {{page.author}}, Datum: {{page.date.toDate('d.m.Y') }}, Tag: {{page.tags}}"
 
@@ -64,6 +62,5 @@ sections:
     status: unlisted
     templates:
       - blogartikel
-      - blog
     sortBy: date desc
 

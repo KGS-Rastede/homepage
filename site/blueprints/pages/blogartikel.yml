@@ -1,4 +1,4 @@
-title: Blogeintrag (neue Version)
+title: Blogeintrag
 num: '{{ page.date.toDate("Ymd") }}'
 icon: 📖
 
