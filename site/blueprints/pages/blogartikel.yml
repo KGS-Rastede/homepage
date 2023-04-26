@@ -5,11 +5,13 @@ icon: 📖
 options:
   update:
     blogger: true
+    admin: true
   changeTitle:
     blogger: true
+    admin: true
   changeStatus:
     blogger: true
-
+    admin: true
 
 columns:
   main:
@@ -18,7 +20,7 @@ columns:
       content:
         type: fields
         fields:
-          text: 
+          text:
             type: layout
             layouts:
               - "1/1"
@@ -26,7 +28,7 @@ columns:
               - "1/4, 1/4, 1/4, 1/4"
               - "1/1, 1/3, 2/3"
               - "1/1, 2/3, 1/3"
-              - "1/2, 1/2, 1/3, 1/3, 1/3" 
+              - "1/2, 1/2, 1/3, 1/3, 1/3"
             fieldsets:
               - heading
               - text
@@ -73,10 +75,10 @@ columns:
             label: Auf Startseite verstecken?
             help: Wenn aktiv wird der Artikel niemals auf der Startseite angezeigt
             type: toggle
-            text: 
+            text:
               - "Nein"
               - "Ja"
-            default: false  
+            default: false
           author:
             type: text
             label: Name des Autors
@@ -130,6 +132,3 @@ columns:
             help: Hier können beliebige Dateien für den Download bereitgestellt werden
             type: files
             uploads: datei
-
-
-
