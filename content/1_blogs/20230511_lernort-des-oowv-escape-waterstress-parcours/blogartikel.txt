@@ -1,0 +1,33 @@
+Title: Lernort des OOWV (Escape Waterstress Parcours)
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Klasse 9D2 hat am 27. 04. 2023 den Biohof Bakenhus, ein Lernort des OOWV, besucht. Nach einer ca. 30-minütigen Busfahrt kamen wir am Hof an und wurden dort herzlich von den Betreuer:innen begrüßt. Daraufhin wurden wir in Gruppen aufgeteilt und uns wurden die Fragen bzgl. des Wasserkonsums gestellt. Hier ist uns bewusst geworden, dass wir sehr viel Wasser an einem Tag verbrauchen.</p>"},"id":"39a27c02-ca0b-4184-bdd7-461601782f7a","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://j3IXjt7lweUEQl8g"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"4d9013f8-2cab-435b-b103-a3e6fb15d568","isHidden":false,"type":"image"}],"id":"03c22e9e-71ab-4873-93b7-caf91a750712","width":"1/1"}],"id":"003b28f5-69c7-4f8d-9603-29361b8a5997"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Nach dieser Fragerunde wurden wir zu einem leckeren BIO-Frühstück vom Hof eingeladen. Danke dafür! Danach gaben uns die Betreuer:innen eine Einleitung zum Escape Parcours. Unsere Klasse wurde daraufhin in vier Gruppen aufgeteilt.</p><p>Die Gruppen wurden Grün, Gelb, Blau und Rot genannt. Jeder dieser Gruppen hat eine Landkarte zum Parcours vom Hof bekommen. Auf dieser Karte waren mehrere Rätsel und Aufgaben für jede Gruppe versteckt. Als nach ca. 75 Minuten alle Gruppen die Aufgaben gelöst hatten, wurden im „Klassenraum“ die Ergebnisse verglichen und anschließend in Milliliter des kostbaren Wassers umgerechnet. Dieses Wasser haben wir dann in drei Säulen umgefüllt. Die drei Säulen stehen für Globale Wasserversorgung, Lokale Wasserversorgung und den Klimaschutz. Hierbei konnten wir die Lösungen zur Rettung der Trinkwasserversorgung in der Zukunft entwickeln. Danach wurden wir von OOWV verabschiedet und konnten zum Schluss noch im Streichelzoo Ziegen mit Karotten füttern.</p><p>Anschließend ging es wieder nach Rastede zur KGS.</p>"},"id":"db1071f3-6e25-4df8-a989-ab8e2e92cb73","isHidden":false,"type":"text"}],"id":"e839a6c7-073a-43ea-b2b8-2f759d99f752","width":"1/1"}],"id":"522ded26-63bc-48e3-88c3-748fa51352cd"}]
+
+----
+
+Date: 2023-05-11 19:05:00
+
+----
+
+Datumstartseite: 2023-09-11 19:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dave Krebs für die 9D2
+
+----
+
+Tags: OOWV, Exkursion
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 3smGRmZqEJywiRQY
