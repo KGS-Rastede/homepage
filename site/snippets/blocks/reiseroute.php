@@ -7,14 +7,11 @@
     'features' => $features, 
     'block' => $block ]
   ); 
-
-  echo "Achtung, reiseroute.php";
   
   print_r($features);
   gettype($features);
 
   echo ($features);
-  echo "Achtung, reiseroute.php ende";
 ?>
 
 
