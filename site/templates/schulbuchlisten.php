@@ -112,7 +112,4 @@
     </div>
 </div>
 
-
-
-<?php snippet('sidebar') ?>
 <?php snippet('footer') ?>
