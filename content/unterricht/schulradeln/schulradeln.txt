@@ -1,0 +1,46 @@
+Title: SCHULRADELN
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"&nbsp;"},"id":"3551c53e-b098-44a8-91ba-7d3e36257ede","isHidden":false,"type":"markdown"},{"content":{"text":"<p><strong>„Fahrradfahren ist unsere Zukunft. Denn es trägt nicht nur zum Klima- und Umweltschutz bei, sondern es ist auch gut für Körper und Seele. Außerdem ist es eine gute Gelegenheit, auf dem Schulweg gemeinsam mit Freunden unterwegs zu sein.“</strong></p>"},"id":"95dbcc05-1d20-4e62-b469-da41ef9358cc","isHidden":false,"type":"text"},{"content":{"text":"<p>Mit diesen Worten eröffnete die Schülerin Sina aus Jahrgang 12 am 16. Mai 2023 die schulinterne Siegerehrung zum SCHULRADELN 2022. SCHULRADELN ist Teil der Aktion STADTRADELN. Es handelt sich um einen Wettbewerb, bei dem es darum geht, dass möglichst viele Menschen in ihrem Alltag möglichst viele Wege mit dem Fahrrad zurücklegen und dadurch CO2 einsparen. Auch an der KGS Rastede dreht sich im dreiwöchigen Aktionszeitraum das Radfahren im Mittelpunkt.</p>"},"id":"88ded04d-685d-4bc5-bafc-4b1f916a81c7","isHidden":false,"type":"text"},{"content":{"text":"<p>Eigentlich gewinnen dabei alle, denn alle Teilnehmer*innen setzen sich gemeinsam für den Klimaschutz und selbständige Mobilität auf dem Schulweg ein. Schulteams, die in den Wettbewerbskategorien (1) Größe des Schulteams, (2) geradelte Kilometer und (3) geradelte Kilometer pro Kopf, am besten abschneiden, erhalten eine Auszeichnung vom niedersächsischen Kultusministerium. Beim SCHULRADELN 2021 und 2022 war die KGS Rastede jeweils unter den besten drei Schulen Niedersachsens.</p>"},"id":"49f8fd69-385a-4d23-b44b-2159c5a19ba9","isHidden":false,"type":"text"},{"content":{"text":"<p>Auch im schulinternen Wettbewerb der KGS Rastede werden besonders erfolgreiche Schüler*innen und Teams ausgezeichnet. Preise gibt es in vier Kategorien:</p>"},"id":"50527f9d-b8b7-44b1-b047-2f9aa6fe4da2","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Schüler*in mit den meisten geradelten Kilometern</li><li>Klasse mit den meisten geradelten Kilometern</li><li>Team mit den meisten Kilometern pro Kopf</li><li>Sonderpreis für besondere Verdienste um das SCHULRADELN und/oder Radfahren an der KGS</li></ul>"},"id":"5703cfd3-f890-4f80-9dd0-a040c3476cab","isHidden":false,"type":"list"},{"content":{"text":"<p>Alle Preisträger*innen (Plätze 1 bis 3) erhalten eine Urkunde. Die Erstplatzierten erhalten außerdem einen der vier KGS-SCHULRADELN-Wanderpokale und einen Eis-Gutschein.</p>"},"id":"3f493ecc-dad9-4e29-ba18-ffc6441ad7fa","isHidden":false,"type":"text"},{"content":{"name":""},"id":"778462e1-cff0-4144-a9d3-5948c426d500","isHidden":false,"type":"horizontale-linie"},{"content":{"level":"h3","text":"Aktuell"},"id":"8e9c5668-0b2e-467b-9e5d-c6fba8e2c98c","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Am 4. Juni 2023 geht das SCHULRADELN in die nächste Runde. Dann heißt es für Schüler*innen, Lehrkräfte und Erziehungsberechtigte: „Jeder Kilometer zählt für den Klimaschutz, für die Gesundheit und für die Verkehrssicherheit rund um die Schule.“</strong></p>"},"id":"34f62cbf-59b8-4f98-933a-aa2638280773","isHidden":false,"type":"text"},{"content":{"text":"<p>Wichtige Informationen dazu wurden in einem Brief an die Schulgemeinschaft zusammengefasst. Für alle Radfahrer*innen, die ihre Kilometer selbst auf der Webseite <em>stadtradeln.de</em> eintragen oder mit der STADTRADELN-App tracken möchten, gibt es auch eine Schritt-für-Schritt-Anleitung. Beide Dokumente stehen unten zum Download bereit.</p>"},"id":"56bc330d-6a9d-4911-96bb-f555d1913cac","isHidden":false,"type":"text"},{"content":{"images":["file://VzdkMNZbKcSYPoTQ","file://j4cdwfNhcMIuPZmt","file://46FyIZi40gSyLlLg"],"caption":"","ratio":"","crop":"true"},"id":"09d98d61-b318-4673-ba09-0766b963484c","isHidden":false,"type":"gallery"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- file://nTDpQh0akZsidl79
+- file://T7UxmjmDx7bK2Hvq
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar:
+
+- 
+  link: https://www.stadtradeln.de/darum-geht-es
+  name: >
+    Darum geht es beim STADTRADELN (externe
+    Seite)
+
+----
+
+Uuid: PwKaQ3Sku8tmhzAX
