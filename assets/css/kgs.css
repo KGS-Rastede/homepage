@@ -618,6 +618,12 @@ code {
   transition: 1s;
 }
 
+/* Dropdown-Menues sind scrollbar, wenn laenger als Bildschirm */
+.navbar-nav .dropdown-menu {
+  overflow-y: auto;
+  max-height: calc(100vh - 2 * var(--bs-navbar-padding-y) - 2 * var(--bs-navbar-brand-padding-y) - var(--bs-navbar-brand-font-size));
+}
+
 /* -------end customization-------- */
 /* finally, import Bootstrap to set the changes! */
 /*!

@@ -638,14 +638,14 @@ $primary-color-hover: scale-color($primary, $lightness: 32%);
 .ohnezoom {
     margin-top: 30px;
   }
-  
+
   .ohnezoom {
     position: relative;
     margin-bottom: 50px;
-  
+
   }
-  
-  
+
+
   .mitzoom {
     -border: 1px solid red;
     position: absolute;
@@ -657,18 +657,26 @@ $primary-color-hover: scale-color($primary, $lightness: 32%);
     color: white;
     padding: 10p;
   }
-  
+
   .ohnezoom:hover .mitzoom {
     opacity: 1;
     top: 0px;
     transition: 1s;
   }
-  
+
   .ohnezoom:hover .hover {
     transform: scale(1.3);
     transition: 1s;
   }
-  
+
+
+/* Dropdown-Menues sind scrollbar, wenn laenger als Bildschirm */
+.navbar-nav {
+    .dropdown-menu {
+        overflow-y: auto;
+        max-height: calc(100vh - (2 * var(--bs-navbar-padding-y)) - (2 * var(--bs-navbar-brand-padding-y)) - var(--bs-navbar-brand-font-size))
+    }
+}
 
 
 /* -------end customization-------- */
