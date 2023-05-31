@@ -1,0 +1,33 @@
+Title: SCHULRADELN 2022 – Die Siegerehrung
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>„Fahrradfahren ist unsere Zukunft. Denn es trägt nicht nur zum Klima- und Umweltschutz bei, sondern es ist auch gut für Körper und Seele. Außerdem ist es eine gute Gelegenheit, auf dem Schulweg gemeinsam mit Freund*innen unterwegs zu sein.“ Mit diesen Worten eröffnete die Schülerin Sina aus Jahrgang 12 am 16. Mai 2023 die schulinterne Siegerehrung zum SCHULRADELN 2022. Beim SCHULRADELN haben eigentlich alle gewonnen, denn alle Teilnehmer*innen haben gemeinsam ein Zeichen für den Klimaschutz gesetzt. Einige Schüler*innen und Klassen waren dabei ganz besonders erfolgreich. Diesen durfte Frau Berger bei bei Siegerehrung Urkunden, Eis-Gutscheine und Pokale überreichen.</p><p>Die besten Schüler*innen (Einzelwertung):</p><p>1. Preis: Kevin aus Jg. 12 für 1.234,5 geradelte Kilometer<br>2. Preis: Marc aus Jg. 8 für 827,1 geradelte Kilometer<br>3. Preis: Laurin aus Jg. 10 für 785, 4 geradelte Kilometer</p><p>Die besten Klassen:</p><p>1. Preis: 8E3 für 6.097,6 geradelte Kilometer<br>2. Preis: 7A3 für 6.063,9 geradelte Kilometer<br>3. Preis: 6C3 für 5.735,7 geradelte Kilometer</p><p>Den Preis für das Team, welches die meisten Kilometer pro Kopf zurückgelegt hat, erhielt das Team der Schüler*innenvertretung. Der Sonderpreis für besondere Verdienste um das Radfahren an der KGS Rastede ging an die Projektgruppe „Schulstraße.“</p><p>Für die Siegerehrung haben sich auch die Schüler Henri und Gustav besonders engagiert. Vielen Dank für die Sonderanfertigung von vier kreativen Wanderpokalen für das SCHULRADELN an der KGS! Besonderer Dank geht außerdem an Keno von der AG Veranstaltungstechnik und an Mia von brainstorm für die Fotos.</p><p>Mit 107.288 geradelten Kilometern hat die KGS Rastede im Jahr 2022 unter den niedersächsischen Schulen wieder einen der ersten drei Plätze \"erradelt\". Welchen Platz die Schule genau belegt hat, wird am 19. Juni 2023 vom Kultusministerium bekannt gegeben. Bis dahin bleibt es spannend.</p><p>Unsere schulinterne Siegerehrung endete schließlich mit einem Aufruf für die nächste Runde. Denn vom 4. bis zum 24. Juni 2023 heißt es wieder: „Jeder Kilometer zählt für den Klimaschutz, für eure Fitness und für die Verkehrssicherheit rund um die Schule.“</p>"},"id":"48b8e793-b345-4c54-bcc4-b379a8b712f4","isHidden":false,"type":"text"}],"id":"d7ad0dfb-29ae-42db-b3e9-c97e1a640912","width":"1/1"}],"id":"d226affe-394f-43f8-985a-c35debcff6c0"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://pH5ovC6hk210QbeE","file://fJvoBZdLrv6kaSKg"],"caption":"","ratio":"","crop":"false"},"id":"89976314-961b-4ce0-b9af-6d830090b7a9","isHidden":false,"type":"gallery"}],"id":"44537ad6-34a3-475a-942f-fd4cc31a183d","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://9tCe3a1MQUaa7Cll"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"704b9a49-a1bc-4c8c-b377-41f2cda81afa","isHidden":false,"type":"image"}],"id":"023813c9-e0ba-46a0-bb22-40af10c09155","width":"1/2"}],"id":"02a11bb6-fb6e-4a2d-a21f-508d23b2950a"}]
+
+----
+
+Date: 2023-05-31 16:05:00
+
+----
+
+Datumstartseite: 2023-10-01 16:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Frau Szyltowski
+
+----
+
+Tags: Schulleben, SCHULRADELN
+
+----
+
+Downloads: 
+
+----
+
+Uuid: kvnmR4Y92JaKjCCi
