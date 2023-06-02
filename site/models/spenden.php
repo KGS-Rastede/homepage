@@ -3,7 +3,7 @@
 class SpendenPage extends Page
 {
 
-    public function children()
+    public function children() : Pages
     {
         $file     = $this->datafile()->toFile();
         $csv      = csv($file->root(), ';');

@@ -3,7 +3,7 @@
 class LehrerPage extends Page
 {
 
-    public function children()
+    public function children() : Pages
     {
         $csv      = csv($this->root() . '/lehrer.csv', ';');
         $children = array_map(function ($lehrer) {

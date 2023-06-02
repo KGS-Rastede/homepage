@@ -38,7 +38,7 @@ class StudyGroup
  */
 class AgsPage extends Page
 {
-  public function children()
+  public function children() : Pages
   {
     $results = [];
     $pages = [];

@@ -82,7 +82,7 @@ class StudyGroupImage
 
 class ArbeitsgemeinschaftPage extends Page
 {
-  public function images()
+  public function images() : Files
   {
     if ($this->content->image_url()->isEmpty()) return parent::images();
 
