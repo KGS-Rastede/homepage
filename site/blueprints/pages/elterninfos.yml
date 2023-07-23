@@ -5,6 +5,8 @@ sections:
   content:
     type: fields
     fields:
+      textfeld:
+        type: textarea
       text:
         label: Text
         type: blocks
