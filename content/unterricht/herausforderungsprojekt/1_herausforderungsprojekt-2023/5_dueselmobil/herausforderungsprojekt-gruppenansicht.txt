@@ -1,0 +1,39 @@
+Title: Düselmobil
+
+----
+
+Kurzname: Düselmobil
+
+----
+
+Teamlogo: - file://mbce0ch3UBAfPYvx
+
+----
+
+Teamfarbe: bs-teamfarbe2
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wir wollen mit dem Rad nach Holwerd fahren und Blumen in Kindergärten pflanzen."},"id":"28da167d-dc80-4841-887f-2ec185865d56","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://kYAIph2hhGJHRGJa
+- file://WMwDrMPWzqObB36d
+- file://Z1E6Bz6KqMGyI9Cq
+- file://oG8FrIUhIuA1ncv2
+- file://obQWzKrMK4VYRqMg
+- file://j2iUObaiQnOSsS1R
+- file://V9FLn7YQT43fSZcX
+- file://M2FtY9EAwazreYvq
+- file://EN1rpitMaVmc3B4f
+- file://af0dI2sCKSMKLxNH
+- file://TlAlp0n7ooSFHWwp
+- file://OdyVUWAhRZ2UZsvT
+- file://Lcy33O9FZE9yhRfE
+
+----
+
+Uuid: yfDIpgdAfnhhX7wV

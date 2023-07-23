@@ -1,0 +1,39 @@
+Title: Die Hottehüs
+
+----
+
+Kurzname: Die Hottenhüs
+
+----
+
+Teamlogo: - file://DKlmtU6pI152QpHU
+
+----
+
+Teamfarbe: teamfarbe1
+
+----
+
+Text: [{"content":{"level":"h2","text":"Ziel: auf dem Reiterhof Goldberg (bei Norden) arbeiten, ev. auch in einer sozialen Einrichtung arbeiten (in Marienhafe) , mit dem Zug"},"id":"6ee788b4-c7d6-45df-9b56-8c540fedfc7d","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://5zEFMQi3qX0LBi1L
+- file://SL7dU2gXb0OpsUpZ
+- file://EvDih6zvyVJe8XSI
+- file://puTDDdPVwUDUwhHj
+- file://PAP9Uf4bVr6uLj1M
+- file://nCU3hwHciNOtNfK8
+- file://54ACTGj7d8ED04am
+- file://taEzqkuwyGQvgoo7
+- file://J8jdVRu1zfodDpkV
+- file://itC7dBepU5TpJQFg
+- file://82kXzh4MhkYRmu7Q
+- file://Lr9FtWxZlgEsCGuA
+- file://jSLwY98e8lnILeDF
+
+----
+
+Uuid: WMIJKWUv4twTchn3

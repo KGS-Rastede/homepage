@@ -1,0 +1,39 @@
+Title: Einmal Harz und zurück
+
+----
+
+Kurzname: Einmal Harz und zurück
+
+----
+
+Teamlogo: - file://9wSXHcvsGHs2Dtj4
+
+----
+
+Teamfarbe: bs-teamfarbe7
+
+----
+
+Text: [{"content":{"level":"h2","text":"Ziel: am Brocken einen Baumsetzling pflanzen; sich vegan ernähren; mit dem Fahrrad unterwegs"},"id":"33cedc64-df0b-486a-a9f5-55c692d9f1a7","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://HCxOAYZAYpzdue9g
+- file://acCVKE5uBjncOlFR
+- file://r73hzimgb8abnrCa
+- file://299DCABKreAuzUTW
+- file://namHhrsu7h3m93z9
+- file://mZ2JwXQpygiRikEl
+- file://Z1MJHqVjYZNr0w3J
+- file://YVkT6S4WQpzmTdZR
+- file://cdreliUPyAw7zoQ1
+- file://VBEp8eHClwdQgV6F
+- file://FBroWrLa5Lo99wEY
+- file://JNGrCi7xB6xZZviD
+- file://TK59f3RQ6150vyYm
+
+----
+
+Uuid: 7GlwhRbIvrQ2jh9Z

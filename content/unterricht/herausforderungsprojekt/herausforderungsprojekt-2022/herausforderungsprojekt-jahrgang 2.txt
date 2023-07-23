@@ -1,0 +1,9 @@
+Title: Herausforderungsprojekt 2022
+
+----
+
+Text: [{"content":{"text":"<p><strong><u>Hier sind sie: Die Teams, die sich der Herausforderung 2022 stellen!<\/u><\/strong> <\/p><p>Mit wenig Geld verlassen die Gruppen mit dem Rad oder zu Fu\u00df Rastede, um neue Orte kennenzulernen. Ein halbes Jahr hatten die Teams Zeit, ihre Herausforderung zu planen.So wurden auf Bauernh\u00f6fen, Campingpl\u00e4tzen oder bei Gemeinden Schlafpl\u00e4tze f\u00fcr eine Nacht erfragt und Koch- und Packpl\u00e4ne erstellt. <\/p><p>Werden die Gruppen es schaffen, ihre Route einzuhalten?Jeden Tag werden die Gruppen ein Foto vom Tag schicken.  Klickt einfach auf ein Team, dann k\u00f6nnt ihr diese Fotos der Reise anschauen. <\/p><p><\/p>"},"id":"c3779757-192c-44f9-b98c-237c3974fc18","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: bx2jgNbEreKzN2kF

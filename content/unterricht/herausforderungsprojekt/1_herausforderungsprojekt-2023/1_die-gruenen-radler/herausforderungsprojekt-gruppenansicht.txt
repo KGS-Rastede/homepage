@@ -1,0 +1,39 @@
+Title: Die Grünen Radler
+
+----
+
+Kurzname: Die Grünen Radler
+
+----
+
+Teamlogo: - file://IdA47TdMUyBDZM3g
+
+----
+
+Teamfarbe: teamfarbe1
+
+----
+
+Text: 
+
+----
+
+Gallery:
+
+- file://hDil3cpgvC4nbcQx
+- file://1ox3BpAYB46YYmHb
+- file://jjpziN1lFDxSAM2G
+- file://IAHs6S7t2JkdzyLk
+- file://AZacl4ROEWmVxPJF
+- file://sUKHUDONbvTmiz2o
+- file://bi3PbpUIU8a5omGC
+- file://DdyOvklX6UhLFVzh
+- file://CVDqfHLyZ86pkPeo
+- file://ZZTIpfrXNKDOCsBR
+- file://9EkPcuZ3OUT4NcO4
+- file://gNlTvaWfJsXPB7cb
+- file://nrjktfzsbcFRuDJu
+
+----
+
+Uuid: R4uOftDy37Sq5aQH

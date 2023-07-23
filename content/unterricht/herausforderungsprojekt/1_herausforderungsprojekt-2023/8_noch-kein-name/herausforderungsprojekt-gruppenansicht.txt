@@ -1,0 +1,38 @@
+Title: Die flotten Radler
+
+----
+
+Kurzname: Die flotten Radler
+
+----
+
+Teamlogo: - file://NKfdhkwoe82fW2uY
+
+----
+
+Teamfarbe: bs-teamfarbe1
+
+----
+
+Text: [{"content":{"level":"h2","text":"Ziel: Harlesiel <br>Fahrradtour; auf Bauernhöfen übernachten,Müllsammeln in Harlesiel"},"id":"461d7db6-5b4f-4738-bb4e-f7f1e05d4bcf","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://lbc5VznPjGsX5mPh
+- file://FnnTFtksJOQCMoGA
+- file://h0cpcnq3Su6Cmai3
+- file://eNm60BesMawPtUGC
+- file://ghbqQBAK1rfsEATM
+- file://MiCNt06J9XEIL8Eo
+- file://N2uA5PDLyR44D57k
+- file://Xhd0fhbTWwZSrxff
+- file://xg0lEd2lAmWDjOlQ
+- file://Z705kpmezn8OOAVG
+- file://G4uBOqoI45MUIN2m
+- file://hPRV1HqS18V1HMJ8
+
+----
+
+Uuid: GQIfbexP65p1gbde

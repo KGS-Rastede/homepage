@@ -1,0 +1,39 @@
+Title: Wandern mit Einsicht
+
+----
+
+Kurzname: Wandern mit Einsicht
+
+----
+
+Teamlogo: - file://wPmOfuLWDIPeBiXa
+
+----
+
+Teamfarbe: bs-teamfarbe6
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wir wollen bis nach Groningen wandern und dabei Spenden für Tierheime sammeln."},"id":"44075853-81eb-4df6-8c0d-164e37392b81","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://dXCIEVEH1HFszgLL
+- file://4Z4Lc4MK3budz6L0
+- file://0n0eESnpqumLyoMR
+- file://WgR0PVhlm0nc9DUM
+- file://wfM6ENtS6Siun27z
+- file://aTqXUP8Znx4012dS
+- file://qtBHPfDcF3CZMzXL
+- file://TpqvDQ1EzxT4DTvN
+- file://UOMkCh3NwibNzNxm
+- file://vYAy5zenEvjihjDe
+- file://7Hv7p7VlbU0o2hhb
+- file://FoMa6H95FBbakSyZ
+- file://SYSvG1TEbqv3egsS
+
+----
+
+Uuid: mAt5S8dwlv4YC8Y0

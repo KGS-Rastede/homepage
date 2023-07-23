@@ -1,0 +1,41 @@
+Title: Traum von Amsterdam
+
+----
+
+Kurzname: Traum von Amsterdam
+
+----
+
+Teamlogo: - file://zmkTvOqjVUUQ5fhd
+
+----
+
+Teamfarbe: bs-teamfarbe1
+
+----
+
+Text: [{"content":{"location":"kirby","image":["file://zmkTvOqjVUUQ5fhd"],"src":"","alt":"Wir wollen nach Amsterdam mit dem Fahrrad fahrrend und auf dem Weg  in Tierheimen oder Schulen arbeiten!","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"08b11ea3-958c-4710-b73a-ddd7efdf11ef","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Wir wollen mit dem Rad nach Amsterdam fahren und auf dem Weg in Tierheimen und Schulen helfen."},"id":"820c782a-606e-4640-9228-15928ac6828f","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://KcSRTlgX8tcgrB8t
+- file://7FwT7xDuOLDnmskw
+- file://YYN3fg3mynVOcPnB
+- file://ucYNLnfayAD4jezI
+- file://EEAphDzS8zm373cW
+- file://bKkSydsXL9VGeTjK
+- file://pCRaDJI9nlHO5KlN
+- file://u90pofHDpA5dA1lj
+- file://qxtEt5C6IUXWK7rl
+- file://nGvRdzv7zxiEgSPJ
+- file://wdxFuhVNl8IjS2sY
+- file://p43Ww3B8hqfxPGGe
+- file://qIaFWTsltG4xP0EE
+- file://ViHsOkZcCyseQKcx
+- file://FvWyX72hK1fowCEJ
+
+----
+
+Uuid: ToqavQBsdAzsD8QK

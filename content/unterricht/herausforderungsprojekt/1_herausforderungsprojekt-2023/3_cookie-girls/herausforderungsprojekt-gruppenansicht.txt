@@ -1,0 +1,39 @@
+Title: Cookie Girls
+
+----
+
+Kurzname: Cookie Girls
+
+----
+
+Teamlogo: - file://omnZC5yGMrvOmfGr
+
+----
+
+Teamfarbe: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wir backen und wollen ein eigenes Backbuch schreiben. Dabei sind wir mit dem Fahrrad in der Region Ammerland und Oldenburg unterwegs und fahren jeden Tag zu einer anderen Bäckerei. Abends übernachten wir im Zelt auf Bauernhöfen."},"id":"080a2a60-fe41-4c79-bafe-8ed11b5cc175","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://vX9lLbdIORsWSYSW
+- file://MhHnaNB0B7QTKfB2
+- file://NgV2SDx6ZBZb0eCX
+- file://RLRlHOrQGVT6plp3
+- file://sNRge5gCZrm3WFsj
+- file://bgbKtUhnwGsCkZ25
+- file://Lbq4pG4G49WozOpO
+- file://nGyehoVebeflZ0Og
+- file://4QVTnWwd2lIvcFLY
+- file://14sNqUgqE1SwKhXY
+- file://CHRfUkIqYRBL8wTq
+- file://6bnSTzIe2g9gZ6oc
+- file://8BC36lV5ZMmri55Z
+
+----
+
+Uuid: eu7FeD12yJNPk4sH

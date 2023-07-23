@@ -1,0 +1,9 @@
+Title: Herausforderungsprojekt 2023
+
+----
+
+Text: [{"content":{"text":"<p><strong><u>Hier sind sie: Die Teams, die sich der Herausforderung 2023 stellen!</u></strong></p><p>Mit wenig Geld verlassen die Gruppen mit dem Rad oder zu Fuß Rastede, um neue Orte kennenzulernen. Ein halbes Jahr hatten die Teams Zeit, ihre Herausforderung zu planen. So wurden auf Bauernhöfen, Campingplätzen oder bei Gemeinden Schlafplätze für eine Nacht erfragt und Koch- und Packpläne erstellt. In diesem Jahr werden sie betreut von Schüler:innen des 12. und 13. Jahrgangs. </p><p>Werden die Gruppen es auch in diesem Jahr schaffen, ihre Route einzuhalten?Jeden Tag werden die Gruppen ein Foto vom Tag schicken. Klickt einfach auf ein Team, dann könnt ihr diese Fotos der Reise anschauen.</p><p></p>"},"id":"c3779757-192c-44f9-b98c-237c3974fc18","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: bx2jgNbEreKzN2kF

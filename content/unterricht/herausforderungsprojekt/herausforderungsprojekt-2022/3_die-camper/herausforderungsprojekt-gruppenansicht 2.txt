@@ -1,0 +1,54 @@
+Title: Die Camper
+
+----
+
+Kurzname: Wir fahren mit dem Rad 480km durch Niedersachsen
+
+----
+
+Teamlogo:
+
+- >
+  54fa6473-7d7e-4d17-9b06-34f1c4023120.jpeg
+
+----
+
+Teamfarbe: bs-teamfarbe4
+
+----
+
+Text: [{"content":{"location":"kirby","image":["die-camper.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0ba8a6ae-d62b-4237-834e-e0163624b9e2","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"<p>Wir wollen mit dem Fahrrad eine Rundreise durch Niedersachsen machen.<\/p>"},"id":"4bd6bae9-ce60-4aef-a690-6034c54ff53b","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- camper.jpg
+- img_18c4df87db63-1.jpeg
+- sonntag.jpeg
+- >
+  f6e4bc26-14f9-4feb-824f-9793344a9141.jpeg
+- >
+  c3172b5b-eab8-4fa7-909c-9004f65c7873.jpeg
+- >
+  c12b3de8-36ba-4b42-bff8-5d3c5a684ca6.jpeg
+- >
+  674376e3-c885-4bf7-9de2-9f7c3c8d21b7.jpeg
+- >
+  e73598db-6cac-401b-982f-0ef627458e2b.jpeg
+- >
+  6b1d0c76-5c7b-4de0-844b-fe7e4fef3be6.jpeg
+- >
+  12eb2c1e-2e3e-442b-a073-770fd415f099.jpeg
+- >
+  2b16709e-b767-4df9-b169-c3abb4d330fc.jpeg
+- >
+  0c66019c-a41c-465d-8506-3e90bfe2984e.jpeg
+- >
+  75178a3e-c8d3-4f8a-b912-14693c531908.jpeg
+- >
+  fa0a9ebe-e64f-4cb2-886d-f72c84e07feb.jpeg
+
+----
+
+Uuid: u0JCH6k3KrVtvXEJ

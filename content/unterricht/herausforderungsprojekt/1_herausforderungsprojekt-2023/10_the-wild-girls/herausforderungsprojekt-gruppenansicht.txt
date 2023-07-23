@@ -1,0 +1,39 @@
+Title: The wild girls
+
+----
+
+Kurzname: The wild girls
+
+----
+
+Teamlogo: - file://3UB8M1OSrWSK2StN
+
+----
+
+Teamfarbe: bs-teamfarbe4
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wir sind zu Fuß unterwegs und wollen auf Bauernhöfen helfen."},"id":"873a8aa1-ea64-4f99-a5c2-59d83b564d54","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://oeyxnMIWRDTjg8or
+- file://A8IargKiP42YwNWm
+- file://muMJirsT8TR5lJg7
+- file://iT3BgajiVAohVtJX
+- file://8T6SaOcMg1iackk9
+- file://H0bKG9cw35EavL4J
+- file://dmzvmxx9XgFiZgIG
+- file://EvGM5foYCOBSGNa5
+- file://9nYIIgJ9mDjx9Ooy
+- file://KuPunWB94OjJoTFK
+- file://oZSgXcatjMgw9PlY
+- file://JU1Mp8hjCSaorFgE
+- file://WQW6gQVMJAOzQ8NU
+
+----
+
+Uuid: xVK2dLbQvAut15gP
