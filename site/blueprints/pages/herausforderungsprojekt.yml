@@ -21,11 +21,6 @@ columns:
     sections:
       pages:
         headline: Übersicht über die Jahre
-    fields:
-      downloadtitel:
-        label: Überschrift für Dateien
-        type: text
-        help: Die Standard_Überschrift lautet "Zugehörige Downloads"
       downloads:
         label: Verknüpfte Dateien
         type: files
