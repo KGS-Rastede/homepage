@@ -1,0 +1,9 @@
+Title: Informationen für Eltern (Kurzübersicht)
+
+----
+
+Text: [{"content":{"name":"Link zu einer Page","kurzbeschreibung":"Text für die Seitenbeschreibung","link":"page://uqMRqmaL3J81rrS1"},"id":"8a60bd8c-cd31-4482-9e20-9d9eac92ffad","isHidden":false,"type":"infofeld"},{"content":{"name":"Link zu einer Webseite (extern)","kurzbeschreibung":"Text für die externe Webseite","link":"https://heise.de"},"id":"e259279a-2dbf-4619-9bdb-7aefbd3e02fb","isHidden":false,"type":"infofeld"},{"content":{"name":"Eine lange PDF, \"NAME\"","kurzbeschreibung":"Hier eine PDF, \"KURZBESCHREIBUNG\"","link":"file://aYe9P12lHq1NQgQh"},"id":"82d57fb4-06f9-41ba-968a-8817ad14d55a","isHidden":false,"type":"infofeld"}]
+
+----
+
+Uuid: IptGqDJWmMUaD0AF
