@@ -1,0 +1,33 @@
+Title: Kursfahrt des Politik-Leistungskurses nach Berlin
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Kursfahrt des Politik-Leistungskurses nach Berlin"},"id":"a5c144c5-4444-4645-ae50-f5b3bf0a0790","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der Politik-Lk von Frau Stahmann aus JG 12 in Begleitung von Frau Eisenmann besuchte im Zuge einer dreitägigen Exkursion die Hauptstadt Berlin zum Ausbau unseres Verständnisses der politischen Partizipation und der Demokratie. <br>Dazu besuchten wir unter anderem den Bundestag und bewunderten während eines Vortrages den Plenarsaal, liefen auf die Reichtagskuppel und führten anschließend mit zwei Mitarbeitern von Dennis Rohde, unserem Wahlkreisabgeordneten in Berlin, ein konstruktives Gespräch. Außerdem besuchten wir verschiedene Sehenswürdigkeiten wie die Siegessäule oder den Checkpoint Charlie und beschäftigten uns mit den historischen Ereignissen. Ebenso betrachteten wir die verschiedenen Ministerien in Berlin. Während wir einer Stadtführung lernten wir etwas über die Zeit der DDR. Dabei erfuhren wir unter anderem etwas über eine sehr besondere Flucht, die noch immer kontrovers diskutiert wird. Impulse zum kritischen Denke bekamen wie während der Kabarettvorstellung ,,Wer hat an der Welt gedreht\" im Distel. <br>Insgesamt erlebten wir eine tolle Zeit, aus der wir alle etwas mitnehmen konnten.<br><br>(geschrieben von Tiffany Heesen, Paula Veltrup, Politik-LK)</p>"},"id":"80ac42bb-541f-4ab1-a3d1-87d20bde4ca3","isHidden":false,"type":"text"}],"id":"ffc87667-0bc6-437c-b6ac-26a5389b6cc6","width":"1/1"}],"id":"ed23d9d6-89bc-40bb-a506-67cfcd0fbe50"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://GbS4Ma2XQLHkenPN"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"e0a80352-7f10-497e-b0d8-63c0a8b8c928","isHidden":false,"type":"image"}],"id":"787fbf8c-aa49-48e9-b52c-09d0abfb6240","width":"1/1"}],"id":"2da668c1-08bd-44e2-8dbe-51c0d3252da7"}]
+
+----
+
+Date: 2023-07-02 07:25:00
+
+----
+
+Datumstartseite: 2023-11-02 07:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Tiffany Heesen und Paula Veltrup
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: SLaduakKwNwZhLX5

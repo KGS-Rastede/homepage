@@ -1,0 +1,33 @@
+Title: Erfolgreiche Schüler:innen in Chemie – Teilnahme an Chemie-Wettbewerben
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Jedes Jahr starten eine Reihe von chemischen Wettbewerben und auch in diesem Jahr freuen wir uns über einige Erfolge und Preisträger:innen. So hat Morten Danz (10D3) den Angelus-Sala-Preis verliehen bekommen. Dieser wird jedes Jahr im Rahmen des „Tages der Chemie“ der Universität Oldenburg durch die Gesellschaft deutscher Chemiker (GDCh) der „Angelus-Sala-Preis“ an eine Schülerin oder einen Schüler der 10. Klassen verliehen. Der Preis wird dabei jemandem verliehen, der oder die durch besonders gute Leistungen in Chemie aufgefallen ist.<br>Der Namensgeber des Preises, Angelus Sala, lebte im 16. und 17. Jahrhundert und war neben seiner Tätigkeit als Chemiker unter anderem auch Leibarzt des Grafen Anton Günther von Oldenburg.<br>So fuhr Morten mit dem WPK-Chemie von Frau Biçe am 13. April zur Universität nach Oldenburg und durfte dort den Preis entgegennehmen. Wir gratulieren herzlich!</p>"},"id":"09b01aec-d156-4ea7-8e9c-683afcfb5286","isHidden":false,"type":"text"}],"id":"d35ea683-68dd-4b02-ad3a-0abe476deae4","width":"1/1"}],"id":"f77451cf-8789-4350-8d6c-b025845c4905"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Jan Kunze (10E3) hat an einer Chemie-Olympiade teilgenommen (Chemie, die stimmt! – <a href=\"https://www.chemie-die-stimmt.de/\" rel=\"noreferrer\">https://www.chemie-die-stimmt.de/</a><a href=\"https://www.chemie-die-stimmt.de/)\" target=\"_blank\" rel=\"noreferrer\">)</a>, im Rahmen des „normalen Chemieunterrichts“ bei Herrn Dr. Fach. Einen Preis konnte er dieses Jahr zwar nicht gewinnen, aber für die Qualifikation zur Landesrunde hat es gereicht – das schaffen immerhin nur die besten 30 Schüler:innen der 10. Klassen Niedersachsens! Auch zu dieser tollen Leistung gratulieren wir!</p><p>Berichtet hatten wir ja schon über die Gewinner beim diesjährigen Heureka-Wettbewerb, die wir an dieser Stelle auch noch einmal erwähnen wollen - hier der Link: <a href=\"https://kgs-rastede.de/blogs/klassen-aus-jahrgang-6-nehmen-am-heureka-wettbewerb-teil\" rel=\"noreferrer\">https://kgs-rastede.de/blogs/klassen-aus-jahrgang-6-nehmen-am-heureka-wettbewerb-teil</a></p><p>Und zu guter Letzt sind wir noch gespannt darauf, was aus den Ergebnissen der Teilnehmenden am Wettbewerb „Das ist Chemie!“ (<a href=\"https://wordpress.nibis.de/dich/\" rel=\"noreferrer\">https://wordpress.nibis.de/dich/</a>) wird – hieran haben im Rahmen der AG „Naturwissenschaftliche Experimente“ (geleitet von Frau Kühn) David Richter, Oliver Kynast (beide 5D3) sowie Ben Böneker (6F3) und Jascha Schütte (5F3) teilgenommen. Leider stehen die Ergebnisse noch aus, aber wir hoffen auch hier noch auf Erfolge.</p>"},"id":"f3b16f44-b7a4-41ed-89c8-650a5d31da49","isHidden":false,"type":"text"}],"id":"f1c9e706-198c-4bb4-9d4e-278ddfcb27e6","width":"1/2"},{"blocks":[{"content":{"images":["file://FoDrG9NtkSsmNiom","file://gbgqGUaHmPF0H3yd","file://gcjMGV4ohIISV4Yi","file://8zjbDa1pUWj0ZNnL"],"caption":"","ratio":"","crop":"false"},"id":"bd6828da-c910-4596-86b5-1a50127bedf8","isHidden":false,"type":"gallery"}],"id":"0f582eba-ed86-4281-a582-3bd705f7eac6","width":"1/2"}],"id":"806ec90d-db27-4dbb-8459-1b40c229e0a0"}]
+
+----
+
+Date: 2023-06-08 07:35:00
+
+----
+
+Datumstartseite: 2023-10-08 07:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: Chemie, Wettbewerb, Chemie-Olympiade
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Zn9qh5cwnRAu3Xf9

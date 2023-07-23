@@ -1,0 +1,5 @@
+Uuid: Szh4zPLyiGYEiNe3
+
+----
+
+Template: blocks/image

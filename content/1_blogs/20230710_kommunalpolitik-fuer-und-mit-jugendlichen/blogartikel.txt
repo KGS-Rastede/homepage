@@ -1,0 +1,33 @@
+Title: Kommunalpolitik für und darum mit Jugendlichen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://SIMFU6KTD0xaDhYE"],"src":"","alt":"","caption":"","link":"","ratio":"3/2","crop":"false","orientation":"mitte"},"id":"907cb3c1-ba2f-4782-b119-589e8d18d6ca","isHidden":false,"type":"image"}],"id":"fbf44059-b0e3-402c-bd18-3fbdda2dad72","width":"1/1"}],"id":"7a253446-9f34-44a1-85a3-c8c270ddbdda"},{"attrs":[],"columns":[{"blocks":[{"content":{"karousel":["file://KUNZnb5UqRBOul6a","file://XdztDxLYAhKmlN97","file://FjN8RV1ACuACEJvU","file://yByZN3AjTvCrUL0b","file://RhyXvNqxjZGtVNkL","file://hLnP27xEpnm56q9k","file://WMLrLOvVS56MZgqO","file://bOyAYslWmW49N50s","file://8xzK7niaU0t9q1Us","file://x2VBSQhCjPCOc8Ee","file://0z1wzhhojGdbJVm9","file://p1DEaSpsJEMhTiLy","file://thr9xvr5P0gJZ0gb","file://mZjefNZqa4raemJN","file://ONnXCgyeCi2oSsID","file://lL1gYPO0zrGk7agd","file://kUmKLbpadyNMnL5G","file://hUVHPh3uVOH7DbBT","file://Miw9tPSxm0QSxd4O","file://4lgzpsxx1L87pHnS","file://QyUSrNIlzYp9bac6","file://VOJnb562jLa3hFuS","file://P5oEmnXW65Irxihs","file://Szh4zPLyiGYEiNe3","file://WGiVRjHwiO2Tu7iO","file://GyRAwcSkP3hGYdWb","file://uaFAa3PIcXXBbw9P","file://pm0n6oRpBtczif0q"]},"id":"7af389d4-fd7b-4bfc-bc54-6452deaee09b","isHidden":false,"type":"karousel"}],"id":"d33dd989-7088-42de-9862-47e9f1db7e15","width":"1/1"}],"id":"abf05df1-d5eb-479b-84f6-d0c234dbea1b"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Demokratieprojekt SARA: Thementag"},"id":"951d8957-ba6e-47a5-8cc3-712e688c120a","isHidden":false,"type":"heading"}],"id":"5b7df011-06c3-4508-986a-de06b669163e","width":"1/1"}],"id":"56451763-8ff5-4e08-8f22-ffed7e3a4ec1"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Gemeinde Rastede führt über einen Zeitraum von 18 Monaten das Demokratieprojekt „<strong>SARA</strong>: <strong>S</strong>olidarität – <strong>A</strong>nerkennung – <strong>R</strong>espekt – <strong>A</strong>chtsamkeit“ durch. Das Projekt wird vom Landespräventi- onsrat Niedersachsen gefördert und sensibilisiert für grundlegende demokratische Werte als Basis einer inklusiven und toleranten Gesellschaft. Es setzt demokratiepädagogisch an, um möglichst viele junge Menschen für eine lebendige, erfahrbare und gestaltende Politik zu begeistern. So wurde neben einer Zukunftswerkstatt für Jugendliche auch das Planspiel „Pimp Your Town!“ von Politik zum Anfassen e.V. mit dem gesamten neunten Jahrgang der Kooperativen Gesamtschule (KGS) Rastede und der Schule am Voßbarg durchgeführt. Als Ergebnis zeigten sich viele schöne Ideen, wie die Gemeinde jugendfreundlicher werden könnte. Die wichtigsten Wünsche wurden nun gemeinsam mit rund 100 Jugendlichen ausgearbeitet und konkretisiert. So lud die Gemeinde am Montag, den 03. Juli 2023 zu einem Thementag in das Akademiehotel Rastede ein. Um die Vorstellungen unterschiedlicher Altersgruppen berücksichtigen zu können, nahmen Stellvertreter-Klassen der Jahrgänge 6, 8 und 10 der Kooperativen Gesamtschule (KGS) Rastede sowie die Schülervertretung der Schule am Voßbarg teil. In drei Themeninseln wurden zunächst im Klassenverband die Wünsche nach einem frei zugänglichen Sportplatz, Treffmöglichkeiten für Jugendliche im Gemeindegebiet sowie Ideen zur Verschönerung der Schule erarbeitet. Es folgte ein World-Café, in dem alle Schülerin- nen und Schüler jede Themeninsel besuchten und weitere Ideen einbringen konnten. Zum Abschluss der Veranstaltung wurden alle Ergebnisse im Plenum vorgestellt und die Verwaltung hatte Gelegenheit, in einem direkten Austausch mit den Jugendlichen noch offene Fragen zu klären. Die ausgearbeiteten Wünsche werden im weiteren Projektverlauf von der Verwaltung in die zuständigen Ratsausschüsse zur politischen Beratung eingebracht.</p>"},"id":"2ee5ced8-e75c-4a04-b02c-b52ed35b59c0","isHidden":false,"type":"text"}],"id":"3951965a-a514-411c-aa67-f0255cc243ca","width":"1/1"}],"id":"8366bffe-29f7-48c1-bed2-7e72b580920f"}]
+
+----
+
+Date: 2023-07-10 10:05:00
+
+----
+
+Datumstartseite: 2023-11-10 10:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anke Wilken
+
+----
+
+Tags: Politik, Demokratiebildung
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Get2BiB8QK8An3sl

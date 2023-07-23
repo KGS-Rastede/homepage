@@ -1,0 +1,33 @@
+Title: Termine Zeugniskonferenzen 2023
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"https://kgs-rastede.de/media/pages/blogs/termine-zeugniskonferenzen-2023/7b2aa1d032-1685518319/2022_23-2-zeugniskonferenz-ev-sv.pdf\" rel=\"noreferrer\">Hier</a> gelangen Sie zur Übersicht über die Termine der Zeugniskonferenzen.</p>"},"id":"7571c160-a665-48d2-83f5-1f17f3b27947","isHidden":false,"type":"text"}],"id":"8593d4ce-611d-4e30-9adb-13ddd81a5edc","width":"1/1"}],"id":"857d7bbf-9624-4961-ba50-4c18615bc570"},{"attrs":[],"columns":[{"blocks":[{"content":{"lesensieauchtitel":"https://kgs-rastede.de/media/pages/blogs/termine-zeugniskonferenzen-2023/7b2aa1d032-1685518319/2022_23-2-zeugniskonferenz-ev-sv.pdf","lesensieauch":[]},"id":"f9da2732-ebdd-45b8-a3ad-0377b0462dc7","isHidden":false,"type":"lesensieauch"}],"id":"bf99bf32-3447-4b23-939b-02cc1f3aa4da","width":"1/1"}],"id":"889fdb5b-db72-408a-8601-c13b711f3948"}]
+
+----
+
+Date: 2023-05-31 09:30:00
+
+----
+
+Datumstartseite: 2023-06-29 09:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Hildegard Varelmann
+
+----
+
+Tags: 
+
+----
+
+Downloads: - file://CkHJ0NJ4OEsSoAPp
+
+----
+
+Uuid: SyJZGDXUsIjfCyAQ

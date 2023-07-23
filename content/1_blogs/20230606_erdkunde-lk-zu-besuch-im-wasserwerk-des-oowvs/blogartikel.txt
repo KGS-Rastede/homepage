@@ -1,0 +1,33 @@
+Title: Erdkunde-LK zu Besuch im Wasserwerk des OOWVs
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 01.06.2023 war der Erdkunde-LK zu Besuch im Wasserwerk des OOWVs in Nethen.<br>Dort haben wir einen Workshop zum Thema: „Wem gehört unser Wasser?“ besucht. Die Veranstalter haben den Kurs herzlich begrüßt und in der Pause zu einem Frühstück eingeladen. Bei diesem Workshop wurde der Kurs in fünf Gruppen aufgeteilt, welche mehrere Interessensgruppen eines fiktiven Dorfes „Kugelhausen“ im Norden Deutschlands vertreten haben. Bei den Gruppen handelte es sich um Landwirte, dem Regionalen Wasserwerk, zwei Bürgerinitiativen und einem Planungsbüro. Nachdem wir uns im Unterricht bei Herrn van de Rieth bereits ausgiebig auf unsere Rollen vorbereitet hatten,<br>haben wir vor Ort in zwei Runden debattiert und anschießend Lösungsansätze gesucht. Insgesamt wurde dem Kurs das Thema „Wem gehört das Wasser?“ aus mehreren Perspektiven verdeutlicht.<br>Danke an den OOWV für einen angenehmen Vormittag.</p>"},"id":"75e0272f-0bc3-418d-abba-1efb59069ae8","isHidden":false,"type":"text"}],"id":"6fe35fa4-cb56-4615-8cc4-b44e3fd5a3cb","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://4z9Pne3TLzvV7vqt"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c2e8bb54-c467-42a3-b788-5dba73b481d0","isHidden":false,"type":"image"}],"id":"2fbfe8f4-4108-4be3-a348-389a5dd04517","width":"1/2"}],"id":"92b35b89-1929-458c-b3a5-37c72b035299"}]
+
+----
+
+Date: 2023-06-06 08:50:00
+
+----
+
+Datumstartseite: 2023-10-06 08:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Andreas van de Rieth
+
+----
+
+Tags: Erdkunde, Exkursion, OOWV
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Qvl9vUXwpws1syZs
