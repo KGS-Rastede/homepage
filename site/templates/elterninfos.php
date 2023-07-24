@@ -32,17 +32,7 @@
 
           </p>
 
-
-
-          <?php if ($block->link()->toFile() || $block->link()->toPage()): ?>
-            <p><a href="<?= $block->link()->permalink() ?>">Öffnen...</a></p>
-          <?php else: ?>
-            <p><a href="<?= $block->link()->url() ?>">Webseite öffnen…</a></p>
-          <?php endif; ?>
-
-
-
-
+          <a href="<?= $block->link()->toUrl() ?>">Öffnen...</a>
 
         </div>
       </div>
