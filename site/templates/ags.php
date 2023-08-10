@@ -1,8 +1,10 @@
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
-<div class="container mb-4">
-  <h2>Aktuell angebotene Arbeitsgemeinschaften</h2>
+<?php snippet('sidebar') ?>
+
+<div class="container mb-4 mt-4">
+  <h3 class="mb-3">Arbeitsgemeinschaften im Schuljahr <?= Escape::html($page->termYear()) ?></h3>
 
   <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
     <?php foreach ($page->children() as $arbeitsgemeinschaft): ?>
@@ -22,11 +24,11 @@
   </div>
 </div>
 
-<?php snippet('sidebar') ?>
+<div class="container mb-4 mt-5"><?= $page->more_text()->toBlocks() ?></div>
 
-<div class="container">
+<div class="container mb-4 mt-4">
 
-  <h2>Berichte aus den Arbeitsgemeinschaften</h2>
+  <h3 class="mb-3">Berichte aus den Arbeitsgemeinschaften</h3>
 
   <?php
   foreach (page('blogs')
