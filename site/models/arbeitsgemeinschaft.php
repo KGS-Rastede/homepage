@@ -82,7 +82,7 @@ class StudyGroupImage
 
 class ArbeitsgemeinschaftPage extends Page
 {
-  public function images() : Files
+  public function images() : \Kirby\Cms\Files
   {
     if ($this->content->image_url()->isEmpty()) return parent::images();
 
