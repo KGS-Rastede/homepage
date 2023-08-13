@@ -54,6 +54,11 @@ class AgsPage extends Page
     return Pages::factory($pages, $this);
   }
 
+  public function termYear() : String
+  {
+    return $this->studyGroupsData()['current_term_year'];
+  }
+
   private function studyGroupsData()
   {
     if ($this->hasCachedStudyGroupsData() && !$this->hasStaleCachedStudyGroupsData()) {
