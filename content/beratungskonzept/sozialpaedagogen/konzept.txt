@@ -6,8 +6,12 @@ Heading:
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["sozialp.png"],"src":"","alt":"","caption":"Frau Hannawald Keller und Herr Pernt","link":"","ratio":"","crop":"false"},"id":"d7ddb63c-9901-4244-b707-53cd6bb6d6a8","isHidden":false,"type":"image"},{"content":{"text":"<p>Habt ihr Schwierigkeiten mit Freund:innen, Lehrer:innen oder andere Probleme? Braucht ihr einfach nur mal jemanden zum Sprechen? Dann kommt in den Pausen direkt zu unseren B\u00fcros oder schreibt uns eine E-Mail.<\/p>"},"id":"a7585a9d-d168-4072-be0b-7ffd8ef1085f","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir beide sind f\u00fcr euch ansprechbar! Ganz gleich, in welchem Geb\u00e4ude ihr euch haupts\u00e4chlich aufhaltet!<\/p>"},"id":"01e59f33-b5fd-4881-bf47-c119e0cb823e","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Manuela Hannawald-Keller, hwk@kgs-rastede.eu<\/strong><\/p><p>Wilhelmstr. 5, Raum 193.2<\/p><p>04402 9264-34<\/p><p><\/p><p><strong>Tobias Pernt, pt@kgs-rastede.eu<\/strong><\/p><p>Feldbreite 16, Raum 28<\/p><p>04402 9265-15<\/p>"},"id":"890dcca2-35db-4306-a900-9bb776867cb0","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"\u00dcbrigens! Zur Geheimhaltung der Gespr\u00e4che sind wir verpflichtet!"},"id":"7513dda6-3794-42dc-a1b5-fc4e4d25d545","isHidden":false,"type":"heading"}]
+Text: [{"content":{"location":"kirby","image":["file://HSEwmOzW6FqIfaEh"],"src":"","alt":"","caption":"Frau Hannawald und Herr Pernt","link":"","ratio":"","crop":"false","orientation":""},"id":"d7ddb63c-9901-4244-b707-53cd6bb6d6a8","isHidden":false,"type":"image"},{"content":{"text":"<p>Habt ihr Schwierigkeiten mit Freund:innen, Lehrer:innen oder andere Probleme? Braucht ihr einfach nur mal jemanden zum Sprechen? Dann kommt in den Pausen direkt zu unseren Büros oder schreibt uns eine E-Mail.</p>"},"id":"a7585a9d-d168-4072-be0b-7ffd8ef1085f","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir beide sind für euch ansprechbar! Ganz gleich, in welchem Gebäude ihr euch hauptsächlich aufhaltet!</p>"},"id":"01e59f33-b5fd-4881-bf47-c119e0cb823e","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Manuela Hannawald, hw@kgs-rastede.eu</strong></p><p>Wilhelmstr. 5, Raum B042</p><p>04402 9264-34</p><p></p><p><strong>Tobias Pernt, pt@kgs-rastede.eu</strong></p><p>Feldbreite 16, Raum 28</p><p>04402 9265-15</p>"},"id":"890dcca2-35db-4306-a900-9bb776867cb0","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Übrigens! Zur Geheimhaltung der Gespräche sind wir verpflichtet!"},"id":"7513dda6-3794-42dc-a1b5-fc4e4d25d545","isHidden":false,"type":"heading"}]
 
 ----
 
 Downloads: 
+
+----
+
+Uuid: fMINwIEKTcwFhkMc
