@@ -165,10 +165,13 @@ echo ($features);
         
         function addLayerForFloor(level) {
             map.addLayer({
-                'id': `room_extrusion_floor_${level}`,
+                'id': `floor_extrusion_${level}`,
                 'type': 'fill-extrusion',
                 'source': 'floorplan',
-                'filter': ['==', 'level', level],
+                'filter': ['all',
+                    ['==', 'indoor', 'level'],
+                    ['==', 'level', level], 
+                ],
                 'paint': {
                     'fill-extrusion-color': ['get', 'color'],
                     'fill-extrusion-height': ['get', 'hight'],
@@ -181,6 +184,56 @@ echo ($features);
         addLayerForFloor('0');
         addLayerForFloor('1');
         addLayerForFloor('2');
+
+        function addLayerForHalls(level) {
+            map.addLayer({
+                'id': `hall_extrusion_${level}`,
+                'type': 'fill-extrusion',
+                'source': 'floorplan',
+                'filter': ['all',
+                    ['!=', 'indoor', 'level'],
+                    ['==', 'level', level], 
+                    ['any',
+                        ['!=', 'room', 'stairs'],
+                        ['!=', 'room', 'lobby']
+                    ]
+                ],
+                'paint': {
+                    'fill-extrusion-color': ['get', 'color'],
+                    'fill-extrusion-height': ['get', 'hight'],
+                    'fill-extrusion-base': ['get', 'base_height'],
+                    'fill-extrusion-opacity': 0.5
+                }
+            });
+        }
+        addLayerForHalls('-1');
+        addLayerForHalls('0');
+        addLayerForHalls('1');
+        addLayerForHalls('2');
+
+        function addLayerForRooms(level) {
+            map.addLayer({
+                'id': `room_extrusion_${level}`,
+                'type': 'fill-extrusion',
+                'source': 'floorplan',
+                'filter': ['all',
+                    ['!=', 'indoor', 'level'],
+                    ['==', 'level', level], 
+                    ['!=', 'room', 'stairs'],
+                    ['!=', 'room', 'lobby'],
+                ],
+                'paint': {
+                    'fill-extrusion-color': ['get', 'color'],
+                    'fill-extrusion-height': ['get', 'hight'],
+                    'fill-extrusion-base': ['get', 'base_height'],
+                    'fill-extrusion-opacity': 0.5
+                }
+            });
+        }
+        addLayerForRooms('-1');
+        addLayerForRooms('0');
+        addLayerForRooms('1');
+        addLayerForRooms('2');
 
         function addLayerRoomnumbers(level){
             map.addLayer({
@@ -229,8 +282,14 @@ echo ($features);
 
         //Höhe auf 0 setzen
         levels.forEach((level) => {
-                map.setPaintProperty(`room_extrusion_floor_${level}`, 'fill-extrusion-height', 0);
-                map.setPaintProperty(`room_extrusion_floor_${level}`, 'fill-extrusion-base', 0);
+                map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-height', 0);
+                map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-base', 0);
+
+                map.setPaintProperty(`hall_extrusion_${level}`, 'fill-extrusion-height', 0.01);
+                map.setPaintProperty(`hall_extrusion_${level}`, 'fill-extrusion-base', 0.01);
+
+                map.setPaintProperty(`room_extrusion_${level}`, 'fill-extrusion-height', 0.01);
+                map.setPaintProperty(`room_extrusion_${level}`, 'fill-extrusion-base', 0.01);
         });
     });
 
@@ -245,8 +304,14 @@ echo ($features);
 
         //Höhe auf auf 3d setzen
         levels.forEach((level) => {
-            map.setPaintProperty(`room_extrusion_floor_${level}`, 'fill-extrusion-height', ['get', 'hight']);
-            map.setPaintProperty(`room_extrusion_floor_${level}`, 'fill-extrusion-base', ['get', 'base_height']);
+            map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-height', ['get', 'hight']);
+            map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-base', ['get', 'base_height']);
+
+            map.setPaintProperty(`hall_extrusion_${level}`, 'fill-extrusion-height', ['get', 'hight']);
+            map.setPaintProperty(`hall_extrusion_${level}`, 'fill-extrusion-base', ['get', 'base_height']);
+
+            map.setPaintProperty(`room_extrusion_${level}`, 'fill-extrusion-height', ['get', 'hight']);
+            map.setPaintProperty(`room_extrusion_${level}`, 'fill-extrusion-base', ['get', 'base_height']);
 
         });
     });
@@ -271,7 +336,9 @@ echo ($features);
 
         // Filter setzen
         levels.forEach((level) => {
-                map.setFilter(`room_extrusion_floor_${level}`, ['==', 'level', floor === level ? level : '-2']); 
+            map.setLayoutProperty(`floor_extrusion_${level}`, 'visibility', floor === level ? 'visible' : 'none');
+            map.setLayoutProperty(`hall_extrusion_${level}`, 'visibility', floor === level ? 'visible' : 'none');
+            map.setLayoutProperty(`room_extrusion_${level}`, 'visibility', floor === level ? 'visible' : 'none');
         });
     }
 
