@@ -1,0 +1,33 @@
+Title: AG-Wahl. Noch bis Donnerstag möglich!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://F5gMBVBHzj1htIQi"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"1023af24-f4b6-4de3-b1a1-633d857a8c52","isHidden":false,"type":"image"}],"id":"5304cc23-70f2-49e3-b14c-7387a88b9b58","width":"1/1"}],"id":"5f772d00-db1a-4159-902e-141c3a45c063"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Neben unserem bekannten AG-Angebot gibt es auch neue Arbeitsgemeinschaften. Schau mal rein!</p><p>Wo möchtest du mitmachen? Bis Donnerstag hast du die Wahl!</p><p>Hier geht's zum <a href=\"https://ag-wahl.kgsraste.de/login\" rel=\"noreferrer\">Wahlportal</a>.</p>"},"id":"d8556d53-129b-42ef-8dbd-e8180fbe0ae6","isHidden":false,"type":"text"}],"id":"4c0b5a07-19b9-452d-8f44-219467952e10","width":"1/1"}],"id":"c71b74cc-d853-4020-8312-72d855141b42"}]
+
+----
+
+Date: 2023-08-20 16:45:00
+
+----
+
+Datumstartseite: 2023-12-20 16:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Arbeitsgemeinschaften
+
+----
+
+Downloads: 
+
+----
+
+Uuid: IH5JlRYlOvPRLPKb

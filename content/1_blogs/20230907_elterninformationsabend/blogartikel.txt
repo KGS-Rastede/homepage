@@ -1,0 +1,33 @@
+Title: Digitale Welten. Was nutzt Ihr Kind? Elterninformationsabend
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://n4wgnb7GuRn8p9Oa"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"94adf1f6-e9ac-40cf-94f3-23199357c8f3","isHidden":false,"type":"image"}],"id":"44295ccd-51d7-4403-bfb9-a999d7e6cbf8","width":"1/1"}],"id":"3d3aefbb-1fb9-4418-ad83-0f480d01531f"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Wir laden herzlich ein zu zwei Informationsabenden."},"id":"dd8d88fa-0880-48dc-8f6d-44bbc5a64229","isHidden":false,"type":"heading"}],"id":"feb9d32e-a2b3-42d0-ad32-281c19c0837c","width":"1/1"}],"id":"929a1cfe-625e-42fd-b436-c3cb23fe0e30"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>21.09.2023, Thema: Smartphone</strong></p><p><strong>28.09.2023, Thema: Soziale Netzwerke</strong></p><p>jeweils 19:00 Uhr</p><p>Ort: Neue Aula der KGS Rastede</p><p>Eine Anmeldung ist nicht erforderlich.</p><p>„Digitale Welten – Was nutzt Ihr Kind?“ ist ein Projekt des Niedersächsischen Sozialministeriums und der Niedersächsischen Landesmedienanstalt in Kooperation mit der Landesstelle Jugendschutz Niedersachsen in Zusammenarbeit mit Blickwechsel e.V. und für alle Eltern von Bedeutung, deren Kind digitale Medien nutzt.</p>"},"id":"091086ce-65fe-4083-924a-9c494fdc223d","isHidden":false,"type":"text"}],"id":"c125a526-67dc-4d15-a1fa-74e2c2f1667b","width":"1/1"}],"id":"c7d4eb63-9689-4bee-b884-3da32d495822"}]
+
+----
+
+Date: 2023-09-07 09:50:00
+
+----
+
+Datumstartseite: 2024-01-07 09:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: OIRa7eGqn8vy4t6x

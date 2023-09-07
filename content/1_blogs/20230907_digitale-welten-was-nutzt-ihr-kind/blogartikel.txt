@@ -1,0 +1,33 @@
+Title: Digitale Welten. Was nutzt Ihr Kind?
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://WweMfuiGKeRnBlNY"],"src":"","alt":"","caption":"","link":"https://kgs-rastede.de/blogs/elterninformationsabend","ratio":"","crop":"false","orientation":""},"id":"089b9b03-11f6-4d87-b9e1-8e89a4350011","isHidden":false,"type":"image"}],"id":"b351e5f3-6b8c-41e7-bf1d-66ef00fbfe51","width":"1/1"}],"id":"b78feef4-5e97-4813-8281-e57b94f9b8cd"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>21.09.2023, Thema: Smartphone</strong></p><p><strong>28.09.2023, Thema: Soziale Netzwerke</strong></p><p>jeweils 19:00 Uhr</p><p>Ort: Neue Aula der KGS Rastede</p><p>Eine Anmeldung ist nicht erforderlich.</p><p>„Digitale Welten – Was nutzt Ihr Kind?“ ist ein Projekt des Niedersächsischen Sozialministeriums und der Niedersächsischen Landesmedienanstalt in Kooperation mit der Landesstelle Jugendschutz Niedersachsen in Zusammenarbeit mit Blickwechsel e.V. und für alle Eltern von Bedeutung, deren Kind digitale Medien nutzt.</p>"},"id":"057b96c0-666a-47aa-a656-8ca32a0d677c","isHidden":false,"type":"text"}],"id":"a94db9d3-ce55-45bd-ad1d-8ffd06bff034","width":"1/1"}],"id":"7cce1888-e912-439a-bce1-9a17f002dc13"}]
+
+----
+
+Date: 2023-09-07 10:05:00
+
+----
+
+Datumstartseite: 2024-01-07 10:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Medien
+
+----
+
+Downloads: 
+
+----
+
+Uuid: X6mWDSWtkC2jx5nj
