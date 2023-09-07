@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=8.1",
-        "getkirby/cms": ">=4.0-alpha5",
+        "getkirby/cms": ">=4.0-beta1",
         "pju/kirby-webhook-field": "^1.1",
         "twbs/bootstrap": ">=v5.3",
         "ragi96/table-field": "^1.1"
