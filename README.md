@@ -5,7 +5,7 @@ Kirby ist soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann k�
 
 + [composer](https://getcomposer.org/download/)
 + WebServer (WAMP, LAMP, XAMPP, etc) oder falls [VS Code](https://code.visualstudio.com/) benutzt wird, die Extension [PHP-Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
-+ PHP 8 (mindestens PHP 8.0)
++ PHP 8 (mindestens PHP 8.1)
 + [git](https://git-scm.com/downloads)
 + Ein Editor wie Visual Studio Code
 
@@ -18,7 +18,7 @@ git clone https://gitlab.com/cniehaus/homepage
 cd homepage
 ```
 
-Anschließend müsst ihr euch in git einloggen (mit --global werden diese Login Daten für alle Git Projekte gespeichert).
+Anschließend müsst ihr in Git konfigurieren (mit --global werden diese Login Daten für alle Git Projekte gespeichert).
 ```console	
 git config --global user.name "Max Mustermann"
 git config --global user.email "max@mustermann.de"
@@ -46,7 +46,7 @@ Kein Problem! Wir können uns entweder mal (z.B. in einer Mittagspause) treffen 
 ## Sinnvolle Software
 ### Editor
 * Als Editor eignet sich [VS Code](https://code.visualstudio.com/).
-* Unter Linux verwende ich schon immer [Vim](https://www.vim.org/), ein besserer Editor kann kaum existieren :-)
+* Unter Linux verwende ich schon immer [Vim](https://www.vim.org/), ein besserer Editor kann kaum existieren :-) Mit NeoVim exisitiert eine Variante, die etwas moderner ist.
 * Zurecht schwören viele auf [Sublime](https://www.sublimetext.com/)
 * [Notepad++](https://notepad-plus-plus.org/) ist ein einfacher zu beherschender Editor, der auf jeden Fall auch ok ist. 
 
@@ -57,21 +57,15 @@ Um den Quellcode zu verwalten braucht man [Git](https://git-scm.com/). Das kann 
 Nginx ist heutzutage von vielen bevorzugt. Apache ist natürlich genauso gut. Wir brauchen *keinen MySQL-Server* (oder irgendeinen anderen Datenbankserver), denn Kirby nutzt intern kein SQL.
 
 ## Windows
-Windows ist sicherlich nicht direkt für Entwickler erstellt worden, ich habe fast 20 Jahre nur unter Linux programmiert. Mittlerweile ist aber Git auch unter Windows gut unterstützt und auch die WebServer laufen ganz gut. 
+Windows ist sicherlich nicht direkt für Entwickler erstellt worden. Mittlerweile ist aber Git auch unter Windows gut unterstützt und auch die WebServer laufen ganz gut. 
 Ich verwende [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/). Im Wesentlichen muss man dann alles installieren (MySQL gerne weglassen).
 
-Wenn [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/) bereits installiert sein solte, aber noch auf einer Älteren PHP Version läuft, kann man dies ganz einfach wie [HIER](http://blog.astemplates.com/change-php-version-wamp/) beschrieben auf PHP 7.4.0 ändern. 
-
 ## PHP (muss eigentlich nicht direkt installiert werden, kommt mit dem Webserver)
-Kirby setzt technisch gesehen PHP8 voraus. Die echte Homepage läuft schon auf PHP 8.1.
+Kirby setzt technisch gesehen PHP8 voraus. Die echte Homepage läuft schon auf PHP 8.2.
 
 Man muss PHP aber nicht direkt installieren, denn PHP kommt als Teil vom Wamp64 mit.
 
 Gegebenfalls muss man aber noch den Pfad ("PATH") unter Windows einrichten. Das folgende Video zeigt, wie das geht. Der korrekte Pfad ist bei meiner Installation:
-
-```
-C:\wamp64\bin\php\php8.1.1
-```
 
 Über den folgenden Link kann das Video aufgerufen werden: https://youtu.be/83SccoBYSfA?t=80
 
@@ -83,6 +77,8 @@ Die  Homepage wird mit Git verwaltet werden. Jeder, der mitmachen möchte, sollt
 
 # CSS
 Wir müssen natürlich CSS verwenden. [Bootstrap](https://getbootstrap.com/) ist ein sinnvolles, bekanntes System.
-Wir haben uns daher für Bootstrap 5 entschieden. Gute Dokumentation, Anleitungen ohne Ende... Alternativen wie TailwindCSS kommen erstmal nicht in Betracht, vielleicht auf Dauer.
+Wir haben uns daher für Bootstrap 5 entschieden. Gute Dokumentation, Anleitungen ohne Ende... 
+
+Wir testen zur Zeit, ob TailwindCSS in Betracht kommt, es existiert ein Git-branch, wo die Homepage bereits portiert wurde.
 
 
