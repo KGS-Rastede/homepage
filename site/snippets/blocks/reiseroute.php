@@ -375,55 +375,42 @@
         });
     }
 
-    //Suchfunktion
-    function forwardGeocoder(query) {
-        const matchingFeatures = [];
-        for (const feature of customData.features) {
-            // Handle queries with different capitalization
-            // than the source data by calling toLowerCase().
-            if (
-            feature.properties.title
-            .toLowerCase()
-            .includes(query.toLowerCase())
-            ) {
-                // Add a tree emoji as a prefix for custom
-                // data results using carmen geojson format:
-                // https://github.com/mapbox/carmen/blob/master/carmen-geojson.md
-                feature['place_name'] = `🌲 ${feature.properties.title}`;
-                feature['center'] = feature.geometry.coordinates;
-                feature['place_type'] = ['park'];
-                matchingFeatures.push(feature);
-            }
-        }
-        return matchingFeatures;
-    }
+    // Suche nach Raum beim Klicken auf die Schaltfläche
+    document.getElementById('search-button').addEventListener('click', function () {
+        const searchTerm = document.getElementById('search-input').value;
 
-// Suche nach Raum beim Klicken auf die Schaltfläche
-document.getElementById('search-button').addEventListener('click', function () {
-    const searchTerm = document.getElementById('search-input').value;
+        // Iteriere durch die Ebenen (levels)
+        levels.forEach((level) => {
+            const roomLayerId = `room_extrusion_${level}`;
 
-    // Iteriere durch die Ebenen (levels)
-    levels.forEach((level) => {
-        const roomLayerId = `room_extrusion_${level}`;
+            // Überprüfe, ob die Ebene (roomLayerId) existiert
+            if (map.getLayer(roomLayerId)) {
 
-        // Überprüfe, ob die Ebene (roomLayerId) existiert
-        if (map.getLayer(roomLayerId)) {
-            if (map.getPaintProperty(roomLayerId, 'fill-extrusion-opacity')) {
+                // Setze die Deckkraft und Farbe für alle Räume
                 map.setPaintProperty(roomLayerId, 'fill-extrusion-opacity', 0.3);
+                map.setPaintProperty(roomLayerId, 'fill-extrusion-color', 'gray');
+
+                // Erstelle eine zusätzliche Ebene für den gesuchten Raum
+                const searchedRoomLayerId = `${roomLayerId}_searched`;
+                if (map.getLayer(searchedRoomLayerId)) {
+                    map.removeLayer(searchedRoomLayerId);
+                }
+                map.addLayer({
+                    'id': searchedRoomLayerId,
+                    'type': 'fill-extrusion',
+                    'source': "floorplan",
+                    'layout': {},
+                    'paint': {
+                        'fill-extrusion-color': 'red',
+                        'fill-extrusion-height': ['get', 'height'],
+                        'fill-extrusion-base': ['get', 'base_height'],
+                        'fill-extrusion-opacity': 1.0
+                    },
+                    'filter': ['==', ['get', 'name'], searchTerm]
+                }, roomLayerId);
             }
-
-            map.setPaintProperty(roomLayerId, 'fill-extrusion-color', [
-                'match',
-                ['get', 'name'], // Die Eigenschaft 'name' aus dem GeoJSON-Feature abrufen
-                searchTerm, // Der gesuchte Raumname
-                'red', // Neue Farbe, wenn der Raumname übereinstimmt
-                'gray' // Standardfarbe für Räume, die nicht übereinstimmen
-            ]);
-
-        }
+        });
     });
-});
-
 
 
 
