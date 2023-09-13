@@ -405,23 +405,27 @@ document.getElementById('search-button').addEventListener('click', function () {
     // Iteriere durch die Ebenen (levels)
     levels.forEach((level) => {
         const roomLayerId = `room_extrusion_${level}`;
-        
+
         // Überprüfe, ob die Ebene (roomLayerId) existiert
         if (map.getLayer(roomLayerId)) {
-            // Aktualisiere die Farbe der Raumebene basierend auf dem gesuchten Raum (searchTerm)
-            map.setPaintProperty(roomLayerId, 'fill-extrusion-color', ['case',
-                ['==', ['get', 'name'], searchTerm], 'red', // Raum gefunden, rot
-                'gray' // Alle anderen Räume, 50% Transparenz in Grau
+            if (map.getPaintProperty(roomLayerId, 'fill-extrusion-opacity')) {
+                map.setPaintProperty(roomLayerId, 'fill-extrusion-opacity', 0.3);
+            }
+
+            map.setPaintProperty(roomLayerId, 'fill-extrusion-color', [
+                'match',
+                ['get', 'name'], // Die Eigenschaft 'name' aus dem GeoJSON-Feature abrufen
+                searchTerm, // Der gesuchte Raumname
+                'red', // Neue Farbe, wenn der Raumname übereinstimmt
+                'gray' // Standardfarbe für Räume, die nicht übereinstimmen
             ]);
-            
-            // Setze die Transparenz der Raumebene basierend auf dem gesuchten Raum (searchTerm)
-            map.setPaintProperty(roomLayerId, 'fill-extrusion-opacity', ['case',
-                ['==', ['get', 'name'], searchTerm], 1, // Raum gefunden, volle Transparenz
-                0.2 // Alle anderen Räume, 20% Transparenz
-            ]);
+
         }
     });
 });
+
+
+
 
 
 </script>
