@@ -1139,7 +1139,7 @@
       "properties": {
         "@id": "way/1206597533",
         "base_height": 1.5,
-        "color": "pink",
+        "color": "#f7afb9",
         "height": 4.5,
         "indoor": "room",
         "level": "0",
@@ -3062,7 +3062,7 @@
       "properties": {
         "@id": "way/1206597601",
         "base_height": 1.5,
-        "color": "#2971b9",
+        "color": "blue",
         "height": 4.5,
         "indoor": "corridor",
         "level": "0",
@@ -3182,7 +3182,7 @@
       "properties": {
         "@id": "way/1206597602",
         "base_height": 1.5,
-        "color": "#2971b9",
+        "color": "blue",
         "height": 4.5,
         "indoor": "corridor",
         "level": "0",
