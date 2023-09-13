@@ -230,7 +230,7 @@ echo ($features);
                     'fill-extrusion-color': ['get', 'color'],
                     'fill-extrusion-height': ['get', 'height'],
                     'fill-extrusion-base': ['get', 'base_height'],
-                    'fill-extrusion-opacity': 0.4
+                    'fill-extrusion-opacity': 0.2
                 }
             });
         }
@@ -256,6 +256,7 @@ echo ($features);
                     'fill-extrusion-color': ['get', 'color'],
                     'fill-extrusion-height': ['get', 'height'],
                     'fill-extrusion-base': ['get', 'base_height'],
+
                     'fill-extrusion-opacity': 1
                 }
             });
@@ -287,6 +288,30 @@ echo ($features);
         addLayerRoomnumbers('1');
         addLayerRoomnumbers('2');
 
+        function addWalls(level){
+            map.addLayer({
+                'id': `room_walls_${level}`,
+                'type': 'line',
+                'source': 'floorplan',
+                'filter': ['all',
+                    ['==', 'level', level], 
+                    ['==', 'indoor', 'room'],
+                ],
+                'layout': {
+                'line-join': 'round',
+                'line-cap': 'round'
+                },
+                'paint': {
+                'line-color': '#888',
+                'line-width': 3
+                }
+            });
+        }
+        addWalls('-1');
+        addWalls('0');
+        addWalls('1');
+        addWalls('2');
+
         raumnummernVerstecken();
     });
 
@@ -294,6 +319,7 @@ echo ($features);
             // Raumnummern für alle Etagen verstecken
             levels.forEach((level) => {
                 map.setLayoutProperty(`room_labels_floor_${level}`, 'visibility', 'none');
+                map.setLayoutProperty(`room_walls_${level}`, 'visibility', 'none');
             });
     }
 
@@ -324,7 +350,7 @@ echo ($features);
                 map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-height', 0.01);
                 map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-base', 0.01);
         });
-        
+
         toggleFloor(); 
 
     });
@@ -378,6 +404,7 @@ echo ($features);
             map.setLayoutProperty(`hall_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
             map.setLayoutProperty(`room_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
             map.setLayoutProperty(`stair_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
+            map.setLayoutProperty(`room_walls_${level}`, 'visibility', etage === level ? 'visible' : 'none');
         });
     }
 
@@ -394,7 +421,7 @@ echo ($features);
 
                 // Setze die Deckkraft und Farbe für alle Räume
                 map.setPaintProperty(roomLayerId, 'fill-extrusion-opacity', 0.3);
-                map.setPaintProperty(roomLayerId, 'fill-extrusion-color', 'gray');
+                //map.setPaintProperty(roomLayerId, 'fill-extrusion-color', 'gray'); 
 
                 // Erstelle eine zusätzliche Ebene für den gesuchten Raum
                 const searchedRoomLayerId = `${roomLayerId}_searched`;
@@ -417,8 +444,6 @@ echo ($features);
             }
         });
     });
-
-
 
 
 </script>
