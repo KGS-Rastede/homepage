@@ -404,6 +404,8 @@ echo ($features);
             map.setLayoutProperty(`room_labels_floor_${etage}`, 'visibility', 'visible');
             levels.forEach((level) => {
                 map.setLayoutProperty(`room_walls_${level}`, 'visibility', etage === level ? 'visible' : 'none');
+                map.setPaintProperty(`room_extrusion_${level}_searched`, 'fill-extrusion-height', 0.01);
+                map.setPaintProperty(`room_extrusion_${level}_searched`, 'fill-extrusion-base', 0.01);
             });
         }
 
@@ -452,6 +454,8 @@ echo ($features);
                 }, roomLayerId);
             }
         });
+
+        toggleFloor(); 
     });
 
 
