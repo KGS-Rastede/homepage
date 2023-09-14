@@ -172,7 +172,7 @@
                     ['==', 'level', level], 
                 ],
                 'paint': {
-                    'fill-extrusion-color': ['get', 'color'],
+                    'fill-extrusion-color': ['get', 'colour'],
                     'fill-extrusion-height': ['get', 'height'],
                     'fill-extrusion-base': ['get', 'base_height'],
                     'fill-extrusion-opacity': 0.5
@@ -201,7 +201,7 @@
                     ]
                 ],
                 'paint': {
-                    'fill-extrusion-color': ['get', 'color'],
+                    'fill-extrusion-color': ['get', 'colour'],
                     'fill-extrusion-height': ['get', 'base_height'],
                     'fill-extrusion-base': ['get', 'base_height'],
                     'fill-extrusion-opacity': 1
@@ -224,7 +224,7 @@
                     ['==', 'room', 'stairs'],
                 ],
                 'paint': {
-                    'fill-extrusion-color': ['get', 'color'],
+                    'fill-extrusion-color': ['get', 'colour'],
                     'fill-extrusion-height': ['get', 'height'],
                     'fill-extrusion-base': ['get', 'base_height'],
                     'fill-extrusion-opacity': 0.2
@@ -250,7 +250,7 @@
                     ['!=', 'name', 'B020']
                 ],
                 'paint': {
-                    'fill-extrusion-color': ['get', 'color'],
+                    'fill-extrusion-color': ['get', 'colour'],
                     'fill-extrusion-height': ['get', 'height'],
                     'fill-extrusion-base': ['get', 'base_height'],
 
