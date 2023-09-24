@@ -138,6 +138,7 @@
     const levels = ['-1','0', '1', '2'];
     let twoD = false;
     let etage = '0';
+    var searchTerm;
 
     map.setStyle('mapbox://styles/mapbox/outdoors-v12');
 
@@ -193,12 +194,7 @@
                 'source': 'floorplan',
                 'filter': ['all',
                     ['!=', 'indoor', 'level'],
-                    ['==', 'level', level], 
-                    ['any',
-                        ['==', 'room', 'lobby'],
-                        ['==', 'indoor', 'corridor'],
-                        ['==', 'name', 'B020']
-                    ]
+                    ['==', 'level', level]
                 ],
                 'paint': {
                     'fill-extrusion-color': ['get', 'colour'],
@@ -227,7 +223,7 @@
                     'fill-extrusion-color': ['get', 'colour'],
                     'fill-extrusion-height': ['get', 'height'],
                     'fill-extrusion-base': ['get', 'base_height'],
-                    'fill-extrusion-opacity': 0.2
+                    'fill-extrusion-opacity': 1
                 }
             });
         }
@@ -299,7 +295,7 @@
                 'line-cap': 'round'
                 },
                 'paint': {
-                'line-color': '#777',
+                'line-color': '#222',
                 'line-width': 3
                 }
             });
@@ -347,8 +343,8 @@
                 map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-height', 0.01);
                 map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-base', 0.01);
 
-                map.setPaintProperty(`room_extrusion_${level}_searched`, 'fill-extrusion-height', 0.01);
-                map.setPaintProperty(`room_extrusion_${level}_searched`, 'fill-extrusion-base', 0.01);
+                map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
+                map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
         });
 
         toggleFloor(); 
@@ -378,8 +374,8 @@
             map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-height', ['get', 'height']);
             map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-base', ['get', 'base_height']);
 
-            map.setPaintProperty(`room_extrusion_${level}_searched`, 'fill-extrusion-height', ['get', 'height']);
-            map.setPaintProperty(`room_extrusion_${level}_searched`, 'fill-extrusion-base', ['get', 'base_height']);
+            map.setPaintProperty(`room_searched`, 'fill-extrusion-height', ['get', 'height']);
+            map.setPaintProperty(`room_searched`, 'fill-extrusion-base', ['get', 'base_height']);
         });
     });
 
@@ -412,60 +408,149 @@
             map.setLayoutProperty(`room_labels_floor_${etage}`, 'visibility', 'visible');
             levels.forEach((level) => {
                 map.setLayoutProperty(`room_walls_${level}`, 'visibility', etage === level ? 'visible' : 'none');
-                map.setPaintProperty(`room_extrusion_${level}_searched`, 'fill-extrusion-height', 0.01);
-                map.setPaintProperty(`room_extrusion_${level}_searched`, 'fill-extrusion-base', 0.01);
+                map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
+                map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
             });
         }
 
         // Filter setzen
         levels.forEach((level) => {
-            map.setLayoutProperty(`floor_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
+            //map.setLayoutProperty(`floor_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
             map.setLayoutProperty(`hall_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
             map.setLayoutProperty(`room_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
             map.setLayoutProperty(`stair_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
         });
+        var features = map.querySourceFeatures('floorplan', { sourceLayer: 'room_searched' });
+        if (features.length > 0) {
+            for (var i = 0; i < features.length; i++) {
+                var feature = features[i];
+                if(searchTerm && feature.properties.name == searchTerm){
+                    map.setLayoutProperty(`room_searched`, 'visibility', feature.properties.level === etage ? 'visible' : 'none');
+                }
+            }
+        }
+
+        
     }
 
-    // Raumsuche Knopf
-    document.getElementById('search-button').addEventListener('click', function () {   
-        
-        const searchTerm = document.getElementById('search-input').value;
+// Raumsuche Knopf
+document.getElementById('search-button').addEventListener('click', function (evt) {
+    searchTerm = document.getElementById('search-input').value;
+    var roomFound = false;
+    var etageChanged = false; // Variable zur Verfolgung des Etagenwechsels bei Raumsuche
 
-        // Iteriere durch die Ebenen (levels)
-        levels.forEach((level) => {
-            const roomLayerId = `room_extrusion_${level}`;
+    // Iteriere durch die Ebenen (levels)
+    levels.forEach((level) => {
+        const roomLayerId = `room_extrusion_${level}`;
 
-            // Überprüfe, ob die Ebene (roomLayerId) existiert
-            if (map.getLayer(roomLayerId)) {
+        map.setPaintProperty(roomLayerId, 'fill-extrusion-opacity', 1);
 
-                // Setze die Deckkraft und Farbe für alle Räume
-                map.setPaintProperty(roomLayerId, 'fill-extrusion-opacity', 0.3);
-                //map.setPaintProperty(roomLayerId, 'fill-extrusion-color', 'gray'); 
+        // Überprüfe, ob die Ebene (roomLayerId) existiert
+        if (map.getLayer(roomLayerId)) {
+            var features = map.querySourceFeatures('floorplan', { sourceLayer: roomLayerId });
 
-                // Erstelle eine zusätzliche Ebene für den gesuchten Raum
-                const searchedRoomLayerId = `${roomLayerId}_searched`;
-                if (map.getLayer(searchedRoomLayerId)) {
-                    map.removeLayer(searchedRoomLayerId);
+            if (features.length > 0) {
+                roomFound = true;
+
+                // Entferne die "room_searched"-Ebene, falls sie existiert
+                if (map.getLayer('room_searched')) {
+                    map.removeLayer('room_searched');
                 }
-                map.addLayer({
-                    'id': searchedRoomLayerId,
-                    'type': 'fill-extrusion',
-                    'source': "floorplan",
-                    'layout': {},
-                    'paint': {
-                        'fill-extrusion-color': 'red',
-                        'fill-extrusion-height': ['get', 'height'],
-                        'fill-extrusion-base': ['get', 'base_height'],
-                        'fill-extrusion-opacity': 1.0
-                    },
-                    'filter': ['==', ['get', 'name'], searchTerm]
-                }, roomLayerId);
-            }
-        });
+                for (var i = 0; i < features.length; i++) {
+                    var feature = features[i];
+                    if (feature.properties.name == searchTerm) {
+                        // Setze das Level des gefundenen Raums in der Layer "room_searched"
+                        //var roomSearchedLevel = level;
 
-        toggleFloor(); 
+                        // Erstelle die zusätzliche Ebene für den gesuchten Raum
+                        map.addLayer({
+                            'id': 'room_searched',
+                            'type': 'fill-extrusion',
+                            'source': 'floorplan',
+                            'layout': {},
+                            'paint': {
+                                'fill-extrusion-color': 'red',
+                                'fill-extrusion-height': ['get', 'height'],
+                                'fill-extrusion-base': ['get', 'base_height'],
+                                'fill-extrusion-opacity': 1.0
+                            },
+                            'filter': ['==', 'name', searchTerm]
+                        }, roomLayerId);
+
+                        // Jetzt kannst du roomSearchedLevel verwenden, um damit zu arbeiten
+                        //console.log(`Das Level des gesuchten Raums '${searchTerm}' ist ${roomSearchedLevel}.`);
+
+                        roomFound = true;
+                        break; // Du kannst die Schleife beenden, da der Raum gefunden wurde
+                    }
+                
+                }
+
+                // Die Etage, in der der gesuchte Raum angezeigt wird (sobald der gesuchte Raum gefunden/erstellt wurde)
+                map.on('data', function (e) {
+                    if (e.dataType === 'source' && e.sourceId === 'floorplan' && e.isSourceLoaded && roomFound) {
+                        // Die Datenquelle 'floorplan' wurde vollständig geladen
+                        // Jetzt können wir die Aktionen ausführen
+
+                        var features = map.querySourceFeatures('floorplan', { sourceLayer: 'room_searched' });
+
+                        if (features && !etageChanged) {
+                            etageChanged = true;
+                            for (var i = 0; i < features.length; i++) {
+                                var feature = features[i];
+                                if(feature.properties.name == searchTerm){
+                                    if (feature.properties.level == '-1') {
+                                        etage = '-1';
+                                    } else if (feature.properties.level == '0') {
+                                        etage = '0';
+                                    } else if (feature.properties.level == '1') {
+                                        etage = '1';
+                                    } else if (feature.properties.level == '2') {
+                                        etage = '2';
+                                    }
+                                }
+                            }
+                            console.log(etage)
+                            toggleFloor();
+
+                            // Ändere die Knopffarben hier entsprechend der ausgewählten Etage
+                            levels.forEach((otherLevel) => {
+                                var floor_button = document.getElementById(`floor_${otherLevel}`);
+                                floor_button.style.backgroundColor = otherLevel === etage ? "#0011DC" : "#0078FF";
+                            });
+                        }
+                    }
+                });
+
+                return; // Beende die Schleife, wenn der Raum gefunden wurde
+            }
+        }
     });
 
+    if (!roomFound) {
+        alert('Raum nicht gefunden.');
+    }
+});
+
+
+
+/*
+// Hinzufügen eines Klick-Event-Listeners zur Karte
+map.on('click', function (evt) {
+    // Fügen Sie hier Ihren Code hinzu, um auf Klicks zu reagieren
+    var features = map.queryRenderedFeatures(evt.point);
+    if (features) {
+        for (var i = 0; i < features.length; i++) {
+            var feature = features[i];
+            if (feature.properties.indoor === 'room') {
+                etage = '1';
+                toggleFloor();
+                console.log("Raum geklickt. Etage: " + etage);
+            }
+        }
+    }
+});
+*/
 
 function rotateCamera(timestamp) {
     // clamp the rotation between 0 -360 degrees
