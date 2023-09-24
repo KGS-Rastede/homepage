@@ -176,16 +176,17 @@
                     'fill-extrusion-color': ['get', 'colour'],
                     'fill-extrusion-height': ['get', 'height'],
                     'fill-extrusion-base': ['get', 'base_height'],
-                    'fill-extrusion-opacity': 0.5
+                    'fill-extrusion-opacity': 1
                 }
             });
         }
-        /*
+        // /*
         addLayerForFloor('-1');
         addLayerForFloor('0');
         addLayerForFloor('1');
         addLayerForFloor('2');
-        */
+        map.setLayoutProperty(`floor_extrusion_${etage}`, 'visibility', 'none');
+        // */
 
         function addLayerForHalls(level) {
             map.addLayer({
@@ -210,14 +211,15 @@
         addLayerForHalls('2');
 
         function addLayerForStairs(level) {
+            var filter = stair_filter(level);
             map.addLayer({
                 'id': `stair_extrusion_${level}`,
                 'type': 'fill-extrusion',
                 'source': 'floorplan',
                 'filter': ['all',
-                    ['!=', 'indoor', 'level'],
-                    ['==', 'level', level], 
                     ['==', 'room', 'stairs'],
+                    ['!=', 'indoor', 'level'],
+                    filter
                 ],
                 'paint': {
                     'fill-extrusion-color': ['get', 'colour'],
@@ -419,6 +421,7 @@
             map.setLayoutProperty(`hall_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
             map.setLayoutProperty(`room_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
             map.setLayoutProperty(`stair_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
+            map.setLayoutProperty(`floor_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
         });
         var features = map.querySourceFeatures('floorplan', { sourceLayer: 'room_searched' });
         if (features.length > 0) {
@@ -431,7 +434,7 @@
         }
 
         
-    }
+    };
 
 // Raumsuche Knopf
 document.getElementById('search-button').addEventListener('click', function (evt) {
@@ -558,7 +561,49 @@ function rotateCamera(timestamp) {
     map.rotateTo((timestamp / 100) % 360, { duration: 0 });
     // Request the next frame of the animation.
     requestAnimationFrame(rotateCamera);
-}
+};
+
+
+
+function stair_filter(level) {
+    var filter;
+    if (level === '-1') {
+                filter = ['any',
+                    ['==', 'level', '-1'],
+                    ['==', 'level', '-1;0'],
+                    ['==', 'level', '-1-1'],
+                    ['==', 'level', '-1-2']
+                ];
+            } else if (level === '0') {
+                filter = ['any',
+                    ['==', 'level', '0'],
+                    ['==', 'level', '-1;0'],
+                    ['==', 'level', '0;1'],
+                    ['==', 'level', '0-2'],
+                    ['==', 'level', '-1-2'],
+                    ['==', 'level', '1-2']
+                ];
+            } else if (level === '1') {
+                filter = ['any',
+                    ['==', 'level', '1'],
+                    ['==', 'level', '0;1'],
+                    ['==', 'level', '1;2'],
+                    ['==', 'level', '-1-1'],
+                    ['==', 'level', '-1-2'],
+                    ['==', 'level', '0-2']
+                ];
+            } else if (level === '2') {
+                filter = ['any',
+                    ['==', 'level', '-2'],
+                    ['==', 'level', '1;2'],
+                    ['==', 'level', '0-2'],
+                    ['==', 'level', '-1-2']
+                ];
+            } else {
+                filter = null;
+            }
+    return filter
+};
 
 </script>
 
