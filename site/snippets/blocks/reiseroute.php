@@ -540,7 +540,7 @@ document.getElementById('search-button').addEventListener('click', function (evt
 
 
 
-/*
+
 // Hinzufügen eines Klick-Event-Listeners zur Karte
 map.on('click', function (evt) {
     // Fügen Sie hier Ihren Code hinzu, um auf Klicks zu reagieren
@@ -549,14 +549,15 @@ map.on('click', function (evt) {
         for (var i = 0; i < features.length; i++) {
             var feature = features[i];
             if (feature.properties.indoor === 'room') {
-                etage = '1';
+                //angeklickte Etage auswählen
+                name = feature.properties.name;
                 toggleFloor();
-                console.log("Raum geklickt. Etage: " + etage);
+                console.log("Raum geklickt. Etage: " + name);
             }
         }
     }
 });
-*/
+
 
 function rotateCamera(timestamp) {
     // clamp the rotation between 0 -360 degrees
