@@ -109,7 +109,7 @@ class AgsPage extends Page
 
   private function studyGroupsDataCacheFilePath()
   {
-    return $this->kirby()->root('cache') . DS . 'arbeitsgemeinschaften.json';
+    return $this->kirby()->root('cache') . "/" . 'arbeitsgemeinschaften.json';
   }
 
   private function apiEndpointUri()

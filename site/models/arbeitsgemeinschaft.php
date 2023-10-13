@@ -55,7 +55,7 @@ class StudyGroupImage
 
   private function findLocalFilePath()
   {
-    $files = glob($this->pageRoot . DS . $this->id . '.*');
+    $files = glob($this->pageRoot . "/" . $this->id . '.*');
 
     if (!$files || empty($files)) {
       return null;
@@ -68,7 +68,7 @@ class StudyGroupImage
   {
     $fileExtension = Mime::toExtension($request->info['content_type']);
 
-    $newPath = $this->pageRoot . DS . $this->id . '.' . $fileExtension;
+    $newPath = $this->pageRoot . "/" . $this->id . '.' . $fileExtension;
 
     if ($this->localFilePath && ($newPath != $this->localFilePath)) {
       F::remove($this->localFilePath);
