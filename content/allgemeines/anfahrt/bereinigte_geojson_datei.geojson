@@ -2192,7 +2192,7 @@
       "properties": {
         "@id": "way/1206597535",
         "base_height": 0.02,
-        "colour": "#c9c9c9",
+        "colour": "#444",
         "height": 3.0,
         "indoor": "room",
         "level": "0",
@@ -8733,7 +8733,7 @@
       "properties": {
         "@id": "way/1207833226",
         "base_height": 0.02,
-        "colour": "white",
+        "colour": "#444",
         "height": 3.0,
         "indoor": "room",
         "level": "0",
@@ -8782,7 +8782,7 @@
       "properties": {
         "@id": "way/1207833227",
         "base_height": 0.02,
-        "colour": "white",
+        "colour": "#444",
         "height": 3.0,
         "indoor": "room",
         "level": "0",
@@ -8843,7 +8843,7 @@
       "properties": {
         "@id": "way/1207833228",
         "base_height": 0.02,
-        "colour": "white",
+        "colour": "#444",
         "height": 3.0,
         "indoor": "room",
         "level": "0",
@@ -8888,7 +8888,7 @@
       "properties": {
         "@id": "way/1207833229",
         "base_height": 0.02,
-        "colour": "white",
+        "colour": "#444",
         "height": 3.0,
         "indoor": "room",
         "level": "0",
@@ -8937,7 +8937,7 @@
       "properties": {
         "@id": "way/1207833230",
         "base_height": 0.02,
-        "colour": "white",
+        "colour": "#444",
         "height": 3.0,
         "indoor": "room",
         "level": "0",
@@ -9006,7 +9006,7 @@
       "properties": {
         "@id": "way/1207833231",
         "base_height": 0.02,
-        "colour": "white",
+        "colour": "#444",
         "height": 3.0,
         "indoor": "room",
         "level": "0",
@@ -9059,7 +9059,7 @@
       "properties": {
         "@id": "way/1207833232",
         "base_height": 0.02,
-        "colour": "white",
+        "colour": "#444",
         "height": 3.0,
         "indoor": "room",
         "level": "0",
