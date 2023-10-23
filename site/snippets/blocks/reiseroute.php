@@ -301,7 +301,7 @@ echo ($features);
                 },
                 'paint': {
                 'line-color': '#222',
-                'line-width': 3
+                'line-width': 1
                 }
             });
         }
