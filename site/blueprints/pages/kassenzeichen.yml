@@ -1,0 +1,29 @@
+title: Kassenzeichen
+
+# Show Children in the Panel
+icon: qr-code
+# Panel-Konfiguration für Admins
+options:
+  update:
+    '*': false
+    schulleitung: true
+    admin: true
+    kassenzeichen: true
+
+sections:
+ content:
+    type: fields
+    fields:
+      verwendungszweck:
+        label: Verwendungszweck
+        type: text
+        default: "Vorname Nachname"
+      beguenstigter:
+        label: Begünstigter
+        type: text
+        default: "KGS Rastede"
+      iban:
+        label: IBAN
+        type: text
+        default: "DE02600501010002034304"
+
