@@ -1,8 +1,6 @@
 title: Kassenzeichen
 
-# Show Children in the Panel
 icon: qr-code
-# Panel-Konfiguration für Admins
 options:
   update:
     '*': false
