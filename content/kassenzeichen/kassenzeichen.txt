@@ -2,10 +2,6 @@ Title: Kassenzeichen
 
 ----
 
-Uuid: 1UEbamDWYVtdhKzX
-
-----
-
 Verwendungszweck: Vorname Nachname
 
 ----
@@ -14,4 +10,8 @@ Beguenstigter: KGS Rastede
 
 ----
 
-Iban: DE02600501010002034304
+Iban: DE00000000000000000000
+
+----
+
+Uuid: 1UEbamDWYVtdhKzX
