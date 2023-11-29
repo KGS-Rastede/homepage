@@ -25,5 +25,5 @@ sections:
       iban:
         label: IBAN
         type: text
-        default: "DE02600501010002034304"
+        default: "DE00000000000000000000"
 
