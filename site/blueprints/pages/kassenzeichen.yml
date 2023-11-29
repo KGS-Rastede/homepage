@@ -8,7 +8,6 @@ options:
     '*': false
     schulleitung: true
     admin: true
-    kassenzeichen: true
 
 sections:
  content:
