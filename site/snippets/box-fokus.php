@@ -3,7 +3,7 @@
 
     <h2 class="font-semibold p-2 mt-4 text-2xl">Aktuell im Fokus</h2>
 
-    <div class="flex flex-col my-4 bg-slate-50 overflow-hidden dark:text-gray-100 dark:bg-gray-800">
+    <div class="flex shadow-sm flex-col my-4 bg-slate-50 overflow-hidden dark:text-gray-100 dark:bg-gray-800">
 
         <?php foreach (collection('blogs-topartikel') as $subpage) : ?>
 
