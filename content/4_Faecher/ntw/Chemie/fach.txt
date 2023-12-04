@@ -22,9 +22,7 @@ Lehrplantext: Hier finden Sie die Netzpläne für die Jahrgänge 5 - 13 für all
 
 ----
 
-Lehrplaene:
-
-- netzplane-chemie.pdf
+Lehrplaene: - netzplane-chemie.pdf
 
 ----
 
@@ -32,9 +30,7 @@ Haupttag: Chemie
 
 ----
 
-Hintergrundbild:
-
-- bill-oxford-tr0pplun6pw-unsplash.jpg
+Hintergrundbild: - bill-oxford-tr0pplun6pw-unsplash.jpg
 
 ----
 
@@ -68,3 +64,7 @@ Sidebar:
   name: >
     Operatorenliste zur schriftlichen
     Abiturprüfung 2021
+
+----
+
+Uuid: IgS5LYwL1cXVO6zE

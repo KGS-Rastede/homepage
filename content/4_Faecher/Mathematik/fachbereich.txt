@@ -6,11 +6,11 @@ Bezeichnung: Fachbereichsleiter
 
 ----
 
-Namefbl: Herr Mönnich
+Namefbl: Herr Dr. Nawrath
 
 ----
 
-Email: mch@kgs-rastede.eu
+Email: nwr@kgs-rastede.eu
 
 ----
 
@@ -18,16 +18,16 @@ Text:
 
 ----
 
-Pages:
-
-- Faecher/Mathematik/mathe
+Pages: - page://30xuzVjLAeaRsEm3
 
 ----
 
-Symbolbild:
-
-- mathe.jpg
+Symbolbild: - file://02G5O2TeoTPQWCSs
 
 ----
 
 Tags: Mathematik
+
+----
+
+Uuid: 30T3jU52ws1ttvTv

@@ -6,32 +6,29 @@ Bezeichnung: Fachbereichsleiter
 
 ----
 
-Namefbl: Herr Schneemann
+Namefbl: Herr Körner
 
 ----
 
-Email: scm@kgs-rastede.eu
+Email: knr@kgs-rastede.eu
 
 ----
 
-Text: [{"content":{"text":"<p>Jesco, tob dich aus!<\/p>"},"id":"a46f6a9b-ec2c-4c7b-8324-5677dbed9022","isHidden":false,"type":"text"}]
+Text: [{"content":{"level":"h2","text":"<strong>Leitbild des Fachbereichs musisch-kulturelle Bildung</strong>"},"id":"439dc746-6427-45d8-af5b-a4d0422352a9","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Präambel</strong></p><p>Der Fachbereich musisch-kulturelle Bildung besteht aus den Fächern Darstellendes Spiel, Gestaltendes Werken, Kunst, Musik und Textiles Gestalten. Er ist somit in allen Schulzweigen der KGS Rastede verankert und fühlt sich diesen gleichermaßen verbunden. In diesem Sinne setzt sich der Fachbereich das Ziel, ästhetische Erfahrungen allen Schüler:innen unabhängig von ihrer Schulzweigzugehörigkeit, Herkunft, Religion, Hautfarbe, ihres Geschlechts oder ihrer sexuellen Orientierung zu ermöglichen.</p><p><strong> § 1 Werte</strong></p><p>Das gemeinsame, kooperative und vorbehaltlose Lernen mit Schüler:innen aus allen Schulzweigen ist eine der Kernüberzeugungen unseres Fachbereichs. Der Zugang zu und die Berührung mit Kunst, Musik, Werkstücken und Mode sind ebenso wie die Begegnung von Mensch zu Mensch voraussetzungslos. Demokratische Grundüberzeugungen, Toleranz, Respekt und Wertschätzung sind zentrale Werte, die im Unterricht, an außerschulischen Lernorten und im zwischenmenschlichen Miteinander eingeübt und gelebt werden.</p><p> <strong>§ 2 Grundlagen für die Arbeit in den Fächern</strong></p><p>Erst durch Kultur wird der Mensch zum Menschen. Daraus erwächst für die KGS Rastede als Ganzes und den Fachbereich MukuBi im Speziellen die Verantwortung, Schüler:innen die vielfältigen Praktiken und Spielarten kultureller Ausformungen nahezubringen. Dabei verfolgen die Fächer keinen eng gefassten und folglich normativen Kulturbegriff, sondern begreifen Kultur als Ausdruck vielfältiger künstlerischer Ausdrucksweisen. Dabei wollen wir den Schüler:innen fremde Welten, aber auch neue Perspektiven auf vertraute Gegenstände eröffnen. Darüber hinaus werden die kulturhistorischen Hintergründe künstlerischer Ausdrücke beleuchtet, sodass Kunst und Kultur nicht als losgelöste Erscheinungsweisen, sondern als fester Bestandteil und Gestaltungsraum von Gesellschaft wahrgenommen werden.</p><p> <strong>§ 3 Teilhabe &amp; Praktische Ausrichtung</strong></p><p>Wir sind der festen Überzeugung, dass der Wunsch danach, sich künstlerisch auszudrücken, in jedem Menschen vorhanden ist und jeder Mensch am kulturellen Leben teilhaben können muss. Dabei erhält das praktische Tun eine zentrale Rolle im Unterricht. Selbst etwas herzustellen, etwas zu komponieren, etwas gemeinsam zu musizieren oder etwas zu inszenieren sind elementare Erfahrungen, an denen die Schüler:innen in ihrer Persönlichkeit wachsen können, indem sie neue Facetten ihres Ichs erleben und sowohl als Individuum als auch als Teil einer Gemeinschaft etwas (er-)schaffen können.</p><p> <strong>§ 4 Prozesse &amp; Projektarbeit</strong></p><p>Künstlerisches Arbeiten ist ein steter Prozess, der Zeit erfordert. Der Fachbereich setzt sich zum Ziel, die erforderlichen Freiräume zu schaffen und Projektarbeit zu fördern. Dazu sollen fachspezifische Aspekte erarbeitet, jedoch auch stets die Verbindungen zwischen den Fächern gesucht werden, sodass fächerübergreifende Zusammenarbeit entstehen kann. Profilkurse, Auftritte, Ausstellungen, Probenfahrten und Exkursionen zu Orten der Kultur bilden dabei einen zentralen Bestandteil unseres pädagogischen und didaktischen Selbstverständnisses.</p><p> <strong>§ 5 Scheitern zulassen – Erfolge ermöglichen</strong></p><p>Wir möchten unseren Schüler*innen zeigen, dass es sich lohnt, Scheitern in Kauf zu nehmen, von Neuem zu beginnen, kontinuierlich weiterzuarbeiten und schlussendlich auf ein gelungenes Ergebnis zu blicken. Kunst und Kultur sind der Mühe wert!</p><p> <strong>§ 6 Berufsorientierung</strong></p><p>Der Fachbereich MukuBi setzt sich ferner zum Ziel seinen Beitrag zur Berufsorientierung zu leisten. Viele mit Kunst und Kultur verbundene Berufsfelder sind Schüler:innen häufig nicht geläufig. Der Fachbereich stellt sich daher die Aufgabe, die (Handwerks-)Berufe aus künstlerischen Kontexten vorzustellen. Ferner leisten die Fächer mit ihren vielfältigen Formen des „Sich-präsentierens“ und des Arbeitens im Team einen wichtigen Beitrag zur Entwicklung persönlicher, sozialer und fachlicher Kompetenzen, um die Schüler:innen auf eine sich beständig ausdifferenzierende Berufs- und Lebenswelt vorzubereiten und den damit verbundenen Herausforderungen selbstbewusst begegnen zu können.</p><p> <strong>§ 7 Nachhaltigkeit</strong></p><p>Der Umgang mit knappen Ressourcen ist eine Erfahrung, die Künstler*innen zu allen Zeiten gemacht haben. Der Fachbereich fördert das Bewusstsein für nachhaltige Arbeitsweisen in vielerlei Hinsicht. Im Unterricht werden Themen wie ökologische Nachhaltigkeit und faire Arbeitsbedingungen praktisch erlebbar und diskutiert. Auch der schonende Umgang mit den eigenen gesundheitlichen Ressourcen sowie das Erzielen nachhaltiger Lernerfahrungen sollen erworben und reflektiert werden.   </p><p> <strong>Schluss</strong></p><p>Die Fächer Darstellendes Spiel, Gestaltendes Werken, Kunst, Musik und Textiles Gestalten möchten den Schüler:innen Wege aufzeigen, abseits von ökonomischen und gesellschaftlichen Zwängen Kunst und Kultur für sich als Individuum zu entdecken, ohne einen verwertbaren Mehrwert erzielen zu müssen. Die künstlerischen und musischen Fächer an der KGS Rastede schlagen die Brücke zwischen dem Ich und der Welt.</p>"},"id":"567feb9e-71e5-4676-8316-b5b4b84520c8","isHidden":false,"type":"text"}]
 
 ----
 
 Pages:
 
-- Faecher/musisch-kulturelle-bildung/ds
-- Faecher/musisch-kulturelle-bildung/kunst
-- Faecher/musisch-kulturelle-bildung/musik
-- Faecher/musisch-kulturelle-bildung/tg
-- >
-  Faecher/musisch-kulturelle-bildung/werken
+- page://rM4jc0XEWfsl67mX
+- page://wT3CMQOZoS7qpvx9
+- page://r8BzL4PfjkKAzR3f
+- page://pX2YDZnD8kVNsNTe
+- page://o6cyxDkP5BwhU5Rm
 
 ----
 
-Symbolbild:
-
-- mukubi.jpg
+Symbolbild: - file://NxSDdOJIGzdsQPM8
 
 ----
 
@@ -40,3 +37,7 @@ Tags: Musik, Kunst, Darstellendes Spiel, Werken
 ----
 
 Files: - mukubi.jpg
+
+----
+
+Uuid: bBxc2jexvkhkVwhO

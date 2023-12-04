@@ -10,9 +10,7 @@ Text: [{"content":{"text":"<p><strong><u>Warum Latein lernen?<\/u><\/strong><\/p
 
 ----
 
-Gallery:
-
-- kol.jpg
+Gallery: - kol.jpg
 
 ----
 
@@ -20,9 +18,7 @@ Lehrplantext:
 
 ----
 
-Lehrplaene:
-
-- latein-kurzlehrplan-09-2020.pdf
+Lehrplaene: - latein-kurzlehrplan-09-2020.pdf
 
 ----
 
@@ -64,3 +60,7 @@ Sidebar:
   link: >
     https://www.navonline.de/index.php/latinums-und-graecumsvergabe
   name: Informationen zum Latinum
+
+----
+
+Uuid: xztIXhW8IOJFw91W

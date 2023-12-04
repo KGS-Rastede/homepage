@@ -34,9 +34,7 @@ Haupttag: Französisch
 
 ----
 
-Hintergrundbild:
-
-- dba-frankreich-deutschland.jpg
+Hintergrundbild: - dba-frankreich-deutschland.jpg
 
 ----
 
@@ -78,3 +76,7 @@ Sidebar:
   link: >
     http://www.europaeischer-referenzrahmen.de/
   name: 'GeR: Der europäische Referenzrahmen für Sprachen:'
+
+----
+
+Uuid: goCllhgqx2aoGj17

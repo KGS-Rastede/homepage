@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"text":"<p>Das Fach Gestaltendes Werken wird an der KGS Rastede in den Jahrg\u00e4ngen 7-10 des Hauptschulzweiges unterrichtet. Die Sch\u00fcler*innen k\u00f6nnen dort im Wahlpflichtbereich zwischen Textilem Gestalten und Gestaltendem Werken w\u00e4hlen.<\/p>"},"id":"95432b9e-5c4b-4fde-8366-cdba1dc25867","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Fach erm\u00f6glicht den Sch\u00fcler*innen einen stark handlungsbezogenen Zugang zu ihrer Welt. Daf\u00fcr werden in jedem Jahrgang unterschiedliche Werkst\u00fccke aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt. Zuvor m\u00fcssen jeweils Skizzen und Baupl\u00e4ne angefertigt werden, die die Grundlage f\u00fcr die sp\u00e4tere Reflexion bilden.<\/p>"},"id":"1e2e37cf-c9f2-4951-8b7f-e23c10836d80","isHidden":false,"type":"text"},{"content":{"text":"<p>Auf diese Weise werden Motivation, Neugier und Experimentierfreude geweckt, Konzentration und Ausdauer gef\u00f6rdert und pers\u00f6nliche Handlungskompetenzen erweitert.<\/p>"},"id":"281a6577-795a-4534-95b8-c468f9ada858","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p>Das Fach Gestaltendes Werken wird an der KGS Rastede in den Jahrgängen 7-10 des Hauptschulzweiges unterrichtet. Die Schüler*innen können dort im Wahlpflichtbereich zwischen Textilem Gestalten und Gestaltendem Werken wählen.</p>"},"id":"95432b9e-5c4b-4fde-8366-cdba1dc25867","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Fach ermöglicht den Schüler*innen einen stark handlungsbezogenen Zugang zu ihrer Welt. Dafür werden in jedem Jahrgang unterschiedliche Werkstücke aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt. Zuvor müssen jeweils Skizzen und Baupläne angefertigt werden, die die Grundlage für die spätere Reflexion bilden.</p>"},"id":"1e2e37cf-c9f2-4951-8b7f-e23c10836d80","isHidden":false,"type":"text"},{"content":{"text":"<p>Auf diese Weise werden Motivation, Neugier und Experimentierfreude geweckt, Konzentration und Ausdauer gefördert und persönliche Handlungskompetenzen erweitert.</p>"},"id":"281a6577-795a-4534-95b8-c468f9ada858","isHidden":false,"type":"text"}]
 
 ----
 
@@ -37,5 +37,15 @@ Fotoansicht:
 Sidebar:
 
 - 
+  link: >
+    https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung
+  name: >
+    Leitbild des Fachbereichs
+    Musisch-kulturelle Bildung
+- 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=38'
   name: Kerncurriculum Hauptschule
+
+----
+
+Uuid: o6cyxDkP5BwhU5Rm

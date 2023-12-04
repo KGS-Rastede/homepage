@@ -11,3 +11,7 @@ Schulzweig: GT
 ----
 
 Template: lehrplandatei
+
+----
+
+Uuid: h5ztrgsQWKtxj9fC

@@ -6,11 +6,11 @@ Bezeichnung: Fachbereichsleiterin
 
 ----
 
-Namefbl: Frau Backhaus
+Namefbl: Frau Roland
 
 ----
 
-Email: bc@kgs-rastede.eu
+Email: ro@kgs-rastede.eu
 
 ----
 
@@ -20,17 +20,19 @@ Text:
 
 Pages:
 
-- Faecher/sprachen/englisch
-- Faecher/sprachen/franzoesisch
-- Faecher/sprachen/latein
-- Faecher/sprachen/spanisch
+- page://JZy9AWSTiurYb50G
+- page://goCllhgqx2aoGj17
+- page://xztIXhW8IOJFw91W
+- page://NFT0ZFBpcCLKSvwF
 
 ----
 
-Symbolbild:
-
-- fremdsprachen.jpg
+Symbolbild: - file://M4gujxCQ9uUc7eq8
 
 ----
 
 Tags: Spanisch, Französisch, Latein, Englisch
+
+----
+
+Uuid: dNznxptw4jf0jIrQ

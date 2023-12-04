@@ -10,9 +10,7 @@ Text: [{"content":{"text":"<p><\/p>"},"id":"6fb86a64-5d38-4d2a-a068-faba050cfe54
 
 ----
 
-Gallery:
-
-- 4-bilder.jpg
+Gallery: - 4-bilder.jpg
 
 ----
 
@@ -33,9 +31,7 @@ Haupttag: Physik
 
 ----
 
-Hintergrundbild:
-
-- hintergrund.jpg
+Hintergrundbild: - hintergrund.jpg
 
 ----
 
@@ -79,3 +75,7 @@ Sidebar:
 - 
   link: https://physik.cosmos-indirekt.de/
   name: Physik-Lexikon
+
+----
+
+Uuid: c0CBjbfXpwdoWsOn

@@ -11,3 +11,7 @@ Schulzweig: HZ
 ----
 
 Template: lehrplandatei
+
+----
+
+Uuid: COzOsm1wmgTgjeOr

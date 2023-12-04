@@ -55,9 +55,7 @@ Haupttag: Englisch
 
 ----
 
-Hintergrundbild:
-
-- english-header.jpg
+Hintergrundbild: - english-header.jpg
 
 ----
 
@@ -113,3 +111,7 @@ Sidebar:
   link: >
     https://www.fluentu.com/blog/english-ger/englisch-sprechen-mit-kindern/
   name: Lustige Ideen zum Englischlernen
+
+----
+
+Uuid: JZy9AWSTiurYb50G

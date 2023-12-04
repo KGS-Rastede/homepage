@@ -10,9 +10,7 @@ Text: [{"content":{"text":"<p>Sei es durch K\u00fcnstler wie \u00c1lvaro Soler, 
 
 ----
 
-Gallery:
-
-- spanischflagge3.png
+Gallery: - spanischflagge3.png
 
 ----
 
@@ -36,9 +34,7 @@ Haupttag: Spanisch
 
 ----
 
-Hintergrundbild:
-
-- spanischflagge3.png
+Hintergrundbild: - spanischflagge3.png
 
 ----
 
@@ -74,3 +70,7 @@ Sidebar:
   link: >
     https://www.nibis.de/uploads/1gohrgs/za2021/02_Skala_Bewertung_der_inhaltlichen_Leistung.pdf
   name: 'Sek II - Hinweise zur Bewertung der inhaltlichen Leistung'
+
+----
+
+Uuid: NFT0ZFBpcCLKSvwF
