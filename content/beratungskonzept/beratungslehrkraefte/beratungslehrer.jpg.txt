@@ -2,4 +2,4 @@ Template: blocks/image
 
 ----
 
-Uuid: 31eCvAo9kwkG8dcw
+Uuid: MbzXUM0DB17kPWJE
