@@ -74,3 +74,10 @@
         </div>
     </div>
 </footer>
+
+<?php snippet('skripte-im-footer') ?>
+
+
+</body>
+
+</html>
