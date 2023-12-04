@@ -1,25 +1,24 @@
-<h2 class="mt-5 mb-3">Aus dem Schulleben</h2>
+<h2 class="font-semibold text-xl">Aus dem Schulleben</h2>
 
-<?php if (collection('blogs-startseite')->isNotEmpty()) : //wenn aktuelle Artikel vorhanden sind  
+<?php if (collection('blogs-startseite')->isNotEmpty()) : // Wenn aktuelle Artikel vorhanden sind  
 ?>
-  <div class="row" id="masonry-element">
-    <?php foreach (collection('blogs-startseite') as $subpage) {
-      snippet('blogkartemasonry', ['subpage' => $subpage]);
-    } ?>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
+    <?php foreach (collection('blogs-startseite') as $subpage) : ?>
+      <?php snippet('blogkartemasonry', ['subpage' => $subpage]); ?>
+    <?php endforeach; ?>
   </div>
 <?php endif ?>
 
-<a href="<?= page("blogs") ?>" class="btn btn-primary mb-5" role="button">
+<div class="p-4">
 
-  <?php if (collection('blogs-startseite')->isNotEmpty()) : //wenn aktuelle Artikel vorhanden sind 
-  ?>
-    Weitere Nachrichten aus der Schule &#8594;
-  <?php else : //wenn keine aktuellen Artikel vorhanden sind 
-  ?>
-    Nachrichten aus der Schule &#8594;
-  <?php endif ?>
+  <a href="<?= page("blogs")->url() ?>">
+    <?php if (collection('blogs-startseite')->isNotEmpty()) : // Wenn aktuelle Artikel vorhanden sind  
+    ?>
+      <?php snippet('knopf-klein', ['subpage' => page("blogs"), 'knopftext' => "Weitere Nachrichten aus der Schule &#8594;"]); ?>
+    <?php else : // Wenn keine aktuellen Artikel vorhanden sind  
+    ?>
+      <?php snippet('knopf-klein', ['subpage' => page("blogs"), 'knopftext' => "Nachrichten aus der Schule &#8594;"]); ?>
+    <?php endif ?>
+  </a>
 
-</a>
-
-<!-- Masonry Skript -->
-<?= js('assets/js/load_masonry.js') ?>
+</div>

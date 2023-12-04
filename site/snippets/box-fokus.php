@@ -1,27 +1,41 @@
-<?php if(collection('blogs-topartikel')->isNotEmpty()) : //wenn aktuelle Topartikel vorhanden sind?>
+<?php if (collection('blogs-topartikel')->isNotEmpty()) : //wenn aktuelle Topartikel vorhanden sind
+?>
 
-    <h2 class="mt-5 mb-3">Aktuell im Fokus</h2>
-    <div class="card mb-3">
-        <div class="card-body">
+    <h2 class="font-semibold p-2 mt-4 text-2xl">Aktuell im Fokus</h2>
 
-            <?php foreach (collection('blogs-topartikel') as $subpage) : ?>
+    <div class="flex flex-col my-4 bg-slate-50 overflow-hidden dark:text-gray-100 dark:bg-gray-800">
 
-                <?php if ( !$subpage->isFirst(collection('blogs-topartikel')) ) : ?>
-                    <hr class="mt-3 mb-3">
-                <?php endif //Trennstrich kommt nur, wenn es keine Artikel vor diesem Element gibt ?>
-                
-                <a class="btn btn-lg btn-block text-start p-1" href="<?= $subpage->url() ?>" role="button">
-                    <h3 class="font-weight-light text-info ">
+        <?php foreach (collection('blogs-topartikel') as $subpage) : ?>
+
+            <?php if (!$subpage->isFirst(collection('blogs-topartikel'))) : ?>
+                <h3 class="flex items-center py-2 my-4">
+                    <span aria-hidden="true" class="grow bg-gray-200 rounded h-0.5 dark:bg-gray-700/75"></span>
+                </h3>
+            <?php endif //Trennstrich kommt nur, wenn es keine Artikel vor diesem Element gibt 
+            ?>
+
+            <div class="hover:bg-slate-100">
+
+                <a href="<?= $subpage->url() ?>" role="button">
+
+                    <!-- Card Header -->
+                    <div class="py-2 px-3 text-semibold text-3xl text-blue-700">
                         <?= $subpage->title() ?>
-                    </h3>
-                    <p class="card-text font-weight-light text-black">
+                    </div>
+                    <!-- END Card Header -->
+
+                    <!-- Card Body -->
+                    <div class="p-2 text-xl grow">
                         <?= $subpage->Text()->toBlocks()->excerpt(150) ?>
-                    </p>
+                    </div>
+                    <!-- END Card Body -->
+
+                    <!-- END Card Footer -->
+
                 </a>
-
-            <?php endforeach ?>
-
-        </div>
+            </div>
+        <?php endforeach ?>
     </div>
+
 
 <?php endif ?>
