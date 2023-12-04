@@ -44,7 +44,7 @@
 
   <?php if (collection('blogs-haupttag')->isNotEmpty()) : ?>
 
-    <h2>Aktuelles aus dem Fach</h2>
+    <h2 class="mt-2 text-2xl">Aktuelles aus dem Fach</h2>
 
     <?php
     foreach (collection('blogs-haupttag')
