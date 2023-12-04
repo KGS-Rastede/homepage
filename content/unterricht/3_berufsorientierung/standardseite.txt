@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"level":"h1","text":""},"id":"c7de3431-1b55-4545-bbfe-29460cbe47d2","isHidden":false,"type":"heading"},{"content":{"text":""},"id":"15c9d558-140c-4642-9705-6b1e95790c53","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"3d2d30eb-09dd-4c5d-acfa-894decf10f76","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["arrows-5081423_1920.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f633d735-1674-41d4-8026-641cc169de31","isHidden":false,"type":"image"}]
+Text: [{"content":{"text":""},"id":"15c9d558-140c-4642-9705-6b1e95790c53","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"3d2d30eb-09dd-4c5d-acfa-894decf10f76","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file:\/\/HNBYEmtkqWnoyGgv"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f633d735-1674-41d4-8026-641cc169de31","isHidden":false,"type":"image"},{"content":{"level":"h1","text":"Praktikum, Zukunftstag, ... - Die Unterlagen findest du hier"},"id":"c7de3431-1b55-4545-bbfe-29460cbe47d2","isHidden":false,"type":"heading"}]
 
 ----
 
@@ -16,22 +16,23 @@ Relatedtitel: Informationen zum Praktikum
 
 Related:
 
-- schueler-innenbetriebspraktikum
+- page://QApsBwLjp9CSxMiq
+- page://4qlReM13q4Bf2UeM
 
 ----
 
-Downloadtitel: Zukunftstag 2022
+Downloadtitel: Formulare zum Zukunftstag
 
 ----
 
 Downloads:
 
-- freistellung_unterricht-2022.pdf
-- teilnahmebescheinigung_2022.pdf
+- file://B99Qpr74UuMTGSgF
+- file://SYLY9088Bw9kfTAd
 
 ----
 
-Sidetitel: Zukunftstag 2022. Girl's und Boy's Day
+Sidetitel: Zukunftstag. Girl's und Boy's Day
 
 ----
 
@@ -43,3 +44,7 @@ Sidebar:
 - 
   link: https://www.girls-day.de/maedchen
   name: "Girl's Day"
+
+----
+
+Uuid: WmBuvtXUaiQj7R4J
