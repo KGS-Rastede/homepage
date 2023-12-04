@@ -26,46 +26,30 @@
         color: #fff;
         cursor: pointer;
       }
+
+      .error-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+
+      .error-message {
+        color: red;
+        margin-bottom: 10px;
+      }
     </style>
 
     <?php
-    if (kirby()->request()->is("POST") && get("submit")) {
-        $data = ["kassenzeichen" => esc(get("kassenzeichen")), "betrag" => esc(get("betrag"))];
-        $qrCode = generateQRCode($data);
-        $qrCodeDataUri = $qrCode->toDataUri();
-
-        $filename = $data["kassenzeichen"] . ".png";
-
-        $qrCodeImageTag = "<img src='$qrCodeDataUri' style='max-width: 100%; height: auto;' />";
-        echo $qrCodeImageTag;
-        echo "<br><br>";
-        echo "<a href='" . $qrCodeDataUri . "' download='$filename'>QR-Code herunterladen</a>";
-    } else {
-        ?>
-        <form method="post">
-          <div>
-            <label for="kassenzeichen">Kassenzeichen:</label>
-            <input type="text" id="kassenzeichen" name="kassenzeichen" required>
-          </div>
-          <div>
-            <label for="betrag">Betrag:</label>
-            <input type="text" id="betrag" name="betrag" required pattern="[0-9]+([,\.][0-9]+)?" title="Bitte gebe einen richtigen Betrag an">
-          </div>
-          <div>
-            <input type="submit" name="submit" value="QR-Code generieren">
-          </div>
-        </form>
-
-    <?php
+    function validate($data)
+    {
+        // if kassenzeichen does not start with KF- throw error
+        if (!preg_match("/^KF-/", $data["kassenzeichen"])) {
+            throw new Exception("Kassenzeichen muss mit 'KF-' beginnen.");
+        }
     }
-    ?>
-  </div>
-</section>
 
-<?php snippet("footer"); ?>
-
-<?php
-function generateQRCode($data)
+    function generateQRCode($data)
 {
     $parentPage = page("kassenzeichen");
     if ($parentPage) {
@@ -98,4 +82,58 @@ function generateQRCode($data)
     }
     return $qr;
 }
+
+$error = '';
+
+if (kirby()->request()->is("POST") && get("submit")) {
+    try {
+        $kassenzeichen = get("kassenzeichen");
+        $betrag = get("betrag");
+
+        // Check if values are not null before using esc()
+        $data = [
+            "kassenzeichen" => is_string($kassenzeichen) ? esc($kassenzeichen) : '',
+            "betrag" => is_string($betrag) ? esc($betrag) : ''
+        ];
+
+        // Validate input
+        validate($data);
+
+        $qrCode = generateQRCode($data);
+        $qrCodeDataUri = $qrCode->toDataUri();
+
+        $filename = $data["kassenzeichen"] . ".png";
+
+        $qrCodeImageTag = "<img src='$qrCodeDataUri' style='max-width: 100%; height: auto;' />";
+        echo $qrCodeImageTag;
+        echo "<br><br>";
+        echo "<a href='" . $qrCodeDataUri . "' download='$filename'>QR-Code herunterladen</a>";
+    } catch (Exception $e) {
+        $error = $e->getMessage();
+    }
+}
 ?>
+
+<div class="error-container">
+  <?php if (!empty($error)): ?>
+    <p class="error-message"><?php echo $error; ?></p>
+  <?php endif; ?>
+</div>
+
+<form method="post">
+  <div>
+    <label for="kassenzeichen">Kassenzeichen:</label>
+    <input type="text" id="kassenzeichen" name="kassenzeichen" value="<?php echo isset($data["kassenzeichen"]) ? $data["kassenzeichen"] : ''; ?>" required>
+  </div>
+  <div>
+    <label for="betrag">Betrag:</label>
+    <input type="text" id="betrag" name="betrag" value="<?php echo isset($data["betrag"]) ? $data["betrag"] : ''; ?>" required pattern="[0-9]+([,\.][0-9]+)?" title="Bitte gebe einen richtigen Betrag an">
+  </div>
+  <div>
+    <input type="submit" name="submit" value="QR-Code generieren">
+  </div>
+</form>
+</div>
+</section>
+
+<?php snippet("footer"); ?>
