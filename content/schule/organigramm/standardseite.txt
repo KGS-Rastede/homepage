@@ -6,7 +6,7 @@ Heading:
 
 ----
 
-Text: [{"content":{"text":"<p>Dem Organigramm sind die jeweiligen Ansprechpartner:innen zu entnehmen. Alle Lehrkr\u00e4fte sind via E-Mail erreichbar: K\u00fcrzel@kgs-rastede.eu<\/p>"},"id":"ad9e3a8b-d89d-49d1-aad9-83810729f1a2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file:\/\/DeLjfcopkGUaoAK9"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"345b9ae2-8d9f-4cd5-afa0-f2b1686210bb","isHidden":false,"type":"image"}]
+Text: [{"content":{"text":"<p>Dem Organigramm sind die jeweiligen Ansprechpartner:innen zu entnehmen. Alle Lehrkräfte sind via E-Mail erreichbar: Kürzel@kgs-rastede.eu</p>"},"id":"ad9e3a8b-d89d-49d1-aad9-83810729f1a2","isHidden":false,"type":"text"}]
 
 ----
 
@@ -22,7 +22,7 @@ Downloadtitel:
 
 ----
 
-Downloads: - file://Qe0uckPE41hAbn5Z
+Downloads: - file://G0daINS5PJJmk1Fz
 
 ----
 

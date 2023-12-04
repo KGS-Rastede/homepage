@@ -6,6 +6,32 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-weihnachtsmarkt-am-24-november-von-16-bis-20-uhr-in-der-kooperativen-gesamtschule_a_4,0,3252218489.html
+  name: ' Weihnachtsmarkt mit großem Angebot '
+  anfang: 'Leckereien, Musik, Mitmachaktionen und eine Tombola: Mit einem großen Angebot wartet der Weihnachtsmarkt in der KGS Rastede auf. Die Einnahmen sollen den Schülern zugute kommen.'
+  datum: 2023-11-21
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2023/06/praeventionsprojekt-balu-und-du-feiert-abschluss-des-zweiten-durchgangs/
+  name: >
+    Präventionsprojekt „Balu und Du“
+    feiert Abschluss des zweiten Durchgangs
+  anfang: >
+    Der zweite Durchgang des
+    Präventionsprojekts „Balu und Du“
+    ist erfolgreich zu Ende gegangen. Im
+    Rahmen einer kleinen Abschlussfeier
+    übergab Bürgermeister Lars Krause
+    Urkunden und Medaillen an die
+    teilnehmenden Schülerinnen und Schüler
+    der Kooperativen Gesamtschule (KGS)
+    Rastede sowie der Grundschulen
+    Feldbreite und Hahn-Lehmden.
+  datum: 2023-06-16
+  medium: gemeinde
+- 
+  link: >
     https://www.nwzonline.de/ammerland/robocup-junior-in-rastede-mit-robotern-aus-lego-fuer-deutsche-meisterschaft-qualifizieren_a_3,2,3771536813.html
   name: >
     Roboter simulieren Rettung von
