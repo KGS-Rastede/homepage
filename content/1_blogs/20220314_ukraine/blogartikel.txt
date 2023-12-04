@@ -1,0 +1,29 @@
+Title: Ukraine
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Mahnwache der AG \"F\u00fcr den Frieden\" Unsere AG \u201eF\u00fcr den Frieden\u201c f\u00fchrt am Montag, 14.3.2022, vor dem Rathaus in Rastede von 18.45 Uhr bis 19.45 Uhr eine Mahnwache unter dem Motto \"Frieden und Freiheit f\u00fcr die Ukraine\" durch. Mit dieser \u00f6ffentlichen Aktion stellen wir uns gegen den russischen Angriffskrieg auf die Ukraine und fordern ein sofortiges Ende der Invasion. Zugleich setzt sich unsere Arbeitsgemeinschaft f\u00fcr eine Welt in Frieden und Freiheit f\u00fcr alle Menschen ein. Sie fordert die Einhaltung der UN-Charta, vor allem in Bezug auf f\u00fcr die Verpflichtung auf den Weltfrieden. Die AG \u201eF\u00fcr den Frieden\u201c w\u00fcnscht sich ein friedliches Europa in Freiheit und Selbstbestimmung und mit gleichberechtigter Zusammenarbeit. Krieg darf keine M\u00f6glichkeit menschlicher Konfliktbew\u00e4ltigung sein, nirgendwo und zu keiner Zeit \u2013 auch nicht in der Ukraine. Alle interessierten Menschen sind zu der Mahnwache herzlich willkommen. Als Zeichen der Solidarit\u00e4t k\u00f6nnen die Teilnehmer*innen gerne mitgebrachte Kerzen entz\u00fcnden. Es gelten die \u00fcblichen Corona-Regeln (Masken-Pflicht und Abstandsregelung). Herzlichen Dank f\u00fcr die Unterst\u00fctzung. AG \"F\u00fcr den Frieden\"<\/p><p><\/p>"},"id":"2b936fec-ca0d-4f99-9413-b24b2bb7cf6b","isHidden":false,"type":"text"}],"id":"ea835cb9-ea0d-487c-b6b2-a98db3e1d65f","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["screenshot-2022-03-15-091929.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"80a1802b-c651-4990-af5a-3c40ad90a95e","isHidden":false,"type":"image"}],"id":"ed5e6f5e-a476-4960-aa8d-5341a7c34a7a","width":"1\/2"}],"id":"bbff1f44-8f05-4762-bc43-1c6e7db20c9c"}]
+
+----
+
+Date: 2022-03-14 16:15:00
+
+----
+
+Datumstartseite: 2022-07-14 16:15:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 6Zd7y1TthSc2j3qz

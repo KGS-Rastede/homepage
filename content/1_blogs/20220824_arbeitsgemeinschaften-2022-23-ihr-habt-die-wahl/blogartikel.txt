@@ -1,0 +1,33 @@
+Title: Arbeitsgemeinschaften 2022/23 - Ihr habt die Wahl!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["was-treibt-dich-an.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b43a7d0e-50d9-4a49-aaa7-0ad5ee5ee786","isHidden":false,"type":"image"}],"id":"a021fd12-551f-49f7-a535-1761d1b094d8","width":"1\/1"}],"id":"9ad11699-efff-46fa-8af5-4a48cfa1757f"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Du willst lernen ohne Notendruck, Neues ausprobieren, deinen eigenen Interessen statt dem Lehrplan folgen, deine St\u00e4rken ausloten, gemeinsam mit anderen Projekte auf die Beine stellen? <br><br>Arbeitsgemeinschaften fordern dich heraus und vor allem machen sie Spa\u00df. Sie bieten dir die M\u00f6glichkeit, \u00fcber den Tellerrand der eigenen Klasse und der normalen Unterrichtsf\u00e4cher hinauszuschauen. Hier kannst du kreativ sein und dich so einbringen, wie es zu dir passt - ohne Leistungsdruck.<br><br>Ab sofort kannst du dich hier \u00fcber das vielf\u00e4ltige AG-Angebot f\u00fcr das Schuljahr 2022\/23 informieren: <a href=\"https:\/\/kgs-rastede.de\/unterricht\/ag-angebot\" rel=\"noopener noreferrer\">https:\/\/kgs-rastede.de\/unterricht\/ag-angebot<\/a><br><br>In den ersten beiden Schultagen erh\u00e4ltst du von deiner Klassenlehrkraft einen Zettel mit deinen pers\u00f6nlichen Zugangsdaten f\u00fcr die AG-Wahl. <br><br>Vom 29. August bis 1. September 2022 findet hier die Online-AG-Wahl statt: <a href=\"https:\/\/ag-wahl.kgs-rastede.de\" rel=\"noopener noreferrer\">https:\/\/ag-wahl.kgs-rastede.de<\/a><br><br>Wenn du organisatorische Fragen zur AG-Wahl hast, schreib eine E-Mail an <a href=\"mailto:ag@kgs-rastede.eu\">ag@kgs-rastede.eu<\/a>. Frau Varelmann und Frau Szyltowski helfen dir gern weiter. Hast du Fragen zu einer bestimmten Arbeitsgemeinschaft? Dann wende dich an die jeweilige AG-Leitung.<br><br>So manche Erfahrung in einer AG bringt dich m\u00f6glicherweise weiter als eine Stunde Vokabeln lernen. :-)<\/p>"},"id":"4d1fb367-0838-4026-8aec-d2df6025e2ab","isHidden":false,"type":"text"}],"id":"2c910872-c488-46c9-94de-b89a58bd49c4","width":"1\/1"}],"id":"c5116458-d005-480d-bf90-33829a0f47dc"}]
+
+----
+
+Date: 2022-08-24 09:10:00
+
+----
+
+Datumstartseite: 2022-12-24 09:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: AGs
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 9gRhqIQ6766AI2l4

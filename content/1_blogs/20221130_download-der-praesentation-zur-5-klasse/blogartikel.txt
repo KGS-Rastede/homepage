@@ -1,0 +1,33 @@
+Title: Download der Präsentation zur 5. Klasse
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Pr\u00e4sentation zur Infoveranstaltung vom 29.11.2022 <a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/download-der-praesentation-zur-5-klasse\/eb146f889a-1669828046\/kgsinfo4.pdf\" target=\"_blank\" title=\"finden Sie hier.\" rel=\"noopener noreferrer\">finden sie hier.<\/a><\/p>"},"id":"d6b0b86e-cde4-4a8d-8cb3-07c7d2f6e757","isHidden":false,"type":"text"}],"id":"735d4f4b-b8e4-440d-91dc-dc12141fe74a","width":"1\/1"}],"id":"07e11b02-5e68-4b6e-af14-6ccd30bab85f"}]
+
+----
+
+Date: 2022-11-30 18:05:00
+
+----
+
+Datumstartseite: 2023-03-30 18:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: - file://cyLu8EZVKt1aQa0M
+
+----
+
+Uuid: s9B7Q93QEKm03Lgr

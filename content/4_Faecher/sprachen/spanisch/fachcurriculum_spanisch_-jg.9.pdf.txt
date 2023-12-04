@@ -1,0 +1,13 @@
+Kurzbeschreibung: Lehrplan Spanisch JG 9
+
+----
+
+Jahrgang: 9
+
+----
+
+Schulzweig: GZ
+
+----
+
+Template: lehrplandatei

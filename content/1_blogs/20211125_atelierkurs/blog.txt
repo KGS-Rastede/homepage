@@ -1,0 +1,55 @@
+Title: Atelierkurs JG 5
+
+----
+
+Heading: Eine Extraportion Kunst im 5. Jahrgang
+
+----
+
+Text: [{"content":{"text":"<p>In diesem Jahr startete zum zweiten Mal im 5. Jahrgang das neue Atelierkursteam mit Sch\u00fcler:innen aus allen Schulzweigen. Zum regul\u00e4ren Kunstunterricht gibt es eine Extraportion Kunst am Nachmittag. So haben wir Zeit f\u00fcr ausgiebige Malexperimente und Farbforschungen oder auch Zeichnungen nach der Natur.<\/p><p>Zeichnen hei\u00dft sehen lernen: Im Palaisgarten haben wir uns auf die Suche nach dem perfekten Baum f\u00fcr ein Baumhaus gemacht und ihn gezeichnet.<\/p>"},"id":"96bdf701-f9d2-45f9-8716-ac5a8b83ce1c","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- img_2628.jpg
+- jooke1-herbstfarben.jpg
+- img_2623.jpg
+- 20211107_123351.jpg
+- img_2619.jpg
+- img_20211110_140024.jpg
+- img_2618.jpg
+- tina.jpeg
+- img_2622.jpg
+- img_20211110_141346.jpg
+- img_20211111_135439.jpg
+- jooke4-kuechenchaos.jpg
+- lotta-l3.jpg
+
+----
+
+Date: 2021-11-25 00:00:00
+
+----
+
+Datumstartseite: 2022-03-25 00:00:00
+
+----
+
+Author: Hildegard Varelmann
+
+----
+
+Tags: Kunst, Atelierkurs, Kulturelles, Junge Kultur
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Uuid: M323zaVRzv64NS49

@@ -1,0 +1,33 @@
+Title: Das erste Herausforderungsprojekt startet
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am Freitag, den 26.8.2022, startete an der KGS das erste <a href=\"https:\/\/kgs-rastede.de\/unterricht\/herausforderungsprojekt\/herausforderungsprojekt-2022\" target=\"_blank\" rel=\"noopener noreferrer\">Herausforderungsprojekt<\/a>.<\/p><p>In der zweiten Stunde wurden die Sch\u00fcler:innen der 9. Klassen von ihren Mitsch\u00fcler:innen , Lehrkr\u00e4ften und Eltern mit tosendem Applaus verabschiedet. In 13 verschiedenen Gruppen machen sie Fahrradtouren, wandern, helfen Organisationen und tauschen Gegenst\u00e4nde.<\/p><p>In diesen zwei Wochen werden sie zwar gr\u00f6\u00dftenteils von Student:innen begleitet, sind aber dennoch auf sich gestellt und m\u00fcssen Probleme, die sich ergeben, selbstst\u00e4ndig l\u00f6sen. Nur die Betreuer haben Handys dabei.<\/p><p>Jeden Tag schicken diese das \"12Uhr Bild\" an die Schule, welches wir im Laufe des Tages hochladen werden. Klickt dazu einfach auf den Link: <a href=\"https:\/\/kgs-rastede.de\/unterricht\/herausforderungsprojekt\/herausforderungsprojekt-2022\" target=\"_blank\" rel=\"noopener noreferrer\">Herausforderungsprojekt<\/a><\/p>"},"id":"e4e3d8f5-a907-4cf2-be3d-04cd07888a8b","isHidden":false,"type":"text"}],"id":"3f157a00-b6a9-4800-84ca-f2993f347915","width":"1\/1"}],"id":"26917063-378b-43ef-8fbe-ea7123fc268e"},{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https:\/\/player.vimeo.com\/video\/747706768?h=3dcd13838d","caption":""},"id":"9b515b03-a2cd-4cba-8d7f-6a5bc577bd56","isHidden":false,"type":"video"}],"id":"48bf5640-789d-4ce4-9764-51f6c635a02b","width":"1\/1"}],"id":"44674d81-f00e-47d3-a2a8-6bcc9d4b5eb7"}]
+
+----
+
+Date: 2022-08-26 11:05:00
+
+----
+
+Datumstartseite: 2022-12-26 11:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anja Lorenz
+
+----
+
+Tags: Herausforderungsprojekt, Projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 7wTCq5AP1G43MV2j

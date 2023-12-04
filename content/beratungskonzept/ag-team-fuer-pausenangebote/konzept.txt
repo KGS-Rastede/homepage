@@ -1,0 +1,17 @@
+Title: Team für Pausenangebote
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"location":"kirby","image":["boys-2769553_1920-kopie.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7b0bbb2d-ee25-4767-9b45-b74df6ad0e9b","isHidden":false,"type":"image"},{"content":{"text":"<p><strong>Gemeinsam planen wir die Umsetzung eurer Ideen f\u00fcr eine bewegte Schule mit&nbsp;aktiven Pausen. Was sind eure Ideen, was wollt ihr in den Pausen machen? Disco in der 1. Pause am Freitag? Spielausleihe in der Feldbreite? Fussball Pausen WM? Staffell\u00e4ufe? <\/strong><\/p>"},"id":"8d9a4ec8-ceba-4363-b7ab-963e42927cec","isHidden":false,"type":"text"},{"content":{"text":"<p>Das ist Teil unseres <a href=\"https:\/\/kgs-rastede.de\/unterricht\/ag-angebot\" rel=\"noopener noreferrer nofollow\">AG-Angebotes<\/a>. Du m\u00f6chtest mitmachen? Wende dich an Frau Duin-Lay. Kontakt: dui@kgs-rastede.eu<\/p>"},"id":"a7fe2cd7-5451-49ec-9d20-70d739795c0e","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: B8UjTtJbQzQj9e0h

@@ -1,0 +1,7 @@
+# /site/blueprints/blocks/audio.yml
+name: Horizontale Linie
+icon: dots
+# TODO: kann ich das hier irgendwie losweden? Ich brauche hier keinen Input...
+fields:
+  name:
+    type: text

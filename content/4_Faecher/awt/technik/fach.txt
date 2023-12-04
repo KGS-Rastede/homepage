@@ -1,0 +1,62 @@
+Title: Technik
+
+----
+
+Heading: "Gebt mir einen Hebel, der lang genug, und einen Angelpunkt, der stark genug ist, dann kann ich die Welt mit einer Hand bewegen."  Archimedes
+
+----
+
+Text: [{"content":{"text":"<p>Ganz so weit wie einst Archimedes gehen die Curricularen Vorgaben f\u00fcr das Fach Technik nicht. \"Das Fach Technik vermittelt den Sch\u00fclerinnen und Sch\u00fclern Erkenntnisse \u00fcber Hilfsmittel zur Gestaltung und Umgestaltung der gegebenen Lebenswelt und bietet Raum zur \u00dcbung und Anwendung der entsprechenden Mittel.\" Diese Gestaltung und Umgestaltung der Lebenswelt ist aktueller denn je, der technologische Wandel betrifft uns alle und wirkt in fast alle Lebensbereiche hinein.<\/p>"},"id":"cda36e6e-c643-4118-9202-15d3ff596428","isHidden":false,"type":"text"},{"content":{"text":"<p>An der KGS Rastede werden in der Haupt- und Realschule die vier Handlungsbereiche<\/p>"},"id":"ebca4cdf-7a2f-435d-b3fe-e9c87d6b213f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Arbeiten und Produzieren<\/p><\/li><li><p>Energie und Technik<\/p><\/li><li><p>Information und Kommunikation<\/p><\/li><li><p>Natur und Technik<\/p><\/li><\/ul>"},"id":"81d33287-9452-4ab7-a6e5-d58117a31987","isHidden":false,"type":"list"},{"content":{"text":"<p>abgedeckt. Eine Besonderheit ist die Sch\u00fclerfirma \"Holz und Mehr\" im neunten Jahrgang. Hieran schlie\u00dft sich in Klasse 10 der Profilkurs Technik an.<\/p>"},"id":"c3c910df-1853-4013-b485-f0edc999296a","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"2d0cafdd-7dac-412a-8f87-e5d3175de5e1","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- dsc_0148.jpg
+- dsc_0161.jpg
+- dsc_0149.jpg
+- dsc_0162.jpg
+- dsc_0170.jpg
+- dsc_0172.jpg
+- dsc_0176.jpg
+
+----
+
+Lehrplantext:
+
+# **Jahrgang 6**
+Themen: Technikraumordnung und Sicherheit, Einführung Ständerbohrmaschine, Werkstoffe Holz und Kunststoff, einfacher Stromkreis
+#** Jahrgang 7**
+Themen: Elektrische Stromkreise mit einfachen Bauteilen, Technisches Zeichnen, CNC-Fräse
+# ** Jahrgang 8**
+Themen: Elektrische Stromkreise mit aktiven Bauteilen, Antriebssysteme, Getriebe
+#  **Jahrgang 9 Schülerfirma "Holz und Mehr"**
+Themen: Arbeiten und Produzieren, Technisches Zeichnen
+# **Jahrgang 10 Profilkurs Technik**
+Themen: Bauen und Wohnen, Regenerative Energien, Energiewandlungssysteme, Steuern und Regeln, Bionik
+
+----
+
+Lehrplaene: 
+
+----
+
+Haupttag: Technik
+
+----
+
+Hintergrundbild:
+
+- dsc_0148.jpg
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=154'
+  name: Kerncurriculum Realschule

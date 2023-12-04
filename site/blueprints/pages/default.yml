@@ -1,0 +1,44 @@
+title: Default Page
+
+options:
+  update:
+    *: false
+    admin: true
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      heading:
+        type: text
+        label: Untertitel
+      text:
+        label: Text
+        type: blocks
+        size: large
+        fieldsets:
+            - heading
+            - text
+            - list
+            - image
+            - gallery
+            - video
+            - local-video
+            - code
+            - markdown
+            - audio
+            - horizontale-linie
+            - tabelle
+            - gastautor
+            - highlightfeld
+            - quote
+            - karousel
+            - accordion
+            - button
+  sidebar:
+    width: 1/3
+    fields:
+      downloads:
+        label: Verknüpfte Dateien
+        type: files
+        uploads: datei

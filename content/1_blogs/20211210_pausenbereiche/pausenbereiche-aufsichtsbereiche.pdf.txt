@@ -1,0 +1,9 @@
+Anzeigename: Pausenbereiche Sek I und Sek II
+
+----
+
+Beschreibung: 
+
+----
+
+Template: datei

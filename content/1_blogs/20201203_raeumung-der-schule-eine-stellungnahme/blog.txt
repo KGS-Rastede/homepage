@@ -1,0 +1,41 @@
+Title: Räumung der Schule - Eine Stellungnahme
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Was in jedem Haushalt passiert, ist heute auch bei uns im Physikunterricht passiert: Eine R\u00f6hre ist durchgebrannt.<\/p><p><\/p><p>Vorsorglich wurden sofort Feuerwehr und Krankenwagen alarmiert und die Schule evakuiert. Quecksilber ist nach Angaben der Beteiligten nicht ausgetreten. Auch sind keine Gase ausgetreten.<\/p><p><\/p><p>Es gibt keinen Personenschaden, alle betroffenen Sch\u00fclerinnen und Sch\u00fcler und eine Lehrkraft wurden der Vorsicht halber \u00e4rztlich untersucht.<\/p>"},"id":"f1bdda50-9f0c-4732-96a5-69f8de536c6a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-12-03 17:35:00
+
+----
+
+Datumstartseite: 2021-01-28 15:35:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: xepsGGuleVzB4s2u

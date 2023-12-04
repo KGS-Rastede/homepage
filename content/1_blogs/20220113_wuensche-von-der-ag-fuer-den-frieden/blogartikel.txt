@@ -1,0 +1,29 @@
+Title: Wünsche von der AG 'Für den Frieden'
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>F\u00fcr ein neues Jahr 2022 in Frieden, Freiheit, Gerechtigkeit und Gl\u00fcck - \"damit dieser Planet ein Ort bleibt, wo Menschen wohnen k\u00f6nnen\" (Arendt).<\/p><p><\/p>"},"id":"1d11bed4-481c-4005-8157-6c8ed98a572b","isHidden":false,"type":"text"}],"id":"f10eba2d-bdfa-442f-9d74-e786b362f28b","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["ag-fdf-2022.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"6904f561-d2ec-42dc-ad98-d7d56d538f4c","isHidden":false,"type":"image"}],"id":"2eed9105-6d3f-4871-974f-7c1f13a6bbef","width":"1\/2"}],"id":"ffde4937-d5d9-4f98-a287-0568749ed45e"}]
+
+----
+
+Date: 2022-01-13 00:00:00
+
+----
+
+Datumstartseite: 2022-04-01 00:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden, 2022
+
+----
+
+Downloads: 
+
+----
+
+Uuid: argssf8NeVnKnkfW

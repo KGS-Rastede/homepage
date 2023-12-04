@@ -1,0 +1,39 @@
+Title: Vollsperrung Wiefelstede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der Landkreis informiert: In der 50. Kalenderwoche (Montag,\u00a012.\u00a0Dezember\u00a02022 \u2013 Sonntag,\u00a018.\u00a0Dezember\u00a02022) wird es zu einer Vollsperrung eines Teils der Hauptstra\u00dfe in Wiefelstede kommen. Diese hat Auswirkungen auf den sch\u00fclerorientierten Linienverkehr und die Linie 330<\/p><p><a href=\"https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info1.pdf\" rel=\"noopener noreferrer\">https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info1.pdf<\/a><\/p><p><a href=\"https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info2.pdf\" rel=\"noopener noreferrer\">https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info2.pdf<\/a><\/p><p><a href=\"https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info3.pdf\" rel=\"noopener noreferrer\">https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info3.pdf<\/a><\/p><p><a href=\"https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info4.pdf\" rel=\"noopener noreferrer\">https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info4.pdf<\/a><\/p><p><a href=\"https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info5.pdf\" rel=\"noopener noreferrer\">https:\/\/kgs-rastede.de\/blogs\/vollsperrung-wiefelstede\/info5.pdf<\/a><\/p><p><\/p>"},"id":"e43eb97e-f7c0-4b4c-aa84-33bf1b49dba8","isHidden":false,"type":"text"}],"id":"0bb0c4dd-4bdb-4399-b26b-2ef0af55e84e","width":"1\/1"}],"id":"eaa16cc7-a24d-436c-bfc3-f5cc56b40277"}]
+
+----
+
+Date: 2022-12-09 08:55:00
+
+----
+
+Datumstartseite: 2023-04-14 08:55:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Landkreis Ammerland
+
+----
+
+Tags: 
+
+----
+
+Downloads:
+
+- file://RbUpFaLv5YuD9KDA
+- file://luVWRT8puQ99ZeWp
+- file://zDBicRrqiwkm0ApF
+- file://30VDAmxxVsF5Kr28
+- file://ShiRK6Eu0t97XsN8
+
+----
+
+Uuid: aOtyhsXf5MeuEU45

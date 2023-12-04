@@ -1,0 +1,33 @@
+Title: Leistungskurs Musik (Jg. 12 & 13) besucht "Figaros Hochzeit" in der Semperoper in Dresden
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://rKulsORSAmxznQQ0"],"caption":"","ratio":"","crop":"false"},"id":"11bd02d0-cb97-4b90-9136-becae9463239","isHidden":false,"type":"gallery"}],"id":"ddfc451c-f975-4fe9-8c6d-f6e469c5c445","width":"1/1"}],"id":"f28381d8-090f-4dc5-9e79-8f22347796f0"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wenn von Hannover \"Mozarts Da Ponte-Opern\" als verpflichtendes Thema vorgegeben wird, dann hört man im Musik-Leistungskurs gute Aufnahmen, schaut Videomitschnitte von erfolgreichen Produktionen an und analysiert die großen Arien ODER man erlebt die Oper als das, was es ursprünglich sein soll, als Live-Erlebnis. </p><p>Wir haben uns für eine Live-Aufführung entschieden, die wirklich ein Erlebnis war! Am 8. Oktober sind wir ganz früh morgens mit der DB nach Dresden gereist und haben dort \"Figaros Hochzeit\" von Wolfgang Amadeus Mozart in der Semperoper in Dresden angeschaut aus dem Parkett, 1. Reihe. Die Semperoper selbst ist schon einen Besuch wert, aber ein Opernabend in der Semperoper ein absolutes Highlight. Da wir uns schon seit den Sommerferien mit dieser Oper im Unterricht auseinandergesetzt hatten, waren es vor allem die bereits bekannten Szenen, die für uns besonders waren, hatten wir doch zuvor uns selbst als Regisseure mit Playmobil-Hauptdarstellern in Stop-Motion versucht, oder die Arien sogar selbst gesungen. </p><p>Den Abschluss des gelungenen Abends bildete ein gemeinsames Abendessen beim Italiener. Und wäre der Vormittag des 9. Oktober nicht ganz so verregnet gewesen, hätten wir noch viel mehr Fotos von der schönen Stadt Dresden und ihren Sehenswürdigkeiten gemacht. </p>"},"id":"0e1cea3a-c1bd-457a-a08b-69bc774543e5","isHidden":false,"type":"text"}],"id":"74200609-44bc-453e-a2b8-82e1fe2e6c00","width":"1/1"}],"id":"9e5373ba-59fd-4871-943a-d42e9139e88c"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://yDxzfvJjciFZvjKl"],"caption":"","ratio":"","crop":"false"},"id":"a30bb86a-b1aa-4791-a8e1-6365413c85fc","isHidden":false,"type":"gallery"}],"id":"b212f62f-2113-4a35-8c35-4f2d7fdaaa63","width":"1/1"}],"id":"5ac9ca69-2570-40cd-87f6-addeab4cba21"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://FWbWdhdywvG8cA1K"],"caption":"","ratio":"","crop":"false"},"id":"efcea78b-8d32-4c3e-9194-4f4fe251a8f8","isHidden":false,"type":"gallery"}],"id":"6f012e67-68aa-479a-97e2-400d1e975692","width":"1/1"}],"id":"162893a3-2ffc-4695-b9b4-1fa90d919abb"}]
+
+----
+
+Date: 2023-11-07 08:25:00
+
+----
+
+Datumstartseite: 2024-03-07 08:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Bianca Schwäbe
+
+----
+
+Tags: Ausflug, Musik, Leistungskurs, Dresden
+
+----
+
+Downloads: 
+
+----
+
+Uuid: VxX5TNipVjxM6Swx

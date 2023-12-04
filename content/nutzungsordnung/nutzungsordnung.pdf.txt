@@ -1,0 +1,13 @@
+Anzeigename: Nutzungsordnung (Langfassung)
+
+----
+
+Beschreibung: Dies ist die von der Gesamtkonferenz vom 01.06.21 verabschiedete Fassung der Nutzungsordnung
+
+----
+
+Template: datei
+
+----
+
+Uuid: 68SZ8G6P3FDBKYlW

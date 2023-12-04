@@ -1,0 +1,29 @@
+Title: Krieg in der Ukraine
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Krieg in der Ukraine Am 24. Februar 2022 greift Russland die Ukraine mit Raketen an. Diese milit\u00e4rische Aggression kostet unschuldige Menschen das Leben. Zudem verletzt der russische Pr\u00e4sident Puntin das V\u00f6lkerrecht und die Charta der UNO. Unsere AG \"F\u00fcr den Frieden\" dokumentiert mit einer PowerPointPr\u00e4sentation im Forum die t\u00e4glichen Entwicklungen. Wir setzen uns ein f\u00fcr ein friedliches Europa der V\u00f6lker in Freiheit und Selbstbestimmung. <\/p><p>AG \"F\u00fcr den Frieden\"<\/p>"},"id":"a4234636-437a-40ab-a55b-5ff88e41b7cf","isHidden":false,"type":"text"}],"id":"ba1df02b-733b-4d06-815c-c1c39085e0e7","width":"1\/1"}],"id":"67a4eee6-160f-4d4a-afc1-5852226e109e"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["krieg-und-frieden-ukraine-russland-tagespolitik.gif"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"158d2fba-0ee3-4465-af0d-b87da992b578","isHidden":false,"type":"image"}],"id":"4110aa18-1c66-4893-908b-6f01912a99eb","width":"1\/1"}],"id":"da175a5d-2f0d-47b4-a9a8-9df4ccfe7359"}]
+
+----
+
+Date: 2022-03-08 14:15:00
+
+----
+
+Datumstartseite: 2022-07-08 14:15:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 6ZRXyeKLAVrQ991k

@@ -1,0 +1,41 @@
+Title: Jahrbuch 21: Beiträge gesucht!
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Liebe Sch\u00fclerinnen und Sch\u00fcler, liebe Kolleginnen und Kollegen, liebe Erziehungsberechtigte,<\/p><p>dieses Jahr soll es <strong>TROTZDEM<\/strong> von der Brainstorm-AG wieder ein Jahrbuch in gedruckter Form geben und dazu braucht es eure Hilfe.<\/p><p>Gefragt sind zu <strong>letztem <\/strong>und <strong>diesem<\/strong> Schuljahr z.B.<\/p>"},"id":"ce8de8d9-8727-489d-ab53-5e2098eb6c93","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Berichte von Aktionen, die TROTZDEM stattgefunden haben<\/li><li>Fotos oder Bilder von Aktionen, die im Unterricht oder im Distanzlernen entstanden sind<\/li><li>Geschichten, Erz\u00e4hlungen,- Kreative Umsetzungen von Aktionen, die geplant waren und nicht stattgefunden haben<\/li><li>Lustige Sch\u00fclerl\u00f6sungen, lustige Sch\u00fcler- und Lehrer\u00e4u\u00dferungen (alles anonym)<\/li><li>Berichte aus den AGs<\/li><\/ul>"},"id":"33567599-1032-465a-8035-e572f38d11cd","isHidden":false,"type":"list"},{"content":{"location":"kirby","image":["jahrbuch.png"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"53535818-735c-483a-8713-0a5ca9275c11","isHidden":false,"type":"image"},{"content":{"text":"<p>Der lustigste Beitrag bekommt ein <strong>MAOAM<\/strong>!<\/p><p><br><\/p><p>Bitte schickt eure Beitr\u00e4ge bis zum <strong>21. Mai 2021<\/strong> an <u><a href=\"mailto:brainstorm@kgs-rastede.eu\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">brainstorm@kgs-rastede.eu<\/a><\/u><\/p><p><br><\/p>"},"id":"7de75fcd-9fbb-4379-b2ff-4a6e76825baa","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-03-26 00:00:00
+
+----
+
+Datumstartseite: 2021-07-26 00:00:00
+
+----
+
+Author: Beryl Bolduan für Brainstorm
+
+----
+
+Tags: Brainstorm, Jahrbuch
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: TzumpECIJHXDUXhc

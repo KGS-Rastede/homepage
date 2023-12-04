@@ -1,0 +1,33 @@
+Title: Ferienlektüre mal etwas anders vorgestellt....
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In den letzten Wochen vor den Osterferien besch\u00e4ftigte sich die 5A3 im Deutschunterricht mit dem Thema \"Buchvorstellung\". Jeder sollte eines seiner Lieblingsb\u00fccher der Klasse pr\u00e4sentieren, jedoch in einem etwas anderem Format. Dieses Mal sollte eine Lesekiste erstellt werden, mit deren Hilfe das Buch bzw. einzelne Szenen des Buches zum Leben erweckt werden. Die Sch\u00fcler:innen arbeiteten mit Begeisterung an ihren Kisten, sammelten Gegenst\u00e4nde, die zu ihren B\u00fcchern passten, und stellten dann mit ihrer Kiste der Klasse die B\u00fccher vor. Selbstverst\u00e4ndlich gab es zu jedem Buch noch einen kleinen Lesevortrag und viele B\u00fccher wurden nach dem Vortrag gleich verliehen. Im Schaukasten (1.OG) an der Feldbreite befindet sich nun eine kleine Ausstellung der B\u00fccherkisten.<\/p><p>Bild 1: <strong>Die drei !!!, Tatort, Tee und ganz viel London<\/strong> Kim, Franzi und Marie sind \u201eDie drei !!!\u201c und zur Hochzeit von Franzis Cousine in London eingeladen. Doch kurz vor dem Fest erh\u00e4lt die Braut einen Erpresserbrief. Wer hat Interesse daran, die Hochzeit zu verhindern? Die drei Freundinnen die Ermittlungen auf.<\/p><p>Bild 2: <strong>Luisa - Schule ist toll, besonders in den Ferien<\/strong>Luisa und ihre Familie machen Ferien an die Ostsee. Sogar Lakritze, Luisas kleine schwarze Katze, darf mit. Aber Lakritze macht sich jeden Abend zu einer geheimen Runde auf.Wohin verschwindet das K\u00e4tzchen? Und warum ist es pl\u00f6tzlich so scharf aufs M\u00e4usefangen? Detektivin Luisa setzt alles daran, den Fall zu l\u00f6sen.<\/p><p>Bild 3: <strong>Woodwalkers (1). Carags Verwandlung<\/strong>Auf den ersten Blick sieht Carag aus wie ein normaler Junge. Doch hinter seinen leuchtenden Augen verbirgt sich ein Geheimnis: Carag ist ein Puma-Gestaltwandler und lebt erst seit Kurzem in der Menschenwelt.<\/p><p>Bild 4: <strong>Ein M\u00e4dchen namens Willow<\/strong> Willow hat einen Wald von ihrer Tante Alwina samt windschiefen H\u00e4uschen und Hexenkraft geerbt. Doch m\u00f6chte Willow dieses Erbe, mit allem was dazu geh\u00f6rt, wirklich annehmen? Und dann soll sie auch noch drei M\u00e4dchen finden, die die Gabe des Hexens ebenfalls in sich tragen. Nur wo? Zum Gl\u00fcck ist Willow nicht allein, denn Rufus, der Fuchs, weicht nicht mehr von ihrer Seite.<\/p>"},"id":"6d2924c2-127f-4365-9095-cce607964bef","isHidden":false,"type":"text"}],"id":"1e373299-e02d-423c-85bf-29db64956046","width":"1\/1"}],"id":"09f3a645-0830-403c-befa-15b6c00c7639"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/mwGg59hjje7z7RzP","file:\/\/nRwPRylI9xxedbkJ","file:\/\/THsKpUnKzBU1jeyk","file:\/\/x0VV6Dyhgxcpbj5D"],"caption":"","ratio":"","crop":"false"},"id":"c2c3ca21-797c-4813-ad28-9944adfb323a","isHidden":false,"type":"gallery"}],"id":"ea142c65-99ac-4ad7-9aeb-34b9d3e4191e","width":"1\/1"}],"id":"972ef196-ec35-4079-b4b2-de41aaaf8ecf"},{"attrs":[],"columns":[{"blocks":[{"content":{"name":""},"id":"5f411130-5107-4858-89f7-9f0ef8d5f385","isHidden":false,"type":"horizontale-linie"}],"id":"a7fafad4-9566-40f6-909a-acde84633f8c","width":"1\/1"}],"id":"8af419a4-266f-4d25-8906-60042df1c8c8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bild 5: <strong>Die Nordseedetektive. Fahrraddieben auf der Spur<\/strong> Die Nordseedetektive verreisen mit Papa Mick und Mama Sarah nach Langeoog. Doch kaum auf der Insel angekommen, werden Familie Janssen die Fahrr\u00e4der gestohlen. Nur gut, dass Emma und Lukas das \u201eHandbuch f\u00fcr gute Detektive\u201c mit im Gep\u00e4ck haben. Die Ermittlungen werden sofort aufgenommen.<\/p><p>Bild 6: <strong>Madame Kunterbunt, Band 1: Madame Kunterbunt und das Geheimnis der Mutmagie<\/strong><br>Madame Kunterbunt wird die neue Klassenlehrerin der 3a. Sie tr\u00e4gt Kleider in allen Farben des Regenbogens, wenn sie spricht, klingt es wie eine sch\u00f6ne Melodie, und s\u00e4mtliche Sorgen werden in ihrer Gegenwart ein bisschen kleiner. Das liegt auch an ihren Cham\u00e4leons Cilly und Rosso, die immer herrlich viel Bl\u00f6dsinn anstellen, denn ihre schimmernden Schuppen haben Zauberkr\u00e4fte!<\/p>"},"id":"98a6a7dc-59f5-4a51-9596-0e2a3b590eca","isHidden":false,"type":"text"}],"id":"a818d618-67c7-4dc6-9749-b06c35d4a8aa","width":"1\/2"},{"blocks":[{"content":{"images":["file:\/\/gd7A4dUG7bSKqi3j","file:\/\/WPbxhQBIaect80c0"],"caption":"","ratio":"","crop":"false"},"id":"6640531e-8fda-4e7d-8e65-2e281a4f2f32","isHidden":false,"type":"gallery"}],"id":"c76b991b-5c33-43e0-bbc6-8b9b466d9220","width":"1\/2"}],"id":"a7684b64-3650-40ae-8122-07573d54ffc9"}]
+
+----
+
+Date: 2023-03-30 11:00:00
+
+----
+
+Datumstartseite: 2023-07-30 11:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anja Lorenz
+
+----
+
+Tags: Deutsch, Ferien, Lesen
+
+----
+
+Downloads: 
+
+----
+
+Uuid: klqu7aVg0NAtgeg8

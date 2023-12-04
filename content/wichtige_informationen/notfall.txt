@@ -1,0 +1,31 @@
+Title: Schulausfall: Banner für die Startseite
+
+----
+
+Toggle: true
+
+----
+
+Text:
+
+**Halbjahresferien: Mo + Di, ab Mittwoch, 02.02. ist Unterricht nach Plan. Die Lehrerfortbildung entfällt.**
+
+Liebe Schülerinnen und Schüler, sehr geehrte Eltern,
+**Ab Februar testen sich alle Schüler:innen täglich - bis Ende Februar 2022. Nur die geboosterten, d.h. dreimal geimpft oder zweimal geimpft plus genesen, können auf den Test verzichten.**
+
+Eltern und sonstige Besucher können nur nach der Maßgabe** 2G+** die Schule betreten. Bitte nehmen Sie vorher telefonisch Kontakt mit uns auf (04402-9264-0).
+Die wichtigsten Informationen sind hier zusammengefasst: https://kgs-rastede.de/blogs/informationen-zum-neuen-schuljahr und werden fortlaufend aktualisiert.
+
+Vor Schulbeginn sammeln sich Schülerinnen und Schüler in ihrem Pausenbereich.
+
+----
+
+Texttitel: 
+
+----
+
+Category: eigenerTitel
+
+----
+
+Sichtbarkeit: ja

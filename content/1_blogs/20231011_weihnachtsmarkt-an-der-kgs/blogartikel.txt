@@ -1,0 +1,33 @@
+Title: Weihnachtsmarkt an der KGS
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>HOHOHO!</p><p>Weihnachtsmarkt an der KGS am Freitag, 24.11.2023 von 16 bis 20 Uhr in den Räumen der KGS an der Wilhelmstraße.</p><p>Es duftet schon weihnachtlich aus den Küchen der KGS. Es gibt Selbstgebackenes, Selbstgebasteltes, Musik, ... Da ist sicherlich auch die ein oder andere Geschenkidee dabei! <br>Wir freuen uns auf eine rege Teilnahme! Bringt sie alle mit!!!</p>"},"id":"e6883659-9b44-410d-8035-cd764f2026fc","isHidden":false,"type":"text"}],"id":"d66a6938-b29d-4ad1-9511-b5555f090820","width":"1/1"}],"id":"4dd4a91a-35ee-444c-9e80-275e628340d2"}]
+
+----
+
+Date: 2023-10-11 15:55:00
+
+----
+
+Datumstartseite: 2024-02-11 15:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Hartwig Haßmann
+
+----
+
+Tags: Weihnachten, SER
+
+----
+
+Downloads: 
+
+----
+
+Uuid: mvGEvhsXv6JSStlD

@@ -1,0 +1,33 @@
+Title: Spanienaustausch in Madrid
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Intercambio con España - Olé"},"id":"ab21f8d4-be19-4489-9fa9-fee1f09c6bcf","isHidden":false,"type":"heading"}],"id":"5e80f445-2291-4c6b-82d6-50ec19082d22","width":"1/1"}],"id":"b3d388c1-8242-4771-ab66-3152828fd37e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Nach dem wir aus Spanien den ersten Teil des Berichtes geschickt haben, folgt hier der 2. Teil:</p><p>Am Montag, 17.4. waren wir in Toledo, welches eine beeindruckende Stadt, etwa eine Stunde  mit dem Bus außerhalb von Madrid ist. Überlandbusse sind dort ein weit verbreitetes Verkehrsmittel.</p><p>Toledo ist auf einem Berg gebaut und galt deswegen früher als uneinnehmbar. Wir konnten glücklicherweise mit Rolltreppen hochfahren und mussten nicht Treppensteigen. Wir fanden diesen Ausflug besonders schön, da Toledo eine wunderschöne Aussicht, sowie zahlreiche kleinere Gassen und einen malerischen Fluss hat.</p><p>Am Mittwoch waren wir im Reina Sofía, das ist ein Kunstmuseum in Madrid, welches viele Bilder von Pablo Picasso oder auch Salvador Dalí ausstellt. Dort durfte man zwar keine Fotos machen, aber die Bilder haben bleibende Eindrücke hinterlassen, so haben wir z.B. das Gemälde „Guernica“ von Pablo Picasso angeguckt, mit welchem er die Zerstörung der spanischen Stadt Guernica während des damaligen Bürgerkriegs in Spanien thematisierte und das ebenfalls bei der Weltausstellung 1937 in Paris ausgestellt wurde. Das Bild ist 3,50 x 7,80 Meter groß. Am Nachmittag waren wir noch im Retiro Park, wo wir gepicknickt und auf einem See gepaddelt haben.</p><p>Eigentlich wollten wir am Freitagmorgen von Madrid wieder nach Hamburg fliegen, aber aufgrund des Streikes in Deutschland wurde unser Flug gestrichen. Unsere Lehrerinnen mussten sich dann noch um einen anderen Flug bemühen. Im Endeffekt „durften“ wir noch einen Tag länger bleiben und sind erst am Samstagnachmittag von Madrid, dann allerdings nach Brüssel (Belgien) geflogen, von wo aus wir einen Zug nach Rotterdam und einen weiteren nach Groningen, Niederlande genommen haben. Wir sind am Sonntag um 0:45 Uhr von unseren Eltern in Groningen abgeholt worden und waren teilweise erst um 2:30 Uhr zu Hause. Nach diesem Rückreiseabenteuer waren wir ziemlich müde und freuten uns wieder zu Hause zu sein, aber haben uns unsere gute Laune auf keinem Teil der Reise nehmen lassen. 4 Länder in 9 Stunden! Das muss man uns erstmal nachmachen. Nun freuen wir uns um so mehr auf die Zeit, wenn die Spanier uns im Juni besuchen kommen.</p><p>In unserer Zeit in Madrid haben wir gemerkt, dass dort vieles anders ist, z.B. deren Essenszeiten. Wir in Deutschland essen Mittag so ca. um 13 oder 14 Uhr. Die Spanier essen allerdings Mittag um 17 oder 18 Uhr und Abendbrot so gegen 22 oder 23 Uhr. Außerdem gibt man sich dort zur Begrüßung und manchmal auch zur Verabschiedung ein Küsschen auf die rechte und auf die linke Wange.</p><p>In Spanien machen die meisten Leute mittags eine sogenannte ,,siesta\". Dies ist nichts anderes als ein längerer Mittagsschlaf in Deutschland. Dazu sind die spanischen Leute viel offener und gastfreundlicher als die Deutschen. Zusätzlich gibt es in Madrid sehr viele Parks, wo die Leute sich treffen, um miteinander Zeit zu verbringen. Zudem essen die Spanier viel mehr als wir Deutschen zu einer Mahlzeit z.B. essen sie 3 oder 4 Gänge und dazu auch noch recht ungesund. Zum Frühstück essen sie nicht wie wir Müsli oder Toast, sondern Kuchen oder Kekse.</p>"},"id":"4034d01a-3aca-415a-8590-0ae5dbf3446f","isHidden":false,"type":"text"}],"id":"7846ac55-c7af-4577-b6e6-f27a87aa1d99","width":"1/1"}],"id":"e7ce4706-15f8-45a4-b8f4-c8dc8518b14e"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://Fl53RisMHplBe34N"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true","orientation":""},"id":"91115d1e-619a-40d0-b5f1-1a0e3894c9e4","isHidden":false,"type":"image"}],"id":"eaf02b88-ffce-4dff-9161-5056f897573c","width":"1/1"},{"blocks":[],"id":"ee0957ee-558e-499e-a648-bd1734ce9368","width":"1/3"},{"blocks":[],"id":"24dabecc-af9d-4f30-bac8-0bc93287b018","width":"2/3"}],"id":"9ef720ed-1c7b-49a0-9b51-ebf9e3c4f338"},{"attrs":[],"columns":[{"blocks":[],"id":"a41e5c3a-5263-4b7f-8e46-cf1c7305cdde","width":"1/1"}],"id":"befee56a-7c89-407f-a6bc-ee8157b13521"}]
+
+----
+
+Date: 2023-05-08 17:45:00
+
+----
+
+Datumstartseite: 2023-09-08 17:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 4afVSnRduPdXV2CE

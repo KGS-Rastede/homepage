@@ -1,0 +1,43 @@
+Title: GSW
+
+----
+
+Bezeichnung: Fachbereichsleiter
+
+----
+
+Namefbl: Herr Meyer
+
+----
+
+Email: my@kgs-rastede.eu
+
+----
+
+Text: 
+
+----
+
+Pages:
+
+- Faecher/gesellschaftswissenschaften/WuN
+- >
+  Faecher/gesellschaftswissenschaften/erdkunde
+- >
+  Faecher/gesellschaftswissenschaften/geschichte
+- >
+  Faecher/gesellschaftswissenschaften/religion
+- >
+  Faecher/gesellschaftswissenschaften/politik-wirtschaft
+
+----
+
+Symbolbild: - sozi.jpg
+
+----
+
+Tags: Erdkunde, Religion, Weno, Werte und Normen, Geschichte
+
+----
+
+Uuid: 3ftiTbkHqKtFS6YZ

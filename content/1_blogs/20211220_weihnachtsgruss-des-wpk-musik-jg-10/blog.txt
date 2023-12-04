@@ -1,0 +1,41 @@
+Title: Weihnachtsgruß des WPK Musik JG 10
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"url":"https:\/\/vimeo.com\/658535079","caption":""},"id":"d2469630-4614-46a0-b6c0-a3ee1a3bcbeb","isHidden":false,"type":"video"},{"content":{"location":"kirby","image":["glocke1.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f4946ede-2e74-4572-bcaf-60818573aa86","isHidden":false,"type":"image"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-12-20 00:00:00
+
+----
+
+Datumstartseite: 2022-04-20 00:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: Musik
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: o9TqxXJYrVstYK3f

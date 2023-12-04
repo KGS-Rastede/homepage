@@ -1,0 +1,70 @@
+Title: Musik
+
+----
+
+Heading: "Das Beste in der Musik steht nicht in den Noten." - Gustav Mahler
+
+----
+
+Text: [{"content":{"level":"h2","text":"<strong>Einige Gedanken zur Musik</strong>"},"id":"47c397db-5472-4007-b863-a2819186797e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Als 1977 die beiden Raumsonden Voyager 1 und 2 zur Erforschung unseres Planetensystems und des interstellaren Raums ins Weltall geschossen wurden, hatten sie eine interessante Fracht an Bord: die Voyager Golden Records. In der Hoffnung, dass die Sonden irgendwann in ferner Zukunft außerirdischem Leben in die Hände fallen, sollen diese Datenträger Auskunft darüber geben, was die Menschheit sei. Darauf befinden sich Bild- und Tondokumente: Neben Grußworten in 55 Sprachen gibt es Aufnahmen von Tier- und Umweltgeräuschen und dazu – Musik: ethnische Musik verschiedener Kulturen, Bach, Mozart, Beethoven, Chuck Berry und Louis Armstrong.</p>"},"id":"08b87f4b-2394-4da8-85c4-5fab68f0993a","isHidden":false,"type":"text"},{"content":{"text":"<p>Noch lange bevor Musik also ein Schulfach ist, ist sie Ausdruck menschlicher Kultur, Ausdruck unseres Menschseins an sich. Es gibt kaum eine Person, die von sich behauptet, sie höre keine Musik, so sehr ist dieses Phänomen mit unserer individuellen Existenz verwoben.</p>"},"id":"7db01be2-82fb-4b20-a3bc-bb75a6e40e93","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>Das Fach Musik an der KGS Rastede</strong>"},"id":"bee50de1-7561-451a-beb2-ad22a1bb8612","isHidden":false,"type":"heading"},{"content":{"text":"<p>Dies nie zu vergessen ist auch Aufgabe des Schulfaches Musik. Im Musikunterricht an der KGS Rastede versuchen wir daher, möglichst viele Aspekte von Musik zu berücksichtigen und sie ins Verhältnis zur Lebenswirklichkeit der Kinder und Jugendlichen im Ammerland zu setzen. Wir suchen Anknüpfungspunkte im Bekannten und bauen Brücken ins Unbekannte, denn vor allem dort lassen sich neue Antworten darauf finden, wer man denn eigentlich ist.</p>"},"id":"291da7ee-d173-4c48-a9e6-ef23abab1bce","isHidden":false,"type":"text"},{"content":{"text":"<p>Nach dem niedersächsischen Kerncurriculum soll Musik „erfahrend erschlossen werden“. Dieser Maxime wird der Musikunterricht an der KGS in besonderer Weise gerecht, da wir einen hohen Anteil von Musikpraxis in den Unterricht integrieren. Jede:r Schüler:in macht in jeder Doppelstunde selbst Musik, sammelt so umfangreiche Erfahrungen an sehr unterschiedlichen Instrumenten. Dazu üben wir mit den Schüler*innen immer wieder das genaue Zuhören. Im Vordergrund stehen also ästhetische Erfahrungen, die Musiktheorie hat dabei dienende Funktion und ermöglicht ein vertieftes Verstehen von Musik.</p>"},"id":"9ccc222d-5cda-4417-8a3e-8a1d3f07821d","isHidden":false,"type":"text"},{"content":{"text":"<p>Wichtig ist zudem die historische, gesellschaftliche und funktionale Dimension von Musik: Dementsprechend behandeln wir Themen aus sehr unterschiedlichen Bereichen, vom Worksong bis zum Rap, vom gregorianischen Gesang bis zur Neuen Musik, von Nationalhymnen zur Musik in der Werbung und im Film. Dies dient auch dazu, dass die Schüler*innen die Kultur ihrer Zeit als historisch gewachsen und veränderbar verstehen.</p>"},"id":"9ec9af21-9729-4fbf-97d8-398da5749368","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Fachbereich musisch-kulturelle Bildung ist die eigentliche Gesamtschule in der KGS, denn neben Sport werden nur Kunst und Musik schulzweigübergreifend in voll integrierten Kursen unterrichtet. Dies erfordert ein hohes Maß an Differenzierung: Jede:r Schüler:in soll auf seinem Niveau gefordert werden und für sich und sein Leben fruchtbare Anknüpfungspunkte zur Musik finden.</p>"},"id":"6cecd946-cd60-4207-8830-67b770ddb6c4","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Kursangebot im Fach Musik"},"id":"d85b8e77-e606-436e-90d6-16cc3a59f0e4","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>In Jahrgang 5 wird das Fach ganzjährig unterrichtet, anschließend bis Jg. 10 epochal. </li><li>In Jg. 5/6 gibt es einen Bläserkurs. In diesem Kurs lernen die Schüler:innen ein Blasinstrument (Querflöte, Klarinette, Saxophon, Trompete, Posaune oder Euphonium). Dafür haben sie zusätzlich zum Ensembleunterricht am Vormittag eine Stunde Instrumentalunterricht am Nachmittag.</li><li>Im Gymnasialzweig besteht ab Jg. 8 zudem die Möglichkeit, das musisch-kulturelle Wahlpflicht-Profil zu wählen. Hier haben die Jugendlichen in Jg. 8 und 10 zwei zusätzliche Stunden Musik. Am Ende des 10. Jahrgangs entsteht dann eine Musiktheaterproduktion in Zusammenarbeit mit dem Fach Darstellendes Spiel.</li><li>Seit kurzem ist es auch möglich, am Gymnasialzweig in Jg. 10 Musik auf Englisch, also als bilinguales Angebot anwählen zu können.</li><li>Aktuelle gibt es im Jg. 11 den WPU Musik in Kooperation mit dem Fach Politk. </li><li>In der Oberstufe kann ein Musik-Leistungskurs gewählt werden. Hier sind auch fachpraktische Abiturprüfungen möglich.</li></ul>"},"id":"4ef1730e-5561-453d-b7b8-161bfaedce0a","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"AG-Angebot im Fach Musik"},"id":"f0048467-bf22-4786-bf45-94341729c133","isHidden":false,"type":"heading"},{"content":{"text":"<p>Dazu kommen einige Arbeitsgemeinschaften im Ganztagsbereich: z.Zt. der Chor für die Jahrgänge 5/6, der <a href=\"https://kgs-rastede.de/unterricht/ag-angebot/1087-02\" title=\"Chor AG\" rel=\"noopener noreferrer\">Chor </a>für die Jahrgänge 7-13 und die Big Band \"<a href=\"https://kgs-rastede.de/unterricht/ag-angebot/815-02\" title='Band AG \"Koops\"' rel=\"noopener noreferrer\">Koops</a>\". Diese gehen regelmäßig auf Probenfahrten und treten in der Neuen Aula auf.</p>"},"id":"168b281d-290e-45ae-911a-4bb733cccd1f","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
+Haupttag: Musik
+
+----
+
+Hintergrundbild: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung
+  name: >
+    Leitbild des Fachbereichs
+    Musisch-kulturelle Bildung
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=searched_download&skey_lev0_0=Schulbereich&svalue_lev0_0=Sek+I&skey_lev0_1=Schulform&svalue_lev0_1=Integrierte+Gesamtschule&skey_lev0_2=Fach&svalue_lev0_2=Musik&&uploadnum=0'
+  name: Kerncurriculum Sek I
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=104'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: >
+    https://bildungsportal-niedersachsen.de/allgemeinbildung/zentrale-arbeiten/zentralabitur/zentralabitur/2023
+  name: Hinweise zum Zentralabitur 2023
+- 
+  link: >
+    https://kgs-rastede.de/unterricht/ag-angebot/1087-02
+  name: Chor AG
+- 
+  link: >
+    https://kgs-rastede.de/unterricht/ag-angebot/815-02
+  name: Band AG "Koops"
+
+----
+
+Downloads: 
+
+----
+
+Uuid: r8BzL4PfjkKAzR3f

@@ -1,0 +1,41 @@
+Title: Advent an der KGS
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Advent im Schulgarten Feldbreite!<\/p><p><\/p><p>Herzliche Gr\u00fc\u00dfe von der AG Schulgarten<\/p>"},"id":"b37f0289-96fa-4d5f-ad9a-8c9f00740aca","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - advent.jpeg
+
+----
+
+Date: 2020-12-15 19:10:00
+
+----
+
+Datumstartseite: 2021-01-10 19:10:00
+
+----
+
+Author: Sonja Eitel-Harms
+
+----
+
+Tags: Schulgarten, AGs
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: AIz7aKRT5p6zLyvQ

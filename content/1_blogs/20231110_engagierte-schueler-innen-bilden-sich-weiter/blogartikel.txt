@@ -1,0 +1,69 @@
+Title: Engagierte Schüler:innen bilden sich weiter
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://y5kYXfSoiwya4JB5"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"100f40fb-7340-4007-84e5-4b8aae29140a","isHidden":false,"type":"image"}],"id":"7ec76091-84a6-4ae1-9170-4d4af4a99f61","width":"1/1"}],"id":"9daadf1b-1de4-4903-8ed2-edb7a4510e77"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":""},"id":"cd9908dc-fca8-4d81-9066-609d48ac1a78","isHidden":false,"type":"heading"}],"id":"7a8bb102-7191-4fab-87db-361d91cf1ffe","width":"1/1"}],"id":"ea1f9ab9-35a9-465b-97ff-7843bda87aaa"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Gemeinsam mit anderen engagierten Schüler*innen der KGS und der Schule am Voßbarg haben wir uns vor den Herbstferien fortgebildet. Dabei lag der Fokus auf der Leitung von Gruppen und der Moderation von Gesprächen. Wir haben gelernt, wie man gemeinsam Themen identifiziert, Meinungen einholt und strukturiert, sowie wie man effektiv plant, um Projekte umzusetzen oder Veränderungen anzustoßen. Diese informative Veranstaltung wurde von \"Politik zum Anfassen e.V.\" geleitet und fand im Akademiehotel Rastede statt.</p>"},"id":"471b3065-4409-4756-a4b5-4c785b152dc0","isHidden":false,"type":"text"}],"id":"35ed7a97-80a8-43d8-b341-0faa12e62bd3","width":"1/1"}],"id":"909da915-ba0b-4cdb-b6d4-f5a0c26e79fe"},{"attrs":[],"columns":[{"blocks":[{"content":{"karousel":["file://aRVyjbevho5nCkrZ","file://wsGzWI5tHus3a7dk","file://V5fZWABKnXsNws5B","file://SNRNrwn9h5vLFaa8","file://nkAi5sJ665Wpo64Q","file://iHZmKkTxGx4ezt7k","file://KbQKbTXYMhMbybOA","file://kkHi0aLgOf204K1L","file://QXOP8ExObCoZNeE2","file://4Be2pHYWGg0n0ffy","file://cUYUyOXsaNRP4LeL","file://g5hqcaZ7fTepMsjb","file://Ebg7MNWjzLV8LBY3","file://nLy36bsWfkn2Vp6r","file://OCCl0JMhZbZ7CWp9","file://W13UfyhWVbGjYgyF","file://GzoM76ZimVquPvlE","file://LGdY3mM8JbOftzu3","file://1wOFvIveg1WVgnMS","file://zZyNfKOXOc6JSNMg","file://UdxeEsh8Tgcf895U","file://besVbG07z0Vp7cl8","file://huPzN64sm9o8Rebr","file://xzHTxVpb0NclpwQ5","file://a4khl2MyDnNCJIrB","file://floZ7kzK2sox9FGa","file://stUU3gLqP7H0AlIC","file://x5CjedLWjgjFYYVD","file://MwPEiOO7a2BcCO7s","file://LaAE13X53CyVJ74g","file://QSeNwivi05beXkmk","file://syXuMbPPlohKIGQR","file://nn65Exbxg2eEEuMq","file://tlMRVOC9vKOpG4GT"]},"id":"a42170cf-55dc-42b2-9b18-caa65b62f3d3","isHidden":false,"type":"karousel"}],"id":"57fadd1a-5b9e-4ca2-a61c-891f110a777c","width":"1/1"}],"id":"8eb6798c-e020-4b6e-b00f-a62d78d911c5"}]
+
+----
+
+Date: 2023-11-10 17:10:00
+
+----
+
+Datumstartseite: 2024-03-10 17:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Ole Bohmbach für die SV
+
+----
+
+Tags: SV, Demokratiebildung, Politik
+
+----
+
+Downloads:
+
+- file://x5CjedLWjgjFYYVD
+- file://a4khl2MyDnNCJIrB
+- file://OCCl0JMhZbZ7CWp9
+- file://aRVyjbevho5nCkrZ
+- file://W13UfyhWVbGjYgyF
+- file://LGdY3mM8JbOftzu3
+- file://V5fZWABKnXsNws5B
+- file://wsGzWI5tHus3a7dk
+- file://SNRNrwn9h5vLFaa8
+- file://iHZmKkTxGx4ezt7k
+- file://KbQKbTXYMhMbybOA
+- file://kkHi0aLgOf204K1L
+- file://nkAi5sJ665Wpo64Q
+- file://QXOP8ExObCoZNeE2
+- file://4Be2pHYWGg0n0ffy
+- file://cUYUyOXsaNRP4LeL
+- file://Ebg7MNWjzLV8LBY3
+- file://g5hqcaZ7fTepMsjb
+- file://nLy36bsWfkn2Vp6r
+- file://GzoM76ZimVquPvlE
+- file://zZyNfKOXOc6JSNMg
+- file://1wOFvIveg1WVgnMS
+- file://UdxeEsh8Tgcf895U
+- file://huPzN64sm9o8Rebr
+- file://besVbG07z0Vp7cl8
+- file://xzHTxVpb0NclpwQ5
+- file://stUU3gLqP7H0AlIC
+- file://floZ7kzK2sox9FGa
+- file://MwPEiOO7a2BcCO7s
+- file://LaAE13X53CyVJ74g
+- file://aLxhqPTxNdmXI0W1
+- file://QSeNwivi05beXkmk
+- file://tlMRVOC9vKOpG4GT
+- file://syXuMbPPlohKIGQR
+- file://nn65Exbxg2eEEuMq
+
+----
+
+Uuid: xywhEEDNtTV8KfFu

@@ -1,0 +1,45 @@
+Title: Exkursion ins Ruhrgebiet
+
+----
+
+Heading: Die Erdkunde-Leistungskurse auf den Spuren des Strukturwandels
+
+----
+
+Text: [{"content":{"level":"h1","text":"Ruhrgebiet Januar 2020: Dem Strukturwandel auf der Spur"},"id":"5320638f-3210-4578-a869-45d13c5efbf8","isHidden":false,"type":"heading"},{"content":{"text":"<p><br>Auf unserer Kursfahrt mit den Erdkunde-Lks Jahrgang 12 ins Ruhrgebiet, fuhren wir als erstes zur Zeche Zollverein in Essen. In dem stillgelegten Bergwerk wurde zwischen 1851 und 1986 Steinkohle abgebaut. Heute ist es ein wichtiges Architektur- und <br>Industriedenkmal. Bei einer gef\u00fchrten Besichtigung durch die Anlage haben wir viel Interessantes \u00fcber die verschiedenen Arbeitsschritte des Steinkohleabbaus den teilweise sehr harten Arbeitsbedingungen f\u00fcr die Angestellten erfahren. Der Besuch in der Zeche Zollverein hat einem eine gute Vorstellung davon vermittelt, wie der einstige Steinkohleabbau dem Ruhrgebiet w\u00e4hrend der Industrialisierung zu wirtschaftlichen Aufschwung verhalf und einem auch die Problematik geschildert, die mit der Schlie\u00dfung der Steinkohlebergwerke in Deutschland einherging.<\/p><p>Nachdem wir am Nachmittag die Jugendherberge in Duisburg bezogen haben, folgte am Abend ein ganz besonderes Highlight unserer Kursfahrt: Eine gef\u00fchrte Stirnlampenwanderung durch den 180 Hektar gro\u00dfen \u201eLandschaftspark Duisburg-Nord\u201c.<\/p><p>Auf dem Gel\u00e4nde eines ehemaligen Roheisenwerks entstand 1997 der Landschaftspark Duisburg-Nord. Durch zahlreiche Freizeitangebote wie Open-Air Konzerte und Filmvorstellungen, einem Kletterpark oder einem Tauchbecken in einem alten Gasometer, wird das Werk neu genutzt und zieht jedes Jahr zahlreiche Besucher an. Besonders beeindruckt hat uns die n\u00e4chtliche bunte Beleuchtung der Anlage, dass sich Besucher \u00fcberall frei bewegen d\u00fcrfen und sogar einer der Hoch\u00f6fen bis zu einer H\u00f6he von 70 Metern begehbar gemacht wurde ( von dem man \u00fcbrigens eine sehr gute Aussicht hat, sollte man schwindelfrei sein).<br>Am zweiten Tag hatten wir die Chance, an einer Bustour vom Regionalverband Ruhr teilzunehmen. Neben den Informationen die wie w\u00e4hrend der Busfahrt erhielten, haben wir immer wieder Zwischenstopps an verschiedenen Stellen gemacht, wo wir auch ausgestiegen sind. An nur einem Tag hatten wir die M\u00f6glichkeit, uns drei St\u00e4dte des Ruhrgebietes genauer anzusehen : Essen, Bochum und Dortmund. Auffallend war hierbei der fast nahtlose \u00dcbergang zwischen den St\u00e4dten.Zun\u00e4chst sahen wir uns den Phoenixsee an, einen k\u00fcnstlich angelegten See auf einem ehemaligen Stahlwerksareal.<br>Unter anderem haben wir uns auch die Akademie Mont Cenis angesehen. Dieses Geb\u00e4ude ist von einer gl\u00e4sernen H\u00fclle umschlossen, die ein mediterranes Klima, \u00e4hnlich dem in Nizza aufweist.<\/p><p>Eine Photovoltaikanlage befindet sich auf dem Dach, wobei die Zellen unregelm\u00e4\u00dfig angeordnet sind, um eine nat\u00fcrliche Wirkung zu erzeugen, wie Wolken. Hier finden Seminare statt.<\/p><p>Des Weiteren haben wir uns \"Teutoburgia\", eine Zechensiedlung in Herne sowie die Emscher, also einen ehemaligen Abwasserkanal angesehen. Dieser Nebenfluss des Rheins ist durch Renaturierung gepr\u00e4gt. Insgesamt fanden wir Sch\u00fcler*innen unsere Exkursion sehr bereichernd. Wir haben viel gesehen, erlebt und nat\u00fcrlich auch einiges \u00fcber den Strukturwandel gelernt. Besonders sticht hierbei die Erkenntnis hervor, dass man durch Mut und Motivation, Dinge zu ver\u00e4ndern, einiges schaffen kann, sogar da, wo man es vielleicht am wenigsten erwartet.<\/p>"},"id":"b44d18ea-ef46-467f-bde8-13d68681910c","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- ruhrexk1.jpg
+- ruhrexk3.jpg
+- ruhrexk2.jpg
+
+----
+
+Date: 2020-02-10 10:55:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Svea Haferkamp und Lena Kuck
+
+----
+
+Tags: Erdkunde, Exkursion
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Featured: true

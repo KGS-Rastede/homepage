@@ -1,0 +1,46 @@
+Title: Schwerpunkte
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die KGS Rastede bietet als allein stehende Schule in der Qualifikationsphase alle fünf in Niedersachsen existierenden Schwerpunkte an: den sprachlichen, den naturwissenschaftlichen, den musisch-künstlerischen, den gesellschaftswissenschaftlichen und den sportlichen Schwerpunkt. Innerhalb der einzelnen Schwerpunkte gibt es darüber hinaus vielfältige Kombinationsmöglichkeiten der Prüfungsfächer.</p>"},"id":"5f2b87b5-08df-4a0d-ac90-a4d9b61e8ee8","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir haben als Entscheidungshilfe eine Übersicht zusammengestellt, welcher Schwerpunkt für welchen Schülertyp geeignet sein könnte. Darüber hinaus sollten vor der Wahl aber noch zahlreiche Gespräche mit Freunden, Eltern, Lehrkräften oder auch der Oberstufenkoordination geführt werden.</p><p>Eine Übersicht aller zur Zeit an unserer Schule angebotenen Schwerpunkte mit den jeweiligen Prüfungsfachkombinationen befindet sich im Download-Bereich.</p>"},"id":"9dc685e6-7bf3-4cf8-9d18-ca9fa7031b98","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- file://7Qcwccbcz38L9nAV
+- file://pg9XRxX15O0dXDb2
+- file://ga1TPlLkcYqTRLWX
+- file://08a77f2k2pzHWEhC
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: true
+
+----
+
+Uuid: DbCDKWtglS4fpCkQ

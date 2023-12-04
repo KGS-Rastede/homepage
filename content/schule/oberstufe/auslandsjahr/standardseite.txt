@@ -1,0 +1,65 @@
+Title: Auslandsjahr
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Der \u00dcbergang von der Sekundarstufe I zur Oberstufe ist ein guter Zeitpunkt, ein ganzes Schuljahr oder ein halbes im Ausland zu verbringen. Das Auslandsjahr kann unter bestimmten Voraussetzungen die Einf\u00fchrungsphase ersetzen, sodass man kein Schuljahr verliert und anschlie\u00dfend wieder in seinen alten Jahrgang zur\u00fcckkehren kann. Hinweise dazu befinden sich in den Links. Die Freistellung f\u00fcr das Auslandsjahr muss in jedem Fall schriftlich aber formlos rechtzeitig vorher bei der Schulleitung beantragt werden und es sollte immer eine R\u00fccksprache mit der Oberstufenkoordination erfolgen.<\/p>"},"id":"669ca144-ba22-4d39-a30f-92999084f73d","isHidden":false,"type":"text"},{"content":{"text":"<p>In OIdenburg findet einmal j\u00e4hrlich die <a href=\"https:\/\/jugendbildungsmesse.de\/jubi-oldenburg\/\" rel=\"noopener noreferrer nofollow\">Jugendbildungsmesse <\/a>statt mit Informationen zum Auslandsjahr.<\/p>"},"id":"59a1be55-03de-4d14-bffe-96b7f9d9503a","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- >
+  2019-09-10-merkblatt-auslandsschuljahr.pdf
+
+----
+
+Sidetitel: Weitere Informationen
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gymnasium/gymnasium-6319.html
+  name: Kultusministerium
+- 
+  link: https://www.jugendbildungsmesse.de/
+  name: Jugendbildungsmesse
+
+----
+
+Toggle: false
+
+----
+
+Keine-sidebar:
+
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
+  name: Operatorenliste Oberstufe
+- 
+  link: >
+    https://db2.nibis.de/1db/cuvo/datei/bi_go_kc_druck_2017.pdf
+  name: Biologie Oberstufe
+
+----
+
+Uuid: rClOL0r2J2JFKGuv

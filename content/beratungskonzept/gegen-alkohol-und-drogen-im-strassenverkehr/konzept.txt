@@ -1,0 +1,17 @@
+Title: Gegen Alkohol und Drogen im Straßenverkehr
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die Sch\u00fcler:innen des 10. Jahrgangs nehmen an dem Projekt \u201eDrogen und Alkohohl im Stra\u00dfenverkehr\u201c teil. Durch Vortr\u00e4ge von Richtern sollen Heranwachsende, die an der Schwelle zur motorisierten Verkehrsteilnahme stehen oder bereits motorisiert am Stra\u00dfenverkehr teilnehmen, f\u00fcr die Risiken sensibilisiert werden, die durch die Einnahme von Alkohohl und Drogen entstehen k\u00f6nnen. Aus der Praxis werden dabei Erfahrungen der Gerichte mit auff\u00e4llig gewordenen Fahrzeugf\u00fchrern\/innen, der Polizei sowie versicherungsrechtliche Fragen anschaulich besprochen.<\/p>"},"id":"4fca1d4d-8b2d-4717-b261-57f9ae853506","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: J19rfUbV1D8nGZxW

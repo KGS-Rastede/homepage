@@ -1,0 +1,13 @@
+Anzeigename: Gebäudeplan
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: jPqz11PEtgSDm8xL

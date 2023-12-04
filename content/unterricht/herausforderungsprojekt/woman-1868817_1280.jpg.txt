@@ -1,0 +1,5 @@
+Uuid: OSWRatv5aMKKnzF9
+
+----
+
+Template: blocks/image

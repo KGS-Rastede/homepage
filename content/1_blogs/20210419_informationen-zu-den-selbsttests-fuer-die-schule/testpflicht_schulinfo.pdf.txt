@@ -1,0 +1,5 @@
+Anzeigename: Testpflicht Schulinfo
+
+----
+
+Template: datei

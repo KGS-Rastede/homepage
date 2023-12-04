@@ -1,0 +1,41 @@
+Title: Kevin Sommer aus der 10A3 bekommt den „Angelus-Sala-Preis 2020“ verliehen
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Jedes Jahr wird im Rahmen des \u201eTages der Chemie\u201c der Universit\u00e4t Oldenburg durch die Gesellschaft deutscher Chemiker (GDCh) der \u201eAngelus-Sala-Preis\u201c an eine Sch\u00fclerin oder einen Sch\u00fcler der 10. Klassen verliehen. Der Preis wird dabei jemandem verliehen, der oder die durch besonders gute Leistungen in Chemie aufgefallen ist.<br>Der Namensgeber des Preises, Angelus Sala, lebte im 16. und 17. Jahrhundert und war neben seiner T\u00e4tigkeit als Chemiker unter anderem auch Leibarzt des Grafen Anton G\u00fcnther von Oldenburg.<\/p><p>Auch im Jahr 2020 wurden hierzu die Preistr\u00e4gerinnen und Preistr\u00e4ger gek\u00fcrt, diesmal nicht wie \u00fcblich an der Universit\u00e4t Oldenburg, sondern an den jeweiligen Schulen. Bedingt durch die Lockdownphase ab Mitte Dezember hat sich die Preis\u00fcbergabe leider auch noch sehr verz\u00f6gert, denn Schule hat ja lange Zeit nicht in der Schule stattgefunden.<\/p><p><\/p><p><\/p>"},"id":"e6b75a06-5d27-47cf-9dc2-3de297ed6094","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["chemie1.jpeg"],"src":"","alt":"","caption":"Die Preis\u00fcbergabe","link":"","ratio":"","crop":"false"},"id":"928d5d10-4968-43ce-8a94-58817e9f1376","isHidden":false,"type":"image"},{"content":{"text":"<p>Und so dauerte es bis April, bis wir Kevin Sommer aus der 10A3 dann endlich seinen Preis \u00fcbergeben konnten \u2013 nat\u00fcrlich mit Maske und unter Einhaltung der Abstandsregeln. Den mit der Urkunde verbundenen Buchpreis nahm Kevin erfreut entgegen und wir sind gespannt, wer 2021 Preistr\u00e4ger bzw. Preistr\u00e4gerin sein wird!<\/p><p>Wir gratulieren Kevin sehr herzlich und w\u00fcnschen ihm viele sch\u00f6ne chemische Momente in seiner Zukunft!<\/p>"},"id":"2f9264f5-6472-4869-8781-0f77efd64c4e","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-07-07 00:00:00
+
+----
+
+Datumstartseite: 2021-11-07 00:00:00
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: Chemie, Wettbewerb, Angelus-Sala-Preis
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: z0cv1uPgjuzHjrMo

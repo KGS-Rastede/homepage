@@ -1,0 +1,16 @@
+title: Bild Herausforderungsprojekt
+
+accept: image/*
+
+
+fields:
+  alt:
+    label: Kurzbeschreibung
+    type: textarea
+    required: true
+  beschreibung:
+    label: Beschreibung
+    type: textarea
+  ort:
+    label: Ort, an dem das Foto aufgenommen wurde
+    type: text

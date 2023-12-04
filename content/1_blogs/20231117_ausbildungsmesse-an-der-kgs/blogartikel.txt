@@ -1,0 +1,33 @@
+Title: Ausbildungsmesse an der KGS
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>„Werde ich Tischler oder Mechatroniker? Möchte ich lieber an Flugzeugen oder LKW arbeiten? Soll ich was mit Menschen machen oder an einer Maschine stehen?…“</p><p>Antworten auf Fragen wie diese konnten unsere Schülerinnen und Schüler auf der Ausbildungsmesse am Donnerstag letzter Woche finden. Nach der Premiere 2022 fand sie zum zweiten Mal statt. Damals waren es 25 Unternehmen, diesmal waren 43 Unternehmen und Institutionen aus Rastede und „umzu“ gekommen. Über 700 Schülerinnen und Schüler unserer KGS haben sich über Praktikums- und Ausbildungsplätze informieren können. Etliche Kontakte waren erfolgreich.</p><p>Auch über Ausbildungen im Dualen Studium und an Berufsfachschulen konnten sich unsere Schülerinnen und Schüler informieren. Viele waren erstaunt über die Vielzahl von Ausbildungsmöglichkeiten einzelner Unternehmen, wird doch - gerade bei den größeren - ein ganzes Spektrum von gewerblichen bis kaufmännischen Berufen ausgebildet.</p><p>Schülerinnen und Schüler sollten während ihres Messerundgangs Gespräche mit mindestens drei Unternehmen führen, darunter mindestens eines, das bislang für sie nicht im Fokus stand. </p><p>Auch für gänzlich Unentschlossene gab es Beratungsmöglichkeiten. Die Industrie- und Handelskammer sowie die BBS Ammerland boten Tipps in Sachen Karriereplanung. Die Handwerkskammer bot zusätzlich besondere Unterstützungsmöglichkeiten für Jugendliche mit Migrationshintergrund an, die derzeit ihre Deutschkenntnisse noch im DAZ Unterricht verbessern.</p><p> Das Feedback von Unternehmensseite war durchweg positiv. Alle haben ihr Interesse bekundet, im kommenden Jahr wieder dabei zu sein. Vermutlich werden es dann noch mehr Unternehmen werden, denn die ersten neuen Interessenten haben sich schon auf die Liste für 2024 setzen lassen.</p><p> Eine Veranstaltung dieser Größenordnung erfordert die Zusammenarbeit vieler. Deswegen gilt unser herzlicher Dank vor allem derTechnik AG von Herrn Brötje. Ab 6.00 Uhr morgens wurden drei Hallenteile mit Strom versorgt, Messestände gekennzeichnet, Aussteller eingewiesen. Vor Ort unterstützten aber auch Lehrkräfte, Frau Hannawald als Sozialpädagogin und Frau Waschke von der Agentur für Arbeit. Auch Herr Schwalbe hat in aller Frühe beim Aufbau mitgeholfen. Der Fachbereich Sport hat für den Vormittag den Unterricht umgestellt, damit die drei Hallenteile der Messe zur Verfügung standen. Mittags hat der Sportkurs von Herrn Arzenscheg für eine saubere Halle gesorgt.  Allen Beteiligten ein herzliches Dankeschön.</p>"},"id":"bf0ba3b7-6b69-454e-997e-b075098cf311","isHidden":false,"type":"text"}],"id":"75b42526-5067-491e-b5a4-f87762907056","width":"1/1"}],"id":"dcbe097a-5b9d-4d24-8ea5-b9c2dc53059e"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://GhkiJOCd7BzRuFXw"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"3bef465f-b2c9-4af3-ac71-a18072ae2651","isHidden":false,"type":"image"}],"id":"841dfe4e-1d2f-4dab-8d6c-9e77d3f6ebd9","width":"1/1"}],"id":"400879fc-755e-40c9-8c91-84a6ff9c9939"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://slSZSbUA8BiCuEIP"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"5e6f4beb-8f41-4e0a-a3c3-101123b88850","isHidden":false,"type":"image"}],"id":"7f3dfff8-ec87-4648-b024-e7322b1d1d83","width":"1/1"}],"id":"68540c29-da3c-4f7d-ba3b-476369899e15"}]
+
+----
+
+Date: 2023-11-17 13:45:00
+
+----
+
+Datumstartseite: 2024-03-17 13:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Heiko Henken
+
+----
+
+Tags: AWT, Ausbildungsmesse, Veranstaltung
+
+----
+
+Downloads: 
+
+----
+
+Uuid: YdAzOVJTRIM4Bnab

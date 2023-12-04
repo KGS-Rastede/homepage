@@ -1,0 +1,9 @@
+Anzeigename: Elternbrief
+
+----
+
+Beschreibung: 
+
+----
+
+Template: datei

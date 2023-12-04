@@ -1,0 +1,17 @@
+Kurzbeschreibung: Gesamtnetzlan HZ 5-10
+
+----
+
+Jahrgang: 5-10
+
+----
+
+Schulzweig: HZ
+
+----
+
+Template: lehrplandatei
+
+----
+
+Uuid: COzOsm1wmgTgjeOr

@@ -1,0 +1,33 @@
+Title: Jugend debattiert. Wortstark im Regionalfinale
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[],"id":"95912b42-2b05-494d-8fe8-0afd008ea24c","width":"1\/1"}],"id":"117d2dde-91b5-478c-abb0-2153ee976357"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/0irf80oZuuyKb5Km"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8bbdb8d8-1892-423a-9c55-54273bf5ad04","isHidden":false,"type":"image"}],"id":"19e40479-5e00-4b85-9e0c-fac85605b454","width":"1\/1"}],"id":"ffcd30cc-f6f6-49b3-82a4-0a9e819b3b1a"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Mit einem dritten Platz im Finale des Regionalverbunds konnte Henri Veltrup aus der 10E3 beim Wettbewerb \u201eJugend debattiert\u201c gl\u00e4nzen. Bei der Debatte zur Frage \u201eSoll eine Obergrenze f\u00fcr den t\u00e4glichen Wasserverbrauch pro Person eingef\u00fchrt werden?\u201c verpasste er nur knapp den zweiten Platz bei der Altersgruppe 1 (Jg. 8 - 10). Dieser h\u00e4tte zur Teilnahme am Landesfinale in Hannover im M\u00e4rz berechtigt. Daf\u00fcr kann Henri sich trotzdem noch vage Hoffnungen als Ersatzkandidat machen. Zuvor gab es zwei Qualifikationsrunden mit Sch\u00fcler:innen aus sechs weiteren Schulen aus Oldenburg, Delmenhorst und Ahlhorn. Dort schlug sich Jantje Pavel (9C3) als zweite Vertreterin der KGS sehr bravour\u00f6s. Mit 80 Wertungspunkten fehlten ihr nur zwei Punkte zum Finaleinzug. In der Altersgruppe 2 (Jg. 11 - 13) sammelten Hannah Ha\u00dfmann (11C) und Emma Oldewurtel (11B) wertvolle Erfahrungen bei ihrer ersten Teilnahme. Sie verkauften sich respektabel, konnten sich gegen sehr erfahrene Debattant:innen aus h\u00f6heren Jahrg\u00e4ngen aber nicht f\u00fcr das Finale qualifizieren.\u00a0 Begleitet wurden die vier Sch\u00fcler:innen von Ella Br\u00f6rkens (9B3, Ersatz) sowie\u00a0 Paula Veltrup (Jg. 12, Jurorin), Herrn Stockmann (Juror) und Herrn Osterhues (Juror, Schulkoordinator).\u00a0 Alle Beteiligten betonten, Spa\u00df an den Debatten gehabt sowie viel gelernt zu haben. Im n\u00e4chsten Jahr wollen sie wieder gerne dabei sein, um dann hoffentlich ein Ticket nach Hannover zu l\u00f6sen.<\/p>"},"id":"3c1d7fe4-3205-4046-ad43-8430d4533aa8","isHidden":false,"type":"text"}],"id":"1edfb0ec-5254-4716-b96a-0ae627dc197a","width":"1\/1"}],"id":"7dc1975e-ca41-44c8-b35b-acb5b4e1f844"}]
+
+----
+
+Date: 2023-01-30 16:55:00
+
+----
+
+Datumstartseite: 2023-05-30 16:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Gerald gr. Osterhues
+
+----
+
+Tags: Deutsch
+
+----
+
+Downloads: 
+
+----
+
+Uuid: rVuaiidpvW4UOAvi

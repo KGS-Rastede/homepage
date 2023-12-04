@@ -1,0 +1,41 @@
+Title: Kontoverbindung für die Schulbuchausleihe
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Aufgrund von Nachfragen m\u00f6chte wir Sie \u00fcber diesen Weg nochmals \u00fcber unsere Kontoverbindung f\u00fcr die Schulbuchausleihe informieren:<\/p><p><\/p><p><\/p><p>Raiffeisenbank Rastede<\/p><p>KGS Rastede, Inh. Land Niedersachsen<\/p><p>IBAN <code>DE41 2806 2165 0105 4236 00<\/code><\/p><p>BIC &nbsp;&nbsp;&nbsp;<code>GENODEF1RSE<\/code><\/p>"},"id":"d7610b45-5427-48f0-8f84-ad52c0a1ec31","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-07-20 00:00:00
+
+----
+
+Datumstartseite: 2021-08-31 00:00:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: 5iIhcxswyg3xSNc4

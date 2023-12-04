@@ -1,0 +1,40 @@
+Title: Junge Kultur! e.V.
+
+----
+
+Heading: Der Kulturförderverein der KGS Rastede
+
+----
+
+Text: [{"content":{"text":"<p>Seit dem Sommer 2021 gibt es an der Kooperativen Gesamtschule Rastede einen gemeinn\u00fctzigen Kulturf\u00f6rderverein, der sich zum Ziel gesetzt hat, die Jugendkulturarbeit an der KGS und in der Gemeinde Rastede zu unterst\u00fctzen.<\/p><p>Der Kulturbegriff ist dabei weit gefasst und reicht von Streetart bis zu Hochkultur. Zum einen sollen Jugendliche in ihrer Alltagskultur gef\u00f6rdert werden, zum anderen aber auch kulturelle Ber\u00fchrungspunkte f\u00fcr junge Menschen geschaffen werden, die sie ohne den Verein nicht ohne Weiteres h\u00e4tten.<\/p><p>Wenn Sie unsere Arbeit unterst\u00fctzen m\u00f6chten, k\u00f6nnen Sie ordentliches Mitglieder oder F\u00f6rdermitglied werden (Beitrittserkl\u00e4rung unten auf dieser Seite). Auch einmalige Spenden helfen uns sehr! Unsere Kontoverbindung lautet:<\/p><p>Junge Kultur! e.V.<\/p><p>IBAN DE75 2805 0100 0093 8065 29<\/p><p>Wir sind berechtigt Spendenquittungen auszustellen. Wenn Sie bei einer einmaligen Spende Ihre Anschrift in den \"Verwendungszweck\" schreiben, bekommen Sie umgehend eine Zuwendungsbest\u00e4tigung.<\/p><p>Wenn Sie spannende Projekte haben, f\u00fcr die eine F\u00f6rderung durch den Verein in Frage kommen, nehmen Sie gerne Kontakt zu uns auf: junge.kultur@kgs-rastede.eu<\/p>"},"id":"1cb8c1aa-15a3-4413-88e3-5fc5da4cbdd7","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["katharinas-favorit.jpg"],"src":"","alt":"","caption":"Der Vorstand des Vereins \"Junge Kultur! e.V.\" (von links): Jesco Schneemann, Christopher Stolz, Katharina Mellor und Christine Stahmann.","link":"","ratio":"","crop":"false"},"id":"685a6448-4a1b-40ef-959d-64aec091c565","isHidden":false,"type":"image"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- vereinssatzung.pdf
+- beitrittserklaerung-verein.pdf
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: true

@@ -1,0 +1,5 @@
+Uuid: WweMfuiGKeRnBlNY
+
+----
+
+Template: blocks/image

@@ -1,0 +1,48 @@
+Title: Kurswahlen
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Unter den folgenden Links findet ihr die Webseiten zur Wahl der F\u00e4cher f\u00fcr die Oberstufe.<\/p>"},"id":"9ad30ea4-d237-45ea-ac14-85147809505d","isHidden":false,"type":"text"},{"content":[],"id":"_wn7qvti4t","isHidden":false,"type":"paragraph"},{"content":[],"id":"_rs07ht3r3","isHidden":false,"type":"ul"},{"content":[],"id":"_v5c3rqy28","isHidden":false,"type":"ul"},{"content":[],"id":"_x0ed5o3xq","isHidden":false,"type":"paragraph"},{"content":[],"id":"_iqxubake2","isHidden":false,"type":"paragraph"},{"content":[],"id":"_k7ohyzrmx","isHidden":false,"type":"paragraph"},{"content":[],"id":"_d7d09wz69","isHidden":false,"type":"paragraph"},{"content":[],"id":"_akr1mm2kw","isHidden":false,"type":"paragraph"},{"content":[],"id":"_2g4vu8wmw","isHidden":false,"type":"paragraph"},{"content":[],"id":"_nc1lsud5k","isHidden":false,"type":"paragraph"},{"content":[],"id":"_ipyaz9uon","isHidden":false,"type":"paragraph"},{"content":[],"id":"_hefgkfa2n","isHidden":false,"type":"paragraph"},{"content":[],"id":"_tfurjkeiq","isHidden":false,"type":"paragraph"},{"content":[],"id":"_u721jdw7a","isHidden":false,"type":"paragraph"},{"content":[],"id":"_w615oupgk","isHidden":false,"type":"paragraph"},{"content":[],"id":"_9w75iqdk6","isHidden":false,"type":"paragraph"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar:
+
+- 
+  link: http://wahlen11.kgs-rastede.de/
+  name: Wahlen für die Einführungsphase
+- 
+  link: http://wahlenquali.kgs-rastede.de/
+  name: Wahlen für die Qualifikationsphase
+
+----
+
+Toggle: true
+
+----
+
+Uuid: 5g3YBqVg0rBnMKuI

@@ -1,0 +1,45 @@
+Title: nachhaltig! Schüler*innen-Projekttag
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Neuer Termin:<strong> 29.10.2020<\/strong> +++ (wieder) anmelden bis zum <strong>16.09.2020<\/strong><\/p>"},"id":"7704ecf7-3d2a-49b8-aa41-c49bfec2c330","isHidden":false,"type":"text"},{"content":{"text":"Am Sch\u00fcler*innen-Projekttag 2020 dreht sich alles um den Themenbereich Nachhaltigkeit \/ Zukunft. Sch\u00fcler*innen gestalten den Unterricht, Lehrer*innen sind nur als Berater*innen und Unterst\u00fctzer*innen dabei."},"id":"591b1d2b-3710-4145-9d41-52ad048991f1","isHidden":false,"type":"text"},{"content":{"text":"<p>Alle Aktivit\u00e4ten finden aufgrund der Corona-Situation innerhalb eines Jahrgangs statt. Wenn ihr dabei sein wollt, habt ihr 2 M\u00f6glichkeiten f\u00fcr Aktivit\u00e4ten:<\/p>"},"id":"3006f066-ce12-4f9a-8c9d-8c30ce39e270","isHidden":false,"type":"text"},{"content":{"text":"<ol><li><p>Als Freundschaftsgruppe aus einem Jahrgang oder als Klasse bietet ihre eine Aktivit\u00e4t oder ein Lernangebot zum Themenbereich Nachhaltigkeit \/ Zukunft an. Teilnehmen k\u00f6nnen Mitsch\u00fcler*innen aus demselben Jahrgang.<\/p><\/li><li><p>Als Klasse plant ihr Aktivit\u00e4ten zum Themenbereich Nachhaltigkeit \/ Zukunft im Klassenverband.<\/p><\/li><\/ol>"},"id":"d44db06f-0f7c-4a4a-9d58-722e84a5173a","isHidden":false,"type":"list"},{"content":{"text":"<p>Die Aktivit\u00e4ten m\u00fcssen mindestens eine Schulstunde (45 Minuten) dauern, k\u00f6nnen aber auch den ganzen Vormittag umfassen.<\/p>"},"id":"d577bcd5-588c-4c6a-b840-3eed68b278c5","isHidden":false,"type":"text"},{"content":{"text":"<p>Sprecht selbst Lehrkr\u00e4fte eurer Wahl an, ob sie als Berater*innen dabei sind.<\/p>"},"id":"5aa80389-3d35-4e8a-a4a2-b3d6ceffa18c","isHidden":false,"type":"text"},{"content":{"text":"<p>Alle, die schon im letzten Schuljahr Angebote geplant hatten, oder die neu mitmachen wollen, schreiben an <strong><a href=\"mailto:nachhaltig@kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">nachhaltig@kgs-rastede.de<\/a><\/strong>.<\/p>"},"id":"334bae4a-e797-4f79-8c2f-1306ece6cbdf","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00fcr die Organisation ben\u00f6tigen wir<strong> sp\u00e4testens bis zum 16.09.2020 <\/strong>Antworten auf folgende Fragen:<\/p>"},"id":"5e758235-9a18-4192-aab5-60c469c94abc","isHidden":false,"type":"text"},{"content":{"text":"Wer macht das Angebot (alle Vornamen, Nachnamen, Klassen)?"},"id":"131ca98a-5868-4a43-ae3e-415244fadce9","isHidden":false,"type":"text"},{"content":{"text":"<p>Wie viele Mitsch\u00fcler*innen aus eurem Jahrgang k\u00f6nnen teilnehmen?<\/p>"},"id":"85acce6e-dd5c-43ce-a07c-c661a24446b5","isHidden":false,"type":"text"},{"content":{"text":"<p>Wie viele Schulstunden dauert die Aktivit\u00e4t?<\/p>"},"id":"ad24f47a-53a7-4968-b244-f5cce986599e","isHidden":false,"type":"text"},{"content":{"text":"In welchen Stunden kann\/soll die Aktivit\u00e4t stattfinden?"},"id":"95a69069-a174-4283-b58a-c5271090c2d0","isHidden":false,"type":"text"},{"content":{"text":"<p>Wird ein spezieller Raum ben\u00f6tigt?<\/p>"},"id":"a37b0056-3bd1-494c-9286-d1fb40c67339","isHidden":false,"type":"text"},{"content":{"text":"<p>Braucht ihr vorher bzw. nachher Zeit f\u00fcr den Aufbau bzw. zum Aufr\u00e4umen?<\/p>"},"id":"3fbd7298-c5c0-40dd-ad2d-124c65febc82","isHidden":false,"type":"text"},{"content":{"text":"<p>Welche Lehrkraft unterst\u00fctzt euch?<\/p>"},"id":"50d8c55a-060b-44d7-809b-96a920b73bde","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-09-29 05:45:00
+
+----
+
+Datumstartseite: 2020-10-29 04:45:00
+
+----
+
+Author: SZY
+
+----
+
+Tags: Projekt
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Uuid: Dm4XIQpMGtAsWDpB

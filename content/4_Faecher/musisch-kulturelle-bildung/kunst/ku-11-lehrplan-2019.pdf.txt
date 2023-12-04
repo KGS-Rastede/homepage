@@ -1,0 +1,17 @@
+Kurzbeschreibung: Lehrplan Jahrgang 11
+
+----
+
+Jahrgang: 11
+
+----
+
+Schulzweig: GT
+
+----
+
+Template: lehrplandatei
+
+----
+
+Uuid: h5ztrgsQWKtxj9fC

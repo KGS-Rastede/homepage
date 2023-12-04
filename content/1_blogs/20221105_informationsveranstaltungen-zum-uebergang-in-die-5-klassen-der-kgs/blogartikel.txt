@@ -1,0 +1,33 @@
+Title: Informationsveranstaltungen zum Übergang in die 5. Klassen der KGS
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Liebe Erziehungsberechtigte,<\/p><p>\u00a0<\/p><p>wir laden Sie in die KGS Rastede ein, um Sie \u00fcber den \u00dcbergang in die 5. Klassen unserer Schule zu informieren. Dazu bieten wir zwei Veranstaltungen an, um Ihnen eine Hilfe bei der Entscheidungsfindung f\u00fcr einen Schulzweig zu geben.<\/p><p>Die Veranstaltung finden an folgenden Tagen statt:<\/p>"},"id":"840af9c2-7423-448a-9972-5db290e1629c","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Dienstag, 29.11.2022, 19:00 Uhr, Vorstellung des<\/strong> <strong>Realschul- und Gymnasialzweigs<\/strong><strong>Veranstaltungsort: Neue Aula (Eingang Thoradestr.), Parkm\u00f6glichkeiten finden Sie auf dem Aulavorplatz, Einfahrt Bahnhofstr.<\/strong><\/li><li><strong>Montag, 13.03.2023, 19:00 Uhr, Vorstellung des<\/strong> <strong>Hauptschul- und Realschulzweigs<\/strong><strong>&nbsp;Veranstaltungsort: Forum KGS Feldbreite, Feldbreite 16, Parkm\u00f6glichkeiten finden &nbsp;Sie auf dem Parkplatz vor der gro\u00dfen Sporthalle und auf dem Schulhof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/strong><\/li><\/ul>"},"id":"b6e6ed18-411a-4df7-b00b-a8fe6186f314","isHidden":false,"type":"list"}],"id":"f117ad96-3870-45c7-9475-e2fc065637ff","width":"1\/1"}],"id":"1ad227e9-b779-4923-b53a-c6883dcfdc86"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In beiden Veranstaltungen geben wir zun\u00e4chst allgemeine Informationen zur p\u00e4dagogischen Arbeit an der KGS Rastede und gehen anschlie\u00dfend auf die Profile der jeweiligen Schulzweige ein.<\/p><p><\/p><p><\/p>"},"id":"18f86031-647d-4d85-900f-83490a11e962","isHidden":false,"type":"text"}],"id":"545f7f09-8432-4c3e-bd60-bff42f5d603f","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["qr.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"da4ccfc5-3659-4ed1-aeb6-9e39aac084c0","isHidden":false,"type":"image"}],"id":"aae12d58-e2a6-44e5-812a-e338abb362ed","width":"1\/2"}],"id":"31ae9d57-bbe6-4558-a522-d8f138751561"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Alternativ bieten wir Ihnen die M\u00f6glichkeit online an der Veranstaltung teilzunehmen. Dazu scannen Sie bitte den QR Code. \u00a0Eine Powerpointpr\u00e4sentation finden Sie anschlie\u00dfend \u00a0auf der Homepage.<\/p><p>\u00a0<\/p><p>Eine erneute Einladung f\u00fcr die 2. Veranstaltung erhalten Sie im n\u00e4chsten Jahr.<\/p>"},"id":"2995d813-4bfa-4b26-9e1d-06a0c567d7b9","isHidden":false,"type":"text"}],"id":"213a7db1-002d-4fd8-86fa-34128deda11c","width":"1\/1"}],"id":"15df3cde-634b-486c-8450-1c4d97bbc19b"}]
+
+----
+
+Date: 2022-11-05 11:25:00
+
+----
+
+Datumstartseite: 2022-11-30 11:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Anmeldung, Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: QLuQlLE0aroYd2A4

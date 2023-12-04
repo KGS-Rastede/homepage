@@ -1,0 +1,29 @@
+Title: Schulausfall am 17.02. wegen Unwetters und Sturm
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 17.2.2022 entf\u00e4llt im gesamten Landkreis Ammerland der Unterricht. Es fahren keine Busse.<\/p><p>F\u00fcr die Jahrg\u00e4nge 5 und 6 wird eine Notbetreuung in der Feldbreite angeboten<\/p><p><\/p>"},"id":"d69352ad-d7ef-4d03-8c78-11c7cdf0b18e","isHidden":false,"type":"text"}],"id":"09256334-0454-400a-851c-78e643904aa7","width":"1\/1"}],"id":"e66d23e4-0b0d-492f-ace5-5cd3a3715160"}]
+
+----
+
+Date: 2022-02-16 00:00:00
+
+----
+
+Datumstartseite: 2022-02-18 00:00:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Entfall, Unwetter, Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: PqizTU96jfZQH9id

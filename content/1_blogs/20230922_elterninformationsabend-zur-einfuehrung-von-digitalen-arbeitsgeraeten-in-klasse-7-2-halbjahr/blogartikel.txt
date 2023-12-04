@@ -1,0 +1,33 @@
+Title: Elternabend in Jahrgang 7  zur Einführung digitaler Arbeitsgeräte im 2. Halbjahr 2023/24
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"04.10.2023, 19 Uhr, Neue Aula der KGS Rastede"},"id":"e539c610-d7b5-404f-be38-3db47dbfb4ad","isHidden":false,"type":"heading"}],"id":"14589bc1-2087-4701-9213-a9d9c1f2aaa5","width":"1/1"}],"id":"b68ab914-99ed-4995-a505-dde0d9c0e52d"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Die Informationen richten sich an Erziehungsberechtigte des 7. Jahrgangs aber auch an Interessierte des 5. und 6. Jahrgangs sind herzlich willkommen."},"id":"64689b6c-5749-48ea-be6d-92382db2e0d7","isHidden":false,"type":"heading"}],"id":"e5ad156f-c078-4331-b7c2-ca0dcfe4dca7","width":"1/1"}],"id":"fe03bb12-392e-473d-b2db-dc53c185b650"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wir wollen Ihre <strong>Fragen beantworten</strong>, die mit der Einführung eines digitalen Arbeitsgerätes in Jahrgang 7 allgemein zusammenhängen (zum Beispiel die Einbindung der iPads in den Unterricht und die Nutzung zu Hause), aber auch das <strong>Bestellsystem</strong> erläutern, falls Sie ein Gerät über die Schule anschaffen möchten.</p><p>Interessierte Eltern und Erziehungsberechtigte der Jahrgänge 5 und 6 sind ebenfalls herzlich willkommen.</p>"},"id":"a3a22336-c5e0-4d2f-996f-df7867e6c63f","isHidden":false,"type":"text"}],"id":"baeedd4e-98fb-4ddf-8d77-cdba669eb0be","width":"1/1"}],"id":"f214edf5-678d-4f8c-9d15-94bd7e1533e4"}]
+
+----
+
+Date: 2023-09-22 09:05:00
+
+----
+
+Datumstartseite: 2023-10-05 09:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Elternabend
+
+----
+
+Downloads: 
+
+----
+
+Uuid: CJfY4qK6ETYQ3WfP

@@ -1,0 +1,41 @@
+Title: Unser Schulprogramm
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h4","text":"In diesem Schuljahr sind diese Entwicklungsschwerpunkte von besonderer Bedeutung"},"id":"8c67ad05-d8d7-4ad1-8aea-d20953da33f4","isHidden":false,"type":"heading"},{"content":{"accordionid":"SchilF","flush":"false","accfirst":"false","accordion":[{"accordionheading":"Entwicklung des Medienbildungskonzeptes","accordionbody":"- 2019 Schulleitungsteam und Administrator nehmen an einer gemeinsamen Fortbildung zur Entwicklung eines Medienbildungskonzeptes teil; Planung erster Schritte\n\n- Medienkompetenztage. GB stellt das Basiskonzept zur Vermittlung von Medienkompetenz in der Gesamtkonferenz im Februar 2020 vor\n\n- Herr Dreele nimmt als Administrator der Schulen der Gemeinde Rastede (KGS, Schule am Vo\u00dfbarg, 7 Grundschulen) seine Arbeit auf\n \n- Runder Tisch mit Vertreter:innen der Gemeinde, dem B\u00fcrgermeister Herrn Krause, der Medienberatung (NLQ) und der Schulleitung\n \n- Arbeitsgruppe \"Lernen Lernen\" startet mit der \u00dcberarbeitung des Methodenkonzeptes\n\n- Netzwerkanbindung der Geb\u00e4ude Feldbreite und Wilhelmstra\u00dfe durch Glasfaserkabellegung (Abschluss 3\/2021)\n \n- November 2020: Einf\u00fchrung von IServ; Fortbildung von KuK (extern und intern)\n \n- November 2020: SchiLf der Fachkonferenzleitungen mit dem Medienberater Herrn Merten\n \n- Februar 2021: zweit\u00e4gige SchiLf des gesamten Kollegiums (Vortrag, Workshops, Fachgruppenarbeit zur Entwicklung von Unterrichtskonzepten zur Vermittlung von Medienkompetenz)\n \n- Kolleg:innen bilden sich in verschiedenen Fortbildungen zu Fragen der Digitalisierung fort; Teilnahme an der Online-Tagung \"mobile.schule\"\n \n- Bildung der Arbeitsgruppe Digitalisierung. Diskutiert wird die Frage nach dem p\u00e4dagogischen Konzept, Aspekte des Einsatzes von Lehrer- und Sch\u00fclerger\u00e4ten,\n \n- Vorlage und Abstimmung des Leitbildes \"Digitalisierung\" in der Gesamtkonferenz\n \n- Entwicklung und Beschlussfassung f\u00fcr eine Nutzerordnung (BYOD) in der Gesamtkonferenzso geht es weiter:\n \n- Im Schuljahr 2021\/22: Erprobung und Evaluation der in den Fachkonferenzen beschlossenen Ma\u00dfnahmen zur Vermittlung von Medienkompetenz (gem\u00e4\u00df nieders\u00e4chsischem Orientierungsrahmen Medienkompetenz)\n\n- Prozessbegleitung weiterer Schritte durch den Medienberater Benedict Heitmann (Sch\u00fcler:innentablets, Digitalpakt, Medienbildungskonzept)\n\n- Januar 2022: Ausstattung der Lehrkr\u00e4fte mit Dienstger\u00e4ten (IPads); kollegiale, digitale und externe Fortbildungen zur Nutzung und zum Einsatz im Unterricht\n \n- SchiLf Teil II: fachspezifische Fortbildungsmodule zu Aspekten der Digitalisierung\n \n ..."},{"accordionheading":"Demokratiebildung","accordionbody":"Im Herbst 2019 hat sich die Gesamtkonferenz daf\u00fcr ausgesprochen, die Demokratisierung an unserer Schule zu st\u00e4rken. \n(image: img_2081-kopie.png)\nNach Sammlung von Ideen wurde mit dem Auftrag der Entwicklung eines schulischen Konzeptes zur F\u00f6rderung demokratischer Teilhabe von Sch\u00fcler:innen ein Ausschuss aus Eltern, Sch\u00fcler:innen und Lehrkr\u00e4ften gebildet.\n\nErste Ergebnisse dieser Arbeit sind:\n- Entwicklung eines Leitbildes \"Demokratisierung\"\n- Einf\u00fchrung von Jahrgangsversammlungen (Pilot in JG 11)\n- Einf\u00fchrung des Klassenrates in Klassen des 5. und 6. Jahrgangs\n\nIm Fr\u00fchjahr 2020 begeisterte Margret Rasfeld in der Gesamtkonferenz mit Ideen f\u00fcr eine Schule im Aufbruch. Eine Teilgruppe der Ausschussmitglieder befasst sich - hierdurch inspiriert - mit M\u00f6glichkeiten der Etablierung des Frei Days.\n(image: schule-im-aufbruch.svg)\nDar\u00fcber hinaus wird das Prinzip \"(link: https:\/\/kgs-rastede.de\/beratungskonzept text: Sch\u00fcler:innen f\u00fcr Sch\u00fcler:innen)\" weiter gest\u00e4rkt."},{"accordionheading":"Herausforderungsprojekt","accordionbody":"(image: logo-herausforderungsprojekt.png)\nDie Arbeitsgruppe, die sich mit der Etablierung des Herausforderungsprojektes (Schule im Aufbruch) an unserer Schule befasst, erf\u00e4hrt in der Gesamtkonferenz im Dezember 2020 mehrheitliche Zustimmung f\u00fcr die Umsetzung ihrer Planungen. Trotz der Umst\u00e4nde sind wir noch optimistisch, einen Piloten zu starten und am Beginn des Schuljahres 2021\/22 Sch\u00fcler:innen des 8. Jahrgangs gut vorbereitet auf ihre erste \"Herausforderung\" zu schicken.\n\nErg\u00e4nzung: Leider m\u00fcssen wir unser Vorhaben um ein Jahr verschieben. Um sich ihrer St\u00e4rken und Ziele bewusst zu werden, nehmen die Sch\u00fcler:innen der 8. Klassen im Gymnasialzweig an einem Projekttag teil, der mit Studierenden der Universit\u00e4t Oldenburg durchgef\u00fchrt wird.\n\nAusf\u00fchrliche Informationen zum Projekt gibt es (link: https:\/\/kgs-rastede.de\/unterricht\/herausforderungsprojekt text: hier)."},{"accordionheading":"Projektarbeit. SchiLf am 2. und 3. Februar 2022","accordionbody":"Die Projektmethode gilt als ideale Lernform f\u00fcr kooperatives, eigenverantwortliches Lernen. Sie f\u00f6rdert ganzheitliche Bildung und gesellschaftliches Engagement gleicherma\u00dfen. \nDiese Unterrichtsform bietet Sch\u00fcler:innen die M\u00f6glichkeit, an der Unterrichtsgestaltung selbstbestimmt zu partizipieren. Welche M\u00f6glichkeiten es f\u00fcr uns als Lehrkr\u00e4fte gibt, Sch\u00fcler:innen hierbei professionell anzuleiten und zu begleiten, wollen wir im Rahmen einer zweit\u00e4gigen schulinternen Lehrerfortbildung im Februar 2022 herausfinden. Verschiedene Workshops im ersten Schritt m\u00fcnden in die konzeptionelle Vorbereitung der Projektwoche im Juni.\nEine Arbeitsgruppe befasst sich mit der Planung dieser SchiLf."},{"accordionheading":"Geb\u00e4udeentwicklung","accordionbody":"An der Feldbreite sind vier neue Klassenr\u00e4ume in Modulbauweise entstanden. Der Baustart f\u00fcr den geplante Erweiterungsbau an der Wilhelmstra\u00dfe ist f\u00fcr 2022 geplant."}]},"id":"7a003020-ac84-4d7b-9295-4d39e8f4356f","isHidden":false,"type":"accordion"},{"content":{"level":"h2","text":"20 Jahre \"Schule ohne Rassismus - Schule mit Courage\""},"id":"c7a94e1a-e5f8-4388-b68d-ebb23f3dbd8c","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Wie wollen wir das feiern?<\/strong><\/p><p>Der Festakt war f\u00fcr den 23.06.2021 geplant. Erwartet wurden hochkar\u00e4tige G\u00e4ste wie die Zeitzeugin und Holocaust-\u00dcberlebenden Esther Bejerano und die Musiker der Microphone Mafia.<\/p><p>Viele freuten sich auch schon auf die Projekttage, die Zeit und Gelgenheit f\u00fcr eine intensive Auseinandersetzung mit Themen zu Rassissmus und Diskriminierung bieten sollten, denn \"Schule ohne Rassismus - Schule ohne Courage\" ist keine Auszeichnung sondern eine Verpflichtung!<\/p><p>Sollte so nicht sein. Leider mussten wir alles absagen. Nat\u00fcrlich nicht die thematische Auseinandersetzung! <\/p><p>In diesem Schuljahr wird es eine Projektwoche (20. - 24.06.2022) geben und einen Festakt. Der Ausschuss, der sich mit der Umsetzung besch\u00e4ftigt, arbeitet auf Hochtouren.<\/p><p><strong>Der Termin f\u00fcr den Festakt ist der 10. Juni 2022!<\/strong><\/p>"},"id":"24a29404-5bcf-4459-91f3-1bb7aec5918c","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- >
+  medienkompetenztage_gb_gesamtkonferenz-kopie-3.pdf
+- ag-digitalisierung-gesamtkonferenz.pdf
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Uuid: zK50gumpWWjMhDE1

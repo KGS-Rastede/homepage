@@ -1,0 +1,20 @@
+title: Lehrplan
+
+accept: application/pdf
+
+fields:
+  kurzbeschreibung:
+    label: Was auf der Homepage als Text stehen soll
+    type: text
+    width: 1/1
+    required: true
+  jahrgang:
+    label: Jahrgang, für den dieser Lehrplan ist
+    type: text
+    width: 1/2
+    required: true
+  schulzweig:
+    label: Schulzweig, für den dieser Lehrplan gilt
+    type: text
+    width: 1/2
+    required: true

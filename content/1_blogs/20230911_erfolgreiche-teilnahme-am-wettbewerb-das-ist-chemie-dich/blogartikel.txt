@@ -1,0 +1,33 @@
+Title: Erfolgreiche Teilnahme am Wettbewerb „Das ist Chemie!“ (DiCH)
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im Rahmen der AG „Naturwissenschaftliche Experimente“ bei Frau Kühn haben David Ricker, Oliver Kynast (beide 6D3), Jascha Schütte (6F3) und Ben Böneker (7F3) am Wettbewerb „Das ist Chemie!“ teilgenommen, bei dem verschiedene Experimente eigenständig durchgeführt, protokolliert und unter verschiedenen Gesichtspunkten ausgewertet werden müssen (<a href=\"https://wordpress.nibis.de/dich/\" rel=\"noreferrer\">https://wordpress.nibis.de/dich/</a>). </p><p>Dabei kommt es darauf an, die Experimentieranweisungen genau umzusetzen und gut zu protokollieren. Die Experimente können mit Materialien, die im Haushalt vorkommen, auch zu Hause durchgeführt werden – natürlich unter Einhalten von Sicherheitsregeln! </p><p>In diesem Jahr wurden verschiedene Experimente zu Milch und Milchalternativen (z.B. Soja-, Hafermilch) durchgeführt. Besonders überzeugend war die Ausarbeitung von David und Oliver, die von der Jury mit einem Sonderpreis ausgezeichnet wurde. Obwohl der Wettbewerb bereits im letzten Schuljahr lief, wurden die Preise erst nach den Sommerferien überreicht. David und Oliver freuen sich über je einen Buchgutschein. </p><p>Wir gratulieren und sagen: Herzlichen Glückwunsch!</p>"},"id":"bd000e83-92e8-4d51-a734-e7685795f146","isHidden":false,"type":"text"}],"id":"823fcca7-f6ab-42ef-a46f-78092dd6bd88","width":"1/2"},{"blocks":[{"content":{"images":["file://bL2ZRLo8EdFmNVq7"],"caption":"","ratio":"","crop":"false"},"id":"c2678c58-3067-4ba7-8229-94ec29919944","isHidden":false,"type":"gallery"}],"id":"0d16985e-1997-455e-82bc-898965962d84","width":"1/2"}],"id":"751cfc3a-8dc9-46c3-b61e-5c64fd5e5c02"}]
+
+----
+
+Date: 2023-09-11 08:10:00
+
+----
+
+Datumstartseite: 2024-01-11 08:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: Chemie, Wettbewerb, DiCH
+
+----
+
+Downloads: 
+
+----
+
+Uuid: PIEKkYCSgP2neKkX

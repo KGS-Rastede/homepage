@@ -1,0 +1,14 @@
+title: Fächerübersicht
+icon: 📜
+templates: fach
+
+
+sections:
+  pages:
+    headline: Fächer
+    info: "Tag: {{page.haupttag}}"
+  content:
+    type: fields
+    fields:
+      files:
+        label: Bilder zu den Fachbereichen

@@ -1,0 +1,11 @@
+name: Karousel
+icon: menu
+label: "{{ text }}"
+fields:
+  karousel:
+    label: Bilder für das Karousel
+    type: files
+    min: 2
+    layout: cards
+    query: page.images
+

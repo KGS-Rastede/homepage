@@ -1,0 +1,37 @@
+Title: Wettbewerbe
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Sch\u00fclerwettbewerbe sind die K\u00fcr im Schulalltag."},"id":"b6e25f08-11b3-47aa-8023-4163ae8a0133","isHidden":false,"type":"heading"},{"content":{"level":"h1","text":"Und das beste daran: Man kann nur gewinnen!"},"id":"1abc10b6-6d9c-4db5-887f-68a06dd04438","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wettbewerbe bieten die Gelegenheit, sich in besonderen Interessens- und Begabungsbereichen weiterzuentwickeln. Ob klassen- oder schul\u00fcbergreifend, ob alleine oder im Team - Wettbewerbe k\u00f6nnen einen erheblichen Beitrag zur Pers\u00f6nlichkeitsentwicklung leisten. Gefordert werden Selbstst\u00e4ndigkeit und Eigenverantwortung, Kommunikation sowie Kooperation. Wettbewerbe verbessern die Kompetenz zur Selbsteinsch\u00e4tzung und bieten die Chance, Menschen mit \u00e4hnlichen Interessen und Talenten kennen zu lernen.<\/p><p>So mancher Wettbewerb hat einen festen Platz in unserem Schulkalender eingenommen.<\/p>"},"id":"d5177a33-24b9-46ae-901e-30395f47a0fe","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: false

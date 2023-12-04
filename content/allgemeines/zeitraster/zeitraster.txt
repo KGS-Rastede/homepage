@@ -1,0 +1,9 @@
+Title: Das Zeitraster
+
+----
+
+Text: [{"content":{"text":"<p>Die Unterrichte an der KGS beginnen um 8 Uhr und enden um 16 Uhr.<\/p>"},"id":"f0158b18-f7b3-4a1a-9853-6da809e4a59e","isHidden":false,"type":"text"},{"content":{"text":""},"id":"f6313e52-42b8-4405-8642-711598c8827c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>* Hinweis<\/strong>: Freitags beginnt der Nachmittagsunterricht bereits um 14.00 Uhr und endet entsprechend um 15.30 Uhr.<\/p>"},"id":"1bd31295-f1fa-4988-b82e-2f30029d7ff0","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 2VPHxftm7U6chJAL

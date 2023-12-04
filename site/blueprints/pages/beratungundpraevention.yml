@@ -1,0 +1,19 @@
+title: Fächerübersicht
+icon: 📜
+templates: fach
+
+
+sections:
+  pages:
+    headline: Beratungsaspekte
+  content:
+    type: fields
+    fields:
+      beratungstyp:
+        label: Beratungstypus
+        type: blocks
+        fieldsets:
+              - beratungstyp
+
+
+

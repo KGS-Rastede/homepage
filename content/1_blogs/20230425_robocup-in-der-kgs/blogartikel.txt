@@ -1,0 +1,33 @@
+Title: RoboCup in der KGS
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Nachdem der RoboCup in den letzten Jahren pandemiebedingt nicht stattfinden konnte, trafen sich in diesem Jahr 256 Schülerinnen und Schüler vom 22. - 24.02. in der Mehrzweckhalle unserer KGS zum RoboCup Nordwest, um ihre selbstgebauten Roboter endlich wieder im direkten Vergleich gegen die Teams anderer Schulen antreten zu lassen. Ziel war die Qualifikation zur deutschen Meisterschaft in Kassel.</p><p>Von der KGS nahmen die Schülerinnen und Schüler der Robo-AG und des WPK Informatik in den Disziplinen Rescue Line Entry und Rescue Line (Linien folgen) sowie Rescue Maze Entry und Resue Maze (Orientierung in einem Labyrinth) teil. Zusätzlich halfen noch 15 Schüler<em>innen als Schiedsrichter</em>innen, die Oberstufe versorgte die Teilnehmenden mit leckeren Snacks und Getränken.   </p><p>Insgesamt drei Teams der KGS qualifizierten sich für die deutschen Meisterschaften in Kassel, die vom 27.04. – 30.04. ausgetragen werden. Alle drei Teams qualifizierten sich in der Disziplin Rescue Maze Entry. Dabei belegten die Teams <strong>No Name</strong> (Kalle Steinkamp, Justus zur Loye) sowie <strong>Educaters</strong> (Emma und Sarah Lehmann, Laura Schwarzwälder) die Plätze 2 und 3. Außerdem qualifizierte sich das Team <strong>LinOleum</strong> (Lino Schürmann, Ole Bohmbach). In dieser Disziplin müssen sich die Roboter in einem Labyrinth zurechtfinden. Bestimmte Felder in diesem Labyrinth dürfen nicht befahren werden, andere gelten als Opfer und müssen markiert werden.</p>"},"id":"ec437aa0-f1c1-4ae8-ac08-8dabde94a6b8","isHidden":false,"type":"text"}],"id":"9027a855-3683-427c-98ca-3018db8f7339","width":"1/2"},{"blocks":[{"content":{"images":["file://FGHy9EOyXsf79Dc1","file://HxNaft8DDGYYAQEY"],"caption":"","ratio":"","crop":"false"},"id":"cef8c9e5-4a58-4f8c-b042-f565a95a51e0","isHidden":false,"type":"gallery"}],"id":"8199db3c-50ef-476e-835d-062932747d97","width":"1/2"}],"id":"3eaac3a0-6625-41fb-a833-c4d497b9e9f0"}]
+
+----
+
+Date: 2023-04-25 07:50:00
+
+----
+
+Datumstartseite: 2023-08-25 07:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Markus Michler
+
+----
+
+Tags: Robocup, Informatik, AGn, Wettbewerb
+
+----
+
+Downloads: 
+
+----
+
+Uuid: CUwugcBi08ZOvLYK

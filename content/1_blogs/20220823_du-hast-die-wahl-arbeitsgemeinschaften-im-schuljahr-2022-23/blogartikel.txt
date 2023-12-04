@@ -1,0 +1,33 @@
+Title: Arbeitsgemeinschaften 2022/23
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Ihr habt die Wahl! Gew\u00e4hlt werden kann in der Zeit vom 29. August bis 1. September.  <\/p><p>Links und Infos <a href=\"https:\/\/kgs-rastede.de\/blogs\/arbeitsgemeinschaften-2022-23-ihr-habt-die-wahl\" rel=\"noopener noreferrer\">hier<\/a><\/p>"},"id":"49c39ee0-c6c0-4a16-a3f3-02c67b577ac9","isHidden":false,"type":"text"}],"id":"d6e48b27-aa07-4138-9d4a-719401e93cc6","width":"1\/1"}],"id":"cf5cb47b-b7d8-475d-af8f-28cc52dcd520"}]
+
+----
+
+Date: 2022-08-23 08:40:00
+
+----
+
+Datumstartseite: 2022-09-01 08:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Lhc4gBFz6Hz0GFa4

@@ -1,0 +1,41 @@
+Title: Projektwoche
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p><strong><u>Projektwoche 2022<\/u><\/strong><\/p>"},"id":"cb50fae2-c996-4be4-8509-1e219df91c7e","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Projektwoche 2022 fand anl\u00e4ssig zum 20-j\u00e4hrigen Jubil\u00e4um der Auszeichnung \"Schule ohne Rassismus - Schule mit Courage\" zu diesem Thema statt. Vom 20.06. bis zum 24.06.2022 haben alle Sch\u00fcler:Innen ab dem 5. Jahrgang an den verschiedensten Projekten teilgenommen. Daf\u00fcr hatten sie die M\u00f6glichkeit gemeinsam mit ihrer Klasse ein Projekt zu entwickeln oder sich f\u00fcr ein offenes Projekt zu bewerben. Am Freitag, dem letzen Tag, konnten die Sch\u00fcler:Innen schlie\u00dflich die Ergebnisse ihrer Projekte vorstellen und sich die anderen Projekte anschauen.<\/p>"},"id":"5927f016-a0e7-46a9-b161-1cb9cbe0272b","isHidden":false,"type":"text"},{"content":{"text":"Schule ohne Rassismus - Schule mit Courage","isexternal":"true","pagelink":[],"externallink":"https:\/\/kgs-rastede.de\/unterricht\/schule-ohne-rassismus-schule-mit-courage","buttoncolor":"light","outline":"true","size":"normal"},"id":"81936bc7-330f-4ec4-bae8-92340469a2ca","isHidden":false,"type":"button"}]
+
+----
+
+Downloads: 
+
+----
+
+Gallery: 
+
+----
+
+Date: 
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Projektwoche Niehaus
+
+----
+
+Tags: Projektwoche
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Titel: AG für den Frieden

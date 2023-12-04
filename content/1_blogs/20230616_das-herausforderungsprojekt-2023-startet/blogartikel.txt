@@ -1,0 +1,33 @@
+Title: Das Herausforderungsprojekt 2023 startet
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https://player.vimeo.com/video/837350669?h=566919fe44","caption":""},"id":"1af8008f-02a9-40b2-827a-a6dcf487d0a9","isHidden":false,"type":"video"}],"id":"c10f8c99-8f08-44d4-9bfc-ed485028b374","width":"1/1"}],"id":"3a5a4a95-9533-4a4b-8edf-480fc637b9e7"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Es geht wieder los! Am Freitag, den 16.6.2023, startet an der KGS die zweite Runde des <a href=\"https://kgs-rastede.de/unterricht/herausforderungsprojekt/herausforderungsprojekt-2022\" target=\"_blank\" rel=\"noreferrer\"><u>Herausforderungsprojekt</u></a>es.</p><p>In der zweiten Stunde werden die Schüler:innen der 8. Klassen von ihren Mitschüler:innen , Lehrkräften und Eltern mit tosendem Applaus verabschiedet. In diesem Jahr stellen sich 48 Schüler:innen einer Herausforderung, indem sie Fahrradtouren machen , wandern, Organisationen helfen oder die Umwelt auf ihrem Weg zum Ziel etwas sauberer machen.</p><p>In diesen zwei Wochen werden sie dieses Mal von Schüler:innen des 12. und 13. Jahrgangs und von Student:innen begleitet, sind aber dennoch auf sich gestellt und müssen Probleme, die sich ergeben, selbstständig lösen. Nur die Betreuer haben Handys dabei.</p><p>Jeden Tag schicken diese das \"12Uhr Bild\" an die Schule, welches wir im Laufe des Tages hochladen werden.</p><p>Klickt hierzu einfach auf den Link:</p><p><a href=\"https://kgs-rastede.de/unterricht/herausforderungsprojekt/herausforderungsprojekt-2023\" rel=\"noreferrer\">https://kgs-rastede .de/unterricht/herausforderungsprojekt/herausforderungsprojekt-2023</a></p>"},"id":"ea2286bb-0e67-443d-89d7-45db4b162bd7","isHidden":false,"type":"text"}],"id":"b6d60c56-fd0b-4acf-ad5e-e95ce3bfedf5","width":"1/1"}],"id":"f2f5fdff-953e-4581-8b13-a07d77f49356"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://0uVTeS619eZ7k3NQ","file://7bmqhZvPhNQtPI3s","file://s8GRUi20TF3b6QlZ","file://TWSd20rA6uAdQoZf","file://JVFDPwrOKfJR3hUc","file://oI4x9IdmAC763Ywr","file://7GDcnGb3uoGjBIot","file://tL2ajy5Ocpi5DtOG","file://9OmS3HVAAAij0v3P","file://qdZ52zsBqSSxJfyh"],"caption":"Bei strahlendem Sonnenschein machten sich heute die Gruppen auf den Weg!","ratio":"","crop":"false"},"id":"28614f21-4441-4370-bca7-d7bb32a8ef91","isHidden":false,"type":"gallery"}],"id":"3d4eed60-d930-4862-9108-bf51929983e7","width":"1/1"}],"id":"b4ebbf55-d03d-4a0d-ac78-f19eb9ac6b8d"}]
+
+----
+
+Date: 2023-06-16 08:00:00
+
+----
+
+Datumstartseite: 2023-10-15 13:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anja Lorenz
+
+----
+
+Tags: Herausforderungsprojekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: XOPqadXH9oJyAgN2

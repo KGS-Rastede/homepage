@@ -1,0 +1,33 @@
+Title: IRREGULäR. Neue Ausgabe online
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Eine neue Ausgabe der Sch\u00fcler:innenzeitung IRREGUL\u00e4R ist online!"},"id":"21b6698a-02b6-4f9a-99b6-0e83d5db5d31","isHidden":false,"type":"heading"}],"id":"71c6ce89-cf18-436b-8708-bd6c5654bd3e","width":"1\/1"}],"id":"8020a31b-9765-4381-ae05-c90c4b61107f"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["bildschirmfoto-2022-09-19-um-16.33.18.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0a831c56-ecfb-4932-a5ef-d6f065575167","isHidden":false,"type":"image"}],"id":"4390a6cf-97ed-4bac-b338-c84a242b7790","width":"1\/1"}],"id":"d4509ac4-cb7e-46af-8639-c12a484eb784"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h5","text":"<strong>Acht spannende Themen erwarten euch:<\/strong>"},"id":"41e3c9fe-64d0-4d54-b8c2-2cf2e5111690","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>21 Jahre Schule ohne Rassismus<\/li><li>Die Sch\u00fcler*innenvertretung<\/li><li>Fridays For Future \u2013 Next Generation <\/li><li>Mehr Platz f\u00fcrs Rad!<\/li><li>Zeit f\u00fcr fremde Welten und Superhelden <\/li><li>Catcalling &amp; Bodyshaming<\/li><li>Sicher unterwegs?!<\/li><li>Radeln gegen Rassismus<\/li><\/ul>"},"id":"43b47df8-7c3f-46e3-8788-4b1deedd2ac0","isHidden":false,"type":"list"},{"content":{"level":"h2","text":""},"id":"5e8ac416-9ca4-4e65-a2fe-6a8ce5963dad","isHidden":false,"type":"heading"}],"id":"34480dc8-1fb6-4350-81b4-f1677ff2a846","width":"1\/1"}],"id":"19644ed6-0fa9-479e-be04-b0c59283deb2"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wie immer bietet IRREGUL\u00e4R nicht nur Texte, sondern auch jede Menge Audios und Videos. Das alles gibt es nur online auf <a href=\"https:\/\/www.schuelerzeitung.kgs-rastede.de\" rel=\"noopener noreferrer\">schuelerzeitung.kgs-rastede.de<\/a><\/p><p>Viel Spa\u00df beim Lesen, Schauen und H\u00f6ren w\u00fcnschen euch die IRREGUL\u00e4R-Redaktion und das Seminarfach \u201eJournalismus im Wandel\u201c.<\/p>"},"id":"e80b7918-afae-47f5-9c84-f8f8922a3f71","isHidden":false,"type":"text"}],"id":"b6f998bb-afa8-4b1a-a2aa-39dd91689613","width":"1\/1"}],"id":"8512e7c2-1b90-4289-a327-f87463669c48"},{"attrs":[],"columns":[{"blocks":[{"content":{"name":""},"id":"6f24f223-b8f7-4f51-9cd1-98de68f5578b","isHidden":false,"type":"gastautor"}],"id":"2676c677-150b-4945-857b-a1a6b28eb4ab","width":"1\/1"}],"id":"7855344c-f23d-484f-b9e5-225fa9d6b05b"}]
+
+----
+
+Date: 2022-09-19 16:40:00
+
+----
+
+Datumstartseite: 2023-01-19 16:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Linus
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: kQ6bW5v7zvHH7F7Y

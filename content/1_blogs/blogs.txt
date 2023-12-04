@@ -1,0 +1,193 @@
+Title: Nachrichten aus der Schule
+
+----
+
+Heading: Hier stellen sich die Fächer und Fachbereiche vor, aber auch andere Bereiche der Schule berichten.
+
+----
+
+Text:
+
+- 
+  attrs: [ ]
+  columns:
+    - 
+      blocks:
+        - 
+          content:
+            text: '<p>Die 9B3 hat sich gemeinsam mit Herrn Elert mithilfe kulinarischer Vielfalten mit dem Thema Rassismus befasst. Als Einführung haben sie verschiedene Formen von Diskriminierung besprochen und um diese Formen zu veranschaulichen, schauten sie eine Dokumentation über das Thema Rassismus. In der Doku wurde ein soziales Experiment dargestellt, in dem Menschen mit blauer Augenfarbe und heller Haarfarbe diskriminert wurden, damit sie die Gefühle von Menschen, die unter Diskriminierung leiden, nachvollziehen können. </p><p>Nach dieser Ausarbeitung haben sie verschiedene Gerichte aus aller Welt zubereitet. Dazu gehörten Lahmacun (türkisch/arabisch), Sommerrollen (vietnamesisch), Sushi (japanisch) und Crème brûlée (französisch). Nach der Zubereitung setzten sie sich zusammen und probierten gemeinsam das Essen.</p>'
+          id: d0d7e993-4376-4b83-b6e9-33f54291b83f
+          isHidden: false
+          type: text
+      id: fd4b5795-856b-4147-8c07-866c6802c2d2
+      width: 1/2
+    - 
+      blocks:
+        - 
+          content:
+            images:
+              - 
+                id: >
+                  blogs/kulinarische-vielfalt/20220622_105127.jpg
+                image:
+                  back: pattern
+                  color: orange-400
+                  cover: false
+                  icon: file-image
+                  ratio: 1/1
+                  url: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/1df7fa92d9-1655971803/20220622_105127.jpg
+                  src: >
+                    data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+                  srcset: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/1df7fa92d9-1655971803/20220622-105127-352x.jpg
+                    352w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/1df7fa92d9-1655971803/20220622-105127-864x.jpg
+                    864w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/1df7fa92d9-1655971803/20220622-105127-1408x.jpg
+                    1408w
+                info: ""
+                link: >
+                  /pages/blogs+kulinarische-vielfalt/files/20220622_105127.jpg
+                sortable: true
+                text: 20220622_105127.jpg
+                filename: 20220622_105127.jpg
+                dragText: '(image: 20220622_105127.jpg)'
+                type: image
+                url: >
+                  https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/1df7fa92d9-1655971803/20220622_105127.jpg
+                uuid: 20220622_105127.jpg
+              - 
+                id: >
+                  blogs/kulinarische-vielfalt/20220622_105138.jpg
+                image:
+                  back: pattern
+                  color: orange-400
+                  cover: false
+                  icon: file-image
+                  ratio: 1/1
+                  url: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/73c7fda078-1655971823/20220622_105138.jpg
+                  src: >
+                    data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+                  srcset: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/73c7fda078-1655971823/20220622-105138-352x.jpg
+                    352w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/73c7fda078-1655971823/20220622-105138-864x.jpg
+                    864w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/73c7fda078-1655971823/20220622-105138-1408x.jpg
+                    1408w
+                info: ""
+                link: >
+                  /pages/blogs+kulinarische-vielfalt/files/20220622_105138.jpg
+                sortable: true
+                text: 20220622_105138.jpg
+                filename: 20220622_105138.jpg
+                dragText: '(image: 20220622_105138.jpg)'
+                type: image
+                url: >
+                  https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/73c7fda078-1655971823/20220622_105138.jpg
+                uuid: 20220622_105138.jpg
+              - 
+                id: >
+                  blogs/kulinarische-vielfalt/20220622_105148.jpg
+                image:
+                  back: pattern
+                  color: orange-400
+                  cover: false
+                  icon: file-image
+                  ratio: 1/1
+                  url: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/eb2b86ec55-1655971839/20220622_105148.jpg
+                  src: >
+                    data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+                  srcset: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/eb2b86ec55-1655971839/20220622-105148-352x.jpg
+                    352w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/eb2b86ec55-1655971839/20220622-105148-864x.jpg
+                    864w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/eb2b86ec55-1655971839/20220622-105148-1408x.jpg
+                    1408w
+                info: ""
+                link: >
+                  /pages/blogs+kulinarische-vielfalt/files/20220622_105148.jpg
+                sortable: true
+                text: 20220622_105148.jpg
+                filename: 20220622_105148.jpg
+                dragText: '(image: 20220622_105148.jpg)'
+                type: image
+                url: >
+                  https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/eb2b86ec55-1655971839/20220622_105148.jpg
+                uuid: 20220622_105148.jpg
+              - 
+                id: >
+                  blogs/kulinarische-vielfalt/20220622_105041.jpg
+                image:
+                  back: pattern
+                  color: orange-400
+                  cover: false
+                  icon: file-image
+                  ratio: 1/1
+                  url: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/b071d76f7c-1655971853/20220622_105041.jpg
+                  src: >
+                    data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+                  srcset: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/b071d76f7c-1655971853/20220622-105041-352x.jpg
+                    352w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/b071d76f7c-1655971853/20220622-105041-864x.jpg
+                    864w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/b071d76f7c-1655971853/20220622-105041-1408x.jpg
+                    1408w
+                info: ""
+                link: >
+                  /pages/blogs+kulinarische-vielfalt/files/20220622_105041.jpg
+                sortable: true
+                text: 20220622_105041.jpg
+                filename: 20220622_105041.jpg
+                dragText: '(image: 20220622_105041.jpg)'
+                type: image
+                url: >
+                  https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/b071d76f7c-1655971853/20220622_105041.jpg
+                uuid: 20220622_105041.jpg
+              - 
+                id: >
+                  blogs/kulinarische-vielfalt/20220622_105248.jpg
+                image:
+                  back: pattern
+                  color: orange-400
+                  cover: false
+                  icon: file-image
+                  ratio: 1/1
+                  url: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/5ad9218950-1655971865/20220622_105248.jpg
+                  src: >
+                    data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+                  srcset: >
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/5ad9218950-1655971865/20220622-105248-352x.jpg
+                    352w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/5ad9218950-1655971865/20220622-105248-864x.jpg
+                    864w,
+                    https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/5ad9218950-1655971865/20220622-105248-1408x.jpg
+                    1408w
+                info: ""
+                link: >
+                  /pages/blogs+kulinarische-vielfalt/files/20220622_105248.jpg
+                sortable: true
+                text: 20220622_105248.jpg
+                filename: 20220622_105248.jpg
+                dragText: '(image: 20220622_105248.jpg)'
+                type: image
+                url: >
+                  https://kgs-rastede.de/media/pages/blogs/kulinarische-vielfalt/5ad9218950-1655971865/20220622_105248.jpg
+                uuid: 20220622_105248.jpg
+          id: a603ed9c-5f58-4dd9-acf6-2eac169a7869
+          isHidden: false
+          type: gallery
+      id: d64a61e2-fa2d-4901-842b-c7b460499e76
+      width: 1/2
+  id: aa8b0355-d678-430b-bb04-a27a51499f54
+
+----
+
+Uuid: WjoMQ4wbY96tbSoO

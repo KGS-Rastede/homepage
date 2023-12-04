@@ -1,0 +1,13 @@
+Anzeigename: Schwerpunkte Abitur 2022
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: ONn4pNDXnGnvDy2G

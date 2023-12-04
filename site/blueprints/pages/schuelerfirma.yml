@@ -1,0 +1,34 @@
+title: Informationen zur Schülerfirma
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          heading:
+            type: text
+            label: Untertitel
+          beschreibung:
+            label: Inhalt
+            type: blocks
+
+  sidebar:
+    width: 1/3
+    sticky: true
+    sections:
+      meta:
+        meta:
+        type: fields
+        fields:
+          mailadresse:
+            type: email
+          bild:
+            label: Hintergrundbild
+            type: files
+            layout: cards
+            max: 1
+
+        
+      

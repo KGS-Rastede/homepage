@@ -1,0 +1,29 @@
+Title: „Inhumanity EU“ - Kunstinstallation auf dem Schulhof
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Tausende Menschen verlieren jedes Jahr auf der Flucht ihr Leben. Auf der \u201et\u00f6dlichsten Seeroute der Welt\u201c (UNO) \u00fcber das Mittelmeer sterben jedes Jahr Tausende Menschen. Trotzdem verweigern die Europ\u00e4ische Union und ihre Mitgliedsstaaten die notwendige staatliche Seenotrettung und versperren den gefl\u00fcchteten Menschen den Zutritt zu ihrem Hoheitsgebiet. <\/p><p>Damit versto\u00dfen sie gegen die Allgemeine Erkl\u00e4rung der Menschenrechte, die Genfer Fl\u00fcchtlingskonvention sowie Artikel 2 des Europ\u00e4ischen Vertrages. Gemeinsam mit der K\u00fcnstlerin Insa Pohlenga wies die AG \u201eF\u00fcr den Frieden\u201c w\u00e4hrend der Projektwoche auf diesen Notstand der Menschlichkeit hin.<\/p><p> Anhand der europ\u00e4ischen Sterne symbolisiert Frau Pohlenga mit den Mitteln der Kunst das Grenzregime der EU. Zugleich setzt sie auf ein Europa der Solidarit\u00e4t und der unver\u00e4u\u00dferlichen Menschenrechte.<\/p><p> In einem Workshop erweiterten Sch\u00fcler*innen die Installation durch eigene Tonexponate.<\/p>"},"id":"5bbfd7cd-e8d3-4d64-8afc-766a1cb6821c","isHidden":false,"type":"text"}],"id":"acb3ba3b-dd94-4945-ac16-09d8519f1181","width":"1\/2"},{"blocks":[{"content":{"images":["img_3269.jpg","img_3281.jpg","img_3287.jpg","img_3258.jpg","img_3239.jpg"]},"id":"d43b9fd2-5236-425a-bddf-a4b26934fac6","isHidden":false,"type":"gallery"}],"id":"7d3fbad8-f62a-4b9e-9772-dcf6ea51f1df","width":"1\/2"}],"id":"eacef2f0-d17e-4b73-b967-d313d645881f"}]
+
+----
+
+Date: 2022-06-22 17:00:00
+
+----
+
+Datumstartseite: 2022-10-22 17:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Projektwoche, Kunst, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Uuid: tH0uH7Qs5oiXFrMu

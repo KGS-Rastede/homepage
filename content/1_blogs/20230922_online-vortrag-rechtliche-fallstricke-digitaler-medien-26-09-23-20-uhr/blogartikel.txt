@@ -1,0 +1,33 @@
+Title: Online-Vortrag - "Rechtliche Fallstricke digitaler Medien" (26.09.23, 20 Uhr)
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wir weisen hin auf einen Vortrag des Präventionsrates Oldenburg:</p><p></p>"},"id":"479e0dd3-33fa-46b7-b150-7cf3006249be","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Der Vortrag ist kostenfrei, eine Anmeldung ist nicht nötig.</li><li>Den Link zur Veranstaltung finden Sie am Veranstaltungstermin auf unserer Webseite <a href=\"http://www.praeventionsrat-oldenburg.de/\" rel=\"noreferrer\"><u>www.praeventionsrat-oldenburg.de</u></a>.</li></ul>"},"id":"e2d48cb3-8c9a-40f1-b5e7-8c4a37a131ea","isHidden":false,"type":"list"}],"id":"76b08964-ba9c-4a1f-9ad0-d48b0b3ab4c5","width":"1/1"}],"id":"50c9aceb-4e74-43b8-b9e4-d6eebfc4cc90"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://fCJ6eu7Q2HEi8sWn"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c1808bc4-7fa1-4de9-95de-e664b0df7a42","isHidden":false,"type":"image"}],"id":"cc897e37-1976-4125-b678-ced6a71e09b3","width":"1/1"}],"id":"56d579d3-20f7-47ee-a877-be5c402ee871"}]
+
+----
+
+Date: 2023-09-22 08:55:00
+
+----
+
+Datumstartseite: 2023-09-27 08:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: Prävention
+
+----
+
+Downloads: 
+
+----
+
+Uuid: IJuVmmyz5YnhyIQC

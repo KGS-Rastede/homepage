@@ -1,0 +1,32 @@
+Title: Schule ohne Rassismus - Schule mit Courage in Rastede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Seit 2001 tr\u00e4gt die KGS Rastede den Titel einer \"Schule ohne Rassismus - Schule mit Courage\". In diesem Jahr feiern wir dieses Jubil\u00e4um mit einer Projektwoche und mit einem Festtag. Zur Einstimmung und zur inhaltlichen Orientierung pr\u00e4sentiert unsere AG \"F\u00fcr den Frieden\" an dieser Stelle eine PowerPoint-Pr\u00e4sentation als Information \u00fcber die Verleihung des Titels an die KGS Rastede.<\/p><p><\/p><p>Hier ist die PDF-Datei als Download:<\/p><p><a href=\"https:\/\/kgs-rastede.de\/blogs\/schule-ohne-rassismus-schule-mit-courage-in-rastede\/sor-20-jahre-jubilaeum-titelverleihung-2001-september-2021.pdf\" rel=\"noopener noreferrer\">https:\/\/kgs-rastede.de\/blogs\/schule-ohne-rassismus-schule-mit-courage-in-rastede\/sor-20-jahre-jubilaeum-titelverleihung-2001-september-2021.pdf<\/a><\/p>"},"id":"dfa458c7-f4d1-4228-b8e8-cf843cdc6e22","isHidden":false,"type":"text"}],"id":"02327efa-0296-4c2e-b4e9-cf39c41aade7","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["sor-20-jahre-jubilaeum-titelverlehung-2001-september-2021.ppt-schreibgeschuetzt-kompatibilitaetsmodus.gif"],"src":"","alt":"Das Jubil\u00e4um der Schule ohne Rassisumus - Schule mit Courage","caption":"","link":"","ratio":"","crop":"false"},"id":"22318d84-3c99-48cb-acf6-4815f07600b2","isHidden":false,"type":"image"}],"id":"4f7f7be0-14df-45c6-bb4b-d0fcbb469a8a","width":"1\/2"}],"id":"c286640d-41ef-4d5b-80fe-02c5bfdcd969"}]
+
+----
+
+Date: 2022-04-14 10:45:00
+
+----
+
+Datumstartseite: 2022-08-14 10:45:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Courage, Jubiläum
+
+----
+
+Downloads:
+
+- >
+  sor-20-jahre-jubilaeum-titelverleihung-2001-september-2021.pdf
+
+----
+
+Uuid: P9U0sNND0pXNrvXt

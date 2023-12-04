@@ -1,0 +1,13 @@
+Kurzbeschreibung: Lehrplan Spanisch JG 11
+
+----
+
+Jahrgang: 11
+
+----
+
+Schulzweig: GZ
+
+----
+
+Template: lehrplandatei

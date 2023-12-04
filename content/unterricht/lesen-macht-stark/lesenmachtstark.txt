@@ -1,0 +1,55 @@
+Title: Lesen macht stark
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Lesen macht stark ist ein <a href=\"https:\/\/www.nibis.de\/lms---lesen-macht-stark-niedersachsen_14875\" target=\"_blank\" rel=\"noopener noreferrer\">Projekt in Niedersachsen<\/a>. <\/p>"},"id":"22adb1a6-34b9-4982-a12b-66d95ab6b1a2","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Was ist \"Lesen macht stark\""},"id":"ed58818d-c1d0-4910-8b8d-ee9d49b63f84","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das Programm \u201eLesen macht stark\u201c startete im Schuljahr 2020\/21 mit zun\u00e4chst 150 Projektschulen. Ziel ist es, die Lesekompetenz aller Sch\u00fclerinnen und Sch\u00fcler an Niedersachsens Schulen durch eine systematische, durchg\u00e4ngige und langfristige Lesef\u00f6rderung zu verbessern und damit die Anzahl der schwachen Leserinnen und Leser zu verringern. Das Programm unterteilt sich in<\/p><p><strong>\u201eLesen macht stark Niedersachsen \u2013 Primarbereich\u201c und<\/strong><\/p><p><strong>\u201eLesen macht stark Niedersachsen \u2013 Sekundarbereich I\u201c.<\/strong><\/p><p>Pro teilnehmender Schule werden in dem dreij\u00e4hrigen Projektzeitraum zwei Lehrkr\u00e4fte in f\u00fcnf ganzt\u00e4gigen Fortbildungsveranstaltungen zu Lesecoaches ausgebildet. Weitere Informationen zu den Zielsetzungen des Programms, zu Inhalten und Ablauf der Fortbildungen, den Materialien u.a. erfahren Sie in den Informationsvideos auf der rechten Seite.<\/p>"},"id":"6f995f6a-80b1-4526-bc92-67151cf15661","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Gallery:
+
+- agfuerdenfrieden01.jpg
+- agfuerdenfrieden02.jpg
+- agfuerdenfrieden03.jpg
+- agfuerdenfrieden04.jpg
+- agfuerdenfrieden05.jpg
+- agfuerdenfrieden06.jpg
+- agfuerdenfrieden07.jpg
+- agfuerdenfrieden08.jpg
+- agfuerdenfrieden09.jpg
+- agfuerdenfrieden10.jpg
+- agfuerdenfrieden11.jpg
+- agfuerdenfrieden12.jpg
+- agfuerdenfrieden13.jpg
+
+----
+
+Date: 
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: AG für den Frieden
+
+----
+
+Tags: AGs
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Titel: AG für den Frieden

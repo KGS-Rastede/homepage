@@ -1,0 +1,68 @@
+#snippets/blocks/button.yml
+name: Knopf
+icon: circle
+label: "{{ text }}"
+fields:
+  basic:
+    label: Knopf
+    type: headline
+  text:
+    label: Der Text auf dem Button
+    type: text
+  isExternal:
+    type: toggle
+    label: Externer Link
+    text:
+      - "Interne Seite" #false
+      - "Externe Seite" #true
+    width: 1/4
+  pageLink:
+    label: Link zur internen Seite
+    type: pages
+    max: 1
+    when: 
+      isExternal: false
+    width: 3/4
+  externalLink:
+    label: URL zur externen Seite
+    type: url
+    when:
+      isExternal: true
+    width: 3/4
+  
+  settings:
+    label: Einstellungen
+    type: headline
+  buttoncolor:
+    label: Farbe
+    type: select
+    default: light
+    required: true
+    options:
+      primary: Helles grau
+      secondary: Blasses dunkel blau
+      info: Blau
+      warning: Blasses rot
+      danger: Dunkles rot
+      light: Dunkel blau
+      dark: grau
+    help: "Hier werden die Bootstrap Theme farben ausgewählt. Intern heissen diese: primary, secondary, info, warning, danger, light, dark"
+    width: 1/2
+  outline:
+    label: Umrandung
+    type: toggle
+    default: false
+    help: Der Knopf kann entweder eine komplette Hintergrund Farbe mit schwarzer/weißer Schrift haben oder nur eine Umrandung in der Farbe, wobei der Text die gleiche Farbe erhält
+    text: 
+      - "Volle Farbe / Keine Umrandung" #false
+      - "Nur Umrandung" #true
+    width: 1/2
+  size:
+    label: Größe
+    type: select
+    default: normal
+    options:
+      sm: Klein
+      normal: Normal
+      lg: Groß
+    width: 1/2

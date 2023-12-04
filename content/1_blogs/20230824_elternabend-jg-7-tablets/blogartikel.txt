@@ -1,0 +1,33 @@
+Title: Elternabend JG 7. Tablets
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Informationsabend am 04.10.2023 um 19 Uhr, Neue Aula."},"id":"372cb1c4-4bcc-4bb1-b0e3-7a732f566739","isHidden":false,"type":"heading"}],"id":"66364fc1-563d-4ac8-b9bd-a856939cfa48","width":"1/1"}],"id":"c6a4af7f-ef94-4aa7-9752-f0f97f57ebf7"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bitte merken Sie sich den Termin vor. Eine Einladung erfolgt über ein Elternschreiben.</p>"},"id":"c12c13b1-2e61-4443-9f8b-341b10b5e809","isHidden":false,"type":"text"}],"id":"a93ac06b-7e38-4e58-8309-f6e885ed04fb","width":"1/1"}],"id":"f20da715-3622-4eb3-959c-6fcb7ba0fab7"}]
+
+----
+
+Date: 2023-08-24 09:10:00
+
+----
+
+Datumstartseite: 2023-10-05 09:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Tablets, Elternabend
+
+----
+
+Downloads: 
+
+----
+
+Uuid: YowPaF2ZIHW0RzQf

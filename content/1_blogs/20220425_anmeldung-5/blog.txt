@@ -1,0 +1,42 @@
+Title: Anmeldung zum Jahrgang 5
+
+----
+
+Heading: Anmeldung
+
+----
+
+Text: [{"content":{"text":"<p>Das Anmeldeverfahren findet im Zeitraum vom <strong>09. Mai 2022 bis 17. Mai 2022<\/strong> statt.<strong> <\/strong>Sollten dann noch Fragen offen bleiben, stehen wir Ihnen selbstverst\u00e4ndlich jederzeit zur Verf\u00fcgung. Hier finden Sie unser <a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/anmeldung-5\/8b9eb5d186-1651137592\/anschreiben-eltern_2022.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Anschreiben<\/a>.<\/p><p>Bei der Anmeldung ben\u00f6tigen wir von Ihnen Angaben zu folgenden Bereichen<\/p><p>-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Besuch des <strong>Religionsunterrichts<\/strong> (Religion oder Werte und Normen)<\/p><p>- Angaben \u00fcber die <strong>Buslinie<\/strong>, falls ihr Kind mit dem Bus zur Schule f\u00e4hrt<\/p><p>-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Angaben eines Freundes oder einer Freundin, mit dem oder der man in die Klasse m\u00f6chte<\/p><p>-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Teilnahme an der <strong>entgeltlichen Schulbuchausleihe<\/strong><\/p><p>-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Teilnahme am <strong>elektronischen Bestellsystem<\/strong> f\u00fcr das Mittagessen<\/p><p>-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Wahl einer <strong>2. Fremdsprache<\/strong> (Realschul- und Gymnasialzweig)<\/p><p>Die <strong>Arbeitsgemeinschaften<\/strong> werden erst zu Beginn des neuen Schuljahres gew\u00e4hlt.<\/p><p>Informationen zur endg\u00fcltigen Klasseneinteilung und zur Gestaltung des ersten Schultages erhalten Sie schriftlich in den Sommerferien.<\/p><p>Sollten Sie keine M\u00f6glichkeit haben, die Anmeldung online durchzuf\u00fchren, so bieten wir Ihnen die M\u00f6glichkeit, dies am Standort <strong>Feldbreite<\/strong> im Sekretariatsbereich in der Schule zu folgenden Zeiten durchzuf\u00fchren:<\/p><p><strong>09.05.2022 (Montag) bis 17.05.2022 (Dienstag) jeweils von 08:00 Uhr \u2013 14:00 Uhr<\/strong><\/p><p><\/p><p>Die Anmeldung erfolgt auf dieser Seite: <strong><a href=\"https:\/\/haneke.de\/schueleranmeldung\/Eingabe?id=1602190976\" rel=\"noopener noreferrer\">https:\/\/haneke.de\/schueleranmeldung\/Eingabe?id=1602190<\/a><\/strong><\/p>"},"id":"34734a8b-10ba-41fe-8ab2-4e6f0a0b4f62","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/vimeo.com\/541353001","caption":"Hilfe-Video zur Anmeldung in Jahrgang 5"},"id":"cee24048-b10c-4d58-aadd-dd6e9c4af42c","isHidden":false,"type":"video"},{"content":{"level":"h3","text":"Hier finden Sie weitere  Informationen"},"id":"faf2a2c4-6827-4c4f-a26f-9af7b4757db7","isHidden":false,"type":"heading"},{"content":{"text":"<p>Information <a href=\"https:\/\/kgs-rastede.de\/blogs\/informationen-zum-artelierkurs-2021\" target=\"_blank\" title=\"zum Bl\u00e4ser- bzw. Atelierkurs\" rel=\"noopener noreferrer\">zum Bl\u00e4ser- und Atelierkurs.<\/a><\/p><p>Informationen zur<a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/anmeldung-5-2022\/746141c79b-1651137445\/wun-re-brief-an-die-gs-aktualisiert-22.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <\/a><a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/anmeldung-5\/c90e055650-1651137445\/wun-re-brief-an-die-gs-aktualisiert-22.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Religions- und Werte\/Normen-Unterricht<\/a><\/p><p>Sie finden<a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/anmeldung-5-2022\/7c7b2544cd-1651137322\/erlaeuterungen-zur-anmeldung-2022.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <\/a><a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/anmeldung-5\/bb7d0eca9e-1651137322\/erlaeuterungen-zur-anmeldung-2022.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">in dieser Datei<\/a><a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/anmeldung-5-2022\/7c7b2544cd-1651137322\/erlaeuterungen-zur-anmeldung-2022.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <\/a>eine ausf\u00fchrliche Hilfestellung. Au\u00dferdem haben wir ein Anleitungsvideo f\u00fcr sie erstellt.<\/p><p>Alle <a href=\"https:\/\/kgs-rastede.de\/allgemeines\/schulbuchlisten\" target=\"_blank\" rel=\"noopener noreferrer\">Schulbuchlisten <\/a>finden sie <a href=\"https:\/\/kgs-rastede.de\/allgemeines\/schulbuchlisten\" target=\"_blank\" rel=\"noopener noreferrer\">hier<\/a>.<\/p>"},"id":"20cf4d3c-82a0-491f-8545-d12d7143b17a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Hilfe zur Anmeldung"},"id":"919f6e64-d0fb-45ed-8191-d487130e535e","isHidden":false,"type":"heading"},{"content":{"url":"https:\/\/vimeo.com\/577688579","caption":"Willkommen an der KGS"},"id":"4653a154-343e-4eae-ad90-2a76b1b20294","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Ausf\u00fchrliche Informationen zur Schule"},"id":"1ddf92e6-5d0f-494f-b020-bafb1c96911f","isHidden":false,"type":"heading"},{"content":{"url":"https:\/\/youtu.be\/CNFC4I9Ja08","caption":""},"id":"f39d97e5-ee4c-4911-9b03-0702f18d45be","isHidden":false,"type":"video"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2022-04-25 07:50:00
+
+----
+
+Datumstartseite: 2022-05-22 07:50:00
+
+----
+
+Author: Claudia Berger (BE)
+
+----
+
+Tags: Topartikel, Schulleitung, Anmeldung
+
+----
+
+Downloads:
+
+- >
+  wun-re-brief-an-die-gs-aktualisiert-22.pdf
+- anschreiben-eltern_2022.pdf
+- erlauterungen-zur-anmeldung-2022.pdf
+
+----
+
+Fotoansicht: gallery

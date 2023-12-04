@@ -1,0 +1,47 @@
+Title: Jugend debattiert 2020
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Am Mittwoch, dem 15. Januar 2020 fand in unserer Schule der allj\u00e4hrliche Wettbewerb \u201eJugend debattiert\u201c statt, welcher von Herrn gro\u00dfe Osterhues organisiert wurde. Die Veranstaltung hat um 10:00 Uhr in Raum 304 begonnen und das Finale endete um 13:30 Uhr in der Aula. Die M\u00f6glichkeit, am Wettbewerb teilzunehmen, hatten Sch\u00fclerinnen und Sch\u00fcler des Gymnasialzweigs der Jahrg\u00e4nge 9 und 11. Da der Wettbewerb bundesweit stattfindet, konnten sich beim schulweiten Wettbewerb zwei Sch\u00fcler bzw. Sch\u00fclerinnen des 9. und drei des 11. Jahrgangs f\u00fcr den Regionalentscheid in Ahlhorn qualifizieren. Im Jahrgang 9 war das zu debattierende Thema in der Qualifikationsrunde: Soll eine Helmpflicht f\u00fcr Fahrer von E-Rollern eingef\u00fchrt werden? Um den Wettbewerb fair zu gestalten, hatten alle Debatten-Teams eine Vorbereitungszeit von 20 Minuten und konnten sich auch schon vorher zuhause auf das Thema vorbereiten. Es wurde jedoch erst unmittelbar vor Ort ausgelost, wer die Pro- und wer die Contra-Seite vertritt. Im 11. Jahrgang war das Thema der Qualifikationsrunde: Soll in der Schule das Fach \u201e\u00d6kologisches Verhalten\u201c eingef\u00fchrt werden? In jedem Jahrgang gab es zwei Teams, welche je parallel zueinander debattierten. Die vier punktbesten Sch\u00fclerinnen und Sch\u00fcler jedes Jahrgangs konnten sich f\u00fcr das Finale in der Aula qualifizieren.<\/p>"},"id":"fc04ebf6-de45-4766-8db8-46bcb89687a1","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["jugenddebattiert.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7039cd9d-8a85-4859-abe8-e91292777e9a","isHidden":false,"type":"image"},{"content":{"text":"<p>Die Debatten wurden von ausgew\u00e4hlten Jurys, welche jeweils aus zwei Lehrern und einem Sch\u00fcler oder einer Sch\u00fclerin zusammengesetzt waren, bewertet. Die Punktzahl der Teilnehmer ergab sich aus verschiedenen Teilpunkten, welche aus Ausdrucksverm\u00f6gen, Sachkenntnis, \u00dcberzeugungskraft und Redeanteil bestanden. Jeder Teilnehmer konnte zwei Sch\u00fclerinnen und Sch\u00fcler mitnehmen, welche sich die Debatten anschauen und die Teilnehmer moralisch unterst\u00fctzen konnten. Die Bekanntgabe der Gewinner der Qualifikationsrunde, fand am Anfang der f\u00fcnften Stunde in der Aula statt. Anschlie\u00dfend wurden aus den Finalisten neue Teams gebildet bzw. gelost. Sie hatten wieder Zeit sich auf das zweite, ihnen schon bekannte Thema vorzubereiten. Der 9. Jahrgang hatte als finales Thema: Soll an unserer Schule in Jahrgang acht des Gymnasialzweigs ein Sozialpraktikum eingerichtet werden? Die Finalisten Paula Veltrup (9E3), Eva Kircher (9D3), Fabian B\u00fchrig (10E3) und Jana Hespe (9E3) boten dem Publikum und der Jury eine sehr starke Debatte. Laut der Jury h\u00e4tten sich alle f\u00fcr den Regionalentscheid qualifizieren k\u00f6nnen. Letztendlich gewonnen haben die Debatte aber Paula Veltrup und Eva Kircher, welche beide die Contra-Seite vertreten haben.<\/p>"},"id":"d8ed0400-f3b7-4215-b9fb-06167dde0de5","isHidden":false,"type":"text"},{"content":{"text":"<p>Der 11. Jahrgang debattierte im Finale \u00fcber das Thema: Sollen die Anwendungsgebiete und der Einsatz von Robotern in der Pflege erweitert werden? In dieser Debatte wurden die Pro-Seite von Justin Flemming (11D) und Daniel Anisimov (11E) und die Contra-Seite von Veronika Dinter (11E) und Oliver Sings (11A) vertreten. Auch sie boten eine b\u00fchnenreife Debatte. Am Ende konnten Veronika Dinter, Oliver Sings und Justin Flemming die Jury von sich \u00fcberzeugen und ziehen somit ebenfalls in den Regionalentscheid ein.<\/p><p>Zusammenfassend kann man sagen, dass alle Debatten spannend waren. Alle Teilnehmer haben sich gut mit den Themen auseinandergesetzt und mit starken Argumenten ihren Standpunkt gut vertreten.<\/p>"},"id":"f375e534-eb11-4eb0-b59e-2e8014f46b8d","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- jugenddebattiert.jpg
+
+----
+
+Date: 2020-01-15 16:40:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Fabienne Samland, Kea Schnatbaum und Tomke Albrecht 11B
+
+----
+
+Tags: Deutsch, Wettbewerb
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

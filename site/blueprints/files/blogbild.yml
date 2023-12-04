@@ -1,0 +1,28 @@
+title: Blogbild
+
+accept: image/*
+
+
+fields:
+  alt_info:
+    label: Kurzbeschreibung (info)
+    type: info
+    theme: 
+    text: Die Kurzbeschreibung wird für Screenreader benötigt und wird nicht auf der Seite angezeigt
+  alt:
+    label: Kurzbeschreibung
+    type: text
+    width: 1/2
+    required: true
+  fotograf:
+    label: Fotograf des Fotos
+    type: text
+    width: 1/2
+  beschreibung_info:
+    label: Beschreibung (info)
+    type: info
+    theme: 
+    text: Die Beschreibung wird auf der Seite unter dem Bild angezeigt
+  beschreibung:
+    label: Beschreibung
+    type: text

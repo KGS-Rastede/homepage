@@ -1,0 +1,41 @@
+Title: Informationsvideo zum Atelier- und zum Bläserkurs Jg. 5
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"url":"https:\/\/vimeo.com\/700922116","caption":"Informationen zum Bl\u00e4serkurs"},"id":"459cc800-c316-4b32-a961-c16214324529","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/vimeo.com\/536345805","caption":""},"id":"5c84e599-baa2-45f4-9894-3e00d12e349f","isHidden":false,"type":"video"},{"content":{"text":"<p>Am 13.04. findet um 19 Uhr ein Info-Elternabend zu den Profilkursen in der Neuen Aula der KGS in der Wilhelmstra\u00dfe 5 statt. Sie sind herzlich eingeladen!<\/p>"},"id":"48b73717-f3ac-42ff-9b56-dadf6e9aefc2","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2022-04-28 00:00:00
+
+----
+
+Datumstartseite: 2022-05-15 00:00:00
+
+----
+
+Author: Jesco Scheemann
+
+----
+
+Tags: Musik, Kunst, Atelierkurs, Anmeldung, Kulturelles
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: Vi16fkQVEzikYxzU

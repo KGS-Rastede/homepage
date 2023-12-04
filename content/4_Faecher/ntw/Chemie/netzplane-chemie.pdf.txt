@@ -1,0 +1,13 @@
+Kurzbeschreibung: Netzpläne Chemie
+
+----
+
+Jahrgang: 6-13
+
+----
+
+Schulzweig: HZ, GZ, RZ
+
+----
+
+Template: lehrplandatei

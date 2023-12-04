@@ -1,0 +1,33 @@
+Title: Erklärfilme im EK-Unterricht: Die Weltmeere sind bedroht!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Klasse 9E3 erstellte im zweiten Halbjahr von Jg. 8 im Rahmen des EK-Unterrichtes verschiedene Erkl\u00e4rfilme zum Thema: <strong>Die Weltmeere sind bedroht!<\/strong><\/p><p>\u00dcber mehrere Wochen hinweg wurden daf\u00fcr Inhalte recherchiert und erarbeitet, Ideen entwickelt und wieder verworfen sowie Skripte und Storyboards erstellt. Dabei war Teamarbeit gefordert, denn Absprachen mussten eingehalten und Aufgaben selbstst\u00e4ndig erledigt werden.\u00a0Am Ende wurden die Filme den Mitsch\u00fclern pr\u00e4sentiert, und gemeinsam bewertet.\u00a0<\/p><p>Insgesamt wurden zu den Themen <em>Verm\u00fcllung, \u00dcberfischung und Klimawandel<\/em> verschiedene Erkl\u00e4rfilme erstellt, wobei zwei Themen doppelt vergeben wurden.\u00a0<\/p><p>Erkl\u00e4rfilm 1: Thema M\u00fcll im Meer von Emmy, Arian, Leo, Jan K., Ole und Elisa<\/p><p>Erkl\u00e4rfilm 2: Thema M\u00fcll im Meer von Clara, Lina, Joris, Milla, Leni, Nevio, Tom und Theo<\/p><p>Erkl\u00e4rfilm 3: Thema \u00dcberfischung von Smilla, Jounice, Carolina, Philip, Marek und Emil<\/p><p>Erkl\u00e4rfilm 4: Thema \u00dcberfischung von Mahdia, Lino, Jan H., Tjard, Theda und Kai<\/p><p>Erkl\u00e4rfilm 5: Thema Klimawandel von Mariana, Anna, Jule, Paul, Emmalie und Collin<\/p><p>F\u00fcr die Sch\u00fcler*innen war es zu Beginn eine Herausforderung, selbstst\u00e4ndig im Team dieses Projekt zu planen und umzusetzen. R\u00fcckblickend, so deren Feedback, haben sie sich an etwas Neues herangetraut, viel dazugelernt und bei der Teamarbeit gemeinsam viel Spa\u00df gehabt!<\/p><p>Mit Blick auf die Sch\u00fclerergebnisse und die Erwartungen an das Projekt, die technischen M\u00f6glichkeiten in der Arbeit mit dem Tablet herauszufinden sowie Fertigkeiten im Umgang mit dem Tablet zu schulen und die zu erwarteten inhaltsbezogenen Kompetenzen zum Themenbereich \"Weltmeere\" im Rahmen des Erdkunde-Unterrichtes zu erwerben, k\u00f6nnen alle sehr zufrieden sein.<\/p><p>Kurz um: Ziel(e) erreicht, klasse gemacht.<\/p><p>PS. Das n\u00e4chste Projekt wartet sicherlich schon! ;)<\/p>"},"id":"07eb52e3-973b-4fdc-b1b1-5b2132dbb9ac","isHidden":false,"type":"text"}],"id":"f7601cee-ef48-48ec-9688-ac74009a979a","width":"1\/1"}],"id":"9f5544a1-bad8-40d8-8756-d8688ea58e9d"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/5hzKttgDt8U2Al0B"],"src":"","alt":"","caption":"Materialien f\u00fcr den Erkl\u00e4rfilm","link":"","ratio":"","crop":"false"},"id":"4215f140-94bf-4b73-b0a4-90382d51509f","isHidden":false,"type":"image"}],"id":"979fac3e-97ad-41f4-97b6-81ebae91ff55","width":"1\/1"}],"id":"a8f1ef24-7181-43f6-b2a3-5e2cb43dae7d"},{"attrs":[],"columns":[{"blocks":[{"content":{"video":["file:\/\/AXawU6CzjGi7yoDt"],"name":"Erkl\u00e4rfilm 1: Thema M\u00fcll im Meer von Emmy, Adrian, Leo, Jan K., Ole und Elisa","autor":""},"id":"374d37f6-a2bc-46e1-be94-467146e3c36a","isHidden":false,"type":"local-video"}],"id":"a30fdfe3-e862-48f2-bbac-0ee4c69be10d","width":"1\/1"}],"id":"2ed7ffd5-6ca9-4120-855c-2441080a0b9d"},{"attrs":[],"columns":[{"blocks":[{"content":{"video":["file:\/\/qG3AwfvT4FJ5rLUU"],"name":"Erkl\u00e4rfilm 2: Thema M\u00fcll im Meer von Clara, Lina, Doris, Milla, Leni , Nevio und Theo","autor":""},"id":"e3182c6c-a1ca-4f10-abfc-d6da684671a1","isHidden":false,"type":"local-video"}],"id":"52787fd6-9269-4f26-8199-bf4e55116a80","width":"1\/1"}],"id":"90cb1650-b119-4e5d-9756-2c75b33d6765"},{"attrs":[],"columns":[{"blocks":[{"content":{"video":[],"name":"Erkl\u00e4rfilm 3: Thema \u00dcberfischung von Smilla, Jounice, Carolina, Philip, Marek und Paul","autor":""},"id":"184524bc-c01c-4b19-bf4e-0236aff58de0","isHidden":false,"type":"local-video"}],"id":"1f1497c2-796d-4305-b9c7-8beb2ed75b16","width":"1\/1"}],"id":"3b58ce3e-46f9-448d-bb77-97c83671809c"},{"attrs":[],"columns":[{"blocks":[{"content":{"video":["file:\/\/ynGDnUm9jqCxvhNm"],"name":"Erkl\u00e4rfilm 4: Thema \u00dcberfischung von Madhia, Lino, Jan H., Tjard, Theda und Kai","autor":""},"id":"a8781bcc-809a-4466-b60f-b1777ac84d0a","isHidden":false,"type":"local-video"}],"id":"342e7c6c-458d-4fa7-8134-e75c8c517489","width":"1\/1"}],"id":"eae155d0-3b34-45ba-a47f-14b0cbf7160c"},{"attrs":[],"columns":[{"blocks":[{"content":{"video":[],"name":"Erkl\u00e4rfilm 5: Thema Klimawandel von Marianna, Anna, Jule, Paul, Emmalie und Collin","autor":""},"id":"3b4cef9d-87d0-469f-a135-0d22ce78a711","isHidden":false,"type":"local-video"}],"id":"8a7ede4b-7640-4a95-8ea9-ca53c7517490","width":"1\/1"}],"id":"eb18e603-2551-4906-a955-bee9e840811f"}]
+
+----
+
+Date: 2023-01-23 16:35:00
+
+----
+
+Datumstartseite: 2023-05-23 16:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Denise Apel
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: iQtA04WbUSUyoklf

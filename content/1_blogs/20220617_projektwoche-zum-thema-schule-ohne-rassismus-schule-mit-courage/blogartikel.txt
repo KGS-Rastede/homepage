@@ -1,0 +1,33 @@
+Title: Projektwoche vom 20. bis 24. Juni
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In der Woche vom 20. bis 24. Juni findet die Projektwoche zum Thema \"Schule ohne Rassismus - Schule mit Courage\" statt. <\/p><p>Es gibt Klassenprojekte aber auch offene Projekte angeboten von Sch\u00fcler:innen oder Lehrkr\u00e4ften. Die Wahlen haben stattgefunden und alle Sch\u00fcler:innen wurden per iServ und die Klassenlehrkraft \u00fcber die Zuordnung zu den Projekten informiert.<\/p><p>Die Projektarbeit findet in der Regel von der 1. bis 5. oder der 2. bis 6. Stunde statt. Individuelle Absprachen sind m\u00f6glich. <\/p><p>Der Nachmittagsunterricht sowie der F\u00f6rderunterricht entfallen in dieser Woche. <\/p><p>JG 5 und 6: Die Hausaufgabenbetreuung findet f\u00fcr die angemeldeten Sch\u00fcler:innen statt. <\/p>"},"id":"9a460fdc-8829-4f88-bd9d-0ef6e2882562","isHidden":false,"type":"text"}],"id":"d447791f-2ffd-4e20-9025-c3f4d71d47a9","width":"1\/1"}],"id":"e7b5373e-8adf-4ba8-a8cc-f003b5e45b8e"}]
+
+----
+
+Date: 2022-06-17 13:50:00
+
+----
+
+Datumstartseite: 2022-10-17 13:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 
+
+----
+
+Uuid: wbOnIodNNRslFONr

@@ -1,0 +1,13 @@
+Anzeigename: Das WLAN für SuS freischalten
+
+----
+
+Beschreibung: Hier wird den KuK beschrieben, wie sie die SuS ihrer Lerngruppe das WLAN für eine selbst auszuwählende Zeitdauer freischalten können.
+
+----
+
+Template: datei
+
+----
+
+Uuid: rmxT5aIAhfLzonYD

@@ -1,0 +1,41 @@
+Title: Zur Technik der neuen Homepage
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>In diesem Artikel m\u00f6chten wir die Technik der neuen Homepage darstellen. Vielleicht motiviert das den einen oder anderen, sich mit Homepagegestaltung- und programmierung auseinanderzusetzen!<\/p>"},"id":"49f96f8f-1177-4ebf-9805-8993151ca42d","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Die alte Homepage"},"id":"f085b860-e3d9-4cac-a97a-b04b1bdc66c6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Bis Ende 2020 war die Homepage mit dem <a href=\"https:\/\/www.joomla.de\/\" target=\"_blank\" title=\"CMS Joomla\" rel=\"noopener noreferrer nofollow\">CMS Joomla<\/a> erstellt. Im Laufe der letzen fast 15 Jahre ist diese Homepage gewachsen.<\/p>"},"id":"4f363c54-80d7-4823-b61b-a448baa4ffea","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["alte_homepage.png"],"src":"","alt":"alte Homepage, bis Ende 2020","caption":"alte Homepage, bis Ende 2020","link":"","ratio":"","crop":"false"},"id":"165568c8-17b7-4e67-b0e4-f41763ab4ead","isHidden":false,"type":"image"},{"content":{"text":"<p>Nach all diesen Jahren und durch einen hohen personellen Wechsel in der Schulleitung war ein Neustart notwendig. Ein Update auf ein moderneres Design, das auch auf mobilen Endger\u00e4ten einwandfrei funktioniert, war nicht ohne weiteres mit dem <a href=\"https:\/\/www.joomla.de\/\" target=\"_blank\" title=\"CMS Joomla\" rel=\"noopener noreferrer nofollow\">CMS Joomla<\/a> m\u00f6glich.<\/p>"},"id":"68298607-4667-4e45-9e38-92cad57655db","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Das neue CMS"},"id":"8652e17a-cb1e-498e-9772-0f2114491f80","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die neue Homepage verwendet als <a href=\"https:\/\/getkirby.com\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">CMS Kirby<\/a>. Dabei handelt es sich um ein CMS, das einen grunds\u00e4tzlichen Unterschied zu Joomla (oder auch z.B. Wordpress) hat: Wir benutzen auf der neuen Homepage keine Datenbank. Alle Informationen werden letztlich in Text-Dateien gespeichert. Was auf den ersten Blick wie ein R\u00fcckschritt wirkt, hat viele Vorteile. Die Entwickler von <a href=\"https:\/\/getkirby.com\/\" title=\"\" rel=\"noopener noreferrer nofollow\">Kirby<\/a> haben <a href=\"https:\/\/getkirby.com\/features\/developers\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">das hier wunderbar zusammengefasst<\/a>.<\/p><p>Kirby hat eine tolle <a href=\"https:\/\/getkirby.com\/docs\/guide\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Dokumentation f\u00fcr Entwickler<\/a>, ein super <a href=\"https:\/\/forum.getkirby.com\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Forum<\/a> und einen sehr aktiven <a href=\"https:\/\/discord.com\/invite\/guMqMfJ\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Discord-Server<\/a>.<\/p>"},"id":"7e6154d8-c47e-4bbc-b379-672344715303","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Das Design"},"id":"e779eb5a-59aa-45bc-9dc1-61574b2ade82","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ein gro\u00dfes Problem war die Entscheidung, wie wir das mit dem Design machen m\u00f6chten. Letzlich haben wir uns f\u00fcr ein selbsterstelltes Design mit <a href=\"https:\/\/getbootstrap.com\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Bootstrap Version 5<\/a> entschieden. Wir haben uns auch lange mit <a href=\"https:\/\/tailwindcss.com\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TailwindCSS <\/a>besch\u00e4ftigt, aber am Ende fiel die Entscheidung f\u00fcr Bootstrap, weil es f\u00fcr uns einfacher war und weniger Aufwand darstellte, auch wegen der Vielzahl an Dokumentation und Beispielseiten.<\/p>"},"id":"e39fc0b3-2b9d-4c2b-82a5-35326c7ff89e","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Mitmachen? Mitmachen!"},"id":"5a03b58f-47cc-4517-9b1f-3c7373ed00cb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wir suchen Mitstreiter! So eine Homepage ist nie fertiggestellt, es fehlen immer Inhalte und Funktionen. St\u00e4ndig kommen neue Versionen von Bibliotheken raus und die Browser bekommen neue Funktionen. Oder jemand an der Schule w\u00fcnscht sich eine Funktion, die es noch nicht gibt.<\/p><p>F\u00fcr Sch\u00fcler:innen ist die Homepage eine super Gelegenheit, programmieren zu lernen.<\/p>"},"id":"452c3b41-13ab-431f-8b18-aa391ab64960","isHidden":false,"type":"text"},{"content":{"text":"M\u00f6chtest du mitmachen? Melde dich bei Herrn Niehaus","citation":""},"id":"92c182d9-8079-4ac7-ae28-d988567a49b4","isHidden":false,"type":"quote"},{"content":{"text":"<p>Wir suchen immer Hilfe beim Design und bei Inhalten. Aber vielleicht fehlt eine Funktion, an die wir noch gar nicht gedacht haben? Melde dich, auch gerne auf unserem eigenen <a href=\"https:\/\/discord.gg\/JDbD69zWG7\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Discord-Server<\/a>!<\/p><p><\/p><p>Der Code unserer Homepage ist \u00f6ffentlich und <em>open source<\/em>. Er ist auf <a href=\"https:\/\/gitlab.com\/cniehaus\/homepage\/\" rel=\"noopener noreferrer nofollow\">Gitlab ver\u00f6ffentlicht<\/a> und (hoffentlich) gut dokumentiert.<\/p>"},"id":"14ae86a7-ac3e-4e34-b6a1-113a67d58462","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-06-12 10:30:00
+
+----
+
+Datumstartseite: 2021-10-31 10:30:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Homepage, Informatik
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: Ffvq0MsHyLOrF9GV

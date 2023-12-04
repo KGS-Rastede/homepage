@@ -1,0 +1,33 @@
+Title: Es geht um Meer - Grünes Klassenzimmer KGS/Wi
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Aus \u201eAlt\u201c wird \u201eNeu\u201c<\/strong><\/p><p>Alles fing mit der Idee an, den Schulhof sch\u00f6ner zu gestalten, um diesen auch f\u00fcr den Unterricht nutzen zu k\u00f6nnen. Nachhaltig \"alte\" Dinge wieder aufzuwerten, stand dabei im Fokus unserer Idee. Nachdem der \"alte Pavillon\" durch die Bauarbeiten nicht mehr zur Verf\u00fcgung stand, war schnell ein neuer Standort (Foto 1) gefunden.<\/p><p>Am letzten Wochenende war es nun endlich so weit. Nach intensiver Vorarbeit - die Pflanzk\u00e4sten bautechnisch zu planen, selbst zu bauen und das gesamte Material (Holz, Farbe etc.) zu beschaffen, konnte das \"Gr\u00fcne Klassenzimmer an der KGS\/WI\" aufgebaut werden. Trotz der vielen helfenden H\u00e4nden aus der Projektgruppe \"Es geht um Meer\" waren am Ende zwei volle Tage n\u00f6tig, um alle Planungen in die Tat umzusetzen.  <\/p><p>Das \"Gr\u00fcne Klassenzimmer\" (Foto 1\/2\/6) soll Sch\u00fcler<em>innen und Lehrer<\/em>innen erm\u00f6glichen, drau\u00dfen an der frischen Luft gemeinsam Unterricht durchzuf\u00fchren.\u00a0<\/p><p>Daf\u00fcr stehen verschiedene Sitzm\u00f6glichkeiten zur Verf\u00fcgung, welche nat\u00fcrlich auch in der  Pause zum Entspannen dienen sollen. Neben den neuen\u00a0Sitzpl\u00e4tzen auf der Tischtennisplatte und den Wandsitzm\u00f6glichkeiten (Foto 3), k\u00f6nnen weitere zehn eigens gebaute Holzb\u00e4nke der Sch\u00fclerfirma \u201eHolz und mehr\u201c (Foto 4\/5) nach den Oktoberferien genutzt werden. <\/p><p>Dank der Unterst\u00fctzung der LzO im Rahmen des Wettbewerbes \u201e\u00d6kologisches Schulprojekt\u201c und\u00a0dem F\u00f6rderverein der KGS Rastede, sowie dem Nieders\u00e4chsischen Kultusministerium \u201e#Projekt Erde - Lasst uns die Zukunft sein\u201c konnte das \u201eGr\u00fcne Klassenzimmer\u201c an der KGS verwirklicht werden.<\/p><p>Wir hoffen, dass alle sehr viel Freude am \u201eGr\u00fcnen Klassenzimmer\u201c haben und sorgsam damit umgegangen wird.\u00a0<\/p><p>P.S. Mehr Informationen \u00fcber die Projektgruppe \u201eEs geht um Meer\u201c findet ihr auf Instagram.<\/p><p>\"Gr\u00fcne\" Gr\u00fc\u00dfe vom \"Es geht um Meer! - Team\"<\/p>"},"id":"dcfe4905-5930-4db8-9b68-27d167032e7a","isHidden":false,"type":"text"}],"id":"1a64d6dc-1bb0-4ce2-8a61-440c2aec8d59","width":"1\/1"}],"id":"c37390e3-7587-4ac2-a4b5-0cc2c7786ba0"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["img_7623.jpeg"],"src":"","alt":"","caption":"Foto 1 \"Gr\u00fcne Klassenzimmer\"","link":"","ratio":"","crop":"false"},"id":"1746a1c5-c4e8-4787-bb63-bea997b15433","isHidden":false,"type":"image"}],"id":"63e2519d-daf4-4fb8-930b-64e9ee07aed0","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["img_7625.jpeg"],"src":"","alt":"","caption":"Foto2 \"Gr\u00fcne Oase\"","link":"","ratio":"","crop":"false"},"id":"9764edf0-7857-4716-94e9-96ad923a0abf","isHidden":false,"type":"image"}],"id":"7ad9890c-2cfd-4b18-b5f9-86fc206dfbc5","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["img_7630.jpeg"],"src":"","alt":"","caption":"Foto 3 Wandsitzm\u00f6glichkeiten","link":"","ratio":"","crop":"false"},"id":"63dc324a-6171-4f95-bc7b-a5f3796370c6","isHidden":false,"type":"image"}],"id":"5cc0a878-202e-469e-b565-1f6015b31d31","width":"1\/3"},{"blocks":[{"content":{"location":"kirby","image":["img_7599.jpeg"],"src":"","alt":"","caption":"Foto 4 Sitzb\u00e4nke der Sch\u00fclerfirma \"Holz und mehr\"","link":"","ratio":"","crop":"false"},"id":"55286e2d-39ee-47b3-9dc5-950a652a42c8","isHidden":false,"type":"image"}],"id":"f0951225-8955-438b-b8fa-33908e4159c4","width":"1\/3"},{"blocks":[{"content":{"location":"kirby","image":["img_7598.jpeg"],"src":"","alt":"","caption":"Foto 5 Mitglieder der Sch\u00fclerfirma \"Holz und mehr\" Jg. 9","link":"","ratio":"","crop":"false"},"id":"4cacfa58-71e2-45db-8a25-1a0d79ac799d","isHidden":false,"type":"image"}],"id":"9ce9b75a-b61c-4143-9f5a-feec11a19e3d","width":"1\/3"}],"id":"1d7e7ed8-2a1b-41f6-a33b-e8f43f0bb97a"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["photo-2022-09-18-18-35-42.jpg"],"src":"","alt":"","caption":"Foto 5 Entspannung bei Vogelgezwitscher ... ;)","link":"","ratio":"","crop":"false"},"id":"582e237a-ab48-4ca9-b20c-5dfdbfcd9b91","isHidden":false,"type":"image"}],"id":"5c4b68ea-a0fd-4113-aaf8-459fbbecb6b9","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["d4bf7525-b39b-4f86-b6e0-437f53ff7993.jpeg"],"src":"","alt":"","caption":"\"Es geht um Meer\" auf Instagram","link":"","ratio":"","crop":"false"},"id":"0614a9b8-e108-411b-a062-b2d2265470c2","isHidden":false,"type":"image"}],"id":"802665be-1939-41e8-97f1-bdffcf864a52","width":"1\/2"}],"id":"13019ea9-b696-4850-9e32-754fb57f43c6"}]
+
+----
+
+Date: 2022-09-18 18:30:00
+
+----
+
+Datumstartseite: 2023-01-18 18:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Es geht um Meer - Projektgruppe
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 1iQAMqvDplQLxPmP

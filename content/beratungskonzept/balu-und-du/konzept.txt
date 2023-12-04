@@ -1,0 +1,17 @@
+Title: Balu und Du
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Balu und Du ist ein Mentorenprogramm, das ab dem Schuljahr 2021-22 als Seminarfach in der Sek II angeboten wird."},"id":"343320c5-7fb9-4619-b9f3-229ee1128236","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["file://bDOX09QmoFT4mE3M"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"d5b4a99d-5adb-4dbb-8c0d-b2b95f17de97","isHidden":false,"type":"image"},{"content":{"text":"<p>Balu und Du ist ein Seminarfach/Mentorenprogramm, das seit 2021 an unserer Schule, in Kooperation mit der Gemeinde Rastede, angeboten wird. Wie der Name schon sagt, handelt es sich um einen Balu - in dem Fall ein<em>e Schüler</em>in aus Jahrgang 12 - und einen Mogli - Schüler*in der Grundschule.</p><p>Beide treffen sich einmal in der Woche, um gemeinsam Zeit miteinander zu verbringen und schöne Erlebnisse zu teilen. Es geht nicht darum gemeinsam Hausaufgaben zu machen oder Schulsachen vorzubereiten, sondern eine schöne Zeit gemeinsam zu verbringen, Spiele zu spielen, Eis essen zu gehen und viele tolle Dinge zu erleben.</p><p> </p><p>Die einjährige Partnerschaft zwischen Balu und Mogli ermöglicht nicht nur beiden Parteien eine schöne Zeit, sondern hilft ihnen diverse soziale und persönlichkeitsstärkende Kompetenzen zu erlernen. Diese werden beiden in ihrem weiterem Leben bereichern und mögliche berufliche Türen öffnen.</p><p> </p><p>Die Partnerschulen von diesem Projekt sind verschiedene Grundschule im Gemeinde Gebiet. So können die Balus aus der Umgebung die Angebote, wie z.B. die Villa Hartmann und andere Jugendtreffs für Aktivitäten mit den Moglis nutzen.</p><p> </p><p>Für mehr Informationen schaut euch gerne das Video vom Verein Balu und Du an.</p>"},"id":"b1aef0a2-c0b3-4147-9163-79445b71a9c0","isHidden":false,"type":"text"},{"content":{"url":"https://www.youtube.com/watch?v=POAmxIPfdaw&t=5s","caption":""},"id":"42d0ad78-c3be-4d32-97b1-00279f6d4b31","isHidden":false,"type":"video"},{"content":{"text":"<p>Betreuende Lehrkräfte sind Frau Apel (ap@kgs-rastede.eu) und Herr Niebur (nb@kgs-rastede.eu)</p>"},"id":"ca2978ed-55c2-4e72-a6a9-c960ce52b117","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: - file://h9wK1Vx73qZIJuRl
+
+----
+
+Uuid: Guvb9jqXSPHjJYVc

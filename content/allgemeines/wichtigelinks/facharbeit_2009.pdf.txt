@@ -1,0 +1,9 @@
+Anzeigename: Informationen zur Facharbeit
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs

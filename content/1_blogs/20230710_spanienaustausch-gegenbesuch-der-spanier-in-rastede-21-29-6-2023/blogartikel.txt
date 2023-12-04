@@ -1,0 +1,33 @@
+Title: Spanienaustausch Gegenbesuch der Spanier in Rastede 21.-29.6.2023
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am Mittwoch, den 21.06. sind unsere spanischen Austauschschüler/-innen nach Deutschland geflogen. Leider konnte Nerea nicht kommen, da sie sich vorher beim Klettern verletzt hatte. Auch bei Adrián gab es Schwierigkeiten, da sein rumänischer Pass abgelaufen ist, sodass er nicht fliegen konnte. Seine Familie aber hat sich kurzfristig noch für einen einwöchigen Urlaub in Bremen entschieden und ist kurzerhand mit Adrián im Auto angereist.</p><p>Nach dem Flug von Madrid nach Hamburg sind die Austauschschüler/-innen mit dem Zug nach Rastede gefahren, wo wir sie am Bahnhof abgeholt haben.</p><p>Dann sind wir mit ihnen nach Hause gefahren, damit sie ankommen können. Nachdem wir zu Hause etwas gegessen haben sind wir auf den Turnierplatz in Rastede gefahren, wo wir uns viel zu erzählen hatten, da wir uns seit unserer Reise nach Spanien im April nicht gesehen hatten.</p><p> </p><p>Am Donnerstag haben wir uns in der Schule getroffen, wo wir in der Cafeteria gefrühstückt haben.</p><p>Danach haben wir eine selbstorganisierte Rallye durch Rastede gemacht, welche mit einem Picknick im Schlosspark geendet hat. Nachmittags waren wir im Beachclub Nethen Schwimmen und SUP.</p><p>Freitag haben wir einen Tagesausflug nach Bremen gemacht, nach einer selbstgeführten Tour  beguckten wir die Bremer Stadtmusikanten, den Roland, das alte Ratshaus, das Schnoorviertel und die Schlachte. Danach lernten wir Die Attraktion Bremens kennen und aßen mit den Spaniern Döner. Am Abend waren wir auf Chiaras Abschiedsfeier. Chiara ist auch Spanierin aber lebt in Irland und hatte ein Auslandsjahr in Deutschland gemacht. Sie hat bei Sara gewohnt, welche auch beim Austausch mitgemacht hat, und ist am Sonntag abgereist. Da sie Englisch, Deutsch und Spanisch spricht, war sie die zwei Tage mit uns unterwegs. Ihre Familie hat sie am Abend mit einer Abschiedsparty überrascht und wir waren mit der gesamten Austauschgruppe dabei.</p><p>Samstag und Sonntag hatten wir Familientage. Helene hatte am Sonntag Geburtstag und am Samstagabend reingefeiert. Sonntagmittag waren einige im Kletterwald und im Bernsteinsee in Conneforde, was uns viel Spaß gemacht hat. Leider hatte sich Alba beim Klettern verletzt, sodass sie die restlichen Tage mit Krücken beziehungsweise im Rollstuhl unterwegs war.</p><p>Montag waren wir im Deutschen Maritimen Museum in Wilhelmshaven, dort konnten wir sogar auf ein ehemaliges Kriegsschiff und in ein U-Boot gehen. Danach haben wir noch eine Hafenrundfahrt gemacht, da die Fahrt durch das Wattenmeer mit der MS Harle, wegen Maschinenschaden am Schiff, ausfallen musste. Gegen 20 Uhr haben wir uns wieder auf dem Turnierplatz in Rastede getroffen, wo wir geredet und Uno gespielt haben.</p><p>Den Dienstag haben wir, abgesehen von der  1.Stunde, in welcher wir im Unterricht waren, in Oldenburg verbracht. Nach einer Besichtigung der Stadt (Hafen, Schloss, Lambertikirche, Marktplatz) sind wir mit dem Bus nach Wechloy gefahren um dort Schwarzlichtgolf zuspielen. Zurück in Oldenburg sind wir im Vapiano Essen gegangen und anschließend in Oldenburg shoppen gewesen. Die Spanier haben Souvenirs und Mitbringsel gekauft. Auch diesen Abend haben wir auf dem Turnierplatz verbracht und Uno sowie Federball gespielt.</p><p> </p><p>Am Mittwoch waren wir in der Schule , wo die Spanier uns in der 1. und 2. Stunde in den Unterricht begleitet haben, um anschließend gemeinsam die Abschiedsfeier mit den Familien vorzubereiten, die am Abend stattfand. Wir haben Fotos und Videos gezeigt und haben zu jedem Tag etwas dargestellt, was an diesem Tag passiert ist.</p><p>Der Donnerstag war ziemlich aufregend. Wir trafen uns allem am Bahnhof in Oldenburg und mussten Abschied nehmen. Alba konnte nicht mit ihren Krücken im Zug fahren. Sie wurde im Taxi, zusammen mit der Lehrerin Concha, zum Flughafen gefahren. Adrián wurde von seiner Familie abgeholt und sie fuhren den weiten Weg nach Madrid wieder im Auto zurück. Die restliche Gruppe fuhr mit dem Zug und es war sehr traurig sich von allen zu verabschieden und den Zug abfahren zu sehen.</p><p>Wir haben eine intensive Zeit mit „unseren“ Spaniern verbracht und werden sie alle vermissen. Aber wir sind auch sehr froh, sie durch den Austausch kennengelernt zu haben. Wir haben viel Englisch und Spanisch gesprochen, 1000 neue Eindrücke und Erfahrungen gewonnen und sind innerhalb unserer Gruppe sehr zusammengewachsen. Jetzt sind wir erstmal ziemlich müde von den schönen, wenn auch anstrengenden Tagen mit unseren Gästen.</p>"},"id":"a7785bee-31bb-4548-a6f5-197fa8c7b766","isHidden":false,"type":"text"}],"id":"674a672d-8929-4376-b28f-88d37818b93c","width":"1/1"}],"id":"a11493d8-113c-4bf2-a262-84c72115dbc7"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://ddIhLFzeuEtNJ46b","file://cVWk1JrOIqxt1kKT"],"caption":"","ratio":"","crop":"false"},"id":"0af361a2-e913-4ba8-82a8-89a5392cff94","isHidden":false,"type":"gallery"}],"id":"37bfbe2b-84f0-431e-8bfe-98f95625f093","width":"1/1"}],"id":"9f84386d-1f3f-4620-9712-77e5147b6034"}]
+
+----
+
+Date: 2023-07-10 11:35:00
+
+----
+
+Datumstartseite: 2023-11-10 11:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: Spanisch, Austausch, Klassenfahrt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: y4PrrEJLuBqyQpnW

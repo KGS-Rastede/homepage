@@ -1,0 +1,32 @@
+Title: Das Projekt Schule ohne Rassismus - Schule mit Courage
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Seit 2001 tr\u00e4gt die KGS Rastede den Titel einer \"Schule ohne Rassismus - Schule mit Courage\". In diesem Jahr feiern wir dieses Jubil\u00e4um mit einer Projektwoche und mit einem Festtag. Zur Einstimmung und zur inhaltlichen Orientierung pr\u00e4sentiert unsere AG \"F\u00fcr den Frieden\" an dieser Stelle eine PowerPoint-Pr\u00e4sentation als Information \u00fcber das internationale antirassistische Projekt \"Schule ohne Rassismus - Schule mit Courage\".<\/p><p><\/p><p><a href=\"https:\/\/kgs-rastede.de\/blogs\/das-projekt-schule-ohne-rassismus-schule-mit-courage\/sor-20-jahre-jubilaeum-das-projekt-schule-ohne-rassismus-juli-2020.pdf\" target=\"_blank\" title=\"Die Pr\u00e4sentation zum Thema\" rel=\"noopener noreferrer\">sor-20-jahre-jubilaeum-das-projekt-schule-ohne-rassismus-juli-2020.pdf<\/a><\/p>"},"id":"92217343-fa4f-48b2-8e11-96f0cff63a79","isHidden":false,"type":"text"}],"id":"0806595e-b09e-42dd-96f4-7de2d1e91ee4","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["sor-20-jahre-jubilaeum.gif"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"db3b8483-ea0a-4fe7-91ab-86e4a68b7b68","isHidden":false,"type":"image"}],"id":"671fd606-d6d7-49e2-92a0-54007fd35a2e","width":"1\/2"}],"id":"912c5a23-f83a-4d7e-bbb8-dd2ded3cc0c8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"20 Jahre Schule ohne Rassismus - Schule mit Courage","citation":""},"id":"944ba9bf-b89b-4772-8048-f41bee01ac58","isHidden":false,"type":"quote"}],"id":"7cca09b8-6403-4e11-a934-8ea3947cfa87","width":"1\/1"}],"id":"cece31f3-4642-4256-a0ed-d5cb19f97efb"}]
+
+----
+
+Date: 2022-02-21 11:10:00
+
+----
+
+Datumstartseite: 2022-06-21 11:10:00
+
+----
+
+Author: Michael Luttmer
+
+----
+
+Tags: AGs, Courage
+
+----
+
+Downloads:
+
+- >
+  sor-20-jahre-jubilaeum-das-projekt-schule-ohne-rassismus-juli-2020.pdf
+
+----
+
+Uuid: RAnrEAKoeYo47D8t

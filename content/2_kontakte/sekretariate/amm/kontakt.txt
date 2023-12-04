@@ -1,0 +1,33 @@
+Title: Herr Ammermann
+
+----
+
+Heading: amm
+
+----
+
+Position: Hausmeister Hauptgebäude
+
+----
+
+Phone: 04402-9264-28
+
+----
+
+Fotoansicht: hausmeister
+
+----
+
+Email: amm@
+
+----
+
+Gallery: - ni.jpg
+
+----
+
+Text: Inhalt, ganz wichtig
+
+----
+
+Uuid: 6Duj4Q4NpndHvTuH

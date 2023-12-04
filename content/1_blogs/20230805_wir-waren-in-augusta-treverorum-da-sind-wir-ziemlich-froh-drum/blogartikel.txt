@@ -1,0 +1,33 @@
+Title: Wir waren in „Augusta Treverorum“, da sind wir ziemlich froh drum.
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Was für eine aufregende Reise wir als Lateinkurse nach Trier hatten!</p><p>Am ersten Tag erwartete uns das imposante Wahrzeichen der Stadt, ein gut erhaltener römischer Stadteingang, die Porta Nigra. Mit einer abenteuerlich geschauspielerten Führung des Bauwerks wurden wir zu waschechten römischen Soldaten ausgebildet und erfuhren viel Neues über die Geschichte der Stadt. Das frisch gewonnene Wissen wurde anschließend mit einer Führung des gesamten „Zweiten Roms\" noch weiter ausgeführt. Wir sahen Kirchen, Thermen und alte Gräber mit lateinischen Inschriften. Damit wir die Gassen noch einmal auf eigene Faust erkunden konnten, schossen wir in Kleingruppen kreative Fotos bei spektakulären Sehenswürdigkeiten. Auch haben wir erfahren, dass fast jedes Gebäude in Trier einen neuen Zweck gefunden hatte, nachdem die römische Zeit ihr Ende gefunden hatte. Zum Beispiel war die Porta Nigra zeitweise als Kirche umfunktioniert worden.</p>"},"id":"edd78c15-230e-4c37-9f5d-540b2466f308","isHidden":false,"type":"text"}],"id":"69452d73-4d16-42c5-8b61-747a3864af89","width":"1/1"}],"id":"c9d7f5e3-62f0-4c20-9b02-f87529a9eec2"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der zweite Tag führte uns zur Villa Borg, einer rekonstruierten römischen Villa auf antiken Fundamenten. Durch diese Räumlichkeiten wurde uns ein Einblick in das Leben der damaligen Zeit gewährt, der uns staunen ließ. Nach der Führung durften wir dann das römische Essen frisch aus der Küche probieren und unter Anderem auch Süßspeisen kosten. Später am Tag erreichten wir die Saarschleife, ein Naturspektakel, welches uns sprachlos machte. Abgerundet wurde unser Tag mit dem Besuch der charmanten Stadt Saarburg,welche wir in kleinen Gruppen erforschen konnten. Umrundet von Weinbergen, versetzte uns das Städtchen mit einem Wasserfall im Zentrum und vielen engen Gassen in der Altstadt, regelrecht in eine andere Zeit. Viele von uns bekamen sogar den Eindruck eines „deutschen Venedigs“. In den zahlreichen Cafés und Restaurants konnte man sich den Bauch so richtig vollschlagen.</p>"},"id":"e04556f5-f635-4a48-9b64-645605473974","isHidden":false,"type":"text"}],"id":"bbedf588-5c82-4dde-b251-72b979bbf25e","width":"1/2"},{"blocks":[{"content":{"images":["file://pKyGTFE4s03SWGUY","file://MvdUWjcIn4A3eYAg","file://0giOtwSjgylC7sj1"],"caption":"","ratio":"","crop":"false"},"id":"33163f86-d9fb-4ccc-be91-d1a37792efd8","isHidden":false,"type":"gallery"}],"id":"15889f39-8b0e-40e2-b52d-71aaba520ab1","width":"1/2"}],"id":"bef4f012-3525-4e10-a949-ad4b262c34b1"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am dritten Tag standen wir vor den beeindruckenden Überresten des römischen Amphitheaters in Trier. Auch hier wurden wir auf erlebnisreiche Weise herumgeführt und durften sogar Schilder und Netze ausprobieren, dort, wo einst spannende Gladiatorenkämpfe stattgefunden haben. Unsere Vorstellungen der römischen Badekultur änderten sich schlagartig, als wir die Katakomben in den Ruinen der Kaiserthermen erkundeten. Das Rheinische Landesmuseum schloss unser Sightseeing-Programm ausgezeichnet ab. Hier konnten wir etliche römische Artefakte bewundern und uns ein letztes Mal mit der Historie der Stadt auseinandersetzen. Wir sahen den Trierer Goldmünzschatz, sowie zahlreiche Statuen und Gemälde. Danach ging es auch schon wieder in die Jugendherberge in Bollendorf, wo wir unseren letzten Abend in guter Gesellschaft genossen oder eine kleine Wanderung an der luxemburgischen Grenze unternahmen.</p>"},"id":"3a0ae253-4268-4775-9239-d17c7b7ac48a","isHidden":false,"type":"text"}],"id":"030275c9-9b7c-4eb3-9e5a-a786123a6376","width":"1/1"}],"id":"38fa8340-6388-4498-ab81-45123dbe9170"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Reise nach Trier mit den Lateinkursen des 8.,9. und 10. Jahrgangs war eine unvergessliche Erfahrung für uns Schüler. Wir haben nicht nur viel über die römische Geschichte gelernt, sondern auch eine Menge Spaß gehabt.<br>„Augusta Treverorum“ hat uns wirklich mit seinem Charme verzaubert und wir sind dankbar für eine solche Erfahrung.</p><p>Wir bedanken uns vor allem bei allen Lehrer*innen für die gelungene Organisation und die angenehme Atmosphäre während der Fahrt!</p>"},"id":"88d307ae-aecb-43c0-b4c8-08dd01af094a","isHidden":false,"type":"text"}],"id":"92a508fd-c09c-423c-baaa-ff62c1907c6d","width":"1/2"},{"blocks":[{"content":{"images":["file://5N0kiTAiGZLQJmKx","file://6VJBigdUTz73AAwz","file://E673YeCQjtn7VMQV","file://udhRLOONix2n2asm","file://m1dtuLH1zpnDv1lq","file://uVq3xvo42XMIUjRH","file://eav38aJwt8q2EbPh","file://Xc08Kw7aQ9TsgAGv"],"caption":"","ratio":"","crop":"false"},"id":"81d8c31e-de38-4858-adf3-d6d97b307def","isHidden":false,"type":"gallery"}],"id":"5dc46688-fa80-4016-804e-3750a72b7a9c","width":"1/2"}],"id":"8f33e5f7-068d-42da-8bcb-f2462667b6ed"}]
+
+----
+
+Date: 2023-08-05 12:55:00
+
+----
+
+Datumstartseite: 2023-12-05 12:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Ella Brörkens und Ella Yildiz 9c3
+
+----
+
+Tags: Latein, Exkursion, Trier
+
+----
+
+Downloads: 
+
+----
+
+Uuid: fAUMh7vCkI6Fing9

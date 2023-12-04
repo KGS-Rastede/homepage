@@ -1,0 +1,33 @@
+Title: Entwicklung von Angeboten für die Grundschule
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Sch\u00fclerInnen aus der 8E3 entschieden sich dazu, verschiedene Projekte f\u00fcr das Thema \"Schule gegen Rassismus, Schule mit Courage\" zu entwickeln.<\/p><p><\/p><p>Die Sch\u00fclerInnen entwickelten selbstst\u00e4ndig, unter der Aufsicht von Herrn Luthmer und Frau Lisbach, eigene Workshops, um den jungen Kindern das Thema Rassismus einfach und verst\u00e4ndlich n\u00e4her zu bringen.<\/p><p>Die Sch\u00fclerInnen legen hierbei sehr viel Wert auf die fachlich korrekten Aspekte und behandeln Themen wie beispielsweise \"Black lives Matter\" oder auch Filme, die auf den Rassismus basieren wie beispielsweise der Film \"Der Schwarzfahrer.\" Ebenfalls wurde eine Kurzgeschichte konstruiert, die den Rassismus bildlich darstellt.<\/p>"},"id":"f841e26a-f4c9-457d-b36d-e21090dbedcd","isHidden":false,"type":"text"}],"id":"0637fd5f-6d17-4d29-ac01-ac3b68a0fb5c","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["projekt-rassismus-2.pdf"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"5ae8dcc6-c839-4d72-a36b-512307d28cdc","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["39462600-1f2e-4734-b2b5-a97f5bcd2fb3.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"38f94886-19c8-4a0f-8ecc-21dbbfce7b48","isHidden":false,"type":"image"}],"id":"fecd43d8-66a5-46a4-afd8-b2bef4f82f76","width":"1\/2"}],"id":"b6ea7e90-02a5-4e0a-b4a3-855d0b302e74"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["90cd69e1-1991-45a2-b9e4-1fd07e772680.png","c2c1f671-252f-4a45-afa3-5718a76b6ded.png","41101ce6-d994-46e3-b511-825cf1cf9c39.png","e567a6ca-9269-4421-9bef-77a26bdf5eb9.png","e8b07d10-f39a-449f-971a-5ccc6c7ed2a9.png"]},"id":"e7fd23e7-5e61-4569-944f-5e2c40f4fa53","isHidden":false,"type":"gallery"}],"id":"1657287c-afe2-43cf-9fc0-82ea50c656b4","width":"1\/1"}],"id":"9517f6ca-933a-4b0e-ab8e-2809534226df"}]
+
+----
+
+Date: 2022-06-22 11:55:00
+
+----
+
+Datumstartseite: 2022-10-22 11:55:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Eda Yildiz
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 2AaAQiN7OqSlklSo

@@ -1,0 +1,33 @@
+Title: Klasse 5A3 organisiert Kuchenverkauf zur Unterstützung von Erdbebenopfern
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 05.05.2023 haben die Schülerinnen und Schüler der Klasse 5A3 einen großen Kuchenverkauf veranstaltet, um Geld für die Erdbebenopfer in der Türkei und Syrien zu sammeln.<br>Die Wunsch nach dieser Aktion kam aus der Klasse selbst und wurde von allen gemeinsam im Sozialen Lernen geplant und diskutiert. Hierbei haben die Schüler und Schülerinnen im Vorfeld bunte Werbeplakate gezeichnet, ein abwechslungsreiches Kuchenmenü zusammengestellt und VerkäuferInnen sowie Securitykräfte bestimmt, die den Verkauf durchführen und unterstützen sollten.<br>Mit dem selben Enthusiasmus, mit dem sie alles geplant haben, haben die Schüler und Schülerinnen dann auch ihr Backtalent gezeigt: Mehr als zwanzig verschiedene Kuchen und Muffins standen am Ende auf den Verkaufstischen! Das war trotz der fleißigen Kundschaft genug, um zwei große Pausen zu füllen. In der zweiten großen Pause wurde dann das letzte Stück verkauft.</p>"},"id":"1b2ae4ca-6ed2-44b0-87c5-4d892cdd7c63","isHidden":false,"type":"text"}],"id":"d453b420-6895-49d8-8f30-49fa36d25f46","width":"1/1"}],"id":"10df25f1-6bda-477a-8333-ecbd4db5a9d0"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://Mv35ZrI2mtheTHvE"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f9bcd581-5bb2-4890-a96f-2de86c9d0df9","isHidden":false,"type":"image"}],"id":"1d6694d4-e542-4b8a-8a48-9a5779ee746e","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://9MThyZu7n6WV86oL"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"068840c1-0440-4658-a1c7-1c201fdb2500","isHidden":false,"type":"image"}],"id":"cb7eaf91-6898-42e1-abb3-88fee120013d","width":"1/2"}],"id":"4fb76a51-29d3-40a3-b660-a9e9ec0a683c"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Dank der eifrigen Vorarbeit, der zahlreichen Käuferschaft und vielen kleinen Spenden aus der Schüler- und Lehrerschaft konnte die Klasse erstaunliche 350 Euro sammeln, die im gesamten Umfang an die Hilfsorganisation \"Ärzte ohne Grenzen\" gespendet wurde. Nun kann die Organisation dringend benötigte medizinische Hilfe in den betroffenen Gebieten bereitstellen.<br>An dieser Stelle möchte ich mich nicht nur bei der Klasse 5A3 für ihr tolles Engagement, sondern auch bei allen fleißigen Käufern und Spendern bedanken! Ihr alle habt dazu beigetragen, dass ein so fantastischer Betrag möglich war. Vielen Dank!!</p>"},"id":"deaa5a27-e3fe-4a36-8e6e-58fe22f814e1","isHidden":false,"type":"text"}],"id":"368587ba-33b8-44f6-b6da-2b2d624c1da7","width":"1/1"}],"id":"fd8f7a9f-87a0-4394-8815-cc9d69439ce2"}]
+
+----
+
+Date: 2023-05-11 19:10:00
+
+----
+
+Datumstartseite: 2023-09-11 19:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Die Schüler:innen der 5A3
+
+----
+
+Tags: Ärzte ohne Grenzen, Spende
+
+----
+
+Downloads: 
+
+----
+
+Uuid: w4EdR8LHuwrMxdmH

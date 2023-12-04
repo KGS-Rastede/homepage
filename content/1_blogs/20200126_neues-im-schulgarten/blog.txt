@@ -1,0 +1,43 @@
+Title: Neues im Schulgarten
+
+----
+
+Heading: Neue Pflanzen im Schulgarten!
+
+----
+
+Text: [{"content":{"text":"<p>Am 19.11. hat die Sch\u00fclerfirma Imkerei in unserem Schulgarten in der Wilhelmstra\u00dfe f\u00fcnf S\u00e4ulenb\u00e4ume (3 Apfelb\u00e4ume, 2 Birnenb\u00e4ume) sowie drei Johannisbeerenstr\u00e4ucher gepflanzt. Finanziert wurden die Pflanzen durch die LZO. Ziel war es, Ammerl\u00e4nder Schulen beim Anlegen insektenfreundlicher Freifl\u00e4chen zu unterst\u00fctzten. Ansprechpartner dabei war das Umweltbildungszentrum. Unsere Pflanzen stammen von der Baumschule Br\u00fcntjen aus Edewecht.<\/p><p>Die B\u00e4ume werden im Fr\u00fchjahr Futterpflanzen f\u00fcr unsere Bienen und Wildbienen sein und im Sommer leckere Fr\u00fcchte tragen. Habt ihr auch Ideen f\u00fcr unseren Schulgarten und Lust, diesen mit zu gestalten? Dann meldet euch\u2026<\/p>"},"id":"d45a06a2-4d53-44c4-a433-563094f66684","isHidden":false,"type":"text"},{"content":{"text":"<p>Katrin Hallemeier <a href=\"mailto:hal@kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">hal@kgs-rastede.de<\/a><\/p>"},"id":"fbc7369a-49bd-4e4c-9b7d-d1fec71c5e1d","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- schulgarten-hal.jpg
+
+----
+
+Date: 2020-01-26 17:00:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: AS/ HAL
+
+----
+
+Tags: Biologie, Schulgarten
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: false

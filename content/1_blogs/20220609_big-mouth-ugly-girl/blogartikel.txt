@@ -1,0 +1,29 @@
+Title: Big Mouth & Ugly Girl
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["plakat-version-1-kopie.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"d4ecb52b-6866-4df0-91d5-97438dec99d5","isHidden":false,"type":"image"}],"id":"a646a496-9a3d-4669-857d-46c3c1a471cc","width":"1\/1"}],"id":"8bf1b581-0793-4913-85b3-20ad66bd4e1c"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Endlich d\u00fcrfen wir wieder auff\u00fchren!<\/strong> Nach zwei Jahren Zwangspause startet der Wahlpflichtkurs Darstellendes Spiel\/Musik des 10. Jahrgangs unter der Leitung von Frau Lorenz und Frau Schw\u00e4be endlich wieder in die Theatersaison an der KGS Rastede. Knapp ein Jahr wurde eine eigene Adaption des Romans <strong>\"Unter Verdacht - die Geschichte von Big Mouth &amp; Ugly Girl\" von Joyce Carol Oates<\/strong> erarbeitet. <br><\/p><p><strong>Das Ergebnis pr\u00e4sentieren wir am 16. Juni 2022 um 19 Uhr in der Aula der KGS Rastede.<\/strong> <br><\/p><p><em>Doch worum geht es?<\/em><br><em>\"Eine Bombe?\", \"Sie haben eine Bombe gefunden. In der N\u00e4he der Waschr\u00e4ume.\" Das sind die neuesten Ereignisse an der Rocky River High. <\/em><br><em>Matt Donaghy wird verd\u00e4chtigt, eine Bombe in der Schule gelegt zu haben und wird deshalb von der Polizei in Gewahrsam genommen. <\/em><br><em>Ausgerechnet Ella Riggs, ein misstrauisches M\u00e4dchen aus der Basketballmannschaft steht an seiner Seite, obwohl sie Matt kaum kennt. Sie wei\u00df, dass Matt viel Unsinn redet, aber daran, dass er ein Terrorist oder Bombenleger ist, will sie nicht glauben, weshalb f\u00fcr sie klar ist, dass sie Matt helfen muss. Aber wird es ihnen am Ende gelingen, seine Unschuld zu beweisen oder werden sich ihnen weitere unerwartete Probleme in den Weg stellen?<\/em><br><em>(geschrieben von Nane)<\/em><\/p>"},"id":"ca8777af-2463-4d85-a776-373133f79f6c","isHidden":false,"type":"text"}],"id":"a211aadb-ca22-4b71-bc4f-2ef204a6f09f","width":"1\/1"}],"id":"f1aedd1c-076e-4795-a73a-f5f329851ee9"}]
+
+----
+
+Date: 2022-06-09 17:25:00
+
+----
+
+Datumstartseite: 2022-10-09 17:25:00
+
+----
+
+Author: Anja Lorenz
+
+----
+
+Tags: Darstellendes Spiel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: GVA50ue0WmFH5pkY

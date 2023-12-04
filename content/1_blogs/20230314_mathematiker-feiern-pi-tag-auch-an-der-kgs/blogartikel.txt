@@ -1,0 +1,33 @@
+Title: Mathematiker feiern Pi-Tag – π auch an der KGS!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Jedes Jahr am 14. März begehen Mathematik-Begeisterte auf der ganzen Welt den Pi-Tag, oder besser π-Tag. Traditionell wird dazu runder Kuchen gegessen, da die Idee aus Amerika stammt und dort die Aussprache von „π“ genauso klingt wie das Wort „pie“ = runder Kuchen. Also gab es in der Klasse 10A3 an diesem Morgen Cookies, die Fabio beigesteuert hat – danke dafür, lecker! Dazu haben wir den Song „10000 digits of π“ gehört (<a href=\"https://youtu.be/iFw6fARvGYM\" rel=\"noopener noreferrer\">https://youtu.be/iFw6fARvGYM</a><a href=\"https://youtu.be/iFw6fARvGYM)\" target=\"_blank\" rel=\"noopener noreferrer\">)</a>, allerdings nur 3 Minuten und 14 Sekunden…<br>Auch im Mathe-Leistungskurs wurde Kuchen gegessen (wenn auch kein runder), zudem haben wir aus dem Buch „1.000.000 digits of π“ (vor)gelesen (s. Foto, Jonas und Philipp) – als kleine Mitmachaktion: ratet mal, wie viele Seiten das Buch hat?! Einsendungen bitte an <a href=\"mailto:fch_mal2@kgs-rastede.eu\">fch_mal2@kgs-rastede.eu</a> schicken! Der/die glückliche Gewinner/in bekommt nächstes Jahr am π-Tag ein Stück Kuchen! Im Anschluss haben wir ein von Joost erstelltes Kahoot zu π gespielt (wer auch mal will: <a href=\"https://create.kahoot.it/share/das-groe-pi-quiz/5f5fabd4-470a-41c4-8cb5-e329304ef058\" rel=\"noopener noreferrer\">https://create.kahoot.it/share/das-groe-pi-quiz/5f5fabd4-470a-41c4-8cb5-e329304ef058</a><a href=\"https://create.kahoot.it/share/das-groe-pi-quiz/5f5fabd4-470a-41c4-8cb5-e329304ef058)\" target=\"_blank\" rel=\"noopener noreferrer\">)</a>, bevor Philipp live den Song „π ist irrational“ von DorFuchs vorgespielt hat – das war schon fast ein Moment für die Unendlichkeit (verstanden haben wir es nicht, aber hört selbst: <a href=\"https://youtu.be/VbxjBGTcJ9c\" rel=\"noopener noreferrer\">https://youtu.be/VbxjBGTcJ9c</a><a href=\"https://youtu.be/VbxjBGTcJ9c)!\" target=\"_blank\" rel=\"noopener noreferrer\">)!</a><br>Zum Abschluss des Tages hat dann schließlich Morten aus der 10D3 noch den Vogel abgeschossen, als er 200 (!) Nachkommastellen von π auswendig hersagen konnte – die er in unglaublichen 7 Tagen auswendig gelernt hat!! Dafür hat er sich von Frau Eickhoff nun etwas verdient… richtig, Kuchen und zwar bis zum Ende des Schuljahres!<br>Eine runde Sache, so ein π-day! Wir freuen uns schon auf das nächste Jahr!</p>"},"id":"2b60bcc4-0774-4037-9c14-eaaecd88e077","isHidden":false,"type":"text"}],"id":"28aefcd8-e1fc-499f-a3f1-5a6f46c925cf","width":"1/2"},{"blocks":[{"content":{"images":["file://pzNzcol2WFqrY5vl","file://tSdHbY7DwQ17KR2l"],"caption":"","ratio":"","crop":"false"},"id":"b3824f2f-63a6-41be-b5dd-48dd919fc86d","isHidden":false,"type":"gallery"}],"id":"1306cb29-67a7-4fdf-af26-40cf1c7ebdcf","width":"1/2"}],"id":"6cf858cc-a18c-49ee-a7ef-1ecb54632579"}]
+
+----
+
+Date: 2023-03-14 10:55:00
+
+----
+
+Datumstartseite: 2023-08-24 10:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 3WjAAkLU8FgjMiYF

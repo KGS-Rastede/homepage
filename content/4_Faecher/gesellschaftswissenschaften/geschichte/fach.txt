@@ -1,0 +1,65 @@
+Title: Geschichte
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Geschichte galt fr\u00fcher einmal als ein Unterrichtsfach, in dem Daten und Zahlen auswendig gelernt und stumpf \u201egepaukt\u201c werden mussten. Dies hat sich ge\u00e4ndert. &nbsp;Heutzutage stellt sich Geschichtsunterricht g\u00e4nzlich anders dar:&nbsp;<\/p>"},"id":"1f25e310-2a8a-401e-ba69-77b3e985534e","isHidden":false,"type":"text"},{"content":{"text":"<p>Es ist ein \u201eDenkfach\u201c, in dem neben dem notwendigen Fachwissen die Methoden-, Sach- und Urteilskompetenzen geschult.&nbsp;Hierbei \u00fcben die Sch\u00fcler das kritische Denken und lernen, sich in andere hinein zu versetzen und einen Sachverhalt aus vielen Perspektiven zu betrachten,&nbsp;und ihre wechselseitige Beziehung zur Gegenwart im Blickpunkt zu stellen.&nbsp;<\/p>"},"id":"12214b34-b476-4d71-ade6-18539b29151e","isHidden":false,"type":"text"},{"content":{"text":"<p>Fragen wie&nbsp;<\/p>"},"id":"66af12a9-a191-43c8-9d6b-3aba604644e0","isHidden":false,"type":"text"},{"content":{"text":"K\u00f6nnen wir aus der Geschichte lernen?","citation":""},"id":"d71d0a4b-0d23-430a-81fd-9935f5cd9960","isHidden":false,"type":"quote"},{"content":{"text":"Wie ver\u00e4ndert sich unser Blick auf die Geschichte?","citation":""},"id":"037149f3-5ca6-4300-a6d0-67adb155764b","isHidden":false,"type":"quote"},{"content":{"text":"Wie gehe ich mit Zeugnissen aus der Vergangenheit methodisch um und wie kann ich sie ad\u00e4quat beurteilen?","citation":""},"id":"eec83431-fefa-44c3-9a41-2259ce276801","isHidden":false,"type":"quote"},{"content":{"text":"<p>regen zum (Nach-)Denken und zur kritischen Reflexion an. Das kann manchmal anstrengen, macht aber richtig Spa\u00df! Es beginnt gleich in Jahrgang 5 und h\u00f6rt dann nicht mehr auf! &nbsp; &nbsp;<\/p>"},"id":"213bf92b-f0df-4613-8cfc-1091ee7c8404","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Geschichtsunterricht der Sekundarstufe I besch\u00e4ftigen wir uns in allen drei Schulzweigen chronologisch mit der Geschichte der &nbsp;Menschen von der Ur- und Fr\u00fchgeschichte (Altsteinzeit) \u00fcber die Antike, das Mittelalter und die Neuzeit bis zum Ende des 20. Jahrhunderts (bis zur Wiedervereinigung Deutschlands 1990).<\/p>"},"id":"c83ff472-dc2a-4066-9601-8aad1cf52da4","isHidden":false,"type":"text"},{"content":{"text":"<p>Nat\u00fcrlich m\u00fcssen dabei Schwerpunkte gesetzt werden. Nicht alles kann in der gleichen Intensit\u00e4t behandelt werden; sachliche Notwendigkeiten und Sch\u00fclerinteresse finden Ber\u00fccksichtigung.&nbsp;<\/p>"},"id":"3f181471-1544-482b-8c62-2dd31c081b6c","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Mittelpunkt stehen Quellen. Das sind z.B. Texte, Gegenst\u00e4nde, oder allgemein alle Tatsachen, aus denen Kenntnis der Vergangenheit gewonnen werden kann. Text- , Bild- und Tonquellen werden analysiert und kritisch auf ihre Aussagekraft untersucht.&nbsp;<\/p>"},"id":"62fc5cda-bcbe-4abd-b6b8-d8504fbfab7e","isHidden":false,"type":"text"},{"content":{"text":"<p>Wo m\u00f6glich, suchen wir au\u00dferschulische Lernorte (wie z.B. Oldenburger Museen, Erinnerungsorte) auf, um andere Lernzug\u00e4nge zu ebnen. &nbsp;&nbsp;<\/p>"},"id":"b6d3f6c9-f9d0-4386-8ffb-2fe063d5a8cc","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
+Haupttag: Geschichte
+
+----
+
+Hintergrundbild: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=191'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=150'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=62'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=22'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: 'https://www.nibis.de/uploads/mk-bolhoefer/2021/10GeschichteHinweise%202021NEU.pdf'
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/EK-GE-PW-WL_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
+
+----
+
+Uuid: 0LbQMJkcbhIRFEi3

@@ -1,0 +1,33 @@
+Title: “Willkommen! Bienvenue! ¡Bienvenidos!"
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Mit einer sehr gelungenen Moderation auf Franz\u00f6sisch und Spanisch begr\u00fc\u00dften Leonie Valentina Pilipp (8B3) und Aaliyah Ulivi (8A3) die Teilnehmer:innen des diesj\u00e4hrigen Fremdsprachenlesewettbewerbs sowie die zahlreichen Zuh\u00f6rer:innen aus den siebten Klassen. Unsicherheit? Anspannung? Aufgeregt-Sein? \u2013 Davon war nur wenig zu sp\u00fcren.<\/p><p>Die drei Teilnehmer:innen des franz\u00f6sischen Wettbewerbs im Realschulzweig pr\u00e4sentierten sich mit Mut und Selbstbewusstsein. Die Vortr\u00e4ge von Sude Korkmaz, Lenn Kusch und Avivan Narmo waren allesamt sehr gut gelungen. So hatte es die Jury \u2013 zusammengesetzt aus Frau Herrn Duchemin aus der Bretagne und Leonie \u2013 gar nicht so leicht sich zu entscheiden, wer nun am besten vorgetragen hat. Am Ende wurde jedoch Lenn Kusch als Sieger geehrt. W\u00e4hrend der Beratungszeit der Jury wurde \u00f6sterliches Vokabular spielerisch auf Franz\u00f6sisch erlernt.<\/p><p>Dann pr\u00e4sentierten Kamran Masaelli, Alina Denker und Lillian Tregubow ihr K\u00f6nnen. Die Entscheidung war f\u00fcr die Franz\u00f6sisch-Jury alles andere als einfach. Am Ende stand Kamran als Sieger im Gymnasialzweig fest. W\u00e4hrend der Juryentscheidung hat das Publikum dieses Mal auf Spanisch neue Begriffe rund um das Osterfest erlernt.<br>Am Ende des Franz\u00f6sisch-Wettbewerbs las noch Mara, eine Franz\u00f6sin, die mit dem Austausch gerade in Rastede war, dem Publikum einen franz\u00f6sischen Text vor, so dass die Zuh\u00f6rer die Chance hatten, einer Muttersprachlerin zuzuh\u00f6ren.<\/p><p>Dann ging es mit den Teilnehmer:innen der Spanischkurse weiter: Noah Riebe, Lilli Falck, Ben von Garrel und Jonathan Joswig lasen mit viel Elan und toller Aussprache. Auch dieser Jury \u2013 zusammengesetzt aus der Lehrerin Susanne Ha\u00dfmann sowie Aaliyah \u2013 fiel die Entscheidung nicht leicht. Schlussendlich stand Noah als Sieger des Spanischwettbewerbs fest.<\/p><p>W\u00e4hrend die Jury ihre Entscheidung f\u00e4llte, konnte das Publikum sein Wissen in einem franz\u00f6sisch- spanischen Quiz testen.<\/p><p>Bei der abschlie\u00dfenden Siegerehrung mit kleinen Pr\u00e4senten f\u00fcr alle gab es viel Applaus und ausschlie\u00dflich strahlende Gesichter.<\/p>"},"id":"092c41e3-136c-434d-8b49-3f328eab1a78","isHidden":false,"type":"text"}],"id":"fab4d4d7-dc6f-46ef-be14-9b8cf2e27a9a","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/WfNWom9P03AbFVo1"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"74d788be-0ef4-4770-ab4c-5b25e22fe3e3","isHidden":false,"type":"image"}],"id":"b028ab64-0a0e-4e86-bc32-d477801da8b8","width":"1\/2"}],"id":"86192dd5-e76a-4a34-b2b9-262aad199713"}]
+
+----
+
+Date: 2023-03-26 10:10:00
+
+----
+
+Datumstartseite: 2023-07-26 10:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Kirstin Westerholt
+
+----
+
+Tags: Französisch, Spanisch, Wettbewerb
+
+----
+
+Downloads: 
+
+----
+
+Uuid: BULYdGyKASJAXFn1

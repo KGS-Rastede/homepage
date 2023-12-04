@@ -1,0 +1,55 @@
+Title: AG 'Für den Frieden'
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die AG \u201eF\u00fcr den Frieden\u201c ist das Ergebnis einer langj\u00e4hrigen Entwicklung. Weder denken die Gr\u00fcndungsmitglieder bei ihren Aktivit\u00e4ten an die Einrichtung einer langfristigen Arbeitsgemein-schaft, noch erw\u00e4gen die AktivistInnen der ersten Stunde ein dauerhaftes Engagement im politischen Sektor. Stattdessen steht der punktuelle Einsatz f\u00fcr ein konkretes Anliegen im Vordergrund der ersten Schritte der sp\u00e4teren AG \u201eF\u00fcr den Frieden\u201c. Aus der Erfahrung des Erinnerungsganges zur Reichspogromnacht 1998 und den Veranstaltungen zum Krieg um das Kosovo 1999 erwachsen allm\u00e4hlich die Konturen einer dauerhaften Initiative, die sich der Politischen Bildung und den Idealen einer humanen und friedlichen Gesellschaft verpflichtet. Die Gewissheit eines harmonisierenden Kollektivs und die zunehmende Politisierung der Gr\u00fcndungsmitglieder erm\u00f6glichen die Konstitution eines regelm\u00e4\u00dfigen Arbeitszusammenhanges im Stile einer politischen Nichtregierungsorganisation. Konsequenterweise m\u00fcnden die situationsspezifischen Bezeichnungen der Anfangsaktionen in die Nachhaltigkeit des aktuellen AG-Namens. Auf Anregung Yvonnes, einem der ersten AG-Mitglieder, wird aus der AG \u201eKrieg um Kosova\u201c und der AG \u201eKrieg um Tschetschenien\u201c zu Beginn des Jahres 2000 die AG \u201eF\u00fcr den Frieden\u201c.<\/p>"},"id":"22adb1a6-34b9-4982-a12b-66d95ab6b1a2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["agfuerdenfrieden01.jpg"],"src":"","alt":"","caption":"Black Life Matters","link":"","ratio":"","crop":"false"},"id":"a0b33bd5-079a-4dd5-84d6-72d5deda38c1","isHidden":false,"type":"image"},{"content":{"text":"<p>Die AG \u201eF\u00fcr den Frieden\u201c versteht sich als eine politische Organisation innerhalb der Institution Schule. Ebenso wie die gesellschaftliche Erziehungs- und Bildungsinstanz Schule insgesamt selbst ein Element \u00f6ffentlicher Prozesse ist, ebenso sucht die AG \u201eF\u00fcr den Frieden\u201c nach altersgerechten politischen Mitwirkungsm\u00f6glichkeiten, die die W\u00fcnsche, Probleme und Vorstellungen von Jugendlichen respektieren, und partizipiert aktiv am politischen Diskurs der BRD. Auf der Basis einer eigenen ethisch-moralischen Verankerung und einer bewussten politischen Position strebt sie ein direktes politisches Handeln an, das Einfluss auf die Denk- und Handlungsweisen der lokalen wie der \u00fcberregionalen Gesellschaft nimmt. Sowohl die gruppeninterne politische Orientierung als auch aktuelle politische Entwicklungen veranlassen die AG \u201eF\u00fcr den Frieden\u201c zur Unmittelbarkeit politischen Handelns. \u201eIm \u00f6ffentlichen Leben gibt es Momente, in denen man die Kraft haben muss, ins Spiel einzugreifen.\u201c<a href=\"http:\/\/www.ag-fuer-den-frieden.de\/warum\/#easy-footnote-bottom-1-26\" rel=\"noopener noreferrer nofollow\">1<\/a> Im Rahmen ihrer realen M\u00f6glichkeiten versucht die AG \u201eF\u00fcr den Frieden\u201c gleicherma\u00dfen die Aktualit\u00e4t \u00f6ffentlicher Diskurse sowie die konkrete Gestaltung individueller und kollektiver Prozesse in der BRD zu bef\u00f6rdern \u2013 eingedenk der Tatsache, dass jeder Mensch in irgendeiner Form etwas dazu beitragen kann, auch wenn es nur ein ganz bescheidener Beitrag ist.<\/p>"},"id":"275f2503-a9d5-477d-898f-b6c6db3c807e","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Zur politischen Position der AG \u201eF\u00fcr den Frieden\u201d"},"id":"ed58818d-c1d0-4910-8b8d-ee9d49b63f84","isHidden":false,"type":"heading"},{"content":{"text":"<p>Auf der Basis einer humanistischen und pazifistischen Grundausrichtung versucht die AG \u201eF\u00fcr den Frieden\u201c Humanit\u00e4t und Demokratie zu praktizieren. Die Arbeitsgemeinschaft an der Kooperativen Gesamtschule (KGS) Rastede setzt der Aufl\u00f6sung der demokratischen Gesellschaft durch den Verlust der Humanit\u00e4t, durch die scheinbare Logik des Krieges sowie die Bedrohung der Demokratie von Rechts ein aktives Handeln entgegen.<\/p>"},"id":"6f995f6a-80b1-4526-bc92-67151cf15661","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Gallery:
+
+- agfuerdenfrieden01.jpg
+- agfuerdenfrieden02.jpg
+- agfuerdenfrieden03.jpg
+- agfuerdenfrieden04.jpg
+- agfuerdenfrieden05.jpg
+- agfuerdenfrieden06.jpg
+- agfuerdenfrieden07.jpg
+- agfuerdenfrieden08.jpg
+- agfuerdenfrieden09.jpg
+- agfuerdenfrieden10.jpg
+- agfuerdenfrieden11.jpg
+- agfuerdenfrieden12.jpg
+- agfuerdenfrieden13.jpg
+
+----
+
+Date: 
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: AG für den Frieden
+
+----
+
+Tags: AGs
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Titel: AG für den Frieden

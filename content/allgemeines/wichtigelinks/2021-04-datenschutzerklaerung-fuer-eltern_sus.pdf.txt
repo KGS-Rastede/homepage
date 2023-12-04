@@ -1,0 +1,13 @@
+Anzeigename: Datenschutzerklärungen für Eltern und Schüler:innen
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: BbPx87rm1ZlNYIh1

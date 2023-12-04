@@ -1,0 +1,9 @@
+Anzeigename: Der Waffenerlass
+
+----
+
+Uuid: WjnnopypplWrHim5
+
+----
+
+Template: pdfs

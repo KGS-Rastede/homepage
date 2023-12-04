@@ -1,0 +1,72 @@
+Title: Deutsch
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<strong><em>\u201eDie Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.\u201c<\/em><\/strong>","citation":""},"id":"c93aaa67-d4a2-4dc2-82fe-e6ae4928f91f","isHidden":false,"type":"quote"},{"content":{"level":"h3","text":"Ludwig Wittgenstein, Philosoph"},"id":"48fda600-322c-483c-a956-23fc333a09e1","isHidden":false,"type":"heading"},{"content":{"text":"<p>\u2026und daher ist es sinnvoll, die deutsche Sprache so gut wie m\u00f6glich zu beherrschen, ihre Ausdrucksm\u00f6glichkeiten ebenso wie die Normen der Rechtschreibung und Grammatik zu erkennen und sicher anzuwenden.<\/p>"},"id":"20b822c7-7d23-496e-85ab-02d66c956a73","isHidden":false,"type":"text"},{"content":{"text":"<p>Ein guter Deutschunterricht bleibt aber hier nicht stehen, denn Sprache stellt die zentrale Grundlage von Kultur und Kommunikation einer Gesellschaft dar; sie vermittelt Vorstellungen, Normen und Denkmuster.<\/p>"},"id":"6164d658-8de7-428e-a8ee-12ae002e4277","isHidden":false,"type":"text"},{"content":{"text":"<p>So leistet der Deutschunterricht \u00fcber die Auseinandersetzung mit Literatur und deren Geschichte einen wesentlichen Beitrag zur sprachlichen, literarischen und medialen Bildung der Sch\u00fclerinnen und Sch\u00fcler einerseits; zugleich hilft er den Sch\u00fclerinnen und Sch\u00fclern, die Welt zu verstehen und eigene Werthaltungen zu entwickeln. Das Fach Deutsch tr\u00e4gt damit wesentlich zur Pers\u00f6nlichkeitsbildung der Sch\u00fclerinnen und Sch\u00fcler bei.<\/p>"},"id":"56487e7b-9228-4e9d-8f9d-eecda1df71a3","isHidden":false,"type":"text"},{"content":{"text":"<p>Aber auch damit ist es nicht getan, denn Sprache ver\u00e4ndert sich ebenso wie die Wirklichkeit bzw. unsere Wahrnehmung davon.<\/p>"},"id":"eb66647e-3dbd-4b10-b6d6-29ea9bd16484","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Besch\u00e4ftigung mit \u201eder\u201c Sprache ist damit zugleich auch eine Auseinandersetzung mit einer sich ver\u00e4ndernden gesellschaftlichen Wirklichkeit und der Suche nach dem eigenen Selbstverst\u00e4ndnis innerhalb dieser Welt.<\/p>"},"id":"7794f518-8515-433f-8a66-6eeaa4746ca7","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Fach Deutsch hilft damit Sch\u00fclerinnen und Sch\u00fclern, eigene Grenzen im Sinne von Wittgenstein immer wieder selbst zu bestimmen und reflektiert zu erweitern.<\/p>"},"id":"e10cad13-bf30-4340-b9b9-f5d4021ff895","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene:
+
+- netzplan-gz.pdf
+- netzplan-gz.pdf
+- netzplan-hz.pdf
+- netzplan-rz.pdf
+- arbeitsplan-einfuhrungsphase.pdf
+
+----
+
+Haupttag: Deutsch
+
+----
+
+Hintergrundbild: 
+
+----
+
+Fotoansicht: 
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=82'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=29'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=186'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=94'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/01DeutschHinweise_2021_NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/DE_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
+
+----
+
+Uuid: WKnyGGCv3WUaYChi

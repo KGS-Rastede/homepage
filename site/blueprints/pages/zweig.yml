@@ -1,0 +1,22 @@
+title: Informationen zum Zweig
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 📖
+
+options:
+  update:
+    *: false
+    admin: true
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          leitung:
+            type: text
+            label: Leitung
+          text:
+            label: Inhalt
+            type: blocks

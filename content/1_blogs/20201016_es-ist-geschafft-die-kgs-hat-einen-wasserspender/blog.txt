@@ -1,0 +1,45 @@
+Title: Die KGS hat einen Wasserspender!
+
+----
+
+Heading: "Es ist geschafft!“
+
+----
+
+Text: [{"content":{"text":"<p>Dank der Projektgruppe \u201eEs geht um Meer\u201c und zahlreichen Unterst\u00fctzern konnte dieses Vorhaben umgesetzt werden. Viele Telefonate und Absprachen mit Sponsoren und Unterst\u00fctzern eilten dem \u00dcbergabetermin am letzten Freitag voraus. Nun k\u00f6nnen alle Sch\u00fcler*innen der KGS wie auch das gesamte Schulpersonal den Wasserspender nutzen, um sich frisches Wasser kostenlos \u201ezu ziehen\u201c.<\/p>"},"id":"6b350f43-6fb2-4f2d-a9db-0d6bf75a33dc","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir, die Projektgruppe \u201eEs geht um Meer\u201c, m\u00f6chten euch liebe Sch\u00fclerinnen und Sch\u00fcler auffordern, den Wasserspender rege zu nutzen, denn mit der Verwendung <strong>wiederbef\u00fcllbarer Trinkflaschen<\/strong> k\u00f6nnt ihr aktiv etwas zum Klimaschutz beitragen.<\/p><p>Den M\u00fcll, den wir immer wieder in Parks oder an Str\u00e4nden finden, landet unweigerlich irgendwann im Wasser. Durch die Zersetzung der Plastikteile wird aus Makro- Mikroplastik so klein, dass man es mit dem menschlichen Auge kaum erfassen kann. Daher m\u00fcssen wir allesamt versuchen unseren Plastikkonsum zu reduzieren, z. B. indem ihr wiederverwendbare Flaschen verwendet, damit die Qualit\u00e4t des Trinkwassers hier in der Gemeinde Rastede weiterhin so gut bleibt, wie sie ist.<\/p>"},"id":"03a0cad5-e175-4e6c-a0e6-3dac90058d3c","isHidden":false,"type":"text"},{"content":{"text":"<p>Lasst es euch schmecken. :)<\/p><p><\/p><p>Denise Apel f\u00fcr die Projektgruppe \"Es geht um Meer!\"<\/p>"},"id":"3bbe6840-e8f2-42a7-8625-afad53d8f32d","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - wasserspender.jpeg
+
+----
+
+Date: 2020-10-16 20:00:00
+
+----
+
+Datumstartseite: 2020-10-31 20:00:00
+
+----
+
+Author: Frau Apel
+
+----
+
+Tags: esgehtummeer, AGs
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Uuid: 7kAHdHvFulvKT097

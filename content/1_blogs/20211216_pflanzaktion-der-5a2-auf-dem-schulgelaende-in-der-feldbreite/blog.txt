@@ -1,0 +1,52 @@
+Title: Pflanzaktion der 5A2 auf dem Schulgelände in der Feldbreite
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Am 30.11.2021 hat unsere Klasse neben dem neuen Geb\u00e4ude B\u00e4ume und B\u00fcsche gepflanzt, z.B. einen Schmetterlingsflieder, Johannisbeerstr\u00e4ucher, einen Kirschbaum und viele andere Str\u00e4ucher. Au\u00dferdem waren Frau Eitel-Harms, Herr Pernt und unsere Klassenlehrerin, Frau Friebel, dabei.<\/p><p>Erst hat es geregnet, aber dann kam die Sonne heraus. Wir haben viele Erfahrungen gemacht und zwar: Der Boden war matschig und man muss immer einen Gie\u00dfrand um die Planzen machen.<\/p><p>Es war sehr viel Arbeit! Aber es hat Spa\u00df gemacht.<\/p><p>Wir freuen uns auf den Fr\u00fchling, wenn die Insekten und Bienen zu unseren St\u00e4uchern fliegen und wir von unserem Klassenraum auf die Pflanzen gucken k\u00f6nnen!<\/p><p>Es war eine tolle Aktion, die wir immer wieder machen w\u00fcrden.<\/p>"},"id":"5da0f31f-18af-475f-8d5c-b7eb9b0cdbc9","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- >
+  6561287a-782e-4d56-95ad-42afccf8abd7.jpeg
+- >
+  bb22488c-a6ee-40fd-8e6c-e2f544f77b8d.jpeg
+- >
+  c1ac5519-beef-4a7f-a28c-0fe02d537db8.jpeg
+- >
+  c846b564-c9b4-4fd2-bf2d-4a300f55c6a8.jpeg
+- >
+  f0f5e57a-13b8-42d4-a8e6-4d9699584019.jpeg
+
+----
+
+Date: 2021-12-16 00:00:00
+
+----
+
+Datumstartseite: 2022-04-16 00:00:00
+
+----
+
+Author: Emilia, Pia und Tina, 5a2
+
+----
+
+Tags: AGs
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Uuid: 5Ax8LAKtGCDRQ6SI

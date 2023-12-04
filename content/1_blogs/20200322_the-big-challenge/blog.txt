@@ -1,0 +1,52 @@
+Title: The Big Challenge
+
+----
+
+Heading: Fremdsprachenwettbewerb am 06.Mai 2020
+
+----
+
+Text: [{"content":{"level":"h1","text":"The Big Challenge - an unserer Schule"},"id":"20b0abaf-15b2-464d-a0b5-c0aaa4192ff9","isHidden":false,"type":"heading"},{"content":{"text":"<a href=\"https:\/\/www.thebigchallenge.com\/de\/\">https:\/\/www.thebigchallenge.com\/de\/<\/a>"},"id":"befb6a59-1734-45db-8d20-75a95be95ddb","isHidden":false,"type":"text"},{"content":{"text":"<p>Begib\u00b4Dich in die GAME ZONE <a href=\"https:\/\/gamezone.thebigchallenge.com\/?lang=de\" rel=\"noopener noreferrer nofollow\">https:\/\/gamezone.thebigchallenge.com\/?lang=de<\/a> und lerne online f\u00fcr den Wettbewerb und f\u00fcrs Leben! Hol\u00b4Dir die App und los geht\u00b4s !!<\/p>"},"id":"263242c1-5a2b-475b-8d25-ad426f11a6f4","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- download.jpg
+- >
+  images_publisher_fachschaften_bilder_wettbewerbe-big-challenge-logo.png
+- home-lots2020-600x371.jpg
+- di-de-2020-600x383.png
+- diplome_2020.png
+
+----
+
+Date: 2020-03-22 14:50:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: PTZ
+
+----
+
+Tags: Englisch, Wettbewerb
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Featured: true

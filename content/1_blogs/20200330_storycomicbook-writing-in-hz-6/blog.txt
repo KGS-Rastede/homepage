@@ -1,0 +1,80 @@
+Title: Storycomicbook writing in HZ 6
+
+----
+
+Heading: Creative Storycomicbooks in HZ 6
+
+----
+
+Text: [{"content":{"text":"<p>Im Zuge eines zweiw\u00f6chigen Unterrichtsprojekts im Fach Englisch haben die Sch\u00fclerInnen der 6A1 von Frau Schneemann und Frau Eitel-Harms ihre kreativen und k\u00fcnstlerischen F\u00e4higkeiten einmal besonders gezeigt. Verschiedene englischsprachige Comicbooks wurden den Sch\u00fclerInnen vorgestellt und sie durften selbst gestalten, umgestalten, einfach kreativ sein. Einige Sch\u00fclerInnen zeichneten, andere \u00fcbersetzten, andere wagten sich ans Graffiti. Schaut selbst und staunt!<\/p>"},"id":"cac315db-2dba-4939-ba6b-fa25434522d7","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- cartooning-6a1.jpg
+- cartooning-6a1_1.jpg
+- cartooning-6a1_2.jpg
+- cartooning-6a1_3.jpg
+- cartooning-6a1_4.jpg
+- cartooning-6a1_5.jpg
+- cartooning-6a1_6.jpg
+- cartooning-6a1_7.jpg
+- cartooning-6a1_8.jpg
+- cartooning-6a1_9.jpg
+- cartooning-6a1_10.jpg
+- cartooning-6a1_11.jpg
+- cartooning-6a1_12.jpg
+- cartooning-6a1_13.jpg
+- cartooning-6a1_14.jpg
+- cartooning-6a1_15.jpg
+- cartooning-6a1_16.jpg
+- cartooning-6a1_17.jpg
+- cartooning-6a1_18.jpg
+- cartooning-6a1_19.jpg
+- cartooning-6a1_20.jpg
+- cartooning-6a1_21.jpg
+- cartooning-6a1_22.jpg
+- cartooning-6a1_23.jpg
+- cartooning-6a1_24.jpg
+- cartooning-6a1_25.jpg
+- cartooning-6a1_26.jpg
+- cartooning-6a1_27.jpg
+- cartooning-6a1_28.jpg
+- cartooning-6a1_29.jpg
+- cartooning-6a1_30.jpg
+- cartooning-6a1_31.jpg
+- cartooning-6a1_32.jpg
+- cartooning-6a1_33.jpg
+
+----
+
+Date: 2020-03-30 16:30:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: PTZ
+
+----
+
+Tags: Englisch
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: true

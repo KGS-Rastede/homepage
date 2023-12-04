@@ -1,0 +1,33 @@
+Title: Spiele spielen im Erdkunde-Unterricht!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Vor den verdienten Weihnachtsferien stand f\u00fcr die Klasse 9E3 noch ein \u201eSpielstunde\u201c auf dem Plan.\u00a0<\/p><p>Dabei sollten die Sch\u00fcler*innen eigens entwickelte Lernspiele der studentischen Projektgruppe \u201eUmwelthelden\u201c zum Thema Klimawandel ausprobieren.<\/p><p>Zielsetzung der Projektgruppe \"Umwelthelden\" ist es dabei im Rahmen des Medienprojektes \u201eAwareness Raising\u201c der Jade Hochschule Wilhelmshaven zu \u00fcberpr\u00fcfen, ob durch Lernspiele das Bewusstsein f\u00fcr den Klimawandel bei Kindern und Jugendlichen gest\u00e4rkt werden kann.\u00a0<\/p><p>Zur Auswahl standen dabei zwei Lernspiele. Das \u201eFairgespielte Memory\u201c, bei dem die Sch\u00fcler*innen passende Texte und Bilder den Themenbereichen Klimawandel - Treibhausgase - Eisschmelze - Klimaabkommen zuordnen sollten und das Quartett \u201eWer is(s)st besser\u201c, ein Kartenspiel zu den Themenbereichen Lebensmittel - Eigenschaften, Co2-Aussto\u00df, Transportweg, Eco-Score, Wasserverbrauch.\u00a0<\/p><p>Nachdem alle Sch\u00fcler*innen beide Spiele ausprobiert hatten, wurden diese anhand eines Auswertungsbogens von jedem bewertet.\u00a0<\/p><p>Die Auswertungsb\u00f6gen erm\u00f6glichen nun der Projektgruppe, die Ergebnisse hinsichtlich ihrer Forschungsfrage zu evaluieren.<\/p><p>Mehr \u00fcber die Projektgruppe \"Umwelthelden\" und die Spiele gibt es zu erfahren unter www.umwelthelden.net\u00a0<\/p>"},"id":"1637dfb8-dbff-409d-a5b6-db9ab3009c19","isHidden":false,"type":"text"}],"id":"d1a6161e-7c49-4037-9e79-56a5c51446f9","width":"1\/1"}],"id":"086c774d-3716-412f-8a2d-b038b555f5ac"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/l5rohGjgxKiFjkoe"],"src":"","alt":"","caption":"Los geht\u00b4s ... das \"Fairgespielte Memory\"","link":"","ratio":"","crop":"false"},"id":"85cd11cd-200e-482e-a30d-4a518feaac85","isHidden":false,"type":"image"}],"id":"662bb9a3-7b5c-4e90-a2af-193564f0dcd6","width":"1\/1"},{"blocks":[],"id":"48b52408-7d5b-4504-b14b-5e002e93b861","width":"1\/3"},{"blocks":[],"id":"5571bcd9-02b2-4054-a9ac-04000085721c","width":"2\/3"}],"id":"c7c276c5-b11f-4af1-8d07-59380224577b"},{"attrs":[],"columns":[{"blocks":[],"id":"0724d12b-2ccc-45cb-a61c-daf23cf7bd57","width":"1\/1"}],"id":"f7f38c2d-257f-42a6-847a-55b751c60ef6"},{"attrs":[],"columns":[{"blocks":[],"id":"af3ee56a-7573-40aa-8d74-59b09d445558","width":"1\/1"}],"id":"defcc701-493f-4f9d-a489-4dbc5a17b868"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/J7dDejLg03mSrVmQ"],"src":"","alt":"","caption":"Los gehts ... zweite Runde mit dem Quartett \u201eWer is(s)st besser\u201c","link":"","ratio":"","crop":"false"},"id":"acd14131-2a14-4675-a03a-ac5f5b639668","isHidden":false,"type":"image"}],"id":"6479a328-c0fc-44bc-9096-eddaa50e978f","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/8SAVFjd1uREZFL37"],"src":"","alt":"","caption":"Und, wie ist das Spiel wohl bei euch angekommen?","link":"","ratio":"","crop":"false"},"id":"36eb4d9e-1b88-44c7-a407-c9944fac1412","isHidden":false,"type":"image"}],"id":"38267156-d574-4421-9a18-92b4a9f48b06","width":"1\/2"}],"id":"3d054b62-51f7-4b59-99b9-093fbc2230bc"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/c2GRGrIwSzNk7KeT"],"src":"","alt":"","caption":"Lena K\u00fcmmel, Alva Frankenstein, Allegra D\u00fcser (ehem. KGS-Sch\u00fclerin ;) und Mara Ackermann - ein Teil der Projektgruppe \"Umwelthelden\"","link":"","ratio":"","crop":"false"},"id":"d25bb36f-86ed-46ea-ba92-faeb35d055f5","isHidden":false,"type":"image"}],"id":"ea61fecb-7bec-4bf0-8488-6e1e8df515b0","width":"1\/2"},{"blocks":[],"id":"17763362-fde9-4b0d-8543-40b386c7633c","width":"1\/2"}],"id":"de5a3c63-e7cf-472d-a977-6f9a4f8fddbf"}]
+
+----
+
+Date: 2023-01-03 21:35:00
+
+----
+
+Datumstartseite: 2023-05-03 21:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Denise Apel
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: qJE7OdSwqjlnxqWx

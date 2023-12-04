@@ -1,0 +1,49 @@
+Title: Zellmodelle im Biologieunterricht
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Um den Aufbau von Pflanzen- und Tierzellen besser zu verstehen, bastelte die 7B3 im Rahmen des Biologieunterrichts im Homeschooling 3D-Zellmodelle aus Alltagsgegenst\u00e4nden. Ziel der Aufgabe war es, dass die Sch\u00fcler*innen eine konkrete Vorstellung der mikroskopisch kleinen Strukturen einer Zelle erhalten. Der Fantasie waren dabei keine Grenzen gesetzt. So musste ein kleiner Football als Zellkern herhalten, oder wurde die halbdurchl\u00e4ssige Zellmembran durch ein zerschnittenes Netz dargestellt. Die meisten aus der Klasse verwendeten Erbsen als Chloroplasten und bef\u00fcllten Gefrierbeutel mit Wasser, um die Vakuole und das Cytoplasma darzustellen. Ein Modell passend f\u00fcr die \"Handtasche\" wurde aus Knete gebastelt. Insgesamt haben sich alle M\u00fche gegeben und die meisten konnten sich den Aufbau von Zellen so viel besser vorstellen!<\/p><p><\/p>"},"id":"dae068b4-656b-45af-826c-e86088878098","isHidden":false,"type":"text"},{"content":{"karousel":["20210526_100049.jpg","20210526_100218.jpg","20210526_100307.jpg","20210526_101029.jpg","20210526_101041.jpg","20210526_101059.jpg","20210526_095905.jpg"]},"id":"20961bbf-7e34-46d6-92b4-3493f2a341dc","isHidden":false,"type":"karousel"}]
+
+----
+
+Gallery:
+
+- 20210526_100049.jpg
+- 20210526_095905.jpg
+- 20210526_100218.jpg
+- 20210526_100307.jpg
+- 20210526_101029.jpg
+- 20210526_101059.jpg
+- 20210526_101041.jpg
+
+----
+
+Date: 2021-06-22 00:00:00
+
+----
+
+Datumstartseite: 2021-10-22 00:00:00
+
+----
+
+Author: Anja Lorenz
+
+----
+
+Tags: Biologie
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: manuel
+
+----
+
+Uuid: QGbVWKW8KCia0yrY

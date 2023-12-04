@@ -1,0 +1,13 @@
+Anzeigename: Schulordnung
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: qZliWstGJtlKZpGz

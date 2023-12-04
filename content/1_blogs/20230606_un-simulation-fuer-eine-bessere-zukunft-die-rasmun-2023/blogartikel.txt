@@ -1,0 +1,33 @@
+Title: UN-Simulation für eine bessere Zukunft – Die RASMUN 2023
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Nach einer langen Pause hat am 25.05. zum ersten Mal wieder eine RASMUN stattgefunden, bei der die Schüler und Schülerinnen eigenständig in die Rollen von Delegierten aus Ländern wie China, Saudi-Arabien, Indien, USA und Mexiko geschlüpft sind und eine simulierte UN-Sitzung vorbereitet und durchgeführt haben.</p>"},"id":"00f8df07-24f7-4d6a-a2b6-f2f66f6c62c2","isHidden":false,"type":"text"}],"id":"71175988-4799-4312-b7d2-96f5a730198e","width":"1/1"}],"id":"c2817be4-0b97-4986-95dd-49080fa47360"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der Anlass hierfür war vor allem der enorme Zuwachs, den die AG durch die tatkräftige Werbung unserer Teilnehmer:innen Fabian Bühring, Laetitia Meyer und Sina Otholt aus dem dreizehnten Jahrgang erhalten hat. Die mittlerweile 20 AG-Teilnehmer:innen, die sich mit vollem Einsatz für die Zukunft einsetzen und politisch weiterbilden, konnten im Laufe der RASMUN wichtige Erfahrungen sammeln und sich auf die kommende OLMUN im Juni vorbereiten.</p><p>Unter dem Thema „Tackling the dangers and effects of climate change“ haben der bereits MUN-erfahrene Markus Jahn und die vielen motivierten Neulinge Kimberly Nyoni, Klara Kuiper, Saskia Butt, Jan Grauer, Anna Braukmann, Dana Völker, Lina Heinemann, Hanna Haßmann, Madiha Mohamad und Leon Ye aus den Jahrgängen 10-12 auf Englisch eifrig Probleme und mögliche Lösungen diskutiert.<br>Fabian Bühring, Sina Otholt und Laetitia Meyer aus dem 13ten Jahrgang haben in den Rollen der Chairs durch die RASMUN geführt und hervorragende Hilfestellung geleistet. So haben sie zunächst wichtige Vorgänge und Redewendungen wie Kleidungsvorschriften erklärt sowie Tipps und Tricks für die OLMUN-Konferenzen gegeben. Auch während des Vorlesens der Policy Statements, dem Lobbying und dem anschließenden Schreiben der Resolutions haben sie sowohl ihre Rolle als Chairs kompetent wahrgenommen als auch Rückfragen erlaubt und beantwortet. Damit konnten viele Unsicherheiten abgebaut werden und eine überzeugende Resolution verabschiedet werden, die durch die engagierte Mitarbeit aller Teilnehmer:innen zusammengestellt wurde.</p>"},"id":"a22524b1-4eb1-4a0d-bea5-4d63040acf56","isHidden":false,"type":"text"}],"id":"54e246b9-30d8-4cf0-9134-b81d00841ce0","width":"1/2"},{"blocks":[{"content":{"images":["file://7XCZN9denq3MK98Z","file://LZfbXGLHBLOr3wtm","file://iCUO1NO7Vtm3ekzN","file://MiSfEUcnXazKvKhP"],"caption":"","ratio":"","crop":"false"},"id":"4b15553d-1f74-4c6c-901e-1d4c70f3546e","isHidden":false,"type":"gallery"}],"id":"6bfdb123-4aac-445a-96ca-d20f9e64df66","width":"1/2"}],"id":"07a60531-769c-49ad-aa63-f157138eb92d"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wir freuen und auf eine erfolgreiche OLMUN und weitere Zusammenarbeit mit den Teilnehmer:innen Elias Anisimov, Anna Braukmann, Peter Brockmann, Fabian Bühring, Saskia Butt, Chiara Evers, Jan Grauer, Hanna Haßmann, Lina Heinemann, Markus Jahn, Vivien Si-Ya Kok, Klara Kuiper, Laetitia-Sophie Meyer, Madiha Mohamad, Siham Mohamad, Kimberly Nyoni, Sina Otholt, Ineke Otten, Willy Schulze, Dana Völker und Leon Ye.</p>"},"id":"2fdab64b-9fe9-4311-b88a-198ef0371d69","isHidden":false,"type":"text"}],"id":"875b79e2-70f3-4295-9f64-7696063398a2","width":"1/1"}],"id":"7734e6e1-844e-4edc-bee9-4b34c10713b6"}]
+
+----
+
+Date: 2023-06-06 08:55:00
+
+----
+
+Datumstartseite: 2023-10-06 08:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Silvia Pohlgeers
+
+----
+
+Tags: RASMUN, MUN
+
+----
+
+Downloads: 
+
+----
+
+Uuid: CFFCx1NCZfmeufJX

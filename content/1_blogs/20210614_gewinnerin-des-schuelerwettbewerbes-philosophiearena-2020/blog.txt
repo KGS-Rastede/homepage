@@ -1,0 +1,41 @@
+Title: Gewinnerin des Schülerwettbewerbes PhilosophieArena 2020
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Mit ihrer Sicht auf die Dinge, genauer gesagt auf die Covid-19-Pandemie, geh\u00f6rt Pia Neumann aus dem 10. Jahrgang zu den GewinnerInnen des Sch\u00fclerwettbewerbes PhilosophieArena. Die Fachjury lobte ihr gelungenes Szenario, welches sich im positiven Sinne mit der Frage auseinandersetzt, was die Corona-Krise f\u00fcr unser zuk\u00fcnftiges Zusammenleben bedeutet.<\/p><p>Die Preisverleihung fand am 07. Mai 2021 im digitalen Format statt. Nachdem die GewinnerInnen interviewt wurden und gemeinsam \u00fcber die Frage diskutierten, konnten sich alle \u00fcber einen wertsch\u00e4tzenden und gelungenen Abschluss mit der digitalen \u00dcbergabe der Urkunden und Preise freuen.<\/p><p>Pia hatte sich, wie die meisten Werte und Normen Sch\u00fclerInnen unserer Schule w\u00e4hrend des ersten Lockdowns Anfang M\u00e4rz 2020 mit der ungewohnten, teils be\u00e4ngstigten Situation der Covid-19-Pandemie in dem Projekt #StayHealthyStayWeno kreativ auseinandergesetzt.<\/p><p>Das Szenario wird im Rahmen der Ver\u00f6ffentlichung der SuS-Ergebnisse aus dem Projekt #StayHealthyStayWeno Ende des Schuljahres zu lesen sein.<\/p>"},"id":"e11c11e6-7495-4478-b8cd-86ff62abb328","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["pia.jpeg"],"src":"","alt":"","caption":"Pia Neumann, Jahrgang 10","link":"","ratio":"","crop":"false"},"id":"13f0745a-3d09-46e2-9376-b7b06f0cc38a","isHidden":false,"type":"image"},{"content":{"text":"Die Werte und Normen KollegInnen gratulieren ganz herzlich zu diesem gro\u00dfartigen Erfolg!","citation":""},"id":"cfa9b180-d105-4407-9c54-98d9ffe33457","isHidden":false,"type":"quote"},{"content":{"text":"<p>Mehr Informationen zum Wettbewerb findet ihr unter <a href=\"http:\/\/www.philosophiearena.de\" rel=\"noopener noreferrer nofollow\">http:\/\/www.philosophiearena.de<\/a><\/p>"},"id":"c6b8c311-ac6f-4ab6-b131-39a085072087","isHidden":false,"type":"text"},{"content":{"name":"Denise Apel"},"id":"32b8c982-045d-4899-a273-5ebfb09a4d45","isHidden":false,"type":"gastautor"}]
+
+----
+
+Gallery: - pia.jpeg
+
+----
+
+Date: 2021-06-14 00:00:00
+
+----
+
+Datumstartseite: 2021-09-13 00:00:00
+
+----
+
+Author: Denise Apel
+
+----
+
+Tags: Wettbewerb, WuN, PhilosophieArena
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: manuel
+
+----
+
+Uuid: fhUnMi3Nm5tN5RXb

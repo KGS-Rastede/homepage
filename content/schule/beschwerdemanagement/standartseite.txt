@@ -1,0 +1,17 @@
+Title: Beschwerdemanagement
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>An wen wende ich mich, wenn ich ein Problem habe?</p><p>Dort, wo Menschen gemeinsam arbeiten, kommt es gelegentlich zu Missverständnissen und Konflikten. Das ist normal – wichtig ist, dass sich alle Beteiligten aktiv um eine gewaltfreie Konfliktlösung bemühen.</p><p>Wir, d. h. alle Beteiligten, gehen in jedem Schritt respektvoll miteinander um. Das bedeutet, dass man das Gegenüber in seinen sachlichen aber auch emotionalen Äußerungen wahrnimmt.</p><p>In der Klasse versucht man Streitigkeiten direkt oder unter Einschaltung von Klassensprecher:innen und Klassenlehrkräften zu lösen. Das gilt für Schüler:innen als auch für Eltern. In Fällen von Mobbing steht das Mobbing-Interventionsteam MIT zur Verfügung – ansprechbar sind hier Frau Ildiz, Frau Schneemann und Frau Szyltowski.</p><p>Das folgende Diagramm, entworfen von Herrn Haßmann, Vorsitzender des SER, hilft weiter, wenn keine Lösung zu finden war:</p>"},"id":"b178cc41-9d3e-46ee-be4d-63e12c350a14","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://nn6fLq32JmTODl5Q"],"src":"","alt":"Übersicht über das Beschwerdemanagement","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"60a75f13-4d94-435a-bee3-92acf7560cca","isHidden":false,"type":"image"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 34BYWYeNnEZCsJzg

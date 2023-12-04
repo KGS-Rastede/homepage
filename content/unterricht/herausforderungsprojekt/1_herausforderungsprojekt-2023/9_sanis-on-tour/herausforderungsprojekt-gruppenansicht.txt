@@ -1,0 +1,38 @@
+Title: Sanis on Tour
+
+----
+
+Kurzname: Sanis on Tour
+
+----
+
+Teamlogo: - file://UuJzwynM5HlvsQgq
+
+----
+
+Teamfarbe: bs-teamfarbe4
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wir wollen mit dem Fahrrad nach Münster  und beim DRK, bei den Johannitern helfen."},"id":"b1053416-0695-4fb6-bcc5-37cd5b968af4","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://w1wuTh8ZTzRRM3vt
+- file://EXy693RrnvkzfPOg
+- file://0BAeCB1rmgu9qtvj
+- file://au9Bv8s9thZ2rzkf
+- file://MP8jwmso8BWYEz91
+- file://0gQHAK9Z4xXxwJZr
+- file://1PqTZlveDyCIrrSj
+- file://ywLlxM5rFSh8kYwx
+- file://jk90F4X0N85hqTlE
+- file://07i432sg1GasMiVr
+- file://2vF6gxZiG3GJ3BfS
+- file://p1ZvCGjRai1YTzX1
+
+----
+
+Uuid: tiW5d3UerqbJ9bXW

@@ -1,0 +1,29 @@
+Title: Angelus-Sala-Preis 2021
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Lina Heinemann aus der 10D3 ist \u201eAngelus-Sala\u201c-Preistr\u00e4gerin 2021<\/p><p>Jedes Jahr wird im Rahmen des \u201eTages der Chemie\u201c der Universit\u00e4t Oldenburg durch die Gesellschaft Deutscher Chemiker (GDCh) der \u201eAngelus-Sala-Preis\u201c an eine Sch\u00fclerin oder einen Sch\u00fcler der 10. Klassen verliehen. Der Preis wird dabei jemandem verliehen, der oder die durch besonders gute Leistungen in Chemie aufgefallen ist.<br>Der Namensgeber des Preises, Angelus Sala, lebte im 16. und 17. Jahrhundert und war neben seiner T\u00e4tigkeit als Chemiker unter anderem auch Leibarzt des Grafen Anton G\u00fcnther von Oldenburg.<\/p><p><\/p>"},"id":"106e1e80-5352-4ce5-8ec3-8c23cdb31310","isHidden":false,"type":"text"}],"id":"cffb9c98-0452-4ef3-ac99-b97a864e3ead","width":"1\/1"}],"id":"3073d2a4-cbf9-4131-8f76-38994064fce7"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wie schon im vergangenen Jahr konnten die Preise pandemiebedingt leider nicht in der gro\u00dfen Feierstunde an der Universit\u00e4t Oldenburg verliehen werden, sondern wurden an den Schulen \u00fcberreicht. Das schm\u00e4lert aber nat\u00fcrlich in keiner Weise die Leistungen! So konnten wir durch Frau K\u00fchn den diesj\u00e4hrigen Preis \u2013 neben der Urkunde auch ein Buchpreis \u2013 an Lina Heinemann aus der 10D3 \u00fcbergeben. Linas sicherlich breitem L\u00e4cheln entnehmen wir, dass sie sich sehr gefreut hat!<\/p><p>Herzlichen Gl\u00fcckwunsch, Lina, und noch viele sch\u00f6ne chemische Momente!<\/p><p><\/p>"},"id":"fa27680e-371e-4283-a899-f4a12d966b6a","isHidden":false,"type":"text"}],"id":"469aea67-5a2e-4dfa-a50a-bd3d40588a87","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["image0.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8a072beb-7166-4aea-8410-2cb85fc0dd4a","isHidden":false,"type":"image"}],"id":"809bd0fe-70c3-4d3b-b2d8-d357cd100287","width":"1\/2"}],"id":"d5083566-12d4-47eb-806f-54f3ea344292"}]
+
+----
+
+Date: 2022-01-18 00:00:00
+
+----
+
+Datumstartseite: 2022-05-18 00:00:00
+
+----
+
+Author: Diane Kühn
+
+----
+
+Tags: Chemie, Wettbewerb, Angelus-Sala-Preis
+
+----
+
+Downloads: 
+
+----
+
+Uuid: itraPBTvR0kEr7sK

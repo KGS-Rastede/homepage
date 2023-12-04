@@ -1,0 +1,33 @@
+Title: Demokratieplanspiel „Pimp Your Town!“
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://hTcj6640YDg1bchc"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"be37335b-24ef-4a7b-b014-490c3b50482f","isHidden":false,"type":"image"},{"content":{"images":["file://RMPkmU18N2Zlffqn","file://UAEFynXAsvJ8WSAA","file://KiSvNDl1nJRR1nF6","file://mPLmeTkSHtksYqvB"],"caption":"","ratio":"","crop":"false"},"id":"fbc0beb5-b165-4957-845f-7a8eb58d0949","isHidden":false,"type":"gallery"}],"id":"fc805090-2339-438b-9fdc-6465765fb4e1","width":"1/1"}],"id":"2b8d445e-a012-43d7-8b4a-a1bafd04d299"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im Rahmen des Demokratieprojektes „<strong>SARA:</strong> <strong>S</strong>olidarität – <strong>A</strong>nerkennung – <strong>R</strong>espekt – <strong>A</strong>chtsamkeit“ wurde in der Gemeinde Rastede in drei Durchgängen das Planspiel „Pimp Your Town!“ von Politik zum Anfassen e.V. mit allen 9. Klassen der Kooperativen Gesamtschule (KGS) Rastede und der Schule am Voßbarg umgesetzt. Die Schülerinnen und Schüler schlüpften für jeweils zwei Tage in die Rolle der Kommunalpolitik und entwickelten Ideen für eine jugendfreundlichere Gemeinde. Unterstützt wurden sie während des Planspiels von Bürgermeister Lars Krause, der Gemeindeverwaltung und der Kommunalpolitik. So nahmen sich elf Politikerinnen und Politiker des Gemeinderates Zeit, um den Jugendlichen politische Abläufe zu erklären, über ihre eigene Motivation zu berichten und aktive Rollen im Planspiel zu übernehmen.</p><p>Das gesamte Planspiel wurde bei jedem Durchlauf von einem Presseteam der teilnehmenden Jugendlichen begleitet. Mit Unterstützung von Politik zum Anfassen e.V. entstanden YouTube-Filme, Interviews, Magazine und Protokolle, die unter <a href=\"https://www.pimpyourtown.de/rastede/\" rel=\"noopener noreferrer\"><u>https://www.pimpyourtown.de/rastede/</u></a> abrufbar sind.</p><p>Das Projekt SARA sensibilisiert für grundlegende demokratische Werte als Basis einer inklusiven und toleranten Gesellschaft. Es setzt demokratiepädagogisch an, um möglichst viele Jugendliche für eine lebendige, erfahrbare und gestaltende Politik zu begeistern. Alle Projektergebnisse fließen kontinuierlich über eine Laufzeit von 18 Monaten in die Entwicklung eines tragfähigen und nachhaltigen Jugendbeteiligungskonzeptes ein.</p>"},"id":"04b7946a-2089-42c0-840c-9e3341b69511","isHidden":false,"type":"text"}],"id":"56e673f5-4e20-4f0f-b45a-bb229bc0a170","width":"1/1"}],"id":"a2f96774-f2fc-4a13-9d0a-1c1cb39295e7"}]
+
+----
+
+Date: 2023-05-05 11:10:00
+
+----
+
+Datumstartseite: 2023-09-05 11:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anke Wilken
+
+----
+
+Tags: Politik, Demokratiebildung
+
+----
+
+Downloads: 
+
+----
+
+Uuid: s6O9fGzHrYCVftfg

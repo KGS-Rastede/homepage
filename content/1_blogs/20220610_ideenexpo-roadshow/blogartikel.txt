@@ -1,0 +1,29 @@
+Title: IdeenExpo Roadshow
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>IdeenExpo in der KGS<\/strong><\/p><p>Am 02.06. besuchte die IdeenExpo-Roadshow unsere Schule und erm\u00f6glichte einigen Klassen spannende Experimente aus dem MINT-Bereich (Mathematik, Informatik, Naturwissenschaften, Technik). Initiiert hatte den Besuch die Landtagsabgeordnete der SPD Karin Logemann, die bei dieser Gelegenheit die Schule besuchte.<\/p><p>An den Exponaten konnten die Sch\u00fclerinnen und Sch\u00fcler selber Strom erzeugen und sichtbar und sp\u00fcrbar machen. Au\u00dferdem konnten in einem Spiegellabyrinth ein Laser in ein Ziel geleitet werden und ein LEGO-Roboter konnte \u00fcber ein Tablet programmiert und gesteuert werden. Insgesamt nahmen sechs Klassen an der Ausstellung teil.<\/p><p>Als besonderen Gast konnte die Schule den Nieders\u00e4chsischen Wissenschaftsminister Bj\u00f6rn Th\u00fcmler von der CDU begr\u00fc\u00dfen.<\/p><p><\/p>"},"id":"171a61b5-71ff-4d28-a759-efa8f042d57c","isHidden":false,"type":"text"}],"id":"cb178cf3-c94e-4989-8ec2-4d4f68cf6dbf","width":"1\/1"}],"id":"ae9e2325-7ebe-42a9-8557-cda0ccda7772"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["ideenexpo-kgs-3.jpg","ideenexpo-kgs-2.jpg","ideenexpo-kgs.jpg"]},"id":"7f1e2a04-540d-4ec2-905d-2392f4b3842e","isHidden":false,"type":"gallery"}],"id":"91870f8f-6a57-4c28-8638-b5ea4821cd9b","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["ideenexpo-kgs-4.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"932cfb94-762d-45a0-891d-c899b90dfce0","isHidden":false,"type":"image"}],"id":"ad2125e0-668b-46a6-a1c8-5d30b043996b","width":"1\/2"}],"id":"57379a5f-abb1-4c1d-85ac-21a55adc3b3b"}]
+
+----
+
+Date: 2022-06-10 15:05:00
+
+----
+
+Datumstartseite: 2022-07-14 15:05:00
+
+----
+
+Author: Markus Michler
+
+----
+
+Tags: NTW
+
+----
+
+Downloads: 
+
+----
+
+Uuid: YmSK0AlzdKk2YiUh

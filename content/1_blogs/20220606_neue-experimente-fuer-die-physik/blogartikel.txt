@@ -1,0 +1,29 @@
+Title: Neue Experimente für die Physik!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Riesengro\u00df war die Freude im Physik-Kollegium, als wir erfuhren, dass die Gemeinde Rastede es uns erm\u00f6glicht, die Physik-Sammlung komplett neu auszustatten. Daf\u00fcr wurden der Schule insgesamt 200.000 Euro zur Verf\u00fcgung gestellt.<\/p><p>Doch erstmal musste Platz geschaffen werden. Die zum Teil \u00fcber 40 Jahre alten vorhandenen Experimentiermaterialien mussten inspiziert werden. Einiges wurde aussortiert und kann neuen Dingen weichen, anderes eignet sich auch aber auch weiterhin f\u00fcr den Unterricht.<\/p><p>Materialien von verschiedenen Lehrmittelanbietern wurden von den Physiklehrkr\u00e4ften gesichtet. Angebote wurden eingeholt. Schnell waren sich die Physiklehrer:innen einig, dass wir uns mehr Sch\u00fcleraktivit\u00e4t im Unterricht w\u00fcnschen. Daher wurden schwerpunktm\u00e4\u00dfig Sch\u00fclerexperimentierk\u00e4sten zu verschiedenen Themen angeschafft. Dazu geh\u00f6ren klassische Themen der Physik wie Mechanik und Radioaktivit\u00e4t. Auf dem Foto untersuchen Sch\u00fcler:innen elektrische Schaltungen unter Einsatz eines der neuen Experimentierk\u00e4sten. Aber auch aktuelle Themen wie erneuerbare Energien wurden bei der Auswahl der Experimentiermaterialien ber\u00fccksichtigt.<\/p>"},"id":"b5472d2f-1820-4f3e-8f1b-f05771119945","isHidden":false,"type":"text"}],"id":"a43369c1-29ee-42ad-8652-64bb16bf0369","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["neue_sammlung.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4af95a5f-37ea-4bf5-b8f7-bcb5a9d2029b","isHidden":false,"type":"image"}],"id":"5a5fed28-520e-490d-9490-dec8b866683f","width":"1\/2"}],"id":"9aec0e18-1808-416d-8f5c-c270c6663408"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Viele der Experimente k\u00f6nnen nun auch mit moderner Messwerterfassung durchgef\u00fchrt werden. Dabei wurde darauf geachtet, dass die Sensoren z.B. mit IPads bedienbar sind und die erhobenen Daten mit dem IPad ausgewertet werden k\u00f6nnen.<\/p><p>Nach und nach erreichten und erreichen uns nun die neuen Materialien, werden in die Sammlung integriert und im Unterricht eingesetzt.<\/p><p>Wir w\u00fcnschen allen nun noch mehr Spa\u00df am und im Physikunterricht \ud83d\ude0a<\/p><p>Dr. Carsten Riedel (Sammlungsleiter Physik)<\/p><p>und Dr. Dennis Nawrath (Fachkonferenzleiter Physik)<\/p><p><\/p>"},"id":"a103bd1f-83f8-43ac-bbf6-c378c2be712f","isHidden":false,"type":"text"}],"id":"0650501f-da64-4e1e-8df0-cc1ff559a3cc","width":"1\/1"}],"id":"a4f04035-896c-4a93-af15-b8d7bc0e442b"}]
+
+----
+
+Date: 2022-06-06 12:10:00
+
+----
+
+Datumstartseite: 2022-10-06 12:10:00
+
+----
+
+Author: Dres. Dennis Nawrath und  Carsten Riedel
+
+----
+
+Tags: Physik, Sammlung, Experimente
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Id4IMcDqRyOPSZiV

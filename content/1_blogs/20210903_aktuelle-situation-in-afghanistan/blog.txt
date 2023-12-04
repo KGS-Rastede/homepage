@@ -1,0 +1,44 @@
+Title: Afghanistan im Niedergang
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die Taliban haben in Afghanistan erneut die Regierungsgewalt an sich gerissen. Damit droht der Bev\u00f6lkerung eine islamistische Republik der \"Koransch\u00fcler\". An die Stelle demokratischer Neuerungen treten Unfreiheit, Diskriminierung, Frauenfeindlichkeit und Gewalt gegen\u00fcber allen Andersdenkenden. Wir w\u00fcnschen uns Solidarit\u00e4t mit den Menschen in Afghanistan und f\u00fcr den Staat eine Zukunftperspektive in Friede, Freiheit, Gerechtigkeit und Gl\u00fcck.<\/p><p><\/p>"},"id":"e8020989-e4e5-4169-912b-bb872973d29b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["kriegundfrieden.gif"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"6b020c9a-d683-42ca-96b9-dc078c8972a1","isHidden":false,"type":"image"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-09-03 00:00:00
+
+----
+
+Datumstartseite: 2022-01-03 00:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads:
+
+- >
+  krieg-und-frieden-afghanistan-august-2021.pdf
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: xxEaITo9PVCFpnNu

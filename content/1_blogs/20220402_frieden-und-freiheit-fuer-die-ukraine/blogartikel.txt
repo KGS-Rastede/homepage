@@ -1,0 +1,29 @@
+Title: Frieden und Freiheit für die Ukraine - Demonstration am 31.3.22
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wir Sch\u00fcler<em>innen und Lehrer<\/em>innen der Grundschule Feldbreite und der KGS Rastede demonstrieren gegen Russlands v\u00f6lkerrechtswidrigen Angriffakrieg gegen die Ukraine. Das Recht und die Wahrheit stehen auf Seiten der Ukraine und der Welt\u00f6ffentlichkeit. Wir bekennen uns zu den Grundprinzipien der UN-Charta, vor allem zu der Verpflichtung auf den Weltfrieden. Diese Regeln gelten auch dann, wenn eine Gro\u00dfmacht sich entschlie\u00dft, sie selbstherrlich zu brechen. Wir Sch\u00fcler<em>innen und Lehrer<\/em>innen der Grundschule Feldbreite und der KGS Rastede setzen an die Stelle des Rechts des St\u00e4rkeren die St\u00e4rke des Rechts und die Kraft der Vernunft. Wir glauben an ein friedliches Europa in Freiheit und Selbstbestimmung und mit gleichberechtigter Zusammenarbeit.<\/p><p><br>Deswegen fordern wir alle zusammen:<br>Pr\u00e4sident Putin, beenden Sie den Krieg gegen die Ukraine \u2013 sofort!<br>Frieden und Freiheit f\u00fcr die Ukraine!<\/p><p><\/p>"},"id":"e2df4a21-def4-4f57-9828-4777bd433c22","isHidden":false,"type":"text"}],"id":"6b6ead91-d5c8-4780-becd-f7ac19a28959","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["img_2974-2.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ea7aa866-6040-4113-bfa0-ca2dbdba7a12","isHidden":false,"type":"image"}],"id":"70df7d2b-0b5e-4afc-93a4-e2c5ebacb30f","width":"1\/2"}],"id":"0fd51468-33eb-4e99-83b8-0d4c284126ce"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["img_2990-2.jpg","img_2992-2.jpg","img_2984-2.jpg","img_2998-2.jpg","img_3000-2.jpg","img_3002-2.jpg","img_3004-2.jpg","img_3008-2.jpg","img_3016-2.jpg","img_3019-2.jpg","img_3024-2.jpg","img_3027-2.jpg"]},"id":"c3bd0d38-2d04-4790-81e5-35ba97368787","isHidden":false,"type":"gallery"}],"id":"a9d577e2-9101-48c8-ae43-84eae361a54d","width":"1\/1"}],"id":"9a3d99e8-e1d8-4758-9f9e-4a928934c3e9"}]
+
+----
+
+Date: 2022-04-02 00:00:00
+
+----
+
+Datumstartseite: 2022-08-02 00:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden, Ukraine
+
+----
+
+Downloads: 
+
+----
+
+Uuid: sQ0EiFk97fd34aP8

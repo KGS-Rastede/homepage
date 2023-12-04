@@ -1,0 +1,33 @@
+Title: Palais Rastede Online. Ausstellungseröffnung
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Sch\u00fcler:innen des 13. Jahrgangs stellen ihre Ideen, Skizzen und Storyboards zu einem digitalen Projekt in den historischen R\u00e4umen des Palais Rastedes aus. Die\u00a0<strong>Ausstellungser\u00f6ffnung<\/strong>\u00a0findet\u00a0<strong>am 13.11. um 11:30 Uhr<\/strong> statt. <\/p>"},"id":"b7753872-9baa-4932-9929-2d20e7dac35a","isHidden":false,"type":"text"}],"id":"6f49a7c7-29a0-4c29-ad59-e1810ef4b353","width":"1\/1"}],"id":"934040db-8f26-4e2a-bac3-b98586958ec6"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/jaHLIQphY9yoFOzk"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"6fda148a-e2b6-4270-8d9e-4d983680a9f7","isHidden":false,"type":"image"}],"id":"cc61bd33-5b43-4981-8567-a59439fb1f7e","width":"1\/1"}],"id":"01ab612d-0b8a-4910-8a8d-60c63dd986d8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/palais-rastede-digital-ausstellungseroeffnung\/43512bc089-1667909547\/faltblatt-und-einladung.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Hier geht's zum Flyer.<\/a><\/p>"},"id":"1dd5f227-365e-4907-88ef-6a92e53eed5c","isHidden":false,"type":"text"}],"id":"082777d0-8ca0-4da7-ab81-b35092ffc69e","width":"1\/1"}],"id":"3645354f-32fb-42de-b8a2-1f15aed6079c"}]
+
+----
+
+Date: 2022-11-08 13:10:00
+
+----
+
+Datumstartseite: 2023-03-08 13:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Kunst-Fachbereich
+
+----
+
+Tags: Kunst
+
+----
+
+Downloads: - file://uYY3vk9VjZJMnFg0
+
+----
+
+Uuid: No2lcaF80ndozbt0

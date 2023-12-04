@@ -1,0 +1,13 @@
+Anzeigename: Elternbrief iPad-Ausgabe
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: cpvuAgUouCgZ2Xc0
+
+----
+
+Template: datei

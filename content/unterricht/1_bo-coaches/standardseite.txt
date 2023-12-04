@@ -1,0 +1,33 @@
+Title: BO-Coaches. Hilfe bei der beruflichen Orientierung
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"Wir sind Sch\u00fclerinnen und Sch\u00fcler der 10. Klasse und helfen dir bei Fragen rund um die berufliche Orientierung. Du findest uns dienstags, 7.\/8. Stunde in Raum 204 oder du schreibst uns eine E-Mail."},"id":"cf251aa4-daf8-4d30-abff-8102de96856d","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["bo_coaches.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ce179801-2ba1-4359-8426-59c6f68c10fa","isHidden":false,"type":"image"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 

@@ -1,0 +1,145 @@
+title: Blogeintrag (uralte Version, kann wahrscheinlich weg)
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 📖
+
+options:
+  update:
+    *: false
+    fachleiter: true
+    admin: true
+  pages:
+    *: false
+    fachleiter: true
+    admin: true
+  files:
+    *: false
+    fachleiter: true
+    admin: true
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          heading:
+            type: text
+            label: Untertitel
+          text:
+            label: Inhalt
+            type: blocks
+            fieldsets:
+              - heading
+              - text
+              - list
+              - image
+              - gallery
+              - video
+              - local-video
+              - code
+              - markdown
+              - audio
+              - horizontale-linie
+              - tabelle
+              - gastautor
+              - highlightfeld
+              - quote
+              - karousel
+              - accordion
+              - button
+              - lesensieauch
+          gallery:
+            type: files
+            uploads: blogbild
+            query: page.images
+            label: Fotos für den Artikel
+            help: Hier nur Fotos, KEINE PDF-Dateien
+            layout: cards
+            image:
+              cover: true
+              ratio: 1/1
+  sidebar:
+    width: 1/3
+    sticky: true
+    sections:
+      meta:
+        meta:
+        type: fields
+        fields:
+          date:
+            label: Veröffentlicht am
+            type: date
+            display: D. MMMM YYYY
+            time: true
+            default: now
+          datumStartseite:
+            label: Aus Startseite bis zum...
+            type: date
+            display: D. MMMM YYYY
+            time: true
+            default: now + 4 month
+            help: Wenn hier kein Datum steht wird dieser Artikel nicht auf der Startseite angezeigt.
+          author:
+            type: text
+            label: Name des Autors
+            help: Was hier steht taucht 1:1 im Artikel als Name auf
+          tags:
+            label: Kategorie
+            type: tags
+            help: Bitte nach Möglichkeit die Vorschläge übernehmen und keine eigenen Tags erfinden
+            options:
+              - Biologie
+              - Chemie
+              - Physik
+              - Sport
+              - Mathematik
+              - Englisch
+              - Spanisch
+              - Französisch
+              - Latein
+              - Erdkunde
+              - Deutsch
+              - Religion
+              - Musik
+              - WuN
+              - PoWi
+              - Technik
+              - Hauswirtschaft
+              - Kunst
+              - Darstellendes Spiel
+              - Informatik
+              - Schulleitung
+              - Schülerfirmen
+              - SV
+              - AGs
+              - SSD
+              - Austausch
+              - Wettbewerb
+              - Topartikel
+              - Für den Frieden
+              - Courage
+              - AWT
+              - SoWi
+              - NTW
+              - Fremdsprachen
+
+          line1:
+            type: line
+
+          downloads:
+            label: Zugehörige Dateien
+            help: Hier können beliebige Dateien für den Download bereitgestellt werden
+            type: files
+            uploads: datei
+          fotoansicht:
+            label: Fotos anzeigen
+            type: select
+            default: gallery
+            options:
+              carousel: Karousel
+              gallery: Galerie
+              manuel: Manuel einbinden
+
+
+

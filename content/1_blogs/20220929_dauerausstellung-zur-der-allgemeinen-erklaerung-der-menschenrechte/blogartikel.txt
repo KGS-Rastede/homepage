@@ -1,0 +1,33 @@
+Title: Dauerausstellung zur der Allgemeinen Erklärung der Menschenrechte
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Allgemeine Erkl\u00e4rung der Menschenrechte vom 10. Dezember 1948 legt das Fundament f\u00fcr ein Leben aller Menschen in Frieden, Freiheit, Gerechtigkeit und Gl\u00fcck. Unsere Dokumentation aller 30 Artikel stellt diesem Ideal die aktuelle politische Realit\u00e4t gegen\u00fcber. Das Ergebnis: Theorie und Praxis der Menschenrechte klaffen weit auseinander. Auf der ganzen Welt versto\u00dfen Staaten, Organisationen, Institutionen und Menschen gegen den humanit\u00e4ren Anspruch und den politischen Gehalt der Menschenrechte. Deswegen setzen sich weltweit Menschen f\u00fcr die Menschenrechte ein. Sie werden von Menschenrechts-Organisationen unterst\u00fctzt, z.B. Amnesty international, Zentrum f\u00fcr politische Sch\u00f6nheit, Gesellschaft f\u00fcr bedrohte V\u00f6lker, \u00c4rzte ohne Grenzen, Pro Asyl und Borderline Europe. Auch wir an der KGS Rastede engagieren uns f\u00fcr die Menschenrechte als unabdingbaren Anspruch jedes Menschen auf ein Leben in Frieden, Freiheit, Gerechtigkeit und Gl\u00fcck.<\/p>"},"id":"e7916032-7bf5-416b-98ee-244df4467a42","isHidden":false,"type":"text"}],"id":"2736d276-ce8b-4bf2-9cc0-2f55b6aa0ed7","width":"1\/2"},{"blocks":[{"content":{"images":["img_3401.jpg","img_3403.jpg","img_3400.jpg","img_3384.jpg","img_3392.jpg","img_3386.jpg"]},"id":"2b757fbd-38a6-4e0c-821d-4f6a422eb7b5","isHidden":false,"type":"gallery"}],"id":"b7e05a5f-3386-4ac2-8aa6-752e678f73c5","width":"1\/2"}],"id":"a4237429-9880-47a8-af30-345adba9fbda"}]
+
+----
+
+Date: 2022-09-29 11:30:00
+
+----
+
+Datumstartseite: 2023-01-29 11:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: AG "Für den Frieden"
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Uuid: X2Mx1EcZehg79Dxk

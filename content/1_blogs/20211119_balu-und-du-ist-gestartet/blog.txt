@@ -1,0 +1,41 @@
+Title: Balu und Du ist gestartet!
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Seit Schuljahresbeginn treffen sich einmal w\u00f6chentlich <a href=\"https:\/\/kgs-rastede.de\/beratungskonzept\/balu-und-du\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Balu und Mogli<\/a>. Gemeinsam erleben sie kreative Unternehmungen, bei denen beide Seiten voneinander lernen, sich erg\u00e4nzen und profitieren, in ihrer pers\u00f6nlichen Entwicklung gest\u00e4rkt werde. Eine Freundschaft zwischen beiden beginnt sich zu entwickeln. Wir lassen euch wissen, wie sich diese Freundschaften weiterentwickeln werden.<\/p>"},"id":"9021975c-02b0-4df1-a6c5-74b8b45bbf3b","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - 2021-11-19_09h46_11.png
+
+----
+
+Date: 2021-11-19 00:00:00
+
+----
+
+Datumstartseite: 2022-03-19 00:00:00
+
+----
+
+Author: Jonas Niebur
+
+----
+
+Tags: Balu und Du
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: oE3evYC1tldha2nA

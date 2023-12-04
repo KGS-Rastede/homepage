@@ -1,0 +1,58 @@
+<hr>
+<?php 
+
+?>
+</main>
+
+<footer class="container-fluid pt-4">
+  <div class="row">
+
+    <div class="col-md-2 ps-0 ps-md-3 mb-3">
+      <a href="<?= $site->url() ?>"  aria-label="logo-bottom">
+       <?= asset('assets/bilder/logo.svg')->read() ?>
+      </a>
+    </div>
+
+    <div class="col-md-4">
+      <h2 class="h5">Kontakt</h2>
+      <ul class="list-unstyled">
+        <li><a class="text-muted text-decoration-none" href="<?= page('kontakte/schulleitung')->url() ?>">Schulleitung</a></li>
+        <li><a class="text-muted text-decoration-none" href="<?= page('kontakte/fbl')->url() ?>">Fachbereichsleiter</a></li>
+        <li><a class="text-muted text-decoration-none" href="<?= page('kontakte/sekretariate')->url() ?>">Sekretariate</a></li>
+      </ul>
+    </div>
+    <div class="col-md-3">
+      <h2 class="h5">Wichtige Downloads</h2>
+      <ul class="list-unstyled">
+        <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/schulbuchlisten')->url() ?>">Schulbuchlisten</a></li>
+        <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/schulordnung')->url() ?>">Schulordnung</a></li>
+        <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/wichtigelinks')->url() ?>">Informationen und Formulare</a></li>
+      </ul>
+    </div>
+    <div class="col-md-3">
+      <h2 class="h5">Über die KGS</h2>
+      <ul class="list-unstyled">
+        <li><a class="text-muted text-decoration-none" href="<?= page('schule/geschichte')->url() ?>">Unsere Geschichte</a></li>
+        <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/anfahrt')->url() ?>">Anfahrt</a></li>
+        <li><a class="text-muted text-decoration-none" href="<?= page('allgemeines/impressum')->url() ?>">Impressum</a></li>
+        <li><a class="text-muted text-decoration-none" href="https://kgs-rastede.l-e-o.eu" target="_blank" rel="noopener">Mensa</a></li>
+      </ul>
+    </div>
+  </div>
+  <hr>
+  <div class="row">
+    <div class="col" id="copyrightText">
+      <script>
+        document.getElementById("copyrightText").innerHTML = `Copyright &#xA9; ${new Date().getFullYear()} KGS Rastede ; All Rights Reserved.`;
+      </script>
+    </div>
+  </div>
+</footer>
+
+<?php snippet('skripte-im-footer') ?>
+
+
+
+</body>
+
+</html>

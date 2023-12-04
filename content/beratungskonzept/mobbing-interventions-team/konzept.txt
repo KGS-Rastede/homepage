@@ -1,0 +1,17 @@
+Title: Mobbing Interventions Team
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Vier Lehrkr\u00e4fte wurden f\u00fcr das Mobbing Interventionsteam im Rahmen einer Modulfortbildung ausgebildet. Zurzeit wird ein Implementierungskonzept f\u00fcr die KGS erarbeitet.<\/p><p>Wir berichten!<\/p>"},"id":"1b333c40-134b-4390-9249-b772fee5e917","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: vNX9RdwnoWItAtdM

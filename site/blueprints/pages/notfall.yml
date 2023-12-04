@@ -1,0 +1,26 @@
+title: Informationen zum Notfall
+num: '{{ page.date.toDate("Ymd") }}'
+icon: alert
+
+options:
+  update:
+    *: false
+    admin: true
+
+sections:
+  content:
+    type: fields
+    fields:
+      toggle:
+        label: Banner für Schulausfall
+        type: toggle
+        width: 1/4
+        text:
+          Banner inaktiv
+          Banner aktiv
+
+      text:
+        label: Inhalt des Banners
+        type: textarea
+        when:
+          toggle: true

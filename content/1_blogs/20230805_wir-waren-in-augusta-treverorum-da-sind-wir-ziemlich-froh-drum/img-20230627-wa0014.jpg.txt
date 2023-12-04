@@ -1,0 +1,5 @@
+Uuid: udhRLOONix2n2asm
+
+----
+
+Template: blocks/image

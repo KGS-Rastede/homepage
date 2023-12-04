@@ -1,0 +1,12 @@
+title: Zeitraster
+options:
+  update:
+    *: false
+
+preset: page
+fields:
+  text:
+    label: Inhalt für die Homepage
+    type: blocks
+    size: large
+

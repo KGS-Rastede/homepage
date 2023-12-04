@@ -1,0 +1,81 @@
+Title: Physik
+
+----
+
+Heading: unendliche Welten zwischen Elektronen und Galaxien
+
+----
+
+Text: [{"content":{"text":"<p><\/p>"},"id":"6fb86a64-5d38-4d2a-a068-faba050cfe54","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Physik untersucht Erscheinungen der unbelebten Natur, zum Beispiel: <br>Wie wirken Magnete? Was ist Licht? Was ist kleiner als ein Atom? <br>Wie bringt elektrischer Strom den K\u00fcchenmixer zum Drehen? <br>Wie kommt es zum Treibhauseffekt?<br>Und was kann ich tun, um ihn zu bremsen?<br><br><br><\/p>"},"id":"0aaa74ff-5e78-44e7-95dd-cb344970ccc6","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"fd3bdc12-6c50-4956-a168-b073c2b38510","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"057ed435-cf72-4ad3-bd95-5af261eae3d0","isHidden":false,"type":"text"},{"content":{"text":"<p>Zwei gro\u00dfe Pers\u00f6nlichkeiten der Physik sagten zu ihrem eigenen Fach folgendes:<\/p>"},"id":"6d052cb7-b2bc-4631-adea-08792f32e433","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"d904ff35-8c53-49f6-aae2-27d82cd2a3ea","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["curie-und-einstein-3-1.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ea8f98c4-13a4-4ee0-905f-ddf6e410ac8d","isHidden":false,"type":"image"},{"content":{"text":"<p>Im Physikunterricht wollen wir auch staunen und verstehen. <br>Daf\u00fcr schauen wir uns die Ph\u00e4nomene genau an und entwickeln Experimente.<br>H\u00e4ufig messen wir etwas, veranschaulichen die Messungen in Diagrammen und interpretieren sie.<br>Zu unserer Arbeitsweise geh\u00f6rt ebenso, dass wir unsere Ergebnisse mit den Theorien von anderen Physikern vergleichen.<br><br><br><br>Im <strong>Wahlpflichtbereich (WPK)<\/strong> k\u00f6nnen wir physikalische und technische Fragestellungen miteinander verkn\u00fcpfen. Beispielsweise bauen wir hier solarbetriebene Fahrzeuge und nehmen damit an Wettbewerben teil.<br><br><\/p>"},"id":"19a7b171-ec5e-453c-98ba-6d4f78860cb9","isHidden":false,"type":"text"},{"content":{"text":"<p>Physikalische Themen findest du auch in folgenden <strong>Arbeitsgemeinschaften<\/strong>:<br>Naturwissenschaftliche Experimente<br>Robo-AG<br>Nachhaltigkeits-AG<br><br><\/p>"},"id":"1e7d8b86-f009-4e85-a531-6956cd06ba5e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["4-bilder.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f483b1fa-fecb-4d94-bff8-c626447304ed","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p>"},"id":"ab957679-95ad-48c2-8b3c-ea3bec1e96de","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - 4-bilder.jpg
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene:
+
+- netzplan-realschulzweig.pdf
+- netzplan-hauptschulzweig.pdf
+- netzplan-gymnasialzweig-11-13.pdf
+- netzplan-gymnasialzweig-5-10.pdf
+
+----
+
+Haupttag: Physik
+
+----
+
+Hintergrundbild: - hintergrund.jpg
+
+----
+
+Fotoansicht: 
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=67'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=71'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=18'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=199'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/17PhysikHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: https://www.leifiphysik.de/
+  name: Online Physik lernen
+- 
+  link: >
+    https://phet.colorado.edu/de/simulations/category/physics
+  name: Experimente als Simulation
+- 
+  link: https://physik.cosmos-indirekt.de/
+  name: Physik-Lexikon
+
+----
+
+Uuid: c0CBjbfXpwdoWsOn

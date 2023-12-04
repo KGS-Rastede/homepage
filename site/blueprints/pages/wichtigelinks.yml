@@ -1,0 +1,49 @@
+title: Wichtige Links
+icon: file
+
+options:
+  update:
+    *: false
+    admin: true
+
+
+sections:
+  content:
+    type: fields
+    fields:
+      info:
+        label: Info
+        type: info
+        theme: negative
+        text: |
+          # Anleitung
+          Auf dieser Seite können PDF-Dateien hochgeladen werden.
+
+          Wenn man auf den *Dateinamen* klickt kann man festlegen, was auf der Webseite <b>angezeigt</b> werden soll.
+
+      Unterricht:
+        label: Unterricht
+        type: files
+        uploads: pdfs
+        info: "angezeigter Name: {{file.anzeigename}}"
+
+      line:
+        type: line
+
+      schule:
+        label: Schule
+        type: files
+        uploads: pdfs
+        info: "angezeigter Name: {{file.anzeigename}}"
+
+      line2:
+        type: line
+
+      datenschutz:
+        label: Datenschutz
+        type: files
+        uploads: pdfs
+        info: "angezeigter Name: {{file.anzeigename}}"
+
+        
+      

@@ -1,0 +1,70 @@
+Title: Chemie
+
+----
+
+Heading: „Chemie ist, wenn es knallt und stinkt!“ – Aber wir können auch faszinierende Farben und schöne Lichter!
+
+----
+
+Text: [{"content":{"text":"<p>Doch die Chemie steht nicht nur f\u00fcr knallige Effekte, die einem aus Schulversuchen in Erinnerung bleiben. Der Begriff \u201eChemie\u201c wird h\u00e4ufig auch im Gegensatz zu \u201enat\u00fcrlich\u201c oder \u201ebiologisch\u201c gebraucht: Wenn man \u201eChemie verwendet\u201c, benutzt man aggressive, gef\u00e4hrliche Mittel, die mithilfe von ein bisschen Zauberei z.B. einen Fleck entfernen!<\/p>"},"id":"7d7d712a-d76f-4af3-ba99-f8d567b30dbb","isHidden":false,"type":"text"},{"content":{"text":"<p>Ziel des Chemieunterrichts ist es daher unter anderem, dieses allt\u00e4gliche \u2013 meist negative \u2013 Verst\u00e4ndnis zu hinterfragen und zu reflektieren. Chemische Prozesse sind im Alltag \u00fcberall zu finden:<\/p>"},"id":"aa693819-ae22-4622-bc32-41996c05873f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>das Leben an sich beruht auf (bio)chemischen Vorg\u00e4ngen,<\/p><\/li><li><p>bei der Zubereitung von Nahrung (Angrillen im Sommer, dem Fondue im Winter),<\/p><\/li><li><p>bei der Hygiene (Fleckentfernung, allt\u00e4gliches H\u00e4ndewaschen),<\/p><\/li><li><p>bei der Fortbewegung (Treibstoffe und Antriebsarten)<\/p><\/li><li><p>in der Freizeit (Akkutechnik in elektronischen Ger\u00e4ten, Funktionsmaterialien im Sport).<\/p><\/li><\/ul>"},"id":"5353ee6d-cbee-4172-a240-619820cf4d2c","isHidden":false,"type":"list"},{"content":{"text":"<p>Die Chemie erkl\u00e4rt diese Ver\u00e4nderungsprozesse und bietet die Chance, nachhaltige Alternativen f\u00fcr bisher verwendete Mittel zu finden. Diese orientieren sich oft sogar an der Natur selber. So arbeitet die Chemie nicht nur auf der Stoff- und Strukturebene mit der Natur zusammen, sondern hilft auch, diese zu bewahren.<\/p>"},"id":"0cc79490-ab55-4cf6-b3ed-fcbf39d07c6d","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Chemieunterricht<\/strong><\/p>"},"id":"42040561-3e3d-48c9-8277-8872bf647bc4","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Fach Chemie wird von Jahrgang 6 an in allen Schulzweigen durchgehend unterrichtet, in der Mittelstufe h\u00e4ufig nur epochal. In den Abschlussklassen kann es als m\u00fcndliches Pr\u00fcfungsfach belegt werden. Seit vielen Jahren werden in der gymnasialen Oberstufe Kurse auf erh\u00f6htem Anforderungsniveau (\u201eLeistungskurse\u201c, P1 \u2013 P3) angeboten, nach der Umstellung auf G9 gibt es auch wieder Kurse auf grundlegendem Anforderungsniveau mit der M\u00f6glichkeit zur schriftlichen oder m\u00fcndlichen Pr\u00fcfung (P4\/P5-Grundkurse).<\/p>"},"id":"af8671c0-73f1-4958-bde0-2bb7a106877d","isHidden":false,"type":"text"},{"content":{"text":"<p>Chemiekurse werden zudem im Wahlpflichtbereich des Gymnasialzweiges der Mittelstufe angeboten, seit dem Jahr 2018 gibt es zudem in Jahrgang 11 einen f\u00e4cher\u00fcbergreifenden Kurs \u201eMobilit\u00e4t der Zukunft\u201c, der die F\u00e4cher Chemie und Erdkunde inhaltlich miteinander verbindet.<\/p>"},"id":"d380f4e2-b4ff-4adf-a103-d5e57fc1d525","isHidden":false,"type":"text"},{"content":{"text":"<p>Auch im AG-Bereich gibt es Angebote, z.B. die Experimentier-AG f\u00fcr die Jahrg\u00e4nge 5\/6 und die Umwelt-AG. Im Rahmen der Umweltwoche in Jg. 7 werden in vielen Projekten chemische Fragestellungen angesprochen.<\/p>"},"id":"215408d8-d12d-4a6c-9957-7f1256caa464","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"cce2c0cd-5ee6-4ed7-8e9b-fad51ae0985a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- image0.jpeg
+- img_9226.jpg
+- grundschulprojektwpk9.jpg
+
+----
+
+Lehrplantext: Hier finden Sie die Netzpläne für die Jahrgänge 5 - 13 für alle Schulzweige in einem Dokument.
+
+----
+
+Lehrplaene: - netzplane-chemie.pdf
+
+----
+
+Haupttag: Chemie
+
+----
+
+Hintergrundbild: - bill-oxford-tr0pplun6pw-unsplash.jpg
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=67'
+  name: Kerncurriculum Hauptschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=71'
+  name: Kerncurriculum Realschule
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=18'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=23'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/16ChemieHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/BI-CH-PH_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
+
+----
+
+Uuid: IgS5LYwL1cXVO6zE

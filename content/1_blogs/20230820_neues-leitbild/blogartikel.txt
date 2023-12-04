@@ -1,0 +1,33 @@
+Title: Neues Leitbild
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im Februar hatte sich die Schulgemeinschaft daran gemacht, das bestehende Leitbild zu reformieren. Im Juni wurde mit großer Zustimmung das <a href=\"https://kgs-rastede.de/schule/leitbild\" target=\"_blank\" rel=\"noreferrer\">neue Leitbild</a> beschlossen. </p>"},"id":"9a55d817-c338-42fd-a58b-6db57c24313e","isHidden":false,"type":"text"}],"id":"21855dc7-0c7c-4670-a701-d58033998a2f","width":"1/1"}],"id":"c2ab3ca2-1c4c-474e-baa7-4ca786e695fa"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://vVu12TLwhYIYSbRc"],"src":"","alt":"","caption":"","link":"https://kgs-rastede.de/schule/leitbild","ratio":"","crop":"false","orientation":""},"id":"e583d8fa-21e1-4235-bf77-bd27dce7e6bd","isHidden":false,"type":"image"}],"id":"0811f5e7-423b-4cf4-9509-ea30ff05a716","width":"1/1"}],"id":"e7edaa21-83e3-4193-97fa-f9a8490f743e"},{"attrs":[],"columns":[{"blocks":[{"content":{"karousel":["file://wqmvGrnAJ1gfyOqF","file://6o6rskjnvgmLJ490","file://iSTlqvTK5X09zyDm","file://Nq8LMFlxw8EiChNA","file://6ZRv9C6deO7XpKms","file://hO11HB4i3KeG6wYa","file://yeKli25SzzapQ8Ez","file://KPlahAaVVC8etjbI","file://oPffVPgjNJej4v9l","file://be1Hf8PQD7SkKK4j","file://0A0o2t3RGJPqwJRd","file://ArNSvs8NL1zI2XAk","file://9kJz7M86LFUIAeeD","file://sye1u618ltWsA1fw","file://TCFt6rN3e8ziCXjg","file://laL3IUIipGbrxBN2","file://f4Tr8LgNc64BIWed"]},"id":"1f13d86d-36ae-45c8-a90a-300f7f208dcd","isHidden":false,"type":"karousel"}],"id":"64fd54f5-fa79-494c-b54e-a9321e9a489d","width":"1/1"}],"id":"9ea5d5e5-ce31-465b-adc7-ef3dcc386372"}]
+
+----
+
+Date: 2023-08-20 17:05:00
+
+----
+
+Datumstartseite: 2023-12-20 17:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: GWaHLLsrkb2TVG8Q

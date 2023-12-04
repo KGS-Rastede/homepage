@@ -1,0 +1,33 @@
+Title: Das Projekt Herausforderung hat für den 8.Jahrgang der KGS begonnen!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Das Projekt Herausforderung hat f\u00fcr den 8.Jahrgang der KGS begonnen!<\/p><p>Wir freuen uns wieder auf viele Herausforderungen und Erlebnisse mit den Sch\u00fcler:innen!<\/p><p>Auch in diesem Jahr steht das Projekt vor besonderen, eigenen Herausforderungen. Wir ben\u00f6tigen dazu Ihre und Eure Unterst\u00fctzung!<\/p><p>Wir w\u00fcrden gerne die finanzielle Belastung der Teilnehmer:innen verringern und haben dazu in Zusammenarbeit mit der Raiffeisenbank Rastede ein Crowdfunding ins Leben gerufen. Wir m\u00f6chten Sie\/ euch nun bitten, unter folgendem Link, dieses Crowdfunding zu \"liken\", damit wir \u00fcberhaupt mit dem Spendensammeln beginnen k\u00f6nnen. Hier zu m\u00fcssen Sie\/ m\u00fcsst Ihr auf den Button \"Fan werden\" klicken und euch einmal registrieren, damit Doppelklicks vermieden werden.<\/p><p>Hier kommt der Link:<\/p><p><a href=\"https:\/\/www.viele-schaffen-mehr.de\/projekte\/herausforderungsprojekt-kgs-rastede\" rel=\"noopener noreferrer\">https:\/\/www.viele-schaffen-mehr.de\/projekte\/herausforderungsprojekt-kgs-rastede<\/a><\/p><p>Eine Spende ist in dieser Phase noch nicht n\u00f6tig.<\/p><p>Vielen lieben Dank f\u00fcr Ihre\/ eure Unterst\u00fctzung!<\/p><p>Viele Gr\u00fc\u00dfe, euer Herausforderungsteam!<\/p>"},"id":"1c6d2c7b-4e61-48e5-b265-f6ea0262dda9","isHidden":false,"type":"text"}],"id":"e41ea6d0-85c9-4996-9e37-d84a4d8fa466","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/2bTcv17rakPRdZQl"],"src":"","alt":"Herausforderungsprojekt 2023","caption":"Herausforderungsprojekt 2023","link":"","ratio":"","crop":"false"},"id":"10c7dfc9-8859-4bab-8aca-8aad4f872441","isHidden":false,"type":"image"}],"id":"b1e367ac-89b5-4b3d-a54c-c9782c330572","width":"1\/2"}],"id":"feeabb6e-398d-4d1b-917b-d9cc92e9d26a"}]
+
+----
+
+Date: 2023-02-24 11:20:00
+
+----
+
+Datumstartseite: 2023-04-09 11:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sascha Arzenscheg
+
+----
+
+Tags: Projekt, HFP, Herausforderungsprojekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: dgZWNmKWraoq4ENt

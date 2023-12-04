@@ -1,0 +1,68 @@
+title: Übersicht über ein einzelnes Projekt
+
+
+fields:
+  kurzname:
+    help: Zwischen 10 und 50 Zeichen
+    type: text
+    minlength: 10
+    maxlength: 50
+    width: 1/2
+  teamlogo:
+    label: Teamlogo
+    type: files
+    min: 1
+    max: 1
+    multiple: false
+    layout: cards
+    query: page.images
+    ratio: 1/1
+    width: 1/2
+  teamfarbe:
+    label: Teamfarbe
+    type: text
+    width: 1/2
+  teamfarbe:
+    label: Teamfarbe
+    type: select
+    options:
+      teamfarbe1: Farbe 1
+      bs-teamfarbe1: Farbe 2
+      bs-teamfarbe2: Farbe 2
+      bs-teamfarbe3: Farbe 3 
+      bs-teamfarbe4: Farbe 4
+      bs-teamfarbe5: Farbe 5 
+      bs-teamfarbe6: Farbe 6
+      bs-teamfarbe7: Farbe 7
+  text:
+    label: Inhalt
+    type: blocks
+    fieldsets:
+      - heading
+      - text
+      - list
+      - image
+      - gallery
+      - video
+      - local-video
+      - markdown
+      - audio
+      - horizontale-linie
+      - highlightfeld
+      - quote
+      - karousel
+      - accordion
+      - koordinate
+      - reiseroute
+  gallery:
+    type: files
+    uploads: bildherausforderungsprojekt
+    query: page.images
+    label: Fotos aus dem Projekt
+    help: Hier nur Fotos, KEINE PDF-Dateien
+    layout: cardlets
+    image:
+      cover: true
+      ratio: 1/1
+
+

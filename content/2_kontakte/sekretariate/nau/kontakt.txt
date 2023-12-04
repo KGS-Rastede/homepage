@@ -1,0 +1,21 @@
+Title: Herr Stubbe
+
+----
+
+Heading: stu
+
+----
+
+Position: Hausmeister Hauptgebäude
+
+----
+
+Phone: 04402-9264-28
+
+----
+
+Fotoansicht: hausmeister
+
+----
+
+Uuid: LDjiR8ogSp5IAmWL

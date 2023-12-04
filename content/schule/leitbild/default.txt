@@ -1,0 +1,17 @@
+Title: Leitbild
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Präambel"},"id":"f40caa29-b0ce-46c0-bd0c-94c729715927","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Die KGS ist ein Ort der Vielfalt. Im wertschätzenden Miteinander trägt jeder dazu bei, dass wir uns an unserer Schule wohlfühlen.</strong></p><p><strong>Wir verstehen gegenseitige Anerkennung als zentrales Motiv zwischenmenschlichen Miteinanders in und außerhalb der Schule. Deshalb stehen grundlegenden Werte, wie Toleranz, Respekt, Ehrlichkeit und Verlässlichkeit bei uns im Mittelpunkt.</strong></p><p><strong>Ziel unseres Lernens und Handelns ist ein Miteinander von weltoffenen und demokratisch handelnden, selbstbewussten sowie selbstständigen Menschen.</strong></p>"},"id":"430dfdfc-6e10-4289-9b43-b218fc62c749","isHidden":false,"type":"text"},{"content":{"name":""},"id":"af659812-3451-4674-882d-9340fa1366d2","isHidden":false,"type":"horizontale-linie"},{"content":{"images":["file://hYjlM8tiTGYkHxIc","file://vfu19T997noxajRz","file://UuqXuSREmLJnjMmY","file://h4pJ2F1d0YrlfpFH","file://pjvTRstktwmttvK0","file://OvJnOvh57PG7OqU6","file://zuRD19y61WbOxbqD","file://PZNU6hmTPoKwzX0H","file://EH9JGjtURDk6sKnb","file://LBhYOZdus92YyeQL"],"caption":"","ratio":"","crop":"false"},"id":"537bcd5f-5cec-4611-b922-bb4d68cd92e2","isHidden":false,"type":"gallery"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Z9tm2VsMrsIBwb4r

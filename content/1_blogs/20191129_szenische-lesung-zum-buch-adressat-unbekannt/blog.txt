@@ -1,0 +1,45 @@
+Title: Szenische Lesung zum Buch “Adressat unbekannt”
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Am Sonntagnachmittag, den 24. November 2019 hat die Klasse 11b im Zuge der Rasteder Lesestunden in der St.-Ulrichs-Kirche eine zweist\u00fcndige szenische Lesung gehalten, welche von der Residenzort Rastede GmbH erm\u00f6glicht wurde. Die Lesung wurde seit den Herbstferien im Deutschunterricht mit Herrn Schumacher vorbereitet und organisiert.<\/p>"},"id":"5364c900-34ad-46d8-95a6-973bc8cd50ef","isHidden":false,"type":"text"},{"content":{"text":"<p>W\u00e4hrend der Lesung konnte sich das Publikum in einer kurzen Pause an einem Kaffee- und Kuchenbuffet, welches von der 12. Klasse der KGS Rastede bereitgestellt wurde, st\u00e4rken. Au\u00dferdem gab es die M\u00f6glichkeit der 11b nach der Lesung Fragen zu stellen, sowie R\u00fcckmeldung zu geben, welche fast durchweg positiv ausfiel.<\/p>"},"id":"9459fb74-5e57-4d6d-9930-332516f77214","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Buch, welches vollst\u00e4ndig vorgestellt wurde hei\u00dft \u201eAdressat unbekannt\u201c. Verfasst wurde es von Kressmann Taylor im Jahr 1938 (in den USA). In Deutschland erschien es erst in den 70er Jahren. Das Buch umfasst das aktuelle Thema \u201eAntisemitismus\u201c. Verdeutlicht wird es durch den Briefwechsel eines Deutschen, namens Martin Schulse, und seinem Freund Max Eisenstein, einem amerikanischen Juden. Die Geschichte spielt in den Monaten zur Zeit Hitlers Macht\u00fcbernahme und basiert auf einer wahren Begebenheit, zu der aber eigene Ideen der Autorin kamen, um die Dramaturgie dem Leser gegen\u00fcber zu verst\u00e4rken.<\/p>"},"id":"f1a01f81-d6d1-413e-8844-47643900d800","isHidden":false,"type":"text"},{"content":{"text":"<p>Als Klasse wurde sich f\u00fcr dieses Buch entschieden, weil es spannend zu lesen war und ein so wichtiges aktuelles Thema eindringlich \u00fcbermittelt. Es war ihnen wichtig es auch der \u00d6ffentlichkeit nahezubringen, damit dieses Thema nicht in Vergessenheit ger\u00e4t.<\/p><p>Zusammenfassend ist die 11b sich einig, dass dieses Projekt in ihrer Erinnerung bleiben wird und die Klassengemeinschaft gest\u00e4rkt hat.<\/p>"},"id":"1fea2063-a869-4808-bfa8-ecd77e023334","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2019-11-29 16:25:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Tomke Albrecht und Renke Beckmann (11b)
+
+----
+
+Tags: Deutsch
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

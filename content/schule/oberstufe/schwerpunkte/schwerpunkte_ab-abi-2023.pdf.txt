@@ -1,0 +1,13 @@
+Anzeigename: Schwerpunkte ab Abitur 2023
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: vI7fMY1KkRQ9MiF2

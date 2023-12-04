@@ -1,0 +1,33 @@
+Title: Wir sind die Medienscouts
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Hi, wir sind die Medienscouts an unserer KGS und stellen euch kurz vor, wer wir eigentlich sind und was wir an unserer Schule machen.<\/p><p><strong>Was sind Medienscouts?<\/strong> Medienscouts helfen dir bei einigen Problemen, die du im Internet und mit digitalen Medien wie deinem Handy oder Tablet haben kannst. Wir helfen dir z.B. dabei, wenn dich jemand bei WhatsApp beleidigt oder in Klassenchats hatet. So etwas nennt man Hate Speech. Was du gegen Hate Speech tun kannst, erf\u00e4hrst du von uns.<\/p><p><br><strong>Wobei helfen wir dir?<\/strong> Wir kl\u00e4ren euch auch z.B. dar\u00fcber auf, ab wann man von Cybermobbing spricht und wie ihr damit umgeht, wenn ihr selber oder jemand, den ihr kennt, Opfer von Cybermobbing wird. Wir helfen euch auch dabei, wie ihr eure Informationen besser sch\u00fctzt oder was ihr tun k\u00f6nnt, wenn jemand ein Bild von euch macht und damit euer Recht am eigenen Bild missachtet. Wir bieten ab dem kommenden Schuljahr auch Fortbildungen f\u00fcr 5. und 6. Klassen an, bei denen wir \u00fcber diese Themen mit euch sprechen und Tipps geben. Sprecht eure Lehrkr\u00e4fte einfach an, wenn ihr uns buchen m\u00f6chtet!<br><\/p><p><strong>Wie k\u00f6nnt ihr oder eure Lehrerinnen und Lehrer uns kontaktieren?<\/strong><br>Schreibt uns einfach \u00fcber unsere E-Mail-Adresse unter: <a href=\"mailto:medienscouts@kgs-rastede.eu\">medienscouts@kgs-rastede.eu<\/a><br>Wir antworten dir gern und freuen uns darauf, dass du dich bei uns meldest!<\/p>"},"id":"0ecac923-ac38-4470-9f2e-dadb3bfa9d96","isHidden":false,"type":"text"}],"id":"d830ab37-4d8b-445a-bd8d-b3d18aca15fb","width":"1\/1"}],"id":"2404e77e-1fd1-4c65-b98e-e157fb8c7901"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["medienscouts.jpg"],"src":"","alt":"","caption":"Die Medienscouts der KGS Rastede","link":"","ratio":"","crop":"false"},"id":"13785ac0-de31-4059-bdfa-f5096f224fbb","isHidden":false,"type":"image"}],"id":"0a485c1f-9a0a-4192-af55-e3970ee95271","width":"1\/1"}],"id":"ea61172e-6a29-4908-8770-3c50a35a479d"}]
+
+----
+
+Date: 2022-07-15 10:45:00
+
+----
+
+Datumstartseite: 2022-11-15 10:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: AG Medienscouts, Artur Elert
+
+----
+
+Tags: Beratung & Unterstützung
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 3D70Qsh2KNcTjHTd

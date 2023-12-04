@@ -1,0 +1,29 @@
+Title: Fremdsprachenlesewettbewerb ¡Bienvenidos!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>\u201cWillkommen! Bienvenue! \u00a1Bienvenidos!\u201d<\/strong><\/p><p>\u00a0<\/p><p>Endlich konnte nach zweij\u00e4hriger Pause der Fremdsprachenlesewettbewerb Franz\u00f6sisch\/Spanisch wieder stattfinden. Zw\u00f6lf Leserinnen und Leser, die sich innerhalb ihrer Klasse\/ihres Kurses als Siegerin bzw. Sieger durchgesetzt hatten, stellten sich der Herausforderung, auch auf Jahrgangsebene ihr K\u00f6nnen zu zeigen.<\/p><p>Im H\u00f6rsaal waren neben den Leserinnen und Lesern auch zahlreiche Zuh\u00f6rerinnen und Zuh\u00f6rer aus den siebten Klassen als Unterst\u00fctzung dabei.<\/p><p>\u00a0<\/p><p>Zun\u00e4chst pr\u00e4sentierten Leonie (7B3), Hannah (7C3), Amani (7E3) und Paulina (7D3) ihr K\u00f6nnen. Mit einer ausgezeichneten franz\u00f6sischen Aussprache lasen die vier M\u00e4dchen ihre Texte vor. Die Entscheidung war f\u00fcr die Franz\u00f6sisch-Jury \u2013 zusammengesetzt aus Frau Br\u00f6mer und Frau Westerholt \u2013 \u00a0alles andere als einfach. Am Ende stand Leonie als Siegerin im Gymnasialzweig fest. W\u00e4hrend der Juryentscheidung schwang das Publikum zu spanischer Musik\u00a0 das Tanzbein.<\/p><p>\u00a0<\/p><p>Die drei Teilnehmerinnen und Teilnehmer des franz\u00f6sischen Wettbewerbs im Realschulzweig pr\u00e4sentierten sich mit Mut und Selbstbewusstsein. Die Vortr\u00e4ge von Dale\u00a0 (7C2), Anna (7C2) und Mohammed (7B2) waren allesamt sehr gut gelungen. So hatte es die Jury erneut nicht leicht sich zu entscheiden, wer nun am besten vorgetragen hat. Am Ende wurde jedoch Anna als Siegerin geehrt. W\u00e4hrend der Beratungszeit der Jury wurde erneut getanzt, dieses Mal aber zu franz\u00f6sischer Musik.<\/p><p>\u00a0<\/p><p>Dann ging es mit den Teilnehmerinnen und Teilnehmern der Spanischkurse weiter. Aaliyah Ulivi, Mathilda Jungmann, Nele G\u00f6tker und Maksim Riemche \u00a0lasen mit viel Elan und toller Aussprache. Auch dieser Jury \u2013 zusammengesetzt aus den Lehrkr\u00e4ften Susanne Ha\u00dfmann sowie Carina Nieberding \u2013 fiel die Entscheidung nicht leicht. Schlussendlich stand Aaliyah als Siegerin des Spanischwettbewerbs fest.\u00a0 W\u00e4hrend die Jury ihre Entscheidung f\u00e4llte, konnte das Publikum sich in der jeweils anderen Sprache vorstellen sowie\u00a0 sein Wissen in einem franz\u00f6sisch-spanischen Quiz testen.<\/p><p>\u00a0<\/p><p>Bei der abschlie\u00dfenden Siegerehrung mit kleinen Pr\u00e4senten f\u00fcr alle gab es viel Applaus und ausschlie\u00dflich strahlende Gesichter.<\/p><p><\/p>"},"id":"949642dc-4b33-4617-916d-1940abdc2fd1","isHidden":false,"type":"text"}],"id":"bef40969-2e97-4d8a-99db-f61a4e776158","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["fremdsprachenlesewettbewerb-2022c.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b440a7a3-69b3-427a-8095-30ac7d869965","isHidden":false,"type":"image"}],"id":"af714b29-9efd-4463-b144-2f0864ca462c","width":"1\/2"}],"id":"44ae8d17-496b-4db2-a792-63482c34386b"}]
+
+----
+
+Date: 2022-03-24 14:30:00
+
+----
+
+Datumstartseite: 2022-07-24 14:30:00
+
+----
+
+Author: Kirstin Westerholt
+
+----
+
+Tags: Fremdsprachen, Wettbewerb, Spanisch, Französisch
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 9ukF5oJmKbhJfupG

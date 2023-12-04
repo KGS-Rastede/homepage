@@ -1,0 +1,41 @@
+Title: Tibet-Tag (10. März): AG Für den Frieden macht aufmerksam
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"video":["erklaervideo_tibet.mp4"],"name":"Erkl\u00e4rvideo zum Tibettag","autor":""},"id":"98729b2d-a001-4793-8740-65724c56546b","isHidden":false,"type":"local-video"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-03-10 00:00:00
+
+----
+
+Datumstartseite: 2021-07-14 00:00:00
+
+----
+
+Author: AG Für den Frieden
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: gY6bL0LnSpoiK7sv

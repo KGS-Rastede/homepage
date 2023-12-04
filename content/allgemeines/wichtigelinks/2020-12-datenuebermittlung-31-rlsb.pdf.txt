@@ -1,0 +1,13 @@
+Anzeigename: §31 NSchG - Regelung über Datenübermittlungen
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: qNntJ1Wwo1kV9bVo

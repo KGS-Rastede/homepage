@@ -1,0 +1,36 @@
+title: Impressum
+tabs:
+  inhaltetabs:
+    label: Anschrift
+    icon: home
+    columns:
+      anschriftcolumn:
+        width: 1/2
+        sections:
+          content:
+            type: fields
+            fields:
+              anschrift:
+                label: Anschrift mit Name und Adresse
+                type: textarea 
+              rechtlichertext:
+                label: Rechtlicher Text
+                type: textarea
+              schultrager:
+                label: Schulträger
+                type: textarea
+      kontaktschule:
+        width: 1/2
+        sections:
+          alallalalal:
+            type: fields
+            fields:
+              telefon:
+                label: Telefonnummer der Schule
+                type: tel
+              fax:
+                label: Faxnummer der Schule
+                type: tel
+              email:
+                label: Email-Adresse der Schule
+                type: email

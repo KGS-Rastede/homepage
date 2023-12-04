@@ -1,0 +1,45 @@
+Title: Anne Frank Tag 2021
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Anne Frank - Tags am 12. Juni"},"id":"a2bbdbef-1b0a-4fa7-8c97-59e85c2d7719","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die AG 'F\u00fcr den Frieden' hat eine kleine Ausstellung zum Anne Frank Tag (12. Juni) erstellt <\/p>"},"id":"6b194bca-f843-492c-a7ec-8bddd0bad1b1","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- img_2603.jpg
+- img_2601.jpg
+- img_2602.jpg
+
+----
+
+Date: 2021-06-02 00:00:00
+
+----
+
+Datumstartseite: 2021-10-02 00:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: sg6sfoYRxSBu2rIM

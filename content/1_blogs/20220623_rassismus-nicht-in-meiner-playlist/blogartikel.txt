@@ -1,0 +1,33 @@
+Title: Rassismus nicht in meiner Playlist
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In dem Projekt \"Rassismus nicht in meiner Playlist\" bei Herrn van de Rieth kreirten die Sch\u00fclerInnen der Jahrg\u00e4nge 7-10 in kleinen Gruppen eigene Songs gegen den Rassismus. Daf\u00fcr benutzen sie die App 'Garage Band', auf der man verschiedenste Musik aufnehmen, produzieren und abmischen kann. <\/p><p>F\u00fcr die Musik haben sie verschiedene Samples genutzt und dazu noch gesungen.  Zudem erstellten sie Musikvideos zu den Songs, welche hier in der Schule mit 'iMovie' zusammengeschnitten wurden.<\/p><p>So konnten die Sch\u00fclerInnen in der Projektwoche ihr eigenes Musikvideo zum Thema \"Rassismus\" produzieren.<\/p>"},"id":"607954a7-958a-4e90-8dc2-bc22cd18e6f8","isHidden":false,"type":"text"}],"id":"839a3f21-9dad-4915-913c-035f91d270ac","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["7bcfd2ce-0f7a-4512-89e0-351a3ff6066c.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8b843b25-d03a-4b31-80c0-00be3aada591","isHidden":false,"type":"image"}],"id":"01fa7440-9d81-417f-a14d-8ebdaf2769c3","width":"1\/2"}],"id":"295de2c2-4dd6-4b87-b120-9f8b5999dfeb"}]
+
+----
+
+Date: 2022-06-23 10:25:00
+
+----
+
+Datumstartseite: 2022-10-23 10:25:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Julius Kottkamp
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 
+
+----
+
+Uuid: zF8gsIe16XmEKSnW

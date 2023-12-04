@@ -1,0 +1,8 @@
+title: Kontakte in einer Tabelle
+preset: pages
+icon: user
+
+
+unlisted:
+  headline: Kontaktdaten
+  info: "Postion: {{page.position}} Kürzel: {{page.heading}}"

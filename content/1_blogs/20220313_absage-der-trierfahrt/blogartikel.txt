@@ -1,0 +1,29 @@
+Title: Absage der Trierfahrt
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Aufgrund der derzeitigen Pandemielage mit all ihren Ungewissheiten f\u00fcr die kommenden Monate kann die Trierfahrt in diesem Schuljahr leider nicht stattfinden. Wir bedauern das sehr und hoffen auf eine n\u00e4chste Fahrt im neuen Schuljahr.<\/p><p><\/p><p><\/p>"},"id":"72cd9d6a-4ca5-43db-a998-a35f0fd4c761","isHidden":false,"type":"text"}],"id":"af37070b-647d-46b5-b8a7-e31acc1b586a","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["trier.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8a239604-ca48-4412-aac2-0de51de51550","isHidden":false,"type":"image"}],"id":"110f93b7-2bff-431c-b723-3b26208777d3","width":"1\/2"}],"id":"fa2a7988-7950-4795-ac07-82edc516881c"}]
+
+----
+
+Date: 2022-03-13 10:40:00
+
+----
+
+Datumstartseite: 2022-04-30 14:50:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Austausch, Latein, Trier, Fremdsprachen
+
+----
+
+Downloads: 
+
+----
+
+Uuid: MnaQuw3MHHeoGu4N

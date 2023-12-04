@@ -1,0 +1,52 @@
+Title: Die Radeltiere
+
+----
+
+Kurzname: Wir freuen uns sehr aufs Steinhudermeer!
+
+----
+
+Teamlogo:
+
+- >
+  1ed2df9d-5f7e-4f1a-979b-f30f492fb868.jpeg
+
+----
+
+Teamfarbe: bs-teamfarbe7
+
+----
+
+Text: [{"content":{"location":"kirby","image":["katze.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"9365c8f2-7cd6-4bd4-8672-cf87cdc57565","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"<p>Wir (Nuha, Stella und Luciana) fahren mit dem Fahrrad ans Steinhudermeer und freuen uns sehr. <\/p>"},"id":"c150b530-5adc-4c4f-a60e-e2e5d7a92fd4","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- radeltiere-on-tour-2.jpg
+- tag-2.jpg
+- photo-2022-08-28-12-09-09.jpg
+- >
+  5994ccff-7273-416f-b846-32ab1d70e083.jpeg
+- >
+  38a58ea0-c1a7-4420-936e-d6edde854003.jpeg
+- >
+  97a1445a-d033-489f-87b2-9edae20652ca.jpeg
+- >
+  ddb92d3a-bf3f-47c4-9dbe-339e2c3f1b4d.jpeg
+- >
+  3f038ac3-b553-4e3b-bc4d-7bdb59b01189.jpeg
+- >
+  5290e7fd-b2c6-403b-80c1-7bc5d96bea2f.jpeg
+- >
+  65240736-c17f-4789-9f49-8f8bf1c4c433.jpeg
+- >
+  4179f0ef-2585-49b8-8df2-55a57a9705c5.jpeg
+- >
+  c3d5a8fe-0e5f-445e-af84-870e3ab801d3.jpeg
+- >
+  b8324ea4-d7d9-4148-b143-0ceffbf1cf79.jpeg
+
+----
+
+Uuid: TfSn56LV2X29JDfa

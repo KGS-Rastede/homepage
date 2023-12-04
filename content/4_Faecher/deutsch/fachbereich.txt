@@ -1,0 +1,37 @@
+Title: Deutsch
+
+----
+
+Bezeichnung: Fachbereichsleiterin
+
+----
+
+Namefbl: Frau Wohltmann
+
+----
+
+Email: woh@kgs-rastede.eu
+
+----
+
+Text: 
+
+----
+
+Pages:
+
+- Faecher/deutsch/deutsch
+- >
+  Faecher/deutsch/deutsch-als-zweitsprache-daz
+
+----
+
+Symbolbild: - deutsch.jpg
+
+----
+
+Tags: Deutsch, DaZ
+
+----
+
+Uuid: S0cRhJwnUtJmuj2a

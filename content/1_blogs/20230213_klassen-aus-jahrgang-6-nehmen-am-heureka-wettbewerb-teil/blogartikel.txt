@@ -1,0 +1,33 @@
+Title: Klassen aus Jahrgang 6 nehmen am HEUREKA!-Wettbewerb teil
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Jedes Jahr im November findet bundesweit an vielen Schulen der Heureka!-Wettbewerb statt. Zitat von der Homepage: \u201eDer HEUREKA!-Wettbewerb ist ein Sch\u00fcler- und Schulwettbewerb f\u00fcr die Klassenstufen 3 bis 8. J\u00fcngere Sch\u00fcler<em>innen k\u00f6nnen gerne in der Wertungsklasse 3 teilnehmen, Sch\u00fcler<\/em>innen aus h\u00f6heren Klassenstufen k\u00f6nnen leider nicht teilnehmen. Es gibt zwei Teile des Wettbewerbs, an denen man unabh\u00e4ngig voneinander teilnehmen kann und die auch getrennt bewertet werden. Der erste Teil findet jeweils im ersten Schulhalbjahr statt und hat das Thema Mensch und Natur. Der zweite Teil im zweiten Schulhalbjahr stellt Fragen zum Thema Weltkunde.\u201c (<a href=\"http:\/\/www.inkas-berlin.de\/heureka_info.html\" rel=\"noopener noreferrer\">http:\/\/www.inkas-berlin.de\/heureka_info.html<\/a>) <\/p><p>Ausgehend vom Fachbereich Naturwissenschaften wollten wir in diesem Jahr die Teilnahme erproben, daher haben die Klassen 6A3, 6C2 und 6C3 an der Online-Version teilgenommen. Da alles technisch problemlos verlaufen ist und die Sch\u00fcler:innen gut mit den Aufgaben zurechtkamen und mit Spa\u00df dabei waren, m\u00f6chten wir die Teilnahme im kommenden Jahr ausweiten. Alle Sch\u00fcler:innen erhalten eine Urkunde und ein Teilnahmegeschenk, dar\u00fcber hinaus gibt es weitere Preise zu gewinnen. In diesem Jahr d\u00fcrfen wir neun Preistr\u00e4gerinnen und Preistr\u00e4gern gratulieren \u2013 herzlichen Gl\u00fcckwunsch! Einen Schulpreis (ersten, zweiten oder dritten Preis) haben gewonnen:<\/p>"},"id":"53e81224-d4ee-4d43-9fe1-d4982f037f48","isHidden":false,"type":"text"}],"id":"ff49e0e8-3f04-48fa-80ce-307f9794bac8","width":"1\/1"}],"id":"9699c607-bd69-440f-8f61-1b20408c19d5"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Jonas Meyer 1. Preis<\/li><li>S\u00f6nke M\u00fcller 1. Preis<\/li><li>Ferdinand Fugel 2. Preis<\/li><li>Eileen Wagner 3. Preis<\/li><li>Clemens Troja 3. Preis<\/li><li>Erik Hein 3. Preis<\/li><li>Janis Hassmann 3. Preis<\/li><li>Lena Lenzschau 3. Preis<\/li><li>Lotta Lorenz 3. Preis<\/li><\/ul>"},"id":"de8c8496-50d3-4dd2-84ef-26a27764562b","isHidden":false,"type":"list"}],"id":"a325fa9a-8714-4cb7-9eb5-a7496f062635","width":"1\/1"}],"id":"55bca567-4cb6-4ac4-abdf-506df51ad869"}]
+
+----
+
+Date: 2023-02-13 09:20:00
+
+----
+
+Datumstartseite: 2023-06-13 09:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: Chemie, Heureka, Wettbewerb
+
+----
+
+Downloads: 
+
+----
+
+Uuid: beI51BbRTfQ0vEX4

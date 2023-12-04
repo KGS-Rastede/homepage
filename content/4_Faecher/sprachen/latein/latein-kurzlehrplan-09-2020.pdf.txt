@@ -1,0 +1,13 @@
+Kurzbeschreibung: Lateinkurzlehrplan
+
+----
+
+Jahrgang: 6-11
+
+----
+
+Schulzweig: GZ
+
+----
+
+Template: lehrplandatei

@@ -1,0 +1,45 @@
+Title: Fachhochschulreife
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Bereits nach dem ersten Jahr der Qualifikationsphase kann unter bestimmten Voraussetzungen der schulische Teil der Fachhochschulreife erreicht werden, der dann zusammen mit dem praktischen Teil vielf\u00e4ltige Studienm\u00f6glichkeiten er\u00f6ffnet. Der praktische Teil kann ein einj\u00e4hriges berufsbezogenes Vollzeitpraktikum, ein FSJ, F\u00d6J usw., ein einj\u00e4hriger freiwilliger Wehrdienst oder eine abgeschlossene Berufsausbildung sein.<\/p><p>Weitere Informationen zu den notwendigen schulischen Voraussetzungen und den Anforderungen an das Praktikum befinden sich in den Dokumenten im Download-Bereich dieser Seite. In den Hinweisen zu den Praktikumsregelungen werden die Anforderungen f\u00fcr Sch\u00fclerinnen und Sch\u00fcler der gymasialen Oberstufe im Abschnitt 3 beschrieben.<\/p><p>Vor der Entscheidung f\u00fcr einen bestimmten Bereich oder ein bestimmtes Unternehmen sollte immer eine R\u00fccksprache mit der <a href=\"Oberstufenbuero\" rel=\"noopener noreferrer nofollow\">Oberstufenkoordination <\/a>erfolgen.<\/p>"},"id":"65f36988-1583-402b-a7bb-61085e02f26d","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- fh-schulisch-ab-2019.pdf
+- >
+  20161216_hinweisepraktikum_fhsr_gymn-obst.pdf
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: true
+
+----
+
+Uuid: CdPPABbYJsKEQzDl

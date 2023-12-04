@@ -1,0 +1,41 @@
+Title: Flüchtlinge - Menschenrechte sind unverhandelbar
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Im Rahmen der Bundestagswahl 2021 startet die Seebr\u00fccke eine Initiative. Sie fordert von den kandidierenden Parteien und Kandidat:innen ein Bekenntnis zu den Menschenrechten f\u00fcr gefl\u00fcchtete Menschen. Unsere AG \"F\u00fcr den Frieden\" unterst\u00fctzt die Kampagne der Seebr\u00fccke.<\/p>"},"id":"aa11248e-d433-41f9-b30c-08845709a455","isHidden":false,"type":"text"},{"content":{"karousel":["fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_12.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_14.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_10.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_13.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_08.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_11.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_07.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_09.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_05.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_04.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_06.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_01.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_03.jpg","fluechtlinge-menschenrechte-sind-unverhandelbar-juni-2021-schreibgeschuetzt-kompatibilitaetsmodus_02.jpg"]},"id":"6cb1af47-1fac-4893-a2f7-3f97187b63c8","isHidden":false,"type":"karousel"},{"content":{"images":["ag-plakate-2021-seebruecke-aktionstag-19.-20.-juni-2021_3.jpg","ag-plakate-2021-seebruecke-aktionstag-19.-20.-juni-2021_1.jpg","ag-plakate-2021-seebruecke-aktionstag-19.-20.-juni-2021_2.jpg"]},"id":"26389496-8379-4493-a2b8-4946494b8d37","isHidden":false,"type":"gallery"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-06-13 00:00:00
+
+----
+
+Datumstartseite: 2021-10-13 00:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: Courage, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: emUt82AKkaBBMi76

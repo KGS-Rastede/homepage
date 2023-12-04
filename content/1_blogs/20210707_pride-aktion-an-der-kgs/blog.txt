@@ -1,0 +1,47 @@
+Title: Pride-Aktion an der KGS
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Am 05.07.21 fing die Pride-Aktion der Sch\u00fcler:inneninitiative LGBTQ+ an. Sie hingen verschiedene Pride Fahnen mitsamt Erl\u00e4uterungen zu diesen im Forum auf und stellten die Herkunft der LGBTQ+ Bewegung auf Plakaten an den Stellw\u00e4nden dar.<\/p><p>Wusstet ihr, dass Christopher Street Days (CSDs) als Aufst\u00e4nde begonnen haben? Vielen Menschen ist die Herkunft der Pride-Paraden unbekannt, obwohl die LGBTQ+ Bewegung von gro\u00dfer Bedeutung f\u00fcr die Menschenrechte, wie wir sie heute kennen, ist.<\/p>"},"id":"89082c74-6d60-45f2-b70f-2e247a371842","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["2021-07-07_07h26_29.png"],"src":"","alt":"Informationen zur Pride-Aktion","caption":"","link":"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/pride-aktion-an-der-kgs\/9d3771e4a7-1625635724\/pride-aktion-plakate.pdf","ratio":"","crop":"true"},"id":"f633f2e8-0b3f-46dd-a958-2e1373f45a0b","isHidden":false,"type":"image"}]
+
+----
+
+Gallery:
+
+- pride5.jpeg
+- pride4.jpeg
+- pride3.jpeg
+- pride2.jpeg
+- pride1.jpeg
+
+----
+
+Date: 2021-07-07 00:00:00
+
+----
+
+Datumstartseite: 2021-11-07 00:00:00
+
+----
+
+Author: Schüler:inneninitiative LGBTQ+
+
+----
+
+Tags: LGBTQ+, Pridemonth
+
+----
+
+Downloads: - pride-aktion-plakate.pdf
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Uuid: ihIwTgGBg7zHnsAX

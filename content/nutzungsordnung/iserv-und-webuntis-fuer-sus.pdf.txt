@@ -1,0 +1,13 @@
+Anzeigename: Einrichtung der WebUntis-App über IServ
+
+----
+
+Beschreibung: Hier wird beschreiben, wie du die WebUntis-App auf deinem Handy oder  Tablet so einrichtest, dass dir dort deinen Stundenplan angezeigt wird.
+
+----
+
+Uuid: u2x4ecv4wRnrkHDR
+
+----
+
+Template: datei

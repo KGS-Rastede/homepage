@@ -1,0 +1,130 @@
+title: Blogeintrag
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 📖
+
+options:
+  update:
+    blogger: true
+    admin: true
+  changeTitle:
+    blogger: true
+    admin: true
+  changeStatus:
+    blogger: true
+    admin: true
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          text:
+            type: layout
+            layouts:
+              - "1/1"
+              - "1/2, 1/2"
+            fieldsets:
+              - heading
+              - text
+              - list
+              - image
+              - gallery
+              - video
+              - local-video
+              - code
+              - markdown
+              - audio
+              - horizontale-linie
+              - tabelle
+              - gastautor
+              - highlightfeld
+              - quote
+              - karousel
+              - accordion
+              - button
+              - reiseroute-simple
+              - lesensieauch
+  sidebar:
+    width: 1/3
+    sticky: true
+    sections:
+      meta:
+        meta:
+        type: fields
+        fields:
+          date:
+            label: Veröffentlicht am
+            type: date
+            display: D. MMMM YYYY
+            time: true
+            default: now
+          datumStartseite:
+            label: Aus Startseite bis zum...
+            type: date
+            display: D. MMMM YYYY
+            time: true
+            default: now + 4 month
+            help: Wenn hier kein Datum steht wird dieser Artikel nicht auf der Startseite angezeigt.
+          toggleStartseite:
+            label: Auf Startseite verstecken?
+            help: Wenn aktiv wird der Artikel niemals auf der Startseite angezeigt
+            type: toggle
+            text:
+              - "Nein"
+              - "Ja"
+            default: false
+          author:
+            type: text
+            label: Name des Autors
+            help: Was hier steht taucht 1:1 im Artikel als Name auf
+          tags:
+            label: Kategorie
+            type: tags
+            help: Bitte nach Möglichkeit die Vorschläge übernehmen und keine eigenen Tags erfinden
+            options:
+              - Biologie
+              - Chemie
+              - Physik
+              - Sport
+              - Mathematik
+              - Englisch
+              - Spanisch
+              - Französisch
+              - Latein
+              - Erdkunde
+              - Deutsch
+              - Religion
+              - Musik
+              - WuN
+              - PoWi
+              - Technik
+              - Hauswirtschaft
+              - Kunst
+              - Darstellendes Spiel
+              - Informatik
+              - Schulleitung
+              - Schülerfirmen
+              - SV
+              - AGs
+              - SSD
+              - Austausch
+              - Wettbewerb
+              - Topartikel
+              - Für den Frieden
+              - Courage
+              - AWT
+              - SoWi
+              - NTW
+              - Fremdsprachen
+              - Projektwoche
+
+          line1:
+            type: line
+
+          downloads:
+            label: Zugehörige Dateien
+            help: Hier können beliebige Dateien für den Download bereitgestellt werden
+            type: files
+            uploads: datei

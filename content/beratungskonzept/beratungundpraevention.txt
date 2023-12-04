@@ -1,0 +1,16 @@
+Title: Unterstützung & Beratung
+
+----
+
+Beratungstyp: [{"content":{"name":"Beratungs- und Pr\u00e4ventionskonzept","kurzbeschreibung":"","unterseite":["page:\/\/3zYMNa8qpkixLYsj","page:\/\/WpczVvFDiKXeLJlT","page:\/\/hKQq8Lqbdq9WCPVK","page:\/\/vNX9RdwnoWItAtdM","page:\/\/vhOGHh8FRfZevXN0"],"bild":["file:\/\/A4j91w9qjsk3J0Pj"],"icon":""},"id":"4d9a811c-dab2-43be-941c-53439502b6a8","isHidden":false,"type":"beratungstyp"},{"content":{"name":"Du brauchst Hilfe? Beratung und Unterst\u00fctzung an der KGS","kurzbeschreibung":"","unterseite":["page:\/\/CgfkqPRjGk3Bhnv5","page:\/\/fMINwIEKTcwFhkMc","page:\/\/4P76SqzhmD1qonRY","page:\/\/YIfoLo3TAry0z1vS"],"bild":["file:\/\/MtlmPhAqcEO4EJDb"],"icon":""},"id":"60ca08c9-17b0-495b-aec3-c9e6585e88e6","isHidden":false,"type":"beratungstyp"},{"content":{"name":"Inklusion","kurzbeschreibung":"","unterseite":["page:\/\/DyCJQXvtMnV9tYD5"],"bild":["file:\/\/Y3RI2R8lvCPeZw5d"],"icon":""},"id":"0d2e0ecd-cd38-4fa2-b933-e3030680f5e8","isHidden":false,"type":"beratungstyp"},{"content":{"name":"Sch\u00fcler:innen f\u00fcr Sch\u00fcler:innen","kurzbeschreibung":"<p>Wir machen uns f\u00fcr euch stark!<\/p>","unterseite":["page:\/\/bSp5sUOo62vU1QZC","page:\/\/FIuN1VaOLkCAzCQA","page:\/\/B8UjTtJbQzQj9e0h","page:\/\/0nniJamEAg0SJcaH","page:\/\/doUyUBJCK02dLrId","page:\/\/Vx9yK4McvhSQeBqB","page:\/\/uQRuI6KFHzeaQxRW","page:\/\/Guvb9jqXSPHjJYVc"],"bild":["file:\/\/xP5f9bZH24H5AaiL"],"icon":""},"id":"9d904ac7-9bbc-4fe0-92ce-31f874c804f6","isHidden":false,"type":"beratungstyp"},{"content":{"name":"F\u00f6rderunterricht und Hausaufgabenbetreuung","kurzbeschreibung":"","unterseite":["page:\/\/Cy0KGJZAOw2TAmXQ","page:\/\/mEam0Oo2JTEggq5f","page:\/\/syQF7dczJ5Qf3roa"],"bild":["file:\/\/4iNWx5otS5pcXm5R"],"icon":""},"id":"75456524-5fb7-4d76-b1d6-29bbc5b82d9b","isHidden":false,"type":"beratungstyp"},{"content":{"name":"Deutsch als Zweitsprache (DaZ)","kurzbeschreibung":"","unterseite":["page:\/\/cMFZIob2MusgEPt8"],"bild":["file:\/\/PeHbV5HrMMZkmP0O"],"icon":""},"id":"9cc85f5f-476b-40ca-a0ba-23b6bdf4afee","isHidden":false,"type":"beratungstyp"},{"content":{"name":"Projekte gegen Sucht und Drogen","kurzbeschreibung":"","unterseite":["page:\/\/J19rfUbV1D8nGZxW","page:\/\/0dgEg20FMUFm18RZ","page:\/\/AasgR98NxColRngM","page:\/\/YIfoLo3TAry0z1vS"],"bild":["file:\/\/xdVFGtcEs2AOtcYw"],"icon":""},"id":"8f80c1c3-deef-41d2-87a1-b0ea4afa5b0f","isHidden":false,"type":"beratungstyp"},{"content":{"name":"Berufliche Orientierung","kurzbeschreibung":"","unterseite":["page:\/\/WmBuvtXUaiQj7R4J","page:\/\/doUyUBJCK02dLrId","page:\/\/QPXq12DxrIbJuTyX","page:\/\/hKQq8Lqbdq9WCPVK"],"bild":["file:\/\/TZ6ZunqgrGr4D3wO"],"icon":""},"id":"f0f3ae3a-e6a5-4448-8c8a-699fe70cf03c","isHidden":false,"type":"beratungstyp"}]
+
+----
+
+Files:
+
+- awt.jpg
+- deutsch.jpg
+
+----
+
+Uuid: Z7zH7x8Spw00TbNj

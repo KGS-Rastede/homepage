@@ -1,0 +1,23 @@
+Title: Imkerei
+
+----
+
+Heading: Mehr als nur Honig
+
+----
+
+Beschreibung: [{"content":{"text":"<p>Hoffentlich ist es mittlerweile bei jedem angekommen: Die Honigbiene ist zum \u00dcberleben auf den Menschen angewiesen und unverzichtbar f\u00fcr unser Leben auf dieser Erde. Ohne die Hilfe des Menschen ist die Honigbiene nicht in der Lage zu \u00fcberleben und w\u00fcrde letztendlich aussterben. Mit unserer Sch\u00fclerfirma leisten wir einen erheblichen Beitrag zur Nachhaltigkeit und zum Umweltschutz.<\/p>"},"id":"68118d1f-3cb4-4836-8546-90578ca15e82","isHidden":false,"type":"text"},{"content":{"text":"<p>Unsere Sch\u00fclerfirma Imkerei versetzt dich in die Lage eigenst\u00e4ndig Bienenv\u00f6lker zu halten und zu pflegen. Zu den Aufgaben unserer Firma geh\u00f6ren die Vermittlung umfangreicher Imkereikenntnisse. Bei uns setzt du dich mit der Biologie der Honigbiene und dem imkerlichen Fachwissen auseinander. Hierzu geh\u00f6rt es einen Blick f\u00fcr das Bienenvolk zu entwickeln. Es muss die Gesundheit eines jeden Volkes beurteilt und Krankheiten erkannt werden. Im Anschluss solltest du in der Lage sein angemessen zu handeln. Die Varroamilbe mit ihren unterschiedlichen Bek\u00e4mpfungsm\u00f6glichkeiten spielt hier sicher die gr\u00f6\u00dfte Rolle, aber auch Krankheiten wie Nosema wirst du kennenlernen. Nur so halten wir unsere Bienen gesund.<\/p>"},"id":"7781c803-368c-43ee-8126-39322d20a67e","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Imkern ist in jedem Jahr anderes, weil sich Bienenv\u00f6lker immer unterschiedlich entwickeln und verhalten. Dies f\u00fchrt auch immer wieder zu Problemen beispielweise mit der Gesundheit von V\u00f6lkern, der Entwicklung der Ableger oder der Menge des Nektars in den Honigzargen und der damit verbundenen Menge an Honig, die geerntet werden kann. Ihr \u00fcbt euch im Umgang mit diesen Problemen und entwickelt L\u00f6sungen im Team.<br>Wir werden Bienenv\u00f6lker vermehren, um den Bestand zu erhalten und Bienenk\u00f6niginnen z\u00fcchten. Zudem verkaufen wir V\u00f6lker, Ableger und K\u00f6niginnen an Imker in der Umgebung und arbeiten mit dem Imkerverein Rastede Ammerland zusammen.<\/p>"},"id":"854b8e9c-51de-47b8-b9c9-b79d8828ae32","isHidden":false,"type":"text"},{"content":{"text":"<p>Reinigungs- und Reparaturarbeiten fallen in der Imkerei st\u00e4ndig an. K\u00e4sten und R\u00e4hmchen m\u00fcssen gereinigt, repariert und gestrichen werden. Mittelw\u00e4nde in R\u00e4hmchen eingel\u00f6tet und K\u00e4sten mit R\u00e4hmchen best\u00fcckt werden. Auch f\u00fcr Imker in der Umgebung fallen diese Arbeiten an. Die Sch\u00fclerfirma Imkerei verbreitet Angebote zum Reparieren und Streichen von Bienenk\u00e4sten in den umliegenden Imkervereinen.<br>Materialien m\u00fcssen eingekauft und abgerechnet werden. Es werden die Wachsplatten f\u00fcr die V\u00f6lker und Kerzen selbst hergestellt und in unserer Firma zu Kerzen, Wachst\u00fcchern, Cremes und Seifen weiterverarbeitet. Eine mittlerweile gro\u00dfe Auswahl an Kerzengie\u00dfformen steht f\u00fcr die Produktion von Kerzen zur Verf\u00fcgung.<\/p>"},"id":"991c1d77-6599-4dc3-9921-b0a74c57d6ce","isHidden":false,"type":"text"},{"content":{"text":"<p>Einmal im Jahr findet unsere <strong>Honigernte <\/strong>statt: Von der Gewinnung des Honigs aus den V\u00f6lkern bis zur Vermarktung wirst du die Abl\u00e4ufe kennenlernen und selbst durchf\u00fchren.<br>Die Arbeit mit Kindern spielt in unserer Sch\u00fclerfirma eine wichtige Rolle. Wir besetzen die Schauk\u00e4sten unserer Schule mit kleinen Bienenv\u00f6lkern, damit andere Sch\u00fclerinnen und Sch\u00fcler die M\u00f6glichkeit haben auch einen Einblick in das Leben unserer Honigbienen zu bekommen. Immer wieder kommen Schulklassen von unserer und von anderen Schulen und besuchen uns und unsere Bienen. Wir arbeiten Angebote und Projekte aus, die wir mit diesen Kindern durchf\u00fchren k\u00f6nnen. Du erh\u00e4ltst die M\u00f6glichkeit mit anderen zusammen Gruppen anzuleiten und Sachverhalte zu erkl\u00e4ren.<\/p>"},"id":"b5e7d6b0-5e44-4f3f-97ee-fa64e2c8ee7d","isHidden":false,"type":"text"},{"content":{"text":"Die Imkerei ist nicht nur ein Hobby, sondern zum Gl\u00fcck auch immer noch ein Beruf. Das Entwickeln von dem Interesse an diesem Berufsfeld ist eine wichtige Aufgabe unserer Sch\u00fclerfirma."},"id":"c08a6a00-7e43-4f65-8720-582f5845ff53","isHidden":false,"type":"text"}]
+
+----
+
+Mailadresse: ree@kgs-rastede.de
+
+----
+
+Bild:
+
+- imker.jpg
+
+----
+
+Fotoansicht: gallery

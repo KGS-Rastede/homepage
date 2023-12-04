@@ -1,0 +1,41 @@
+Title: Erinnern an den Völkermord von Srebrenica
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Am 11. Juli 1995 besetzen bosnisch-serbische Milizen Srebrenica. Die muslimische Enklave in der Republika Srpska steht seit dem 16. M\u00e4rz 1993 unter dem Schutz der UNO. Nach der Eroberung deportieren die bosnisch-serbischen Einheiten am 12. Juli 1995 die Frauen und Kinder mit Bussen. Alle muslimischen M\u00e4nner m\u00fcssen in der Stadt bleiben. In den folgenden Tagen beginnen die bosnisch-serbischen Soldaten mit systematischen Erschie\u00dfungen. Dabei sterben ca. 8.000 Muslime. Die niederl\u00e4ndischen UN-Blauhelme unter dem Kommando von Tom Karremans sehen dem Massaker tatenlos zu.<\/p><p>Der V\u00f6lkermord von Srebrenica ist der schlimmste R\u00fcckfall in die Barbarei seit Ende des Zweiten Weltkriegs in Europa. Wir gedenken der Opfer des V\u00f6lkermordes.<\/p>"},"id":"3db26999-242a-41be-9722-1a24fd5e2300","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["kuf-sebrenica.png"],"src":"","alt":"Krieg und Frieden: Srebrenica","caption":"","link":"http:\/\/www.ag-fuer-den-frieden.de","ratio":"","crop":"false"},"id":"d4d348ab-5481-4127-ad22-453eb8dabd2e","isHidden":false,"type":"image"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-07-02 00:00:00
+
+----
+
+Datumstartseite: 2021-11-02 00:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: - krieg-und-frieden-srebrenica.pdf
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: unIEqELKTKCCE69G

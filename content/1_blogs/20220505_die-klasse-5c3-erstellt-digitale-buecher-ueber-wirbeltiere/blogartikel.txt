@@ -1,0 +1,29 @@
+Title: Die Klasse 5c3 erstellt digitale Bücher über Wirbeltiere
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Dass bereits 5.Kl\u00e4ssler selbstst\u00e4ndig mit unseren schulinternen Ipads ihre eigenen B\u00fccher schreiben k\u00f6nnen, hat die 5c3 im Biologieunterricht erfolgreich bewiesen. Zun\u00e4chst wurde die Klasse in Gruppen eingeteilt, in denen sie sich \u00fcber eine ihnen zugewiesene Wirbeltierklasse informieren und die wichtigsten Merkmale herausarbeiten sollten. Danach erfolgte eine kurze Einf\u00fchrung in die App <em>\"Bookcreator\"<\/em>. Schnell kam der Wunsch auf, dass jeder ein eigenes Buch erstellen darf. Da wir aber leider nicht 30 Ipads zur Verf\u00fcgung hatten, arbeiten einige zu zweit. Alle waren super motiviert und arbeiteten sehr konzentriert an ihrem ersten Buch. Innerhalb von ca. drei Doppelstunden kamen dabei sehr sch\u00f6ne erste Werke heraus.<\/p>"},"id":"3a365557-c93e-4b5d-8f0e-7c7b129ff789","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["bibliothek.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ac9cef70-702a-4a4f-8879-ab44f1fafaec","isHidden":false,"type":"image"},{"content":{"text":"<p>Antonia und Johanna schrieben ein Buch \u00fcber V\u00f6gel und erz\u00e4hlten dazu noch, wie man H\u00fchner richtig h\u00e4lt: <a href=\"https:\/\/read.bookcreator.com\/dXJ9gXHVs_s3vhBzDtB7Q778uFimT1zoulVkQjmWnjLehvtse66LpA\/5aSutHsdQTmEFd4Jpv0Dag\" rel=\"noopener noreferrer\">https:\/\/read.bookcreator.com\/dXJ9gXHVs_s3vhBzDtB7Q778uFimT1zoulVkQjmWnjLehvtse66LpA\/5aSutHsdQTmEFd4Jpv0Dag<\/a><\/p>"},"id":"a5bcbe40-67cf-4d6b-a3c9-c3fb425665bb","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["bild3.gif"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"685e0b62-7c62-4bc0-9fd8-760575df94fa","isHidden":false,"type":"image"}],"id":"ff3cd013-68c6-458b-b4e4-f86437b0520f","width":"1\/1"}],"id":"dcfed5ea-e900-4da8-8d49-f110d026b77d"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Fenja schrieb ein Buch \u00fcber den Feldhasen:<\/p><p><a href=\"https:\/\/read.bookcreator.com\/wxlInVKQESVTHeELcIbPxMH4geL2\/WlKb6McaSeG_nsv2hrqxUw\" rel=\"noopener noreferrer\">https:\/\/read.bookcreator.com\/wxlInVKQESVTHeELcIbPxMH4geL2\/WlKb6McaSeG_nsv2hrqxUw<\/a><\/p><p><\/p>"},"id":"b80c0229-27fb-4e0c-9c3c-544cb0864903","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["feldhase.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"c93fb02e-44f6-4f38-80d8-960f0ea0070b","isHidden":false,"type":"image"}],"id":"41fb71da-adea-4335-a7c5-9be35418fcd3","width":"1\/2"},{"blocks":[{"content":{"text":"<p>Paul recherchierte \u00fcber die Wanderung von Erdkr\u00f6ten: <a href=\"https:\/\/read.bookcreator.com\/g024C_gUa8rtOC5-BtZ1LHjVxctjTmBvUx7yCWfFbcrJdNkUojs5wg\/TAy7WwyKT1aU1KKONngJBw\" rel=\"noopener noreferrer\">https:\/\/read.bookcreator.com\/g024C_gUa8rtOC5-BtZ1LHjVxctjTmBvUx7yCWfFbcrJdNkUojs5wg\/TAy7WwyKT1aU1KKONngJBw<\/a><\/p>"},"id":"bb4250b7-470c-44f7-94fd-8ddf506e339c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["erdkroete.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"246bc187-2f23-4914-9192-c3d10061e386","isHidden":false,"type":"image"}],"id":"a35dc2ad-07c3-480e-b5f9-1bb72886e3be","width":"1\/2"}],"id":"0b0c57d4-4e41-44fe-879a-edd066318abc"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Und Mai An informierte sich \u00fcber Flederm\u00e4use und schrieb dazu ihr Buch mit dem Titel <em>\" Fliegende S\u00e4ugetiere- Die Fledermaus\".<\/em> <a href=\"https:\/\/read.bookcreator.com\/kTgyukPhiSkmoxd9ztN1ahbtpGrWHRtHSxj6NgMWsJ5rjSdxoaqjbA\/iBeuVe7jT7OxcPRxbZZ_xw\" rel=\"noopener noreferrer\">https:\/\/read.bookcreator.com\/kTgyukPhiSkmoxd9ztN1ahbtpGrWHRtHSxj6NgMWsJ5rjSdxoaqjbA\/iBeuVe7jT7OxcPRxbZZ_xw<\/a><\/p>"},"id":"ae8bcd6d-7a70-45c9-b41b-809784a0b8c9","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["mai-an.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"60623c70-d21a-4d7f-ad07-742a7db22802","isHidden":false,"type":"image"}],"id":"7334c5d9-4f68-4123-9dfd-34e6aea56ea8","width":"1\/1"},{"blocks":[],"id":"8bbbff52-ab72-494c-bccb-aa7b182e9c6d","width":"1\/3"},{"blocks":[],"id":"25feff1b-8134-444d-a2f8-47025608966b","width":"2\/3"}],"id":"16751dc4-1b47-421f-8006-315d77ce338b"}]
+
+----
+
+Date: 2022-05-05 16:30:00
+
+----
+
+Datumstartseite: 2022-09-05 16:30:00
+
+----
+
+Author: LRZ
+
+----
+
+Tags: Biologie
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ZsOPAKVJ43sZudnj

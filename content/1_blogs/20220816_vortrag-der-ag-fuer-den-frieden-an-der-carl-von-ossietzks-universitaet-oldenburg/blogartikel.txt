@@ -1,0 +1,33 @@
+Title: Vortrag der AG „Für den Frieden“ an der Carl von Ossietzks – Universität Oldenburg
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Auf Einladung des Dozenten Nikolaj Schulte-W\u00f6rmann hielt die AG \u201eF\u00fcr den Frieden\u201c am 29. Juni 2022 einen Vortrag in der Carl von Ossietzky \u2013 Universit\u00e4t Oldenburg. Im Rahmen der Vorlesung \u201eEinf\u00fchrung in die Politische Bildung\u201c stellten Veronika Dinter, Tjada Kulawik und Liv Lubach die Theorie und Praxis der AG \u201eF\u00fcr den Frieden\u201c als gelungenes Beispiel einer emanzipatorischen Politischen Bildung dar. Im Anschluss diskutierten die drei Abiturientinnen und Lehrer Michael Luttmer mit den Student*innen \u00fcber M\u00f6glichkeiten, als politische Initiative innerhalb der Institution Schule die politische Partizipation junger Menschen und die Demokratisierungs der Gesellschaft zu intensivieren.<\/p>"},"id":"b56a78dc-0cbf-4a52-bc52-6d969e413330","isHidden":false,"type":"text"}],"id":"1d18e444-5119-4884-a962-7b8ec5588d1f","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["parole.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0a215730-7add-49cc-8ea1-721ba54795ff","isHidden":false,"type":"image"}],"id":"ce374529-f0a1-4b4a-8ac2-9d93677e0f13","width":"1\/2"}],"id":"09283439-6083-40e6-850d-68d62aa2d5a9"}]
+
+----
+
+Date: 2022-08-16 09:40:00
+
+----
+
+Datumstartseite: 2022-12-16 09:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden, Uni Oldenburg
+
+----
+
+Downloads: 
+
+----
+
+Uuid: DTibkXW9QXZ28Vas

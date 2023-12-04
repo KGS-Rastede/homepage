@@ -1,0 +1,41 @@
+Title: Herausforderungsprojekt
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"location":"kirby","image":["file://6satbGWVo4H86rT6"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true","orientation":"mitte"},"id":"0d8a758b-b39e-4786-80dc-ee6258f086d6","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Aktuell"},"id":"b0c93b41-5294-4848-b16d-4ad89fb1d297","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das Herausforderungsprojekt 2023 ist gestartet! Am 24. Januar gab es für alle Schülerinnen und Schüler des 8. Jahrgangs eine Auftaktveranstaltung in der Mehrzweckhalle und am Abend wurden den Eltern in einer Videokonferenz das Projekt vorgestellt.</p>"},"id":"88d1bf9c-ea81-4775-af34-5c4f52290a46","isHidden":false,"type":"text"},{"content":{"images":["file://obeZvy9m9aVXbvKu","file://PvBHyOMLPAcj5laD","file://n3gXnMruyY5WClsZ","file://dpcV6rJgiqZVJkrB","file://GTtjfzZxBI6JRsk5","file://iP38xNyl8MVLI4DQ"],"caption":"","ratio":"","crop":"false"},"id":"06b150a8-674a-45fe-9c87-f8e0b45fe346","isHidden":false,"type":"gallery"},{"content":[],"id":"238488c1-00e0-4872-82a7-235642bafc3f","isHidden":false,"type":"line"},{"content":{"level":"h2","text":"<br>Zeitplan"},"id":"362b50ef-900c-41a1-b69b-1c1cbf3aea85","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["file://VMEtNyGM5KpLwgFe"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"d91911d3-7a46-4e97-a7cc-4d0a2426c03a","isHidden":false,"type":"image"},{"content":[],"id":"1a2bf3d5-0fea-4d36-8d11-a5cbea4d6436","isHidden":false,"type":"line"},{"content":{"level":"h2","text":"Konzept"},"id":"7a6f811b-5bef-46bf-96aa-00fae79e320c","isHidden":false,"type":"heading"},{"content":{"text":"<em>Ein Gramm Erfahrung ist besser als eine Tonne Theorie […]</em>","citation":"<em>Dewey 1930</em>"},"id":"b6e25f08-11b3-47aa-8023-4163ae8a0133","isHidden":false,"type":"quote"},{"content":{"text":"<p>Das Projekt „Herausforderung“ ist ein handlungs- und erlebnisorientiertes Projektkonzept, das sich aktuell im deutschen Schulsystem verbreitet. Jugendliche der Klassenstufen 8 bekommen die Gelegenheit, sich eine selbstbestimmte, außerschulische Herausforderung zu suchen und im Rahmen einer zeitlich begrenzten schulischen Auszeit (i.d.R. zwei bis drei Wochen) eigenständig umzusetzen. Bei den Herausforderungen, die in erster Linie von Studierenden begleitet werden, handelt es sich um sportliche, künstlerische oder soziale Aktivitäten, die sich an den Nachhaltigkeitszielen der UN orientieren. </p>"},"id":"4a0840c5-ea97-4965-9acc-41ce7b6e8cb2","isHidden":false,"type":"text"},{"content":{"images":["file://o86XfRwweBv7zDc6","file://UMrTIVZLRgdqHIT3","file://VCG7Vg2Bmv6JlOth"],"caption":"","ratio":"4/3","crop":"true"},"id":"515a9f1a-ee89-4097-a29e-87fc56a28e10","isHidden":false,"type":"gallery"},{"content":{"text":"<p>Herausforderungen bieten den idealen Erfahrungsraum, in dem Schüler*innen Fähigkeiten für eine nicht vorhersehbare Zukunft entwickeln. Herausforderungsprojekte orientieren sich am Individuum und sind somit lebensnah, inklusiv und integrativ. Sie vernetzen Lerninhalte zukunftsorientiert mit der Lebens- und Arbeitswelt. Durch den emotionalen Charakter des Erfahrungslernens können Herausforderungsprojekte in vielen Bereichen nachhaltig Wirkung erzielen. </p><p>An der KGS Rastede startet das Projekt „Herausforderung“ im Januar auf freiwilliger Basis für den 8. Jahrgang. Die teilnehmenden Schüler*innen haben ein halbes Jahr Zeit, ihre Herausforderung zu planen, bevor sie zum Ende des Schuljahrs vor den Sommerferien für 14 Tage die Schule verlassen, frei nach dem Motto: „Raus aus der Komfortzone“ zum „Lernen mit Kopf, Herz und Hand“. </p>"},"id":"261247ed-fbbe-49fe-8171-97e16aa1a4c8","isHidden":false,"type":"text"},{"content":{"images":["file://GcYDwwpGbOSXilaz","file://NbnSu1LInaehgvjZ","file://2SrRXxfugDhhPIXW"],"caption":"","ratio":"4/3","crop":"true"},"id":"a6aa3a47-b4b9-41a9-b2e4-d4b0f23ddd29","isHidden":false,"type":"gallery"},{"content":{"text":"<p>Das Team des Herausforderungsprojekts besteht aus Lehrerinnen sowie unseren beiden Kooperationspartnern. Die Initiative „Herausforderung einfach machen“, bildet uns beständig fort und unterstützt uns bei der Etablierung des Projekts an unserer Schule. Die Universität Oldenburg berät uns und schafft Kontakte zu Studierenden, die die Herausforderungen unserer Schülerinnen begleiten. </p>"},"id":"a0ed2c07-96cc-4078-869d-f2aa7706a512","isHidden":false,"type":"text"},{"content":{"text":"<p>Weiterführende Fragen beantworten wir gerne unter: <br><u><a href=\"mailto:projekt.herausforderung@kgs-rastede.eu\">projekt.herausforderung@kgs-rastede.eu</a></u></p>"},"id":"77ef2d19-cc17-41a2-915a-185d7170d01e","isHidden":false,"type":"text"},{"content":{"text":"<p>Hier verweisen wir auf die Seite unserer Kooperationspartnerschaft:<br><a href=\"https://www.herausforderung.eu/\" rel=\"noopener noreferrer\">https://www.herausforderung.eu/</a><br><a href=\"https://uol.de/fs-lehramt/kreidestaub-initiative\" rel=\"noopener noreferrer\">https://uol.de/fs-lehramt/kreidestaub-initiative</a></p>"},"id":"e770481b-d150-4b0c-a300-e11c2ee15ef8","isHidden":false,"type":"text"},{"content":{"text":"<p>Außerdem interessant:<br><a href=\"https://deutsches-schulportal.de/stimmen/projekt-herausforderung-eine-innovative-idee-macht-schule/\" rel=\"noopener noreferrer\">https://deutsches-schulportal.de/stimmen/projekt-herausforderung-eine-innovative-idee-macht-schule</a></p>"},"id":"16dd10ac-f531-4c7a-8f0a-9f633f77f6dc","isHidden":false,"type":"text"},{"content":[],"id":"939413b8-cecb-4808-8d69-7d1f647fdb3f","isHidden":false,"type":"line"},{"content":{"level":"h2","text":"Archiv"},"id":"6434e41c-4638-4d3f-9934-5e69acfd9215","isHidden":false,"type":"heading"},{"content":{"text":"<p>Hier unten in den Berichten kann man sehen, wie das Projekt im vergangenen Jahr lief.</p>"},"id":"69bbd883-3890-4523-8d82-516080aa35e3","isHidden":false,"type":"text"}]
+
+----
+
+Downloadtitel: Downloads
+
+----
+
+Downloads: - file://Z7me697iGwpBrFlB
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: false
+
+----
+
+Uuid: hKQq8Lqbdq9WCPVK

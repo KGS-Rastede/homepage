@@ -1,0 +1,29 @@
+Title: Wir sammeln Spenden für die Menschen in der Ukraine
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 24. Februar 2022 greift Russland die Ukraine an. Diese milit\u00e4rische Aggression zerst\u00f6rt das Zuhause der Menschen und raubt ihnen ihre Existenzgrundlage. Aus Angst um ihr Leben fliehen Hunderttausende Menschen aus ihrer Heimat. Ihnen allen mangelt es an s\u00e4mtlichen Lebensnotwendigkeiten.<br>\u201ePutins Panzer bringen kein Wasser. Putins Panzer bringen definitiv keinen Frieden. Putins Panzer bringen keine Lebensmittel und auch keine S\u00e4uglings-nahrung. Sondern Putins Panzer bringen allen Leid und Zerst\u00f6rung.\u201c (Bundesau\u00dfenministerin Annalena Baerbock)<br>Mit unserer Spendensammlung vom 9. bis 11. M\u00e4rz 2022 m\u00f6chten wir die Menschen in der Ukraine unterst\u00fctzen. Jede Spende hilft, Menschenleben zu retten und das Leid zu lindern.<\/p><p><\/p>"},"id":"b1b6df4a-20f1-448f-8d49-c7ab03ac6224","isHidden":false,"type":"text"}],"id":"f378f4d6-c784-4451-9a86-480e858fbd53","width":"1\/1"}],"id":"6f6516ab-08c6-4c28-9ec5-f27ca8319f87"},{"attrs":[],"columns":[{"blocks":[{"content":{"karousel":["img_2892.jpg","img_2909.jpg","img_2903.jpg","img_2910.jpg","img_2906.jpg"]},"id":"84b2226c-62dc-44fc-9440-81a2770c2c38","isHidden":false,"type":"karousel"}],"id":"4798d4c3-8e2b-4c37-93b7-6cb6a362092d","width":"1\/1"}],"id":"58b1e7ae-9a56-4eb4-b822-fd1e22520580"}]
+
+----
+
+Date: 2022-03-07 08:05:00
+
+----
+
+Datumstartseite: 2022-08-01 08:05:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden, Ukraine
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 9mPC4pX7NFU99dKI

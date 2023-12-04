@@ -1,0 +1,48 @@
+Title: Übergang von der Grundschule
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Liebe Schülerinnen und Schüler, liebe Eltern,</p><p>wir begrüßen Euch und Sie ganz herzlich an der KGS Rastede und freuen uns über Euer und Ihr Interesse an unserer Schule.</p><p>In dem Kasten finden Sie Informationen zu den einzelnen Schulzweigen sowie zum Aufnahmeverfahren.</p><p>Bei weiteren Fragen zum Übergang von der Grundschule zur KGS steht Ihnen Frau Ildiz (<a href=\"mailto:id@kgs-rastede.de\">id@kgs-rastede.de</a>) als Leiterin der 5. und 6. Klasse im Gebäude der Feldbreite sehr gerne zur Verfügung.</p>"},"id":"41cefe3b-da47-4d51-9205-4dcb8ed6af6d","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Infopräsentation"},"id":"5bd8ac79-5085-4d48-9eb8-d08e72c21582","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["file://U54BUoYk7L5uswIs"],"src":"","alt":"","caption":"Klicken Sie auf das Bild, um die Präsentation zu sehen","link":"https://kgs-rastede.de/media/pages/schule/grundschule/6d90890724-1678103277/kgs-info4-2022-2023_28-11-22.homepage.pdf","ratio":"","crop":"false","orientation":""},"id":"34fad9d8-af48-43c6-b000-de23f1ad4ac0","isHidden":false,"type":"image"},{"content":{"url":"https://vimeo.com/536345805","caption":""},"id":"31e6b925-455e-40f1-8c9f-c6f25d99b8f1","isHidden":false,"type":"video"},{"content":{"url":"https://youtu.be/HjNVrQBXlTI","caption":""},"id":"53ab47f8-41ec-4b02-84a2-b1f8850b81de","isHidden":false,"type":"video"},{"content":{"url":"https://youtu.be/a_eNSoSqp5k","caption":""},"id":"2c2bd87d-a246-4f46-8abd-4a2e5c90eb08","isHidden":false,"type":"video"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related:
+
+- page://5LDQp40FJhnc9AZK
+- page://0TB54eJXLtWXz89C
+- page://ZzozLPkxZWeFF3Bi
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- file://LepbKInW9CJ6G2t0
+- file://jE1PedXDyrHYWULc
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: false
+
+----
+
+Uuid: FsXZSF81gmA8vf4k

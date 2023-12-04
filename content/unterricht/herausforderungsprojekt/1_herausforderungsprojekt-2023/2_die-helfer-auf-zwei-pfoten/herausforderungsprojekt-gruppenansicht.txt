@@ -1,0 +1,38 @@
+Title: Die Helfer auf zwei Pfoten
+
+----
+
+Kurzname: Die Helfer auf zwei Pfoten
+
+----
+
+Teamlogo: - file://fLjhv4ysYb4aUw1T
+
+----
+
+Teamfarbe: bs-teamfarbe5
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wir möchten in Tierheimen helfen."},"id":"a8878bb0-1d01-4c8e-b870-1402aca8d311","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://AIznX6m4A0BDhGum
+- file://hBnOHivLUCFtvzEs
+- file://Jf3LWCsdJHktFpgL
+- file://iDasqsXDWaZe5voV
+- file://wcWGxTVkBN8PMo5n
+- file://roxIxvmPGDYFtyMq
+- file://g25UruX3glR6BBOE
+- file://4QL3uV2EpEErrUby
+- file://VErPxmUGMRkrR5HI
+- file://xChj1frZXOPtFRQF
+- file://j7itA0xHyLsKRp4o
+- file://YkmCfGCTV1lC13jl
+
+----
+
+Uuid: KiOHfDNzv3IZzsyX

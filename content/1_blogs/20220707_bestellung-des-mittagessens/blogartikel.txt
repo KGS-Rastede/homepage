@@ -1,0 +1,29 @@
+Title: Bestellung des Mittagessens
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Mit Beginn des neuen Schuljahrs, 22\/23, haben wir eine neue Firma, die sich um die Essensbestellung f\u00fcr das Mittagessen sowie den Zahlungsverkehr k\u00fcmmert. Dazu ist es erforderlich, dass wir das Guthaben, das m\u00f6glicherweise aktuell noch vorhanden ist, im Laufe der Sommerferien zur\u00fcck\u00fcberweisen.<\/p><p>In K\u00fcrze findet man hier Informationen \u00fcber das neue System. Der bisherige Chip ist dann nicht mehr erforderlich, da die Anmeldung \u00fcber das Internet mit eigenem Passwort erfolgt. Den Chip kann man behalten oder zwecks L\u00f6schung der Daten an die Schule zur\u00fcckgeben. Pfand ist keines darauf, die damals gezahlten 5 \u20ac waren die Nutzungsgeb\u00fchr f\u00fcr das damalige System .<\/p>"},"id":"1622f2fc-faa7-4ed4-a062-70d5a0235260","isHidden":false,"type":"text"}],"id":"d29835b6-6c23-4f1a-b839-89691f1ee69a","width":"1\/1"}],"id":"d84d535a-bd19-4b5a-b9f2-f158bb71d715"}]
+
+----
+
+Date: 2022-07-07 15:00:00
+
+----
+
+Datumstartseite: 2022-11-07 15:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Topartikel, Mittagessen
+
+----
+
+Downloads: 

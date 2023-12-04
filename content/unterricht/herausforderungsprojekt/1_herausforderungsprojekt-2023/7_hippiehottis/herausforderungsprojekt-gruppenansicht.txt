@@ -1,0 +1,37 @@
+Title: Hippiehottis
+
+----
+
+Kurzname: Hippiehottis
+
+----
+
+Teamlogo: - file://wb0VsBNqpToxrzzj
+
+----
+
+Teamfarbe: bs-teamfarbe7
+
+----
+
+Text: [{"content":{"level":"h2","text":"Ziel: Auf Höfen in der Nähe von OL arbeiten, ev. beim Nabu arbeiten."},"id":"f3351fff-0d54-4d26-b309-242e007ae13e","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://QVAhf4tIQzMa2YJf
+- file://uHlnEx4m5l2bdSRS
+- file://97hBAVCmzemC3F4p
+- file://us4VhpX3wmijN8TK
+- file://bQhEsN8lj6tckC65
+- file://vS7QISEdufWXGjiQ
+- file://MJRdf7F8EfYDFsnW
+- file://Kr3CBJAFpVIU8CuX
+- file://0Ueu5d7v1aP1EMCR
+- file://nAXdVlpJRCNod6uK
+- file://QRcmphL37qjhaOLq
+
+----
+
+Uuid: I0fvEtMszkLA5NBX

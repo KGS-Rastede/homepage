@@ -1,0 +1,33 @@
+Title: Mathe Olympiade 2023
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Es geht wieder los!"},"id":"c5c7e777-243a-47e8-9aac-f3a972a6f660","isHidden":false,"type":"heading"}],"id":"9a485078-5cd0-4b65-b4ef-b8e1c39cde21","width":"1/1"}],"id":"76f9ced5-5f09-4873-a29b-2558eb03035a"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Knapp 20 der talentiertesten Schüler:innen der KGS tüftelten jeweils an 4 kniffligen Mathe-Aufgaben. Wir drücken die Daumen, dass möglichst viele ein Ticket für die Landesrunde im Februar in Göttingen bekommen!</p>"},"id":"3183a16d-00f9-43d9-8dcd-83665b5c93ee","isHidden":false,"type":"text"}],"id":"c2109f4d-361a-4ea0-bcf6-3ad3ef15b95d","width":"1/1"}],"id":"ef21750c-0908-42eb-8fd4-9bdeaa53ccb0"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://dgFArZLzg1mbPKLU"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"d1766edb-ed17-45e4-a5d9-5e63725dc7a9","isHidden":false,"type":"image"}],"id":"9119d4b0-0e83-41b1-91a7-d31631903e80","width":"1/1"}],"id":"c76a2898-c42c-4577-b04c-27c4247b53da"}]
+
+----
+
+Date: 2023-11-17 11:30:00
+
+----
+
+Datumstartseite: 2024-03-17 11:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Gerd Breuker
+
+----
+
+Tags: Mathematik
+
+----
+
+Downloads: 
+
+----
+
+Uuid: qO943wE2nMd2qxDC

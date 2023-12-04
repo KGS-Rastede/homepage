@@ -1,0 +1,10 @@
+# /site/blueprints/blocks/audio.yml
+name: PDF-Datei
+icon: file-pdf
+label: "{{ name }} - {{ creator }}"
+fields:
+  pdfdatei:
+    type: files
+    max: 1
+  beschriftung:
+    type: text

@@ -1,0 +1,9 @@
+Title: Fachbereichsleitung
+
+----
+
+Text: Die Fachbereichsleitungen stehen einem oder mehreren Fächern vor und koordinieren diese.
+
+----
+
+Uuid: MdNd7iz8FCMpn2jG

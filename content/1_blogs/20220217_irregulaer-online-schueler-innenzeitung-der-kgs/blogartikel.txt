@@ -1,0 +1,29 @@
+Title: IRREGULäR – Online-Schüler_innenzeitung der KGS
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>IRREGUL\u00e4R \u2013 Online-Sch\u00fcler*innenzeitung der KGS<br><br>Die neue Ausgabe von IRREGUL\u00e4R ist online. Dieses Mal erwarten euch 3 Redaktionen und 7 h\u00f6chst interessante Themen.<\/p><p><br>Und das ist das Neuste vom Neusten:<\/p>"},"id":"d612ba55-dc15-4a63-a48d-9bebee74ab06","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Die Morgen Show - eine satirische Nachrichtensendung zum Thema \"Digitalisierung an Schulen\"<\/li><li>Fast Fashion und der Klimawandel - eine Reportage \u00fcber die Folgen des Modehypes<\/li><li>Gemeinschaftsgarten Nethen - ein Portr\u00e4t \u00fcber ein zukunftsweisendes Projekt in Rastede<\/li><li>Frau Ildiz im Interview - was ihr schon immer \u00fcber die Schulleiterin der Feldbreite wissen wolltet<\/li><li>Unser gr\u00fcnes Klassenzimmer - ein Bericht \u00fcber einen neuen Lieblingsplatz der KGS<\/li><li>Beim Sch\u00fcleraustausch die Welt entdecken - Sch\u00fcler*innen erz\u00e4hlen in Audios von ihren Erfahrungen in Neuseeland und den USA<\/li><li>Die verr\u00fccktesten Sportarten der Welt - diese Ideen k\u00f6nnen den Schulsport ver\u00e4ndern<\/li><\/ul>"},"id":"bb6b2309-b4e4-460e-ac65-ca10066e6c37","isHidden":false,"type":"list"},{"content":{"text":"<p>Das alles gibt es nur online auf <a href=\"https:\/\/www.schuelerzeitung.kgs-rastede.de\/\" rel=\"noopener noreferrer\">schuelerzeitung.kgs-rastede.de<\/a><br><br>Viel Spa\u00df beim Lesen, Schauen und H\u00f6ren w\u00fcnschen die Redakteur*innen von IRREGUL\u00e4R<\/p>"},"id":"1950b33a-11b2-4747-811e-5eb20a7bb871","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["irregulaer-2022.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"66a58a84-8edc-447b-8ad0-b528c83baf0c","isHidden":false,"type":"image"}],"id":"381ab127-8489-4b2c-9559-f0e4f87c482e","width":"1\/1"}],"id":"f55683e9-ac86-4cec-86b4-28f1766788d5"}]
+
+----
+
+Date: 2022-02-17 00:00:00
+
+----
+
+Datumstartseite: 2022-06-17 00:00:00
+
+----
+
+Author: Anja Szyltowski
+
+----
+
+Tags: IRREGULäR, Schüler:innenzeitung
+
+----
+
+Downloads: 
+
+----
+
+Uuid: lP2cL1lOm9ranFFV

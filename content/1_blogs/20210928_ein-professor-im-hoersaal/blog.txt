@@ -1,0 +1,41 @@
+Title: Ein Professor im Hörsaal!
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Das Klima \u00e4ndert sich! Das wei\u00df mittlerweile jede\/r. Aber dann fangen die Fragen ja erst an\u2026 Eine gro\u00dfartige Gelegenheit bot sich in der letzten Woche, einige dieser Fragen von kompetenter Seite beantwortet zu bekommen. Dort war u.a. Herr Prof. Quaschning, Professor f\u00fcr regenerative Energiesysteme an der HTW Berlin (und au\u00dferdem Mitgr\u00fcnder der <em>scientists for future<\/em>), in einem LIVE-Chat in die Klassenr\u00e4ume zugeschaltet. Teilgenommen an dieser Veranstaltung haben die WPB-Kurse Jg. 11 \u201eMobilit\u00e4t der Zukunft\u201c von Herrn Dr. Fach und Herrn Dr. L\u00fcschen. <\/p><p>Wir konnten unsere Fragen \u00fcber eine App eingeben und haben sie dann im Laufe der 90 Minuten tats\u00e4chlich auch fundiert beantwortet bekommen: Wie sind synthetische Kraftstoffe gegen\u00fcber Wasserstoff und Elektroantrieben zu bewerten? <em>(Eher schlecht)<\/em> Wie kann man in Zukunft umweltfreundlich Fliegen? <em>(Am besten gar nicht!)<\/em> Was f\u00fcr ein Auto f\u00e4hrt Herr Quaschning? <em>(Nat\u00fcrlich ein E-Auto! Am liebsten aber gar keines\u2026)<\/em> Ist die Kernenergie eine Alternative in Zukunft <em>(Nein!)<\/em>, was ist mit der Kernfusion? <em>(Dauert zu lange, bis sie marktreif ist\u2026)<\/em> Wie sind die Vorhaben der politischen Parteien zum Klimaschutz zu bewerten? <em>(Nach seiner Einsch\u00e4tzung alle (!) nicht ausreichend)<\/em> Und wie ernst ist es denn nun mit dem Klimawandel? Leider sehr, wie Herr Quaschning sehr eindrucksvoll erkl\u00e4ren konnte.<\/p>"},"id":"5602fd72-9d55-4917-b58e-853a44b1f2c5","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-09-28 00:00:00
+
+----
+
+Datumstartseite: 2022-01-28 00:00:00
+
+----
+
+Author: Dres. Martin Fach und Holger Lüschen
+
+----
+
+Tags: Chemie, Klimawandel
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: DSOhctR1YxOIyXz9

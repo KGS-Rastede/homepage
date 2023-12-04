@@ -1,0 +1,29 @@
+Title: Robo-Cup 2022
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Nach zwei Jahren Pandemiepause fanden vom 21.04. bis 24.04. endlich wieder die Robocup German Open statt. Neuer Austragungsort ist die Dokumentastadt Kassel. Und von der KGS nahmen Tomke Engelbart (5 B3), Julian Kollecker und Talea Garbe (6A3) sowie Joost M\u00f6nsters, Simon Kobler und Lukas Tardin da Silva (alle 10B3) teil.<\/p><p>Alle Teilnehmer:innen hatten sich im Vorfeld bei Turnieren an den einzelnen Schulen qualifiziert.<\/p><p>Der Aufenthalt in Kassel wurde direkt zu Beginn spannend, da das Hotel unsere Buchung \u201everloren\u201c hatte. Das f\u00fchrte bei den Lehrkr\u00e4ften zu gro\u00dfer Aufregung, da jetzt schnell Ersatz gefunden werden musste. Gl\u00fccklicherweise konnten wir im CVJM-Tagungshaus spontan unterkommen. Nach dem Einchecken ging es mit Tram und Bus in die Messehallen zur Anmeldung.<\/p><p>Insgesamt trafen sich beim Robocup in diesem Jahr 525 Sch\u00fclerinnen und Sch\u00fcler aus ganz Deutschland, um sich mit ihren Robotern in verschiedenen Disziplinen zu messen. Unsere Teams nahmen in den Disziplinen Rescue Line Entry (Linien folgen) und Rescue Maze Entry (Weg durch ein Labyrinth finden) teil. Vor und nach jedem Lauf wurden die Roboter mit viel Engagement weiter optimiert und umgebaut sowie die Programme verfeinert. Trotz vieler Verbesserungen und der tollen Leistung der Sch\u00fclerinnen und Sch\u00fcler schl\u00e4gt aber doch ab und zu das Schicksal zu und der Roboter verliert mitten im Lauf ein Rad oder ein Motor versagt aus unerkl\u00e4rlichen Gr\u00fcnden. Das passiert allerdings bei fast allen Teams. Insgesamt war die Konkurrenz sehr stark, sodass wir es nicht unter die drei ersten Pl\u00e4tze schafften. Trotzdem waren unsere Teams zufrieden, da sie sich von Lauf zu Lauf steigern konnten und ihre Erfahrungen in die n\u00e4chsten Turniere mitnehmen.<\/p><p>In den sp\u00e4ten Nachmittagsstunden und manchmal auch vor dem Turnier blieb noch die Gelegenheit, die Innenstadt Kassels zu erkunden (siehe Foto vor dem Rathaus).\u00a0<\/p><p>Nach der Siegerehrung am letzten Tag mit der Verk\u00fcndung der Qualifizierungen f\u00fcr die WM in Shanghai und EM in Portugal ging es bei bestem Wetter mit dem Bus wieder zur\u00fcck in Richtung Rastede.<\/p><p>So war eigentlich der Plan. Leider hatte der Bus bei der Anfahrt eine Panne, sodass zwei Ersatzbusse und zwei Ersatzfahrer (an einem Sonntagnachmittag) gefunden werden mussten. So warteten wir bei bestem Wetter in Kassel, bis wir dann doch mit einigen Stunden Versp\u00e4tung die Heimreise antreten konnten.\u00a0 \u00a0<\/p><p>Besonders bedanken m\u00f6chten wir uns beim F\u00f6rderverein der KGS, der die Fahrt mit einer gro\u00dfz\u00fcgigen Spende unterst\u00fctzte.<\/p><p><\/p>"},"id":"50e69fde-668f-4e82-aa6c-612434555581","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["dsc_0143.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ca13b8a9-25be-4eb4-84d4-4c36e49020a4","isHidden":false,"type":"image"}],"id":"4c60d400-3461-471e-bde5-2462033e1aa4","width":"1\/1"}],"id":"212e5e3e-5e66-4366-9848-5de5ae9e9f53"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["dsc_0039.jpg","dsc_0137.jpg","dsc_0009.jpg","dsc_0031.jpg","dsc_0047.jpg","dsc_0066.jpg"]},"id":"67aa1713-6b21-4405-b5fb-44087b9802af","isHidden":false,"type":"gallery"}],"id":"010e8aa5-feb6-48db-8b8f-b2d2e9dfe7a8","width":"1\/1"}],"id":"94710050-080e-4c10-b75f-123cb55b267e"}]
+
+----
+
+Date: 2022-06-10 15:50:00
+
+----
+
+Datumstartseite: 2022-07-14 15:50:00
+
+----
+
+Author: Markus Michler
+
+----
+
+Tags: Technik, Informatik
+
+----
+
+Downloads: 
+
+----
+
+Uuid: V2OJ1b3gfA2BjxTD

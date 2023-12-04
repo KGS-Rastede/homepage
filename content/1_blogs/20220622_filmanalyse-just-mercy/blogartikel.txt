@@ -1,0 +1,33 @@
+Title: Filmanalyse 'Just Mercy'
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Sch\u00fclerInnen der Jahrg\u00e4nge 9-12 behandelten mit Frau Gerlach w\u00e4hrend der Projektwoche den Film \"Just Mercy\", den sie im Casablanca in Oldenburg geschaut haben, und analysierten diesen in Bezug auf Rassismus und wie dieser mit der Wirklichkeit \u00fcbereinstimmt.<\/p><p><em>\"Just Mercy\", eine eindringliche und nachdenklich stimmende wahre Geschichte, begleitet den jungen Anwalt Bryan Stevenson (Jordan) und seinen geschichtstr\u00e4chtigen Kampf f\u00fcr Gerechtigkeit. Nach Abschluss seines Studiums in Harvard h\u00e4tte sich Bryan lukrative Jobs aussuchen k\u00f6nnen. Stattdessen geht er nach Alabama, um zusammen mit der ortsans\u00e4ssigen Anw\u00e4ltin Eva Ansley (Larson) Menschen zu verteidigen, die zu Unrecht verurteilt wurden oder sich keine angemessene Verteidigung leisten konnten. Einer seiner ersten und explosivsten F\u00e4lle ist der von Walter McMillian (Foxx), der 1987 f\u00fcr den ber\u00fcchtigten Mord an einer 18-J\u00e4hrigen zum Tode verurteilt wurde, obwohl die meisten Indizien seine Unschuld bewiesen und die einzige Zeugenaussage gegen ihn von einem Kriminellen stammte, der ein Motiv hatte zu l\u00fcgen. In den folgenden Jahren verwickelt Bryans Kampf f\u00fcr Walter und viele andere ihn in ein Labyrinth aus juristischen und politischen Man\u00f6vern und konfrontiert ihn mit offenem und ungeniertem Rassismus, w\u00e4hrend die Gewinnchancen \u2013 und das System \u2013 gegen sie stehen.<\/em><\/p><p>Der Film basiert auf dem Buch \"Just Mercy\" von Bryan Stevenson, welche inhaltlich \u00e4hnlich sind. Gemeinsam mit den Informationen aus dem Auszug aus seinem Buch setzten sich die Sch\u00fclerInnen damit auseinander, inwiefern die Handlung der Realit\u00e4t entspricht. Au\u00dferdem informierten sie sich \u00fcber die aktuelle Situation der Ungleichheit in Deutschland und Amerika.<\/p><p>So haben die Sch\u00fclerInnen das Thema \"Rassismus\" und die damit zusammenh\u00e4ngende Diskrimminierung in den USA analysiert und vertieft.<\/p>"},"id":"515a0989-cdbc-4178-a28b-87c3e6c38fad","isHidden":false,"type":"text"}],"id":"54c6d6b0-ac58-460e-aff7-571c4dfb0d52","width":"1\/2"},{"blocks":[{"content":{"images":["just-mercy-plakat.jpg.webp","image.webp"]},"id":"f0cd0b8b-a5a9-4d7b-b396-af7834a09817","isHidden":false,"type":"gallery"},{"content":{"url":"https:\/\/www.youtube.com\/watch?v=oJrIbcaISM4","caption":""},"id":"fa1b7759-2be0-4a09-92a2-9c12c379478e","isHidden":false,"type":"video"}],"id":"44091015-92f6-485b-b7d7-e0310bad3d9f","width":"1\/2"}],"id":"36a3fb12-e67e-43e9-9d99-95f658a5dd67"},{"attrs":[],"columns":[{"blocks":[],"id":"aaefe890-5b5c-448b-a762-562b0f69a4bd","width":"1\/2"},{"blocks":[],"id":"06b3178c-646d-4360-b937-c3fe3b0a65f9","width":"1\/2"}],"id":"1ae42da9-1020-48f7-92e6-e35e9b58a656"}]
+
+----
+
+Date: 2022-06-22 12:00:00
+
+----
+
+Datumstartseite: 2022-10-22 12:00:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Aysu Aliyeva
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 
+
+----
+
+Uuid: DuH5oqKYrcTWqrl8

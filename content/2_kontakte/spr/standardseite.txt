@@ -1,0 +1,48 @@
+Title: Schulpersonalrat
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Der Personalrat ist die Interessenvertretung des Kollegiums und der Landesbediensteten an der KGS Rastede. Er wird alle vier Jahre neu gew\u00e4hlt. Je nach Zahl der Wahlberechtigten variiert die Zahl der Mitglieder, derzeit geh\u00f6ren dem Personalrat die folgenden sieben Kolleginnen und Kollegen an:<\/p>"},"id":"bbacb9ab-f08d-4f08-b93c-b01e73dd5ed9","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Angelika Akbasak<\/p><\/li><li><p>Sascha Baumgarten<\/p><\/li><li><p>Jens Duden<\/p><\/li><li><p>Anne Eickelkamp<\/p><\/li><li><p>Stefan K\u00f6rner<\/p><\/li><li><p>Isabel Lisbach<\/p><\/li><li><p>Carsten Riedel<\/p><\/li><\/ul>"},"id":"8a7f958a-cfd9-4672-ab50-39d5595642fa","isHidden":false,"type":"list"},{"content":{"text":"<p>Als Ersatzmitglied steht zudem Martin Fach zur Verf\u00fcgung, falls eine\/r der anderen l\u00e4ngere Zeit ausf\u00e4llt.<\/p><p>Der Personalrat trifft sich w\u00f6chentlich zur Besprechung im Personalratsraum (in der ehemaligen Hausmeisterwohnung) und zudem regelm\u00e4\u00dfig mit der Schulleitung zum informellen Austausch. Weiterhin gibt es mehrmals im Schuljahr Treffen mit den anderen Statusgruppen an der Schule (SER, SV) und mit den Personalr\u00e4ten der Oldenburger Gymnasien.<\/p><p>Der Personalrat vertritt die Anliegen und Rechte der einzelnen Kolleginnen und Kollegen, aber auch des gesamten Kollegiums gegen\u00fcber Dritten. Dies f\u00fchrt auch dazu, dass wir uns zu Fragen der Schulentwicklung einmischen, da die Entwicklung (und auch die Nicht-Entwicklung) der Schule Konsequenzen f\u00fcr die Arbeit der Kolleginnen und Kollegen hat. Der Personalrat arbeitet auf der Grundlage des Nieders\u00e4chsischen Personalvertretungsgesetzes (<a href=\"http:\/\/www.voris.niedersachsen.de\/jportal\/?quelle=jlink&amp;query=PersVG+ND+Inhaltsverzeichnis&amp;psml=bsvorisprod.psml&amp;max=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">NPersVG<\/a>) und wird aktiv, wenn er einen entsprechenden Auftrag erh\u00e4lt.<\/p><p>Auf den mindestens einmal im Jahr stattfindenden Personalversammlungen, die wir meist im Februar einberufen, geben wir einen \u00dcberblick \u00fcber unsere Arbeit und besprechen aktuelle Themen. Die Personalversammlung der Schule ist dabei das einzige Gremium, das in der Gestaltung der Tagesordnung und der Moderation nicht (mittelbar oder unmittelbar) der Kontrolle der Schulleitung unterliegt.<\/p><p>Bei Anliegen oder Fragen k\u00f6nnt ihr den Personalrat erreichen unter der email <a href=\"mailto:spr@kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">spr@kgs-rastede.de<\/a> (bitte immer diese mail verwenden, weil dann alle informiert sind!). Zu den Sprechzeiten (montags von 12 \u2013 13:30 Uhr) sind wir auch im Personalratsraum anzutreffen bzw. unter der Telefonnummer\/ Durchwahl 04402 - 9264-25 zu erreichen.<\/p>"},"id":"37ad3dd8-e861-4645-a911-d303a3e2342c","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar:
+
+- 
+  link: https://www.schure.de
+  name: Schulrechtliche Infos
+- 
+  link: 'http://www.voris.niedersachsen.de/jportal/?quelle=jlink&query=PersVG+ND+Inhaltsverzeichnis&psml=bsvorisprod.psml&max=true'
+  name: NPersVG
+
+----
+
+Toggle: true
+
+----
+
+Uuid: gAuaVJzFieglbAvm

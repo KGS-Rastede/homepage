@@ -1,0 +1,13 @@
+Anzeigename: Informationen zur Erstellung der Facharbeit
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: dxFEPnRSoij8Ho4t

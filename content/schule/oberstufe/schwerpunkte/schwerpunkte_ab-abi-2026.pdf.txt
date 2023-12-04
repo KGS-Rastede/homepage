@@ -1,0 +1,13 @@
+Anzeigename: Schwerpunkte ab Abitur 2026
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: 08a77f2k2pzHWEhC
+
+----
+
+Template: datei

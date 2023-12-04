@@ -1,0 +1,29 @@
+Title: Neues aus dem Atelierkurs
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der Besuch der Ausstellung \"WATT du willst\"  der Berliner K\u00fcnstlerin Anett M\u00fcnnich  im Palais Rastede inspirierte die Sch\u00fcler:innen zu eigenen Arbeiten.<\/p>"},"id":"0a417580-7014-4b69-8480-1f828c715082","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["img_1355.jpeg"],"src":"","alt":"","caption":"Bens Zeichnung nach einem Bild von Anett M\u00fcnnich","link":"","ratio":"","crop":"false"},"id":"773f0a68-ee49-4b16-a059-8e6c319178a1","isHidden":false,"type":"image"},{"content":{"karousel":["img_1355.jpeg","img_2852.jpg","img_2846.jpg","img_2849.jpg","img_2856.jpg","img_2859.jpg","img_2860.jpg","img_2858.jpg","img_2862.jpg","img_2863.jpg","img_2864.jpg"]},"id":"604ca593-2ac3-4bc6-bb62-fe9f823212b9","isHidden":false,"type":"karousel"}],"id":"1e3b197f-d213-4ce6-8bce-bfa3bf1ab9cc","width":"1\/1"}],"id":"b68726cd-2e42-436e-9504-d0a495ba93e8"}]
+
+----
+
+Date: 2022-03-13 16:50:00
+
+----
+
+Datumstartseite: 2022-07-13 16:50:00
+
+----
+
+Author: Hildegard Varelmann
+
+----
+
+Tags: Kunst, Atelierkurs
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Ca5g8LHJFXN5eznp

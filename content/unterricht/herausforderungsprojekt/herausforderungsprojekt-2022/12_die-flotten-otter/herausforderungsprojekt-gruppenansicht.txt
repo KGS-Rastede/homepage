@@ -1,0 +1,52 @@
+Title: Die flotten Otter
+
+----
+
+Kurzname: Die flotten Otter
+
+----
+
+Teamlogo:
+
+- >
+  2393b1e5-4e0b-4f1e-9839-ac686f87225c.jpeg
+
+----
+
+Teamfarbe: bs-teamfarbe2
+
+----
+
+Text: [{"content":{"location":"kirby","image":["2393b1e5-4e0b-4f1e-9839-ac686f87225c.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"83b163c9-bd16-4bd2-b73d-449bdd99465b","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Wir ( Jale, Kai, Joris, Jannes und Lea) machen eine Fahrradtour nach Otterndorf und helfen dort beim NABU."},"id":"3fffc3fd-e187-4578-8559-00b94ebb6d16","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- die-flotten-otter.jpg
+- photo-2022-08-27-11-55-20.jpg
+- bremerhaven.jpg
+- >
+  f9cf6934-6c25-4f1a-becc-3fa964986dcd.jpeg
+- >
+  5e5dd4ef-4f5b-40ce-aa4d-4534d823994e.jpeg
+- >
+  f4a858ce-023b-47bb-ae37-16b7d0d91133.jpeg
+- >
+  e67ef327-eff9-40bd-a9b5-1f26f7897c62.jpeg
+- >
+  5cf238e0-e9bb-4747-8caf-bba1dba0863c.jpeg
+- >
+  7f14069b-c831-42c7-b0ba-7ee22f58fee4.jpeg
+- >
+  20cc8e21-8763-4f5c-bda9-17b023faad02.jpeg
+- >
+  f78b7312-cb9b-48e1-891b-c2a1b36e5242.jpeg
+- >
+  2fa57fa4-7791-4881-96f4-b37210864f1d.jpeg
+- >
+  ce7ce8bf-e64e-4866-8389-ec95dca36201.jpeg
+
+----
+
+Uuid: 7Jbvtvio7Z2NbygI

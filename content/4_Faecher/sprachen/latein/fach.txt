@@ -1,0 +1,66 @@
+Title: Latein
+
+----
+
+Heading: Non scholae, sed vitae discimus... Nicht für die Schule, sondern für das Leben lernen wir*. *Fun Fact: Im Original steht der Satz genau andersherum! Diese und viele andere verblüffende "Weisheiten" erwarten dich im Lateinunterricht!
+
+----
+
+Text: [{"content":{"text":"<p><strong><u>Warum Latein lernen?<\/u><\/strong><\/p>"},"id":"e15f6259-f8a2-4eaf-899a-e124df579015","isHidden":false,"type":"text"},{"content":{"text":"<p>Sechstkl\u00e4ssler unserer Schule antworteten auf diese Frage u.a.:<\/p>"},"id":"e83d45a1-c9e3-41f2-a316-1d85c4ec73bf","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Es geht um Rom und die Antike, das ist spannend!<\/p><\/li><li><p>Man lernt die deutsche Sprache besser.<\/p><\/li><li><p>Es hilft, andere Sprachen leichter zu lernen.<\/p><\/li><li><p>Die Unterrichtssprache ist Deutsch<\/p><\/li><li><p>Einige Themen \u00fcberschneiden sich mit dem Fach Geschichte, also hilft Latein bei Geschichte und umgekehrt.<\/p><\/li><li><p>Latein macht einfach Spa\u00df!<\/p><\/li><\/ul>"},"id":"0d9f9243-ab40-4865-a4ac-1550700b0b36","isHidden":false,"type":"list"},{"content":{"text":"<p><br>Wie man an diesen Bewertungen von Lateinsch\u00fclerInnen sieht, ist Latein kein verstaubtes, elit\u00e4res Unterrichtsfach, f\u00fcr das es manchmal gehalten wird.<\/p>"},"id":"5ee6e1c7-c769-4c58-b50c-b02c58838dfb","isHidden":false,"type":"text"},{"content":{"text":"<p>Latein als Basissprache Europas lebt in unseren romanischen Sprachen wie Franz\u00f6sisch, Spanisch und Italienisch weiter. Wer Latein kann, hat eine hervorragende Grundlage f\u00fcr das Erlernen dieser modernen Fremdsprachen. Aber nicht nur die Sprache, auch die Wurzeln unserer europ\u00e4ischen Kultur liegen in der Antike. Die lateinischen Texte laden dazu ein, sich mit den Grundfragen menschlicher Existenz zu besch\u00e4ftigen, wie dem Sinn des Lebens, der Bedeutung der Liebe, der Herrschaft, des Rechtssystems oder der Gemeinschaft. Die Auseinandersetzung mit der Antike erm\u00f6glicht es uns, uns unserer europ\u00e4ischen Identit\u00e4t bewusst zu werden, die sich auf gemeinsame, in der Antike entwickelte Grundlagen wie Wissenschaftlichkeit, Humanismus und Rechtsstaatlichkeit st\u00fctzt.<\/p>"},"id":"7b534415-1e1c-4d72-aab6-9f31912ceb40","isHidden":false,"type":"text"},{"content":{"text":"<p>Durch das Erlernen der lateinischen Sprache k\u00f6nnen Sch\u00fclerinnen und Sch\u00fcler verschiedenste Kompetenzen erwerben: Sie lernen zum Beispiel, Fremdw\u00f6rter abzuleiten und besser zu verstehen, sie verbessern ihre F\u00e4higkeit, logisch zu denken, sie trainieren ihr Abstraktionsverm\u00f6gen und ihre Konzentration, sie verbessern ihre Ausdrucksf\u00e4higkeit in ihrer Muttersprache.<\/p>"},"id":"ba02828f-20de-48d2-bb3a-b8c10c06cfae","isHidden":false,"type":"text"},{"content":{"text":"<p>Latein vermittelt zudem ein solides Wissen in Grammatik, Wortschatz und Ausdrucksf\u00e4higkeit, auch im Deutschen: im Lateinunterricht wird pr\u00e4zise beobachtet und genau analysiert, um einen Text \u00fcbersetzen zu k\u00f6nnen. Dieser Text wird dann einer inhaltlichen Pr\u00fcfung unterzogen: Wo sind Gemeinsamkeiten und Unterschiede zu unserer eigenen Lebenswelt? Wie stehe ich pers\u00f6nlich dazu? Die lateinischen Texte werden auf sprachliche Besonderheiten untersucht, die Inhalte werden besprochen und interpretiert. Mit diesem Handwerkszeug ist jeder Lateinsch\u00fcler\/jede Lateinsch\u00fclerin gut auf die weitere Schullaufbahn und eben auf das Leben vorbereitet!<\/p>"},"id":"5da8a840-afd5-4bbf-bce3-294ab3ab028b","isHidden":false,"type":"text"},{"content":{"text":"<p><br><strong><u>F\u00fcr wen ist Latein etwas?<\/u><\/strong><\/p>"},"id":"e09f3617-9390-4cfd-81d8-e9e4579bf91f","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Lateinunterricht geht es vor allem um das \u00dcbersetzen und Interpretieren von lateinischen Texten. Die Unterrichtssprache ist Deutsch. Das Erlernen dieser Fremdsprache eignet sich besonders f\u00fcr Sch\u00fclerinnen und Sch\u00fcler, die Interesse haben an der Besch\u00e4ftigung mit den R\u00f6mern und ihrer Lebenswelt. Vor allem f\u00fcr diejenigen, die sich gerne Regeln und Gesetzm\u00e4\u00dfigkeiten erarbeiten und f\u00fcr die nicht prim\u00e4r das aktive Kommunizieren in einer Fremdsprache im Vordergrund steht, eignet sich Latein als zweite Fremdsprache.<\/p>"},"id":"e5012322-669b-437c-b90e-1d76aedb269c","isHidden":false,"type":"text"},{"content":{"text":"<p><br><strong><u>Latein lebt!<\/u><\/strong><\/p>"},"id":"a4aa19be-b9a6-43dd-96e4-87370b88e85f","isHidden":false,"type":"text"},{"content":{"text":"<p>Auch wenn es nicht aktiv gesprochen wird, ist Latein keineswegs tot!<\/p>"},"id":"27e1ee48-ffc4-4a3b-b329-e8290f99774f","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Inhalt der lateinischen Texte steht im modernen Lateinunterricht im Vordergrund: Wir begeben uns auf Zeitreise ins alte Rom und lernen die Geschichte der R\u00f6mer kennen, ihren Alltag, ihre Religion, ihre Politik.<\/p>"},"id":"50ab3244-9cba-4917-85b0-2973edba6219","isHidden":false,"type":"text"},{"content":{"text":"<p>Ein besonderes Highlight an der KGS ist die f\u00fcnft\u00e4gige Trierfahrt f\u00fcr unsere Lateinsch\u00fclerInnen, eine Fahrt in eine R\u00f6merstadt, die vor mehr als 2000 Jahren unter dem Titel <em>Augusta Treverorum<\/em> gegr\u00fcndet wurde. Im Zentrum dieser Fahrt stehen greifbare Begegnungen mit der r\u00f6mischen Antike: Anhand antiker Sehensw\u00fcrdigkeiten wie der Porta Nigra, des Amphitheaters oder der Kaiserthermen kommen wir den R\u00f6mern auf die Spur.<\/p>"},"id":"d082f352-3851-480b-a0eb-79b326ad7aaf","isHidden":false,"type":"text"},{"content":{"text":"<p><br><strong><u>Vieles \u00e4ndert sich \u2013 das Latinum bleibt!<\/u><\/strong><\/p>"},"id":"e8855ab7-96c5-4a83-afd4-6fe4bd38042b","isHidden":false,"type":"text"},{"content":{"text":"<p><br>Ob Latein im Studium ben\u00f6tigt wird oder nicht, h\u00e4ngt von den einzelnen Bundesl\u00e4ndern und Universit\u00e4ten ab. H\u00e4ufig kommt man aber ohne Lateinkenntnisse f\u00fcr Master-Studieng\u00e4nge nicht aus.<\/p>"},"id":"6def4658-eed9-4024-9180-32e0b7d167d5","isHidden":false,"type":"text"},{"content":{"text":"<p>Bei uns an der KGS l\u00e4sst sich Latein als zweite Fremdsprache ab Jahrgang 6 w\u00e4hlen.<\/p>"},"id":"ec4f905c-cb7a-4fd3-b919-dd3f1813c04d","isHidden":false,"type":"text"},{"content":{"text":"<p>Am Ende von Jahrgang 10 erreichen die Sch\u00fclerinnen und Sch\u00fcler dann das <em>Kleine Latinum<\/em>, wenn sie das Schuljahr mit mindestens der Note \u201eausreichend\u201c abgeschlossen haben.<\/p>"},"id":"8c80e2c7-577b-4e60-8e7f-b57a647d0b6a","isHidden":false,"type":"text"},{"content":{"text":"<p>Das <em>Latinum<\/em> erhalten die Sch\u00fclerinnen und Sch\u00fcler am Ende von Jahrgang 11 bei Erreichen von mindestens 05 Notenpunkten.<\/p>"},"id":"1b3a862c-ae43-4315-9d94-7768ae16423a","isHidden":false,"type":"text"},{"content":{"text":"<p>Das <em>Gro\u00dfe Latinum <\/em>erreicht man am Ende von Jahrgang 13, wenn Latein in zwei Schulhalbjahren der Qualifikationsphase belegt wurde, dabei im letzten Schulhalbjahr mit mindestens 05 Notenpunkten oder Latein als Pr\u00fcfungsfach in Block II mit mindestens 20 Punkten.<\/p>"},"id":"3aca3c92-d367-413b-b9d2-6f12181b6e7d","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - kol.jpg
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene: - latein-kurzlehrplan-09-2020.pdf
+
+----
+
+Haupttag: Latein
+
+----
+
+Hintergrundbild: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=196'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=131'
+  name: >
+    Kerncurriculum für die gymnasiale
+    Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/05LateinHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/LA_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.navonline.de/index.php/latinums-und-graecumsvergabe
+  name: Informationen zum Latinum
+
+----
+
+Uuid: xztIXhW8IOJFw91W

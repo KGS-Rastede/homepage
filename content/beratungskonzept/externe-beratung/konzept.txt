@@ -1,0 +1,17 @@
+Title: Externe Beratung
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die Beratungslehrkr\u00e4fte der Schule beraten gerne in Einzelf\u00e4llen \u00fcber die Kontaktaufnahme zu KinderpsychologInnen und Kinder\u00e4rztInnen aus der Region. Der gro\u00dfen Anzahl wegen werden diese nicht in der nachfolgenden Liste aufgef\u00fchrt.<\/p>"},"id":"1ea83d05-a890-4ca8-ba10-21f6098e62e2","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: YIfoLo3TAry0z1vS

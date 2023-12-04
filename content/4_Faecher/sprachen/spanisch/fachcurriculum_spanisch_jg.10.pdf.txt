@@ -1,0 +1,13 @@
+Kurzbeschreibung: Lehrplan Spanisch JG 10
+
+----
+
+Jahrgang: 10
+
+----
+
+Schulzweig: GZ
+
+----
+
+Template: lehrplandatei

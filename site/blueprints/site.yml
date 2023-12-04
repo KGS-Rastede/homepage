@@ -1,0 +1,16 @@
+title:  KGS Rastede
+
+tabs:
+  alles:
+    preset: pages
+    unlisted: true
+
+  # Lesezeichen
+  bookmark:
+    label: Lesezeichen
+    icon: bookmark
+    sections:
+      seiten:
+        type: fields
+        fields:
+          pages:

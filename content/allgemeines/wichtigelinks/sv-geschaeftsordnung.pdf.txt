@@ -1,0 +1,9 @@
+Anzeigename: Schüler_innenvertretung Geschäftsordnung
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: 9z3VntLj02y5xit5

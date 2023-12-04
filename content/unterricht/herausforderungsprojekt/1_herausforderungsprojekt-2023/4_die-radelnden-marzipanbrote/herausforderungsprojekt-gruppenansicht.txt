@@ -1,0 +1,39 @@
+Title: Die radelnden Marzipanbrote
+
+----
+
+Kurzname: Die radelnden Marzipanbrote
+
+----
+
+Teamlogo: - file://h4S9Od8hQ4AWziNl
+
+----
+
+Teamfarbe: bs-teamfarbe1
+
+----
+
+Text: [{"content":{"level":"h2","text":"Ziel: Lübeck mit dem Rad<br>Dabei wollen wir die Menschen fragen, was ihre Herausforderung ist. In Lübeck helfen wir in Grundschulen und Kitas."},"id":"4cf9c551-ff66-4302-b99a-e08373836957","isHidden":false,"type":"heading"}]
+
+----
+
+Gallery:
+
+- file://5b3JKcDncgTPqz3Y
+- file://IaWcU5rvmlWT098r
+- file://2pSBRTPe59Lm2Vkg
+- file://NJPywFyoLiUzvTwC
+- file://FmHoKSQ6v3qp1ppH
+- file://SPxG0etVIvdelEXf
+- file://MBC3GgX2E0XZoVJd
+- file://0IHs6Mu6A4SpHybX
+- file://WF4nTbiCef0QqtiB
+- file://LInPqKs9UxswDwDz
+- file://aqGMUTtYOqtQdBPW
+- file://wgdDIaeoOBvXfzGB
+- file://LhCy0M3uNW5Y1F0T
+
+----
+
+Uuid: kT0aKz7ZHKsjzAx0

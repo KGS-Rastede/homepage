@@ -1,0 +1,40 @@
+Title: Information für Eltern der 4. Klassen
+
+----
+
+Heading: Anmeldung
+
+----
+
+Text: [{"content":{"text":"<p>Das Anmeldeverfahren findet im Zeitraum vom <strong>03. Mai 2021 bis 11. Mai 2021<\/strong> statt.<strong> <\/strong>Sollten dann noch Fragen offen bleiben, stehen wir Ihnen selbstverst\u00e4ndlich jederzeit zur Verf\u00fcgung. Hier finden sie unser <a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/anmeldung-5\/be72fc473e-1619437961\/anschreiben_eltern_2021.pdf\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Anschreiben <\/a>an Sie.<\/p><p>Bei der Anmeldung ben\u00f6tigen wir von Ihnen Angaben zu folgenden Bereichen<\/p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Besuch des <strong>Religionsunterrichts<\/strong> (Religion oder Werte und Normen)<\/p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Angaben eines Freundes oder einer Freundin, mit dem oder der man in die Klasse m\u00f6chte<\/p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teilnahme an der <strong>entgeltlichen Schulbuchausleihe<\/strong><\/p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teilnahme am <strong>elektronischen Bestellsystem<\/strong> f\u00fcr das Mittagessen<\/p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wahl einer <strong>2. Fremdsprache<\/strong> (Realschul- und Gymnasialzweig)<\/p><p>Die <strong>Arbeitsgemeinschaften<\/strong> werden erst zu Beginn des neuen Schuljahres gew\u00e4hlt.<\/p><p>Informationen zur endg\u00fcltigen Klasseneinteilung und zur Gestaltung des ersten Schultages erhalten Sie schriftlich in den Sommerferien.<\/p><p>Sollten Sie keine M\u00f6glichkeit haben, die Anmeldung online durchzuf\u00fchren, so bieten wir Ihnen die M\u00f6glichkeit, dies am Standort <strong>Feldbreite<\/strong> im Sekretariatsbereich in der Schule zu folgenden Zeiten durchzuf\u00fchren:<\/p><p><strong>03.05.2021 (Montag) bis 11.05.2021 (Dienstag) jeweils von 08:00 Uhr \u2013 14:00 Uhr<\/strong><\/p><p><\/p><p>Die Anmeldung erfolgt auf dieser Seite: <strong><a href=\"https:\/\/haneke.de\/schueleranmeldung\/Eingabe?id=1602190976\" rel=\"noopener noreferrer nofollow\">https:\/\/haneke.de\/schueleranmeldung\/Eingabe?id=1602190976<\/a><\/strong><\/p>"},"id":"34734a8b-10ba-41fe-8ab2-4e6f0a0b4f62","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Hier finden Sie Informationen zu Chor-\/ Bl\u00e4ser-\/ Atelierkurs und weiteren F\u00e4chern..."},"id":"faf2a2c4-6827-4c4f-a26f-9af7b4757db7","isHidden":false,"type":"heading"},{"content":{"text":"<p>Information <a href=\"https:\/\/kgs-rastede.de\/blogs\/informationen-zum-artelierkurs-2021\" target=\"_blank\" title=\"zum Bl\u00e4ser- bzw. Atelierkurs\" rel=\"noopener noreferrer nofollow\">zum Bl\u00e4ser- und Atelierkurs. <\/a><\/p>"},"id":"20cf4d3c-82a0-491f-8545-d12d7143b17a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Hilfe zur Anmeldung"},"id":"919f6e64-d0fb-45ed-8191-d487130e535e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Sie finden <a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/anmeldung-5\/650e5c0622-1619437961\/erlaeuterung_onlineanmeldung_eltern.pdf\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">in dieser Datei<\/a> eine ausf\u00fchrliche Hilfestellung. Au\u00dferdem haben wir ein Anleitungsvideo f\u00fcr sie erstellt.<\/p>"},"id":"401503e0-2811-48b2-939d-bcd38867b0e7","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/vimeo.com\/541353001","caption":"Hilfe-Video zur Anmeldung in Jahrgang 5"},"id":"cee24048-b10c-4d58-aadd-dd6e9c4af42c","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Ausf\u00fchrliche Informationen zur Schule"},"id":"1ddf92e6-5d0f-494f-b020-bafb1c96911f","isHidden":false,"type":"heading"},{"content":{"url":"https:\/\/youtu.be\/CNFC4I9Ja08","caption":""},"id":"f39d97e5-ee4c-4911-9b03-0702f18d45be","isHidden":false,"type":"video"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-04-26 07:50:00
+
+----
+
+Datumstartseite: 2021-05-11 07:50:00
+
+----
+
+Author: Claudia Berger (BE)
+
+----
+
+Tags: Topartikel, Schulleitung, Anmeldung
+
+----
+
+Downloads:
+
+- erlaeuterung_onlineanmeldung_eltern.pdf
+- anschreiben_eltern_2021.pdf
+
+----
+
+Fotoansicht: gallery

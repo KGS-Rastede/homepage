@@ -1,0 +1,49 @@
+Title: Inklusion: Eine Schule für ALLE!
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Seit dem Schuljahr 2013\/2014 tritt das Prinzip der KGS Rastede \u201eEine Schule f\u00fcr alle\u201c noch mehr in den Vordergrund, denn zu diesem Zeitpunkt wurde die Inklusion f\u00fcr die Jahrg\u00e4nge 1-5 in ganz Niedersachsen verbindlich eingef\u00fchrt. Aber was bedeutet \u201eInklusion\u201c ganz konkret? Grunds\u00e4tzlich l\u00e4sst sich Inklusion als ein Prinzip beschreiben, bei dem jedem Menschen grunds\u00e4tzlich die Teilhabe an allen Bereichen der Gesellschaft erm\u00f6glicht werden soll. Damit verbunden ist eine bestimmte Vorstellung und Haltung f\u00fcr das gesellschaftliche Zusammenleben: jeder Mensch ist bedeutsam und soll die gleichen Chancen unabh\u00e4ngig von z.B. seinen Begabungen oder Einschr\u00e4nkungen, seines sozialen und finanziellen Status oder seiner Herkunft haben.<\/p>"},"id":"49351bc1-be0b-4c15-ae19-994147464be5","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00fcr die KGS Rastede wird damit ihr bisheriger Grundsatz nun noch mehr in den Mittelpunkt gestellt: die Ber\u00fccksichtigung und Wertsch\u00e4tzung der Vielfalt an der KGS. Dies bedeutet f\u00fcr unsere Sch\u00fclerinnen und Sch\u00fcler, dass sie in ihrer Einzigartigkeit anerkannt und sie - unabh\u00e4ngig von ihren pers\u00f6nlichen Voraussetzungen und Umst\u00e4nden - als Bereicherung der Schule betrachtet werden. Zugleich bedeutet dies f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler sowie f\u00fcr alle Beteiligten an der Schule die Umsetzung von gegenseitiger Akzeptanz, sozialem und wertsch\u00e4tzendem Miteinander, vielf\u00e4ltigem Lernen und individuellen Entwicklungsm\u00f6glichkeiten.<\/p><p>Nat\u00fcrlich pr\u00e4gt die Inklusion nicht nur die innere Haltung an der KGS, sondern sie bewirkt auch eine greifbare \u00c4nderung f\u00fcr den Schulalltag: seit der Einf\u00fchrung werden nun auch Sch\u00fclerinnen und Sch\u00fcler mit dem Bedarf an sonderp\u00e4dagogischer Unterst\u00fctzung in den verschiedenen Schulzweigen unterrichtet. Dabei hat allerdings die KGS das Ziel, dass alle Sch\u00fclerinnen und Sch\u00fcler durch die gesteigerte Beachtung der individuellen Lernvoraussetzungen und Lernwege profitieren. Um dies umzusetzen sieht sich die KGS Rastede als Team, dass aus Lehrkr\u00e4ften, der Schulleitung, den Beratungslehrern, Schulsozialarbeitern, dem Koordinator f\u00fcr Inklusion und F\u00f6rderschullehrkr\u00e4ften besteht. Dieses Team arbeitet inklusiv an verschiedenen Aspekten und bringt damit die Inklusion voran.<\/p>"},"id":"02a47112-fdd7-41ad-918a-3dff07462a9c","isHidden":false,"type":"text"},{"content":{"text":"<p>Als direkter Ansprechpartner f\u00fcr Inklusion gilt der Koordinator f\u00fcr Inklusion Christian Neumann. Dieser beantwortet gerne Fragen, Ideen und Anregungen zum Thema Inklusion pers\u00f6nlich oder unter der E-Mail Adresse <code>inklusion@kgs-rastede.de<\/code>.<\/p>"},"id":"77083f50-c93f-4682-9b1b-712b5390c8dc","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: Links zur Inklusion
+
+----
+
+Sidebar:
+
+- 
+  link: https://nibis.de/inklusive-schule_10225
+  name: Übersicht vom Ministerium
+- 
+  link: >
+    https://www.mk.niedersachsen.de/startseite/schule/inklusive_schule/stand-der-einfuehrung-175285.html
+  name: Stand der Einführung
+- 
+  link: >
+    https://www.landesschulbehoerde-niedersachsen.de/themen/schulorganisation/inklusion
+  name: Landesschulbehörde
+
+----
+
+Toggle: true

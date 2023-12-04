@@ -1,0 +1,13 @@
+Anzeigename: Die Einrichtung des WLANs für Schüler*innen (BYOD)
+
+----
+
+Beschreibung: In dieser Anleitung wird beschrieben, welche Einstellungen am eigenen Endgerät vorgenommen werden müssen, um sich an das WLAN der Schule anmelden zu können
+
+----
+
+Template: datei
+
+----
+
+Uuid: j2gxp0SBBk4dinpQ

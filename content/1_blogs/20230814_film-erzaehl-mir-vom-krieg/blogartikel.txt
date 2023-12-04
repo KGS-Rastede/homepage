@@ -1,0 +1,33 @@
+Title: Film - Erzähl mir vom Krieg
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wir vom WPK-Reli-Kurs aus dem 9. Jahrgang, wollten Erfahrungen von Menschen festhalten, die einen Krieg miterlebt haben. Ebenso wollten wir mit Menschen reden, für welche die Zeit nach einem Krieg zu einer einschneidenden Erinnerung geworden ist.</p>"},"id":"ee5dd545-ea45-4315-a889-9caadc0b3b9a","isHidden":false,"type":"text"}],"id":"dc483120-4aed-4129-bb4c-d268b42ed13d","width":"1/1"}],"id":"c178e940-b7f3-4e56-a856-e767f824e60c"},{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https://player.vimeo.com/video/841608774?h=6b35f524a5","caption":""},"id":"820986dd-9931-4171-92e7-cb9ddf19a3f5","isHidden":false,"type":"video"}],"id":"8c980096-816e-4aa7-8ee2-df2bfee0d397","width":"1/1"}],"id":"4f6b1f0c-2879-4950-bbcb-6b2eb3887994"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>All diese Erinnerungen, die uns unterschiedliche Menschen in verschiedenen Varianten erzählt haben, haben wir in diesem Film festgehalten. Wir hoffen, dass Euch der Film gefällt und ihr etwas davon mitnehmen könnt. Euer WPK-Reli- Kurs</p>"},"id":"80cfb048-ecee-4f8c-abc1-79f236168ff4","isHidden":false,"type":"text"}],"id":"ca3ea11b-ad48-46dc-bed9-84724054ae89","width":"1/1"}],"id":"e7de6e93-ac37-4105-b906-9523c8a16e67"}]
+
+----
+
+Date: 2023-08-14 17:35:00
+
+----
+
+Datumstartseite: 2023-12-14 17:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: WPK Religion
+
+----
+
+Tags: Religion, Krieg, WPK, Wahlpflicht
+
+----
+
+Downloads: 
+
+----
+
+Uuid: SvyKD0HMdPxnseVi

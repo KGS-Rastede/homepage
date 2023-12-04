@@ -1,0 +1,29 @@
+Title: Das Herausforderungsprojekt - Was denken die sich eigentlich dabei?
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Es wird immer konkreter: Die Planungen der Projektgruppen laufen auf Hochtouren und es ist absehbar, dass an der KGS der erste Jahrgang rausgeht in die Welt und ihre jeweilige Herausforderung besteht. Einige von uns Lehrer:innen haben in einem Video zusammengetragen, mit welchen Erwartungen sie das Projekt begleiten.<\/p><p><\/p>"},"id":"822376ee-2fd3-4924-b423-1e66cf32951c","isHidden":false,"type":"text"}],"id":"2f383227-5c9b-4552-bc48-69058694d059","width":"1\/2"},{"blocks":[{"content":{"url":"https:\/\/vimeo.com\/712538534","caption":""},"id":"4501762e-7a3a-4bec-876f-b67f0210aeb9","isHidden":false,"type":"video"}],"id":"4e219ad8-063e-4aaa-8954-ce3f7f678340","width":"1\/2"}],"id":"35332af4-3789-439b-8773-4862ecac191b"}]
+
+----
+
+Date: 2022-05-22 13:35:00
+
+----
+
+Datumstartseite: 2022-09-22 13:35:00
+
+----
+
+Author: Lutz Weusmann
+
+----
+
+Tags: Herausforderungsprojekt, Projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: xrS3BUb0EEN6xw18

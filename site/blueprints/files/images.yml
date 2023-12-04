@@ -1,0 +1,6 @@
+title: images
+
+accept:
+  mime: image/*
+
+# https://getkirby.com/docs/reference/panel/fields/files#upload-options

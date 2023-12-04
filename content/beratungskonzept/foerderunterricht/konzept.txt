@@ -1,0 +1,17 @@
+Title: Förderunterricht JG 5 und 6
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Wenn das Mithalten in einem Fach zeitweise schwierig ist, kann eine zus\u00e4tzliche F\u00f6rderung f\u00fcr Abhilfe sorgen.<\/p><p>F\u00f6rderunterricht wird angeboten in den F\u00e4chern Deutsch, Mathematik und im 6. Schuljahr in der 2. Fremdsprache. Im Rahmen der ILE-Konferenzen (Individuelle Lernentwicklung) wird beraten, welche:r  Sch\u00fcler:in durch die Teilnahme am F\u00f6rderunterricht besondere Unterst\u00fctzung erhalten darf. <\/p><p>Der Unterricht wird von Fachlehrkr\u00e4ften angeboten und  findet nachmittags von 14:30 - 16:00 Uhr in den R\u00e4umen an der Feldbreite statt. In der Mittagspause kann ein Mittagessen (kostenpflichtig) eingenommen oder Hausaufgaben erledigt werden; f\u00fcr ein Spieleangebot wird ebenfalls gesorgt.<\/p><p>F\u00fcr angemeldete Sch\u00fcler:innen ist die Teilnahme verpflichtend, da nur eine kontinuierliche Arbeit zu einer Leistungsverbesserung f\u00fchren kann.<\/p>"},"id":"18b7c0d7-21f1-4c1a-8f36-c1dbd6c32001","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Cy0KGJZAOw2TAmXQ

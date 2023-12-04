@@ -1,0 +1,13 @@
+Anzeigename: Schwerpunkte ab Abitur 2025
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: HuDnvio9AtbISnxo
+
+----
+
+Template: datei

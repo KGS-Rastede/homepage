@@ -1,0 +1,41 @@
+Title: „Auf Achse“
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wahlpflichtkurse Chemie\/ Erdkunde Jahrgang 11 besuchen Veranstaltungsreihe zur Wasserstoffmobilit\u00e4t"},"id":"b1dd47fe-b837-4b13-8a1c-3ffbfd8b1756","isHidden":false,"type":"heading"},{"content":{"name":""},"id":"97c7e31e-b050-46fe-9181-1228b62b39de","isHidden":false,"type":"horizontale-linie"},{"content":{"text":"<p>Die Corona-Pandemie ver\u00e4ndert vieles in Schule und Gesellschaft. Was wir in diesen Tagen manchmal vergessen: Auch in anderen Bereichen finden gerade Ver\u00e4nderungen statt, die unsere Gesellschaft vor gro\u00dfe Herausforderungen stellen: Der Klimawandel und die damit einhergehende Mobilit\u00e4tswende. &nbsp;Unter der \u00dcberschrift \u201eMobilit\u00e4t der Zukunft\u201c besch\u00e4ftigt sich der Wahlpflichtbereich in Jg. 11 mit vielen chemischen und geografischen Fragestellungen.<\/p>"},"id":"e3385fe9-0454-43c7-a8e8-fddc60bc1d26","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["programm_auf_achse_03_05_21__1.jpg"],"src":"","alt":"Auf Achse","caption":"Anwendungen f\u00fcr eine erfolgreiche Wasserstoffmobilit\u00e4t im Nordwesten","link":"","ratio":"","crop":"false"},"id":"694376f7-ed03-449a-8b43-aa1f2853141d","isHidden":false,"type":"image"},{"content":{"text":"<p>Gerne versuchen wir im f\u00e4cher\u00fcbergreifenden Wahlpflichtbereich auch externe Experten einzubinden und in die Schule einzuladen. So war vor zwei Jahren Frau Jacobs vom \u201eDLR Institut f\u00fcr vernetzte Energiesysteme\u201c an der KGS und hat dem damaligen Kurs ein per Brennstoffzelle angetriebenes Wasserstoffauto vorgef\u00fchrt. Solche Aktionen sind derzeit leider ausgeschlossen, daf\u00fcr hat sich den diesj\u00e4hrigen Kursen aber eine andere M\u00f6glichkeit geboten, die vielleicht vor zwei Jahren noch nicht denkbar gewesen ist: <\/p>"},"id":"c2e32ea9-5e02-4faf-8d4c-9a7f7bd4ac2f","isHidden":false,"type":"text"},{"content":{"text":"<p>Am 03.05. konnten wir an einer Online-Podiumsdiskussion teilnehmen, wo verschiedene Experten und interessierte Zuh\u00f6rerinnen und Zuh\u00f6rer \u00fcber den Stand der Wasserstoffmobilit\u00e4t im Nordwesten referiert und diskutiert haben. Sicherlich auch aufgrund dieses Online-Formats war es m\u00f6glich, dass wir mit insgesamt fast 60 Sch\u00fclerinnen, Sch\u00fclern und zwei Lehrern (Herr Dr. Fach und Herr Dr. L\u00fcschen) teilnehmen konnten. Diskutiert haben dabei u.a. Vertreter*innen von OLEC, EWE, der Uni Oldenburg, der Fachhochschule Oldenburg-Jade, von Industrie- bzw. Verkehrsunternehmen (Taxidienst, VWG, FAUN-Nutzfahrzeuge bzw. Shell-Tankstelle), um nur einige zu nennen. Innerhalb von zwei Stunden wurde dabei er\u00f6rtert, welche Chancen sich f\u00fcr die Wasserstofftechnologie insgesamt, gerade aber auch im Bezug auf unsere Region im Nordwesten Deutschlands bieten. Interessant waren besonders die verschiedenen Blickwinkel und die Tatsache, dass sehr kontrovers M\u00f6glichkeiten und Grenzen der Wasserstofftechnologe diskutiert wurden. So konnten wir einen guten Einblick in Prozesse der Wissenschaft gewinnen, die wertvoll f\u00fcr unsere eigenen Diskussionen in den Kursen sind. Und was uns alle erstaunt hat: Wie viele Institutionen und Menschen an der Einf\u00fchrung der Wasserstofftechnologie beteiligt sind und wie konkret die Fortschritte bei der Entwicklung einer Wasserstoff-Infrastruktur auch bei uns in der Region sind. Eine lohnenswerte Veranstaltung!<\/p>"},"id":"536b6c77-e591-4c25-8acc-7fe2ff8ab737","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-05-11 00:00:00
+
+----
+
+Datumstartseite: 2021-09-11 00:00:00
+
+----
+
+Author: Dr. Martin Fach und Dr. Holger Lüschen
+
+----
+
+Tags: Chemie, WPK, Erdkunde
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: SJZBUz8c1Hga9eGN

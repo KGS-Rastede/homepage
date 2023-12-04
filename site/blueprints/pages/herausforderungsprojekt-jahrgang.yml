@@ -1,0 +1,15 @@
+title: Über die Projekte des Jahres
+icon: 📜
+
+
+sections:
+  content:
+    type: fields
+    fields:
+      text:
+        label: Inhalte zum Jahrgang
+        type: blocks
+      
+  pages:
+    headline: Übersicht über den Jahrgang
+    templates: herausforderungsprojekt-gruppenansicht

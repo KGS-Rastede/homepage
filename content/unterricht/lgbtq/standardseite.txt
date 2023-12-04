@@ -1,0 +1,37 @@
+Title: LGBTQ+-Schüler*inneninitiative
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wer sind wir?"},"id":"afd26fb1-e323-4595-991d-1c99980cc658","isHidden":false,"type":"heading"},{"content":{"text":"<p>Erkl\u00e4rung wer wir sind...<\/p>"},"id":"1cb8c1aa-15a3-4413-88e3-5fc5da4cbdd7","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Wof\u00fcr steht LGBTQ+?"},"id":"69377e72-8637-42a8-a83a-a6173a591295","isHidden":false,"type":"heading"},{"content":{"text":"<p>kurze Erkl\u00e4rung dies das<\/p><p><\/p><p><strong>L<\/strong>=Lesbisch<\/p><p>....<\/p><p><\/p>"},"id":"d8e4569d-b861-4d39-998d-21546155caa8","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Hast du noch Fragen oder so?"},"id":"f413d7cf-e4c9-4a26-83f3-6d39ec0850d6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wenn ihr noch Fragen habt oder ihr gerne bei uns mitwirken wollt meldet euch doch gerne unter unserer E-Mail: <em>lgbtq.plus@kgs-rastede.eu.<\/em><\/p>"},"id":"4a18820d-39ec-49e1-ad54-544bf760d4cb","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Toggle: true

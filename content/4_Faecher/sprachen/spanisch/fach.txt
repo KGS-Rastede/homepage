@@ -1,0 +1,76 @@
+Title: Spanisch
+
+----
+
+Heading: ¡Aprende español!
+
+----
+
+Text: [{"content":{"text":"<p>Sei es durch K\u00fcnstler wie \u00c1lvaro Soler, die durch ihre Musik gute Laune verbreiten, Fu\u00dfballer wie Lionel Messi oder die bekannte \u201eSiesta\u201c nach dem Mittagessen \u2013 das Spanische ist t\u00e4glich pr\u00e4sent! Da liegt es doch nahe, Spanisch zu lernen!<\/p>"},"id":"4eb0db37-c2ef-41a8-ac72-8325f277c2a1","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"f3c1178d-aab4-484b-a8cf-48c70287f598","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>SPANISCH ALS FREMDSPRACHE<\/strong><\/p>"},"id":"23ead06b-2f60-4455-b13d-1f8c2dd2d725","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Weltsprache:<\/u><strong> <\/strong>Spanisch geh\u00f6rt neben Englisch und Mandarin zu den Top 3 der Sprachen der Welt! Es ist in 21 L\u00e4ndern auf vier Kontinenten Amtssprache und wird von 500 Millionen Menschen als Muttersprache gesprochen.<\/p>"},"id":"6240aed0-d096-4fd3-9ed3-dab35da821f0","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Reise:<\/u><strong> <\/strong>Das Erlernen des Spanischen bietet die M\u00f6glichkeit, die Menschen, die Kultur und die Gewohnheiten spanischsprachiger L\u00e4nder auf authentische Weise kennen zu lernen. Immerhin ist Spanien das beliebteste Urlaubsziel der Deutschen! F\u00fcr diejenigen, die Spanisch sprechen, ist nach der Schule auch ein freiwilliges soziales Jahr im spanischsprachigen Ausland m\u00f6glich.<\/p>"},"id":"8a43669b-8724-491f-994d-30f1e79c0fe7","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Wissen:<\/u><strong> <\/strong>Durch bereits vorhandenes Wissen im Englischen oder auch durch das Deutsche k\u00f6nnen bereits viele spanische W\u00f6rter wie <em>f\u00fatbol<\/em> (Fu\u00dfball), <em>informaci\u00f3n<\/em> (Information) und <em>bicicleta<\/em> (Fahrrad) verstanden werden.<\/p>"},"id":"5bd8c9b4-54dc-4c20-b000-8de89db2551c","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Basissprache:<\/u> Wenn man Spanisch kann, f\u00e4llt einem das Erlernen einer weiteren romanischen Fremdsprache wie Franz\u00f6sisch, Portugiesisch oder Italienisch deutlich leichter, da sich grammatikalische Strukturen wiederholen und eine Vielzahl an W\u00f6rtern sehr \u00e4hnlich sind.<\/p>"},"id":"5d8cb1f0-0ef4-4629-acde-4f74e8852161","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Berufsaussichten:<\/u><strong> <\/strong>In vielen Studieng\u00e4ngen oder Berufen ist die Kenntnis einer zweiten modernen Fremdsprache neben dem Englischen sehr erw\u00fcnscht oder sogar notwendig.<\/p>"},"id":"84a03d9b-e7e7-4fc3-b029-a25f6917fcde","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"8ec81268-5bbe-4325-884b-b793159c1094","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>SPANISCH ALS UNTERRICHTSFACH<\/strong><\/p>"},"id":"cab09c1c-23c6-4d83-9569-00ea2f3e8c7c","isHidden":false,"type":"text"},{"content":{"text":"<p>Eine Sprache lernt man durch Sprechen! Daher nimmt das Sprechen, sei es in Partner- oder Gruppenarbeit, einen gro\u00dfen Teil ein. Dar\u00fcber hinaus wenden die Sch\u00fclerinnen und Sch\u00fcler in Rollenspielen, die sich an allt\u00e4glichen Situationen orientieren, das Spanische an und sind somit auch f\u00fcr \u201eechte\u201c Erlebnisse im spanischsprachigen Ausland gewappnet. Neben dem Sprechen werden im Unterricht auch die Kompetenzen Leseverstehen, H\u00f6rverstehen, H\u00f6r-Seh-Verstehen, Schreiben und Sprachmittlung geschult. Hierf\u00fcr werden auch authentische Materialien wie Lieder, Comics und Kurzfilme in den Unterricht integriert.<\/p>"},"id":"40d8b7c1-8fc1-4fd9-a127-4d6d3171490d","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"bdf7e1ea-e9af-4001-8034-9500dd8836ba","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>SPANISCH AN DER KGS RASTEDE<\/strong><\/p>"},"id":"f0bf017c-65d3-4217-87b8-4da176053604","isHidden":false,"type":"text"},{"content":{"text":"<p>Erg\u00e4nzend zum Unterricht werden an der KGS Rastede weitere Aktivit\u00e4ten im Fach Spanisch durchgef\u00fchrt:<\/p>"},"id":"3dc5a51d-7eef-405f-bcdd-44d4888457b1","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Fremdsprachenvorlesewettbewerb (Jg. 7)<\/p><\/li><li><p>Sch\u00fcleraustausch mit Madrid (Jg. 10 und 11)<\/p><\/li><li><p>Vorbereitung auf das Sprachdiplom DELE auf unterschiedlichen Sprachniveaus (Jg. 7-13)<\/p><\/li><li><p>au\u00dferschulische Aktivit\u00e4ten: spanischen Schulfilmwochen im Casablanca-Kino in Oldenburg, World Press Photo Ausstellung etc.<\/p><\/li><\/ul>"},"id":"816acd87-c75e-4e5d-93e0-161116f7ea6b","isHidden":false,"type":"list"},{"content":{"text":"<p><\/p>"},"id":"2b48c2b8-926d-4819-90d8-7b5b030b459e","isHidden":false,"type":"text"},{"content":{"text":"<p>An der KGS Rastede kann Spanisch als neu einsetzende Fremdsprache folgenderma\u00dfen angew\u00e4hlt werden:<\/p>"},"id":"f547b1c9-70b4-437a-85ec-d6a8ed92e8c8","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>als zweite Fremdsprache ab Jg. 6<\/p><\/li><li><p>als dritte Fremdsprache ab Jg. 11<\/p><\/li><\/ul>"},"id":"9ec34792-327c-4b32-b1b1-e33aac3bcc5d","isHidden":false,"type":"list"},{"content":{"text":"<p>In der Qualifikationsphase der Oberstufe, also in Jg. 12 und 13, kann Spanisch auf grundlegendem Niveau belegt und als Pr\u00fcfungsfach im Abitur angew\u00e4hlt werden.<\/p>"},"id":"cf92920a-1e56-4a88-815d-0204e955b337","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"c0b81023-6e25-466d-926f-353fa04ef29f","isHidden":false,"type":"text"},{"content":{"text":"<p>In diesem Sinne: <em>\u00a1aprende espa\u00f1ol!<\/em><\/p>"},"id":"7048b60a-a616-4db5-8788-23b359fcd667","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Kolleginnen des Fachs Spanisch<\/p>"},"id":"53bf20c0-df96-4454-83ce-32bb2f24234a","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"6b1ecb3e-d316-44a9-ba0d-b4c00df41927","isHidden":false,"type":"text"},{"content":{"text":"<p><br><\/p>"},"id":"6a00db7c-7749-420d-831d-bec1599d7a84","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - spanischflagge3.png
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene:
+
+- fachcurriculum_spanisch_-jg.6.pdf
+- fachcurriculum_spanisch_jg.7.pdf
+- fachcurriculum_spanisch_-jg.9.pdf
+- fachcurriculum_spanischjg_jg.8.pdf
+- fachcurriculum_spanisch_jg.10.pdf
+- >
+  fachcurriculum_spanisch_11fortgefuehrt.pdf
+
+----
+
+Haupttag: Spanisch
+
+----
+
+Hintergrundbild: - spanischflagge3.png
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Sidebar:
+
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=58'
+  name: Kerncurriculum Gymnasium
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=203'
+  name: Kerncurriculum gymnasiale Oberstufe
+- 
+  link: >
+    https://www.nibis.de/uploads/mk-bolhoefer/2021/04SpanischHinweise2021NEU.pdf
+  name: >
+    Hinweise zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/SN_2021Abi_Operatoren.pdf
+  name: >
+    Operatorenliste zur schriftlichen
+    Abiturprüfung 2021
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf
+  name: 'Sek II - Hinweise zur Bewertung der sprachlichen Leistung'
+- 
+  link: >
+    https://www.nibis.de/uploads/1gohrgs/za2021/02_Skala_Bewertung_der_inhaltlichen_Leistung.pdf
+  name: 'Sek II - Hinweise zur Bewertung der inhaltlichen Leistung'
+
+----
+
+Uuid: NFT0ZFBpcCLKSvwF

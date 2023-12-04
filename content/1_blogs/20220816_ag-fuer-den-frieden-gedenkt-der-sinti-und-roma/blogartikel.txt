@@ -1,0 +1,33 @@
+Title: AG "Für den Frieden" gedenkt der Sinti und Roma
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Auf Einladung Oswald Marschalls (Dokumentations- und Kulturzentrum deutscher Sinti und Roma) nahm die AG \"F\u00fcr den Frieden\" an den Feierlichkeiten zum Europ\u00e4ischen Holocaustgedenktag f\u00fcr die Sinti und Roma in Minden teil. Gemeinsam mit 150 weiteren G\u00e4sten erinnerten Veronika Dinter, Tjada Kulawik, Rima Aledlbi und Michael Luttmer an die Ermordung von 500.000 Sinti und Roma im besetzten Europa. In der Nacht vom 2. auf den 3. August 1944 ermorderte die SS im Vernichtungslager Auschwitz-Birkenau die letzten 2.300 der dort inhaftierten Mitglieder der Minderheit. Die AG-Mitglieder nutzten die Gelegenheit zu zahlreichen Gespr\u00e4chen \u00fcber die historische und aktuelle Diskriminierung der Sinti und Roma.<\/p><p>AG \"F\u00fcr den Frieden\"<\/p>"},"id":"feec10bc-02aa-4eb6-b466-b79c008f5104","isHidden":false,"type":"text"}],"id":"17c977ad-2260-46b6-84b1-0a905352d3c1","width":"1\/2"},{"blocks":[{"content":{"images":["img_3381.jpg","img_3379.jpg","img_3378.jpg","img_3382.jpg"]},"id":"17aea23d-0eae-4d36-b8a5-f101cd3c75b8","isHidden":false,"type":"gallery"}],"id":"6690f18f-dd8f-4286-a16b-ea5aacd62f30","width":"1\/2"}],"id":"b3efaaec-307f-42ff-bc54-973cfefa1294"}]
+
+----
+
+Date: 2022-08-16 09:50:00
+
+----
+
+Datumstartseite: 2022-12-16 09:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden, Sinti und Roma
+
+----
+
+Downloads: 
+
+----
+
+Uuid: LeHePQVmmUH9PT8C

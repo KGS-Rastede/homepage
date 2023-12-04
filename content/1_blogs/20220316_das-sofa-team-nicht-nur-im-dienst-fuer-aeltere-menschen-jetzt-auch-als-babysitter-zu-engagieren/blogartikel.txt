@@ -1,0 +1,29 @@
+Title: Das Sofa-Team, nicht nur im Dienst für ältere Menschen,                                       jetzt auch als Babysitter zu engagieren
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wir sind 17 Sch\u00fcler und Sch\u00fclerinnen (14-16 Jahre alt), die sich seit \u00fcber einem halben Jahr in der Sch\u00fclerfirma \"Das Sofa-Team\" engagieren. Das \"Sofa\" steht f\u00fcr soziale Dienste f\u00fcr alte Menschen. Wir haben bisher viel \u00fcber den Beruf der Altenpflege, \u00fcber Demenz und den demografischen Wandel und nat\u00fcrlich besonders viel \u00fcber den empathischen und f\u00fcrsorglichen Umgang mit \u00e4lteren Menschen gelernt. Unsere privaten Kunden haben haupts\u00e4chlich Nachhilfeunterricht im Umgang mit dem Handy oder dem Computer erhalten, aber auch Entlastung bei Boteng\u00e4ngen oder beim Ausf\u00fchren des Hundes erhalten. Vor allem konnten sie sich \u00fcber die netten Gespr\u00e4che zwischen Jung und Alt freuen. Es sind hierbei sogar richtige Freundschaften entstanden.<\/p><p>Nun k\u00f6nnen wir auch Babysitter-Dienste anbieten: im Januar wurden wir von einer Referentin des DRK zu Babysittern ausgebildet. Wir lernten alles, was f\u00fcr die Betreuung von Kindern im Alter von 0-5 Jahren wichtig ist: Wie wird ein Baby richtig gewickelt, getragen oder gef\u00fcttert? Wie sehen die unterschiedlichen Entwicklungsstufen eines Kleinkindes aus? Welche Spiele kann man wann mit Kindern durchf\u00fchren? Wie geht man z.B. mit Allergien oder Verletzungen um?<\/p><p>Colin Meyer, Gesch\u00e4ftsf\u00fchrer unserer Sch\u00fclerfirma, sagte im Anschluss an den 8-st\u00fcndigen Kurs: \u201eMir hat der Praxisanteil mit dem Wickeln und der Essenszubereitung am meisten gefallen. Ich hoffe, dass ich das, was ich gelernt habe, schon bald an meinem Neffen anwenden kann.\u201c<\/p><p>Ebenso freuen wir uns alle sehr darauf, nun, mit dem erworbenen Babysitter-Zertifikat, nachmittags oder an Wochenenden als Babysitter engagiert zu werden.<\/p><p>Und auch f\u00fcr die Unterst\u00fctzung von \u00e4lteren Menschen haben wir ab dem 22.3. dienstags vormittags Kapazit\u00e4ten frei.<\/p><p>Melden Sie sich gerne bei Bedarf in der KGS oder bei unserer Lehrerin, Elisabeth L\u00fccken (mobil: 01703310235).<\/p><p><strong><em>Liebe Gr\u00fc\u00dfe, das Sofa-Team<\/em><\/strong><\/p><p><\/p><p><\/p>"},"id":"cc661646-decd-4037-986c-f8d86a4986f4","isHidden":false,"type":"text"}],"id":"ba9b6f51-47b0-4e91-bc95-6e094796915a","width":"1\/2"},{"blocks":[{"content":{"karousel":["img_2333.jpg","img_2369.jpg","img_2338.jpg"]},"id":"294f969a-2825-44ee-a15e-5e9517298608","isHidden":false,"type":"karousel"}],"id":"e0afa8cb-1648-4d7c-9508-d3e6d04384b3","width":"1\/2"}],"id":"edc2d415-bf37-4da0-9b7b-88d125c663fb"}]
+
+----
+
+Date: 2022-03-16 10:25:00
+
+----
+
+Datumstartseite: 2022-07-16 10:25:00
+
+----
+
+Author: Das Sofa-Team
+
+----
+
+Tags: Schülerfirmen, Sofateam
+
+----
+
+Downloads: 
+
+----
+
+Uuid: HYW7zGHqUN69TYsr

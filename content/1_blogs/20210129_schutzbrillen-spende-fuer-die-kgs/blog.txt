@@ -1,0 +1,44 @@
+Title: Schutzbrillen-Spende für die KGS
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Corona ver\u00e4ndert den Unterricht \u2013 nicht nur durch Distanzlernen und IServ, sondern in vielen Bereichen. So musste z.B. der Unterricht in den Naturwissenschaften Biologie, Physik, besonders aber in Chemie angepasst werden, weil Experimente besonderen Hygienebedingungen erfordern. Ein Problem tauchte dort im Bereich der Schutzbrillen auf, ohne die Experimente im Chemieunterricht aber nicht stattfinden d\u00fcrfen. Aber Schutzbrillen werden an der KGS bisher von allen Sch\u00fclerinnen und Sch\u00fclern genutzt, sie werden von einer zur n\u00e4chsten Klasse weitergegeben. Unter Pandemie-bedingungen bedeutet dies: zwischendurch gr\u00fcndlich reinigen! Dieses ist jedoch im Schulalltag nur schwierig zu leisten, zudem kann man nicht sicherstellen, dass die Brille danach wirklich gut gereinigt ist. Au\u00dferdem f\u00fchrt die h\u00e4ufige Reinigung dazu, dass die Gl\u00e4ser noch schneller verkratzen, als sie es ohnehin schon tun.<\/p><p>Daher hat der Fachbereich Naturwissenschaften \u00fcberlegt, wie wir die Hygienevorschriften einhalten k\u00f6nnen und trotzdem so wenig Abstriche beim Experimentieren wie m\u00f6glich machen m\u00fcssen. Unser Ziel war es, genug Geld aufzutreiben, um jeder Sch\u00fclerin und jedem Sch\u00fcler der Jahrg\u00e4nge 6 \u2013 11 eine eigene Brille geben zu k\u00f6nnen. Bei unserer gro\u00dfen Schule braucht man daf\u00fcr schnell einige tausend Euro, auch wenn eine Schutzbrille mit 2 \u2013 3 Euro gar nicht viel Geld kostet. Nach einigen Gespr\u00e4chen und Telefonaten erreichte unser Anliegen dann die Ohren von mehreren Firmen aus der Gemeinde Rastede (u.a. eine Gruppe um die Firma R. Kr\u00e4mer aus Hahn-Lehmden), die sich dankenswerterweise bereiterkl\u00e4rten, die Summe komplett zu finanzieren. Somit bekommen nun alle Sch\u00fclerinnen und Sch\u00fcler \u00fcber den Chemieunterricht eine neue, kratzerfreie Schutzbrille ausgeteilt, die sie behalten d\u00fcrfen. Derzeit stockt das Austeilen nat\u00fcrlich, aber falls eure Klasse noch keine bekommen hat, wird das sicherlich nach dem Distanzlernen nachgeholt werden. In jedem Fall waren wir \u00fcberw\u00e4ltigt von der gro\u00dfz\u00fcgigen Spende und bedanken uns herzlich, dass wir nun wieder unter deutlich einfacheren Bedingungen experimentieren k\u00f6nnen!<\/p>"},"id":"d6389678-0f09-4fe6-9081-6ca143ecd3d0","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- schutzbrillen-ii.jpg
+- schutzbrillen-iii.png
+
+----
+
+Date: 2021-01-29 00:00:00
+
+----
+
+Datumstartseite: 2021-05-29 00:00:00
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: Chemie, Corona, NTW, Sicherheit
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: 1ER8tUSkXEi3xt8X

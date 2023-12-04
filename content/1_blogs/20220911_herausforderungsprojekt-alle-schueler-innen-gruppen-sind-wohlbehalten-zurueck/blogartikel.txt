@@ -1,0 +1,33 @@
+Title: Herausforderungsprojekt: Alle Schüler:innen-Gruppen sind wohlbehalten zurück!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Letzten Donnerstag war es dann soweit. Die Gruppen des Herausforderungsprojekts sind nach 14 Tagen aus allen Himmelsrichtungen wieder in Rastede eingetroffen und von ihren Eltern in Empfang genommen worden. Am Freitagnachmittag fand die gro\u00dfe Pr\u00e4sentation der Projekte f\u00fcr Eltern, Mitsch\u00fcler:innen und Lehrer:innen statt. So konnten alle gut nachempfinden, wie es den Teilnehmenden ergangen ist, was sie erlebt und gelernt haben. <\/p><p>Ein sch\u00f6ner Abschluss des Projekts!<\/p>"},"id":"9c97bdcc-8de2-4c39-badd-57be573d8736","isHidden":false,"type":"text"}],"id":"0f79fa25-58ba-4b55-9770-106d60b35259","width":"1\/2"},{"blocks":[{"content":{"images":["e863d216-b45c-4685-b009-73550da0d909.jpg","f39631ec-d351-43e9-bbec-e7e98fea14ad.jpg","f7d5d636-bdea-4a3e-9e83-e898e1ddc99c.jpg","89411505-7a8a-4e5b-8bd2-1e7bfb14146f.jpg","ac941dc5-b39a-4ec6-b610-6661764affb0.jpg","de601dab-c5c4-4ce7-a13a-60366799a29b.jpg","d017118a-05ab-4415-b9a1-dc4668c8a8c4.jpg","ab27ebae-5197-445f-8ae3-da222fdaa811.jpg","72a9f483-8855-4e2d-9204-6497beb5a454.jpg","45ef75d8-cbce-4f1f-ba88-f26d966991fe.jpg","14e4ce69-3b54-41a6-95ee-0cb63b41e97b.jpg","26c9a0f8-3cbf-4bad-b3db-facf49e14dc3.jpg","4f059070-1ba7-4b8d-a196-90ac6cdb55d4.jpg","0c55f33e-0557-4334-87d4-31d14c108465.jpg","3df244e9-a8cd-4540-9816-0940ca69d958.jpg"]},"id":"4f7cd284-ec5c-4dfc-a68f-81657213320a","isHidden":false,"type":"gallery"}],"id":"7abee65a-8125-4805-a427-8a9744bb71fb","width":"1\/2"}],"id":"53f4ddba-70bc-44ce-b7d3-5c665d55c80f"},{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https:\/\/player.vimeo.com\/video\/756651452?h=3529c6cbdd","caption":"Das Herausforderungsprojekt an der KGS-Rastede - Was bleibt?"},"id":"0ea8d399-b20e-4b2f-abea-d5991e45a24f","isHidden":false,"type":"video"}],"id":"d154f6e1-2da9-4e60-ac52-9a47c864a4ef","width":"1\/1"}],"id":"eab4fd77-2039-4545-a1fa-27e496d2c0c2"}]
+
+----
+
+Date: 2022-09-11 17:45:00
+
+----
+
+Datumstartseite: 2023-01-11 17:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Kirstin Westerholt
+
+----
+
+Tags: Herausforderungsprojekt, Projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: pYnZAXStnRGNTNTQ

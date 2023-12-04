@@ -1,0 +1,29 @@
+Title: Run for Ukraine-say no to war!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Unsere Schule veranstaltet zwischen dem 28.03.2022 und dem 29.04.2022 den Spendenlauf \u201cStand with Ukraine \u2013 say no to war\u201d zu Gunsten der vom Krieg gebeutelten Ukraine und ihren Fl\u00fcchtlingen. <\/p><p>Die Einnahmen des Sponsorenlaufes werden wir zu 100 Prozent f\u00fcr diesen Zweck f\u00fcr ein regionales Projekt spenden. Die Sch\u00fclerinnen und Sch\u00fcler sammeln bei dieser Aktion auf sportliche Weise Spenden und engagieren sich gemeinsam f\u00fcr das Projekt.<\/p>"},"id":"286e3387-a0c6-46af-b63b-86fe33f7eba8","isHidden":false,"type":"text"}],"id":"be3bf9b7-723f-474b-9b38-57c1fe679941","width":"1\/1"}],"id":"e9c73896-f621-42ce-8c8c-cabcc7b21f77"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["2022-03-22_09h22_35.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"79c78614-3611-438b-8d7c-b26f1acddb22","isHidden":false,"type":"image"}],"id":"e0a6bc47-f078-40c8-be66-56024cdd978e","width":"1\/1"}],"id":"89ddf0a1-e2fe-4e24-a2d4-0d0672138367"}]
+
+----
+
+Date: 2022-03-22 09:20:00
+
+----
+
+Datumstartseite: 2022-07-22 09:20:00
+
+----
+
+Author: Fachbereich Sport
+
+----
+
+Tags: Ukraine, Demonstration, Sport
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Srt2j1ecDEoRsf2p

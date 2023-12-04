@@ -1,0 +1,7 @@
+# /site/blueprints/blocks/gastautor.yml
+name: Gastautor
+icon: account
+label: "{{ name }}"
+fields:
+  name:
+    type: text

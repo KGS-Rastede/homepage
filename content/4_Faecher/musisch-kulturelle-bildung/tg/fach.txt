@@ -1,0 +1,55 @@
+Title: Textiles Gestalten
+
+----
+
+Heading: Wahlpflichtbereich des Hauptschulzweiges der Jahrgänge 7 bis 10
+
+----
+
+Text: [{"content":{"level":"h1","text":"\"SPINNT IHR?\""},"id":"70feea8c-c03e-4234-8d28-928140add3af","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Eher selten :)</strong></p>"},"id":"84ee3e47-2b2f-4960-8a5a-548a3a4b27f4","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Aber wir nähen, sticken, entwerfen, färben, drucken, knoten, filzen, experimentieren, …</strong></p>"},"id":"82089ad7-c209-48f0-b9c7-b54d3abc4ccb","isHidden":false,"type":"text"},{"content":{"text":"<p>Im WPK Textiles Gestalten lernst Du verschiedene textile Verfahren kennen, Du beschäftigst Dich mit Mode, ihrer Bedeutung und ihren Herstellungsbedingungen. Du lernst, wie Du Deinen eigenen Style entwickeln und gleichzeitig Widerstand gegen Fast Fashion leisten kannst. Du entwirfst und gestaltest Accessoires wie Kissen, Federtaschen, T-shirts. Und Du schaust über den Tellerrand und findest heraus, welches Aussehen und welche Bedeutung Textilien früher oder in anderen Kulturen haben.</p>"},"id":"2b8ae921-b369-4add-a730-d9e0716ce4b0","isHidden":false,"type":"text"},{"content":{"text":"<p>Du willst es genauer wissen? Der Netzplan gibt Dir eine Übersicht!</p>"},"id":"da7bc92c-615d-4051-b5f6-2f88b92138e3","isHidden":false,"type":"text"},{"content":{"text":"<p></p>"},"id":"01b39c15-e7f6-45b2-ba3c-cfa02cb076ae","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- file://FHMBdbQNsg7NvcYi
+- file://vuuUFpJhu9diiYyd
+- file://WMT4dvOmNkY8WBzw
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
+Haupttag: Textiles_Gestalten
+
+----
+
+Hintergrundbild: - file://dfL9M0eyEbM0OIc9
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung
+  name: >
+    Leitbild des Fachbereichs
+    Musisch-kulturelle Bildung
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=37'
+  name: Kerncurriculum Hauptschule
+
+----
+
+Uuid: pX2YDZnD8kVNsNTe

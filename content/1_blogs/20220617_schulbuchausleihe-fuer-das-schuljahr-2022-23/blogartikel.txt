@@ -1,0 +1,38 @@
+Title: Schulbuchausleihe für das Schuljahr 2022/23
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Das Verfahren f\u00fcr die Schulb\u00fccher l\u00e4uft nur \u00fcber iServ. Auch wenn Sie die B\u00fccher selber kaufen, m\u00fcssen Sie sich bei iServ anmelden. Bitte beachten Sie folgende Fristen: Anmeldeschluss ist der 18. Juli 2022, die \u00dcberweisung muss bis zum 24. Juli eingegangen sein.<\/p><p>Ein Anschreiben an die Erziehungsberechtigten und die <a href=\"https:\/\/kgs-rastede.de\/media\/pages\/blogs\/schulbuchausleihe-fuer-das-schuljahr-2022-23\/23a1dff8d2-1656088600\/anleitung_anmeldung_schulbuchausleihe_iserv-kgs.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Anleitung f\u00fcr das Verfahren \u00fcber iServ finden Sie hier<\/a>..<\/p><p>Die vollst\u00e4ndigen Schulbuchlisten k\u00f6nnen<a href=\"https:\/\/kgs-rastede.de\/allgemeines\/schulbuchlisten\" target=\"_blank\" rel=\"noopener noreferrer\"> Sie \u00fcber hier Link einsehen<\/a>.<\/p>"},"id":"a2110519-a8e7-4e97-bb19-605480b198cd","isHidden":false,"type":"text"}],"id":"8c1c9580-be99-4184-bc76-f34ba52ff52c","width":"1\/1"}],"id":"04c6f584-891c-4c0e-92e7-331f844c53dd"}]
+
+----
+
+Date: 2022-06-17 11:30:00
+
+----
+
+Datumstartseite: 2022-08-31 11:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulbuchausleihe, Topartikel
+
+----
+
+Downloads:
+
+- >
+  anleitung_anmeldung_schulbuchausleihe_iserv-kgs.pdf
+- >
+  anschreiben_anmeldung_schulbuchausleihe_iserv-kgs.pdf
+
+----
+
+Uuid: sghvVx3gxz1DywiV

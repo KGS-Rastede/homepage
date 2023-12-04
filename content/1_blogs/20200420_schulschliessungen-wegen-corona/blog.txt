@@ -1,0 +1,45 @@
+Title: Schulschließungen wegen Corona
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Juchhu, wir freuen uns, dass es bald in kleinen Schritten und kleinen Gruppen wieder losgeht.<\/p>"},"id":"af83c6eb-fb3f-4df3-854e-15d86c087e28","isHidden":false,"type":"text"},{"content":{"text":"<strong>Der Zeitplan<\/strong>"},"id":"47547de5-a6ab-40d4-abf6-3fee217a906b","isHidden":false,"type":"text"},{"content":{"text":"<p>Zun\u00e4chst beginnt es f\u00fcr alle mit Home-Learning! Dazu nehmen die Klassenlehrerinnen und Klassenlehrer auf dem gewohnten Weg Kontakt mit Sch\u00fclerinnen und Sch\u00fclern auf. Am Montag, 20.04., treffen die Lehrkr\u00e4fte die n\u00f6tigen Absprachen f\u00fcr die einzelnen Klassen. Sp\u00e4testens am Mittwoch erhalten alle Sch\u00fclerinnen und Sch\u00fcler ein Hallo! vom Klassenlehrer und Aufgaben aus den F\u00e4chern. Wir beginnen mit den Langf\u00e4chern, allm\u00e4hlich kommen dann weitere F\u00e4cher hinzu. Im Leitfaden findet man Angaben zum ungef\u00e4hren t\u00e4glichen Pensum. Diese Aufgaben sind f\u00fcr alle Sch\u00fclerinnen und Sch\u00fcler verpflichtend. Die Inhalte k\u00f6nnen nach der Home-schooling-Phase auch abgepr\u00fcft werden.<\/p>"},"id":"7a29355d-75a6-47d5-8a00-757a2cceb265","isHidden":false,"type":"text"},{"content":{"text":"<p>Ab dem 27.04. kommen die Abschlussklassen 9A1, 9B1, 10A1, 10A2, 10B2, 10C2 und 10D2 wieder zur Schule und zwar immer an jedem 2. Tag. Die Klassenlehrer teilen die Klassen ein und teilen den Sch\u00fclerinnen und Sch\u00fclern mit, an welchen Tagen sie zur Schule kommen. Sie werden jeweils in halber Klassenst\u00e4rke in den F\u00e4chern Deutsch, Mathe und Englisch unterrichtet. Selbstverst\u00e4ndlich ist das Abstandsgebot von allen einzuhalten. In K\u00fcrze erscheint hier ein detaillierter Plan. Ab dem 11.05. kann sich der Plan \u00e4ndern; dazu werden wir rechtzeitig informieren.<\/p>"},"id":"f96e6caf-1d83-4ae0-9d05-81e534ba9a59","isHidden":false,"type":"text"},{"content":{"text":"<p>Ab dem 11.05. kommt der 12. Jahrgang wieder zur Schule, ab dem 18.05. die \u00fcbrigen 9. und 10. Klassen. F\u00fcr die Jahrg\u00e4nge 7 und 8 sowie 5 und 6 hei\u00dft es bislang nur: Ende Mai oder Anfang Juni.<\/p>"},"id":"600ff093-dac6-4479-b3ce-c22bde40f693","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Informationen<\/strong><\/p>"},"id":"ddcfe89d-5eaf-42f0-b0ee-6a80c6b8d8d2","isHidden":false,"type":"text"},{"content":{"text":"Sobald wir N\u00e4heres wissen, teilen wir es hier mit:"},"id":"8facef2f-2ca3-46eb-ad26-54e2a92890c9","isHidden":false,"type":"text"},{"content":{"text":"<p>23.04.2020: <a href=\"https:\/\/www.kgs-rastede.de\/images\/Hygiene_im_KGS_Schulalltag.pdf\" rel=\"noopener noreferrer nofollow\">Hygiene_im_KGS_Schulalltag.pdf <\/a>und Poster Hygieneregeln <a href=\"https:\/\/www.kgs-rastede.de\/images\/Hygieneregeln.pdf\" rel=\"noopener noreferrer nofollow\">Hygieneregeln.pdf<\/a><\/p>"},"id":"9b414d32-08be-4f2e-8f2a-0312366cc1b4","isHidden":false,"type":"text"},{"content":{"text":"<p>22.04.2020: Lernen zu Hause, Teil II <a href=\"https:\/\/nibis.de\/tipps-zur-vorbereitung-auf-die-abschlusspruefungen_13672\" rel=\"noopener noreferrer nofollow\">lernenzuhause.nibis.de<\/a><\/p>"},"id":"01a7951f-4193-4a23-8397-8f952dbfec9b","isHidden":false,"type":"text"},{"content":{"text":"<p>21.04.2020: <a href=\"https:\/\/www.kgs-rastede.de\/images\/KGS_Rastede_nimmt_Schulbetrieb_wieder_auf.pdf\" rel=\"noopener noreferrer nofollow\">KGS_Rastede_nimmt_Schulbetrieb_wieder_auf.pdf<\/a><\/p>"},"id":"3833f564-393f-44e6-b03c-32931b01df0a","isHidden":false,"type":"text"},{"content":{"text":"<p>17.04.2020: Lernen zu Hause <a href=\"https:\/\/www.kgs-rastede.de\/images\/Leitfaden_fr_Eltern_Schlerinnen_und_Schler1.pdf\" rel=\"noopener noreferrer nofollow\">Leitfaden_fr_Eltern_Schlerinnen_und_Schler1.pdf<\/a><\/p>"},"id":"8c5deffb-cad6-49c8-8503-ce5c27e4b187","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00fcr eure und Ihre Fragen und Anregungen stehen wir jederzeit gern zur Verf\u00fcgung \u2013 unsere Kontaktdaten sind hier auf der Homepage zu finden. Alle Lehrkr\u00e4fte sind per Mail unter <a href=\"mailto:k\u00fc<a href=\" rel=\"noopener noreferrer nofollow\">k\u00fc<\/a><a href=\"mailto:rzel@kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">rzel@kgs-rastede.de<\/a> zu erreichen. Das K\u00fcrzel kann man dem Vertretungsplan in webuntis entnehmen. Selbstverst\u00e4ndlich stehen auch die Beratungslehrkr\u00e4fte sowie die sozialp\u00e4dagogischen Mitarbeiter mit Rat und Tat zur Verf\u00fcgung.<\/p>"},"id":"45d34d6e-75ce-413b-936f-d4bd5165b41d","isHidden":false,"type":"text"},{"content":{"text":"<p>Bleibt\/ bleiben Sie alle gesund,<\/p><p>Ihre\/ eure Schulleitung<\/p>"},"id":"bb4ffb34-c547-44e2-8550-df6d73e6079a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2020-04-20 04:30:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Die Schulleitung
+
+----
+
+Tags: Schulleitung
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false

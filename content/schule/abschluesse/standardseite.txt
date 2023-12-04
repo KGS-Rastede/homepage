@@ -1,0 +1,37 @@
+Title: Abschlüsse an der KGS Rastede
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h1","text":""},"id":"74578c7e-5e0e-4e35-a907-04fc5878b045","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"bc1de197-1ce4-4868-b153-d66f32ec58dc","isHidden":false,"type":"image"},{"content":{"text":"<p><strong><u>Abschl\u00fcsse in der Sekundarstufe I<\/u><\/strong><\/p><p><strong>Nach Klasse 9:<\/strong><\/p><p>Hauptschulabschluss<\/p><p>F\u00f6rderschulabschluss im Bereich Lernen<\/p><p><strong>Nach Klasse 10:<\/strong><\/p><p>Sekundarabschluss I - Hauptschulabschluss<\/p><p>Sekundarabschluss I \u2013 Realschulabschluss<\/p><p>Erweiterter Sekundarabschluss I (berechtigt zum Besuch der gymnasialen Oberstufe)<\/p><p>Die Abschlusspr\u00fcfungen bestehen aus einem schriftlichen und m\u00fcndlichen Pr\u00fcfungsteil. In den F\u00e4chern des schriftlichen Pr\u00fcfungsteils werden landesweit einheitliche Pr\u00fcfungsaufgaben gestellt. Das Ergebnis des jeweiligen Pr\u00fcfungsfaches geht in die Jahresnote des Faches mit einem Drittel ein. Unter den Pr\u00fcfungsf\u00e4chern darf h\u00f6chstens ein Fach mit einer insgesamt mangelhaften Leistung bei der Jahresnote sein.<\/p><p>&nbsp;<\/p><p><strong><u>Abschl\u00fcsse in der Sekundarstufe II<\/u><\/strong><\/p><p><strong>Fachhochschulreife<\/strong><\/p><p>Der schulische Teil der Fachhochschulreife kann erworben werden durch bestimmte Leistungen in Kursen auf erh\u00f6htem und auf grundlegendem Niveau aus zwei zeitlich aufeinander folgenden Kurshalbjahren in der Qualifikationsphase. Nach einem anschlie\u00dfenden einj\u00e4hrigen Praktikum, einer abgeschlossenen Berufsausbildung oder einem Freiwilligendienst kann die Fachhochschulreife bescheinigt werden.<\/p><p><\/p><p><strong>Allgemeine Hochschulreife (Abitur)<\/strong><\/p><p>Das Abitur setzt sich zusammen aus den Leistungen in bestimmten Kursen auf erh\u00f6htem und auf grundlegendem Niveau in den vier Halbjahren der Qualifikationsphase und aus den Leistungen in der Abiturpr\u00fcfung (schriftliche und m\u00fcndliche Pr\u00fcfungen). In den schriftlichen Abiturpr\u00fcfungen werden landesweit einheitliche Pr\u00fcfungsaufgaben gestellt. Das Abiturzeugnis berechtigt zum Studium an allen Hochschulen und Universit\u00e4ten in Deutschland.<\/p><p>&nbsp;<\/p>"},"id":"9bc500aa-787b-4f17-8749-5bd950f893cd","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Uuid: OD3fGm89HxlY5hW3

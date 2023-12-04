@@ -1,0 +1,44 @@
+Title: Förderverein: Kontakt
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Sie haben Fragen, Anregungen oder Kritik an uns? Schreiben Sie uns einfach an <a href=\"mailto:kontakt@foerderverein.kgs-rastede.de\" title=\"kontakt@foerderverein.kgs-rastede.de\" rel=\"noopener noreferrer nofollow\">kontakt@foerderverein.kgs-rastede.de<\/a>.<\/p>"},"id":"6034ed29-3367-4efc-bb7d-4076b59fcd8d","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: Förderverein der KGS Rastede e.V.
+
+----
+
+Related:
+
+- foerderverein
+- foerderverein/aktuelles
+- foerderverein/cafeteria
+- foerderverein/mitmachen
+- foerderverein/satzung
+- foerderverein/spenden
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Sidetoggle: true

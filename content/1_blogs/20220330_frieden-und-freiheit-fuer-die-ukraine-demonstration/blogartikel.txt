@@ -1,0 +1,29 @@
+Title: Frieden und Freiheit für die Ukraine! - Demonstration
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Liebe Sch\u00fcler*innen,<br>die Grundschule Feldbreite und die AG \u201eF\u00fcr den Frieden\u201c f\u00fchren am Donnerstag, 31.3.2022, eine Demonstration unter dem Motto \u201eFrieden und Freiheit f\u00fcr die Ukraine\u201c durch. Gemeinsam fordern wir das sofortige Ende des russischen Angriffskrieges gegen die Ukraine. Wir lehnen jeden Krieg als Mittel der Konfliktbew\u00e4ltigung ab. Krieg darf nicht die Fortsetzung der Politik mit anderen Mitteln sein \u2013 nicht in der Ukraine und auch nirgendwo sonst; nicht im Jahr 2022 und zu keiner anderen Zeit.<\/p><p><\/p>"},"id":"f6ea9ca9-e53a-463f-80e9-c6f33f5d68e9","isHidden":false,"type":"text"}],"id":"76ac732c-88d6-4ba4-9aa6-9fe50bf43543","width":"1\/1"}],"id":"36ffa795-9d97-4c38-baa1-c97419eed7a3"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["demobild.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7b49d0f8-cc28-44f4-ba69-fa7a7f4919e9","isHidden":false,"type":"image"}],"id":"cfe5af13-7127-44e0-889a-a4eeafc916af","width":"1\/1"}],"id":"7e54faa3-b5dd-4733-a97f-ad452c8b191d"}]
+
+----
+
+Date: 2022-03-30 08:00:00
+
+----
+
+Datumstartseite: 2022-08-01 08:00:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Uuid: YjiEOp4JnZzYpPTy

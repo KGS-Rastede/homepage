@@ -1,0 +1,58 @@
+title: Fächerübersicht
+icon: 📜
+templates: fach
+
+
+columns:
+
+  # main content
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          bezeichnung:
+            width: 1/4
+            label: Bezeichnung/Anrede
+            type: text
+          namefbl:
+            width: 1/2
+            label: Name der Fachbereichleiter:in
+            type: text
+          email:
+            width: 1/4
+            label: Emailadresse
+            type: email
+          trennlinie:
+            type: line
+          text:
+            label: Beschreibung des Fachbereichs
+            type: blocks
+
+
+
+  # meta information
+  sidebar:
+    width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          pages:
+            headline: Fächer des Fachbereichs
+            info: "Tag: {{page.haupttag}}"
+          symbolbild:
+            type: files
+            label: Bild zu den Fachbereichen, wird in der Übersicht angezeigt
+            multiple: false
+            layout: cards
+          # Hier könnte man in Zukunft einen Account einbauen.
+          # Nur dieser Account kann dann die Unterseiten editieren.
+          # author:
+          #   label: Author
+          #   type: users
+          #   multiple: false
+          tags:
+            label: Tags
+            type: tags

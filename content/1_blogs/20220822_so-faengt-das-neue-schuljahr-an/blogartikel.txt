@@ -1,0 +1,33 @@
+Title: So fängt das neue Schuljahr an
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am Donnerstag, den 25.08.2022 geht es los:<\/p><p><u>Jg. 5:<\/u><\/p><p>Die 5. Klassen kommen zur 2. Stunde. Die Sch\u00fclerinnen und Sch\u00fcler werden auf dem Schulhof um 8.30 Uhr von ihren Klassenlehrerinnen und Klassenlehrern in Empfang genommen und haben dann von der 2. - 5. Stunde bei ihnen Unterricht.<\/p><p>Von Freitag bis einschlie\u00dflich Mittwoch hat der gesamte 5. Jahrgang Einlebenstage bei den Klassenlehrerinnen oder Klassenlehrern.<\/p><p><u>Jg. 6 - 11:<\/u><\/p><p>Die Klassen kommen zur 1. Stunde und haben Donnerstag und Freitag Einlebenstage mit den Klassenlehrkr\u00e4ften.<\/p><p>Der Nachmittagsunterricht findet am ersten Schultag nicht statt.<\/p><p>\u00a0<u>Jg. 12:<\/u><\/p><p>Der 12. Jahrgang kommt zur B\u00fccherausgabe in der 1. Stunde (8.00 Uhr). In der 2. Stunde findet in der Aula die Jahrgangsversammlung (Frau Garbe\/ Herr Diekmann) statt. Ab der 3. Stunde finden am Donnerstag und Freitag (1. \u2013 6. Std.) Einlebenstage in den Seminarf\u00e4chern statt.<\/p><p>\u00a0Der Nachmittagsunterricht findet am ersten Schultag nicht statt.<\/p><p>\u00a0<u>Jg. 13:<\/u><\/p><p>Der 13. Jahrgang kommt zur Jahrgangsversammlung (Frau Garbe\/ Herr Diekmann) in der 1. Stunde (8.00 Uhr) in die Aula. In der 2. Stunde findet in R 136 die Jahrgangsversammlung (nur Sch\u00fclerinnen und Sch\u00fcler) statt. Ab der 3. Stunde finden am Donnerstag und Freitag (1.- 6. Std.) Einlebenstage in den Seminarf\u00e4chern statt.<\/p><p>\u00a0Der Nachmittagsunterricht findet am ersten Schultag nicht statt.<\/p>"},"id":"1a97239f-a90f-44c2-8e38-d2928d6d77f8","isHidden":false,"type":"text"}],"id":"c02c3734-df54-4791-af84-2a3a3c0f4d98","width":"1\/1"}],"id":"81790776-0622-4156-a8b0-09fe802e7126"}]
+
+----
+
+Date: 2022-08-22 11:00:00
+
+----
+
+Datumstartseite: 2022-12-22 11:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schuljahr
+
+----
+
+Downloads: 
+
+----
+
+Uuid: MMPnOlL56s7wHny8

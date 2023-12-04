@@ -1,0 +1,45 @@
+Title: Freiheit und Demokratie für Myanmar - Transparente im Forum
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Am 11. Februar 2021 hat die AG \"F\u00fcr den Frieden\" eine neue Ausstellung im Forum erstellt.<\/p><p><\/p><p>Dazu haben die Mitglieder der AG auch eine PDF erstellt, die das Projekt n\u00e4her vorstellt.<\/p><p><\/p>"},"id":"6104c0ee-a4b1-4051-a62a-32afb45b57e0","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- myanmar1.jpg
+- myanmar2.jpg
+- myanmar3.jpg
+
+----
+
+Date: 2021-02-28 00:00:00
+
+----
+
+Datumstartseite: 2021-05-01 00:00:00
+
+----
+
+Author: AG Für den Frieden
+
+----
+
+Tags: AGs, Für den Frieden
+
+----
+
+Downloads: - ag-fdf-myanmar.pdf
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Uuid: MfsP01cbdZIilY4r

@@ -1,0 +1,37 @@
+Title: Ausbildungsschule
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>An der KGS Rastede werden Referendare und Referendarinnen f\u00fcr die Lehr\u00e4mter an Grund- Haupt- und Realschulen sowie an Gymnasien ausgebildet. Dazu arbeitet die Schule eng mit den Studienseminaren f\u00fcr die Lehr\u00e4mter GHRS und f\u00fcr das gymnasiale Lehramt in Oldenburg zusammen.<\/p><p>Dar\u00fcber hinaus ist die Schule Ausbildungsschule f\u00fcr den Masterstudiengang GHR 300 an der Universit\u00e4t Oldenburg. Schlie\u00dflich absolvieren jedes Jahr \u00fcber 30 Studierende der Universit\u00e4t Oldenburg ihr allgemeines Schulpraktikum oder ihr Fachpraktikum an der KGS Rastede.<\/p><p>Lehrkr\u00e4fte der Schule sind als Ausbilder in beiden Studienseminaren, als Mentoren in der Lehrerausbildung der Universit\u00e4ten Oldenburg und Bremen t\u00e4tig oder haben dort einen Lehr- und Forschungsauftrag.<\/p>"},"id":"fe350646-8b0b-463d-857f-c34ca1994b88","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads: 
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Uuid: wqRe4vOjEEqzXOJE

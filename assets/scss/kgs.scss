@@ -1,0 +1,685 @@
+@import "../../vendor/twbs/bootstrap/scss/functions";
+// Then add additional custom code here
+
+/* -------begin customization-------- */
+
+// Basisschriftgröße etwas erhöhen
+$font-size-base: 1.2rem;
+
+// Das Swap ist für die Performance, sagen die Analysetools...
+// https://web.dev/font-display/?utm_source=lighthouse&utm_medium=lr#how-to-avoid-showing-invisible-text
+@font-face {
+    font-family: "Pangea";
+    src: url("Pangea-LightWeb.woff2");
+    font-style: normal;
+    font-weight: 300;
+
+    src: local("Pangea-LightWeb"), local("Pangea-LightWeb"), url("./Pangea-LightWeb.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Pangea";
+    src: url("./Pangea-RegularWeb.woff2");
+    font-style: normal;
+    font-weight: 400;
+
+    src: local("Pangea-Regular"), local("Pangea-RegularWeb"), url("./Pangea-RegularWeb.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Pangea";
+    src: url("Pangea-MediumWeb.woff2");
+    font-style: normal;
+    font-weight: 500;
+
+    src: local("Pangea-MediumWeb"), local("Pangea-MediumWeb"), url("./Pangea-MediumWeb.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Pangea";
+    src: url("Pangea-SemiBoldWeb.woff2");
+    font-style: normal;
+    font-weight: 600;
+
+    src: local("Pangea-SemiBold"), local("Pangea-SemiBoldWeb"), url("./Pangea-SemiBoldWeb.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Pangea";
+    src: url("./Pangea-BoldWeb.woff2");
+    font-style: normal;
+    font-weight: 700;
+
+    src: local("Pangea-BoldWeb"), local("Pangea-BoldWeb"), url("./Pangea-BoldWeb.woff2") format("woff2");
+    font-display: swap;
+}
+
+$font-family-sans-serif: Pangea, Segoe UI, Optima, Arial, sans-serif;
+
+$body-bg: #f4f4f4;
+
+html,
+body {
+    overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+
+body {
+    padding-top: 56px;
+}
+
+// Custom
+
+$primary: #586994;
+$secondary: #f9f8f8;
+$success: #bdc8d4;
+$info: #0099cc;
+$warning: #a34c40;
+$danger: #8c271e;
+$light: #0e5499;
+$dark: #250606dc;
+
+
+$teamfarbe1: #a2c334;
+$teamfarbe2: #346434;
+$teamfarbe3: #97675b;
+$teamfarbe4: #d22334;
+$teamfarbe5: #e27ff4;
+$teamfarbe6: #fbb334;
+$teamfarbe7: #ada18c;
+
+
+
+$theme-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "light": $light,
+    "dark": $dark,
+    "teamfarbe1": $teamfarbe1,
+    "teamfarbe2": $teamfarbe2,
+    "teamfarbe3": $teamfarbe3,
+    "teamfarbe4": $teamfarbe4,
+    "teamfarbe5": $teamfarbe5,
+    "teamfarbe6": $teamfarbe6,
+    "teamfarbe7": $teamfarbe7,
+);
+
+$table-border-width: 3px; //Tabellen Trennlinien dickers
+$table-border-color: #c6cace; //Tabellen Trennlinien Farbe dunkler
+
+$code-color: #000000; //Schriftfarbe für Code auf schwarz, da default pink
+
+// .navbar-light .navbar-nav a.nav-link {
+//     color: #f4f4f4 !important;
+//     // font-size: 22px;
+// }
+
+// .dropdown-menu a {
+//     color: #58945d;
+// }
+
+// .dropdown-menu {
+//     // Das ist die Farbe des Hintergrundes
+//     // vom Dropdownmenu
+//     background-color: #f4f4f4 !important;
+// }
+
+.main {
+    margin-top: 30px;
+}
+
+code {
+    //Hintergrund für Code-Elemente und monospace
+    background-color: #e7e7e7;
+    padding: 0.1rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    font-family: monospace !important;
+}
+
+.code-wrapper {
+    //für mehrzeilige Code-Elemente
+    background-color: #e7e7e7;
+}
+
+.carousel-indicators {
+    position: static !important;
+}
+
+.carousel-caption {
+    position: static !important;
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.honeypot {
+    //Für Formulare (sehr primitives antispam)
+    position: absolute;
+    left: -9999px;
+}
+
+.text-umbruch {
+    //Speziell für die Navbar
+    white-space: normal !important;
+}
+
+@media (min-width: 576px) {
+    //Speziell für die Navbar
+    .text-sm-kein-umbruch {
+        white-space: nowrap !important;
+    }
+}
+
+// footer {
+//     width: 100%;
+//     padding: 30px 0;
+//     background: darken(#ffffff, 10%);
+//     color: set-text-color(#f9f8f8);
+// }
+
+/*==================================
+    Heroimage (Startseite)
+==================================*/
+
+.top-banner-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 350px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    align-content: center;
+    justify-content: center;
+}
+.top-banner-section .banner-image-div {
+    grid-area: 1 / 1 / 2 / 2;
+}
+.top-banner-section .banner-overlay-div {
+    grid-area: 1 / 1 / 2 / 2;
+}
+.top-banner-section .banner-text-div {
+    grid-area: 1 / 1 / 2 / 2;
+}
+
+.banner-image {
+    display: grid;
+    min-width: 350px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner-overlay-div {
+    display: grid;
+    max-width: 100%;
+    // background: black;
+    // background: linear-gradient(60deg, rgba(0, 0, 0, 0.7777485994) 30%, rgba(255, 255, 255, 0) 100%);
+}
+
+.banner-text-div {
+    display: grid;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.banner-h1-text {
+    font-size: calc(26pt + 0.15vw);
+    letter-spacing: 0.05em;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: white;
+}
+
+.banner-body-text {
+    font-size: calc(20pt + 0.15vw);
+    margin-top: 1.5em;
+    color: white;
+    text-decoration: none;
+}
+.banner-body-text:hover {
+    color: white;
+}
+.banner-body-text:visited {
+    color: white;
+}
+.banner-body-text:active {
+    color: white;
+}
+
+.banner-btn {
+    margin-top: 1em;
+}
+
+.banner-btn-item {
+    font-size: calc(8pt + 0.15vw);
+    padding-top: calc(0.5em + 0.08vw);
+    padding-bottom: calc(0.5em + 0.08vw);
+    padding-left: calc(0.5em + 0.08vw);
+    padding-right: calc(0.5em + 0.08vw);
+    color: blue;
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 1px solid white;
+}
+.banner-btn-item:link {
+    text-decoration: none;
+}
+.banner-btn-item:visited {
+    text-decoration: none;
+}
+
+// Hier kommen Anpassungen wegen Effekten (übernommen von .smol-transitions)
+
+.kgs-transitions > * {
+    --transition-property: transform;
+    --transition-duration: 180ms;
+    transition: var(--transition-property) var(--transition-duration) ease-in-out;
+}
+
+.zoom:hover > * {
+    transform: scale(1.1);
+}
+
+// Hier das Design für die Highlightfelder (Callouts)
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid;
+    border-left-width: 10px;
+    // border-radius: 10px;
+}
+.bs-callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: $danger;
+}
+
+@each $state, $value in $theme-colors {
+    .bs-callout-#{$state} {
+        border-color: $value;
+        border-left-color: $value;
+    }
+}
+
+/* das Menu */
+@media (max-width: 991.98px) {
+    .offcanvas-collapse {
+        position: fixed;
+        top: 56px; /* Height of navbar */
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        overflow-y: auto;
+        visibility: hidden;
+        background-color: $secondary;
+        // 08/15 übergang
+        // transition: transform 0.3s ease-in-out, visibility 0.3s ease-in-out;
+
+        // eher spielerische mit "über das Ziel hinaus"
+        transition: all 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+        // etwas weniger spielerisch
+        // transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+    .offcanvas-collapse.open {
+        visibility: visible;
+        transform: translateX(-100%);
+    }
+}
+
+.nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    /* color: rgba(255, 255, 255, .75); */
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+
+.nav-underline .nav-link {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    font-size: 0.875rem;
+    /* color: #6c757d; */
+}
+
+/* Ab hier für die Geschichtsunterseite */
+
+$primary-color-hover: scale-color($primary, $lightness: 32%);
+
+/*==================================
+    TIMELINE für geschichte.php
+==================================*/
+
+.timeline {
+    line-height: 1.4em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        line-height: inherit;
+    }
+}
+
+/*----- TIMELINE ITEM -----*/
+
+.timeline-item {
+    padding-left: 40px;
+    position: relative;
+    &:last-child {
+        padding-bottom: 0;
+    }
+}
+
+/*----- TIMELINE INFO -----*/
+
+.timeline-info {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin: 0 0 0.5em 0;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+/*----- TIMELINE MARKER -----*/
+
+.timeline-marker {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 15px;
+    &:before {
+        background: $primary;
+        border: 3px solid transparent;
+        border-radius: 100%;
+        content: "";
+        display: block;
+        height: 15px;
+        position: absolute;
+        top: 4px;
+        left: 0;
+        width: 15px;
+        transition: background 0.3s ease-in-out, border 0.3s ease-in-out;
+    }
+    &:after {
+        content: "";
+        width: 3px;
+        background: $secondary;
+        display: block;
+        position: absolute;
+        top: 24px;
+        bottom: 0;
+        left: 6px;
+    }
+    .timeline-item:last-child &:after {
+        content: none;
+    }
+}
+.timeline-item:not(.period):hover .timeline-marker:before {
+    background: transparent;
+    border: 3px solid $primary;
+}
+
+/*----- TIMELINE CONTENT -----*/
+
+.timeline-content {
+    padding-bottom: 40px;
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+/*----- TIMELINE PERIOD -----*/
+
+.period {
+    padding: 0;
+    .timeline-info {
+        display: none;
+    }
+    .timeline-marker {
+        &:before {
+            background: transparent;
+            content: "";
+            width: 15px;
+            height: auto;
+            border: none;
+            border-radius: 0;
+            top: 0;
+            bottom: 30px;
+            position: absolute;
+            border-top: 3px solid $secondary;
+            border-bottom: 3px solid $secondary;
+        }
+        &:after {
+            content: "";
+            height: 32px;
+            top: auto;
+        }
+    }
+    .timeline-content {
+        padding: 40px 0 70px;
+    }
+    .timeline-title {
+        margin: 0;
+    }
+}
+
+/*----------------------------------------------
+        MOD: TIMELINE SPLIT
+    ----------------------------------------------*/
+
+.timeline-split {
+    @media (min-width: 768px) {
+        .timeline {
+            display: table;
+        }
+        .timeline-item {
+            display: table-row;
+            padding: 0;
+        }
+        .timeline-info,
+        .timeline-marker,
+        .timeline-content,
+        .period .timeline-info {
+            display: table-cell;
+            vertical-align: top;
+        }
+        .timeline-marker {
+            position: relative;
+        }
+        .timeline-content {
+            padding-left: 30px;
+        }
+        .timeline-info {
+            padding-right: 30px;
+        }
+        .period .timeline-title {
+            position: relative;
+            left: -45px;
+        }
+    }
+}
+
+/*----------------------------------------------
+        MOD: TIMELINE CENTERED
+    ----------------------------------------------*/
+
+.timeline-centered {
+    @extend .timeline-split;
+    @media (min-width: 992px) {
+        &,
+        .timeline-item,
+        .timeline-info,
+        .timeline-marker,
+        .timeline-content {
+            display: block;
+            margin: 0;
+            padding: 0;
+        }
+        .timeline-item {
+            padding-bottom: 40px;
+            overflow: hidden;
+        }
+        .timeline-marker {
+            position: absolute;
+            left: 50%;
+            margin-left: -7.5px;
+        }
+        .timeline-info,
+        .timeline-content {
+            width: 50%;
+        }
+        > .timeline-item:nth-child(odd) .timeline-info {
+            float: left;
+            text-align: right;
+            padding-right: 30px;
+        }
+        > .timeline-item:nth-child(odd) .timeline-content {
+            float: right;
+            text-align: left;
+            padding-left: 30px;
+        }
+        > .timeline-item:nth-child(even) .timeline-info {
+            float: right;
+            text-align: left;
+            padding-left: 30px;
+        }
+        > .timeline-item:nth-child(even) .timeline-content {
+            float: left;
+            text-align: right;
+            padding-right: 30px;
+        }
+        > .timeline-item.period .timeline-content {
+            float: none;
+            padding: 0;
+            width: 100%;
+            text-align: center;
+        }
+        .timeline-item.period {
+            padding: 50px 0 90px;
+        }
+        .period .timeline-marker:after {
+            height: 30px;
+            bottom: 0;
+            top: auto;
+        }
+        .period .timeline-title {
+            left: auto;
+        }
+    }
+}
+
+/*----------------------------------------------
+        MOD: MARKER OUTLINE für die Timeline
+    ----------------------------------------------*/
+
+.marker-outline {
+    .timeline-marker {
+        &:before {
+            background: transparent;
+            border-color: $primary;
+        }
+    }
+    .timeline-item:hover .timeline-marker:before {
+        background: $primary;
+    }
+}
+
+
+/*----------------------------------------------
+        Zoom-In-Effekt für die Galerie
+    ----------------------------------------------*/
+
+
+.ohnezoom {
+    margin-top: 30px;
+  }
+
+  .ohnezoom {
+    position: relative;
+    margin-bottom: 50px;
+
+  }
+
+
+  .mitzoom {
+    -border: 1px solid red;
+    position: absolute;
+    top: -100px;
+    opacity: 0;
+    -bottom: 100px;
+    -background-color: rgba(142, 198, 63, .8);
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    padding: 10p;
+  }
+
+  .ohnezoom:hover .mitzoom {
+    opacity: 1;
+    top: 0px;
+    transition: 1s;
+  }
+
+  .ohnezoom:hover .hover {
+    transform: scale(1.3);
+    transition: 1s;
+  }
+
+
+/* Dropdown-Menues sind scrollbar, wenn laenger als Bildschirm */
+.navbar-nav {
+    .dropdown-menu {
+        overflow-y: auto;
+        max-height: calc(100vh - (2 * var(--bs-navbar-padding-y)) - (2 * var(--bs-navbar-brand-padding-y)) - var(--bs-navbar-brand-font-size))
+    }
+}
+
+
+/* -------end customization-------- */
+
+/* finally, import Bootstrap to set the changes! */
+@import "../../vendor/twbs/bootstrap/scss/bootstrap";

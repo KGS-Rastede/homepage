@@ -1,0 +1,43 @@
+Title: Schüler interpretieren „Raum“
+
+----
+
+Heading: AUSSTELLUNG Kunstkurse der KGS zeigen Werke im Palais
+
+----
+
+Text: [{"content":{"text":"<p>Sch\u00fcler er\u00f6ffnen die Ausstellungsreihe im Palais. Auch ein Gemeinschaftswerk ist entstanden. VON HOLGER RA\u00df RASTEDE<\/p>"},"id":"ea247d08-92b1-4dc4-9565-cefa6e40544e","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201eFarben ver\u00e4ndernden Raum\u201c. Unter diesem Titel ziert eine Gemeinschaftsarbeit von 32 Sch\u00fclerinnen und Sch\u00fclern der Jahrg\u00e4nge 7C2und 7C3 des Kunstkurses der Kooperativen Gesamtschule (KGS) Rastede, eine Wand des \u201eHerrenzimmers\u201c im Palais Rastede. Im Rahmen der Vorbereitungen f\u00fcr die Ausstellung\u201eKunstraum\u201c, die vom 17. Januar bis 28. Februar zu sehen sein wird, hatten die Jugendlichen unter der Leitung ihrer Lehrerin Helga Reinders ihre einzelnen Arbeiten an einer Wand des Raumes so angeordnet, dass daraus ein Gesamtwerk entstand. F\u00fcr das anschlie\u00dfende Gruppenfoto versammelten sich die jungen K\u00fcnstler vor ihrem Werk, wobei einige von ihnen auch ihre eigenen Papierarbeiten zeigten. In Zusammenarbeit mit dem Kunst- und Kulturkreis Rastede pr\u00e4sentieren zahlreiche Sch\u00fclerinnen und Sch\u00fcler der KGS in ihrer Ausstellung kubistische Architekturansichten, Guckk\u00e4sten, Pop-Ups, Frottagen, Fotografienund malerische Arbeiten, die das Thema \u201eRaum\u201c interpretieren. Zur Er\u00f6ffnung am kommenden Sonntag, 17. Januar,um 11.15 Uhr im Palais laden Organisatoren und K\u00fcnstler ein.<\/p>"},"id":"0e618dd8-76d0-467c-a271-a016375f811d","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- 2010-01-15kunst_palais-1.jpg
+
+----
+
+Date: 2010-01-15 00:00:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Holger Raß
+
+----
+
+Tags: Kunst
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: false

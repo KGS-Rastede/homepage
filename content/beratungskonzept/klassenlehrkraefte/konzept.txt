@@ -1,0 +1,17 @@
+Title: KoLA-Förderung
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die&nbsp;<strong>Koordinierte Lernf\u00f6rderung im Ammerland (<em>KoLA<\/em>) <\/strong>wird im Rahmen des Bildungs- und Teilhabepakets durchgef\u00fchrt. Die Lernf\u00f6rderung wird sozialp\u00e4dagogisch begleitet, um au\u00dferschulische Probleme aufzuarbeiten. Sie kann als Einzel- oder Gruppenf\u00f6rderung erfolgen und findet in der Regel nachmittags statt.<\/p><p>Unsere Sozialp\u00e4dagogin Frau Hannwald-Keller hilft bei Fragen oder bei der Antragstellung.<\/p>"},"id":"ad8a08fa-9108-4005-9294-53281fa49620","isHidden":false,"type":"text"},{"content":{"text":"<p><a href=\"https:\/\/kvhs-ammerland.de\/fileadmin\/user_upload\/Flyer_gGmbH\/KoLA_neu_08092020.pdf\" rel=\"noopener noreferrer nofollow\">Mehrsprachiger Flyer<\/a><\/p>"},"id":"ec5f98c7-de4a-4bb6-8824-356165d33c73","isHidden":false,"type":"text"},{"content":{"text":"<p>Weitere Informationen: <a href=\"https:\/\/kvhs-ammerland.de\/index.php?id=24\" rel=\"noopener noreferrer nofollow\">KVHS Ammerland<\/a><\/p><p><\/p>"},"id":"4e01f074-abca-47fc-8427-9d7b1d1796e3","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: syQF7dczJ5Qf3roa

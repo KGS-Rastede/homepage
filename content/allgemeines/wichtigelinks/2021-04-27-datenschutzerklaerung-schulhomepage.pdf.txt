@@ -1,0 +1,13 @@
+Anzeigename: Datenschutzerklärung Schulhomepage
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: lyV9y7qrrrKL2tor

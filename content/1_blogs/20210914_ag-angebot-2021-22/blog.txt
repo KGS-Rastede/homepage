@@ -1,0 +1,41 @@
+Title: AG-Angebot 2021/22
+
+----
+
+Heading: Noch freie Plätze in den AGs der Jahrgänge 7-13
+
+----
+
+Text: [{"content":{"text":"<p>Du willst dich mit Gleichgesinnten engagieren f\u00fcr den Frieden und Gerechtigkeit, f\u00fcr die Umwelt, f\u00fcr die Schulgemeinschaft? Du wolltest schon immer mal Italienisch lernen oder dein Englisch verbessern? Du m\u00f6chtest Programmieren lernen und an Wettbewerben teilnehmen? Du hast Interesse am Schreiben oder daran, das Jahrbuch der Schule mitzugestalten? <strong>Es gibt noch AGs mit freien Pl\u00e4tzen, in denen du genau das tun kannst!<\/strong><\/p><p>Wenn du dich bisher nicht angemeldet hast, weil du Sorge hast, ob du noch ausreichend Zeit f\u00fcr das Lernen hast, sprich einfach die AG-Leiter:innen an! Es gibt bestimmt eine L\u00f6sung!<\/p><p>So manche Erfahrung in einer AG bringt dich m\u00f6glicherweise weiter als eine Stunde Vokabeln lernen :)<\/p>"},"id":"df9d2c94-f8ca-4f7f-acc0-9fb64e6d7270","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["zeichenflaeche-1.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"92d00fb4-0de0-4b5e-9ff6-962781ce9a4e","isHidden":false,"type":"image"},{"content":{"text":"AG-Angebot","isexternal":"false","pagelink":["unterricht\/ag-angebot"],"externallink":"","buttoncolor":"light","outline":"false","size":"normal"},"id":"04ee0073-6d31-4429-9c70-070b1c0870b6","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-09-14 00:00:00
+
+----
+
+Datumstartseite: 2022-01-14 00:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: AGs
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: P0C1WfVEgrHPUw6i

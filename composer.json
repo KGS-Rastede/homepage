@@ -1,0 +1,29 @@
+{
+    "description": "Homepage der KGS Rastede",
+    "type": "project",
+    "keywords": [
+        "KGS Rastede",
+        "homepage",
+        "schule"
+    ],
+    "homepage": "https://www.kgs-rastede.de",
+    "authors": [
+        {
+            "name": "Carsten Niehaus",
+            "email": "ni@kgs-rastede.eu",
+            "homepage": "https://www.kgs-rastede.de"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "getkirby/cms": ">=4.0",
+        "twbs/bootstrap": ">=v5.3",
+        "ragi96/table-field": "^1.1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "allow-plugins": {
+            "getkirby/composer-installer": true
+        }
+    }
+}

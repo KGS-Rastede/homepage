@@ -1,0 +1,33 @@
+Title: Zukunftswerkstatt
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["zukunftswerkstatt-flyer.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"785d839a-c4a1-49b3-b3d9-be6c87a400f8","isHidden":false,"type":"image"}],"id":"ebd317b0-73df-4f0c-b1c3-9923db33bf9a","width":"1\/1"}],"id":"9bfa8154-3421-4a1b-87d0-35e3a71b8888"}]
+
+----
+
+Date: 2022-09-27 14:00:00
+
+----
+
+Datumstartseite: 2023-01-27 14:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: VscJf52IHb4lveSx

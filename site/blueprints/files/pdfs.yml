@@ -1,0 +1,12 @@
+title: pdfs
+
+accept:
+  mime: application/pdf
+
+fields:
+  anzeigename:
+    label: Anzeigename in PDFS
+    type: text
+
+# Anleitung https://getkirby.com/docs/reference/panel/blueprints/file
+# https://getkirby.com/docs/reference/panel/samples/file

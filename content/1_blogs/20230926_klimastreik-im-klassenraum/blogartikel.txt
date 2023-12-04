@@ -1,0 +1,33 @@
+Title: Klimastreik im Klassenraum
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Klimastreik im Klassenraum"},"id":"fe6fad9d-6e23-4d1b-9d13-707f1081df04","isHidden":false,"type":"heading"}],"id":"8d0fd930-316c-4130-9e45-cb4b998eddaf","width":"1/1"}],"id":"3c29f063-0bcd-4c9f-b8db-6ae64d3e507f"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://DqzDaoUUXV4CJqWR"],"caption":"","ratio":"","crop":"false"},"id":"3bde81a0-63e0-4923-9016-327f33f35e48","isHidden":false,"type":"gallery"}],"id":"745a2663-7b6e-4e57-a4d0-5da9bae1ce23","width":"1/2"},{"blocks":[{"content":{"images":["file://zKVfUt0qLPFrv9us"],"caption":"","ratio":"","crop":"false"},"id":"a78a844d-672c-4cd4-8906-ea26126305b6","isHidden":false,"type":"gallery"}],"id":"84924c5a-0f70-421a-9016-cf68deff5ec3","width":"1/2"}],"id":"f38be6d1-0579-4860-8692-69c09db0a046"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Klimastreik im Klassenraum</strong></p><p>Was tun, wenn fast 60 Kinder aus der 5. Klasse sich für Klima- und Umweltpolitik interessieren, ihnen der eigenverantwortliche Weg bis zum Rathaus aber zu bedenklich ist? So wurde die Idee des Klimapodiums im Klassenraum geboren, mit Plakaten und Diskussionen rund um das Thema „Klima“. Die Klassen 5B3 und 5E3 haben, unter der Leitung von Frau Brömer und Herrn van de Rieth, 4 Stunden kreativ gearbeitet und sich zu den folgenden Themen ausgetauscht: „Wer streikt alles für das Klima? Warum streiken die Menschen für das Klima? Was erhoffen sich die Menschen von diesen Streiks? Was können wir als Kinder für eine bessere Umwelt tun?“ Am Ende stand dann eine Podiumsdiskussion auf dem Plan, in der die Kinder aus verschiedenen Rollen heraus über die Zukunft des Rasteder Schlossgartens debattiert haben.</p><p>Hitzige Gespräche und rauchende Kinderköpfe. So geht Klimawandel ganz ohne Erderwärmung!</p>"},"id":"0ddf4e5d-d14d-4e5b-88dc-1523c0036c38","isHidden":false,"type":"text"}],"id":"cacff434-ae71-444c-8440-b28c6e027d17","width":"1/1"}],"id":"c91766a6-4844-468b-8598-f82da586f886"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://SsJse4DjDWQW68xR"],"caption":"","ratio":"","crop":"false"},"id":"15d900de-26e0-4e2b-a27c-89dee6bd8854","isHidden":false,"type":"gallery"}],"id":"6fc5cee6-c172-4a2b-a350-3a7ed2625224","width":"1/1"}],"id":"1348daf6-db98-4d36-89d5-506932201ea8"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://HPQ2GXliMex0XCaK"],"caption":"","ratio":"","crop":"false"},"id":"52bff77c-f904-426c-983f-9e3d34853955","isHidden":false,"type":"gallery"}],"id":"9f3b9686-544d-4c47-b80d-03d38cbb0235","width":"1/1"}],"id":"1841937e-a0bd-406c-81d0-19f80c93a12f"}]
+
+----
+
+Date: 2023-09-26 13:15:00
+
+----
+
+Datumstartseite: 2024-01-26 13:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Frau Brömer und Herrn van de Rieth
+
+----
+
+Tags: Projekt, Klima, FFF
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 1TAXtL2abAutPLzd

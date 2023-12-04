@@ -1,0 +1,33 @@
+Title: Erdkunde Wettbewerb Diercke Wissen 2023
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Welche wichtigen Handelspartner hat Deutschland? Wie wird der Vorgang in der Natur bezeichnet, bei dem festes Gestein durch Wind und Wasser abgetragen wird? Und was ist der Alpenföhn?</p><p>Diesen und vielen weiteren Fragen haben sich am 23. Februar insgesamt 30 Schülerinnen und Schüler aus den Jahrgängen 7 – 10 angenommen, indem sie im Diercke-Wettbewerb ihr Erdkunde-Wissen unter Beweis stellten.</p><p>Die drei erfolgreichsten Schülerinnen und Schüler haben letzte Woche bei der Siegerehrung in Frau Bergers Büro ein Geschenk entgegengenommen.</p><p>Den ersten Platz erreichte Klara aus der zehnten Klasse und auch Rieke, die auf dem zweiten Platz landete, kommt aus diesem Jahrgang. Fynn-Ole aus Jahrgang sieben belegte den dritten Platz.</p><p>Unsere Schulsiegerin Klara hat bereits den Fragebogen auf Landesebene bearbeitet: Vielleicht qualifiziert sie sich für das Bundesfinale am 16.06. in Braunschweig?</p><p>Wenn ihr jetzt denkt „Das möchte ich auch versuchen“, dann haltet im kommenden Schuljahr Augen und Ohren offen, denn auch dann wird es wieder die Möglichkeit geben am Erdkunde-Wettbewerb 2024 teilzunehmen.</p><p>Bis dahin könnt ihr schon mal üben… <a href=\"https://quizstart.de/diercke-trainingscenter/\" rel=\"noopener noreferrer\">https://quizstart.de/diercke-trainingscenter/</a></p>"},"id":"20243f6f-2e57-4a30-b1a6-a51924076cd7","isHidden":false,"type":"text"}],"id":"fc6e7ed3-0b02-4b6e-940a-5801b4872d84","width":"1/1"}],"id":"9f2d5403-ff94-4416-b46e-7988a64e1945"}]
+
+----
+
+Date: 2023-05-12 09:35:00
+
+----
+
+Datumstartseite: 2023-09-12 09:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Alexandra Kehrberg-Diaconu
+
+----
+
+Tags: Wettbewerb, Dierke, Erdkunde
+
+----
+
+Downloads: 
+
+----
+
+Uuid: tIT9SpNGek2cAU6E

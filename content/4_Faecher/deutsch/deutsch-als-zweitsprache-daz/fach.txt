@@ -1,0 +1,41 @@
+Title: Deutsch als Zweitsprache (DaZ)
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die KGS ist eine multikulturelle Gemeinschaft. Neben Deutsch werden von vielen Sch\u00fclerinnen und Sch\u00fclern auch noch andere Sprachen als Muttersprache gesprochen. Die Herkunftssprachen stammen dabei von fast allen Kontinenten der Welt. F\u00fcr alle ist die KGS ein schulisches Zuhause geworden.<\/p>"},"id":"8103bd12-c57a-448c-a055-d8fbbe1c4a6d","isHidden":false,"type":"text"},{"content":{"text":"<p>Um diejenigen zu unterst\u00fctzen, die Deutsch erst als Zweitsprache erlernen, ist das Fach DaZ an unserer Schule ins Leben gerufen worden. Die Unterrichts- und Unterst\u00fctzungsformen sind hierbei vielf\u00e4ltig und richten sich dabei nach dem aktuellen Sprachniveau und der jeweiligen Ankunftszeit hier in Deutschland. So findet DaZ-Unterricht sowohl parallel zum Regelunterricht als auch zus\u00e4tzlich als F\u00f6rderunterricht am Nachmittag statt. In manchen F\u00e4llen unterst\u00fctzen DaZ-Lehrkr\u00e4fte die Sch\u00fclerinnen und Sch\u00fcler auch direkt im Fachunterricht und sind zus\u00e4tzlich zu der Fachlehrkraft im Unterricht anwesend.<\/p>"},"id":"9546d9ce-e0cc-4080-bd3d-a67277248308","isHidden":false,"type":"text"},{"content":{"text":"<p>Erstes Ziel der DaZ-F\u00f6rderung ist dabei stets die F\u00e4higkeit zur gemeinsamen Kommunikation, damit alle an unserer Schule miteinander ins Gespr\u00e4ch kommen k\u00f6nnen. Integration lebt demnach von allen Mitgliedern der Schulgemeinschaft, die offen aufeinander zugehen und Interkulturalit\u00e4t, Toleranz und Neugierde miteinander erfahren. Der DaZ-Unterricht bietet hierf\u00fcr das kommunikative Handwerkszeug, das in der weiteren Folge den sprachlichen Weg zu allen Schulabschl\u00fcssen erm\u00f6glicht.<\/p>"},"id":"f66149d7-f012-4300-8d9c-121badc81ee6","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"f067ee87-a0b5-4f02-a72f-82106de61903","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
+Haupttag: DaZ
+
+----
+
+Hintergrundbild: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Sidebar: 
+
+----
+
+Uuid: 5yUcoZaDuoZW4pXu

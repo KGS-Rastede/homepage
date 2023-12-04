@@ -1,0 +1,19 @@
+# /site/blueprints/blocks/koordinate.yml
+name: Koordinate
+icon: map
+label: "{{ name }} - N{{ laengengrad }} E{{ breitengrad }}"
+fields:
+  name:
+    type: text
+  kurzbeschreibung:
+    type: writer
+  bild:
+    type: files
+    max: 1
+    query: page.images
+  laengengrad:
+    label: Zum Beispiel 53.24111
+    type: text
+  breitengrad:
+    label: Zum Beispiel 8.194932
+    type: text

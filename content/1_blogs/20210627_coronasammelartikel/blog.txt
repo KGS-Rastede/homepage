@@ -1,0 +1,73 @@
+Title: Corona: Sammelartikel mit allen aktuellen Informationen
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"Liebe Sch\u00fclerinnen und Sch\u00fcler, sehr geehrte Eltern,\n\ndie Briefe des Ministers sind ebenfalls neben dem Artikel verlinkt, zusammen mit vielen weiteren aktuellen Ver\u00f6ffentlichungen, z.B. aktuell eine Information zur Impfung bei Kindern und Jugendlichen.\n\n\nWir m\u00f6chten auf das Beratungsangebot - neben dem der Lehrkr\u00e4fte - in der Schule hinweisen: Beratungslehrer:in und Sozialp\u00e4dagog:in, desweiteren aber auch auf das Angebot des Landkreises - siehe Flyer in den Anlagen.\n\n### Regelungen zur Versetzung und zum \u00dcbergang f\u00fcr Sch\u00fclerinnen und Sch\u00fcler der Schuljahrg\u00e4nge 1 bis 10 sowie zur Wiederholung des 4. Schuljahrgangs der allgemein bildenden Schulen im Zusammenhang mit der Corona-Pandemie im Schuljahr 2020\/2021\n\nDie neuen Regelungen sind in [dieser Datei](https:\/\/kgs-rastede.de\/media\/pages\/blogs\/coronasammelartikel\/59821424cf-1618561340\/210412_erlass_noten_versetzungen__berg_nge_wiederholung_4._sjg._original.pdf) zu finden.\n\n### Regelungen zum freiwilligen Zur\u00fccktreten sowie zur Wiederholung von Schuljahrg\u00e4ngen\n\nDie neuen Regelungen sind in [dieser Datei](https:\/\/kgs-rastede.de\/media\/pages\/blogs\/coronasammelartikel\/c7d98d1ff9-1618561340\/20210323_erlass_freiwilliges_zur_cktreten_wiederholen.pdf) zu finden\n\n\nBitte bleibt alle gesund!"},"id":"3f889f3b-ddd5-4bde-bc4a-ac33db163122","isHidden":false,"type":"markdown"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-06-27 09:15:00
+
+----
+
+Datumstartseite: 2021-07-21 08:15:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung, Topartikel, Corona
+
+----
+
+Downloads:
+
+- >
+  beratungsangebote_f_r_sch_lerinnen_und_sch_ler.pdf
+- >
+  10-punkte_agenda_bildung_betreuung_und_zukunftschancen_in_der_pandemie_sichern.pdf
+- >
+  flyer_beratungsstelle_landkreisammerland.pdf
+- >
+  pausenbereiche-wilhelstrasse-ab-15.3.21.pdf
+- >
+  hinweise-fuer-sus-in-der-wilhelmstrasse.pdf
+- feldbreite_einteilung-schulhof.pdf
+- feldbreite_eingaenge.pdf
+- >
+  feldbreite_hinweise-fuer-das-b-szenario-schueler.pdf
+- plan-ab-april.pdf
+- >
+  2021-04-12_handreichung_selbsttestung_schulen_anlagen.pdf
+- >
+  20210323_erlass_freiwilliges_zur_cktreten_wiederholen.pdf
+- >
+  210412_erlass_noten_versetzungen__berg_nge_wiederholung_4._sjg._original.pdf
+- 2021-06-22_brief_an_sus_sekii.pdf
+- 2021-06-22_brief_an_sus_seki.pdf
+- >
+  2021-06-22_brief_an_schulleitungen_und_lehrkr_fte.pdf
+- 2021-06-22_brief_an_eltern_kurz.pdf
+- 2021-06-22_brief_an_eltern.pdf
+- >
+  infoblatt_impfung_kinder_und_jugendliche.pdf
+- >
+  2021-05-27_rahmenhygieneplan_schule_6.0.pdf
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: HrWkHcooVDSS0yYF

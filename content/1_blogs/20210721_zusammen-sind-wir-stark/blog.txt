@@ -1,0 +1,44 @@
+Title: Zusammen sind wir stark!
+
+----
+
+Heading: Eine Aktion des Poltikkurses Jg. 12 für die Flutopfer in Deutschland
+
+----
+
+Text: [{"content":{"text":"<p>In der letzten Politikstunde am Montag beschlossen Sch\u00fclerinnen und Sch\u00fcler des Politikkurses in Jg. 12 etwas zu tun, um den Flutopfern in Nordrhein-Westfalen, Rheinland-Pfalz und Bayern zu helfen. Sie erkundigten sich nach einem passenden Spendenkonto, informierten die Schulgemeinschaft und sammelten am letzten Schultag die Spenden ein. Danke f\u00fcr euer Engagement!<\/p>"},"id":"1cf48221-c897-4abd-988d-7242ee1e8311","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- img_2664.jpg
+- img_2658.jpg
+
+----
+
+Date: 2021-07-21 00:00:00
+
+----
+
+Datumstartseite: 2021-09-15 00:00:00
+
+----
+
+Author: Claudia Berger
+
+----
+
+Tags: Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: FAoj1QvFhknjTgIV

@@ -1,0 +1,37 @@
+Title: AWT
+
+----
+
+Bezeichnung: Fachbereichsleiter
+
+----
+
+Namefbl: Herr Henken
+
+----
+
+Email: he@kgs-rastede.eu
+
+----
+
+Text: 
+
+----
+
+Pages:
+
+- Faecher/awt/hauswirtschaft
+- Faecher/awt/technik
+- Faecher/awt/wirtschaft
+
+----
+
+Symbolbild: - awt.jpg
+
+----
+
+Tags: 
+
+----
+
+Uuid: I26J3lnMhvFvjgf4

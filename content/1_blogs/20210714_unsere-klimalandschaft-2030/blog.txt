@@ -1,0 +1,44 @@
+Title: Unsere Klimalandschaft 2030
+
+----
+
+Heading: Eine Zukunftswerkstatt für Jg. 11 - 13
+
+----
+
+Text: [{"content":{"text":"<p>Die Universit\u00e4t Vechta bietet eine Zukunftswerkstatt f\u00fcr junge Menschen zwischen 16 und 25 Jahren an. Sie beginnt im August und dauert bis Anfang Oktober. Infos findet man hier: <\/p>"},"id":"895bc5ec-61ad-4f1f-9fc1-ce0bc5f53507","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-07-14 00:00:00
+
+----
+
+Datumstartseite: 2021-09-01 00:00:00
+
+----
+
+Author: Claudia Berger
+
+----
+
+Tags: Erdkunde
+
+----
+
+Downloads:
+
+- >
+  terrifica-univechta-einladung-klimazukunftswerkstatt2021.pdf
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: ZW2EhVQGxwSAuHkT

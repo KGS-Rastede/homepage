@@ -1,0 +1,29 @@
+Title: Festakt zum 20jährigen Jubiläum „Schule ohne Rassismus – Schule mit Courage“
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 10. Juni 2022 feierte die ganze Schulgemeinde mit zahlreichen G\u00e4sten das 20j\u00e4hrige Jubil\u00e4um der Verleihung des Titels einer \u201eSchule ohne Rassismus \u2013 Schule mit Courage\u201c an die KGS. Veronika, Lana, Nicholas und Milan von der AG \u201eF\u00fcr den Frieden\u201c moderierten vor 2.000 Menschen den Festakt in der gro\u00dfen Sporthalle.<\/p><p>Musikalisch wurde die Veranstaltung von Carsten M\u00f6nnich, Maria Borchers und Justus Koch begleitet. In der ersten Interviewrunde berichtete Oswald Marschalll (Zentralrat Deutscher Sinti und Roma) \u00fcber seine eigene Diskriminierung als Sinto in Minden. Der jahrhundertealte Antiziganismus dauere bis heute an, so Marschall, und verwehre der Minderheit ein menschenw\u00fcrdiges Leben. In der zweiten Interviewrunde begr\u00fc\u00dften die Moderator<em>innen Marina Imsiecke (Seawatch) und Thomas Honesz (Seebr\u00fccke Oldenburg) als neue Pat<\/em>innen an der KGS.<\/p><p>\u201eDie EU macht Unterschiede zwischen Fl\u00fcchtlingen mit heller Hautfarbe und afrikanischen Fl\u00fcchtlingen\u201c, stellte Marina Imsiecke fest. \u201eDas ist Rassismus.\u201c Die Seebr\u00fccke Oldenburg versuche, so Thomas Honesz, politisch auf diese Situation hinzuweisen und die Einhaltung der Menschenrechte f\u00fcr alle Menschen zu bef\u00f6rdern.<\/p>"},"id":"7bba0c70-66e4-4947-9912-06e11468769c","isHidden":false,"type":"text"}],"id":"93d03b9a-2225-4ebd-a5cd-b92026f28438","width":"1\/1"}],"id":"7993f16a-72e5-47e4-a625-78a6fc5c5a15"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Moderatorin Lana rief dazu auf, allen Menschen auf der Erde ihr \u201eRecht, zur Menschheit zu geh\u00f6ren\u201c zu garantieren. \u201eEs gibt keinen anderen Weg, als miteinander zu leben,\u201c forderte Milan. <\/p><p>\u201eDass alle Anwesenden dem Rassismus eine klare Absage erteilten und dass wir uns als \u201eSchule ohne Rassismus \u2013 Schule mit Courage\u201c f\u00fcr eine Welt in Frieden, Freiheit, Gerechtigkeit und Gl\u00fcck f\u00fcr alle Menschen einsetzen wollen, ist die wichtigste Botschaft unseres Festaktes\u201c, bilanzierte Veronika. Gleicherma\u00dfen wichtig sei die Fortsetzung der Zusammenarbeit mit allen drei Pat*innen, meinte Nicholas: \u201eWir freuen uns sehr darauf, dass der Zentralrat Deutscher Sinti und Roma, Seawatch und die Oldenburger Seebr\u00fccke uns auch zuk\u00fcnftig zur Seite stehen werden. <\/p><p><\/p><p><\/p>"},"id":"ac544b46-5d0e-4216-9161-eb0fbece061d","isHidden":false,"type":"text"}],"id":"6578b5ac-9e38-4b67-a032-a699f8d4aa99","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["festakt6.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"2fcad351-b27c-4d46-940d-676c16bf3d13","isHidden":false,"type":"image"}],"id":"74c51bf4-5eca-4285-84a2-5709430f7645","width":"1\/2"}],"id":"65d1fe8b-c949-41ef-b263-619d7c274591"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["festakt2.jpg","festakt3.jpg","festakt5.jpg","festakt1.jpg","festakt4.jpg","img_3094.jpg","img_3086.jpg","img_3084.jpg","img_3092.jpg","img_3095.jpg","img_3101.jpg"]},"id":"9a45b489-6d26-4ee4-8512-ed82c20cfc4f","isHidden":false,"type":"gallery"}],"id":"109a2353-021e-4880-afbd-f054bfafdd0a","width":"1\/1"}],"id":"63ecfd8f-2d7e-4c67-9923-6697bacece37"},{"attrs":[],"columns":[{"blocks":[],"id":"894153b9-3a9f-4c34-9df2-cf236d644e87","width":"1\/1"}],"id":"da9c11bc-b96e-44a8-b729-d8699cd3f9bc"}]
+
+----
+
+Date: 2022-06-13 09:25:00
+
+----
+
+Datumstartseite: 2022-10-13 09:25:00
+
+----
+
+Author: AG "Für den Frieden"
+
+----
+
+Tags: AGs, Courage, Für den Frieden, Festakt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: zk2HNYnWZU2AKVCv

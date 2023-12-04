@@ -1,0 +1,51 @@
+Title: Abschlussfeier 2020 – einzigartige Corona-Edition
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Wie sieht eine Abschlussfeier in Zeiten der Covid-19-Pandemie aus? Geht das \u00fcberhaupt?<\/p>"},"id":"6bc4bfb5-e1bd-49d8-957d-ef9c923e35b5","isHidden":false,"type":"text"},{"content":{"text":"<p>Ja, und das konnte man am Freitag, den 03.07.2020, gleich dreimal bestaunen. Um 13 Uhr, 15 Uhr und 17 Uhr wurde den Absolventen von Haupt- und Realschulzweig feierlich und in Anwesenheit der Eltern ihr Zeugnis \u00fcberreicht. Corona-gerecht mit dem gebotenen Abstand und unter freiem Himmel auf dem Schulhof. Sogar Petrus spielte mit: Nur zwischendurch gab es eine klitzekleine Schauer\u2026<\/p>"},"id":"6d82b521-415c-4dd9-b262-e67c5d0d4d8e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["abschluss5.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"9d3faedd-2c6d-4144-b662-a1be99040133","isHidden":false,"type":"image"},{"content":{"text":"<p>Nach einem Gru\u00dfwort der Schulleiterin verlasen die Schulzweigleitungen Frau Pannenborg und Herr Kleeberg das Gru\u00dfwort des B\u00fcrgermeisters der Gemeinde Rastede. Sodann entlie\u00dfen die Klassenlehrerinnen und Klassenlehrer ihre Klassen mit sehr pers\u00f6nlichen Worten. Jede Klasse erhielt in einem w\u00fcrdigen Rahmen ihre Zeugnisse. Auch die Sch\u00fclerinnen und Sch\u00fcler fanden nette und aufrichtige Worte des Dankes f\u00fcr ihre Klassenlehrerinnen und Klassenlehrer. Man merkte deutlich, dass ihnen der Abschied schwerfiel.<\/p>"},"id":"04e4a94c-3f72-4b32-9d30-945a07c4695a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- abschluss1.jpg
+- abschluss5.jpg
+- abschluss3.jpg
+- abschluss2.jpg
+- abschluss4.jpg
+
+----
+
+Date: 2020-07-16 07:20:00
+
+----
+
+Datumstartseite: 2020-09-30 08:00:00
+
+----
+
+Author: BE
+
+----
+
+Tags: Abschluss, Schulleitung, Corona
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Featured: true

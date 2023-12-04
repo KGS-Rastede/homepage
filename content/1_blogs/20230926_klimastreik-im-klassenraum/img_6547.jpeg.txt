@@ -1,0 +1,5 @@
+Uuid: HPQ2GXliMex0XCaK
+
+----
+
+Template: blocks/image

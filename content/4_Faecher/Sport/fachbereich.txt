@@ -1,0 +1,37 @@
+Title: Sport
+
+----
+
+Bezeichnung: Fachbereichsleiterin
+
+----
+
+Namefbl: Frau Müller-Pulsfort
+
+----
+
+Email: mp@kgs-rastede.eu
+
+----
+
+Text: 
+
+----
+
+Pages: - Faecher/Sport
+
+----
+
+Symbolbild: - sport.jpg
+
+----
+
+Tags: Sport
+
+----
+
+Files: - sport.jpg
+
+----
+
+Uuid: s1OkZxmSFwcKCqMm

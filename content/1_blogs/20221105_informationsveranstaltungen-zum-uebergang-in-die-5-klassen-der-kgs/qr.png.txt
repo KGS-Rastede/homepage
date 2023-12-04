@@ -1,0 +1,5 @@
+Template: blocks/image
+
+----
+
+Uuid: kyvi6wmnm6yWYXYK

@@ -1,0 +1,17 @@
+Title: Communities That Care. CTC
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Pr\u00e4vention ist eine Gemeinschaftsaufgabe. Mit dem Ziel der Entwicklung einer wirkungsorientierten Pr\u00e4vention in der Kommune wird in der Gemeinde die Pr\u00e4ventionsstrategie Communities That Care umgesetzt. Im Mai 2019 werden hierf\u00fcr 1448 Sch\u00fclerinnen und Sch\u00fcler der Jahrg\u00e4nge 6-10 befragt. Ziel der Erhebung ist die Ermittlung von Risiko- und Schutzfaktoren.<\/p><p>Die Auswertung und Diskussion der Daten erfolgt in der Kooperation von Vertretern unterschiedlicher Einrichtungen der Kinder- und Jugendarbeit.&nbsp;<\/p><p>Im Schuljahr 2021\/22 starten wir mit einem ersten Pilot des&nbsp;<strong>Mentorenprogrammes \u201eBalu und Du\u201c,<\/strong>&nbsp;an dem perspektivisch alle Grundschulen mitwirken m\u00f6chten. Davon profitieren nicht nur die Grundsch\u00fcler:innen<em>&nbsp;<\/em>sondern auch die Sch\u00fcler:innen der Sek II, die als \u201eBalus\u201c im Rahmen eines Seminarfaches wertvolle Kompetenzen und Erfahrungen erwerben und gleichzeitig einen gesellschaftlichen Beitrag leisten. Des Weiteren ist im Rahmen von CTC eine sehr konstruktive Zusammenarbeit mit der Jugendpflege entstanden, die ab dem n\u00e4chsten Schuljahr u.a. suchtpr\u00e4ventive Ma\u00dfnahmen an unserer Schule durchf\u00fchren wird.<\/p>"},"id":"14c2e30c-b1cb-428f-8bba-673e224803f1","isHidden":false,"type":"text"},{"content":{"text":"<p>weitere <a href=\" https:\/\/www.ctc-info.de\/\" rel=\"noopener noreferrer nofollow\">Informationen<\/a> zu CTC<\/p>"},"id":"0aa0558a-af31-4025-ae21-263373ca8b32","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: vhOGHh8FRfZevXN0

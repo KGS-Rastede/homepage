@@ -1,0 +1,13 @@
+Anzeigename: Nutzungsvertrag
+
+----
+
+Beschreibung: Beschreibung: Mir der Unterschrift dieses Nutzungsvertrages bestätigen Sie / bestätigst du die Kenntnis und Einhaltung der Nutzerordnung - diese muss für jede Schülerin und jeden Schüler vorliegen.
+
+----
+
+Template: datei
+
+----
+
+Uuid: IAS8PAYaFgaQVLwS

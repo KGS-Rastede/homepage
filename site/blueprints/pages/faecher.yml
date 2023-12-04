@@ -1,0 +1,10 @@
+title: Fächerübersicht
+icon: 📜
+templates: fach
+
+
+sections:
+  pages:
+    headline: Fächer
+    info: "Tag: {{page.title}}"
+    layout: cards

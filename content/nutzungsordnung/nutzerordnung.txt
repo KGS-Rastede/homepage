@@ -1,0 +1,19 @@
+Title: Nutzungsordnung für die IT-Einrichtung der KGS Rastede
+
+----
+
+Beschreibung: Auf dieser Seite befinden sich die wesentlichen Dokumente für den Zugriff auf das LAN/Netzwerk der KGS Rastede
+
+----
+
+Dateien:
+
+- file://68SZ8G6P3FDBKYlW
+- file://IAS8PAYaFgaQVLwS
+- file://j2gxp0SBBk4dinpQ
+- file://rmxT5aIAhfLzonYD
+- file://u2x4ecv4wRnrkHDR
+
+----
+
+Uuid: zCAgAOG7ElH7unKH

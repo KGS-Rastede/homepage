@@ -1,0 +1,33 @@
+Title: OLMUN 2023: Our World at a Turning Point - Breaking old Patterns
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Lange Wochen der Vorbereitung, eifriger Recherche und präziser Erstellung von Policy Statements, Resolutions und Opening Speeches sind geschafft! Voller Tatendrang haben sich unsere mittlerweile 21 AG-Teilnehmer:innen auf die OLMUN 2023 vorbereitet und diese vom 13.06. bis 16.06.2023 unter dem Motto „Our World at a Turning Point – Breaking old Patterns“ erfolgreich durchgeführt.<br>Kimberly Nyoni, Elias Anisimov und Willy Schulze stellten ihre Nerven und großartige Eloquenz direkt zu Anfang der Veranstaltung unter Beweis, indem sie ihre Opening Speeches in der vollbesetzten Weser-Ems-Halle präsentierten. Danach wurde fleißig in den Komitees diskutiert.<br>Unter den wachsamen Augen der Chairs haben unsere MUNies in den Rollen der Delegierten von Österreich, Kolumbien, Finnland und Thailand ihre Policy Statements vorgestellt, sich taktisch mit anderen Delegationen zusammengeschlossen und gemeinsam mit ihnen an Resolutionen gearbeitet. Dabei konnten sie auch Kontakte zu Schüler:innen von anderen Schulen aus Deutschland und dem Ausland knüpfen.<br>Wie wichtig die behandelten Themen waren und welche Kompetenzen ihnen dabei vermittelt wurden, zeigt ein Blick auf die vielfältige Agenda:<br>So suchten Madiha Mohamad, Lina Heinemann, Elias Anisimov und Leon Ye Problemlösungen zum Thema „Handling of Remnants of War in Crisis and Post-Conflict Areas“ im First Committee of the United Nations General Assembly (GA1st), das als größtes Komitee der OLMUN die Delegationen sämtlicher Mitgliedsstaaten vereint.</p>"},"id":"73d09937-cd15-430c-a3e4-d8eb81ecb039","isHidden":false,"type":"text"}],"id":"dc62be5e-3333-4fcb-85cd-e622f812536e","width":"1/1"}],"id":"5dc7009a-adf1-446d-92ed-68017051d166"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im United Nations Environment Programme (UNEP) konnten Willy Schulze, Ineke Otten und Peter Brockmann bei der Diskussion der Aufgabe „Protecting Fragile Ecosystems from Exploitation“ überzeugen.<br>Anna Braukmann, Hannah Haßmann und Markus Jahn diskutierten währenddessen in der United Nations Educational, Scientific and Cultural Organization (UNESCO) die Frage zu „Promoting Equal Access to Quality Education“.<br>Für die Thematik „Securing Women’s Rights by Preventing the Abuse of Religion“ im United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) setzten sich Thubelihle Kimberly Nyoni, Louisa Sophie Braasch und Saskia Butt ein.<br>Im United Nations Economic and Social Council (ECOSOC) wurden Problemlösungen unter der Aufgabe „Ensuring Safe Drinking Water for All“ gesucht, wobei Chiara Evers als Delegierte für Kolumbien teilnahm.<br>Klara Kuiper und Jan Grauer erstellten Resolutionen zur Aufgabe „Taking Responsibility to Improve Support for Climate Migrants“ im Third Committee of the United Nations General Assembly (GA3rd).<br>Außerdem stellte sich Dana Völker der Thematik „Fighting against Modern Slavery and Human Trafficking as a Violation of Human Rights“ im United Nations Human Rights Council (UNHRC).<br>Aber nicht nur in den Rollen der Delegierten haben unsere MUNies großartige Leistung erbracht und neue Dinge ausgetestet. Vier Schüler:innen des dreizehnten Jahrgangs bewarben sich erfolgreich als Chair der OLMUN und leiteten somit ihre Komitees als die vorsitzenden Präsidenten. Fabian Bühring und Laetitia-Sophie Meyer übernahmen souverän die Präsidentschaft der United Nations Educational, Scientific and Cultural Organization (UNESCO), während Vivien Kok und Sina Otholt als Präsidenten der United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) überzeugten.</p>"},"id":"331b79a4-1851-4d3d-afd4-a70a4ee927cb","isHidden":false,"type":"text"}],"id":"baad97fb-7f59-430b-838c-498e713d5509","width":"1/2"},{"blocks":[{"content":{"images":["file://g4jlwGEyxRIOQpdP","file://XVXEQmn23LQrf2EN","file://GJgK5FJRKA2pGISz"],"caption":"","ratio":"","crop":"false"},"id":"76e4a1a9-5fc1-4983-a352-7e1f9510a56f","isHidden":false,"type":"gallery"}],"id":"fbc5c52e-2215-4125-8905-14e916e78305","width":"1/2"}],"id":"15538a31-0cf0-482f-9028-280fdc2e31f5"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Nach so viel Arbeit konnten die Schüler:innen abends beim gemeinsamen Grillen, Volleyballspielen und der Party im Amadeus entspannen.</p><p>Wir sind unglaublich stolz darauf, wie mutig und besonnen sich unsere Schüler:innen den neuen Aufgaben gestellt haben, und freuen uns schon sehr auf das nächste Jahr.</p><p>Silvia Pohlgeers und Claas Mester</p>"},"id":"b1afaa93-ea46-4ac9-bfa3-96af732c208b","isHidden":false,"type":"text"}],"id":"065f165b-9cc4-41fa-9e2c-2da7d14a9437","width":"1/1"}],"id":"16b06199-2e0a-4555-a357-7f485c007a14"}]
+
+----
+
+Date: 2023-07-01 09:40:00
+
+----
+
+Datumstartseite: 2023-11-01 09:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Silvia Pohlgeers und Claas Mester
+
+----
+
+Tags: MuN, OLMUN
+
+----
+
+Downloads: 
+
+----
+
+Uuid: fB9Mb5eJ6dQEXQE2

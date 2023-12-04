@@ -1,0 +1,29 @@
+Title: NOCH Plätze frei im Bläserkurs
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im n\u00e4chsten Schuljahr k\u00f6nnen alle Kinder, die in Jahrgang 5 neu an die KGS kommen, ein Musikinstrument lernen. Dazu m\u00fcssen sie sich nur\u00a0<strong>im Bl\u00e4serkurs anmelden<\/strong>. Im Angebot sind Saxophon, Trompete, Posaune, Klarinette, Querfl\u00f6te und Euphonium.<\/p><p>Bei Interesse bitte ein Mail an scm@kgs-rastede.eu schicken.<\/p>"},"id":"051d39ea-064b-4544-9e5a-7e7ab88b619d","isHidden":false,"type":"text"}],"id":"253e6cf4-8fea-4b87-b02e-0b881935e2ab","width":"1\/1"}],"id":"dba09caf-7229-445c-9c28-eb867f1bbc5b"}]
+
+----
+
+Date: 2022-06-30 17:00:00
+
+----
+
+Datumstartseite: 2022-07-23 17:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Jesco Schneemann
+
+----
+
+Tags: Topartikel, Musik
+
+----
+
+Downloads: 

@@ -1,0 +1,51 @@
+Title: Darstellendes Spiel
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Seit 1980 wird an der KGS Theater gespielt, jedes Jahr mindestens eine Premiere. Daher war es konsequent, dass an der KGS seit 1999 Darstellendes Spiel als reguläres Unterrichtsfach angeboten wird. Zunächst gabt es DS nur in der Oberstufe als Wahlfach neben Kunst und Musik, seit 2004 jedoch können Schülerinnen und Schüler DS auch in der Sekundarstufe I aus dem Profilfachangebot im Gymnasialzweig wählen.</p>"},"id":"b4ad16b9-bc55-4c52-abd5-a1b00e9a7329","isHidden":false,"type":"text"},{"content":{"text":"<p>Dazu wurden 5 Lehrkräfte in mehreren Modulen berufsbegleitend ausgebildet und für den Einsatz in der Sekundarstufe I und II zertifiziert. Das Angebot in DS ergänzt die musisch-kulturelle Grundbildung über die Fächer Kunst und Musik durch die Erprobung theatraler Möglichkeiten. Diese ermöglichen in besonderer Weise die Reflexion vielfältiger und divergierender Sichtweisen durch das Spielen fremder oder eigener Gedankenwelten. Die Vergangenheit hat gezeigt, das DS besonders einen Beitrag zur Entwicklung überfachlicher Kompetenzen liefern kann.</p>"},"id":"49915efa-708c-4741-b980-ac486ff75a8b","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Unterricht lernen Schülerinnen und Schüler Theater begreifen, Theater spielen, Theater reflektieren und an Theater teilhaben. Daher steht am Ende eines Unterrichtsjahres immer eine Aufführung für die Schulgemeinschaft als Unterrichtsprojekt.</p>"},"id":"c5ac8932-d6b8-4463-bc9d-af9f4d8760e2","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Lehrplantext: 
+
+----
+
+Lehrplaene: 
+
+----
+
+Haupttag: Darstellendes Spiel
+
+----
+
+Hintergrundbild: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Sidebar:
+
+- 
+  link: >
+    https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung
+  name: >
+    Leitbild des Fachbereichs
+    Musisch-kulturelle Bildung
+- 
+  link: 'https://cuvo.nibis.de/cuvo.php?p=searched_download&skey_lev0_0=Fach&svalue_lev0_0=Darstellendes+Spiel&skey_lev0_1=Dokumentenart&svalue_lev0_1=Kerncurriculum&&uploadnum=0'
+  name: Kerncurriculum gymnasiale Oberstufe
+
+----
+
+Uuid: rM4jc0XEWfsl67mX

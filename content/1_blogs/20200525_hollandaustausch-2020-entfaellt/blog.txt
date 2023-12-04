@@ -1,0 +1,48 @@
+Title: Hollandaustausch 2020 - Entfällt
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<strong>Das erst Mal:<\/strong>"},"id":"064c27e7-b4b7-4c65-81c0-ed8cf5a35618","isHidden":false,"type":"text"},{"content":{"text":"<strong>KEIN<\/strong>"},"id":"bf09c605-1e22-461d-bef1-36ec28d13c9c","isHidden":false,"type":"text"},{"content":{"text":"<p>Niederlande Austausch KGS Rastede\/Vechtdal-College Hardenberg!<\/p>"},"id":"7976b8be-c3ad-4a90-883a-fcb28cd241e2","isHidden":false,"type":"text"},{"content":{"text":"Leider funkt uns das Virus dazwischen und uns ist das erst Mal nach 43 Jahren kein Austausch mit dem Vechtdal College aus Hardenberg m\u00f6glich! Wir hatten noch den September im Blick gehabt, aber auch das klappt leider nicht, so schade!!!!!"},"id":"a0b74e72-6213-464c-9acd-35c01e0f290e","isHidden":false,"type":"text"},{"content":{"text":"<p>Seit 43 Jahren findet der Austausch statt, und nun dies \u2639<\/p>"},"id":"98fd1b4d-14e6-4e21-b076-193df720dfa6","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00fcr unsere Teilnehmenden tut es uns von Herzen leid, dass nun kein gemeinsames Treffen in Hardenberg mehr m\u00f6glich ist und trotzdem hoffen wir darauf, dass viele sch\u00f6ne Erinnerungen aus der Zeit vor Weihnachten im November 2019 bleiben und Kontakte aufrechterhalten werden.<\/p>"},"id":"2360899d-a8f7-424a-b8cc-0462b98d1e93","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir w\u00fcnschen Euch gute Gedanken und sch\u00f6ne Erinnerungen, ihr wart eine tolle Gruppe, es hat uns viel Spa\u00df mit euch bereitet,<\/p>"},"id":"40bb3206-9def-445d-aed2-7ecb33d1d200","isHidden":false,"type":"text"},{"content":{"text":"<p>het beste voor jullie allemal, doui, tot ziens, und Tsch\u00fcss von<\/p>"},"id":"63a2ef08-eaab-430f-8670-5b6e4465f94e","isHidden":false,"type":"text"},{"content":{"text":"<p>Herrn Teske und Frau M\u00fcller-Pulsfort, Frau Kosmalla und Herrn de Weert<\/p>"},"id":"fb237b4a-d390-4638-ae2d-e718c93b40bb","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- nl2020-2.jpg
+- nl2020-1.jpg
+
+----
+
+Date: 2020-05-25 06:55:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: MP
+
+----
+
+Tags: Austausch
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false

@@ -1,0 +1,51 @@
+Title: Im Garten gibt es keinen Stillstand!
+
+----
+
+Heading: Veränderungen im Schulgarten der Feldbreite
+
+----
+
+Text: [{"content":{"text":"<p>Statt Sch\u00fclerinnen und Sch\u00fcler konnte man in den Osterferien eine Gartenbaufirma in Aktion sehen, die im Auftrag der Gemeinde Rastede den Zaun des Gem\u00fcsegartens versetzte und das Trockenhochbeet mit vielen speziellen Pflanzen an anderer Stelle wieder aufbaute. Der Grund : die Container werden abgebaut und im Laufe des n\u00e4chsten Schuljahres wird ein neues Geb\u00e4ude mit Klassenr\u00e4umen f\u00fcr die Jahrg\u00e4nge 5 und 6 entstehen.<\/p>"},"id":"c7fbc798-fc21-401c-92e9-e671ad8d72a5","isHidden":false,"type":"text"},{"content":{"text":"<p>Das hat Auswirkungen auf den Schulgarten. F\u00fcr uns, die Lehrkr\u00e4fte der Garten AG, hie\u00df dies den neugewonnen Teil des Gem\u00fcsegartens bearbeiten, damit noch in diesem Jahr geerntet werden kann. Erbsen, Kartoffeln und jede Menge K\u00fcrbisse sind gepflanzt.<\/p>"},"id":"9fee8fb0-1900-416d-8ad3-bddc62d5f0e0","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir wissen den Schulgarten jetzt noch mehr zu sch\u00e4tzen. Man kann auch in schwierigen Zeiten etwas Sinnvolles tun. Abstandhalten ist kein Problem und Gartenarbeit macht gl\u00fccklich!<\/p>"},"id":"d075368b-1b57-4cbd-af06-e782b975a70c","isHidden":false,"type":"text"},{"content":{"text":"<p>Deshalb tr\u00e4gt der Schulgarten zur Zeit auch zur Unterst\u00fctzung von Sch\u00fclerinnen und Sch\u00fclern in schwierigen Lebenssituationen bei. In Absprache mit Herrn Pernt, dem Sozialp\u00e4dagogen der Feldbreite oder Frau Eitel- Harms kann man einen Termin vereinbaren um zu reden, sich von Sorgen zu entlasten und dabei g\u00e4rtnern.<\/p>"},"id":"04743ef4-1d9d-4dab-980b-679b6398098a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- anhang5.jpg
+- img_0309.jpg
+- anhang3.jpg
+- anhang2.jpg
+- anhang4.jpg
+
+----
+
+Date: 2020-05-20 06:45:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: EH
+
+----
+
+Tags: Biologie, AGs, Schulgarten
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Featured: true
+
+----
+
+Immer-sichtbar: false

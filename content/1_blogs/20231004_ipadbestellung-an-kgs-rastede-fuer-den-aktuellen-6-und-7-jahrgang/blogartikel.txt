@@ -1,0 +1,37 @@
+Title: IPad-Bestellung an der KGS Rastede für den aktuellen 6. und 7. Jahrgang
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Sehr geehrte Eltern der Jahrgänge 6 und 7</p><p></p><p>Ab dem 2. Halbjahr in Klasse 7 werden an der KGS schülereigene iPads im Unterricht genutzt.</p><p>Auf den folgenden Seiten finden Sie die Informationen rund um die iPad-Bestellungen für den Jahrgang 7.</p><p>Zur privaten Nutzung können aber bereits auch für den Jahrgang 6 iPads über das System bestellt werden, wenn dies von Ihnen gewünscht ist.</p><p></p><p>Eine Zusammenfassung haben wir für Sie hier erstellt:</p><p><a href=\"https://wiki.kgs-rastede.de/de/eltern/iPadBestellung\" rel=\"noreferrer\">https://wiki.kgs-rastede.de/de/eltern/iPadBestellung</a></p><p></p><p>Sie finden <a href=\"https://kgs-rastede.de/media/pages/blogs/ipadbestellung-an-kgs-rastede-fuer-den-aktuellen-6-und-7-jahrgang/e0df9963e6-1696414101/20230907_pdf_vertragserstellung_7-jahrgang_9.-gen_kgs-rastede.pdf\" target=\"_blank\" rel=\"noreferrer\">in der PDF-Datei</a> die Informationen für die Bestellung über mobiles lernen.</p><p></p><p></p><p></p><p>Weitere Downloads: </p><p><a href=\"https://kgs-rastede.de/media/pages/blogs/ipadbestellung-an-kgs-rastede-fuer-den-aktuellen-6-und-7-jahrgang/9959b86080-1696587122/elternabend-ipads-jg7.pdf\" target=\"_blank\" rel=\"noreferrer\">Präsentation des Elternabends</a></p><p><a href=\"https://kgs-rastede.de/media/pages/blogs/ipadbestellung-an-kgs-rastede-fuer-den-aktuellen-6-und-7-jahrgang/1dfd8d0455-1696587275/foerderantrag.pdf\" rel=\"noreferrer\">Förderantrag</a></p><p></p><p></p><p></p><p></p><p></p><p></p>"},"id":"7f8ceb22-a8d0-49fe-a544-d28afe55200a","isHidden":false,"type":"text"},{"content":{"lesensieauchtitel":"","lesensieauch":[]},"id":"dc9058b0-0166-40df-b510-6e5fafb112f7","isHidden":false,"type":"lesensieauch"}],"id":"461af04d-3ff0-433f-8b09-1a90ce934ddb","width":"1/1"}],"id":"0c1113ea-4eff-4012-8df6-18752d20747d"}]
+
+----
+
+Date: 2023-10-04 12:05:00
+
+----
+
+Datumstartseite: 2023-11-26 12:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Team Digitalisierung
+
+----
+
+Tags: IPad, Digitalisierung
+
+----
+
+Downloads:
+
+- file://1mVKuYCnctB6VpXY
+- file://lLnq3umrupjU8PeR
+- file://dZqg5Hs4HTXKiTjO
+
+----
+
+Uuid: gkG0NTvZWDimp8Vf

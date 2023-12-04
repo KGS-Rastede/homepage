@@ -1,0 +1,29 @@
+Title: Freiheit und Autonomie für Tibet
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Freiheit und Autonomie f\u00fcr Tibet 1950 besetzen chinesische Soldaten das souver\u00e4ne Tibet. Am 10. M\u00e4rz 1959 erheben sich die Tibeterinnen in der Hauptstadt Lhasa gegen ihre Unterdr\u00fccker. Die Chinesen schlagen den Aufstand der Tibeterinnen brutal nieder. Hunderttausende Tibeterinnen werden von den Besatzern ermordet. Der Dalai Lama muss 1959 nach Indien fliehen. Die Chinesen zerst\u00f6ren 6.000 Tempel und Kl\u00f6ster. Bis heute sind die Tibeterinnen gravierenden Menschenrechtsverletzungen ausgesetzt. Die tibetische Flagge ist in Tibet verboten. Trotzdem wehren sich die Tibeterinnen gegen die Besetzung. Seit Februar 2009 z\u00fcnden sich mindestens 153 Tibeterinnen aus Protest gegen die Unterdr\u00fcckung selbst an. Die Welt\u00f6ffentlichkeit setzt sich f\u00fcr Freiheit und Autonomie f\u00fcr Tibet ein. Seit 1996 zeigen St\u00e4dte und Gemeinden in der BRD \"Flagge f\u00fcr Tibet\". Unsere AG \"F\u00fcr den Frieden\" unterst\u00fctzt den Kampf der Tiberter*innen f\u00fcr Freiheit und Autonomie. Dazu zeigen wir die tibetische Flagge und Transparente in der Schule..AG \"F\u00fcr den Frieden\"<\/p><p><\/p>"},"id":"69b98c7e-06b4-445b-964a-38b8817562ab","isHidden":false,"type":"text"}],"id":"8434c682-1f73-4f07-8de8-c74f4b66f094","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["img_2899.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"aa81a724-f32f-47ca-b043-9641733423b8","isHidden":false,"type":"image"}],"id":"99a931c9-1cbc-4511-a298-c057a3cc3ec1","width":"1\/2"}],"id":"2cf95f90-4e99-4a09-b467-9919eed450a7"}]
+
+----
+
+Date: 2022-03-15 13:10:00
+
+----
+
+Datumstartseite: 2022-07-15 13:15:00
+
+----
+
+Author: Michael Luttmer
+
+----
+
+Tags: AGs, Für den Frieden, Tibet
+
+----
+
+Downloads: 
+
+----
+
+Uuid: BoWkjE55VAzYQZMK

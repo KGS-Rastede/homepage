@@ -1,0 +1,13 @@
+Anzeigename: Schwerpunkte ab Abitur 2024
+
+----
+
+Beschreibung: 
+
+----
+
+Template: datei
+
+----
+
+Uuid: pg9XRxX15O0dXDb2

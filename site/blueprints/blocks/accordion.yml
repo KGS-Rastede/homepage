@@ -1,0 +1,49 @@
+name: Akkordeon
+icon: menu
+label: "{{ accordionid }}"
+fields:
+  info:
+    label: Bitte beachten!
+    type: info
+    theme: negative
+    text: |
+      Hier bitte eine ID für das Akkordeon eingeben. Dabei ist wichtig, dass **weitere Akkordeons auf der gleichen Seite eine andere ID haben**.
+      *Diese wird intern benötigt und nicht auf der Homepage sichtbar sein.*
+  accordionid: 
+    type: text
+    label: Id
+    placeholder: "z.B. pro Akkordeon eine Zahl: 1 , 2, 3, ..."
+    required: true
+    maxlength: 10
+  flush:
+    label: Allgemeine Ansicht
+    type: toggle
+    width: 1/2
+    help: "Es kann ein alternatives Thema ausgewählt werden, bei dem weniger Umrandungen und Hintergründe vorhanden sind. Diese Thema heisst: Flush"
+    default: false
+    text:
+      - "Normal"
+      - "Flush"
+  accfirst:
+    label: Ansicht des ersten Items
+    type: toggle
+    width: 1/2
+    help: Beim Laden der Seite kann das erste Item des Akkordeons standardmäßig geöffnet sein. Alternativ sind alle Items beim Laden der Seite geschlossen.
+    default: true
+    text:
+      - "erstes Item geschlossen"
+      - "erstes Item geöffnet"
+
+
+  accordion:
+    type: structure
+    label: Akkordeon
+    fields:
+      accordionheading:
+        label: Überschrift
+        type: text
+        required: true
+      accordionbody:
+        label: Text für das Akkordeon
+        type: textarea
+        required: true

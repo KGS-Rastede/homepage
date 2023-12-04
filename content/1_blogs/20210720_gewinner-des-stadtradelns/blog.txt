@@ -1,0 +1,40 @@
+Title: Gewinner des Stadtradelns
+
+----
+
+Heading:
+
+----
+
+Text: [{"content":{"text":"<p>Die Schulgemeinschaft der KGS hat beim Stadtradeln 2021 innerhalb von 3 Wochen 67.317 Kilometer erradelt. Das entspricht einer Ersparnis von 9.896 Tonnen CO2. Alle Sch\u00fcler*innen, Lehrkr\u00e4fte und Mitarbeiter*innen, die sich an der Aktion beteiligt haben, haben gewonnen: f\u00fcr das Klima, f\u00fcr die Umwelt und f\u00fcr ihre eigene Gesundheit. <\/p><p>Einige verdienen dar\u00fcber hinaus besondere Anerkennung:<\/p><p> &gt; &gt; Wettbewerb der Klassen: &gt; &gt; <\/p><p>1. Platz: 6A3 mit 5424,8 km &gt; <\/p><p>2. Platz: 6C3 mit 5.319 km &gt; <\/p><p>3. Platz: 5C3 mit 4.907,2 km &gt; &gt; <\/p><p>Im Klassenwettbewerb legte die 10B3 die meisten Kilometer pro Kopf zur\u00fcck: 192,4 km pro Kopf. Das Lehrkr\u00e4fte-Team mit dem kreativen Namen Me2ChrisTo kam auf 475,8 km pro Kopf und die Schulleitung auf 376,2 km pro Kopf. &gt; Das bunteste Team der KGS war die Truppe \"Brains travel on Bikes\" mit Sch\u00fcler*innen aus den Jahrg\u00e4ngen 10, 12 und 13, einer Lehrkraft und einer Mitarbeiterin der Cafeteria. <\/p><p>&gt; &gt; Wettbewerb der Sch\u00fcler*innen: &gt; &gt; <\/p><p>1. Platz: Saskia aus der 8D3 mit 624,9 km &gt; <\/p><p>2. Platz: Linus aus der 6D3 mit 606,4 km &gt; <\/p><p>3. Platz: Julia aus der 6A3 mit 561,7 km &gt; &gt;<\/p><p> Wettbewerb der Lehrkr\u00e4fte: &gt; &gt; <\/p><p>1. Platz: Herr Stolz mit 953,6 km &gt; <\/p><p>2. Platz: Frau Ildiz mit 658 km &gt; <\/p><p>3. Platz: Herr Diekmann mit 556 km &gt; &gt; <\/p><p>Herzlichen Gl\u00fcckwunsch an die Sieger*innen und an alle Teilnehmer*innen f\u00fcr diesen tollen kooperativen Beitrag der KGS beim Stadtradeln 2021!<\/p><p><\/p>"},"id":"d93a9d1e-8d2b-46d8-81b4-33c992f3b123","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- kgs-schueler-raeder.jpg
+- brains3.jpg
+
+----
+
+Date: 2021-07-20 00:00:00
+
+----
+
+Datumstartseite: 2021-11-20 00:00:00
+
+----
+
+Author: Anja Szyltowski
+
+----
+
+Tags: Schulleben, SCHULRADELN
+
+----
+
+Downloads:
+
+----
+
+Fotoansicht: gallery

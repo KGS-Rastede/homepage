@@ -1,0 +1,41 @@
+Title: Entlassfeier Sek. I am 01.07.21
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die Entlassfeiern f\u00fcr die Sekundarstufe I am Donnerstag, den<strong> 01.07<\/strong>., um <strong>14.00<\/strong> und um <strong>16.00 Uhr<\/strong>, verlegen wir wegen des zu erwartenden Regens in die Aula. Aufgrund der erfreulich niedrigen Inzidenz d\u00fcrfen Sch\u00fclerinnen und Sch\u00fcler von ihren Eltern begleitet werden. Voraussetzung hierf\u00fcr ist, dass die Begleitpersonen den Nachweis einer vollst\u00e4ndigen Impfung oder einer Genesung oder einen negativen Test aus einem Testzentrum vorlegen. Laientests reichen leider nicht aus.<\/p><p>Da in der Aula die Abst\u00e4nde nicht eingehalten werden k\u00f6nnen, muss die Maske getragen werden.<\/p>"},"id":"916f4cc0-5864-454c-8e20-5b93aaed7838","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-06-29 00:00:00
+
+----
+
+Datumstartseite: 2021-07-04 00:00:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Entlassung
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: ZgGOLaslBksKju3E

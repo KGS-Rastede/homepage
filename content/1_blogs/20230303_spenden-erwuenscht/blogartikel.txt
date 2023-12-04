@@ -1,0 +1,33 @@
+Title: Spenden erwünscht!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/JyMmK4p5W5dds1mA"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true"},"id":"454ccf57-e6bd-4740-8653-9e52dcb45cf8","isHidden":false,"type":"image"},{"content":{"text":"<p>Nun geht\u00b4s los, es darf gespendet werden!!<\/p><p>Jede Spende (bis zu 50,- Euro) wird von der Raiffeisenbank Rastede verdoppelt!<\/p>"},"id":"25aa764c-b26e-4a7d-80cd-7d8ca8cc4749","isHidden":false,"type":"text"}],"id":"f77cf721-7699-49ba-90c9-2c447f2ce408","width":"1\/1"}],"id":"c04672cd-9d3f-4f5b-a3d8-3ba6313d5d37"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"<a href=\"https:\/\/www.viele-schaffen-mehr.de\/projekte\/herausforderungsprojekt-kgs-rastede\/unterstuetzungen\" rel=\"noopener noreferrer\">Hier<\/a> klicken und ein gro\u00dfartiges Projekt unterst\u00fctzen!"},"id":"d394f0a1-2b19-4759-9984-c2b41aed8f26","isHidden":false,"type":"heading"}],"id":"afaa0e1a-ce0d-43d1-b470-29c3e0e7c4fc","width":"1\/1"}],"id":"faa368e5-1288-4962-8a09-42327c7718f3"}]
+
+----
+
+Date: 2023-03-03 08:20:00
+
+----
+
+Datumstartseite: 2023-07-03 08:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sascha Arzenscheg
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: XpyqYjqAybsUXV80

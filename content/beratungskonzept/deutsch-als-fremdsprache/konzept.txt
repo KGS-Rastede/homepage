@@ -1,0 +1,17 @@
+Title: Deutsch als Fremdsprache. Unterstützung
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Du brauchst Unterst\u00fctzung? Du hast Fragen zu M\u00f6glichkeiten der F\u00f6rderung oder der Sprachfeststellungspr\u00fcfung? <\/p><p>Wende dich direkt an Frau Albers-Oprescue oder schreibe eine EMail an daz@kgs-rastede.eu<\/p>"},"id":"eed5c37d-dece-4fb2-8557-e84c9a28414d","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: cMFZIob2MusgEPt8

@@ -1,0 +1,13 @@
+Anzeigename: Teilnahmebescheinigung
+
+----
+
+Beschreibung: 
+
+----
+
+Template: datei
+
+----
+
+Uuid: QnwnR5LcEHYGle6a

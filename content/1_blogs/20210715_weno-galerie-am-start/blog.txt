@@ -1,0 +1,41 @@
+Title: Weno-Galerie am Start!
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>R\u00fcckblickend auf das positive Feedback zur Ausstellung <strong>#StayHealthyStayWeno<\/strong> in der Schule, startet diese nun im digitalen Format. In der <em>Weno-Galerie<\/em> habt ihr die M\u00f6glichkeit <strong>alle <\/strong>Werke der Sch\u00fclerinnen und Sch\u00fcler des Projektes sowie der Ausstellung anzuschauen. &nbsp;<\/p><p>&nbsp;Klickt dazu auf &nbsp;<a href=\"https:\/\/weno.schuelersachen.de\" rel=\"noopener noreferrer nofollow\">https:\/\/weno.schuelersachen.de<\/a><\/p><p>&nbsp;Viel Freude dabei!<\/p><p>&nbsp;Denise Apel<\/p><p><\/p>"},"id":"711b99ec-4443-46f8-b331-195117ee796e","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - weno-galerie-2021-07-15.jpg
+
+----
+
+Date: 2021-07-15 00:00:00
+
+----
+
+Datumstartseite: 2021-11-15 00:00:00
+
+----
+
+Author: Denise Apel
+
+----
+
+Tags: WuN
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: KTOM1nqHptWV5GnW

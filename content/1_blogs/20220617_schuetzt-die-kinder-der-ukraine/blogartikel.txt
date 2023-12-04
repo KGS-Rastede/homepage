@@ -1,0 +1,29 @@
+Title: Schützt die Kinder der Ukraine!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Zu den zivilen Opfern des russischen Angriffskrieges auf die Ukraine z\u00e4hlen zahlreiche unschuldige Kinder. 272<em> Kinder sterben. 439<\/em> werden verletzt. Zwei Drittel der Kinder sind auf der Flucht. Laut UNO fallen jeden Tag zwei Kinder dem Krieg zum Opfer. An diese Kinder erinnert die AG \"F\u00fcr den Frieden\" mit einer Aktion. Auf dem Schulhof in der Wilhelmstra\u00dfe symbolisierten leere St\u00fchle die Not, das Elend und das Leid der Kinder. Die leeren St\u00fchle sollten zeigen, dass die Kinder ihren Platz im Leben und sogar ihr Lebenselbst im Krieg verlieren. Die AG \"F\u00fcr den Frieden\" fordert den Schutz der ukrainischen Kinder vor jeder Form milit\u00e4rischer Gewalt \u2013 gem\u00e4\u00df der Allgemeinen Erkl\u00e4rung der Menschenrechte, des humanit\u00e4ren V\u00f6lkerrechts und der UN-Kinderrechtekonvention. Kinder d\u00fcrfen keine Opfer der russischen Invasion werden.<\/p><p>Zahlreiche Sch\u00fcler:innen dr\u00fcckten mit ihrer Anwesenheit w\u00e4hrend der Pausen ihre Solidarit\u00e4t mit den ukrainischen Kindern und ihren Protest gegen die Grausamkeit gegen die Schw\u00e4chsten der Schwachen im russischen Krieg gegen die Ukraine Kieg aus. Musikalisch wurde die Aktion von der Sch\u00fclerinnenband Coops begleitet.<\/p><p><\/p>"},"id":"307cd869-b494-48c9-9630-2eec0956bd6d","isHidden":false,"type":"text"}],"id":"44f2a038-9036-4125-839c-45d5374543f5","width":"1\/2"},{"blocks":[{"content":{"images":["img_3116.jpg","img_3119.jpg","img_3176.jpg","img_3177.jpg","img_3182.jpg","img_3190.jpg"]},"id":"004402df-58b8-4216-8323-412709506857","isHidden":false,"type":"gallery"}],"id":"022ab241-f681-4253-94e5-c026a67977f6","width":"1\/2"}],"id":"f5ea45eb-a426-4285-8650-1d3e55d3acaf"}]
+
+----
+
+Date: 2022-06-17 07:45:00
+
+----
+
+Datumstartseite: 2022-10-17 07:45:00
+
+----
+
+Author: AG 'Für den Frieden'
+
+----
+
+Tags: AGs, Für den Frieden, Ukraine
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 56d3xbOqHuUFL6Jm

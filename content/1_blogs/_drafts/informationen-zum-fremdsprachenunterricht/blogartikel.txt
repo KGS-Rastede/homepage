@@ -1,0 +1,29 @@
+Title: Informationen zum Fremdsprachenunterricht
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Informationen f\u00fcr die\u00a0Erziehungsberechtigten der Sch\u00fclerinnen und Sch\u00fcler des 5. Jahrgangs des Gymnasialzweiges:<\/p><p>Am Ende der Klasse 5 muss Ihr Kind im Gymnasialzweig eine 2. Fremdsprache f\u00fcr Klasse 6 w\u00e4hlen. Die Wahl beinhaltet eine Festlegung f\u00fcr mehrere Jahre. Die verbindlichen Wahlen werden im April 2022 erfolgen.\u00a0\u00a0<\/p><p>Aufgrund der aktuellen Coronalage ist es uns nicht m\u00f6glich eine Pr\u00e4senzveranstaltung in unserer Schule durchzuf\u00fchren. Um Ihnen eine Hilfe bei der Entscheidung zu geben, haben Sie hier die M\u00f6glichkeit sich mit Hilfe des Videos zu informieren.<\/p>"},"id":"3fada640-68a3-4207-b1ad-d004c78a9416","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/vimeo.com\/677282636","caption":"Informationsvideo zum Fremdsprachenunterricht"},"id":"ba5f23e0-209e-4856-b21e-d3a1c9365d05","isHidden":false,"type":"video"}],"id":"02b04d9f-5318-4896-84a7-14e39a81a363","width":"1\/1"}],"id":"64858ea9-83d1-47eb-9b63-2b2dbd3cb8c5"}]
+
+----
+
+Date: 2022-02-14 00:00:00
+
+----
+
+Datumstartseite: 2022-02-20 00:00:00
+
+----
+
+Author: Malte Bormann
+
+----
+
+Tags: Fremdsprachen
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 2R7cDyEXZ8JjOS8h

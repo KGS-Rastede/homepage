@@ -1,0 +1,52 @@
+title: Presse Artikel
+icon: book
+
+
+options:
+  update:
+    *: false
+    admin: true
+
+
+fields:
+  info:
+    label: Info
+    type: info
+  pressenachrichten:
+    type: structure
+    sortBy: datum desc
+    columns:
+      link:
+        width: 1/10
+      name:
+        width: 4/10
+      anfang:
+        width: 3/10
+      datum:
+        width: 1/10
+      zeitung:
+        width: 1/10
+    fields:
+      link:
+        label: Link (URL)
+        type: url
+      name:
+        label: Bezeichnung des Links
+        type: text
+      anfang:
+        label: Anriss
+        type: text
+      datum:
+        label: Datum
+        type: date
+        required: true
+      medium:
+        label: Medium
+        type: select
+        required: true
+        options:
+          nwz: NWZ
+          rastederrundschau: Rasteder Rundschau
+          youtube: YouTube
+          gemeinde: Gemeinde Rastede
+          sonstiges: Sonstige Medien

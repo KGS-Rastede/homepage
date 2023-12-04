@@ -1,0 +1,33 @@
+Title: Veranstaltungshinweis
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Online-Vortrag"},"id":"2368c93f-d047-45ea-8a92-4ea81c39d6ad","isHidden":false,"type":"heading"}],"id":"991dff4b-1417-4e27-b59b-95fc46a82d38","width":"1/1"}],"id":"86b92f5a-db51-4eda-9501-910a41bc28ec"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://RDlO5fOokwlF8i8k"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"eb554e8a-c6e2-4043-adff-f947be3ac4b1","isHidden":false,"type":"image"}],"id":"bdb60c62-7842-4876-9698-bc2de00ad018","width":"1/1"}],"id":"0377bd3a-1cb8-426b-b203-d2a0a4790bf8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>„Kindgerecht!? Sicher und smart mit mobilen Geräten.“ </strong> am Dienstag, den <strong>31.10.23</strong> von <strong>20 – 21.15 Uhr</strong></p><p>Ø  Der Vortrag ist kostenfrei, eine Anmeldung ist nicht nötig.</p><p>Ø  Den Link zur Veranstaltung finden Sie am Veranstaltungstermin auf unserer Webseite <a href=\"http://www.praeventionsrat-oldenburg.de/\" rel=\"noreferrer\"><u>www.praeventionsrat-oldenburg.de</u></a>.</p>"},"id":"956415da-5829-449f-afa4-10be6dbbdb4f","isHidden":false,"type":"text"}],"id":"d2d33178-3101-4c62-8f3b-88aa7dac8ec5","width":"1/1"}],"id":"fc6b88e3-ae4a-4f3a-88db-9c90cab692ae"}]
+
+----
+
+Date: 2023-10-19 12:45:00
+
+----
+
+Datumstartseite: 2023-11-01 09:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: Veranstaltungshinweis, Prävention
+
+----
+
+Downloads: 
+
+----
+
+Uuid: gZhNhLNbqt81M57A

@@ -1,0 +1,16 @@
+# /site/blueprints/blocks/audio.yml
+name: Infofeld
+icon: info
+label: "{{ name }} - {{ kurzbeschreibung }}"
+fields:
+  name:
+    type: text
+  kurzbeschreibung:
+    type: textarea
+  link:
+    label: Verweis
+    type: link
+    options:
+      - file
+      - url
+      - page

@@ -1,0 +1,13 @@
+Anzeigename: Informationen zur Einführungsphase und den Schwerpunkten
+
+----
+
+Startseite: false
+
+----
+
+Template: pdfs
+
+----
+
+Uuid: 7Qcwccbcz38L9nAV

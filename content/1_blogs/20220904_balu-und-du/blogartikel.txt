@@ -1,0 +1,33 @@
+Title: Balu und Du - Erster Durchgang verabschiedet, zweiter Durchgang gestartet!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Kurz vor den Sommerferien nahte das Ende vom ersten Durchgang \"Balu und Du\". Die Gro\u00dfen, die Balus verabschiedeten sich von ihren Kleinen, den Moglis. Bei dem Abschiedstreffen mit Spiel, Tanz und Musik kamen die Eltern der Moglis, die Balus, mit Vertretern der Gemeinde u. a. Herrn Krause, dem B\u00fcrgermeister zusammen. Die Moglis wurden feierlich verabschiedet und bekamen von ihren gro\u00dfen Freunden, den Balus ein pers\u00f6nliches Abschiedsgeschenk \u00fcberreicht. Die Balus erhielten f\u00fcr ihr geleistetes Engagement eine Ehrenamtsurkunde, \u00fcberreicht vom B\u00fcrgermeister. R\u00fcckblickend waren alle - Gemeindevertreter wie Schulleitungen beider Schulen (KGS Rastede, Grundschule Feldbreite), Eltern, Kinder und betreuende Lehrkr\u00e4fte - von dem Projekt Balu und Du begeistert und freuen sich, dass dieses Projekt in einem zweiten Durchgang fortgef\u00fchrt wird.<\/p><p>Dem Ende naht ein neuer Anfang, so k\u00f6nnte man sagen, denn die \"neuen\" Balus des zweiten Durchganges trafen im Rahmen des sog. \"Matchings\" am letzten Freitag erstmals auf ihre kleinen Freunde, die Moglis. Bei zahlreichen Spielen und Bastelaktionen konnten sich die Balus und die Moglis n\u00e4her kennenlernen. Ebenso konnten die Eltern ihre Fragen und Anliegen an die betreuenden Lehrkr\u00e4fte des Projektes Herrn Niebur und Frau Apel richten. Mit voller Vorfreude starten nun die \"neuen\" Balus kommende Woche in ihre gemeinsame Zeit mit den Moglis!<\/p>"},"id":"8be9e15b-b5e8-4d08-a58f-5f597148259d","isHidden":false,"type":"text"}],"id":"70dc01f4-0fbb-4d21-8326-9724b66d5e05","width":"1\/1"},{"blocks":[{"content":{"location":"kirby","image":["photo-2022-07-08-21-26-14.jpg"],"src":"","alt":"","caption":"\u00dcbergabe der Ehrenamtsurkunden","link":"","ratio":"","crop":"false"},"id":"677bcbea-6fe1-4442-854a-7104a1b90bc1","isHidden":false,"type":"image"}],"id":"36b0f7eb-e476-4e1a-b863-c3f97538922d","width":"2\/3"},{"blocks":[{"content":{"location":"kirby","image":["img_7563.jpeg"],"src":"","alt":"","caption":"Neue Balus - zweiter Durchgang","link":"","ratio":"","crop":"false"},"id":"9c689580-3899-4b00-9f19-bde42808dae2","isHidden":false,"type":"image"}],"id":"37c6a6bd-8b70-4fcc-82e1-c44765a711e1","width":"1\/3"}],"id":"5c3f8725-b74e-4abf-9a5c-40465ef1c09a"}]
+
+----
+
+Date: 2022-09-04 16:10:00
+
+----
+
+Datumstartseite: 2023-01-04 16:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Denise Apel
+
+----
+
+Tags: Bald und Du, Projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: k0pF1ebp9T9nBkOA

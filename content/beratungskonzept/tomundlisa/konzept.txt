@@ -1,0 +1,17 @@
+Title: Tom und Lisa
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"location":"kirby","image":["bildschirmfoto-2021-05-17-um-16.18.19.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f035cbd9-8f55-454a-b974-2f8db2000cae","isHidden":false,"type":"image"},{"content":{"text":"<p>Das Pr\u00e4ventionsprogramm&nbsp;\u201eTom und Lisa\u201c&nbsp;wird mit den Sch\u00fclerinnen und Sch\u00fclern des 8. Jahrgangs durchgef\u00fchrt. Es handelt sich um ein interaktives Planspiel zum Erwerb von Lebens- und Risikokompetenzen f\u00fcr einen verantwortungsbewussten Umgang mit Alkohol. Die Jugendlichen planen eine fiktive alkoholfreie Party und setzen sich mit Fragen, Hintergr\u00fcnden und Gefahren rund um das Thema auseinander. Das Programm orientiert sich an der Lebenswirklichkeit von Jugendlichen, wird im Klassenverband durchgef\u00fchrt und bindet Eltern in Form eines Interviews ein.<\/p><p>Das Projekt wird in Kooperation mit der Jugendpflege durchgef\u00fchrt. Auf diese Weise wird der einrichtungs\u00fcbergreifende Austausch bef\u00f6rdert, sodass Kinder und Jugendliche Gelegenheit haben, R\u00e4ume und Team der Jugendpflege als vertrauensvolle Anprechpartner*innen kennenzulernen.<\/p>"},"id":"a7585a9d-d168-4072-be0b-7ffd8ef1085f","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: AasgR98NxColRngM

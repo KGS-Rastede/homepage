@@ -1,0 +1,48 @@
+Title: WAHRHEIT & WIRKLICHKEIT
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>... so lautet das Thema, das uns im Werte und Normen-Unterricht zur Zeit besch\u00e4ftigt. Deshalb sind wir - die Werte und Normen- Kurse aus Jg. 10 von Frau Apel und Frau Schw\u00e4be - am 23. Januar nach Hamburg gefahren zum Planetarium und zum Museum der Illusionen.<\/p>"},"id":"e9f0a220-9b60-424e-b069-2c67c52f7ca3","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["wuw-1.jpg"],"src":"","alt":"","caption":"WuN Jg. 10","link":"","ratio":"","crop":"false"},"id":"63063ca7-84d4-4b75-b839-2142fa8dd315","isHidden":false,"type":"image"},{"content":{"text":"<p>Nach einer Reise durch das Sonnensystem, auf der wir alle Planeten und ihre Besonderheiten in 3D erfahren konnten, wurden unsere Sinne im Museum der Illusionen im wahrsten Sinne des Wortes auf den Kopf gestellt.<\/p>"},"id":"4932be7d-a8c5-4c74-a52b-8a2652f7cd03","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["wuw-2.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"5e39cbef-88ab-41ad-9be8-ca86c1bdecef","isHidden":false,"type":"image"}]
+
+----
+
+Gallery:
+
+- wuw-1.jpg
+- wuw-2.jpg
+
+----
+
+Date: 2020-01-23 12:00:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Denise
+
+----
+
+Tags: WuN
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: manuel
+
+----
+
+Featured: false
+
+----
+
+Immer-sichtbar: false

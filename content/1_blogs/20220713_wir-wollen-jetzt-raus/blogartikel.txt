@@ -1,0 +1,33 @@
+Title: Wir wollen jetzt raus!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https:\/\/vimeo.com\/729661303","caption":""},"id":"3f4e630a-e219-42e2-ba34-43bd3ec2cb5f","isHidden":false,"type":"video"}],"id":"37d47203-7740-4432-a493-9519b47444ac","width":"1\/2"},{"blocks":[{"content":{"text":"<p>Nachdem sich die Projektgruppen ein halbes Jahr auf die Herausforderungen vorbereitet haben, geht es direkt nach den Sommerferien endlich los. In diesem Video kann man einige Stationen der Vorbereitung sehen und man erf\u00e4hrt etwas \u00fcber die Ziele, und Erwartungen der Teilnehmer:innen.<\/p>"},"id":"b24cad2b-6a82-47bb-ad2d-5ad26d818145","isHidden":false,"type":"text"}],"id":"5d487122-be65-4c6d-80b7-267cf3266e41","width":"1\/2"}],"id":"2b4e53a8-bae7-4b0a-8acf-3275fdcd4229"}]
+
+----
+
+Date: 2022-07-13 17:45:00
+
+----
+
+Datumstartseite: 2022-11-13 17:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: Herausforderungsprojekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: AOjf3Ezp3CyOR3nP

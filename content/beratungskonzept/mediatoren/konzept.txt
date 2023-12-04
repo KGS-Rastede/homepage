@@ -1,0 +1,17 @@
+Title: Hausaufgabenhilfe
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"location":"kirby","image":["school-3568390_1920.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"1ee43736-6d27-4158-b0d6-df4f90f68adf","isHidden":false,"type":"image"},{"content":{"text":"<p>Wir unterst\u00fctzen j\u00fcngere Sch\u00fcler:innen bei den Hausaufgaben oder der Vorbereitung auf Klassenarbeiten. Daf\u00fcr werden wir in der Arbeitsgemeinschaft geschult und entwickeln gemeinsam einen Einsatzplan.<\/p>"},"id":"ce695239-a04a-4c66-a0c7-dbfd0a18497a","isHidden":false,"type":"text"},{"content":{"text":"<p>Du m\u00f6chtest mithelfen? Wende dich an Herrn Lehners: leh@kgs-rastede.eu<\/p>"},"id":"3bd363d2-55d5-4bca-a733-ccd4b0ecb43d","isHidden":false,"type":"text"},{"content":{"text":""},"id":"3bc50188-616a-4d4d-af67-9974421b7030","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 0nniJamEAg0SJcaH

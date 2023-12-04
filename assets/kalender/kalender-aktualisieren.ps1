@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://kgs-rastede.eu/iserv/public/calendar?key=1bad7fec91a3d07904543f4476774fd1" -OutFile ".\public.ics"

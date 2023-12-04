@@ -1,0 +1,52 @@
+title: Downloads und Links
+icon: 📖
+
+options:
+  update:
+    *: false
+    fachleiter: false
+    admin: true
+
+
+
+
+sections:
+  content:
+    type: fields
+    fields:
+      Subtitle1:
+        type: text
+        label: Titel
+      Subtitletext1:
+        label: Infos zu den Schulbuchlisten
+        type: textarea
+      SchulbuchlistenGZ:
+        label: Schulbuchlisten GZ
+        type: structure
+        fields:
+          link:
+            label: Link (URL)
+            type: files
+          name:
+            label: Bezeichnung des Links
+            type: text
+      SchulbuchlistenRZ:
+        label: Schulbuchlisten RZ
+        type: structure
+        fields:
+          link:
+            label: Link (URL)
+            type: files
+          name:
+            label: Bezeichnung des Links
+            type: text
+      SchulbuchlistenHZ:
+        label: Schulbuchlisten HZ
+        type: structure
+        fields:
+          link:
+            label: Link (URL)
+            type: files
+          name:
+            label: Bezeichnung des Links
+            type: text

@@ -1,0 +1,41 @@
+Title: Bundestagswahl 2021- Die Parteien stellen sich vor
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Anl\u00e4sslich der Bundestagswahl die diesen September stattfindet, haben wir eine Veranstaltung organisiert die politische Orientierung liefern sollte. Daf\u00fcr haben wir die Direktkandidat:innen aus unserem Wahlkreis eingeladen, die entweder pers\u00f6nlich vor Ort waren, oder vertreten wurden.&nbsp;<\/p><p>So entstand eine Runde aus: Susanne Menge (Gr\u00fcne), Steffen Schumann (Die Linke), Daniel R\u00fcdel (FDP), Phillip Albrecht (CDU) und Dennis Rohde (SPD).<\/p>"},"id":"a0ec4df6-2068-4214-a011-37c309ffa0a3","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["bw1.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"dc8c5957-6157-40d8-a7ce-1964615324d9","isHidden":false,"type":"image"},{"content":{"text":"<p>Stattgefunden hat das ganze dann am 30.06., nachdem wir uns als AG mehrere Wochen inhaltlich vorbereitet hatten, und probiert haben, die interessantesten Themen f\u00fcr die Zuh\u00f6rer:innen zu finden. Pandemie-freundlich durfte nur der 12 Jahrgang in der Aula sein, und die restlichen Klassen aus den Jahrg\u00e4ngen 10 und 11 schauten das ganze per Videokonferenz in den Klassenr\u00e4umen. (Dank Herrn Br\u00f6tje und seiner AG war das m\u00f6glich!)<\/p>"},"id":"13d5a2f6-6fdb-4feb-a436-0a7ae88a8f48","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["bw2.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"06b09f85-3c9e-4d25-b314-6f9798a4e3df","isHidden":false,"type":"image"},{"content":{"text":"<p>Bei den drei Themenbl\u00f6cken Au\u00dfen-, Sozial-, und Umweltpolitik entstanden spannende und angeheizte Diskussionen zwischen den Politiker:innen, und auch die anschlie\u00dfende Fragerunde lieferte reichlich Unterhaltung f\u00fcr das Publikum. Von Fragen wie man den Bundestag diverser machen k\u00f6nne, bis zu Fragen \u00fcber Korruptionsvorw\u00fcrfen war alles dabei.<\/p>"},"id":"9f85a209-c27f-4c26-b7f7-0f1f99340317","isHidden":false,"type":"text"},{"content":{"text":"<p>Einig waren die Politiker:innen sich dann aber am Ende tats\u00e4chlich doch auch einmal.<\/p><p>\u201eOb, und wenn ja inwiefern, die Jugend in der Corona Zeit vernachl\u00e4ssigt wurde\u201c beantworten alle einstimmig mit einem Ja, und waren einer Meinung, das dort nicht richtig gehandelt wurde.<\/p><p>Das Interesse und die Redebereitschaft war gro\u00df, sowohl von den Politiker:innen als auch dem Publikum, sodass eine spannende Veranstaltung, die einen Grund\u00fcberblick \u00fcber Parteipolitik aus unserem Wahlkreis lieferte, statt fand.<\/p>"},"id":"89b516dc-54cb-43c6-adba-ca1558c2b373","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: 
+
+----
+
+Date: 2021-07-09 00:00:00
+
+----
+
+Datumstartseite: 2021-11-09 00:00:00
+
+----
+
+Author: Joelee Kobler
+
+----
+
+Tags: Politik, Bundestagswahl, PoWi
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: Eas6i9OQK1ly5K6U

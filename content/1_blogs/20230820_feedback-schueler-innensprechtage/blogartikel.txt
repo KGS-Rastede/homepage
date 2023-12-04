@@ -1,0 +1,33 @@
+Title: Feedback-/Schüler:innensprechtage
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://2zFpl4WKNrqvFER9"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"2b4c6ace-0878-4f9b-af62-5215e02c421a","isHidden":false,"type":"image"}],"id":"94372d1d-899d-4512-b424-7ffede593d5d","width":"1/1"}],"id":"2638ae77-a160-4da5-b47a-90172c99132c"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"13. und 14.09.23"},"id":"f2f7cfec-4bb7-4671-8f7e-17a80eca19f2","isHidden":false,"type":"heading"}],"id":"a8ebb960-8eff-4743-a191-3f39ee7c3643","width":"1/1"}],"id":"aac27ad6-4b92-414b-b216-0d19d1ad5991"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":""},"id":"73863a4c-4d3c-41d2-b5e2-91955f59da7e","isHidden":false,"type":"text"}],"id":"6d31cb28-d1a8-4cd3-a647-2bab6edd6b1a","width":"1/1"}],"id":"2168584c-c218-4248-ae31-a5a273693f70"}]
+
+----
+
+Date: 2023-08-20 16:50:00
+
+----
+
+Datumstartseite: 2023-10-05 10:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: o9WyJBUjt68QO8Nq

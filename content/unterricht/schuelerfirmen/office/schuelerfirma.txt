@@ -1,0 +1,23 @@
+Title: Fair4everyone
+
+----
+
+Heading: Fair4everyone
+
+----
+
+Beschreibung: [{"content":{"text":"<p>\u201eKinderarbeit\u201c mit Schokolade in der Sch\u00fclerfirma? Ja! Kinderarbeit f\u00fcr unsere Schokolade in der Dritten Welt? Nein!<\/p>"},"id":"a2a66f31-c968-4408-b7b7-432bc4895cae","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir von Fair4everyone handeln mit fairtrade und bio hergestellten Schokoladenartikeln, Kaffee und anderen Leckereien. Mit unseren Produkten versorgen wir bei Schulveranstaltungen die Sch\u00fclerInnen der KGS und auch die LehrerInnen kommen durch unsere Verkaufsst\u00e4nde im Lehrerzimmer nicht zu kurz.<\/p>"},"id":"19ff8e2d-2f14-44a1-929f-3b2ac8e00a5b","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00dcber die Betreuung der Verkaufsst\u00e4nde, den Ein- und Verkauf der Fairtrade-Waren, das Lagermanagement und andere kaufm\u00e4nnische T\u00e4tigkeiten hinaus, setzen wir unsere Kenntnisse aus dem Informatikunterricht, bei der Verwaltung, den Abrechnungen und dem Erstellen von Flyern und Werbung am PC, ein. Wir informieren uns \u00fcber die Situation der Kakao- und Kaffeebauern und Kinderarbeit in der Dritten Welt und achten auf umweltvertr\u00e4gliche Verpackungsmaterialien.<\/p>"},"id":"3503ec3c-7ffc-470b-b679-c39b3097d9dc","isHidden":false,"type":"text"}]
+
+----
+
+Mailadresse: lan@kgs-rastede.de
+
+----
+
+Bild:
+
+- dsc_0102.jpg
+
+----
+
+Downloads: 

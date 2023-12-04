@@ -1,0 +1,17 @@
+Title: Soziales Lernen
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Einlebenstage"},"id":"b7755bef-21cc-4ad9-b591-13b33690d7ce","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der Start in das Schuljahr ist f\u00fcr alle aufregend. Nicht nur im 5. Schuljahr. Um all den organisatorischen und sozialen Herausforderungen gerecht werden zu k\u00f6nnen, starten wir mit Einlebenstagen. <\/p><p>Die Arbeitsgruppe \"Soziales Lernen\" hat hierf\u00fcr ein Programm und Materialien entwickelt.<\/p>"},"id":"794daacd-1e33-497d-bde2-f485f3ad7db3","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["bildschirmfoto-2021-05-16-um-18.07.46.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"97fc5e1f-4b35-4011-a0f9-87675d74188f","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Lions Quest. Erwachsen-Werden"},"id":"5e2e2711-f604-42e3-b37d-3877ae63d8c9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mit Unterst\u00fctzung des Lions Club Rastede setzen Klassenlehrerinnen und Klassenlehrer in den 5. und 6. Klassen ein Erziehungscurriculum (Erwachsen Werden) um, das Kinder pr\u00e4ventiv vor Sinn- und Lebenskrisen sch\u00fctzen soll. Daf\u00fcr wurde die Stundentafel f\u00fcr alle Schulzweige im 5. und 6. Jahrgang ver\u00e4ndert, so dass soziales Lernen in der Klasse in diesen beiden Jahrg\u00e4ngen einen festen Platz hat. Die St\u00e4rkung psychosozialer Kompetenzen ist Inhalt des Programms \u201eErwachsen werden\u201c. Lions-Quest ist ein Unterrichtsprogramm, f\u00fcr das sich Lehrer und Lehrerinnen in dreit\u00e4gigen Seminaren schulen lassen. In der Anwendung richtet sich das Programm an Jugendliche zwischen 10 und 16 Jahren, denen Lebenskompetenz (life-skill) im Rahmen des sozialen Lernens durch handlungsorientierte Erlebnisp\u00e4dagogik vermittelt werden soll. Gleichzeitig bieten die verschiedenen Themen zahlreiche Anl\u00e4sse, das Elternhaus und das soziale Umfeld der Jugendlichen einzubeziehen.<\/p>"},"id":"5cd42009-c96e-4dab-b287-99fa546dd89a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Unterrichtsfach \"Soziales Lernen\" in JG 5 und 6"},"id":"39b96b5e-4f09-4f1b-bec3-6677277b4182","isHidden":false,"type":"heading"},{"content":{"text":"<p>Im 5. und 6. Schuljahr hat \"Soziales Lernen\"  im Stundenplan eine festen Platz.<\/p>"},"id":"24bced4b-9552-462a-b699-1e993670f5cb","isHidden":false,"type":"text"},{"content":{"text":"<p>Weitere Informationen zum Programm und den Inhalten folgen.<\/p>"},"id":"a2ec0d51-0d94-44db-b0d5-f92e93865cc5","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Uuid: WpczVvFDiKXeLJlT

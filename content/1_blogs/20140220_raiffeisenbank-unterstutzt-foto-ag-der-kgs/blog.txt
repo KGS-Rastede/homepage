@@ -1,0 +1,43 @@
+Title: Raiffeisenbank unterstützt Foto AG der KGS
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>Die \u00dcberraschung f\u00fcr die 24 Sch\u00fclerinnen und Sch\u00fcler der Jahrg\u00e4nge 7 bis 10 der KGS Rastede, die sich zur \u201e<strong>AG Foto<\/strong>\u201c angemeldet hatten, war gelungen: Sie hatten schon zu Beginn ihrer ersten Stunde ihren eigenen Pressetermin. Der Grund daf\u00fcr war eine gro\u00dfz\u00fcgige Spende der Raiffeisenbank Rastede. AG-Leiterin Stefanie Christiansen hatte in einem Antrag an die Bank um Unterst\u00fctzung f\u00fcr die Anschaffung von zwei hochwertigen Spiegelreflexkameras und vier Wechselobjektiven gebeten. Die bisherige Ausstattung der Foto AG war vom F\u00f6rderverein der KGS finanziert worden. Entsprechend gro\u00df war die Freude \u00fcber die Spendenzusage der Bank.<\/p>"},"id":"dde2d330-7ec3-44b0-b4bd-3e74fd24beea","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Beisein aller AG-Teilnehmer und des Vorsitzenden des F\u00f6rdervereins Uwe Ahlers \u00fcbergab Raiba-Mitarbeiterin Brigitte Hillerns einen symbolischen Scheck \u00fcber 1000 Euro an die strahlende Leiterin der Foto AG. Nat\u00fcrlich wurde auf der B\u00fchne der Aula der KGS das Beleuchtungsset aufgebaut, und etliche Sch\u00fclerinnen und Sch\u00fcler konnten gleich im Anschluss an den offiziellen Fototermin ihre eigenen Fotos zum Thema \u201eSpenden\u00fcbergabe\u201c machen.<\/p>"},"id":"148d4e18-c555-47c3-a251-98897a88627f","isHidden":false,"type":"text"},{"content":{"text":"Durch eine gro\u00dfz\u00fcgige Spende von 1000 Euro aus den Reinertr\u00e4gen des Gewinnsparens konnten hochwertige Kameras und Zubeh\u00f6r f\u00fcr die Foto AG der KGS Rastede gekauft werden","citation":null},"id":"01738906-0dfd-4817-beac-3ef40ac5f93b","isHidden":false,"type":"quote"},{"content":{"text":"<p>Die \u201eAG Foto\u201c der KGS besteht seit mittlerweile vier Jahren und erfreut sich wachsender Beteiligung. Stefanie Christiansen will interessierten Jugendlichen neben dem technischen Wissen auch den fotografischen Blick vermitteln. Dabei suchen sich die AG-Mitglieder ihre Themen selber und besprechen untereinander die angefertigten Fotos.<\/p>"},"id":"2aef12b4-fb77-4665-877d-4807a31ef097","isHidden":false,"type":"text"},{"content":{"text":"So entwickelt sich in der Gruppe eine ganz eigene Kreativit\u00e4t","citation":null},"id":"16ac1418-184d-463e-a5f0-dbb46043cbb2","isHidden":false,"type":"quote"},{"content":{"text":"<p>betont Stefanie Christiansen. Dazu tr\u00e4gt auch das Wissen um die vielen M\u00f6glichkeiten einer Bild-Bearbeitung bei.<\/p>"},"id":"02da7a6a-4ded-4d20-b33d-fc706a315c5c","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- 2020-01-27_10h13_02.png
+
+----
+
+Date: 2014-02-20 08:45:00
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: Anna Papenroth
+
+----
+
+Tags: Kunst, Foto-AG, AGs
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Featured: true

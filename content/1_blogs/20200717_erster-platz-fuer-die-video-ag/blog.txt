@@ -1,0 +1,47 @@
+Title: Erster Platz für die Video-AG
+
+----
+
+Heading: 
+
+----
+
+Text: [{"content":{"text":"<p>\u00dcber zwei Jahre arbeitete die Video-AG an dem Film \u201eSicherheitsbelehrung\u201c. Im Januar konnte das Projekt endlich fertiggestellt werden und beim Wettbewerb \u201eFilmklappe Oldenburg\u201c eingereicht werden. Die Preisverleihung im M\u00e4rz musste wegen der Corona-Bedingungen leider ausfallen. Dennoch freuten wir uns sehr \u00fcber die Nachricht in der Kategorie \u201eErkl\u00e4rfilm\u201c den ersten Platz erreicht zu haben. Erst jetzt konnte die Preis\u00fcbergabe im famili\u00e4ren Rahmen stattfinden.<\/p>"},"id":"44ee5aef-4b82-4bce-a9c2-5d562092bc5b","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Film zeigt in zahlreichen Szenen, was beim Experimentieren in den naturwissenschaftlichen R\u00e4umen alles schief gehen kann. Es knallt, brennt und zischt und man muss so manchen Filmtod miterleben, weil wieder einmal die Sicherheitsregeln nicht eingehalten wurden. Neben dem schauspielerischen Talent \u00fcberzeugt der Film auch mit seinen zahlreichen Effekten, mit denen sicher gestellt wurde, dass unsere M\u00f6bel und NTW-R\u00e4ume am Ende doch unversehrt blieben. Fragt euren NTW-Lehrer nach dem Film, wenn er zu Schuljahresbeginn wieder mit seiner \u00f6den Sicherheitsrede anf\u00e4ngt, oder klickt hier:<br><a href=\"https:\/\/www.youtube.com\/watch?v=TL2Xm5Tgd78\" rel=\"noopener noreferrer nofollow\">https:\/\/www.youtube.com\/watch?v=TL2Xm5Tgd78<\/a><\/p>"},"id":"0f23de08-b0ff-4188-ade0-42337170c379","isHidden":false,"type":"text"},{"content":{"text":"<p>In der NWZ wurde \u00fcber die (entfallene) Preisverleihung berichtet:<br><a href=\"https:\/\/www.nwzonline.de\/oldenburg\/kultur\/oldenburg-wettbewerb-filmklappe-oldenburg-film-ab-fuer-junge-preistraeger_a_50,7,3463051373.html\" rel=\"noopener noreferrer nofollow\">https:\/\/www.nwzonline.de\/oldenburg\/kultur\/oldenburg-wettbewerb-filmklappe-oldenburg-film-ab-fuer-junge-preistraeger_a_50,7,3463051373.html<\/a><\/p>"},"id":"1ff80570-b334-4f04-83d0-4273ffb956ae","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- filmklappe.jpg
+
+----
+
+Date: 2020-07-17 09:40:00
+
+----
+
+Datumstartseite: 2020-10-31 09:00:00
+
+----
+
+Author: WEU
+
+----
+
+Tags: AGs
+
+----
+
+Downloads: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Immer-sichtbar: false
+
+----
+
+Featured: true

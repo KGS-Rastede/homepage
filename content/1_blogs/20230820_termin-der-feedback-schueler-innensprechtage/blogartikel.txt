@@ -1,0 +1,33 @@
+Title: Termin der Feedback-/ Schüler:innensprechtage 6-11
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Am 13. und 14.09.23 finden für die Jahrgänge 6-11 die Feedback-/ Schüler:innensprechtage statt. Diese Tage sind Studientage. Die Schüler:innen kommen nur für ihren individuellen Gesprächstermin in die Schule.<br>Die 5ten Klassen haben Projekte zum sozialen Lernen mit ihrem Klassenleitungsteam."},"id":"01d1238c-f172-416e-b83a-1c7629cc8b9c","isHidden":false,"type":"heading"}],"id":"704f4df6-43e9-4375-803b-0f37b172cdbc","width":"1/1"}],"id":"69a53b50-28b6-4332-a5d3-b9530c46aec7"}]
+
+----
+
+Date: 2023-08-20 17:00:00
+
+----
+
+Datumstartseite: 2023-09-15 17:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 71b2ISFG7njHqWgH

@@ -1,0 +1,71 @@
+title: Schulradeln-Seite
+
+options:
+  update:
+    *: false
+    Fachleiter: true
+    admin: true
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      heading:
+          type: text
+          label: Untertitel
+      pageSettings1:
+        label: Texteintrag
+        type: headline
+        numbered: false
+      text:
+        label: Text
+        type: blocks
+        fieldsets:
+              - heading
+              - text
+              - list
+              - image
+              - gallery
+              - video
+              - local-video
+              - code
+              - markdown
+              - audio
+              - horizontale-linie
+              - tabelle
+              - quote
+              - karousel
+              - accordion
+              - button
+  rechts:
+    width: 1/3
+    fields:
+      relatedtitel:
+        label: Überschrift für Unterseiten
+        type: text
+        help: Die Standard-Überschrift lautet "Weitere Informationen"
+      related:
+        label: Unterseiten
+        type: pages
+      pageSettings2:
+        label: Dateien
+        type: headline
+        numbered: false
+      downloadtitel:
+        label: Überschrift für Dateien
+        type: text
+        help: Die Standard_Überschrift lautet "Zugehörige Downloads"
+      downloads:
+        label: Verknüpfte Dateien
+        type: files
+        uploads: datei
+      pageSettings3:
+        label: Sidebar
+        type: headline
+        numbered: false
+      sidetitel:
+        label: Überschrift für Links
+        type: text
+        help: Die Standard_Überschrift lautet "Weitere Informationen"
+        placeholder: Ähnliche Themen
+      sidebar: fields/seitenleiste

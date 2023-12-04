@@ -1,0 +1,29 @@
+Title: Weihnachtsgruß
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Liebe Sch\u00fclerinnen und Sch\u00fcler,<\/p><p>liebe Eltern,<\/p><p>wir w\u00fcnschen allen ein frohes Weihnachtsfest und einen guten Rutsch in das neue Jahr. Bleibt alle gesund und kommt erholt am Montag, den 10.01.2022 wie gewohnt zur\u00fcck.<\/p>"},"id":"a4b23374-277c-4fc8-9904-d966b34913fb","isHidden":false,"type":"text"}],"id":"c3058487-f0fb-42be-ab41-341c183352d7","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["todd-trapani-hlhpawdfgtk-unsplash_2.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"1\/1","crop":"true"},"id":"6da934cc-949d-4b4d-813b-e1688e5cf0a1","isHidden":false,"type":"image"}],"id":"832d2822-fd72-497c-952b-b5db47bfe9d4","width":"1\/2"}],"id":"2ce9f388-b1cd-4f22-a624-36a0658155c7"}]
+
+----
+
+Date: 2021-12-29 00:00:00
+
+----
+
+Datumstartseite: 2022-01-10 00:00:00
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Topartikel, Weihnachten
+
+----
+
+Downloads: 
+
+----
+
+Uuid: malX13UBICU66HG3

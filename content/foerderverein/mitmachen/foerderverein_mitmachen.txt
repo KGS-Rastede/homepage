@@ -1,0 +1,13 @@
+Title: Förderverein: Mitmachen
+
+----
+
+Heading: 
+
+----
+
+Inhalt: [{"content":{"text":"<p>Mit nur 1,50\u20ac pro Monat k\u00f6nnen Sie dabei sein. Treten Sie jetzt ein!<\/p>"},"id":"7d2607cc-dea6-46fa-be22-3a22491d90e5","isHidden":false,"type":"text"},{"content":{"text":"<p>Und so geht's:<\/p>"},"id":"10e208b4-04ab-4c91-8063-d3c0718a30e0","isHidden":false,"type":"text"},{"content":{"text":"<ol><li><p>Einfach die untenstehenden Felder ausf\u00fcllen.<\/p><\/li><li><p>Anschlie\u00dfend die Beitrittserkl\u00e4rung ausdrucken.<\/p><\/li><li><p>Danach brauchen Sie diese nur noch zu unterschreiben und an folgende Adresse zu versenden:<\/p><\/li><\/ol>"},"id":"d6fbfdc3-a797-45c9-bc74-9fe63b539e3f","isHidden":false,"type":"list"},{"content":{"text":"<p>F\u00f6rderverein der KGS Rastede e.V.<br>Wilhelmstr. 5<br>26180 Rastede<\/p>"},"id":"f4b52dd1-df71-49ac-b7f9-e08a098a9f53","isHidden":false,"type":"text"},{"content":{"text":"<p>Ihre Daten werden selbstverst\u00e4ndlich nicht im Internet gespeichert!<\/p>"},"id":"d8dda04b-9676-468d-bcf2-dd7f8f55d869","isHidden":false,"type":"text"}]
+
+----
+
+Sidetoggle: true

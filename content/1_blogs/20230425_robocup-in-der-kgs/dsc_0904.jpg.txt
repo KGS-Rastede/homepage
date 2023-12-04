@@ -1,0 +1,5 @@
+Uuid: HxNaft8DDGYYAQEY
+
+----
+
+Template: blocks/image

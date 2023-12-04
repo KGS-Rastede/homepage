@@ -1,0 +1,5 @@
+Uuid: rKulsORSAmxznQQ0
+
+----
+
+Template: blocks/image

@@ -1,0 +1,20 @@
+title: Hintergrundbild
+
+accept:
+    mime: image/*
+    maxheight: 1400
+    orientation: landscape
+
+fields:
+  alt:
+    label: Kurzbeschreibung
+    type: text
+    width: 1/2
+    required: true
+  fotograf:
+    label: Fotograf des Fotos
+    type: text
+    width: 1/2
+  caption:
+    label: Beschreibung
+    type: textarea

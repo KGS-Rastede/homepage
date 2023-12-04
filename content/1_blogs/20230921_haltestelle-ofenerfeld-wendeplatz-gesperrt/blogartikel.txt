@@ -1,0 +1,33 @@
+Title: Haltestelle „Ofenerfeld, Wendeplatz“ gesperrt
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Ab dem 26.09. bis ca. 10.11. wird die Haltestelle „Ofenerfeld, Wendeplatz“ durch die<a href=\"https://www.wiefelstede.de/\" target=\"_blank\" rel=\"noreferrer\"> Gemeinde Wiefelstede</a> ausgebaut und dabei stark verbessert. </p><p>Während der Bauphase können die Busse des Stadtverkehrs (VWG) sowie die Linie 333 und 336 die Haltestelle nicht anfahren. Für Schülerinnen und Schüler, die die Linie <strong>333</strong> oder <strong>336</strong> nutzen,  steht die Haltestelle „Metjendorf, Schule“ als Ersatz zur Verfügung.</p>"},"id":"f74655ee-5d43-4c7d-880e-328ca7c007c2","isHidden":false,"type":"text"}],"id":"80b020f1-f75a-4206-ac1f-58f01d3ac34a","width":"1/1"}],"id":"05708f13-d3cc-41e8-b77c-0a79a416fc21"}]
+
+----
+
+Date: 2023-09-21 11:30:00
+
+----
+
+Datumstartseite: 2023-11-11 11:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Gemeinde Wiefelstede
+
+----
+
+Tags: Bus
+
+----
+
+Downloads: 
+
+----
+
+Uuid: LzM5miD8TXkF4SSk
