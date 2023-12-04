@@ -47,4 +47,4 @@
 <!-- END Page Container -->
 <!-- END Pages: Errors: 404 -->
 
-<?php snippet('footer') ?>
+<?php snippet('footertw') ?>
