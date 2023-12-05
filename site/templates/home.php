@@ -3,27 +3,23 @@
 
 <?php snippet('box-notfall') ?>
 
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-xl-8">
-      <?php
-      // auskommentieren, um Farben und Schriften auf die Schnelle zu testen
-      // snippet('designdemo') 
-      ?>
-      <?php snippet('box-fokus') ?>
-      <?php snippet('box-blogs') ?>
-    </div>
-
-    <div class="col-xl-4">
-      <?php snippet('box-kalender') ?>
-      <?php snippet('box-presse') ?>
-    </div>
-
+<div class="container mx-auto p-8 flex flex-wrap">
+  <!-- Major Column (2/3 width) -->
+  <div class="lg:w-2/3 mb-8 lg:mb-0 pr-4"> <!-- Added pr-4 for right margin -->
+    <?php snippet('box-fokus') ?>
+    <?php snippet('box-blogs') ?>
   </div>
 
-  <?php snippet('box-links') ?>
-
+  <!-- Sidebar Column (1/3 width) -->
+  <div class="lg:w-1/3">
+    <?php snippet('box-kalender') ?>
+    <?php snippet('box-presse') ?>
+  </div>
 </div>
+
+<?php snippet('box-links') ?>
+
+
 
 
 <?php snippet('footertw') ?>
