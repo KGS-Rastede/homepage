@@ -26,4 +26,4 @@ switch ($block->level()) {
 }
 ?>
 
-<<?= $block->level() ?> class="<?= $class ?>"><?= $headingText ?></<?= $block->level() ?>>
+<<?= $block->level() ?> class="<?= $class ?> mt-4 mb-4"><?= $headingText ?></<?= $block->level() ?>>
