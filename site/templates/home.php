@@ -3,7 +3,7 @@
 
 <?php snippet('box-notfall') ?>
 
-<div class="container mx-auto p-8 flex flex-wrap">
+<div class="mx-4 flex flex-wrap">
   <!-- Major Column (2/3 width) -->
   <div class="lg:w-2/3 mb-8 lg:mb-0 pr-4"> <!-- Added pr-4 for right margin -->
     <?php snippet('box-fokus') ?>
