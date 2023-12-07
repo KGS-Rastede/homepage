@@ -9,35 +9,34 @@ $ratio   = $block->ratio()->or('auto');
 $src     = null;
 
 if ($block->location() == 'web') {
-    $src = $block->src()->esc();
+  $src = $block->src()->esc();
 } elseif ($image = $block->image()->toFile()) {
-    $alt = $alt ?? $image->alt();
-    $src = $image->url();
+  $alt = $alt ?? $image->alt();
+  $src = $image->url();
 }
 
 /**
  * Erweiterung, um Bilder links/rechts/mittig darzustellen
  * https://getbootstrap.com/docs/5.3/content/images/#responsive-images
  */
-$orientation = $block->orientation() == 'links' ? 'float-start' :
-       ($block->orientation() == 'rechts' ? 'float-end' :
-       ($block->orientation() == 'mitte' ? 'mx-auto d-block' : ''));
+$orientation = $block->orientation() == 'links' ? 'float-start' : ($block->orientation() == 'rechts' ? 'float-end' : ($block->orientation() == 'mitte' ? 'mx-auto d-block' : ''));
 ?>
 
-<?php if ($src): ?>
-<figure<?= Html::attr(['data-ratio' => $ratio, 'data-crop' => $crop], null, ' ') ?>>
-  <?php if ($link->isNotEmpty()): ?>
-  <a href="<?= Str::esc($link->toUrl()) ?>">
-    <img src="<?= $src ?>" class="<?= $orientation ?>" alt="<?= $alt->esc() ?>">
-  </a>
-  <?php else: ?>
-  <img src="<?= $src ?>" class="<?= $orientation ?>" alt="<?= $alt->esc() ?>">
-  <?php endif ?>
 
-  <?php if ($caption->isNotEmpty()): ?>
-  <figcaption>
-    <?= $caption ?>
-  </figcaption>
-  <?php endif ?>
-</figure>
+<?php if ($src) : ?>
+  <figure <?= Html::attr(['data-ratio' => $ratio, 'data-crop' => $crop], null, ' ') ?>>
+    <?php if ($link->isNotEmpty()) : ?>
+      <a href="<?= Str::esc($link->toUrl()) ?>">
+        <img src="<?= $src ?>" class="h-auto my-3 max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 <?= $orientation ?>" alt="<?= $alt->esc() ?>">
+      </a>
+    <?php else : ?>
+      <img src="<?= $src ?>" class="h-auto my-3 max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 <?= $orientation ?>" alt="<?= $alt->esc() ?>">
+    <?php endif ?>
+
+    <?php if ($caption->isNotEmpty()) : ?>
+      <figcaption>
+        <?= $caption ?>
+      </figcaption>
+    <?php endif ?>
+  </figure>
 <?php endif ?>
