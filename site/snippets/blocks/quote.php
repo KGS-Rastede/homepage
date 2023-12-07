@@ -1,10 +1,16 @@
-<figure class="text-center">
-    <div class="kgs-transitions zoom">
-        <p class="font-monospace lh-lg">&bdquo;<?= $block->text() ?>&ldquo;</p>
+<div class="w-full mx-auto rounded-lg bg-white shadow-lg px-5 pt-5 pb-10 text-gray-800" style="max-width: 500px">
+
+    <div class="w-full mb-10">
+        <div class="text-2xl text-indigo-500 text-left leading-tight h-3">“</div>
+        <p class="text-lg text-gray-600 text-center px-5">
+            <?= $block->text() ?>
+        </p>
+        <div class="text-2xl text-indigo-500 text-right leading-tight h-3 -mt-3">”</div>
     </div>
-    <?php if ($block->citation()->isNotEmpty()) : ?>
-        <figcaption class="blockquote-footer">
+    <div class="w-full">
+        <p class="text-xl text-indigo-500 font-bold text-center">
             <?= $block->citation() ?>
-        </figcaption>
-    <?php endif ?>
-</figure>
+        </p>
+
+    </div>
+</div>
