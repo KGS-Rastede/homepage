@@ -43,16 +43,16 @@
     <?php
     function validate($data)
     {
-        // if kassenzeichen does not start with KF- throw error
-        if (!preg_match("/^KF-/", $data["kassenzeichen"])) {
-            throw new Exception("Kassenzeichen muss mit 'KF-' beginnen.");
-        }
+      // if kassenzeichen does not start with KF- throw error
+      if (!preg_match("/^KF-/", $data["kassenzeichen"])) {
+        throw new Exception("Kassenzeichen muss mit 'KF-' beginnen.");
+      }
     }
 
     function generateQRCode($data)
-{
-    $parentPage = page("kassenzeichen");
-    if ($parentPage) {
+    {
+      $parentPage = page("kassenzeichen");
+      if ($parentPage) {
         $beguenstigter = $parentPage->beguenstigter()->toText();
         $iban = $parentPage->iban()->toText();
         $verwendungszweck = $parentPage->verwendungszweck()->toText();
@@ -60,7 +60,7 @@
         $betrag = $data["betrag"];
 
         $values = array(
-            "BCD" . "\r\n" .
+          "BCD" . "\r\n" .
             "002" . "\r\n" .
             "2" . "\r\n" .
             "SCT" . "\r\n" .
@@ -72,28 +72,28 @@
             $kassenzeichen . "\r\n" .
             $kassenzeichen . ' ' . $verwendungszweck . "\r\n" .
             "Hint",
-            "QRCode",
+          "QRCode",
         );
 
         $qr = new Kirby\Image\QrCode(implode("\r\n", $values));
         $qr->toImage();
-    } else {
+      } else {
         throw new Exception("Parent page not found.");
+      }
+      return $qr;
     }
-    return $qr;
-}
 
-$error = '';
+    $error = '';
 
-if (kirby()->request()->is("POST") && get("submit")) {
-    try {
+    if (kirby()->request()->is("POST") && get("submit")) {
+      try {
         $kassenzeichen = get("kassenzeichen");
         $betrag = get("betrag");
 
         // Check if values are not null before using esc()
         $data = [
-            "kassenzeichen" => is_string($kassenzeichen) ? esc($kassenzeichen) : '',
-            "betrag" => is_string($betrag) ? esc($betrag) : ''
+          "kassenzeichen" => is_string($kassenzeichen) ? esc($kassenzeichen) : '',
+          "betrag" => is_string($betrag) ? esc($betrag) : ''
         ];
 
         // Validate input
@@ -108,32 +108,32 @@ if (kirby()->request()->is("POST") && get("submit")) {
         echo $qrCodeImageTag;
         echo "<br><br>";
         echo "<a href='" . $qrCodeDataUri . "' download='$filename'>QR-Code herunterladen</a>";
-    } catch (Exception $e) {
+      } catch (Exception $e) {
         $error = $e->getMessage();
+      }
     }
-}
-?>
+    ?>
 
-<div class="error-container">
-  <?php if (!empty($error)): ?>
-    <p class="error-message"><?php echo $error; ?></p>
-  <?php endif; ?>
-</div>
+    <div class="error-container">
+      <?php if (!empty($error)) : ?>
+        <p class="error-message"><?php echo $error; ?></p>
+      <?php endif; ?>
+    </div>
 
-<form method="post">
-  <div>
-    <label for="kassenzeichen">Kassenzeichen:</label>
-    <input type="text" id="kassenzeichen" name="kassenzeichen" value="<?php echo isset($data["kassenzeichen"]) ? $data["kassenzeichen"] : ''; ?>" required>
+    <form method="post">
+      <div>
+        <label for="kassenzeichen">Kassenzeichen:</label>
+        <input type="text" id="kassenzeichen" name="kassenzeichen" value="<?php echo isset($data["kassenzeichen"]) ? $data["kassenzeichen"] : ''; ?>" required>
+      </div>
+      <div>
+        <label for="betrag">Betrag:</label>
+        <input type="text" id="betrag" name="betrag" value="<?php echo isset($data["betrag"]) ? $data["betrag"] : ''; ?>" required pattern="[0-9]+([,\.][0-9]+)?" title="Bitte gebe einen richtigen Betrag an">
+      </div>
+      <div>
+        <input type="submit" name="submit" value="QR-Code generieren">
+      </div>
+    </form>
   </div>
-  <div>
-    <label for="betrag">Betrag:</label>
-    <input type="text" id="betrag" name="betrag" value="<?php echo isset($data["betrag"]) ? $data["betrag"] : ''; ?>" required pattern="[0-9]+([,\.][0-9]+)?" title="Bitte gebe einen richtigen Betrag an">
-  </div>
-  <div>
-    <input type="submit" name="submit" value="QR-Code generieren">
-  </div>
-</form>
-</div>
 </section>
 
-<?php snippet("footer"); ?>
+<?php snippet("footertw"); ?>
