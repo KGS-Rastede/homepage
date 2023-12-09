@@ -3,42 +3,6 @@
 
 <section class="content">
   <div class="container">
-    <style>
-      form {
-        max-width: 400px;
-        margin: 0 auto;
-      }
-
-      label {
-        display: block;
-        margin-bottom: 5px;
-      }
-
-      input {
-        width: 100%;
-        padding: 8px;
-        margin-bottom: 10px;
-        box-sizing: border-box;
-      }
-
-      input[type="submit"] {
-        background-color: #333;
-        color: #fff;
-        cursor: pointer;
-      }
-
-      .error-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin-bottom: 20px;
-      }
-
-      .error-message {
-        color: red;
-        margin-bottom: 10px;
-      }
-    </style>
 
     <?php
     function validate($data)
@@ -145,7 +109,7 @@
           <input type="text" id="betrag" name="betrag" value="<?php echo isset($data["betrag"]) ? $data["betrag"] : ''; ?>" required pattern="[0-9]+([,\.][0-9]+)?" title="Bitte gebe einen richtigen Betrag an" placeholder="333" class="block w-full rounded-lg border border-gray-200 py-3 pl-20 pr-5 leading-6 placeholder-gray-500 focus:border-indigo-500 focus:ring focus:ring-indigo-500 focus:ring-opacity-50 dark:border-gray-600 dark:bg-gray-800 dark:placeholder-gray-400 dark:focus:border-indigo-500" />
         </div>
         <div>
-          <input type="submit" name="submit" value="QR-Code generieren">
+          <input type="submit" name="submit" class="inline-flex items-center justify-center space-x-2 rounded-lg border border-indigo-200 bg-indigo-100 px-4 py-2 font-semibold leading-6 text-indigo-800 hover:border-indigo-300 hover:text-indigo-900 hover:shadow-sm focus:ring focus:ring-indigo-300 focus:ring-opacity-25 active:border-indigo-200 active:shadow-none dark:border-indigo-200 dark:bg-indigo-200 dark:hover:border-indigo-300 dark:hover:bg-indigo-300 dark:focus:ring-indigo-500 dark:focus:ring-opacity-50 dark:active:border-indigo-200 dark:active:bg-indigo-200" value="QR-Code generieren">
         </div>
         <!-- END Input with Text prepend alt (large) -->
     </form>
