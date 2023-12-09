@@ -121,17 +121,33 @@
     </div>
 
     <form method="post">
-      <div>
-        <label for="kassenzeichen">Kassenzeichen:</label>
-        <input type="text" id="kassenzeichen" name="kassenzeichen" value="<?php echo isset($data["kassenzeichen"]) ? $data["kassenzeichen"] : ''; ?>" required>
+
+
+      <!-- Input with Text prepend alt (normal) -->
+      <div class="space-y-1">
+        <label for="prepend_alt_normal" class="font-medium">Kassenzeichen</label>
+        <div class="relative">
+          <div class="pointer-events-none absolute inset-y-0 left-0 my-px ml-px flex w-20 items-center rounded-l-lg border-r border-gray-200 bg-gray-100 pl-3 text-gray-700 dark:border-gray-600 dark:bg-gray-900/50 dark:text-gray-300">
+            KF-
+          </div>
+          <input type="text" id="kassenzeichen" name="kassenzeichen" placeholder="2023-2024-Paris" class="block w-full rounded-lg border border-gray-200 py-2 pl-24 pr-3 leading-6 placeholder-gray-500 focus:border-indigo-500 focus:ring focus:ring-indigo-500 focus:ring-opacity-50 dark:border-gray-600 dark:bg-gray-800 dark:placeholder-gray-400 dark:focus:border-indigo-500" value="<?php echo isset($data["kassenzeichen"]) ? $data["kassenzeichen"] : ''; ?>" required>
+        </div>
       </div>
-      <div>
-        <label for="betrag">Betrag:</label>
-        <input type="text" id="betrag" name="betrag" value="<?php echo isset($data["betrag"]) ? $data["betrag"] : ''; ?>" required pattern="[0-9]+([,\.][0-9]+)?" title="Bitte gebe einen richtigen Betrag an">
-      </div>
-      <div>
-        <input type="submit" name="submit" value="QR-Code generieren">
-      </div>
+      <!-- END Input with Text prepend alt (normal) -->
+
+      <!-- Input with Text prepend alt (large) -->
+      <div class="space-y-1">
+        <label for="prepend_alt_large" class="font-medium">Betrag</label>
+        <div class="relative">
+          <div class="pointer-events-none absolute inset-y-0 left-0 my-px ml-px flex w-16 items-center rounded-l-lg border-r border-gray-200 bg-gray-100 pl-3 text-gray-700 dark:border-gray-600 dark:bg-gray-900/50 dark:text-gray-300">
+            €
+          </div>
+          <input type="text" id="betrag" name="betrag" value="<?php echo isset($data["betrag"]) ? $data["betrag"] : ''; ?>" required pattern="[0-9]+([,\.][0-9]+)?" title="Bitte gebe einen richtigen Betrag an" placeholder="333" class="block w-full rounded-lg border border-gray-200 py-3 pl-20 pr-5 leading-6 placeholder-gray-500 focus:border-indigo-500 focus:ring focus:ring-indigo-500 focus:ring-opacity-50 dark:border-gray-600 dark:bg-gray-800 dark:placeholder-gray-400 dark:focus:border-indigo-500" />
+        </div>
+        <div>
+          <input type="submit" name="submit" value="QR-Code generieren">
+        </div>
+        <!-- END Input with Text prepend alt (large) -->
     </form>
   </div>
 </section>
