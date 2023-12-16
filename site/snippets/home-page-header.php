@@ -1,74 +1,91 @@
 <main role="main">
 
-  <!-- The CSS grid that makes up the entirety of the hero image/banner image area -->
-  <section class="top-banner-section">
-    <!-- The CSS grid area that displays the image (layer 1) -->
+  <!-- The CSS grid area that displays the image (layer 1) -->
 
-    <?php
-    // Code nach https://www.php.net/manual/en/function.date-sun-info.php
+  <?php
+  // Code nach https://www.php.net/manual/en/function.date-sun-info.php
 
-    // Die Bilder sind in /content/design/ gespeichert
-    $page = page("design");
+  // Die Bilder sind in /content/design/ gespeichert
+  $page = page("design");
 
-    // Dieser Pfad speichert die URL des Hintergrundbildes
-    $bannerpfad = $page->bildregen()->toFile()->url();
+  // Dieser Pfad speichert die URL des Hintergrundbildes
+  $bannerpfad = $page->bildregen()->toFile()->url();
 
 
-    // Setze die Zeitzone auf Berlin
-    date_default_timezone_set('Europe/Berlin');
+  // Setze die Zeitzone auf Berlin
+  date_default_timezone_set('Europe/Berlin');
 
-    // Setze deine Breiten- und Längengrade hier
-    $lat = 53.25; // Rastede
-    $long = 8.215;
+  // Setze deine Breiten- und Längengrade hier
+  $lat = 53.25; // Rastede
+  $long = 8.215;
 
-    // Hole die Sonneninformationen für heute
-    $sun_info = date_sun_info(time(), $lat, $long);
-    
-    // Hole die aktuelle Zeit als Timestamp
-    $now = time();
-    
-    // Bestimme das Bild basierend auf der Zeit
-    if ($now >= $sun_info['sunrise'] && $now < $sun_info['transit']) {
-      // Von Sonnenaufgang bis Zenit
-      $bannerpfad = $page->bildmorgens()->toFile()->url();
-    } elseif ($now >= $sun_info['transit'] && $now < $sun_info['sunset']) {
-      // Von Zenit bis Sonnenuntergang
-      $bannerpfad = $page->bildtag()->toFile()->url();
-    } else {
-      // Von Sonnenuntergang bis Sonnenaufgang des Folgetages
-      $bannerpfad = $page->bildnacht()->toFile()->url();
-    }
-    
-    ?>
+  // Hole die Sonneninformationen für heute
+  $sun_info = date_sun_info(time(), $lat, $long);
 
-    <div class="banner-image-div">
-      <img class="banner-image" src="<?= $bannerpfad ?>" alt="Banner Image" />
+  // Hole die aktuelle Zeit als Timestamp
+  $now = time();
+
+  // Bestimme das Bild basierend auf der Zeit
+  if ($now >= $sun_info['sunrise'] && $now < $sun_info['transit']) {
+    // Von Sonnenaufgang bis Zenit
+    $bannerpfad = $page->bildmorgens()->toFile()->url();
+  } elseif ($now >= $sun_info['transit'] && $now < $sun_info['sunset']) {
+    // Von Zenit bis Sonnenuntergang
+    $bannerpfad = $page->bildtag()->toFile()->url();
+  } else {
+    // Von Sonnenuntergang bis Sonnenaufgang des Folgetages
+    $bannerpfad = $page->bildnacht()->toFile()->url();
+  }
+
+  ?>
+
+  <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
+    <img src="<?= $bannerpfad ?>" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center">
+    <div class="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl">
+      <div class="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
     </div>
-    <!-- The CSS grid area that displays the semi-transparent gradient overlay (layer 2) -->
-    <div class="banner-overlay-div"></div>
-    <!-- The CSS grid area that displays the content (layer 3) -->
-    <div class="banner-text-div">
-      <span class="banner-text">
-        <p class="banner-body-text">Herzlich willkommen an der</p>
-        <p class="banner-h1-text">Kooperativen Gesamtschule Rastede</p>
-        <div class="d-flex d-sm-block">
-        <p class="banner-btn me-3">
-          <a class="banner-btn-item" href="<?= page('allgemeines/kalender')->url() ?>">Termine
-            <i class="bi bi-arrow-right-circle"></i>
-          </a>
-        </p>
-        <p class="banner-btn">
-          <a class="banner-btn-item" href="<?= page('blogs')->url() ?>">Aktuelles
-            <i class="bi bi-arrow-right-circle"></i>
-          </a>
-        </p>
-        </div>
-      </span>
+    <div class="absolute -top-52 left-1/2 -z-10 -translate-x-1/2 transform-gpu blur-3xl sm:top-[-28rem] sm:ml-16 sm:translate-x-0 sm:transform-gpu">
+      <div class="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
     </div>
-  </section>
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:mx-0">
+        <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">Herzlich willkommen</h2>
+        <p class="mt-6 text-2xl leading-8 text-gray-300">an der Kooperativen Gesamtschule Rastede</p>
+      </div>
 
-  <?php if (!page('wichtige_informationen/')->toggle()->bool() === true) : 
+      <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-6 sm:mt-20 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-8">
+        <a href="<?= page('blogs')->url() ?>">
+          <div class="flex gap-x-4 rounded-xl bg-white/10 p-6 ring-1 ring-inset ring-white/10">
+            <svg class="h-7 w-5 flex-none text-indigo-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M2 3.5A1.5 1.5 0 013.5 2h1.148a1.5 1.5 0 011.465 1.175l.716 3.223a1.5 1.5 0 01-1.052 1.767l-.933.267c-.41.117-.643.555-.48.95a11.542 11.542 0 006.254 6.254c.395.163.833-.07.95-.48l.267-.933a1.5 1.5 0 011.767-1.052l3.223.716A1.5 1.5 0 0118 15.352V16.5a1.5 1.5 0 01-1.5 1.5H15c-1.149 0-2.263-.15-3.326-.43A13.022 13.022 0 012.43 8.326 13.019 13.019 0 012 5V3.5z" clip-rule="evenodd" />
+            </svg>
+            <div class="text-lg leading-7">
+              <h3 class="font-semibold text-white">Aktuelles</h3>
+              <p class="mt-2 text-gray-300">Neues aus der Schule</p>
+            </div>
+          </div>
+        </a>
+        <a href="<?= page('allgemeines/kalender')->url() ?>">
+          <div class="flex gap-x-4 rounded-xl bg-white/10 p-6 ring-1 ring-inset ring-white/10">
+            <svg class="h-7 w-5 flex-none text-indigo-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M7.171 4.146l1.947 2.466a3.514 3.514 0 011.764 0l1.947-2.466a6.52 6.52 0 00-5.658 0zm8.683 3.025l-2.466 1.947c.15.578.15 1.186 0 1.764l2.466 1.947a6.52 6.52 0 000-5.658zm-3.025 8.683l-1.947-2.466c-.578.15-1.186.15-1.764 0l-1.947 2.466a6.52 6.52 0 005.658 0zM4.146 12.83l2.466-1.947a3.514 3.514 0 010-1.764L4.146 7.171a6.52 6.52 0 000 5.658zM5.63 3.297a8.01 8.01 0 018.738 0 8.031 8.031 0 012.334 2.334 8.01 8.01 0 010 8.738 8.033 8.033 0 01-2.334 2.334 8.01 8.01 0 01-8.738 0 8.032 8.032 0 01-2.334-2.334 8.01 8.01 0 010-8.738A8.03 8.03 0 015.63 3.297zm5.198 4.882a2.008 2.008 0 00-2.243.407 1.994 1.994 0 00-.407 2.243 1.993 1.993 0 00.992.992 2.008 2.008 0 002.243-.407c.176-.175.31-.374.407-.585a2.008 2.008 0 00-.407-2.243 1.993 1.993 0 00-.585-.407z" clip-rule="evenodd" />
+            </svg>
+            <div class="text-lg leading-7">
+              <h3 class="font-semibold text-white">Termine</h3>
+              <p class="mt-2 text-gray-300">Die Termine der kommenden Wochen</p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
 
-    //Ein blauer Balken wird gezeigt wenn es keine Banner gibt. Siehe snippets/box-notfall.php ?>
+
+
+
+  <?php if (!page('wichtige_informationen/')->toggle()->bool() === true) :
+
+    //Ein blauer Balken wird gezeigt wenn es keine Banner gibt. Siehe snippets/box-notfall.php 
+  ?>
     <div class="p-4 mb-0 bg-light text-primary"></div>
   <?php endif ?>
