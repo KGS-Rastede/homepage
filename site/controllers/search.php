@@ -1,6 +1,6 @@
 <?php
 
-// Anleitung dazu hier: 
+// Anleitung dazu hier:
 // https://getkirby.com/docs/cookbook/content/search
 
 return function ($site) {
@@ -12,7 +12,6 @@ return function ($site) {
     "schulleitung",
     "Faecher",
     "allgemeines",
-    "foerderverein",
     "schule",
     "ser",
     "sv",
