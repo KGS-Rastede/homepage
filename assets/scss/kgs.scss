@@ -678,6 +678,9 @@ $primary-color-hover: scale-color($primary, $lightness: 32%);
     }
 }
 
+.accordion-item .show {
+    visibility: visible !important;
+}
 
 /* -------end customization-------- */
 
