@@ -5,7 +5,7 @@ $links_bilder =
         'https://thalia.webuntis.com/WebUntis/?school=kgs-rastede' => 'webuntis.png',
         'https://www.schuelerzeitung.kgs-rastede.de/' => 'irregulaer.png',
         'https://kgs-rastede.eu' => 'IServ_Logo.svg',
-        'foerderverein' => 'foerderverein.png',
+        'https://foerderverein.kgsraste.de/' => 'foerderverein.png',
         'https://kgs-rastede.l-e-o.eu' => 'mensa.png',
     );
 $alt =

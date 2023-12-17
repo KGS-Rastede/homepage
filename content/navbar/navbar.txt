@@ -88,12 +88,11 @@ Navbar:
       externallink: https://www.ser-kgs.de/
       trennstrich: 'false'
       icon: people-fill
-    -
-      isexternal: 'false'
-      linktitle: Förderverein
-      pagelink:
-        - foerderverein
-      externallink: ""
+    - 
+      isexternal: 'true'
+      linktitle: Förderverein ⬈
+      pagelink: [ ]
+      externallink: https://foerderverein.kgsraste.de/
       trennstrich: 'false'
       icon: tags-fill
 -
