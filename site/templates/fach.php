@@ -4,7 +4,7 @@
 <?php snippet('sidebar') ?>
 
 <div class="container">
-  <?php if ($page->lehrplaene()->isNotEmpty()) : ?>
+  <?php if ($page->lehrplaene()->isNotEmpty()): ?>
 
     <h2>Lehrpläne</h2>
 
@@ -22,7 +22,7 @@
             </thead>
             <tbody>
 
-              <?php foreach ($page->lehrplaene()->toFiles() as $lehrplan) : ?>
+              <?php foreach ($page->lehrplaene()->toFiles() as $lehrplan): ?>
                 <tr>
                   <td>
                     <a href="<?= $lehrplan->url() ?>" class="text-decoration-none">
@@ -42,34 +42,21 @@
   <?php endif ?>
 
 
-  <?php if (collection('blogs-haupttag')->isNotEmpty()) : ?>
+  <?php if (collection('blogs-haupttag')->isNotEmpty()): ?>
 
     <h2 class="mt-2 text-2xl">Aktuelles aus dem Fach</h2>
 
     <?php
-    foreach (collection('blogs-haupttag')
-      ->flip() as $subpage) :
+    foreach (collection('blogs-haupttag')->flip() as $subpage):
 
       snippet('blogkarte', ['subpage' => $subpage]);
-    ?>
+      ?>
 
     <?php endforeach ?>
 
   <?php endif ?>
 
 
-
-  <?php if ($page->hasImages()) : ?>
-
-    <?php if ($page->fotoansicht() == 'carousel') : ?>
-      <?php snippet('carousel') ?>
-    <?php elseif ($page->fotoansicht() == 'gallery') : ?>
-      <?php snippet('gallery') ?>
-    <?php else : ?>
-      <!-- Bilder werden vom Autor manuel gesetzt -->
-    <?php endif ?>
-
-  <?php endif ?>
 </div>
 
 <?php snippet('footertw') ?>
