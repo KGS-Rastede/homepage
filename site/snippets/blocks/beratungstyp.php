@@ -1,19 +1,32 @@
-<div class="card mb-3">
-  <div class="card-body">
-    <img src="<?= $block->bild()->toFile()->url() ?>" class="card-img" alt="Fremdsprachen">
+<div class="bg-white shadow-md rounded-md mb-3">
+  <div class="p-4">
+    <img src="<?= $block->bild()->toFile()->url() ?>">
 
-    <h3 class="card-category card-title mb-3 text-warning"><?= $block->name() ?></h3>
-    <h4 class="card-title"><?= $block->kurzbeschreibung() ?></h4>
+    <h3 class="text-warning text-lg font-bold mb-3">
+      <?= $block->name() ?>
+    </h3>
+    <h4 class="text-base mb-3">
+      <?= $block->kurzbeschreibung() ?>
+    </h4>
 
-    <div class="list-group">
+    <div class="group relative">
 
       <?php
-      $relatedPages =  $block->unterseite()->toPages();
+      $relatedPages = $block->unterseite()->toPages();
 
-      foreach ($relatedPages as $relatedPage) : ?>
-        <a href="<?= $relatedPage->url() ?>" class="list-group-item list-group-item-light list-group-item-action">
-          <i class="bi bi-<?= $block->icon() ?>"></i> <?= $relatedPage->title() ?>
-        </a>
+      foreach ($relatedPages as $relatedPage): ?>
+        <dl class="space-y-6 border-t border-slate-100 pt-6 shadow-sm hover:bg-slate-200 text-gray-500  bg-slate-50">
+
+          <a href="<?= $relatedPage->url() ?>">
+            <button type="button" class="ml-5 p-1.5 text-black ">
+
+              <?= $relatedPage->title() ?>
+
+              <i class="bi bi-<?= $block->icon() ?>"></i>
+
+            </button>
+          </a>
+        </dl>
       <?php endforeach ?>
 
     </div>
