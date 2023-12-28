@@ -6,7 +6,9 @@
     <source src="<?= $block->soundfile()->toFile() ?>" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
-  <div class="blockquote-footer p-3 ">
-     <?= $block->name() ?>
-  </div>
+  <blockquote class="border-l-4 border-gray-300 pl-4 py-2">
+    <footer class="text-sm text-gray-500">
+      <?= $block->name() ?>
+    </footer>
+  </blockquote>
 </div>
