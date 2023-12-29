@@ -1,20 +1,25 @@
-<!-- 
-Es folgen einige CSS-Klassen um sicherzustellen, dass diese nicht aus dem CSS gepurged werden
-bs-callout-primary bs-callout-secondary bs-callout-info bs-callout-warning bs-callout-danger bs-callout-light bs-callout-dark
--->
+<?php if ($block->lesensieauch()->isNotEmpty()): ?>
+  <div class="flex flex-col overflow-hidden rounded-lg bg-white shadow-sm my-4 dark:bg-gray-800 dark:text-gray-100">
+    <div
+      class="w-full grow space-y-4 border-l-8 border-red-500 p-5 sm:flex sm:items-center sm:justify-between sm:space-x-2 sm:space-y-0">
 
+      <div class="flex">
+        <div class="ml-3">
+          <p class="text-xl">
+            <?= $block->lesensieauchtitel()->or("Lesen Sie auch...") ?>
+          </p>
 
+          <?php $linkziele = $block->lesensieauch()->toPages();
+          foreach ($linkziele as $linkziel): ?>
+            <p class="mt-2">
+              <a href="<?= $linkziel->url() ?>" class="text-2xl underline hover:text-yellow-600">
+                <?= $linkziel->title() ?>
+              </a>
+            </p>
+          <?php endforeach ?>
 
-<?php if ($block->lesensieauch()->isNotEmpty()) : ?>
-  <div class="bs-callout bs-callout-<?= $block->farbe() ?> bg-white">
-    <h4>
-      <?= $block->lesensieauchtitel()->or("Lesen Sie auch...") ?>
-    </h4>
-    <?php $linkziele =  $block->lesensieauch()->toPages();
-    foreach ($linkziele as $linkziel) : ?>
-      <li class="list-group-item list-group-item-action">
-        <a href="<?= $linkziel->url() ?>" class="text-decoration-none"><?= $linkziel->title() ?></a>
-      </li>
-    <?php endforeach ?>
+        </div>
+      </div>
+    </div>
   </div>
 <?php endif ?>
