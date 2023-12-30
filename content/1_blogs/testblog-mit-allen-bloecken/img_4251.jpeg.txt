@@ -1,1 +1,9 @@
+Beschreibung: Ein Bank in Dresden
+
+----
+
 Uuid: oQXIvTT9bb0g9v0x
+
+----
+
+Focus: 60.7% 46.0%
