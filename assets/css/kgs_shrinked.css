@@ -722,11 +722,6 @@ iframe {
   display: inline-block;
 }
 
-.figure-caption {
-  font-size: 0.875em;
-  color: var(--bs-secondary-color);
-}
-
 .container,
 .container-fluid {
   --bs-gutter-x: 1.5rem;
