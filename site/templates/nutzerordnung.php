@@ -20,7 +20,7 @@
                         <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
                             <?= $datei->anzeigename()->or($datei->name()) ?>
                         </h3>
-                        <p class="mt-5 line-clamp-3 leading-2 text-gray-600">
+                        <p class="mt-5 leading-2 text-gray-600">
                             <?= $datei->beschreibung() ?>
                         </p>
 
