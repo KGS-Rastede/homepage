@@ -8,6 +8,7 @@
             font-size: 1.2rem !important;
         }
     }
+
     .fc-scroller {
         position: relative;
         overflow: scroll !important;
@@ -19,7 +20,7 @@
 <?php snippet('kalender_vorbereiten') ?>
 
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', function () {
         var calendarEl = document.getElementById('calendar');
 
         var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -53,10 +54,10 @@
                 /*url: 'https://kgs-rastede.eu/iserv/public/calendar/?key=1bad7fec91a3d07904543f4476774fd1',*/
                 url: '<?= $kirby->url('assets') ?>/kalender/public.ics',
                 format: 'ics',
-                failure: function() {
+                failure: function () {
                     document.getElementById('script-warning').style.display = 'block';
                 },
-                loading: function(bool) {
+                loading: function (bool) {
                     document.getElementById('loading').style.display =
                         bool ? 'block' : 'none';
                 }
@@ -68,8 +69,6 @@
     });
 </script>
 
-<span class="font-size-1 font-size-sm-1-2">
-    <div class="card mt-5 mb-3">
-        <div id='calendar'></div>
-    </div>
-</span>
+<div class="mt-5 rounded-lg bg-white shadow-sm dark:bg-slate-800 dark:text-slate-100">
+    <div id='calendar'></div>
+</div>
