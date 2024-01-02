@@ -1746,20 +1746,6 @@ iframe {
   z-index: 1030;
 }
 
-.visually-hidden {
-  width: 1px !important;
-  height: 1px !important;
-  padding: 0 !important;
-  margin: -1px !important;
-  overflow: hidden !important;
-  clip: rect(0, 0, 0, 0) !important;
-  white-space: nowrap !important;
-  border: 0 !important;
-}
-.visually-hidden:not(caption) {
-  position: absolute !important;
-}
-
 .align-middle {
   vertical-align: middle !important;
 }
@@ -1814,10 +1800,6 @@ iframe {
 
 .border {
   border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
-}
-
-.w-50 {
-  width: 50% !important;
 }
 
 .h-auto {
@@ -2124,11 +2106,6 @@ iframe {
   }
   .d-sm-none {
     display: none !important;
-  }
-}
-@media (min-width: 768px) {
-  .d-md-block {
-    display: block !important;
   }
 }
 @media (min-width: 992px) {
