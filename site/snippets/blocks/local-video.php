@@ -1,5 +1,5 @@
 <?php if ($block->video()->isNotEmpty()): ?>
-  <video id="video" class="w-1/2" src="<?= $block->video()->toFile() ?>"></video>
+  <video id="video" class="w-1/2" src="<?= $block->video()->toFile() ?>" controls></video>
 
   <?php if ($block->name()->isNotEmpty() || $block->autor()->isNotEmpty()): ?>
     <div class="w-full">
