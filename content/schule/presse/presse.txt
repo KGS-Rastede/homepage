@@ -6,6 +6,54 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/digitalisierung-an-rasteder-schulen-weiterer-systemadministrator-wird-von-spd-gruenen-und-uwg-gefordert_a_4,0,3672137575.html
+  name: 'Digitalisierung an Rasteder Schulen - Noch einer für alle – Systemadministrator soll Verstärkung bekommen '
+  anfang: >
+    Systemadministrator Mike von Dreele
+    kümmert sich seit 2020 um die
+    Digitalisierung an allen Rasteder
+    Schulen. Jetzt soll er Verstärkung
+    bekommen, fordern SPD, Grüne und UWG.
+    Es gibt aber auch Bedenken.
+  datum: 2023-12-22
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2023/12/19/moderne-lernorte-schaffen/
+  name: Moderne Lernorte schaffen
+  anfang: >
+    Die Mehrheitsgruppe möchte eine
+    zusätzliche IT-Fachkraft für die
+    Rasteder Schulen einstellen. Digitale
+    Infrastruktur soll weiter verbessert
+    werden.
+  datum: 2023-12-19
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-erasmus-projekt-zu-nachhaltigkeit-mit-partnerschule-in-italien_a_4,0,3539790318.html
+  name: 'Europäisches Umweltprojekt - Warum Rasteder Schüler in Italien Müll sammeln '
+  anfang: >
+    Im Zuge eines Erasmus-Projektes
+    engagierten sich Schüler aus Rastede in
+    Italien. Die Ergebnisse ihrer Arbeit
+    nutzt das dortige Umweltministerium für
+    eine Studie.
+  datum: 2023-12-12
+  medium: nwz
+- 
+  link: >
+    https://www.mk.niedersachsen.de/startseite/aktuelles/presseinformationen/schulradeln-2023-kultusministerin-hamburg-zeichnet-siegerschulen-aus-227393.html
+  name: Niedersachsen „Schulradeln 2023“
+  anfang: >
+    In Hannover zeichnete Kultusministerin
+    Julia Willie Hamburg die
+    Preisträgerinnen und Preisträger des
+    Schulradelns 2023 aus.
+  datum: 2023-12-08
+  medium: sonstiges
+- 
+  link: >
     https://www.rasteder-rundschau.de/2023/12/01/grimm-goethe-moritz-und-mehr/
   name: ' Grimm, Goethe, Moritz und mehr'
   anfang: >
@@ -587,8 +635,8 @@ Pressenachrichten:
   link: >
     https://www.rasteder-rundschau.de/2022/07/12/balu-und-du-auf-erfolgskurs-in-rastede/
   name: >
-     „Balu und Du“ auf Erfolgskurs in
-    Rastede
+    „Balu und Du“ auf Erfolgskurs in
+    astede
   anfang: >
     Erster Durchgang des
     Präventionsprojekts mit 24
@@ -599,9 +647,7 @@ Pressenachrichten:
 - 
   link: >
     https://www.rasteder-rundschau.de/2022/06/17/leere-stuehle-stehen-fuer-kinder-im-krieg/
-  name: >
-     Leere Stühle stehen für Kinder im
-    Krieg
+  name: Leere Stühle stehen für Kinder im rieg
   anfang: >
     Aktion an der KGS Rastede macht auf das
     Leid von Kindern im Ukrainekrieg
@@ -638,8 +684,8 @@ Pressenachrichten:
   link: >
     https://www.rasteder-rundschau.de/2022/06/14/mit-einsatz-und-ausdauer-25000-euro-erlaufen/
   name: >
-     Mit Einsatz und Ausdauer 25000 Euro
-    erlaufen
+    Mit Einsatz und Ausdauer 25000 Euro
+    rlaufen
   anfang: >
     KGS Rastede veranstaltet Sponsorenlauf
     und spendet Geld an Hilfsorganisationen
@@ -670,9 +716,7 @@ Pressenachrichten:
 - 
   link: >
     https://www.rasteder-rundschau.de/2022/03/31/kinder-koennen-nichts-fuer-kriege/
-  name: >
-     „Kinder können nichts für
-    Kriege!“
+  name: „Kinder können nichts für riege!“
   anfang: >
     Friedensdemo zieht am
     Donnerstagvormittag durch den Ort. KGS
