@@ -1823,6 +1823,10 @@ iframe {
   padding-top: 0.25rem !important;
 }
 
+.pt-3 {
+  padding-top: 1rem !important;
+}
+
 .pt-5 {
   padding-top: 3rem !important;
 }
