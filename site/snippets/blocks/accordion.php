@@ -1,48 +1,67 @@
-<?php if ($block->accordion()->isNotEmpty()) : 
-  $id = $block->accordionid();
-  $count = 1;
-  $acc = $block->accordion()->toStructure() ?>
+<?php if ($block->accordion()->isNotEmpty()):
+  $acc = $block->accordion()->toStructure()
+    ?>
 
-  <?php if ($block->flush()->toBool()) : // Wenn das Design flush ausgewählt wurde ?>
-    <div class="accordion accordion-flush mb-3" id="accordionBlock<?= $id ?>">
-  <?php else : // Nicht das flush desgin ?>
-    <div class="accordion mb-3" id="accordionBlock<?= $id ?>">
-  <?php endif ?>
+  <!-- dieser Code basiert auf 
+https://onclick.blog/blog/accordion-menu-with-tailwind-css-and-alpine-js
 
-    <?php if ($block->accfirst()->toBool()) : $count ++; // Falls das erste Item bei Laden offen sein soll ?>
+Scheint zu gehen, laut Anleitung fehlt eventuell noch:
+
+Set [x-cloak] as display: none !important;
+
+[x-cloak] {
+    display: none !important;
+}
+
+-->
+
+  <div x-data="{ selected: null }" class="border border-gray-200 rounded-lg" class="p-3">
+    <!-- The accordion items -->
+    <div class="[&>*]:border-b [&>*]:border-b-gray-200 last:[&>*]:border-b-0">
       <?php $accordion = $acc->first() // erstes Element aus der Struktur erhalten ?>
 
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="heading<?= $id ?>-<?= $count ?>">
-          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse<?= $id ?>-<?= $count ?>" aria-expanded="true" aria-controls="collapse<?= $id ?>-<?= $count ?>">
+      <div>
+        <!-- The button that toggles the accordion item -->
+        <button @click="selected !== 1 ? selected = 1 : selected = null"
+          class="w-full flex justify-between items-center p-3 ">
+          <!-- The title of the accordion item -->
+          <h3 class="text-sm font-semibold">
             <?= $accordion->accordionheading()->or("Hier fehlt noch eine Überschrift") ?>
-          </button>
-        </h2>
-        <div id="collapse<?= $id ?>-<?= $count ?>" class="accordion-collapse collapse show" aria-labelledby="heading<?= $id ?>-<?= $count ?>" data-bs-parent="#accordionBlock<?= $id ?>">
-          <div class="accordion-body">
-            <?= $accordion->accordionbody()->kt()->or("Hier fehlt noch Inhalt") ?>
+          </h3>
+          <!-- The icon that indicates whether the accordion item is expanded or collapsed -->
+          <div>
+            <span class="text-lg transition-all block" :class="selected === 1 ? 'rotate-45' : ''">+</span>
           </div>
+        </button>
+        <div x-cloak x-show="selected === 1" class="text-sm text-black/50 p-3"
+          x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95">
+          <?= $accordion->accordionbody()->kt()->or("Hier fehlt noch Inhalt") ?>
         </div>
       </div>
 
       <?php $acc = $acc->slice(1) // das erste Item aus der Struktur entfernen, diese wurde bereits bearbeitet ?>
-    <?php endif ?>
 
+      <?php foreach ($acc as $accordion): ?>
+        <div>
+          <button @click="selected !== 2 ? selected = 2 : selected = null"
+            class="w-full flex justify-between items-center p-3 ">
+            <h3 class="font-semibold">
 
-    <?php foreach ($acc as $accordion) : $count++ // Alle übrigen Items ?>
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="heading<?= $id ?>-<?= $count ?>">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse<?= $id ?>-<?= $count ?>" aria-expanded="false" aria-controls="collapse<?= $id ?>-<?= $count ?>">
-            <?= $accordion->accordionheading()->or("Hier fehlt noch ein Überschrift") ?>
+              <?= $accordion->accordionheading()->or("Hier fehlt noch ein Überschrift") ?>
+
+            </h3>
+            <div>
+              <span class="text-lg transition-all block" :class="selected === 2 ? 'rotate-45' : ''">+</span>
+            </div>
           </button>
-        </h2>
-        <div id="collapse<?= $id ?>-<?= $count ?>" class="accordion-collapse collapse" aria-labelledby="heading<?= $id ?>-<?= $count ?>" data-bs-parent="#accordionBlock<?= $id ?>">
-          <div class="accordion-body">
+          <div x-cloak x-show="selected === 2" class="text-sm text-black/50 p-3"
+            x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95">
             <?= $accordion->accordionbody()->kt()->or("Hier fehlt noch Inhalt") ?>
           </div>
         </div>
-      </div>
-    <?php endforeach ?>
 
+      <?php endforeach ?>
+
+    </div>
   </div>
 <?php endif ?>
