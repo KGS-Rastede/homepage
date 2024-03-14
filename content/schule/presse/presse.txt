@@ -6,6 +6,219 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/oldenburg-kreis/filmklappe-oldenburg-2024-viel-lob-fuer-die-jungen-filmemacher_a_4,1,323655656.html
+  name: '10. Filmklappe Oldenburg - Viel Lob für junge Filmemacher'
+  anfang: >
+    Die Sieger der Filmklappe Oldenburg
+    stehen fest. Gekürt wurden die
+    Schülerinnen und Schüler im Cine K in
+    Oldenburg – einen Tag vor der
+    Oscar-Verleihung.
+  datum: 2024-03-11
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/oldenburg-kreis/10-filmklappe-oldenburg-das-sind-die-1-preistraeger-des-wettbewerbs_a_4,1,326372959.html
+  name: '10. Filmklappe Oldenburg - Das sind die 1. Preisträger des Wettbewerbs'
+  anfang: 'Originelle Dialoge, spannende Kameraführung und passgenaue selbstgemachte Musik: Die besten Filmbeiträge überzeugten die Jury durch ganz unterschiedliche Qualitäten.'
+  datum: 2024-03-11
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/rastede-ist-bunt-600-teilnehmer-bei-demonstration-fuer-die-demokratie-in-rastede_a_4,1,311056269.html
+  name: >
+    Demonstration in Rastede „Wir müssen
+    unsere Demokratie stärken“ – 600
+    Teilnehmer dabei
+  anfang: >
+    Das Bündnis „Demokratie stärken“,
+    dass aus über 20 Organisationen und
+    Parteien besteht, hat am Wochenende zur
+    Demonstration für die Demokratie in
+    Rastede aufgerufen. So war die
+    Demonstration.
+  datum: 2024-03-10
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/03/09/starkes-zeichen-fuer-vielfalt-und-demokratie/
+  name: >
+    Starkes Zeichen für Vielfalt und
+    Demokratie
+  anfang: >
+    Unter dem Motto „Demokratie feiern“
+    nahmen heute Nachmittag mehrere hundert
+    Menschen an einer Kundgebung mit
+    anschließender Demonstration in Rastede
+    teil. Ein breites Bündnis zeigte Flagge
+    gegen Extremismus und für eine
+    solidarische Gesellschaft.
+  datum: 2024-03-09
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/demonstration-in-rastede-buendnis-demokratie-staerken-ruft-zur-kundgebung-am-9-maerz-auf_a_4,1,232563671.html
+  name: 'Neues Bündnis in Rastede - 23 Organisationen wollen Demokratie feiern und klares Zeichen gegen Rechtsextremismus setzen'
+  anfang: >
+    Nach den Demos in Westerstede, Edewecht
+    und Bad Zwischenahn findet nun auch in
+    Rastede eine Kundgebung für Demokratie
+    und gegen rechts statt. Einer der
+    Organisatoren schildert seine
+    persönlichen Beweggründe.
+  datum: 2024-03-04
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/03/04/erste-demo-gegen-rechts-in-rastede/
+  name: Erste Demo gegen rechts in Rastede
+  anfang: '9. März, 15 Uhr: Bündnis „Demokratie stärken“ ruft zur Teilnahme auf'
+  datum: 2024-03-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-breite-unterstuetzung-fuer-ex-klimaschutzmanagerin-evelyn-brudler_a_4,1,204038844.html
+  name: 'Fridays for Future in Rastede - Lauter Ruf nach Wiedereinstellung der Klimaschutzmanagerin'
+  anfang: >
+    Seit einem Monat hat Rastede keine
+    Klimaschutzmanagerin mehr. Bei der Demo
+    von Fridays for Future war dies das
+    beherrschende Thema. Es gab aber noch
+    weitere Punkte.
+  datum: 2024-03-01
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-demonstration-am-1-maerz-von-der-kgs-zum-rathaus_a_4,1,162564434.html
+  name: 'Fridays for Future - Rastede Kritik am Umgang mit Klimaschutzmanagerin und Aufruf zur Demo '
+  anfang: >
+    Fridays for Future Rastede kritisiert
+    den Umgang der Verwaltung mit
+    Klimaschutzmanagerin Evelyn Brudler.
+    Für Freitag wird zur Demonstration von
+    der KGS zum Rathaus aufgerufen.
+  datum: 2024-02-27
+  medium: nwz
+- 
+  link: 'https://www.youtube.com/watch?v=N1QVzLxLawg&t=5s'
+  name: 'Video: oldenburg eins - oeins aktuell 23.02.2023'
+  anfang: 'Thema u.a.: Palais Rastede – Schüler: innen illustrieren Buchklassiker '
+  datum: 2024-02-23
+  medium: sonstiges
+- 
+  link: >
+    https://www.rastede.de/2024/02/repaircafe-in-rastede-reparieren-statt-wegwerfen/
+  name: >
+    Rasteder Repair-Café startet im März
+    – Mitwirkende gesucht
+  anfang: >
+    Mit rund 50 Teilnehmenden fand Ende
+    Januar die Auftraktveranstaltung zur
+    Einrichtung eines Repair-Cafés in
+    Rastede statt. In Räumlichkeiten der
+    Kooperativen Gesamtschule (KGS) Rastede
+    an der Wilhelmstraße, wo das
+    Repair-Café auch künftig stattfinden
+    wird, konnten organisatorische Fragen
+    geklärt und erste Kontakte geknüpft
+    werden. Erstmals stattfinden soll das
+    Rasteder Repair-Café am Samstag, 16.
+    März, von 14 bis 17 Uhr.
+  datum: 2024-02-22
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/oldenburg-kreis/prozessauftakt-in-oldenburg-beispiellose-einbruchsserie-fuehrt-vier-taeter-vor-landgericht_a_4,1,24039342.html
+  name: 'Täter aus Hatten und Delmenhorst - Beispiellose Einbruchsserie endet für junge Männer vor Oldenburger Landgericht'
+  anfang: 'Eine beispiellose Einbruchsserie beschäftigt die Große Jugendkammer des Oldenburger Landgerichts: Vier Täter aus Hatten und Delmenhorst sind in Schulen und Geschäfte eingebrochen. Die Beute war immens.'
+  datum: 2024-02-15
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/altes-gymnasium-oldenburg-und-kgs-rastede-gemeinsame-schueler-ausstellung-im-palais-rastede_a_4,0,4291337440.html
+  name: 'Schüler-Ausstellung in Rastede - Goethe, Grimm und Moritz – Klassiker wie „Hänsel und Gretel“ neu illustriert '
+  anfang: >
+    Mit Klassikern wie „Hänsel und
+    Gretel“ oder dem „ABC-Buch“ haben
+    sich Schüler aus Oldenburg und Rastede
+    beschäftigt. Die Ergebnisse zu
+    „Buchillustrationen nach 1945“ sind
+    nun im Palais Rastede zu sehen.
+  datum: 2024-02-13
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/02/09/junge-talente-zeigen-kunst-im-palais/
+  name: Junge Talente zeigen Kunst im Palais
+  anfang: >
+    Ausstellungseröffnung am Sonntag. Werke
+    der Kunst-Leistungskurse von KGS Rastede
+    und Altem Gymnasium Oldenburg im Palais
+    Rastede. VR-Stiftung der Volksbanken und
+    Raiffeisenbanken unterstützt das
+    Projekt.
+  datum: 2024-02-09
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/holocaust-gedenken-in-apen-jung-und-alt-beteiligen-sich-an-wettbewerb_a_4,0,4089430705.html
+  name: 'Holocaust-Gedenken in Apen - „Alle wussten, was auch hier passierte“ '
+  anfang: >
+    Großes Interesse an der
+    Holocaust-Gedenkveranstaltung in der IGS
+    Augustfehn. Erstmals hat es in diesem
+    Jahr einen Wettbewerb gegeben – mit
+    ganz unterschiedlichen
+    Herangehensweisen.
+  datum: 2024-01-28
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-und-weitere-schulen-in-rastede-zusaetzlicher-it-systemadministrator-fuer-ipads-und-weitere-digitale-endgeraete-befuerwortet_a_4,0,4055908723.html
+  name: 'Digitalisierung in Rastede - Schulen erhalten personelle Verstärkung '
+  anfang: >
+    Digitale Tafeln, iPads und andere
+    Geräte müssen an den Rasteder Schulen
+    betreut werden. Deshalb soll nun ein
+    zweiter Systemadministrator eingestellt
+    werden. Er soll aber auch weitere
+    Aufgaben haben.
+  datum: 2024-01-25
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-masterplan-fuer-bauliche-entwicklung-der-schule-gefordert_a_4,0,4014257860.html
+  name: 'Sanierungsstau im Altbestand - Masterplan für bauliche Entwicklung der KGS Rastede gefordert'
+  anfang: >
+    Als die Rasteder CDU vor zwei Monaten
+    Geld für einen Schulentwicklungsplan
+    forderte, lehnte die Mehrheitsgruppe
+    SPD/Grüne/UWG dies ab. Stattdessen
+    fordert die Gruppe jetzt einen
+    Masterplan. Was dahinter steckt.
+  datum: 2024-01-22
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2024/01/niedersaechsischer-praeventionspreis-geht-nach-rastede/
+  name: >
+    Niedersächsischer Präventionspreis
+    geht nach Rastede
+  anfang: >
+    Das PräventionsNetz Rastede ist mit dem
+    Niedersächsischen Preis für kommunale
+    Prävention ausgezeichnet worden.
+    Niedersachsens Justizministerin Dr.
+    Kathrin Wahlmann überreichte den Preis
+    am Dienstag in Hannover an eine
+    Delegation aus Rastede rund um die
+    Gleichstellungsbeauftragte der Gemeinde,
+    Anke Wilken, und Bürgermeister Lars
+    Krause.
+  datum: 2024-01-17
+  medium: gemeinde
+- 
+  link: >
     https://www.nwzonline.de/ammerland/digitalisierung-an-rasteder-schulen-weiterer-systemadministrator-wird-von-spd-gruenen-und-uwg-gefordert_a_4,0,3672137575.html
   name: 'Digitalisierung an Rasteder Schulen - Noch einer für alle – Systemadministrator soll Verstärkung bekommen '
   anfang: >
@@ -108,6 +321,21 @@ Pressenachrichten:
     Lernmöglichkeiten. Raumnot besteht aber
     weiterhin.
   datum: 2023-10-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-bele-dietrich-als-letzte-organisatorin-uebriggeblieben_a_4,0,2415300847.html
+  name: >
+    Fridays for Future Bewegung lässt in
+    Rastede Federn
+  anfang: >
+    Klimaschutz ist wichtig, das ist
+    inzwischen vielen klar. Trotzdem
+    verliert die Bewegung Fridays for Future
+    in Rastede an Zuspruch. Die letzte
+    verbliebene Organisatorin wirbt jetzt um
+    Unterstützung.
+  datum: 2023-09-15
   medium: nwz
 - 
   link: >
@@ -549,6 +777,17 @@ Pressenachrichten:
     Aula der KGS sind alle fertig.
   datum: 2022-09-01
   medium: nwz
+- 
+  link: >
+    https://gruppeomp.de/journal/richtfestkgsrastede
+  name: Richtfest KGS Rastede
+  anfang: >
+    Wir freuen uns, dass das Richtfest für
+    den Neubau der Kooperativen Gesamtschule
+    in Rastede am Mittwoch, den 17.08.2022,
+    stattgefunden hat.
+  datum: 2022-08-30
+  medium: sonstiges
 - 
   link: >
     https://www.nwzonline.de/plus-ammerland/rastede-augustfehn-bildung-land-finanziert-technik-fuer-kgs-rastede_a_51,9,1266587979.html
