@@ -57,3 +57,25 @@
   font-display: swap;
 }
 
+.prose {
+  max-width: 80ch;
+}
+
+.prose p {
+  margin-bottom: 1em;
+}
+
+.prose-li\:list-disc {
+  margin-bottom: 1em;
+}
+
+img.max-w-xl {
+  max-width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .prose-li\:list-disc {
+    font-size: 1.25rem;
+    line-height: 1.8;
+  }
+}
