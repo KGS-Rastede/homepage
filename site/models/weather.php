@@ -26,7 +26,6 @@ class Weather extends Page
             return $this->readCache();
         } else {
             $weatherData = $this->fetchWeatherData();
-            $this->writeCache($weatherData);
             return $weatherData;
         }
     }
@@ -81,7 +80,18 @@ class Weather extends Page
     private function fetchWeatherData()
     {
         $url = "http://api.openweathermap.org/data/2.5/weather?q=" . urlencode($this->city) . "&appid=" . $this->apiKey . "&lang=de";
-        $response = file_get_contents($url);
-        return json_decode($response, true);
+        // try catch block to handle exceptions
+        try {
+            $response = Remote::get($url);
+            if ($response->code() !== 200) {
+                throw new Exception('Failed to fetch weather data.');
+            }
+            $weatherData = json_decode($response->content(), true);
+            $this->writeCache($weatherData);
+            return $weatherData;
+        } catch (Exception $e) {
+            // use cached data if fetching new data fails
+            return $this->readCache();
+        }
     }
 }
