@@ -41,8 +41,10 @@ class Weather extends Page
 
         // Check if the dateTime exists and is within 5 minutes
         if (isset($cacheData['dateTime'])) {
+            date_default_timezone_set('Europe/Berlin');
             $cacheDateTime = strtotime($cacheData['dateTime']);
             return (time() - $cacheDateTime) < 300; // 5 minutes
+            date_default_timezone_set('UTC');
         }
 
         // If dateTime doesn't exist or is invalid, consider cache as invalid
