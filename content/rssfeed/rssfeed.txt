@@ -1,5 +1,5 @@
-Title: Nachrichten aus iServ
+Title: RSS Feed
 
 ----
 
-Intro: Diese Nachrichten stammen aus IServ
+Uuid: o0Wvokf1AN3PViYo

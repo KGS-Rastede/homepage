@@ -1,0 +1,9 @@
+title: RSS Feed
+
+icon: rss
+options:
+  update:
+    '*': false
+    schulleitung: true
+    admin: true
+
