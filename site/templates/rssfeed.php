@@ -1,3 +1,9 @@
+<?php
+//
+// Only a Page during development, in Production it will be a Snippet
+//
+?>
+
 <div class="feed">
     <?php foreach ($page->children()->sortBy('date', 'desc') as $item): ?>
       <article>
