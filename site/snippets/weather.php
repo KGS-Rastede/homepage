@@ -1,9 +1,5 @@
 <?php
 
-//
-// Only a Page during development, in Production it will be a Snippet
-//
-
 use Kirby\Cms\Page;
 
 // get weather data
@@ -33,8 +29,6 @@ date_default_timezone_set('UTC');
 ?>
 
 <div class="weather">
-    <h2>Wetter in Rastede</h2>
-    <p><?= $weatherMain ?> (<?= $weatherDescription ?>)</p>
     <img src="http://openweathermap.org/img/wn/<?= $weatherIcon ?>.png" alt="weather icon">
     <p>Temperatur: <?= round($temperature, 1) ?>°C</p>
     <p>Windgeschwindigkeit: <?= $windSpeed ?> m/s</p>

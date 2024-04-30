@@ -1,9 +1,0 @@
-title: Wetter
-
-icon: weather
-options:
-  update:
-    '*': false
-    schulleitung: true
-    admin: true
-

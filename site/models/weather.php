@@ -59,9 +59,10 @@ class Weather extends Page
 
     private function writeCache($data)
     {
+        date_default_timezone_set('Europe/Berlin');
         // Get the current date and time in the desired format
         $dateTime = date('Y-m-d H:i:s');
-
+        date_default_timezone_set('UTC');
         // Add date and time along with the weather data
         $cacheData = [
             'dateTime' => $dateTime,

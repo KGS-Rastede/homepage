@@ -1,0 +1,37 @@
+Title: Infodisplay
+
+----
+
+Toggle-wetter: true
+
+----
+
+Label-wetter: Wetter
+
+----
+
+Toggle-iserv: true
+
+----
+
+Label-iserv: Nachrichten der Schulleitung
+
+----
+
+Togglewetter: true
+
+----
+
+Toggle: false
+
+----
+
+Uuid: B709QCWQCrO5TH3Z
+
+----
+
+Toggle-b1: 1
+
+----
+
+Toggle-banner: 1

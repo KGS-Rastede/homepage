@@ -1,0 +1,51 @@
+title: Infodisplay Iserv
+icon: alert
+
+options:
+  update:
+    "*": false
+    admin: true
+
+sections:
+  content:
+    type: fields
+    fields:
+      label_wetter_header:
+        label: Wetterdaten (Rastede)
+        type: headline
+        width: 4/4
+
+      toggle_wetter:
+        label: Wetter anzeigen
+        type: toggle
+        width: 2/4
+        text:
+          Wetter inaktiv
+          Wetter aktiv
+
+      label_wetter:
+        label: Wetterdaten Überschrift
+        type: textarea
+        width: 2/4
+        when: 
+          toggle_wetter: true
+
+      label_iserv_header:
+        label: RSS-Feed Iserv (Sekundarstufe I)
+        type: headline
+        width: 4/4
+
+      toggle_iserv:
+        label: Infos aus Iserv anzeigen
+        type: toggle
+        width: 2/4
+        text:
+          Infos aus Iserv inaktiv
+          Infos aus Iserv aktiv
+
+      label_iserv:
+        label: Iservdaten Überschrift
+        type: textarea
+        width: 2/4
+        when: 
+          toggle_iserv: true

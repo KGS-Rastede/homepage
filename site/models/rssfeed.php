@@ -1,8 +1,6 @@
 <?php
-
 use Kirby\Cms\Page;
 use Kirby\Cms\Pages;
-
 
 class RssfeedPage extends Page
 {
@@ -25,12 +23,22 @@ class RssfeedPage extends Page
             if ($xml !== false && isset($xml['channel']['item'])) {
                 $items = $xml['channel']['item'];
 
-                // If there is only one item, convert it to an array for consistency
+                // Ensure $items is always an array
                 if (!is_array($items)) {
+                    $items = [$items];
+                }
+            
+                if (isset($items['title'])) {
+                    // Handle single item
                     $items = [$items];
                 }
 
                 foreach ($items as $item) {
+                    // Ensure $item is always an array
+                    if (!is_array($item)) {
+                        $item = [$item];
+                    }
+                    
                     $pages[] = [
                         'slug'     => Str::slug($item['title']),
                         'template' => 'feeditem',
