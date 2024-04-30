@@ -1,5 +1,9 @@
 <?php
 
+//
+// Only a Page during development, in Production it will be a Snippet
+//
+
 use Kirby\Cms\Page;
 
 // get weather data
