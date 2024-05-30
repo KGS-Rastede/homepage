@@ -20,6 +20,11 @@ gettype($features);
 echo ($features);
 ?>
 
+<!-- Gebäudeplan selber bearbeiten unter: https://osminedit.pavie.info/#18/53.24411/8.19696/0-->
+
+<!-- Gebäudeplan selber exportieren unter: https://overpass-turbo.eu/#-->
+<!-- Einfach die KGS-Rastede Suchen > Kartenausschnitt manuell wählen > Gebäude makieren > exportieren > geojson downloaden > Datei bei /content/allgemeines/anfahrt/ einfügen -->
+
 <!-- ========================================================= -->
 <!-- Karte holen -->
 <!-- ========================================================= -->
