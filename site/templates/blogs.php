@@ -4,7 +4,7 @@
 
 
 
-<div class="bg-slate-50 dark:bg-gray-900 dark:text-gray-100 px-4">
+<div class="bg-slate-50 dark:bg-gray-900 dark:text-gray-100 px-4 mb-8">
   <!-- Latest Posts -->
   <div class="grid gap-4 grid-cols-1 md:grid-cols-3 lg:grid-cols-4">
     <?php foreach ($articles as $article)
