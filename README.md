@@ -6,7 +6,7 @@ Kirby ist soweit vorbereitet. Der aktuelle Stand ist bei Git verf√ºgbar. Dann k√
 
 -   [composer](https://getcomposer.org/download/)
 -   WebServer (WAMP, LAMP, XAMPP, etc) oder falls [VS Code](https://code.visualstudio.com/) benutzt wird, die Extension [PHP-Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
--   PHP 8 (mindestens PHP 8.1)
+-   PHP 8 (mindestens PHP 8.2)
 -   [git](https://git-scm.com/downloads)
 -   Ein Editor wie Visual Studio Code oder ZED
 
