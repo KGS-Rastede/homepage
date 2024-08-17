@@ -243,17 +243,18 @@ echo ($features);
         addLayerForStairs('2');
 
         function addLayerForRooms(level) {
+            var filter = stair_filter(level);
             map.addLayer({
                 'id': `room_extrusion_${level}`,
                 'type': 'fill-extrusion',
                 'source': 'floorplan',
                 'filter': ['all',
                     ['!=', 'indoor', 'level'],
-                    ['==', 'level', level], 
                     ['!=', 'room', 'lobby'],
                     ['!=', 'room', 'stairs'],
                     ['!=', 'indoor', 'corridor'],
-                    ['!=', 'name', 'B020']
+                    ['!=', 'name', 'B020'],
+                    filter
                 ],
                 'paint': {
                     'fill-extrusion-color': ['get', 'colour'],
@@ -603,7 +604,7 @@ function stair_filter(level) {
                 ];
             } else if (level === '2') {
                 filter = ['any',
-                    ['==', 'level', '-2'],
+                    ['==', 'level', '2'],
                     ['==', 'level', '1;2'],
                     ['==', 'level', '0-2'],
                     ['==', 'level', '-1-2']
