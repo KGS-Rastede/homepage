@@ -277,12 +277,28 @@ echo ($features);
             'source': 'floorplan',
             'filter': ['==', 'level', level],
             'layout': {
+                'text-allow-overlap': true,  // The icon will be visible even if it collides with other previously drawn symbols.
+                'text-ignore-placement': true, 
                 'text-field': ['get', 'name'], 
-                'text-size': 12,
+                'text-size': [
+                    'interpolate',
+                    ['linear'],
+                    ['zoom'],
+                    
+                    17, 3,   // zoomstufe , textgröße
+                    18, 7.25,   // zoomstufe , textgröße
+                    19, 12.5,   // zoomstufe , textgröße
+                    20, 25,   // zoomstufe , textgröße
+                    21, 50,   // zoomstufe , textgröße
+                    22, 100   // zoomstufe , textgröße
+                ],
                 'text-anchor': 'center',
             },
             'paint': {
-                'text-color': '#FFF' // Farbe des Textlabels
+                'text-color': '#fff',
+                'text-halo-color': '#000',
+                'text-halo-width': 0.7,
+                'text-translate-anchor': 'map' // Anpassung an die Kartenrotation
             }
             });
         }
