@@ -129,10 +129,46 @@ echo ($features);
     // ---------------------------------------------------------
 	mapboxgl.accessToken = 'pk.eyJ1Ijoia2dzcmFzdGVkZSIsImEiOiJja3hnZ2dnaXczb293MnBvNWxhdWxkdnYxIn0.kHEpdxzycw6ZVg719GpdLA';
 
+    /*
     const geojson = {
     'type': 'FeatureCollection',
     'features': <?= json_encode($features, JSON_PRETTY_PRINT) ?>
     };
+
+    */
+     
+        const geojson = {
+        'type': 'FeatureCollection',
+        'features': [
+            <?php foreach ($block->reise()->toBlocks() as $block) : ?> {
+                    'type': 'Feature',
+                    'properties': {
+                        'message': '<?= $block->name() ?>',
+                        'iconSize': [50, 50],
+
+                        <?php
+                        if ($block->bild()->isEmpty()) : ?> 
+                            //Es wurde kein Bild hinterlegt, also ein Standard-Bild
+                           'iconUrl': '<?= $kirby->url('assets') ?>/logo-kgs.jpg'
+
+                        <?php else : ?> 
+
+                            'iconUrl': '<?= $block->bild()->toFile()->url() ?>'
+
+                        <?php endif ?>
+
+
+                    },
+                    'geometry': {
+                        'type': 'Point',
+                        'coordinates': [<?= $block->breitengrad() ?>, <?= $block->laengengrad() ?>]
+                    }
+                },
+            <?php endforeach ?>
+        ]
+    };
+
+      
     const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/streets-v12',
@@ -333,6 +369,34 @@ echo ($features);
         addWalls('2');
 
         raumnummernVerstecken();
+
+        //Restliche Koordinaten
+        map.addSource('geojson-source', {
+            'type': 'geojson',
+            'data': geojson
+        });
+        // Add markers to the map.
+        for (const marker of geojson.features) {
+            // Create a DOM element for each marker.
+            const el = document.createElement('div');
+            const width = marker.properties.iconSize[0];
+            const height = marker.properties.iconSize[1];
+            const iconUrl = marker.properties.iconUrl;
+            el.className = 'marker';
+            el.style.backgroundImage = `url(${iconUrl})`;
+            el.style.width = `${width}px`;
+            el.style.height = `${height}px`;
+            el.style.backgroundSize = '100%';
+
+            el.addEventListener('click', () => {
+                window.alert(marker.properties.message);
+            });
+
+            // Add markers to the map.
+            new mapboxgl.Marker(el)
+                .setLngLat(marker.geometry.coordinates)
+                .addTo(map);
+        }
     });
 
     function raumnummernVerstecken(){
@@ -448,12 +512,12 @@ echo ($features);
             map.setLayoutProperty(`stair_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
             map.setLayoutProperty(`floor_extrusion_${level}`, 'visibility', etage === level ? 'visible' : 'none');
         });
-        var features = map.querySourceFeatures('floorplan', { sourceLayer: 'room_searched' });
-        if (features.length > 0) {
-            for (var i = 0; i < features.length; i++) {
-                var feature = features[i];
-                if(searchTerm && feature.properties.name == searchTerm){
-                    map.setLayoutProperty(`room_searched`, 'visibility', feature.properties.level === etage ? 'visible' : 'none');
+        var featuresTemp = map.querySourceFeatures('floorplan', { sourceLayer: 'room_searched' });
+        if (featuresTemp.length > 0) {
+            for (var i = 0; i < featuresTemp.length; i++) {
+                var featureTemp = featuresTemp[i];
+                if(searchTerm && featureTemp.properties.name == searchTerm){
+                    map.setLayoutProperty(`room_searched`, 'visibility', featureTemp.properties.level === etage ? 'visible' : 'none');
                 }
             }
         }
@@ -463,7 +527,11 @@ echo ($features);
 
 // Raumsuche Knopf
 document.getElementById('search-button').addEventListener('click', function (evt) {
-    searchTerm = document.getElementById('search-input').value;
+    gesuchterRaum = document.getElementById('search-input').value;
+    raumsuchen(gesuchterRaum)
+});
+
+function raumsuchen(searchTerm) {
     var roomFound = false;
     var etageChanged = false; // Variable zur Verfolgung des Etagenwechsels bei Raumsuche
 
@@ -475,18 +543,18 @@ document.getElementById('search-button').addEventListener('click', function (evt
 
         // Überprüfe, ob die Ebene (roomLayerId) existiert
         if (map.getLayer(roomLayerId)) {
-            var features = map.querySourceFeatures('floorplan', { sourceLayer: roomLayerId });
+            var featuresTemp = map.querySourceFeatures('floorplan', { sourceLayer: roomLayerId });
 
-            if (features.length > 0) {
+            if (featuresTemp.length > 0) {
                 roomFound = true;
 
                 // Entferne die "room_searched"-Ebene, falls sie existiert
                 if (map.getLayer('room_searched')) {
                     map.removeLayer('room_searched');
                 }
-                for (var i = 0; i < features.length; i++) {
-                    var feature = features[i];
-                    if (feature.properties.name == searchTerm) {
+                for (var i = 0; i < featuresTemp.length; i++) {
+                    var featureTemp = featuresTemp[i];
+                    if (featureTemp.properties.name == searchTerm) {
                         // Setze das Level des gefundenen Raums in der Layer "room_searched"
                         //var roomSearchedLevel = level;
 
@@ -520,20 +588,20 @@ document.getElementById('search-button').addEventListener('click', function (evt
                         // Die Datenquelle 'floorplan' wurde vollständig geladen
                         // Jetzt können wir die Aktionen ausführen
 
-                        var features = map.querySourceFeatures('floorplan', { sourceLayer: 'room_searched' });
+                        var featuresTemp = map.querySourceFeatures('floorplan', { sourceLayer: 'room_searched' });
 
-                        if (features && !etageChanged) {
+                        if (featuresTemp && !etageChanged) {
                             etageChanged = true;
-                            for (var i = 0; i < features.length; i++) {
-                                var feature = features[i];
-                                if(feature.properties.name == searchTerm){
-                                    if (feature.properties.level == '-1') {
+                            for (var i = 0; i < featuresTemp.length; i++) {
+                                var featureTemp = featuresTemp[i];
+                                if(featureTemp.properties.name == searchTerm){
+                                    if (featureTemp.properties.level == '-1') {
                                         etage = '-1';
-                                    } else if (feature.properties.level == '0') {
+                                    } else if (featureTemp.properties.level == '0') {
                                         etage = '0';
-                                    } else if (feature.properties.level == '1') {
+                                    } else if (featureTemp.properties.level == '1') {
                                         etage = '1';
-                                    } else if (feature.properties.level == '2') {
+                                    } else if (featureTemp.properties.level == '2') {
                                         etage = '2';
                                     }
                                 }
@@ -558,23 +626,25 @@ document.getElementById('search-button').addEventListener('click', function (evt
     if (!roomFound) {
         alert('Raum nicht gefunden.');
     }
-});
-
-
+}
 
 
 // Hinzufügen eines Klick-Event-Listeners zur Karte
 map.on('click', function (evt) {
     // Fügen Sie hier Ihren Code hinzu, um auf Klicks zu reagieren
-    var features = map.queryRenderedFeatures(evt.point);
-    if (features) {
-        for (var i = 0; i < features.length; i++) {
-            var feature = features[i];
-            if (feature.properties.indoor === 'room') {
-                //angeklickte Etage auswählen
-                name = feature.properties.name;
-                toggleFloor();
+    var featuresTemp = map.queryRenderedFeatures(evt.point);
+    if (featuresTemp) {
+        for (var i = 0; i < featuresTemp.length; i++) {
+            var featureTemp = featuresTemp[i];
+            if (featureTemp.properties.indoor === 'room') {
+                //angeklickte Etage auswählen => Irrelevant, da die raumsuchfunktion das bereits macht
+                //etage = featureTemp.properties.level;
+                //toggleFloor();
+                //Raumname 
+                name = featureTemp.properties.name;
                 console.log("Raum geklickt. Etage: " + name);
+                raumsuchen(name)
+                return;
             }
         }
     }
