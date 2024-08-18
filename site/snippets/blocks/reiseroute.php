@@ -647,6 +647,7 @@ echo ($features);
                         ['==', 'level', '0'],
                         ['==', 'level', '-1;0'],
                         ['==', 'level', '0;1'],
+                        ['==', 'level', '-1-1'],
                         ['==', 'level', '0-2'],
                         ['==', 'level', '-1-2'],
                         ['==', 'level', '1-2']
@@ -712,7 +713,7 @@ echo ($features);
         'type': 'geojson',
         'data': geojson
     });
-    
+
     // Add markers to the map.
     for (const marker of geojson.features) {
         // Create a DOM element for each marker.
