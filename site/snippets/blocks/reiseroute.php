@@ -156,10 +156,38 @@
     //  Karte Laden
     // ---------------------------------------------------------
     map.on('load', () => {
+        /*
+        ACHTUNG: Damit das funktioniert muss noch eine geeignete Quelle für die Wetterdaten gefunden werden
+        Hier ist das genutzte Beispiel nur ein Bild. Siehe: https://docs.mapbox.com/mapbox-gl-js/example/image-on-a-map/
+
+        //=====Wetter Radar=====
+        map.addSource('radar', {
+            'type': 'image',
+            'url': 'https://docs.mapbox.com/mapbox-gl-js/assets/radar.gif',
+            'coordinates': [
+                [8.1900, 53.2400],
+                [8.1900, 53.24500],
+                [8.2000, 53.2400],
+                [8.2000, 53.2500]
+            ]
+        });
+        map.addLayer({
+            id: 'radar-layer',
+            'type': 'raster',
+            'source': 'radar',
+            'paint': {
+                'raster-fade-duration': 0
+            }
+        });
+        */
+        //=====Wetter Radar zuende=====
+
         map.addSource('floorplan', {
             'type': 'geojson',
             'data': '/content/allgemeines/anfahrt/bereinigte_geojson_datei.geojson'
         });
+
+
 
         twoD = false;
 
