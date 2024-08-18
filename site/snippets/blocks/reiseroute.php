@@ -341,35 +341,47 @@ echo ($features);
 
     //==========================================================
     //==========Icons==========
-        map.addSource('geojson-source', {
-            'type': 'geojson',
-            'data': geojson
-        });
-        // Add markers to the map.
-        for (const marker of geojson.features) {
-            // Create a DOM element for each marker.
-            const el = document.createElement('div');
-            const width = marker.properties.iconSize[0];
-            const height = marker.properties.iconSize[1];
-            const iconUrl = marker.properties.iconUrl;
-            el.className = 'marker';
-            el.style.backgroundImage = `url(${iconUrl})`;
-            el.style.width = `${width}px`;
-            el.style.height = `${height}px`;
-            el.style.backgroundSize = '100%';
+    var markergeojson = getmarkergeojson()
 
-            el.addEventListener('click', () => {
-                window.alert(marker.properties.message);
-            });
-
-            // Add markers to the map.
-            new mapboxgl.Marker(el)
-                .setLngLat(marker.geometry.coordinates)
-                .addTo(map);
-        }
+    map.addSource('geojson-source', {
+        'type': 'geojson',
+        'data': markergeojson
     });
+
+    // Add markers to the map.
+    for (const marker of markergeojson.features) {
+        // Create a DOM element for each marker.
+        const el = document.createElement('div');
+        const width = marker.properties.iconSize[0];
+        const height = marker.properties.iconSize[1];
+        const iconUrl = marker.properties.iconUrl;
+        el.className = 'marker';
+        el.style.backgroundImage = `url(${iconUrl})`;
+        el.style.width = `${width}px`;
+        el.style.height = `${height}px`;
+        el.style.backgroundSize = '100%';
+
+        //el.addEventListener('click', () => {
+        //    window.alert(marker.properties.message);
+        //});
+
+        el.addEventListener('mouseenter', () => {
+            mouseovermarker(marker)
+        });
+        
+        el.addEventListener('mouseleave', () => {
+            popup.remove();
+        });
+
+        // Add markers to the map.
+        new mapboxgl.Marker(el)
+            .setLngLat(marker.geometry.coordinates)
+            .addTo(map);
+    }
     //==========Ende von Icons==========
     //==========================================================
+    });
+    
 
     function raumnummernVerstecken(){
             // Raumnummern für alle Etagen verstecken
@@ -674,11 +686,10 @@ echo ($features);
         return filter
     };
 
-
-
-    //==========================================================
-    //==========Icons==========
-    const geojson = {
+//==========================================================
+//==========Icons==========
+function getmarkergeojson(){
+    return geojson = {
         'type': 'FeatureCollection',
         'features': [
             <?php foreach ($block->reise()->toBlocks() as $block) : ?> {
@@ -708,38 +719,44 @@ echo ($features);
             <?php endforeach ?>
         ]
     };
+}
 
-    map.addSource('geojson-source', {
-        'type': 'geojson',
-        'data': geojson
-    });
 
-    // Add markers to the map.
-    for (const marker of geojson.features) {
-        // Create a DOM element for each marker.
-        const el = document.createElement('div');
-        const width = marker.properties.iconSize[0];
-        const height = marker.properties.iconSize[1];
-        const iconUrl = marker.properties.iconUrl;
-        el.className = 'marker';
-        el.style.backgroundImage = `url(${iconUrl})`;
-        el.style.width = `${width}px`;
-        el.style.height = `${height}px`;
-        el.style.backgroundSize = '100%';
+// Create a popup, but don't add it to the map yet.
+const popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false
+});
 
-        el.addEventListener('click', () => {
-            window.alert(marker.properties.message);
-        });
+// Definiere die mouseovermarker-Funktion
+function mouseovermarker(marker) {
+    // Kopiere die Koordinaten
+    const coordinates = marker.geometry.coordinates.slice();
+    const description = marker.properties.message;
 
-        // Add markers to the map.
-        new mapboxgl.Marker(el)
-            .setLngLat(marker.geometry.coordinates)
-            .addTo(map);
+    // Stelle sicher, dass die Popups über dem richtigen Feature erscheinen
+    while (Math.abs(map.getCenter().lng - coordinates[0]) > 180) {
+        coordinates[0] += map.getCenter().lng > coordinates[0] ? 360 : -360;
     }
 
-    //==========Ende von Icons==========
-    //==========================================================
+    // Populiere das Popup und setze die Koordinaten
+    popup.setLngLat(coordinates).setHTML(description).addTo(map);
+    console.log(`Die Koordinate ist '${coordinates}' und die Beschreibung: ${description}.`);
+}
 
+
+console.log(`markergeojson geholt`);
+map.on('mouseenter', 'geojson-source', (e) => {
+    
+});
+
+map.on('mouseleave', 'places', () => {
+    map.getCanvas().style.cursor = '';
+    
+});
+
+//==========Ende von Icons==========
+//==========================================================
 </script>
 
 </body>
