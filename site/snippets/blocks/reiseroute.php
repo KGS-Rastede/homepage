@@ -519,7 +519,7 @@
     function setTwoD(){
         //map.dragRotate.disable(); //disable rotation
         //map.touchZoomRotate.disableRotation(); //disable rotation
-        if(etage = 'ALLE'){
+        if(etage == 'ALLE'){
             etage = '0';
         }
 
@@ -608,6 +608,8 @@
             if(etage == level){
                 if(!twoD){
                     alleEtagenAnzeigen();
+                } else{
+                    floor_button.style.backgroundColor = "#0011DC";
                 }
                 
             } else{
