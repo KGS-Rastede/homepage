@@ -164,12 +164,12 @@
             pitch: 50, // Behalte den aktuellen pitch
             bearing: 20, // Behalte den aktuellen bearing
             maxZoom: 18.5, // Optional: Begrenze den Zoom, damit er nicht zu weit herauszoomt
-            duration: 4000
+            duration: 1000
         });
 
         setTimeout(() => {
             setTwoD();
-        }, 4000); // Verzögerung zum Starten der zweiten Phase
+        }, 1100); // Verzögerung zum Starten der zweiten Phase
 
         
         
