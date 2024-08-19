@@ -360,7 +360,6 @@ echo ($features);
         addLayerRoomnumbers('1');
         addLayerRoomnumbers('2');
 
-        raumnummernVerstecken();
 
         function addWalls(level){
             map.addLayer({
@@ -386,6 +385,9 @@ echo ($features);
         addWalls('0');
         addWalls('1');
         addWalls('2');
+
+        raumnummernVerstecken();
+        waendeVerstecken();
 
 
     //==========================================================
@@ -493,6 +495,13 @@ echo ($features);
             });
     }
 
+    function waendeVerstecken(){
+            // Raumnummern für alle Etagen verstecken
+            levels.forEach((level) => {
+                map.setLayoutProperty(`room_walls_${level}`, 'visibility', 'none');
+            });
+    }
+
 
     // ---------------------------------------------------------
     //  Knöpfe Eventhandler
@@ -540,6 +549,7 @@ echo ($features);
         map.easeTo({ pitch: 50, zoom: 18 }); // Set pitch to 50 degrees for 3D view and zoom in
     
         //raumnummernVerstecken();
+        waendeVerstecken();
 
         //Höhe auf auf 3d setzen
         levels.forEach((level) => {
@@ -587,6 +597,7 @@ echo ($features);
     //Richtige Etage anzeigen
     function toggleFloor() {
         raumnummernVerstecken();
+        waendeVerstecken();
         // Raumnummern für die ausgewählte Etage anzeigen
         map.setLayoutProperty(`room_labels_floor_${etage}`, 'visibility', 'visible');
         if(twoD){
