@@ -138,8 +138,10 @@
     const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/streets-v12',
-        center: [8.1964, 53.2442],
-        zoom: 18.5,
+        //center: [8.1964, 53.2442],//Diesen Teil nutzen, um Keine Animation zu haben
+        //zoom: 18.5, //Diesen Teil nutzen, um Keine Animation zu haben
+        center: [8.1964, 53.2442], //Diesen Teil nutzen, um eine Schöne Animation zu haben
+        zoom: 19, //Diesen Teil nutzen, um eine Schöne Animation zu haben
         pitch: 50,
         bearing: 20,
         antialias: true,
@@ -156,17 +158,22 @@
     //  Karte Laden
     // ---------------------------------------------------------
     map.on('load', () => {
-        //Die KGS-Rastede (Hauptgebäude dynamisch heranzoomen)
-        
-        map.fitBounds([
+
+      
+
+        // Die KGS-Rastede (Hauptgebäude dynamisch heranzoomen)
+           map.fitBounds([
             [8.1960, 53.2435], // [lng, lat] - southwestern corner of the bounds
             [8.1968, 53.2446]  // [lng, lat] - northeastern corner of the bounds
         ], {
-            //padding: {top: 10, bottom: 25, left: 15, right: 5}, // Optional padding
-            pitch: map.getPitch(),  // Behalte den aktuellen pitch
-            bearing: map.getBearing(), // Behalte den aktuellen bearing
-            maxZoom: map.getZoom() // Optional: Begrenze den Zoom, damit er nicht zu weit herauszoomt
+            padding: { top: 10, bottom: 25, left: 15, right: 5 }, // Optional padding
+            pitch: 50, // Behalte den aktuellen pitch
+            bearing: 20, // Behalte den aktuellen bearing
+            maxZoom: 18.5, // Optional: Begrenze den Zoom, damit er nicht zu weit herauszoomt
+            duration: 5000
         });
+
+        
         
         /*
         ACHTUNG: Damit das funktioniert muss noch eine geeignete Quelle für die Wetterdaten gefunden werden
@@ -419,6 +426,59 @@
     }
     //==========Ende von Icons==========
     //==========================================================
+    //Alle anderen Gebäude in der Umgebung auch in 3D anzeigen
+    // Insert the layer beneath any symbol layer.
+    const layers = map.getStyle().layers;
+    const labelLayerId = layers.find(
+        (layer) => layer.type === 'symbol' && layer.layout['text-field']
+    ).id;
+
+    // The 'building' layer in the Mapbox Streets
+    // vector tileset contains building height data
+    // from OpenStreetMap.
+
+    map.addLayer(
+        {
+            'id': 'add-3d-buildings',
+            'source': 'composite',
+            'source-layer': 'building',
+            'filter': ['==', 'extrude', 'true'],
+            'filter': ['all',
+                    ['!=', 'type', 'school'],
+                    ['==', 'extrude', 'true']
+                ],
+            'type': 'fill-extrusion',
+            'minzoom': 15,
+            'paint': {
+                'fill-extrusion-color': '#aaa',
+
+                // Use an 'interpolate' expression to
+                // add a smooth transition effect to
+                // the buildings as the user zooms in.
+                'fill-extrusion-height': [
+                    'interpolate',
+                    ['linear'],
+                    ['zoom'],
+                    15,
+                    0,
+                    15.05,
+                    ['get', 'height']
+                ],
+                'fill-extrusion-base': [
+                    'interpolate',
+                    ['linear'],
+                    ['zoom'],
+                    15,
+                    0,
+                    15.05,
+                    ['get', 'min_height']
+                ],
+                'fill-extrusion-opacity': 0.6
+            }
+        },
+        labelLayerId
+    );
+
     });
     
 
