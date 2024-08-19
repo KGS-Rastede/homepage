@@ -432,9 +432,10 @@ echo ($features);
     }
     //==========Ende von Icons==========
     //==========================================================
-    //Alle anderen Gebäude in der Umgebung auch in 3D anzeigen
-    // Insert the layer beneath any symbol layer.
-    const layers = map.getStyle().layers;
+
+    //==========================================================
+    //==========Alle Gebäude in 3D==========
+    const layers = map.getStyle().layers; // Insert the layer beneath any symbol layer.
     const labelLayerId = layers.find(
         (layer) => layer.type === 'symbol' && layer.layout['text-field']
     ).id;
@@ -484,9 +485,126 @@ echo ($features);
         },
         labelLayerId
     );
+    //==========Ende von Gebäude in 3D==========
+    //==========================================================
 
+    //==========================================================
+    //==========Wege animieren==========
+    const geojsonWegZwischenSchulen = {
+        'type': 'FeatureCollection',
+        'features': [
+            {
+                'type': 'Feature',
+                'properties': {},
+                'geometry': {
+                    'coordinates': [
+                        [8.194519503304662, 53.24126419838046],
+                        [8.194605553237352, 53.24128367213041],
+                        [8.194590225026104, 53.24136667404534],
+                        [8.194684875475332, 53.24140982294469],
+                        [8.195125653227507, 53.241452805733076],
+                        [8.195155894747273, 53.24139753327026],
+                        [8.195696990383453, 53.241479471767946],
+                        [8.196058247056925, 53.24150021961873],
+                        [8.196080582892705, 53.24153389028655],
+                        [8.196210720592717, 53.24153407555923],
+                        [8.196245033765223, 53.241817482727555],
+                        [8.196254492380632, 53.24206543307915],
+                        [8.196235161656432, 53.2424201972745],
+                        [8.19624552155247, 53.24259639969466],
+                        [8.19631113706609, 53.24259518799394],
+                        [8.196322338182483, 53.242688045441724],
+                        [8.196119412095385, 53.24269066900678],
+                        [8.196018378877824, 53.24280049748779],
+                        [8.195884108230302, 53.24309512789918],
+                        [8.195685489115675, 53.24360691893989],
+                        [8.195556065303407, 53.24395130603307],
+                        [8.196288873614805, 53.24400406884726]
+                        
+                    ],
+                    'type': 'LineString'
+                }
+            }
+        ]
+    };
+
+    map.addSource('line', {
+        type: 'geojson',
+        data: geojsonWegZwischenSchulen
     });
-    
+
+    // add a line layer without line-dasharray defined to fill the gaps in the dashed line
+    map.addLayer({
+        type: 'line',
+        source: 'line',
+        id: 'line-background',
+        paint: {
+            'line-color': 'yellow',
+            'line-width': 6,
+            'line-opacity': 0.4
+        }
+    });
+
+    // add a line layer with line-dasharray set to the first value in dashArraySequence
+    map.addLayer({
+        type: 'line',
+        source: 'line',
+        id: 'line-dashed',
+        paint: {
+            'line-color': 'yellow',
+            'line-width': 6,
+            'line-dasharray': [0, 4, 3]
+        }
+    });
+
+    // technique based on https://jsfiddle.net/2mws8y3q/
+    // an array of valid line-dasharray values, specifying the lengths of the alternating dashes and gaps that form the dash pattern
+    const dashArraySequence = [
+        [0, 4, 3],
+        [0.5, 4, 2.5],
+        [1, 4, 2],
+        [1.5, 4, 1.5],
+        [2, 4, 1],
+        [2.5, 4, 0.5],
+        [3, 4, 0],
+        [0, 0.5, 3, 3.5],
+        [0, 1, 3, 3],
+        [0, 1.5, 3, 2.5],
+        [0, 2, 3, 2],
+        [0, 2.5, 3, 1.5],
+        [0, 3, 3, 1],
+        [0, 3.5, 3, 0.5]
+    ];
+
+    let step = 0;
+
+    function animateDashArray(timestamp) {
+        // Update line-dasharray using the next value in dashArraySequence. The
+        // divisor in the expression `timestamp / 50` controls the animation speed.
+        const newStep = parseInt(
+            (timestamp / 50) % dashArraySequence.length
+        );
+
+        if (newStep !== step) {
+            map.setPaintProperty(
+                'line-dashed',
+                'line-dasharray',
+                dashArraySequence[step]
+            );
+            step = newStep;
+        }
+
+        // Request the next frame of the animation.
+        requestAnimationFrame(animateDashArray);
+    }
+
+    // start the animation
+    animateDashArray(0);
+
+
+     //==========Ende von Wege animieren==========
+    //==========================================================
+    });
 
     function raumnummernVerstecken(){
             // Raumnummern für alle Etagen verstecken
