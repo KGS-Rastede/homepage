@@ -139,7 +139,7 @@
         container: 'map',
         style: 'mapbox://styles/mapbox/streets-v12',
         center: [8.1964, 53.2442],
-        zoom: 18,
+        zoom: 18.5,
         pitch: 50,
         bearing: 20,
         antialias: true,
@@ -156,6 +156,18 @@
     //  Karte Laden
     // ---------------------------------------------------------
     map.on('load', () => {
+        //Die KGS-Rastede (Hauptgebäude dynamisch heranzoomen)
+        
+        map.fitBounds([
+            [8.1960, 53.2435], // [lng, lat] - southwestern corner of the bounds
+            [8.1968, 53.2446]  // [lng, lat] - northeastern corner of the bounds
+        ], {
+            //padding: {top: 10, bottom: 25, left: 15, right: 5}, // Optional padding
+            pitch: map.getPitch(),  // Behalte den aktuellen pitch
+            bearing: map.getBearing(), // Behalte den aktuellen bearing
+            maxZoom: map.getZoom() // Optional: Begrenze den Zoom, damit er nicht zu weit herauszoomt
+        });
+        
         /*
         ACHTUNG: Damit das funktioniert muss noch eine geeignete Quelle für die Wetterdaten gefunden werden
         Hier ist das genutzte Beispiel nur ein Bild. Siehe: https://docs.mapbox.com/mapbox-gl-js/example/image-on-a-map/
@@ -186,7 +198,6 @@
             'type': 'geojson',
             'data': '/content/allgemeines/anfahrt/bereinigte_geojson_datei.geojson'
         });
-
 
 
         twoD = false;
@@ -301,14 +312,15 @@
         addLayerForRooms('2');
 
         function addLayerRoomnumbers(level){
+            var offset = level*(-4)
             map.addLayer({
             'id': `room_labels_floor_${level}`,
             'type': 'symbol',
             'source': 'floorplan',
             'filter': ['==', 'level', level],
             'layout': {
-                'text-allow-overlap': true,  // The icon will be visible even if it collides with other previously drawn symbols.
-                'text-ignore-placement': true, 
+                'text-allow-overlap': false,  // The icon will be visible even if it collides with other previously drawn symbols.
+                'text-ignore-placement': false, 
                 'text-field': ['get', 'name'], 
                 'text-size': [
                     'interpolate',
@@ -322,7 +334,7 @@
                     21, 50,   // zoomstufe , textgröße
                     22, 100   // zoomstufe , textgröße
                 ],
-                'text-anchor': 'center',
+                'text-offset': [0, offset] // Offset, um den Text zu verschieben, falls nötig
             },
             'paint': {
                 'text-color': '#fff',
@@ -337,6 +349,8 @@
         addLayerRoomnumbers('0');
         addLayerRoomnumbers('1');
         addLayerRoomnumbers('2');
+
+        raumnummernVerstecken();
 
         function addWalls(level){
             map.addLayer({
@@ -353,6 +367,7 @@
                 },
                 'paint': {
                 'line-color': '#222',
+                'line-opacity': 0.25,
                 'line-width': 1
                 }
             });
@@ -362,7 +377,6 @@
         addWalls('1');
         addWalls('2');
 
-        raumnummernVerstecken();
 
     //==========================================================
     //==========Icons==========
@@ -432,20 +446,23 @@
 
         //Höhe auf 0 setzen
         levels.forEach((level) => {
-                map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-height', 0);
-                map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-base', 0);
+            map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-height', 0);
+            map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-base', 0);
 
-                map.setPaintProperty(`hall_extrusion_${level}`, 'fill-extrusion-height', 0.01);
-                map.setPaintProperty(`hall_extrusion_${level}`, 'fill-extrusion-base', 0.01);
+            map.setPaintProperty(`hall_extrusion_${level}`, 'fill-extrusion-height', 0.01);
+            map.setPaintProperty(`hall_extrusion_${level}`, 'fill-extrusion-base', 0.01);
 
-                map.setPaintProperty(`room_extrusion_${level}`, 'fill-extrusion-height', 0.01);
-                map.setPaintProperty(`room_extrusion_${level}`, 'fill-extrusion-base', 0.01);
+            map.setPaintProperty(`room_extrusion_${level}`, 'fill-extrusion-height', 0.01);
+            map.setPaintProperty(`room_extrusion_${level}`, 'fill-extrusion-base', 0.01);
 
-                map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-height', 0.01);
-                map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-base', 0.01);
+            map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-height', 0.01);
+            map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-base', 0.01);
 
-                map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
-                map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
+            map.setLayoutProperty(`room_labels_floor_${level}`, 'text-offset', [0, 0.01]);
+
+            map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
+            map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
+                
         });
 
         toggleFloor(); 
@@ -459,10 +476,11 @@
         map.touchZoomRotate.enableRotation(); //enable rotation
         map.easeTo({ pitch: 50, zoom: 18 }); // Set pitch to 50 degrees for 3D view and zoom in
     
-        raumnummernVerstecken();
+        //raumnummernVerstecken();
 
         //Höhe auf auf 3d setzen
         levels.forEach((level) => {
+            var offset = level*(-4);
             map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-height', ['get', 'height']);
             map.setPaintProperty(`floor_extrusion_${level}`, 'fill-extrusion-base', ['get', 'base_height']);
 
@@ -474,6 +492,8 @@
 
             map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-height', ['get', 'height']);
             map.setPaintProperty(`stair_extrusion_${level}`, 'fill-extrusion-base', ['get', 'base_height']);
+
+            map.setLayoutProperty(`room_labels_floor_${level}`, 'text-offset', [0, offset]);
 
             map.setPaintProperty(`room_searched`, 'fill-extrusion-height', ['get', 'height']);
             map.setPaintProperty(`room_searched`, 'fill-extrusion-base', ['get', 'base_height']);
@@ -505,8 +525,9 @@
     function toggleFloor() {
         raumnummernVerstecken();
         // Raumnummern für die ausgewählte Etage anzeigen
+        map.setLayoutProperty(`room_labels_floor_${etage}`, 'visibility', 'visible');
         if(twoD){
-            map.setLayoutProperty(`room_labels_floor_${etage}`, 'visibility', 'visible');
+            
             levels.forEach((level) => {
                 map.setLayoutProperty(`room_walls_${level}`, 'visibility', etage === level ? 'visible' : 'none');
                 map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);

@@ -322,7 +322,7 @@
       "properties": {
         "@id": "way/1206597534",
         "base_height": -2.4,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 10.9,
         "indoor": "room",
         "level": "-1-2",
@@ -447,7 +447,7 @@
       "properties": {
         "@id": "way/1206597536",
         "base_height": 0.0,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 1.0,
         "indoor": "room",
         "level": "0",
@@ -1491,7 +1491,7 @@
         "@id": "way/1206597583",
         "access": "no",
         "base_height": 0.0,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 1.0,
         "indoor": "room",
         "level": "0",
@@ -1737,7 +1737,7 @@
       "properties": {
         "@id": "way/1206597588",
         "base_height": -1.9,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 0.02,
         "indoor": "room",
         "level": "-1;0",
@@ -1826,7 +1826,7 @@
       "properties": {
         "@id": "way/1206597590",
         "base_height": 0.0,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 1.0,
         "indoor": "room",
         "level": "0",
@@ -2138,7 +2138,7 @@
       "properties": {
         "@id": "way/1206597597",
         "base_height": 1.0,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 7.9,
         "indoor": "room",
         "level": "0;1",
@@ -2989,7 +2989,7 @@
       "properties": {
         "@id": "way/1206621688",
         "base_height": -2.5,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 7.9,
         "indoor": "room",
         "level": "-1-1",
@@ -4841,7 +4841,7 @@
       "properties": {
         "@id": "way/1207759812",
         "base_height": 1.0,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 7.449999999999999,
         "indoor": "room",
         "level": "0;1",
@@ -8162,7 +8162,7 @@
       "properties": {
         "@id": "way/1208306292",
         "base_height": 1.0,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 7.9,
         "indoor": "room",
         "level": "0",
@@ -8527,7 +8527,7 @@
       "properties": {
         "@id": "way/1208306308",
         "base_height": 1.0,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 7.449999999999999,
         "indoor": "room",
         "level": "0;1",
@@ -9473,7 +9473,7 @@
       "properties": {
         "@id": "way/1308441297",
         "base_height": 0.0,
-        "colour": "yellow",
+        "colour": "#acacac",
         "height": 10.9,
         "indoor": "room",
         "level": "0-2",
