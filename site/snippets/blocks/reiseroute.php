@@ -208,7 +208,7 @@
         });
 
 
-        twoD = false;
+        twoD = true;
 
         // Zoom- und Rotationssteuerelemente hinzufügem
         var nav = new mapboxgl.NavigationControl();
@@ -519,6 +519,10 @@
     function setTwoD(){
         //map.dragRotate.disable(); //disable rotation
         //map.touchZoomRotate.disableRotation(); //disable rotation
+        if(etage = 'ALLE'){
+            etage = '0';
+        }
+
         twoD = true;
         map.dragRotate.disable();
         map.setLayoutProperty(`room_labels_floor_${etage}`, 'visibility', 'visible');
@@ -543,6 +547,14 @@
             map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
             map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
                 
+        });
+
+        //EtagenKopffarbe der Ausgewählten etage richtig setzen
+        levels.forEach((level) => {
+            var floor_button = document.getElementById(`floor_${level}`);
+            if(level == etage){
+                floor_button.style.backgroundColor = "#0011DC";
+            }
         });
 
         toggleFloor(); 
@@ -592,11 +604,18 @@
                 var other_button = document.getElementById(`floor_${otherLevel}`);
                 other_button.style.backgroundColor = "#0078FF"; // Ihre ursprüngliche Farbe hier
             });
-            
             // Die Farbe des angeklickten Knopfes ändern
-            etage = level;
-            floor_button.style.backgroundColor = "#0011DC";
-            toggleFloor(); 
+            if(etage == level){
+                if(!twoD){
+                    alleEtagenAnzeigen();
+                }
+                
+            } else{
+                etage = level;
+                floor_button.style.backgroundColor = "#0011DC";
+                toggleFloor(); 
+            }
+            
         });
     });
 
@@ -633,9 +652,25 @@
                 }
             }
         }
-
         
     };
+
+    function alleEtagenAnzeigen(){
+        if(!twoD){
+            etage = 'ALLE';
+            raumnummernVerstecken();
+            waendeVerstecken();
+            for (var i = 0; i < 2; i++) {
+                i;
+                map.setLayoutProperty(`room_labels_floor_${i}`, 'visibility', 'visible');
+                map.setLayoutProperty(`hall_extrusion_${i}`, 'visibility', 'visible');
+                map.setLayoutProperty(`room_extrusion_${i}`, 'visibility', 'visible');
+                map.setLayoutProperty(`stair_extrusion_${i}`, 'visibility', 'visible');
+                map.setLayoutProperty(`floor_extrusion_${i}`, 'visibility', 'visible');
+            }
+        } 
+        
+    }
 
     // Raumsuche Knopf
     document.getElementById('search-button').addEventListener('click', function (evt) {
