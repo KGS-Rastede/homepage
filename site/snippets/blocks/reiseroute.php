@@ -140,7 +140,7 @@ echo ($features);
       
     const map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/mapbox/streets-v12',
+        style: 'mapbox://styles/mapbox/outdoors-v12',
         //center: [8.1964, 53.2442],//Diesen Teil nutzen, um Keine Animation zu haben
         //zoom: 18.5, //Diesen Teil nutzen, um Keine Animation zu haben
         center: [8.1964, 53.2442], //Diesen Teil nutzen, um eine Schöne Animation zu haben
@@ -161,9 +161,6 @@ echo ($features);
     //  Karte Laden
     // ---------------------------------------------------------
     map.on('load', () => {
-
-      
-
         // Die KGS-Rastede (Hauptgebäude dynamisch heranzoomen)
            map.fitBounds([
             [8.1960, 53.2435], // [lng, lat] - southwestern corner of the bounds
@@ -173,8 +170,12 @@ echo ($features);
             pitch: 50, // Behalte den aktuellen pitch
             bearing: 20, // Behalte den aktuellen bearing
             maxZoom: 18.5, // Optional: Begrenze den Zoom, damit er nicht zu weit herauszoomt
-            duration: 5000
+            duration: 4000
         });
+
+        setTimeout(() => {
+            setTwoD();
+        }, 4000); // Verzögerung zum Starten der zweiten Phase
 
         
         
@@ -509,12 +510,22 @@ echo ($features);
 
     // 2D button
     document.getElementById('toggle-2d').addEventListener('click', () => {
+        setTwoD();
+    });
+
+    
+    // 3D button
+    document.getElementById('toggle-3d').addEventListener('click', () => {
+        setThreeD();
+    });
+
+    function setTwoD(){
         //map.dragRotate.disable(); //disable rotation
         //map.touchZoomRotate.disableRotation(); //disable rotation
         twoD = true;
         map.dragRotate.disable();
         map.setLayoutProperty(`room_labels_floor_${etage}`, 'visibility', 'visible');
-        map.easeTo({ pitch: 0, zoom: 19 }); // Set pitch to 0 for 2D view and zoom out
+        map.easeTo({ pitch: 0, zoom: 18.7, duration: 1000}); // Set pitch to 0 for 2D view and zoom out
 
         //Höhe auf 0 setzen
         levels.forEach((level) => {
@@ -538,15 +549,13 @@ echo ($features);
         });
 
         toggleFloor(); 
+    }
 
-    });
-
-    // 3D button
-    document.getElementById('toggle-3d').addEventListener('click', () => {
+    function setThreeD(){
         twoD = false;
         map.dragRotate.enable(); //enable rotation
         map.touchZoomRotate.enableRotation(); //enable rotation
-        map.easeTo({ pitch: 50, zoom: 18 }); // Set pitch to 50 degrees for 3D view and zoom in
+        map.easeTo({ pitch: 50, zoom: 18, duration: 1000}); // Set pitch to 50 degrees for 3D view and zoom in
     
         //raumnummernVerstecken();
         waendeVerstecken();
@@ -571,7 +580,8 @@ echo ($features);
             map.setPaintProperty(`room_searched`, 'fill-extrusion-height', ['get', 'height']);
             map.setPaintProperty(`room_searched`, 'fill-extrusion-base', ['get', 'base_height']);
         });
-    });
+    }
+
 
 
     // Etage-Knöpfe
