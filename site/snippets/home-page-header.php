@@ -86,7 +86,7 @@
 
 
 
-  <?php if (!page('wichtige_informationen/')->toggle()->bool() === true) :
+  <?php if (!page('wichtige-informationen')->toggle()->bool() === true) :
 
     //Ein blauer Balken wird gezeigt wenn es keine Banner gibt. Siehe snippets/box-notfall.php 
   ?>
