@@ -41,50 +41,126 @@
     #map-container {
       position: relative;
       width: 100%;
-      height: 58vh;
-      overflow: scroll; 
+      height: 60vh;
+      overflow: hidden; 
     }
     #map {
-      height: 500px;
-    }
+    width: 100%; /* Breite auf 100% des Containers setzen */
+    height: 87%; /* Höhe auf 100% des Containers setzen */
+}
+    /*==========Knöpfe für die 2D und 3D Ansicht==========*/
     #perspective-buttons {
         position: absolute;
         top: 10px;
         left: 10px;
         z-index: 1;
+        display: flex; /* Flexbox für einfache Ausrichtung */
+        gap: 10px; /* Abstand zwischen den Knöpfen */
+        background-color: #f5f5f5; /* Hintergrund für den Container */
+        padding: 6px; /* Kompaktes Padding für den Container */
+        border-radius: 8px; /* Abgerundete Ecken für modernen Look */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Leichter Schatten für Tiefe */
     }
+
+    #perspective-buttons button {
+        background-color: #ffffff; /* Weißer Hintergrund für die Buttons */
+        color: #333333; /* Dunkelgrauer Text */
+        border: none; /* Kein Rahmen für einen sauberen Look */
+        border-radius: 6px; /* Leicht abgerundete Ecken */
+        padding: 6px 12px; /* Kompaktes Padding für kleinere Buttons */
+        cursor: pointer; /* Zeiger-Cursor für Interaktivität */
+        font-family: Arial, sans-serif; /* Moderne, serifenlose Schriftart */
+        font-size: 12px; /* Kleinere Schriftgröße für einen schlankeren Look */
+        transition: background-color 0.3s, transform 0.3s; /* Sanfte Übergänge bei Hover */
+    }
+
+    #perspective-buttons button:hover {
+        background-color: #e0e0e0; /* Hellgrauer Hintergrund bei Hover */
+        transform: translateY(-2px); /* Leichter Hover-Effekt */
+    }
+
+    #perspective-buttons button:active {
+        background-color: #d0d0d0; /* Dunkleres Grau bei Aktivierung */
+        transform: translateY(0); /* Rückstellung des Hover-Effekts */
+    }
+
+    /*==========Knöpfe für die Etagenauswahl==========*/
     #floor-buttons {
         position: absolute;
-        top: 130px;
+        top: 75px;
         right: 10px;
         z-index: 1;
         display: flex;
         flex-direction: column;
         align-items: flex-end;
+        background-color: #f5f5f5;
+        padding: 6px; /* Reduziertes Padding für den Container */
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
-    .circle {
-        border-radius: 50%; /* Ändere den Border-Radius auf 50% für Kreisform */
-        width: 50px; 
-        height: 50px; 
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    button {
-        margin: 5px;
-        padding: 10px 20px;
-        background-color: #0078FF;
-        color: #FFFFFF;
+    #floor-buttons button {
+        background-color: #ffffff;
+        color: #333333;
         border: none;
+        border-radius: 6px;
+        padding: 6px 12px; /* Reduziertes Padding für kleinere Buttons */
+        margin-bottom: 6px; /* Weniger Abstand zwischen den Buttons */
         cursor: pointer;
-        border-radius: 5px;
-        font-size: 18px; 
+        font-family: Arial, sans-serif;
+        font-size: 12px; /* Kleinere Schriftgröße */
+        transition: background-color 0.3s, transform 0.3s;
     }
-    #floor-label {
-        font-weight: bold;
-        text-align: center;
-        margin-bottom: 5px;
+    #floor-buttons button:hover {
+        background-color: #e0e0e0;
+        transform: translateY(-2px);
     }
+    #floor-buttons button:active {
+        background-color: #d0d0d0;
+        transform: translateY(0);
+    }
+    /*==========Suchleiste==========*/
+    .search-container {
+        display: flex;
+        align-items: center;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        max-width: 400px; /* Maximale Breite der Suchleiste */
+        margin: 20px auto; /* Zentriert die Suchleiste auf der Seite */
+    }
+    .search-input {
+        flex: 1;
+        padding: 10px 15px;
+        border: 1px solid #cccccc;
+        border-radius: 8px 0 0 8px;
+        font-size: 16px;
+        outline: none; /* Entfernt den Standard-Fokus-Rand */
+        transition: border-color 0.3s;
+    }
+    .search-input:focus {
+        border-color: #999999; /* Farbe bei Fokussierung */
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Sanfte Schatten bei Fokussierung */
+    }
+    .search-button {
+        padding: 10px 15px;
+        background-color: #f0f0f0; /* Sehr heller Grauton für einen modernen Look */
+        color: #333333; /* Dunkelgrauer Text für Kontrast */
+        border: 1px solid #dddddd; /* Heller Graufarbener Rand */
+        border-radius: 0 8px 8px 0;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s, border-color 0.3s, transform 0.2s;
+    }
+    .search-button:hover {
+        background-color: #e0e0e0; /* Etwas dunklerer Grauton beim Hover */
+        border-color: #cccccc; /* Dunklerer Rand beim Hover */
+    }
+    .search-button:active {
+        background-color: #d0d0d0; /* Noch dunklerer Grauton beim Klicken */
+        border-color: #bbbbbb; /* Noch dunklerer Rand beim Klicken */
+        transform: translateY(1px); /* Leichter Klick-Effekt */
+    }
+        
     .marker {
       display: block;
       border: none;
@@ -109,8 +185,10 @@
     <button id="floor_0" class="circle">0</button>
     <button id="floor_-1" class="circle">-1</button>
   </div>
-<input type="text" id="search-input" placeholder="Raum suchen">
-<button id="search-button">Suchen</button>
+  <div class="search-container">
+        <input type="text" class="search-input" id="searchInput" placeholder="Suchbegriff eingeben...">
+        <button class="search-button" id="searchButton">Suchen</button>
+    </div>
 
 <!-- ========================================================= -->
 <!-- Skripte -->
@@ -667,7 +745,7 @@
         levels.forEach((level) => {
             var floor_button = document.getElementById(`floor_${level}`);
             if(level == etage){
-                floor_button.style.backgroundColor = "#0011DC";
+                floor_button.style.backgroundColor = "#d0d0d0";
             }
         });
 
@@ -716,19 +794,19 @@
             // Alle Knöpfe auf die ursprüngliche Farbe zurücksetzen
             levels.forEach((otherLevel) => {
                 var other_button = document.getElementById(`floor_${otherLevel}`);
-                other_button.style.backgroundColor = "#0078FF"; // Ihre ursprüngliche Farbe hier
+                other_button.style.backgroundColor = "#ffffff"; // Ihre ursprüngliche Farbe hier
             });
             // Die Farbe des angeklickten Knopfes ändern
             if(etage == level){
                 if(!twoD){
                     alleEtagenAnzeigen();
                 } else{
-                    floor_button.style.backgroundColor = "#0011DC";
+                    floor_button.style.backgroundColor = "#d0d0d0";
                 }
                 
             } else{
                 etage = level;
-                floor_button.style.backgroundColor = "#0011DC";
+                floor_button.style.backgroundColor = "#d0d0d0";
                 toggleFloor(); 
             }
             
@@ -789,9 +867,24 @@
     }
 
     // Raumsuche Knopf
-    document.getElementById('search-button').addEventListener('click', function (evt) {
-        gesuchterRaum = document.getElementById('search-input').value;
+    // Funktion zum Auslösen der Suche
+    function performSearch() {
+        var query = document.getElementById('searchInput').value;
+        console.log("Suchbegriff:", query); // Hier wird die Suche ausgeführt
+        // Füge hier den Code hinzu, um die Suche durchzuführen
+        gesuchterRaum = query;
         raumsuchen(gesuchterRaum)
+    }
+
+    // Event Listener für den Suchknopf
+    document.getElementById('searchButton').addEventListener('click', performSearch);
+
+    // Event Listener für die Enter-Taste im Suchfeld
+    document.getElementById('searchInput').addEventListener('keypress', function (e) {
+        if (e.key === 'Enter') {
+            e.preventDefault(); // Verhindert das Standard-Enter-Verhalten
+            performSearch(); // Führt die Suche aus
+        }
     });
 
     function raumsuchen(searchTerm) {
@@ -878,7 +971,7 @@
                                 // Ändere die Knopffarben hier entsprechend der ausgewählten Etage
                                 levels.forEach((otherLevel) => {
                                     var floor_button = document.getElementById(`floor_${otherLevel}`);
-                                    floor_button.style.backgroundColor = otherLevel === etage ? "#0011DC" : "#0078FF";
+                                    floor_button.style.backgroundColor = otherLevel === etage ? "#d0d0d0" : "#ffffff";
                                 });
                             }
                         }
