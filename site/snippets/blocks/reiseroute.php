@@ -138,10 +138,10 @@ echo ($features);
     const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/outdoors-v12',
-        //center: [8.1964, 53.2442],//Diesen Teil nutzen, um Keine Animation zu haben
-        //zoom: 18.5, //Diesen Teil nutzen, um Keine Animation zu haben
-        center: [8.1964, 53.2442], //Diesen Teil nutzen, um eine Schöne Animation zu haben
-        zoom: 19, //Diesen Teil nutzen, um eine Schöne Animation zu haben
+        center: [8.1964, 53.2442],//Diesen Teil nutzen, um Keine Animation zu haben
+        zoom: 18.5, //Diesen Teil nutzen, um Keine Animation zu haben
+        //center: [8.1964, 53.2442], //Diesen Teil nutzen, um eine Schöne Animation zu haben
+        //zoom: 19, //Diesen Teil nutzen, um eine Schöne Animation zu haben
         pitch: 50,
         bearing: 20,
         antialias: true,
@@ -172,8 +172,7 @@ echo ($features);
 
         setTimeout(() => {
             setTwoD();
-        }, 1100); // Verzögerung zum Starten der zweiten Phase
-
+        }, 1000); // Verzögerung zum Starten der zweiten Phase 
         
         
         /*

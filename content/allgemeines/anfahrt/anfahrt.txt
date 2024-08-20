@@ -6,11 +6,11 @@ Main-text: So erreichen Sie uns
 
 ----
 
-Adresse-s1: [{"content":{"text":"Hauptgeb\u00e4ude: Jahrg\u00e4nge 7-13<br>Wilhelmstra\u00dfe 5<br>26180 Rastede"},"id":"3025c392-f192-4720-835d-e8659be5a77a","isHidden":false,"type":"text"}]
+Adresse-s1: [{"content":{"text":"Hauptgeb\u00e4ude: Jahrg\u00e4nge 7-13<br><hr style=\"margin: 2px 0;\">Wilhelmstra\u00dfe 5<br>26180 Rastede"},"id":"3025c392-f192-4720-835d-e8659be5a77a","isHidden":false,"type":"text"}]
 
 ----
 
-Adresse-s2: [{"content":{"text":"Feldbreite: Jahrg\u00e4nge 5-6<br>Feldbreite 16<br>26180 Rastede"},"id":"18f02a10-3b63-4d5c-8679-7ca9bb52425c","isHidden":false,"type":"text"}]
+Adresse-s2: [{"content":{"text":"Feldbreite: Jahrg\u00e4nge 5-6<br><hr style=\"margin: 2px 0;\">Feldbreite 16<br>26180 Rastede"},"id":"18f02a10-3b63-4d5c-8679-7ca9bb52425c","isHidden":false,"type":"text"}]
 
 ----
 

@@ -1,12 +1,14 @@
 <head>
     <style>
+    
 .outer-box {
-    border: 3px solid #999;  /* Stärkerer Rahmen für die große Box */
-    padding: 30px;           /* Mehr Innenabstand für die große Box */
+    border: 3px solid #bbb;  /* Stärkerer Rahmen für die große Box */
+    padding: 5px;           /* Mehr Innenabstand für die große Box */
     margin: 20px 0;          /* Außenabstand um die große Box */
-    background-color: #e0e0e0; /* Hellere Hintergrundfarbe für die große Box */
+    background-color: #efefef; /* Hellere Hintergrundfarbe für die große Box e0e0e0*/
     border-radius: 15px;     /* Abgerundete Ecken für die große Box */
 }
+
 
 .inner-box {
     border: 2px solid #ccc;  /* Rahmen für die kleinen Boxen */
