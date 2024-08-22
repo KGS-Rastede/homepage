@@ -175,6 +175,7 @@ echo ($features);
         border-radius: 50%;       /* Macht den Marker rund */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Schatten für Tiefe */
         overflow: hidden;         /* Verhindert Überlauf des Bildes */
+        cursor: pointer
     }
 
     .marker div {
