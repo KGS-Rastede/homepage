@@ -45,9 +45,7 @@ Haupttag: Technik
 
 ----
 
-Hintergrundbild:
-
-- dsc_0148.jpg
+Hintergrundbild: - dsc_0148.jpg
 
 ----
 
@@ -60,3 +58,7 @@ Sidebar:
 - 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=154'
   name: Kerncurriculum Realschule
+
+----
+
+Uuid: cEjdWEWdG3mMMBSt

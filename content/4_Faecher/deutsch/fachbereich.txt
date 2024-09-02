@@ -6,11 +6,11 @@ Bezeichnung: Fachbereichsleiterin
 
 ----
 
-Namefbl: Frau Wohltmann
+Namefbl: Frau Oehne-Berdau
 
 ----
 
-Email: woh@kgs-rastede.eu
+Email: oeh@kgs-rastede.eu
 
 ----
 
@@ -20,13 +20,12 @@ Text:
 
 Pages:
 
-- Faecher/deutsch/deutsch
-- >
-  Faecher/deutsch/deutsch-als-zweitsprache-daz
+- page://WKnyGGCv3WUaYChi
+- page://5yUcoZaDuoZW4pXu
 
 ----
 
-Symbolbild: - deutsch.jpg
+Symbolbild: - file://xG0xeVBJrrJoKXO0
 
 ----
 

@@ -10,9 +10,7 @@ Text: [{"content":{"text":"<p><strong>Hauswirtschaft in Jg. 6-8<\/strong><\/p>"}
 
 ----
 
-Gallery:
-
-- katie-smith-uqs1802d0cq-unsplash.jpg
+Gallery: - katie-smith-uqs1802d0cq-unsplash.jpg
 
 ----
 
@@ -28,9 +26,7 @@ Haupttag: Hauswirtschaft
 
 ----
 
-Hintergrundbild:
-
-- katie-smith-uqs1802d0cq-unsplash.jpg
+Hintergrundbild: - katie-smith-uqs1802d0cq-unsplash.jpg
 
 ----
 
@@ -43,3 +39,7 @@ Sidebar:
 - 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=156'
   name: Kerncurriculum Realschule
+
+----
+
+Uuid: X5Sma2PHJ7CxUcGR

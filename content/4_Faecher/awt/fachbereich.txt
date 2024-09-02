@@ -2,15 +2,15 @@ Title: AWT
 
 ----
 
-Bezeichnung: Fachbereichsleiter
+Bezeichnung: Fachbereichsleiterin
 
 ----
 
-Namefbl: Herr Henken
+Namefbl: Frau Akbaşak
 
 ----
 
-Email: he@kgs-rastede.eu
+Email: akb@kgs-rastede.eu
 
 ----
 
@@ -20,13 +20,13 @@ Text:
 
 Pages:
 
-- Faecher/awt/hauswirtschaft
-- Faecher/awt/technik
-- Faecher/awt/wirtschaft
+- page://X5Sma2PHJ7CxUcGR
+- page://cEjdWEWdG3mMMBSt
+- page://IdTp2Mpp3OMFeVIe
 
 ----
 
-Symbolbild: - awt.jpg
+Symbolbild: - file://dnpZHCMY7mLYA8Cz
 
 ----
 

@@ -2,15 +2,15 @@ Title: Sport
 
 ----
 
-Bezeichnung: Fachbereichsleiterin
+Bezeichnung: Fachbereichsleiter
 
 ----
 
-Namefbl: Frau Müller-Pulsfort
+Namefbl: Herr Arzenscheg (komm.)
 
 ----
 
-Email: mp@kgs-rastede.eu
+Email: as@kgs-rastede.eu
 
 ----
 
@@ -18,11 +18,11 @@ Text:
 
 ----
 
-Pages: - Faecher/Sport
+Pages: - page://06gEoguQZdduASYA
 
 ----
 
-Symbolbild: - sport.jpg
+Symbolbild: - file://gdAkW0osltSbLYLA
 
 ----
 

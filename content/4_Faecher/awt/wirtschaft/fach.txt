@@ -48,3 +48,7 @@ Sidebar:
 - 
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=205'
   name: Kerncurriculum gymnasiale Oberstufe
+
+----
+
+Uuid: IdTp2Mpp3OMFeVIe
