@@ -7,35 +7,34 @@
 
     <?php foreach ($page->children() as $fb): ?>
 
-      <div class="rounded-lg bg-gray-50 shadow-sm ring-1 ring-gray-900/5 mt-2">
-        <dl class="flex flex-wrap">
-          <div class="flex-auto pl-6 pt-6">
-            <?php
-            $images = $fb->symbolbild()->toFiles();
-            foreach ($images as $image): ?>
-              <img src="<?= $image->url() ?>" alt="">
-            <?php endforeach ?>
-            <dt class="text-2xl mt-2 font-semibold leading-6 text-gray-900">
-              <?= $fb->title() ?>
-            </dt>
-            <dd class="mt-1 text-xl leading-6 text-gray-900">
-              <?= $fb->bezeichnung() ?>
-              <?= $fb->namefbl() ?>
-            </dd>
-          </div>
-        </dl>
-        <div class="mt-2 border-gray-900/5 px-6 py-2">
+      <!-- Work List -->
+      <div class="space-y-3 rounded-lg bg-gray-200/75 p-3.5 dark:bg-gray-700/75">
+        <div class="flex items-center justify-between">
+          <h3 class="font-semibold text-xl"><?= $fb->title() ?></h3>
+
+        </div>
+        <p class="text-base font-medium text-gray-600 dark:text-gray-400">
+          <?= $fb->bezeichnung() ?>
+        </p>
+        <p class="text-lg font-medium text-gray-600 dark:text-gray-400">
+          <?= $fb->namefbl() ?>
+        </p>
+        <div class="space-y-2">
           <?php
           $relatedPages = $fb->pages()->toPages();
           foreach ($relatedPages as $relatedPage): ?>
-            <div class="mt-2 flex w-full flex-none gap-x-4 border-t border-gray-900/5 px-6 pt-6 hover:bg-slate-100">
-              <a href="<?= $relatedPage->url() ?>">
-                <?= $relatedPage->title() ?>
-              </a>
-            </div>
+            <a href="<?= $relatedPage->url() ?>"
+              class="flex flex-col overflow-hidden rounded-lg bg-white shadow-sm hover:opacity-75 active:opacity-100 dark:bg-gray-800 dark:text-gray-200">
+              <div class="space-y-2 p-3 text-sm sm:p-4">
+                <div class="h-2 w-10"></div>
+                <p><?= $relatedPage->title() ?></p>
+              </div>
+            </a>
           <?php endforeach ?>
+
         </div>
       </div>
+      <!-- END Work List -->
 
     <?php endforeach; ?>
   </div>
