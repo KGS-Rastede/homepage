@@ -1,0 +1,33 @@
+Title: Elternabend JG. 7 zur Einführung der Tablets in 7.2
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wir laden herzlich ein zu einem Informationsabend zur Einführung digitaler Arbeitsgeräte im 2. Halbjahr des 7. Schuljahres.</p><p><strong>Termin: 30.09.2024</strong></p><p><strong>Zeit: 19:00 Uhr</strong></p><p><strong>Ort: Neue Aula der KGS Rastede</strong></p>"},"id":"0f2c9bb7-e67c-4e36-9c07-5b7987f72095","isHidden":false,"type":"text"}],"id":"dc27ed52-6b9f-4048-98a4-e729e1687003","width":"1/1"}],"id":"4cae4ecb-8e1a-43c8-8466-f4368f9ddba0"}]
+
+----
+
+Date: 2024-09-15 20:20:00
+
+----
+
+Datumstartseite: 2025-01-15 20:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: DSKkkP8mjaVg1FCj

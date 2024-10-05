@@ -1,0 +1,33 @@
+Title: Nachhaltige Nutzung von Mooren – Die Biologiekurse des 13. Jahrgangs besuchen Moorflächen in Hankhausen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://EGgkSXJebK66faVh"],"src":"","alt":"","caption":"Biologiekurse des 13.Jahrgangs","link":"","ratio":"","crop":"false","orientation":""},"id":"3377a49c-8a16-439e-b3d3-58ccb0924c83","isHidden":false,"type":"image"}],"id":"5949c61d-13e0-4388-9238-3580fa6a850a","width":"1/1"}],"id":"28f7825e-deb1-445e-b606-e8db319e432e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 29.08.2024 machten sich die drei Biologieleistungskurse des 13. Jahrgangs bei bestem Wetter auf den Weg in das Hankhauser Moor. Dort erwartete sie Frau Kumar von der Firma Koch aus Ramsloh, um ihnen eine sog. Paludi-Kultur zu zeigen und zu erklären.</p><p>Als Paludikultur („palus“ – lat. „Sumpf, Morast“) wird die land- und forstwirtschaftliche Nutzung nasser Hoch- und Niedermoore bezeichnet. Die Grundidee besteht darin, Moore nach ihrer Trockenlegung wiederzuvernässen, um dadurch die Freisetzung von Kohlenstoffdioxid in die Atmosphäre zu reduzieren. Gleichzeitig werden auf diesen wiedervernässten Flächen moortypische Pflanzen wie das Torfmoos angepflanzt und geerntet. Auf diese Weise soll eine nachhaltige Nutzung von Moorstandorten, die Klimaschutz und landwirtschaftliche Interessen gleichermaßen berücksichtigt, erreicht werden.</p><p>Die Schüler*innen hatten bereits im Unterricht die Bedeutung von Mooren als Speicher für Kohlenstoff kennengelernt sowie die Konflikte erörtert, die sich aus dem Schutz von Mooren ergeben. In Hankhausen erlebten sie nun eine Paludi-Kultur-Versuchsfläche direkt vor der eigenen Haustür. Frau Kumar erläuterte vor Ort nicht nur anschaulich die typischen Kennzeichen von Mooren, sondern auch die Schritte, die nötig sind, um eine Paludi-Kultur anzulegen. Besonders deutlich wurde, dass die Umsetzung dieser Maßnahme zum Schutz des Klimas u.a. durch die vielen Zuständigkeiten – Land, Bund, EU… – kein leichtes Unterfangen ist und viel Geduld erfordert. Der Teufel steckt, wie so häufig, im Detail.</p>"},"id":"c187e19a-404d-404b-884e-e5c482b5a48c","isHidden":false,"type":"text"}],"id":"c26d8d26-dd9d-4332-85e9-98e4edb53d4c","width":"1/1"}],"id":"a009c5ff-e266-42f0-bd84-90ad5a73c12f"}]
+
+----
+
+Date: 2024-09-08 20:55:00
+
+----
+
+Datumstartseite: 2025-01-08 20:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Elke Sander
+
+----
+
+Tags: Biologie, NTW
+
+----
+
+Downloads: 
+
+----
+
+Uuid: tUiCXixWjlfYd7Bg

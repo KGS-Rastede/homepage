@@ -1,0 +1,33 @@
+Title: Eltern-Coaching: Das Kind auf dem Weg ins Berufsleben unterstützen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Digitaler Informationsabend für Eltern am 18. September 2024 von 19:00 bis 20:30 Uhr.</p>"},"id":"8e9a9aa2-dd24-4c86-a584-40fb5b93754a","isHidden":false,"type":"text"}],"id":"2186bf30-b847-49d6-8adb-4cd4e8c3fa3e","width":"1/1"}],"id":"6279faa4-b191-4052-8075-cd4226a04ee2"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://685aquDQMPEuyNyg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c1b79ed7-1c96-43fe-b2ad-b4fc4744f097","isHidden":false,"type":"image"}],"id":"61aa4f9a-cc6d-4a4f-b739-2c0a02c8ce7c","width":"1/1"}],"id":"77a469f1-c9f1-4363-81ee-14a7d727a83c"}]
+
+----
+
+Date: 2024-09-13 08:50:00
+
+----
+
+Datumstartseite: 2025-01-13 08:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: eltern, berufseinstieg, elternabend, infoabend, vocatium, berufsinformation, ausbildung, IfT
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 2guAahlaTSsaiZkZ

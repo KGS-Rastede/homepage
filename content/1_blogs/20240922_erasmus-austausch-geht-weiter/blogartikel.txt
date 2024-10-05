@@ -1,0 +1,33 @@
+Title: Erasmus-Austausch geht weiter
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://RicdB0QmhOPaq6Wk"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"be40b6a2-ea45-4159-ab78-a8dd05161a57","isHidden":false,"type":"image"}],"id":"77a773ca-60fd-46ba-9f15-8aeb3a1801b9","width":"1/1"}],"id":"74811bcb-6198-4d50-858b-43c0560139d8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Nun sind sie da! <br>Velkommen til Rastede. Godt du er her! Die dänischen Gastschülerinnen und Gastschüler sind angekommen. Schön, dass sie da sind! <br><br>An einem wunderschönen sonnigen Sonntagabend durften wir sie nach fast zehnstündiger Fahrt mit dem Flixbus und der Bahn aus Ballerup bei Kopenhagen am Bahnhof in Rastede begrüßen. <br><br>Sie werden in der jetzigen Woche an unserem Unterricht teilnehmen, Zeit mit uns verbringen, einen deutsch-dänischen, kulturellen Spiele- und Buffetabend mit uns veranstalten, sowie das Ammerland und all seine schönen Seiten kennen- und hoffentlich lieben lernen. <br><br>Am Dienstag geht es für einen Tag nach Norderney an die friesische Küste, am Donnerstag erkunden sie auf eigene Faust Groningen und am Freitag zeigen wir ihnen die Bremer Innenstadt mit einer geführten Rallye und einem Besuch im Universum, bevor es samstagfrüh wieder in die Heimat geht. <br><br>Aber davor darf natürlich noch einmal am Abschiedsabend gefeiert werden, entweder stilecht auf dem Oldenburger Kramermarkt oder im privaten Kreise der Gastfamilien.<br><br>Ein großer Dank geht an alle Gastfamilien, die sich bereit erklärt haben, eine/n Gastschüler/in aufzunehmen. <br><br>Habt viel Spaß, gute Gespräche auf Englisch oder Dänisch, vielleicht sogar auf Deutsch, schöne Erfahrungen und einfach eine unvergessliche Zeit mit neuen Freunden in der kommenden Woche!<br><br>Velkommen og god fornøjelse!<br><br>Viele Grüße<br>Eure #Europe-AG!</p>"},"id":"ee8ec1f0-cea0-4047-8ed4-f3dd9197ed39","isHidden":false,"type":"text"}],"id":"55853034-f2b2-4879-a7a1-dad1838ec4d4","width":"1/1"}],"id":"0bf8e05e-9ec7-4bfc-bd9b-0ba46106c5bc"}]
+
+----
+
+Date: 2024-09-22 20:15:00
+
+----
+
+Datumstartseite: 2025-01-22 20:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Europe-AG
+
+----
+
+Tags: AGs, Austausch, Erasmus, Dänemark
+
+----
+
+Downloads: 
+
+----
+
+Uuid: eCbPVSsXVavqlWzF

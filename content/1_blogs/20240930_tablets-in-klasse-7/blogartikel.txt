@@ -1,0 +1,33 @@
+Title: Tablets in Klasse 7
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Hier geht es zu den <a href=\"https://kgs-rastede.de/blogs/ipadbestellung-an-kgs-rastede-fuer-den-aktuellen-6-und-7-jahrgang\">Informationen</a>.</p>"},"id":"d1b7488d-7330-47e3-b41e-0ec569c2f644","isHidden":false,"type":"text"}],"id":"0e9c3e90-0843-460d-a48a-433f3ed8bce9","width":"1/1"}],"id":"149e38a0-03a2-451d-8389-e75e12031a82"}]
+
+----
+
+Date: 2024-09-30 19:30:00
+
+----
+
+Datumstartseite: 2025-01-30 19:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: EU1Paddasdw47kYD

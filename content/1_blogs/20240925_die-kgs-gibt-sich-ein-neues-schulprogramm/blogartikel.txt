@@ -1,0 +1,33 @@
+Title: Die KGS gibt sich ein neues Schulprogramm
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In der Gesamtkonferenz am 24.09. hat sich die Schulgemeinschaft mit einer großen Mehrheit für den Entwurf der Arbeitsgruppe Schulprogramm ausgesprochen. Es dient dazu, sichtbar zu machen, was wir als Schule bereits unternehmen, um unser Leitbild mit Leben zu füllen und in wirksame Handlungen zu übersetzen. Gleichzeitig werden darin Entwicklungsfelder für die nächsten zwei Jahre definiert. Dann wird das Programm evaluiert und aktualisiert werden. Das Programm findet man hier: <a href=\"https://kgs-rastede.de/schule/schulprogramm\">https://kgs-rastede.de/schule/schulprogramm</a> </p><p></p>"},"id":"14094b19-3dab-4157-b95f-e7ef4482fd2d","isHidden":false,"type":"text"}],"id":"e087275d-753e-49a1-9fb3-d60ee15ecede","width":"1/1"}],"id":"dac426df-370c-47b5-96d6-efd68b7e9639"}]
+
+----
+
+Date: 2024-09-25 17:10:00
+
+----
+
+Datumstartseite: 2025-01-25 17:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: Topartikel, Schulleitung
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 4lH7TM1QCPZEnGyw

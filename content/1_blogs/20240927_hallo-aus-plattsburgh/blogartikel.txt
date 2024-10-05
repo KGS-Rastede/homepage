@@ -1,0 +1,33 @@
+Title: USA Austausch
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://VO0qRxEwXapiUA3N"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"aee65a25-d659-4c81-9c0c-47e4fff8e5a2","isHidden":false,"type":"image"}],"id":"95eff801-ebbc-44c0-b784-29f3bd3fb9a2","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://Cvpvv1tvlSa5Aukp"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c181e62d-f483-462f-a900-15bbb9da71ff","isHidden":false,"type":"image"}],"id":"1360fe6a-3e9d-4535-b50f-5a456c6f526f","width":"1/2"}],"id":"1d52610d-7d4e-4ca1-8f54-77d3e8de6277"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Hallo aus Plattsburgh!<br>Wir sind nach drei Nächten in New York City gut in Plattsburgh, NY angekommen. Nach der ersten Nervosität haben wir uns alle an das High School-Leben gewöhnt.<br>Wir wünschen euch noch eine schöne Schulwoche und genießt dann die Ferien.<br>Viele Grüße aus den USA<br>ZA, ES und die GAPPies</p>"},"id":"fe8cb3db-3d17-4399-b526-67fbc93b247a","isHidden":false,"type":"text"}],"id":"b65e482b-961d-4fd5-bdec-844ea953468c","width":"1/1"}],"id":"c8615a6e-9a77-409e-8946-8ae8c4d58a0b"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://GEythepySomYOgHE"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"b09ae75d-773d-4e34-8ad3-6df47b9cf7d7","isHidden":false,"type":"image"}],"id":"8885d48e-368f-4767-91a0-8f390e86f779","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://AtARkihUjC3Zzt79"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"b9163e74-4cd3-4621-b4f2-bbcd2b94b310","isHidden":false,"type":"image"}],"id":"f484e89f-b992-45f5-adcc-433f86664504","width":"1/2"}],"id":"23e78f7e-837c-4ba3-8d39-80004aca0afc"}]
+
+----
+
+Date: 2024-09-27 11:10:00
+
+----
+
+Datumstartseite: 2025-01-27 11:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Daniela von Essen
+
+----
+
+Tags: Austausch, Englisch, Fremdsprachen, USA, Ausland, Projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: HAbRgbIGBa6YgpIa
