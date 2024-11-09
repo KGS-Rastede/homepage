@@ -1,28 +1,27 @@
 {
-    "description": "Homepage der KGS Rastede",
-    "type": "project",
-    "keywords": [
-        "KGS Rastede",
-        "homepage",
-        "schule"
-    ],
-    "homepage": "https://www.kgs-rastede.de",
-    "authors": [
-        {
-            "name": "Carsten Niehaus",
-            "email": "ni@kgs-rastede.eu",
-            "homepage": "https://www.kgs-rastede.de"
-        }
-    ],
-    "require": {
-        "php": ">=8.2",
-        "getkirby/cms": ">=4.2",
-        "ragi96/table-field": "^1.1"
-    },
-    "config": {
-        "optimize-autoloader": true,
-        "allow-plugins": {
-            "getkirby/composer-installer": true
-        }
+  "description": "Homepage der KGS Rastede",
+  "type": "project",
+  "keywords": [
+    "KGS Rastede",
+    "homepage",
+    "schule"
+  ],
+  "homepage": "https://www.kgs-rastede.de",
+  "authors": [
+    {
+      "name": "Carsten Niehaus",
+      "email": "ni@kgs-rastede.eu",
+      "homepage": "https://www.kgs-rastede.de"
     }
+  ],
+  "require": {
+    "php": ">=8.2",
+    "getkirby/cms": ">=4.4"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  }
 }
