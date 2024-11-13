@@ -80,6 +80,21 @@ Gegebenfalls muss man aber noch den Pfad ("PATH") unter Windows einrichten. Das 
 
 Ein sehr gute Methode ist [DDEV](https://getkirby.com/docs/cookbook/development-deployment/ddev) mit Docker. Dann muss man weder MAMP noch WAMP etc installieren, alle Pakete sind aktuell. Die Anleitung von Kirby funktioniert super.
 
+
+```bash
+ddev config --php-version=8.3 --omit-containers=db
+```
+```
+
+zum Reparieren hat schonmal geholfen:
+
+```bash
+sudo launchctl stop com.docker.vmnetd
+sudo launchctl unload /Library/LaunchDaemons/com.docker.vmnetd.plist
+sudo launchctl load /Library/LaunchDaemons/com.docker.vmnetd.plist
+sudo launchctl start com.docker.vmnetd
+```
+
 # Git
 
 Die Homepage wird mit Git verwaltet werden. Jeder, der mitmachen möchte, sollte also einen Account bei Gitlab haben. Bitte geh also auf [Gitlab](https://gitlab.com/cniehaus/homepage) lege einen Account an
