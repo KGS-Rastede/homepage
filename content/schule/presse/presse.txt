@@ -6,6 +6,88 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.ostfriesland.travel/veranstaltungen-in-ostfriesland/weihnachtsmarkt-in-der-kgs-rastede
+  name: Weihnachtsmarkt in der KGS Rastede
+  anfang: 'HOHOHO!Weihnachtsmarkt an der KGS  in den Räumen der KGS an der Wilhelmstraße.Es duftet schon weihnachtlich aus den Küchen der KGS. Es gibt Selbstgebackenes, Selbstgebasteltes, Musik, ... Da ist sicherlich auch die ein oder andere Geschenkidee dabei! Wir freuen uns auf eine rege Teilnahme! Bringt sie alle mit!!!'
+  datum: 2024-11-17
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/holocaust-ueberlebender-spricht-in-rastede-albrecht-weinberg-an-der-kgs_a_4,1,3101171438.html
+  name: 'Gedenken an Novemberpogrome: Albrecht Weinberg spricht über Holocaust-Erfahrungen mit Schülern der KGS'
+  anfang: >
+    Anlässlich des Gedenkens an die
+    Novemberpogrome sprach
+    Holocaust-Überlebender Albrecht
+    Weinberg mit Schülern der KGS Rastede
+    über seine Erfahrungen. Der 99-Jährige
+    überlebte mehrere Konzentrationslager
+    und Todesmärsche.
+  datum: 2024-11-14
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/ausbildungsmesse-in-rastede-kgs-bietet-schuelern-berufliche-orientierung_a_4,1,3077898204.html
+  name: 'Ausbildungsmesse in Rastede - 50 Unternehmen zeigen Schülern Berufsperspektiven auf'
+  anfang: >
+    In der Mehrzweckhalle Feldbreite in
+    Rastede präsentierten über 50
+    Unternehmen ihre Ausbildungsangebote.
+    Die Schüler konnten wertvolle Kontakte
+    knüpfen und ihre berufliche Zukunft
+    aktiv gestalten.
+  datum: 2024-11-11
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/gedenktag-in-rastede-fast-100-personen-erinnern-an-pogromnacht-im-residenzort_a_4,1,3070471246.html
+  name: 'Gedenktag in Rastede - Fast 100 Personen erinnern an Schrecken der Pogromnacht'
+  anfang: >
+    Gedenkgang in Rastede macht Station vor
+    den Häusern ehemaliger, jüdischer
+    Mitbürger und erinnert an die
+    Brutalität der Pogromnacht im
+    Residenzort. Die Aktion soll wiederholt
+    organisiert werden.
+  datum: 2024-11-10
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulen-im-ammerland-lehrermangel-und-schwankungen-bei-der-unterrichtsversorgung_a_4,1,2951650132.html
+  name: >
+    Immer wieder Ausfälle So steht es um
+    die Unterrichtsversorgung an Schulen im
+    Ammerland
+  anfang: >
+    Immer wieder fällt Unterricht aus,
+    obwohl die Schule im Ammerland eine
+    offizielle Unterrichtsversorgung von
+    97,2 Prozent aufweist? Dem
+    CDU-Landtagsabgeordneten Björn Thümler
+    war das eine Kleine Anfrage wert.
+  datum: 2024-10-29
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/10/29/repair-cafe-am-16-november/
+  name: Repair-Café am 16. November
+  anfang: >
+    Erstmals wird am 16. November auch ein
+    kleiner Verschenkemarkt in der KGS
+    eingerichtet
+  datum: 2024-10-29
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/10/22/luft-nach-oben-unterrichtsversorgung-in-rastede/
+  name: >
+    Luft nach oben? Unterrichtsversorgung in
+    Rastede
+  anfang: 'MdL Björn Thümler (CDU) stellt Anfrage an Landesregierung. Ergebnis: An den Schulen der Gemeinde Rastede bleibt die Zahl der Unterrichtsstunden unter der GEW-Forderung.'
+  datum: 2024-10-22
+  medium: rastederrundschau
+- 
+  link: >
     https://www.rasteder-rundschau.de/2024/09/30/kaskade-zeigt-aktualisierte-plakate-der-kgs-rastede/
   name: >
     Kaskade zeigt aktualisierte Plakate der
@@ -590,6 +672,13 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
+    https://www.h24notizie.com/2023/10/13/fondi-beach-litter-a-capratica-impegnati-nel-monitoraggio-anche-studenti-tedeschi/
+  name: 'Fondi, Beach Litter a Capratica: impegnati nel monitoraggio anche studenti tedeschi'
+  anfang: ""
+  datum: 2023-10-13
+  medium: sonstiges
+- 
+  link: >
     https://www.nwzonline.de/ammerland/kgs-rastede-anbau-fuer-mint-faecher-eingeweiht-aber-weiterhin-platznot_a_4,0,2760441141.html
   name: '4,4 Millionen Euro in Rastede investiert - Neuer Trakt setzt Maßstäbe für digitale Bildung '
   anfang: >
@@ -601,6 +690,18 @@ Pressenachrichten:
     weiterhin.
   datum: 2023-10-12
   medium: nwz
+- 
+  link: >
+    https://latinatu.it/beach-litter-legambiente-e-studenti-del-gobetti-libero-di-fondi-alla-raccolta-dei-rifiuti-in-spiaggia/
+  name: 'BEACH LITTER: LEGAMBIENTE E STUDENTI DEL GOBETTI-LIBERO DI FONDI ALLA RACCOLTA DEI RIFIUTI IN SPIAGGIA'
+  anfang: >
+    Beach Litter è una delle più
+    importanti ed articolate azioni
+    internazionali di Citizen Science sul
+    tema dei rifiuti spiaggiati, organizzata
+    in Italia da Legambiente
+  datum: 2023-10-11
+  medium: sonstiges
 - 
   link: >
     https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-bele-dietrich-als-letzte-organisatorin-uebriggeblieben_a_4,0,2415300847.html
