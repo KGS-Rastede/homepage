@@ -6,6 +6,199 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/schulentwicklung-in-rastede-schulelternrat-der-kgs-kritisiert-mangelnde-kommunikation_a_4,1,3695103484.html
+  name: 'Leserbrief zur Schulentwicklung - Rasteder Schulelternrat kritisiert schleppende Umsetzung'
+  anfang: >
+    Der Schulelternrat der Kooperativen
+    Gesamtschule Rastede kritisiert die
+    schleppende Umsetzung des Zukunftsplans
+    Schule. Die Ausschreibung hätte längst
+    erfolgen können, meint Vorsitzender
+    Hartwig Haßmann.
+  datum: 2025-01-13
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/foerderschule-ese-im-ammerland-landkreis-will-antrag-bis-auf-weiteres-ruhend-stellen_a_4,1,3637923532.html
+  name: 'Neue Förderschule in Rastede - Warum der Landkreis jetzt auf die Bremse tritt'
+  anfang: >
+    „Erhebliche Bedenken“ hat der
+    Landkreis Ammerland mit Blick auf eine
+    neue Förderschule in Rastede. Wenige
+    Tage vor der Sondersitzung des
+    Kreisschulausschusses erläutert die
+    Verwaltung nun ihre Gründe.
+  datum: 2025-01-08
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2025/01/07/dringender-bedarf-fuer-foerderschule-ese/
+  name: >
+    „Dringender Bedarf für Förderschule
+    ESE“
+  anfang: >
+    Auch der Schulelternrat der KGS Rastede
+    macht sich für die Einrichtung einer
+    Förderschule mit Schwerpunkt emotionale
+    und soziale Entwicklung (ESE) am
+    Standort Voßbarg stark
+  datum: 2025-01-07
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/foerderschule-ese-in-rastede-schulelternrat-der-kgs-rastede-schaltet-sich-in-diskussion-ein_a_4,1,3626359981.html
+  name: 'Diskussion um neue Förderschule in Rastede - Elternrat sieht dringenden Bedarf für Einrichtung'
+  anfang: >
+    Der Schulelternrat der KGS Rastede sieht
+    dringenden Bedarf für eine neue
+    Förderschule, durch die die
+    Regelschulen entlastet werden könnten.
+    Am 15. Januar berät der
+    Kreisschulausschuss erneut über das
+    Thema.
+  datum: 2025-01-06
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-erasmus-ag-und-bienenfairsteher-mit-nachhaltigspreis-ausgezeichnet_a_4,1,3569101080.html
+  name: 'Bilanz nach einem Jahr - Wie Rasteder Schüler sich für Nachhaltigkeit und Europa stark machen'
+  anfang: >
+    Seit gut einem Jahr gibt es an der KGS
+    Rastede eine Arbeitsgemeinschaft, in der
+    Schüler sich für Nachhaltigkeit und
+    Europa einsetzen. Was sie bisher
+    erreicht haben und wofür sie einen
+    Preis erhielten.
+  datum: 2025-01-01
+  medium: nwz
+- 
+  link: >
+    https://kvhs-ammerland.de/programm/kultur/kurs/NEU-Ausstellung-Deine-Anne-Ein-Maedchen-schreibt-Geschichte/O1018
+  name: 'NEU Ausstellung: Deine Anne – Ein Mädchen schreibt Geschichte'
+  anfang: >
+    Die Kooperative Gesamtschule Rastede
+    präsentiert im Juni die interaktive
+    Ausstellung „Deine Anne – Ein
+    Mädchen schreibt Geschichte“,
+    entwickelt vom Anne Frank Zentrum Berlin
+    in Kooperation mit dem Anne Frank Haus
+    in Amsterdam. Schülerinnen und Schüler
+    der KGS Rastede begleiten durch diese
+    eindrucksvolle und hoch aktuelle
+    Ausstellung und diskutieren dabei zum
+    Thema "Diskriminierung damals und
+    heute". Gemeinsam mit der KVHS Ammerland
+    möchte die KGS Rastede auch externen
+    Gästen den Besuch der Ausstellung
+    ermöglichen und lädt dazu herzlich
+    ein. Treffpunkt ist der Haupteingang der
+    KGS Rastede, Wilhelmstr. 5 in 26180
+    Rastede. Die Veranstaltung ist
+    entgeltfrei. Um Voranmeldung über die
+    KVHS Ammerland wird gebeten.
+  datum: 2024-12-24
+  medium: sonstiges
+- 
+  link: >
+    https://rausgegangen.de/events/glitzerparty-x-abiparty-kgs-rastede-0/
+  name: Glitzerparty x Abiparty KGS Rastede
+  anfang: Glitzerparty x Abiparty KGS Rastede
+  datum: 2024-12-24
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/politik-in-rastede-spd-und-gruene-gehen-in-rastede-jetzt-getrennte-wege_a_4,1,3464986208.html
+  name: 'Gruppenvereinbarung aufgekündigt - Nach Streit um Schulentwicklung – SPD und Grüne gehen in Rastede jetzt getrennte Wege'
+  anfang: >
+    Der Streit um die Schulentwicklung in
+    Rastede hat das Bündnis von SPD,
+    Grünen und UWG beendet. Die SPD
+    kritisiert die Grünen für Vorwürfe
+    gegen die Verwaltung und bricht die
+    Zusammenarbeit ab.
+  datum: 2024-12-18
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulentwicklung-in-rastede-zukunftsplan-2040-geraet-ins-stocken_a_4,1,3409449851.html
+  name: 'Kritik aus der Politik - Beim Zukunftsplan für die Rasteder Schulen tritt die Verwaltung noch auf der Stelle'
+  anfang: >
+    Der „Zukunftsplan Schulen 2040“ in
+    Rastede sollte nach Ansicht der Politik
+    bereits starten, doch die Verwaltung
+    verweist auf die Zeit nach Ostern. Wie
+    sie die Verzögerung erklärte und wie
+    der Rat reagierte, lesen Sie hier.
+  datum: 2024-12-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/selbstbehauptungstraining-in-rastede-selbstwertgefuehl-soll-gestaerkt-werden_a_4,1,3403529195.html
+  name: 'Selbstbehauptungs-Training mit der KGS Rastede - Selbstwertgefühl soll gestärkt werden'
+  anfang: >
+    An der Kooperativen Gesamtschule Rastede
+    nahmen Sechstklässler an einem
+    Selbstbehauptungstraining teil. Ziel war
+    es, das Selbstwertgefühl zu stärken
+    und einen respektvollen Umgang zu
+    fördern.
+  datum: 2024-12-12
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/12/10/lesebuehnen-und-landschaftsliegen/
+  name: Lesebühnen und Landschaftsliegen
+  anfang: 'Gesellschafterversammlung der Residenzort Rastede GmbH: Holger Piwowar stellt neues Programm vor'
+  datum: 2024-12-10
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/12/04/es-gibt-nichts-gutes-ausser-man-tut-es/
+  name: >
+    „Es gibt nichts Gutes – außer man
+    tut es!“
+  anfang: >
+    RepairCafé Rastede spendet 300 Euro
+    für die Wunschbaumaktion. Nächstes
+    RepairCafé am 18. Januar.
+  datum: 2024-12-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/weihnachtsmaerkte-im-ammerland-vergleich-der-angebote-in-westerstede-bad-zwischenahn-und-rastede_a_4,1,3263730155.html
+  name: 'Rastede, Westerstede, Bad Zwischenahn - Jeder Weihnachtsmarkt ein bisschen anders – der große Vergleich im Ammerland'
+  anfang: >
+    Welcher Weihnachtsmarkt passt zu wem?
+    Wir haben uns die drei Veranstaltungen
+    in Westerstede, Rastede und Bad
+    Zwischenahn angeschaut. Was es dort gibt
+    und was es kostet.
+  datum: 2024-11-29
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/11/28/zukunftsplan-schulen-jetzt-im-rat-behandeln/
+  name: >
+    „Zukunftsplan Schulen“ jetzt im Rat
+    behandeln
+  anfang: >
+    Die Mehrheitsgruppe will das Thema auf
+    die Tagesordnung der nächsten
+    Ratssitzung am 10. Dezember setzen
+    lassen
+  datum: 2024-11-28
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/11/20/wieder-weihnachtsmarkt-an-der-kgs/
+  name: Wieder Weihnachtsmarkt an der KGS
+  anfang: >
+    Nach dem Erfolg im vergangenen Jahr gibt
+    es eine Neuauflage an diesem Freitag
+  datum: 2024-11-20
+  medium: rastederrundschau
+- 
+  link: >
     https://www.ostfriesland.travel/veranstaltungen-in-ostfriesland/weihnachtsmarkt-in-der-kgs-rastede
   name: Weihnachtsmarkt in der KGS Rastede
   anfang: 'HOHOHO!Weihnachtsmarkt an der KGS  in den Räumen der KGS an der Wilhelmstraße.Es duftet schon weihnachtlich aus den Küchen der KGS. Es gibt Selbstgebackenes, Selbstgebasteltes, Musik, ... Da ist sicherlich auch die ein oder andere Geschenkidee dabei! Wir freuen uns auf eine rege Teilnahme! Bringt sie alle mit!!!'
