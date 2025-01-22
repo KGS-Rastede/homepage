@@ -6,22 +6,6 @@ tabs:
     unlisted: true
 
   # Lesezeichen
-  notfallbereich:
-    label: Notfall
-    icon: bookmark
-    fields:
-      togglenotfall:
-        label: Liegt ein Notfall vor?
-        help: Deaktiviert die normale Homepage
-        type: toggle
-        text:
-          - "Notfallbetrieb (normale Homepage deaktivieren)"
-          - "Regelbetrieb"
-      notfalltext:
-        label: text für den Notfall
-        type: textarea
-
-  # Lesezeichen
   bookmark:
     label: Lesezeichen
     icon: bookmark

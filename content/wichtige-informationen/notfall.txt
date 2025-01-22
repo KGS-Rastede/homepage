@@ -1,4 +1,4 @@
-Title: Schulausfall: Banner für die Startseite
+Title: Schulausfall - Notfall
 
 ----
 
@@ -20,6 +20,18 @@ Vor Schulbeginn sammeln sich Schülerinnen und Schüler in ihrem Pausenbereich.
 
 ----
 
+Togglenotfall: false
+
+----
+
+Notfalltext: Die Schule brennt ab - Meiden sie einen Radius von 2 Kilometern!
+
+----
+
+Notfallredirect: true
+
+----
+
 Texttitel: 
 
 ----
@@ -29,3 +41,7 @@ Category: eigenerTitel
 ----
 
 Sichtbarkeit: ja
+
+----
+
+Uuid: vlyjvtsjihhrdd93
