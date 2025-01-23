@@ -16,11 +16,34 @@ sections:
         type: toggle
         width: 1/4
         text:
-          Banner inaktiv
-          Banner aktiv
+          - Banner inaktiv
+          - Banner aktiv
 
       text:
         label: Inhalt des Banners
         type: textarea
         when:
           toggle: true
+
+      togglenotfall:
+        label: Notfallmodus - Bitte nur im Notfall aktivieren!
+        help: Deaktiviert die normale Homepage
+        type: toggle
+        text:
+          - Regelbetrieb
+          - Notfallbetrieb (normale Homepage deaktivieren)
+
+      notfalltext:
+        label: Text für den Notfall
+        type: textarea
+        when:
+          togglenotfall: true
+
+      notfallredirect:
+        label: Weiterleitung alle Seiten auf die Startseite
+        type: toggle
+        text:
+          - Weiterleitung deaktivieren
+          - Weiterleitung aktivieren
+        when:
+          togglenotfall: true

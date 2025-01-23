@@ -2,10 +2,10 @@
 <?php snippet('home-page-header') ?>
 
 
-<?php if ($page->togglenotfall()->toggle()->bool() === false) : ?>
+<?php if (page("wichtige-informationen")->togglenotfall()->toggle()->bool() === true) : ?>
   <div class="rounded-lg border-8 border-dashed border-gray-800">
     <article class="bg-red-400 py-8 px-8 text-2xl leading-10 prose-h1:text-lg dark:bg-gray-700/25 prose-a:text-blue-600">
-      <?= $page->notfalltext()->kirbytext() ?>
+      <?= page("wichtige-informationen")->notfalltext()->kirbytext() ?>
     </article>
   </div>
 
