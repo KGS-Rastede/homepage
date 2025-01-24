@@ -6,6 +6,22 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/haushalt-in-rastede-gemeinde-spart-bei-schulen-feuerwehren-kitas-baedern-und-personal_a_4,1,3795217848.html
+  name: >
+    Auftakt der Haushaltsberatungen Schulen,
+    Feuerwehren, Bäder – Hier setzt
+    Rastede den Rotstift an
+  anfang: >
+    Rastede will bei öffentlichen
+    Einrichtungen und Organisationen sparen.
+    Budgets wurden zusammengestrichen,
+    Investitionen sollen ausgesetzt werden.
+    Ein Überblick über die aktuellen
+    Planungen.
+  datum: 2025-01-22
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/ammerland/schulentwicklung-in-rastede-schulelternrat-der-kgs-kritisiert-mangelnde-kommunikation_a_4,1,3695103484.html
   name: 'Leserbrief zur Schulentwicklung - Rasteder Schulelternrat kritisiert schleppende Umsetzung'
   anfang: >
