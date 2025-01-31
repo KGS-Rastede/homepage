@@ -1,0 +1,33 @@
+Title: Wettbewerb der Worte: Junge Redner*innen zeigen ihr Können
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In einer Welt, in der man mit Fake News, Populismus und einer regelrechten Informationsflut im Internet konfrontiert wird, wird der faktenbasierte Austausch von Meinungen immer wichtiger. Genau hier setzte der Debattier-Wettbewerb an: Er fördert die Fähigkeit, Informationen kritisch zu hinterfragen, zu bewerten und auf transparente Weise mit anderen zu diskutieren. Besonders in der Schule, als Ort des Lernens und der demokratischen Bildung, spielt dieser Wettbewerb eine zentrale Rolle. Dies betonte auch Jesco Schneemann stellvertretend für die Schulleitung.</p><p>Am Donnerstag, dem 16.01, fand dieses Jahr das interne KGS-Schulfinale statt. Organisiert und geleitet wurde die Veranstaltung von Henning Stockmann und Gerald große Osterhues.</p><p>Zunächst haben sich 15 Schüler*innen aus der Sek1 in der Vorrunde mit der Frage: \"Soll an jedem Schultag eine Stunde Sport stattfinden“ beschäftigt. Hierbei konnten sich die vier Punktbesten Louisa Krippendorf (9F3), Phelan Jech (10C3), Johanna Oehne-Berdau (10E3) und Kjell Fleischhauer (10E3) für das Finale der Sek1 qualifizieren.</p><p>Im Finale haben sie sich mit der Frage „Sollten Straßen vor Schulen für den Autoverkehr gesperrt werden?“ auseinandergesetzt. Es kam eine interessante und ausgewogene Debatte zustande. Die Debattierenden zogen viele Aspekte in Betracht, wie die Sicherheit der Kinder im Straßenverkehr, aber auch zum Beispiel die Schaffung neuer Gefahrenstellen.</p><p>Die Debatte hat die Jury, bestehend aus Jesco Schneemann, Gerald große Osterhues und der ehemaligen Teilnehmerin Hannah Haßmann, anhand von Kriterien wie beispielsweise der Sachkenntnisse oder der Argumentationsfähigkeit der einzelnen Debattierenden bewertet.</p><p>Dabei hat besonders Louisa Krippendorf einen positiven Eindruck hinterlassen und somit den ersten Platz belegt. Für die nächste Runde konnten sich jedoch auch Johanna Oehne-Berdau und Phelan Jech qualifizieren. </p><p>In der Sek2 haben neun Debattierende an der Vorrunde teilgenommen. Die Frage „Soll unsere Schule einen Social-Media-Auftritt unterhalten?“ wurde intensiv diskutiert. Schließlich konnten sich Liza Apukhtina (11B), Jale Seybold (11C), Kristin Hennemann (11C) und Saskia Butt aus Jahrgang 12 für das Finale in der Aula durchsetzen.</p><p>Dort haben sie die Frage “Soll der Gewinn des Schuladventbasars vollständig für karitative Zwecke gespendet werden?” debattiert. Auch hier wurde von den Debattierenden die Fähigkeit, komplexe Themen zu erfassen und überzeugende Argumente zu formulieren, gezeigt. Argumente, wie die Vermittlung von sozialen Werten oder die Reflexion und Eigeninitiative im Umgang mit Geld, wurden besonders hervorgehoben.</p>"},"id":"b303ca01-0af7-4329-8c0a-463dc0496e63","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://IUXE5TdjhonBSExD"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"bec043af-3a53-4ca3-ba8c-fa252a64a67e","isHidden":false,"type":"image"},{"content":{"text":"<p>Das Sek.-I-Finale</p>"},"id":"147ef660-49c3-49fb-996b-4f197cb36e23","isHidden":false,"type":"text"}],"id":"1bf6711b-bdcc-44ad-93aa-2c7a1c10daf9","width":"1/1"}],"id":"d7ef42ca-a79b-4316-9cdb-fda86539938a"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://V8O6eY6Fj5GSrF1K"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"aaa83687-71c6-43fd-84f6-bb6ccc5454b0","isHidden":false,"type":"image"}],"id":"c349fc7a-1f9e-45ef-b902-be8b0e0cc8c0","width":"1/1"}],"id":"9c091682-53b7-4531-a80f-4460fb550954"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Das Sek.-II-Finale</p>"},"id":"726b1fdb-31e1-41cc-b765-28a3bf6c6d2d","isHidden":false,"type":"text"}],"id":"78b41080-5f97-496d-bafa-01eb2d34f3be","width":"1/1"}],"id":"134752cb-5a93-41b0-a9e4-7549d9377bdf"}]
+
+----
+
+Date: 2025-01-23 08:35:00
+
+----
+
+Datumstartseite: 2025-05-23 08:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sharlyn Kobler, Nane Regenbrecht und Emma Wurm
+
+----
+
+Tags: Deutsch, Wettbewerb, Projekt, Jugend debattiert
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Qvn5OdI7o4CVjGNU

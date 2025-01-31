@@ -1,0 +1,33 @@
+Title: Ausstellung zum Holocaust Gedenktag an der KGS Rastede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://SAVH1Puz5KG5hkWG"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"066aec9d-4dc2-4df5-9c50-cb527319e0d7","isHidden":false,"type":"image"}],"id":"5076a5db-d3e3-428c-9b72-ac0e04865087","width":"1/1"}],"id":"b8fefd34-dec1-4995-a8de-8589d164dbfb"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 27.01.2025 jährt sich die Befreiung des Konzentrationslagers Auschwitz zum 80. Mal und auch an der KGS gedenken wir der jüdischen Opfer des Nationalsozialistischen Regimes. </p><p>In einer Ausstellung im Forum der KGS können sich nun interessierte Schüler<em>innen über das Schicksal von Rasteder Jüd</em>innen informieren, denn auch Menschen aus unserem Ort wurden verfolgt, deportiert und ermordet. Die Stelltafeln informieren über die Familien Hattendorf, Hoffmann, de Levie und Pagener sowie über Dina Röben, Elmar Pinto, Frieda Meiners und Wolff Wilhelm Cohn. </p><p>Besonders betroffen zeigen sich die Schüler*innen zumeist über das Schicksal der beiden Mädchen Ruth und Ingrid Pagener, die als Teenager von den Nazis ermordet wurden. </p><p>Die Ausstellung wird zur Verfügung gestellt von ADFC Ammerland und KVHS Ammerland, Projekt Demokratie leben! und kann noch bis Freitag, den 31.01.25, im Forum angeschaut werden.</p>"},"id":"c10f309f-a1de-4278-a536-5606b6b85f73","isHidden":false,"type":"text"}],"id":"56407878-ecf6-4a39-a54d-d8e2b471a205","width":"1/1"}],"id":"a337b611-8a3c-4bcf-ad38-bb17dd0a59e2"}]
+
+----
+
+Date: 2025-01-27 12:15:00
+
+----
+
+Datumstartseite: 2025-05-27 12:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anja Szyltowski, Katrin Lapp
+
+----
+
+Tags: Holocaust Gedenktag, Geschichte, Rastede, Projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 7HyAXzwh9n16SmWW

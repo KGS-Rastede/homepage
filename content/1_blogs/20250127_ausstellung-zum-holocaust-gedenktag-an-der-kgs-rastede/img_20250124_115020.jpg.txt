@@ -1,0 +1,5 @@
+Uuid: SAVH1Puz5KG5hkWG
+
+----
+
+Template: blocks/image
