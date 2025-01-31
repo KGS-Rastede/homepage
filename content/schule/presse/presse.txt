@@ -6,6 +6,35 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/foerderschule-ese-im-ammerland-genehmigung-erteilt-fuer-neue-schule-in-rastede_a_4,1,3862502452.html
+  name: 'Nach monatelangen Diskussionen - Grünes Licht für neue Förderschule im Ammerland'
+  anfang: >
+    Der Landkreis wollte den Antrag bis auf
+    Weiteres ruhend stellen, die Politik
+    hingegen an einer neuen Förderschule im
+    Ammerland festhalten. Jetzt liegt die
+    Genehmigung für die neue Schule vor.
+  datum: 2025-01-28
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2025/01/austausch-ueber-schulpolitische-themen-kultusministerin-besucht-rastede/
+  name: 'Austausch über schulpolitische Themen: Kultusministerin besucht Rastede'
+  anfang: >
+    Niedersachsens Kultusministerin Julia
+    Willie Hamburg war am vergangenen
+    Freitag zu Gast in Rastede. Mit den
+    Leitungen der Schulen im Gemeindegebiet
+    sowie Vertreterinnen und Vertretern aus
+    Verwaltung, Gemeinderat und Landtag
+    tauschte sich die Ministerin in der
+    Kooperativen Gesamtschule (KGS) Rastede
+    über aktuelle schulpolitische Themen
+    aus.
+  datum: 2025-01-27
+  medium: sonstiges
+- 
+  link: >
     https://www.nwzonline.de/ammerland/haushalt-in-rastede-gemeinde-spart-bei-schulen-feuerwehren-kitas-baedern-und-personal_a_4,1,3795217848.html
   name: >
     Auftakt der Haushaltsberatungen Schulen,
@@ -286,6 +315,20 @@ Pressenachrichten:
     eingerichtet
   datum: 2024-10-29
   medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/neue-foerderschule-ese-im-ammerland-besuch-von-kultusministerin-hamburg-in-rastede-kurzfristig-abgesagt_a_4,1,2891503911.html
+  name: 'Nach monatelanger Prüfung - Besuch der Kultusministerin in Rastede kurzfristig abgesagt – Ringen um neue Förderschule fürs Ammerland geht weiter'
+  anfang: >
+    Der Landkreis will in Rastede eine neue
+    Förderschule einrichten. Doch die
+    zuständigen Behörden prüfen seit
+    Monaten den Antrag und fordern immer
+    neue Unterlagen. Ein geplanter Besuch
+    der Kultusministerin wurde indes
+    abgesagt.
+  datum: 2024-10-24
+  medium: nwz
 - 
   link: >
     https://www.rasteder-rundschau.de/2024/10/22/luft-nach-oben-unterrichtsversorgung-in-rastede/
