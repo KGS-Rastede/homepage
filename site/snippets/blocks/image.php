@@ -24,19 +24,17 @@ $orientation = $block->orientation() == 'links' ? 'float-start' : ($block->orien
 
 
 <?php if ($src) : ?>
-  <figure <?= Html::attr(['data-ratio' => $ratio, 'data-crop' => $crop], null, ' ') ?>>
-    <?php if ($link->isNotEmpty()) : ?>
-      <a href="<?= Str::esc($link->toUrl()) ?>">
-        <img src="<?= $src ?>" class="h-auto my-3 max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 <?= $orientation ?>" alt="<?= $alt->esc() ?>">
-      </a>
-    <?php else : ?>
-      <img src="<?= $src ?>" class="h-auto my-3 max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 <?= $orientation ?>" alt="<?= $alt->esc() ?>">
-    <?php endif ?>
 
-    <?php if ($caption->isNotEmpty()) : ?>
-      <figcaption>
-        <?= $caption ?>
-      </figcaption>
-    <?php endif ?>
-  </figure>
+  <div class="relative w-full">
+    <figure>
+      <img src="<?= $src ?>" alt="<?= $alt->esc() ?>" class="aspect-video w-full rounded-2xl bg-gray-100 object-cover sm:aspect-2/1 lg:aspect-3/2">
+      <div class="absolute inset-0 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
+      <?php if ($caption->isNotEmpty()) : ?>
+        <figcaption>
+          <?= $caption ?>
+        </figcaption>
+      <?php endif ?>
+    </figure>
+  </div>
+
 <?php endif ?>
