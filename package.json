@@ -13,7 +13,6 @@
   "dependencies": {
     "@fullcalendar/icalendar": "^5.10.1",
     "alpinejs": "^3.12.0",
-    "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.8.1",
     "fullcalendar": "^5.10.2",
     "ical.js": "^1.5.0"
