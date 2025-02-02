@@ -45,7 +45,7 @@
 
                         <!-- Solutions Menu -->
                         <div
-                            class="invisible absolute top-8 right-8 left-8 z-1 pt-8 group-hover:visible">
+                            class="invisible absolute top-16 right-8 left-8 z-1 pt-4 group-hover:visible">
                             <div
                                 class="origin-top scale-90 overflow-hidden rounded-lg bg-white opacity-0 ring-1 shadow-xl ring-black/5 transition duration-300 ease-out group-hover:scale-100 group-hover:opacity-100 dark:bg-gray-800 dark:ring-white/10">
                                 <div
@@ -147,7 +147,7 @@
 
                         <!-- Über die Schule Menu -->
                         <div
-                            class="invisible absolute top-8 right-8 left-8 z-1 pt-8 group-hover:visible">
+                            class="invisible absolute top-16 right-8 left-8 z-1 pt-4 group-hover:visible">
                             <div
                                 class="origin-top scale-90 overflow-hidden rounded-lg bg-white opacity-0 ring-1 shadow-xl ring-black/5 transition duration-300 ease-out group-hover:scale-100 group-hover:opacity-100 dark:bg-gray-800 dark:ring-white/10">
                                 <div
@@ -264,7 +264,7 @@
 
                         <!-- Resources Menu -->
                         <div
-                            class="invisible absolute top-8 right-8 left-8 z-1 pt-8 group-hover:visible">
+                            class="invisible absolute top-16 right-8 left-8 z-1 pt-4 group-hover:visible">
                             <div
                                 class="origin-top scale-90 overflow-hidden rounded-lg bg-white opacity-0 ring-1 shadow-xl ring-black/5 transition duration-300 ease-out group-hover:scale-100 group-hover:opacity-100 dark:bg-gray-800 dark:ring-white/10">
                                 <div
