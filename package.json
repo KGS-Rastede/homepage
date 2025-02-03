@@ -17,8 +17,10 @@
     "ical.js": "^1.5.0"
   },
   "scripts": {
-    "watch": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -w -m",
-    "buildtw": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m"
+    "watch": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css -w",
+    "watch-mini": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -w -m",
+    "buildtw-mini": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m",
+    "buildtw": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.16",
