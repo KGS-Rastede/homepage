@@ -20,10 +20,13 @@
     "watch": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css -w",
     "watch-mini": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -w -m",
     "buildtw-mini": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m",
-    "buildtw": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css"
+    "buildtw": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css",
+    "format": "prettier ./site --write"
   },
   "devDependencies": {
+    "@prettier/plugin-php": "^0.22.4",
     "@tailwindcss/typography": "^0.5.16",
+    "prettier": "^3.4.2",
     "tailwindcss": "^4.0.3"
   }
 }
