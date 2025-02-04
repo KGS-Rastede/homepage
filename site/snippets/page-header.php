@@ -11,6 +11,3 @@
   <h1 class="text-xl mb-3 ms-3">
     <?= $page->heading() ?>
   </h1>
-
-
-  </div><!-- dieser DIV beended den ersten DIV vom Megamenü -->
