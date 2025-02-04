@@ -3,7 +3,7 @@ title: Übersicht der Schulzweige
 columns:
   main:
     width: 2/3
-    sections: 
+    sections:
       content:
         type: fields
         fields:
@@ -12,7 +12,7 @@ columns:
             label: Untertitel
           text:
             type: blocks
-  
+
   sidebar:
     width: 1/3
     sticky: true

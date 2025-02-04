@@ -1,7 +1,7 @@
 #snippets/blocks/button.yml
 name: Knopf
 icon: circle
-label: "{{ text }}"
+label: '{{ text }}'
 fields:
   basic:
     label: Knopf
@@ -13,8 +13,8 @@ fields:
     type: toggle
     label: Externer Link
     text:
-      - "Interne Seite" #false
-      - "Externe Seite" #true
+      - 'Interne Seite' #false
+      - 'Externe Seite' #true
     width: 1/4
   pageLink:
     label: Link zur internen Seite

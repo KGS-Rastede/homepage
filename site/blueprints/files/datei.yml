@@ -1,7 +1,7 @@
 title: officedatei
 
 accept:
-  mime: application/pdf, application/msword, application/msexcel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.openxmlformats-officedocument.wordprocessingml.document 
+  mime: application/pdf, application/msword, application/msexcel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.openxmlformats-officedocument.wordprocessingml.document
 
 fields:
   anzeigename:
@@ -10,9 +10,7 @@ fields:
   beschreibung:
     label: Beschreibung der Datei
     type: text
-
 # Anleitung https://getkirby.com/docs/reference/panel/blueprints/file
 # https://getkirby.com/docs/reference/panel/samples/file
-
 
 # Diese Vorlage gilt für normale Office-Dateien (PDF, eigentlich auch docx und so weiter)

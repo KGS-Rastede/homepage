@@ -1,7 +1,7 @@
 # /site/blueprints/blocks/audio.yml
 name: PDF-Datei
 icon: file-pdf
-label: "{{ name }} - {{ creator }}"
+label: '{{ name }} - {{ creator }}'
 fields:
   pdfdatei:
     type: files

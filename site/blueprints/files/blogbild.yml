@@ -2,12 +2,11 @@ title: Blogbild
 
 accept: image/*
 
-
 fields:
   alt_info:
     label: Kurzbeschreibung (info)
     type: info
-    theme: 
+    theme:
     text: Die Kurzbeschreibung wird für Screenreader benötigt und wird nicht auf der Seite angezeigt
   alt:
     label: Kurzbeschreibung
@@ -21,7 +20,7 @@ fields:
   beschreibung_info:
     label: Beschreibung (info)
     type: info
-    theme: 
+    theme:
     text: Die Beschreibung wird auf der Seite unter dem Bild angezeigt
   beschreibung:
     label: Beschreibung

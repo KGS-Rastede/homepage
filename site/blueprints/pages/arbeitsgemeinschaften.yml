@@ -2,7 +2,6 @@ title: AG Übersicht
 icon: 📜
 templates: fach
 
-
 sections:
   pages:
     headline: AG
@@ -13,7 +12,4 @@ sections:
         label: AG-Kategorie
         type: blocks
         fieldsets:
-              - arbeitsgemeinschaftentyp
-
-
-
+          - arbeitsgemeinschaftentyp

@@ -4,8 +4,8 @@ fields:
     type: toggle
     label: Externer Link
     text:
-      - "Interne Seite" #false
-      - "Externer Link" #true
+      - 'Interne Seite' #false
+      - 'Externer Link' #true
   linkTitle:
     type: text
     label: Name
@@ -25,10 +25,10 @@ fields:
     type: toggle
     label: Trennstrich
     text:
-      - "Kein Trennstrich vorhanden" #false
-      - "Trennstrich vorhanden" #true
+      - 'Kein Trennstrich vorhanden' #false
+      - 'Trennstrich vorhanden' #true
     help: Soll nach diesem Unterpunkt ein Trennstrich eingefügt werden ?
   icon:
     type: text
     label: Icon
-    help: "Hier muss der Name für das icon rein. Siehe: https://icons.getbootstrap.com/"
+    help: 'Hier muss der Name für das icon rein. Siehe: https://icons.getbootstrap.com/'

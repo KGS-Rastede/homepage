@@ -8,19 +8,18 @@ options:
     admin: true
 
 sections:
- content:
+  content:
     type: fields
     fields:
       verwendungszweck:
         label: Verwendungszweck
         type: text
-        default: "Vorname Nachname"
+        default: 'Vorname Nachname'
       beguenstigter:
         label: Begünstigter
         type: text
-        default: "KGS Rastede"
+        default: 'KGS Rastede'
       iban:
         label: IBAN
         type: text
-        default: "DE00000000000000000000"
-
+        default: 'DE00000000000000000000'

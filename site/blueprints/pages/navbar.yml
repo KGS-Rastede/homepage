@@ -1,17 +1,16 @@
 title: Navbar
 
-
 fields:
   navbar:
     type: structure
     label: Kategorien
-    fields:       
+    fields:
       dropdownToggle:
         type: toggle
         label: Dropdown oder Link?
-        text:          
-          - "Direkter Link" #false
-          - "Dropdown" #true
+        text:
+          - 'Direkter Link' #false
+          - 'Dropdown' #true
       kategorieTitel:
         type: text
         label: Titel der Kategorie
@@ -19,7 +18,7 @@ fields:
         type: pages
         label: Seite der Kategorie
         max: 1
-        when: 
+        when:
           dropdownToggle: false
       unterpunkte:
         type: structure

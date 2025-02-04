@@ -1,6 +1,6 @@
 name: Akkordeon
 icon: menu
-label: "{{ accordionid }}"
+label: '{{ accordionid }}'
 fields:
   accordion:
     type: structure

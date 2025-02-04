@@ -1,7 +1,7 @@
 # /site/blueprints/blocks/highlightfeld.yml
 name: Highlightfeld
 icon: account
-label: "{{ Feldinhalt }}"
+label: '{{ Feldinhalt }}'
 fields:
   Ueberschrift:
     label: Überschrift des Feldes

@@ -1,7 +1,7 @@
 # /site/blueprints/blocks/audio.yml
 name: Infofeld
 icon: info
-label: "{{ name }} - {{ kurzbeschreibung }}"
+label: '{{ name }} - {{ kurzbeschreibung }}'
 fields:
   name:
     type: text

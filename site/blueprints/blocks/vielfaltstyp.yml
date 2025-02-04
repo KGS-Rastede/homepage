@@ -1,7 +1,7 @@
 # /site/blueprints/blocks/vielfaltstyp.yml
 name: Vielfaltsstypus
 icon: file-audio
-label: "{{ name }} - {{ creator }}"
+label: '{{ name }} - {{ creator }}'
 fields:
   name:
     type: text
