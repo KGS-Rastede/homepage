@@ -1,3 +1,5 @@
+</main>
+
 <hr>
 
 <!-- Footer container -->
