@@ -1,6 +1,6 @@
 <!-- Main Header Section: With Mega Menu -->
 <div
-    class="relative overflow-hidden bg-white dark:bg-gray-900 dark:text-gray-100">
+    class="relative bg-white dark:bg-gray-900 dark:text-gray-100">
     <!-- Header -->
     <header
         x-data="{ mobileNavOpen: false }"
@@ -58,10 +58,16 @@
                                         <nav class="flex flex-col gap-3">
                                             <?php
                                             $menuItems = [
-                                                ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-                                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
-                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-                                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
+                                                ['pfad' => "/unterricht/ag-frieden", 'name' => "Anfahrt"],
+                                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulleitung"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Fachbereichsleiter"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Sekretariate"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Hausmeister"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schüler:innen Vertretung (SV)"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulpersonalrat (SPR)"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Gleichstellungsbeauftragte"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulelternrat (SER)"],
+                                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Förderverein"]
                                             ];
 
                                             foreach ($menuItems as $item) {
@@ -77,10 +83,20 @@
                                         <nav class="flex flex-col gap-3">
                                             <?php
                                             $menuItems = [
-                                                ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-                                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
-                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-                                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
+                                                ['pfad' => "/unterricht/ag-frieden", 'name' => "Leitbild"],
+                                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulprogramm"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulvorstand"],
+                                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Unsere Geschichte"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulvorstand"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Übergang Grundschule / KGS"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Die drei Schulzweige"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Oberstufe"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Abschlüsse an der KGS"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Profile und Wahlen"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Zuständigkeiten / Organigram"],
+
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Ausbildungsschule"],
+                                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Unsere Schule in der Presse"]
                                             ];
 
                                             foreach ($menuItems as $item) {
@@ -526,16 +542,30 @@
                         <nav class="flex flex-col gap-3">
                             <?php
                             $menuItems = [
-                                ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
-                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
+                                ['pfad' => "/unterricht/ag-frieden", 'name' => "Leitbild"],
+                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulprogramm"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulvorstand"],
+                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Unsere Geschichte"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulvorstand"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Übergang Grundschule / KGS"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Die drei Schulzweige"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Oberstufe"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Abschlüsse an der KGS"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Profile und Wahlen"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Zuständigkeiten / Organigram"],
+
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Ausbildungsschule"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Unsere Schule in der Presse"]
                             ];
 
                             foreach ($menuItems as $item) {
                                 snippet('menupath-mobile', $item);
                             }
                             ?>
+
+
+
+
                         </nav>
                     </div>
                     <div class="col-span-2 space-y-2">
@@ -544,12 +574,19 @@
                             Rechts
                         </h4>
                         <nav class="flex flex-col gap-3">
+
                             <?php
                             $menuItems = [
-                                ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
-                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
+                                ['pfad' => "/unterricht/ag-frieden", 'name' => "Anfahrt"],
+                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulleitung"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Fachbereichsleiter"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Sekretariate"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Hausmeister"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schüler:innen Vertretung (SV)"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulpersonalrat (SPR)"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Gleichstellungsbeauftragte"],
+                                ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulelternrat (SER)"],
+                                ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Förderverein"]
                             ];
 
                             foreach ($menuItems as $item) {
@@ -624,24 +661,6 @@
     </header>
     <!-- END Header -->
 
-    <!--
 
-  ADD YOUR HERO CONTENT BELOW
-
-  -->
-
-    <!-- Placeholder -->
-    <div class="container mx-auto px-4 pb-12 lg:px-8 xl:max-w-7xl">
-        <div
-            class="flex items-center justify-center rounded-xl border-2 border-dashed border-gray-200 bg-gray-50 py-64 text-gray-400 dark:border-gray-700/75 dark:bg-gray-800/50">
-            Hero Content
-        </div>
-    </div>
-
-    <!--
-  
-  ADD YOUR HERO CONTENT ABOVE
-  
-  -->
 </div>
 <!-- END Main Header Section: With Mega Menu -->
