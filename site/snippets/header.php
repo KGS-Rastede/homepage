@@ -12,7 +12,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Die Homepage der Kooperativen Gesamtschule Rastede (KGS Rastede)" />
 
-  <?= css('assets/css/twkgs_shrinked.min.css') ?>
+  <?php // Auf dem richtigen Server wird die minifizierte CSS geladen.
+  if (option('debug', false) === true ) {
+    echo css('assets/css/twkgs_shrinked.css');
+  } else {
+    echo css('assets/css/twkgs_shrinked.min.css');
+  } ?>
+  
   <script defer src="../../node_modules/alpinejs/dist/cdn.min.js"></script>
 
   <link rel="preload" href="../../node_modules/bootstrap-icons/font/bootstrap-icons.css" as="style"
