@@ -35,10 +35,13 @@ if ($anzahlVorhandenerBloecke >= 1): ?>
           : '' ?>">
 
 
-            <?php // -- Die tatsächlichen Blöcke --
-      // -- Die tatsächlichen Blöcke --
-      if ($sidebar->isNotEmpty()):// "Weiterführende Links" ist vorhanden
-               ?>
+            <?php
+      /* -- Die tatsächlichen Blöcke -- */
+      ?>
+            <?php if ($sidebar->isNotEmpty()): ?>
+               <?php
+              // "Weiterführende Links" ist vorhanden
+              ?>
                 <div class="flex flex-col text-slate-800 bg-slate-50 shadow-md rounded-lg">
                     <h5 class="block mb-2 mr-2 ml-2 mt-3 antialiased leading-7 font-semibold">
                         <?= $page->sidetitel()->or('Weitere Informationen') ?>
