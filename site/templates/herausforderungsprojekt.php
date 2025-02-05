@@ -16,9 +16,7 @@
       ->flip()
     as $subpage
   ):
-    snippet('blogkarte', [
-      'subpage' => $subpage,
-    ]); ?>
+    snippet('blogkarte', ['subpage' => $subpage]); ?>
 
   <?php
   endforeach; ?>

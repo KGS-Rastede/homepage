@@ -14,4 +14,6 @@ $update = new kalender_update($cache_file, $ics_file); // neue Klassen mit Cache
 // Es wird entweder `true` zurückgegeben, wenn der Kalender breits uptodate wahr oder der Kalender erfolgreich aktualisiert wurde
 // ansonsten wird `false` zurückgegebn, es ist also irgendetwas schiefgelaufen
 $result = $update->checkForUpdate();
+
+
 ?>

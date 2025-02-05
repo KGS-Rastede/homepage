@@ -38,13 +38,15 @@
         ?>
         <li class="flex items-center even:bg-slate-50 odd:bg-white odd:hover:bg-slate-200 even:hover:bg-slate-300 p-4">
 
-          <?php // URL ist leer -> keine bestimmte Seite -> default icon ?>
-          <?php 
-          if (empty($bildURL)) { ?>
+          <?php
+        // URL ist leer -> keine bestimmte Seite -> default icon
+        ?>
+          <?php if (empty($bildURL)) { ?>
             <i class="bi bi-box-arrow-up-right mr-4"></i>
-          <?php // Sonst Bild einfügen ?>
-          <?php 
-            } else { ?> 
+          <?php
+            // Sonst Bild einfügen
+            ?>
+          <?php } else { ?> 
             <img src=<?= $bildURL ?> class="mr-4" width="20px" alt="Logo der Presse-Seite">
           <?php } ?>
 
