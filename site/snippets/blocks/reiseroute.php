@@ -39,7 +39,7 @@ echo ($features);
     body {
       margin: 0;
       padding: 0;
-      overflow: hidden;
+      overflow: auto;
     }
     #map-container {
       position: relative;
