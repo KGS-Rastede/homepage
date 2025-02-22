@@ -926,7 +926,6 @@ echo ($features);
                 var featuresTemp = map.querySourceFeatures('floorplan', { sourceLayer: roomLayerId });
 
                 if (featuresTemp.length > 0) {
-                    roomFound = true;
 
                     // Entferne die "room_searched"-Ebene, falls sie existiert
                     if (map.getLayer('room_searched')) {
@@ -1009,9 +1008,48 @@ echo ($features);
         });
 
         if (!roomFound) {
-            alert('Raum nicht gefunden.');
+            //alert('Raum nicht gefunden.');
+            showToast('Raum nicht gefunden');
         }
     }
+
+    function showToast(message, bgColor = 'red') {
+    let searchContainer = document.querySelector('.search-container');
+    if (!searchContainer) return;
+
+    let toast = document.createElement('div');
+    toast.innerText = message;
+    toast.style.position = 'absolute';
+    toast.style.background = bgColor;
+    toast.style.color = 'white';
+    toast.style.padding = '8px 12px';
+    toast.style.borderRadius = '5px';
+    toast.style.fontSize = '14px';
+    toast.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.2)';
+    toast.style.opacity = '0';
+    toast.style.transition = 'opacity 0.3s ease-in-out, transform 0.3s ease-in-out';
+
+    // Position über dem Search-Container berechnen
+    let rect = searchContainer.getBoundingClientRect();
+    toast.style.left = `${rect.left + window.scrollX}px`;
+    toast.style.top = `${rect.top + window.scrollY - 40}px`; // 40px über dem Container
+
+    document.body.appendChild(toast);
+
+    setTimeout(() => {
+        toast.style.opacity = '1';
+        toast.style.transform = 'translateY(-5px)';
+    }, 100);
+
+    setTimeout(() => {
+        toast.style.opacity = '0';
+        toast.style.transform = 'translateY(0px)';
+        setTimeout(() => {
+            toast.remove();
+        }, 300);
+    }, 3000);
+}
+
 
 
     // Hinzufügen eines Klick-Event-Listeners zur Karte
