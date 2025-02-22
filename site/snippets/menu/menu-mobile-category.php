@@ -3,5 +3,5 @@
 Inhalt, welcher in der Kategorie angezeigt wird, festgelegt. Dieser wird mit Kirby Slots übergeben.
 Siehe: https://getkirby.com/docs/guide/templates/snippets#passing-slots-to-snippets */
 ?>
-<h3 class="col-span-3 font-semibold"><?= $title ?></h3>
+<h3 class="col-span-3 text-lg font-semibold"><?= $title ?></h3>
 <?= $slots->menuContent() ?>

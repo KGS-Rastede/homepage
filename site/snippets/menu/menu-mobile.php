@@ -15,7 +15,7 @@
     x-transition:leave-start="opacity-100 translate-x-0"
     x-transition:leave-end="opacity-50 translate-x-full"
     id="tkMobileNav"
-    class="fixed top-0 right-0 bottom-0 z-50 w-80 overflow-auto bg-white/95 shadow-lg lg:hidden dark:bg-gray-800/95"
+    class="fixed top-0 right-0 bottom-0 z-50 min-w-80 w-10/12 overflow-auto bg-white/95 shadow-lg md:w-3/5 lg:hidden dark:bg-gray-800/95"
     tabindex="-1"
     aria-labelledby="tkMobileNavLabel"
     x-bind:aria-modal="mobileNavOpen ? 'true' : null"
