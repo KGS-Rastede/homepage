@@ -1002,7 +1002,7 @@ echo ($features);
                             }
                         }
                     });
-
+                    map.moveLayer('room_searched');
                     return; // Beende die Schleife, wenn der Raum gefunden wurde
                 }
             }
