@@ -1,5 +1,5 @@
   <!-- Card Headings: Title with Subtitle -->
-  <div class="flex flex-col overflow-hidden rounded-lg bg-white shadow-sm dark:bg-slate-800 dark:text-slate-100">
+  <div class="flex flex-col overflow-hidden my-4 rounded-lg bg-white shadow-sm dark:bg-slate-800 dark:text-slate-100">
     <!-- Card Header -->
     <div class="bg-slate-50 px-5 py-4 dark:bg-slate-700/50">
       <h3 class="mb-1 font-semibold text-2xl">Aus der Presse</h3>
