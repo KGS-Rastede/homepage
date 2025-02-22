@@ -9,24 +9,18 @@
       snippet('blogkarte-bild', ['subpage' => $subpage]);
     } ?>
   </div>
+  <div class="p-4">
+    <?= snippet('knopf-klein', [
+      'subpage' => page('blogs'),
+      'knopftext' => 'Weitere Nachrichten aus der Schule &#8594;',
+    ]); ?>
+  </div>
+
+<?php else: ?>
+  <div class="p-4">
+    <?= snippet('knopf-klein', [
+      'subpage' => page('blogs'),
+      'knopftext' => 'Nachrichten aus der Schule &#8594;',
+    ]) ?>
+  </div>
 <?php endif; ?>
-
-<div class="p-4">
-
-  <a href="<?= page('blogs')->url() ?>">
-    <?php if (collection('blogs-startseite')->isNotEmpty()) {
-      // Wenn aktuelle Artikel vorhanden sind
-      snippet('knopf-klein', [
-        'subpage' => page('blogs'),
-        'knopftext' => 'Weitere Nachrichten aus der Schule &#8594;',
-      ]);
-    } else {
-      // Wenn keine aktuellen Artikel vorhanden sind
-      snippet('knopf-klein', [
-        'subpage' => page('blogs'),
-        'knopftext' => 'Nachrichten aus der Schule &#8594;',
-      ]);
-    } ?>
-  </a>
-
-</div>
