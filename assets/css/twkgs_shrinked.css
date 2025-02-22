@@ -3546,6 +3546,11 @@
       text-align: left;
     }
   }
+  .xl\:mx-20 {
+    @media (width >= 80rem) {
+      margin-inline: calc(var(--spacing) * 20);
+    }
+  }
   .xl\:max-w-3xl {
     @media (width >= 80rem) {
       max-width: var(--container-3xl);
@@ -3579,6 +3584,11 @@
   .xl\:gap-x-8 {
     @media (width >= 80rem) {
       column-gap: calc(var(--spacing) * 8);
+    }
+  }
+  .\32 xl\:mx-40 {
+    @media (width >= 96rem) {
+      margin-inline: calc(var(--spacing) * 40);
     }
   }
   .\32 xl\:grid-cols-3 {

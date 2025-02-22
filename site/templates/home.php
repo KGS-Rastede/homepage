@@ -14,7 +14,7 @@
 <?php else: ?>
   <?php snippet('box-notfall'); ?>
 
-  <div class="m-4 flex flex-wrap">
+  <div class="m-4 flex flex-wrap xl:mx-20 2xl:mx-40">
     <!-- Major Column (2/3 width) -->
     <div class="lg:w-2/3 mb-8 lg:mb-0 pr-4"> <!-- Added pr-4 for right margin -->
       <?php snippet('box-fokus'); ?>
