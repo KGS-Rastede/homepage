@@ -56,14 +56,16 @@ if (
             <img src="<?= $blogCardImage->url() ?>" class="mb-2 w-full rounded-2xl" alt="<?= $blogCardImageAlt ?>">
         <?php endif; ?>
 
-        <p class="text-lg font-bold mt-2 mb-2 text-red-700">
+        <h3 class="text-xl font-semibold mt-2 mb-2 text-red-700">
             <?= $subpage->title() ?>
-        </p>
+        </h3>
 
-        <?= $subpage->Text()->toBlocks()->excerpt(250) ?>
-        <?php if ($subpage->author()->isNotEmpty()): ?>
-            (<?= $subpage->author() ?>)
-        <?php endif; ?>
+        <p>
+          <?= $subpage->Text()->toBlocks()->excerpt(250) ?>
+          <?php if ($subpage->author()->isNotEmpty()): ?>
+              (<?= $subpage->author() ?>)
+          <?php endif; ?>
+        </p>
 
         <div class="text-right mt-auto">
             <?php snippet('knopf-klein', [

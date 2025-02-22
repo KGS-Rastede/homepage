@@ -4,7 +4,7 @@ verwendet werden kann. */
 ?>
 <div class="space-y-6 p-8">
     <h4
-        class="text-xs font-semibold tracking-wider text-kgs-blue uppercase dark:text-kgs-lblue">
+        class="font-semibold tracking-wider text-kgs-blue uppercase dark:text-kgs-lblue">
         <?= $title ?>
     </h4>
     <nav class="flex flex-col gap-3">

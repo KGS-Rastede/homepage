@@ -47,12 +47,12 @@
     -->
     <div class="bg-gray-900/80 bg-linear-to-b from-cyan-500/90 to-slate-500/10 text-gray-100">
       <div
-        class="container mx-auto space-y-16 px-4 py-16 lg:px-8 lg:py-32 xl:max-w-7xl">
+        class="container mx-auto space-y-8 px-4 py-16 sm:space-y-16 lg:px-8 lg:py-32 xl:max-w-7xl">
 
 
 
-        <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">Herzlich willkommen</h2>
-        <p class="mt-6 text-2xl leading-8 text-gray-300">an der Kooperativen Gesamtschule Rastede</p>
+        <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">Herzlich willkommen</h1>
+        <h2 class="text-2xl text-gray-300">an der Kooperativen Gesamtschule Rastede</h2>
       </div>
 
     </div>

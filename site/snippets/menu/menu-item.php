@@ -1,1 +1,1 @@
-<a href='<?= $pfad ?>' class='text-sm font-medium text-gray-700 hover:text-kgs-blue dark:text-gray-300 dark:hover:text-kgs-lblue'><?= $name ?></a>
+<a href="<?= $pfad ?>" class="text-gray-700 hover:text-kgs-blue dark:text-gray-300 dark:hover:text-kgs-lblue"><?= $name ?></a>

@@ -3,7 +3,7 @@
 )://wenn aktuelle Topartikel vorhanden sind
    ?>
 
-    <h2 class="font-semibold p-2 mt-4 text-2xl">Aktuell im Fokus</h2>
+    <h2 class="font-semibold p-2 mt-4 text-4xl">Aktuell im Fokus</h2>
 
     <div class="flex shadow-sm flex-col my-4 bg-slate-50 overflow-hidden dark:text-gray-100 dark:bg-gray-800">
 
@@ -22,15 +22,15 @@
                 <a href="<?= $subpage->url() ?>" role="button">
 
                     <!-- Card Header -->
-                    <div class="py-2 px-3 text-semibold text-3xl text-blue-700">
+                    <h3 class="py-2 px-3 text-semibold text-3xl text-blue-700">
                         <?= $subpage->title() ?>
-                    </div>
+                    </h3>
                     <!-- END Card Header -->
 
                     <!-- Card Body -->
-                    <div class="p-2 text-xl grow">
+                    <p class="p-2 text-xl grow">
                         <?= $subpage->Text()->toBlocks()->excerpt(150) ?>
-                    </div>
+                    </p>
                     <!-- END Card Body -->
 
                     <!-- END Card Footer -->
