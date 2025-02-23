@@ -20,9 +20,9 @@ if (option('debug', false) === true) {
     echo css('assets/css/twkgs_shrinked.min.css');
   } ?>
   
-  <script defer src="../../node_modules/alpinejs/dist/cdn.min.js"></script>
+  <script defer src="/node_modules/alpinejs/dist/cdn.min.js"></script>
 
-  <link rel="preload" href="../../node_modules/bootstrap-icons/font/bootstrap-icons.css" as="style"
+  <link rel="preload" href="/node_modules/bootstrap-icons/font/bootstrap-icons.css" as="style"
     onload="this.onload=null;this.rel='stylesheet'">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
