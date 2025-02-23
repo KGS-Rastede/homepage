@@ -38,7 +38,12 @@ class StudyGroup
  */
 class AgsPage extends Page
 {
-  public function children() : Pages
+  private const EMPTY_JSON_STRUCTURE = [
+    "current_term_year" => "",
+    "study_groups" => []
+  ];
+
+  public function children(): Pages
   {
     $results = [];
     $pages = [];
@@ -54,9 +59,9 @@ class AgsPage extends Page
     return Pages::factory($pages, $this);
   }
 
-  public function termYear() : String
+  public function termYear(): string
   {
-    return $this->studyGroupsData()['current_term_year'];
+    return $this->studyGroupsData()['current_term_year'] ?? "";
   }
 
   private function studyGroupsData()
@@ -80,7 +85,9 @@ class AgsPage extends Page
 
   private function readCachedStudyGroupsData()
   {
-    return Data::read($this->studyGroupsDataCacheFilePath(), 'json');
+    $data = Data::read($this->studyGroupsDataCacheFilePath(), 'json');
+
+    return is_array($data) && isset($data['study_groups']) ? $data : self::EMPTY_JSON_STRUCTURE;
   }
 
   private function fetchStudyGroupsData()
@@ -90,16 +97,21 @@ class AgsPage extends Page
     if ($request->code() === 200) {
       $data = $request->json(true);
 
-      $this->updateStudyGroupsDataCache($data);
-
-      return $data;
-    } else {
-      if ($this->hasCachedStudyGroupsData()) {
-        return $this->readCachedStudyGroupsData();
-      } else {
-        throw 'Could not load study group information from remote system.';
+      if ($this->isValidStudyGroupsData($data)) {
+        $this->updateStudyGroupsDataCache($data);
+        return $data;
       }
     }
+
+    // API fehlgeschlagen oder ungültige Daten → Speichere leere Struktur
+    $this->updateStudyGroupsDataCache(self::EMPTY_JSON_STRUCTURE);
+
+    return self::EMPTY_JSON_STRUCTURE;
+  }
+
+  private function isValidStudyGroupsData($data)
+  {
+    return is_array($data) && isset($data['study_groups']) && is_array($data['study_groups']);
   }
 
   private function updateStudyGroupsDataCache($data)
@@ -122,5 +134,4 @@ class AgsPage extends Page
     return Config::get('studyGroups.apiKey');
   }
 }
-
 ?>
