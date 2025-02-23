@@ -1075,7 +1075,15 @@ echo ($features);
                     //Raumname 
                     name = featureTemp.properties.name;
                     console.log("Raum geklickt. Etage: " + name);
-                    raumsuchen(name)
+                    if (map.getLayer('room_searched')) {
+                        map.removeLayer('room_searched');
+                    } else{
+                       raumsuchen(name);
+                        if (currentPopup) {
+                            currentPopup.remove();
+                        }  
+                       
+                    }
                     return;
                 }
             }
