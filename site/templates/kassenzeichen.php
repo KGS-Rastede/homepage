@@ -1,5 +1,6 @@
-<?php snippet('header'); ?>
-<?php snippet('page-header'); ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
 <section class="content">
   <div class="container">
@@ -105,4 +106,5 @@
   </div>
 </section>
 
-<?php snippet('footertw'); ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

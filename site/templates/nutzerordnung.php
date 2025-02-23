@@ -1,44 +1,37 @@
-<?php snippet('header'); ?>
-<?php snippet('page-header'); ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
+<p>
+  <?= $page->Beschreibung()->kirbytext() ?>
+</p>
 
+<div class="grid grid-cols-1 py-4 px-6 gap-x-8 gap-y-16 text-center lg:grid-cols-3 lg:px-8">
 
-<div class="container">
-    <p>
-        <?= $page->Beschreibung()->kirbytext() ?>
-    </p>
+  <?php
+  $dateien = $page->dateien()->toFiles();
+  foreach ($dateien as $datei): ?>
+    <div class="group  bg-slate-100 p-4">
 
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        <div class="grid grid-cols-1 p-4 gap-x-8 gap-y-16 text-center lg:grid-cols-3">
+      <div class="mb-4">
+        <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+          <?= $datei->anzeigename()->or($datei->name()) ?>
+        </h3>
+        <p class="mt-5 leading-2 text-gray-600">
+          <?= $datei->beschreibung() ?>
+        </p>
 
-            <?php
-            $dateien = $page->dateien()->toFiles();
-            foreach ($dateien as $datei): ?>
-                <div class="group  bg-slate-100 p-4">
+      </div>
+      <?php snippet('knopf-klein', [
+        'subpage' => $datei,
+        'knopftext' => 'Datei herunterladen',
+      ]); ?>
 
-                    <div class="mb-4">
-                        <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
-                            <?= $datei->anzeigename()->or($datei->name()) ?>
-                        </h3>
-                        <p class="mt-5 leading-2 text-gray-600">
-                            <?= $datei->beschreibung() ?>
-                        </p>
-
-                    </div>
-                    <?php snippet('knopf-klein', [
-                      'subpage' => $datei,
-                      'knopftext' => 'Datei herunterladen',
-                    ]); ?>
-
-                </div>
-
-            <?php endforeach;
-            ?>
-        </div>
     </div>
 
+  <?php endforeach;
+  ?>
 </div>
 
-<?php snippet('sidebar'); ?>
-
-<?php snippet('footertw'); ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

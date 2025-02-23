@@ -1,9 +1,20 @@
-<?php snippet('header'); ?>
-<?php snippet('page-header'); ?>
+<?php snippet(
+  'default-page-layout',
+  [
+    'sidebarEnabled' => true,
+    'relatedBlogsTitle' => 'Berichte aus den Arbeitsgemeinschaften',
+    'relatedBlogs' => page('blogs')
+      ->children()
+      ->listed()
+      ->filterBy('tags', 'AGs', ',')
+      ->flip(),
+  ],
+  slots: true,
+);
+slot();
+?>
 
-<?php snippet('sidebar'); ?>
-
-<div class="container mb-4 mt-4">
+<div class="mb-4 mt-4">
   <h3 class="mb-3">Arbeitsgemeinschaften im Schuljahr
     <?= Escape::html($page->termYear()) ?>
   </h3>
@@ -36,26 +47,9 @@
   </div>
 </div>
 
-<div class="container mb-4 mt-5">
+<div class="mb-4 mt-5">
   <?= $page->more_text()->toBlocks() ?>
 </div>
 
-
-<div class="container mt-4">
-
-  <h2 class="text-2xl border-t pt-4 font-bold">
-    Berichte aus den Arbeitsgemeinschaften
-  </h2>
-
-  <?php foreach (
-    page('blogs')->children()->listed()->filterBy('tags', 'AGs', ',')->flip()
-    as $subpage
-  ):
-    snippet('blogkarte', ['subpage' => $subpage]); ?>
-
-  <?php
-  endforeach; ?>
-
-</div>
-
-<?php snippet('footertw'); ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

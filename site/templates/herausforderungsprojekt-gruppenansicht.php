@@ -1,34 +1,28 @@
-<?php snippet('header'); ?>
-<?php snippet('page-header'); ?>
+<?php snippet('default-page-layout', ['sidebarEnabled' => true], slots: true);
+slot();
+?>
 
-<?php snippet('sidebar'); ?>
+<?= $page->text()->toBlocks() ?>
 
-<div class="container">
-  <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
-    <h2 class="sr-only">Bilder des Herausfordungsprojekts</h2>
+<h2 class="sr-only">Bilder des Herausfordungsprojekts</h2>
 
-    <div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
+<div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
 
-      <?php
-      $images = $page->gallery()->toFiles();
-      foreach ($images as $image): ?>
-        <div class="group aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg xl:aspect-h-8 xl:aspect-w-7">
+  <?php
+  $images = $page->gallery()->toFiles();
+  foreach ($images as $image): ?>
+    <div class="group aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg xl:aspect-h-8 xl:aspect-w-7">
 
-          <img alt="<?= $image->alt() ?>" src="<?= $image->url() ?>">
+      <img alt="<?= $image->alt() ?>" src="<?= $image->url() ?>">
 
-          <h1>
-            <?= $image->ort() ?>
-          </h1>
-          <h2>
-            <?= $image->beschreibung() ?>
-          </h2>
-        </div>
-      <?php endforeach;
-      ?>
-
+      <h1><?= $image->ort() ?></h1>
+      <h2><?= $image->beschreibung() ?></h2>
     </div>
-  </div>
+  <?php endforeach;
+  ?>
+
 </div>
 
 
-<?php snippet('footertw'); ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

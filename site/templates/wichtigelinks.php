@@ -1,6 +1,6 @@
-<?php snippet('header'); ?>
-
-<?php snippet('page-header'); ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
 
 <div class="bg-white py-24 sm:py-32">
@@ -232,5 +232,5 @@
 </div>
 
 
-
-<?php snippet('footertw'); ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

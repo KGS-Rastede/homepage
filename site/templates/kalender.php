@@ -1,5 +1,4 @@
 <?php snippet('header'); ?>
-
 <?php snippet('page-header'); ?>
 
 <?php snippet('kalender_vorbereiten'); ?>
@@ -66,23 +65,28 @@
     calendar.refetchEvents(); //Test
   });
 </script>
-<div class="container-fluid">
-  <div id='calendar'></div>
 
-  <!-- 
-    Jetzt werden zwei Variablen von FullCalender.io überschrieben.
-  Durch diese kommt es bei langen Kalendereinträgen zu Zeilenumbrüchen.
-   -->
-  <style type='text/css'>
-    .fc-daygrid-dot-event .fc-event-title {
-      white-space: normal !important;
-    }
+<main role="main">
+  <div class="p-1 md:p-3 lg:px-8 mb-2">
+    <div id='calendar'></div>
 
-    .fc-h-event .fc-event-title {
-      white-space: normal !important;
-    }
-  </style>
-</div>
+      <!-- 
+        Jetzt werden zwei Variablen von FullCalender.io überschrieben.
+      Durch diese kommt es bei langen Kalendereinträgen zu Zeilenumbrüchen.
+      -->
+      <style type='text/css'>
+        .fc-daygrid-dot-event .fc-event-title {
+          white-space: normal !important;
+        }
+
+        .fc-h-event .fc-event-title {
+          white-space: normal !important;
+        }
+      </style>
+    </div>
+  </div>
+</main>
+
 <!-- <div id='script-warning'>
   <code>public.ics</code> konnte nicht geladen werden
 </div>

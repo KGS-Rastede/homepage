@@ -1,21 +1,20 @@
-<?php snippet('header'); ?>
+<?php snippet(
+  'default-page-layout',
+  [
+    'sidebarEnabled' => true,
+    'relatedBlogsTitle' => 'Berichte über das SCHULRADELN',
+    'relatedBlogs' => page('blogs')
+      ->children()
+      ->listed()
+      ->filterBy('tags', 'SCHULRADELN', ',')
+      ->flip(),
+  ],
+  slots: true,
+);
+slot();
+?>
 
-<?php snippet('page-header'); ?>
+<?= $page->text()->toBlocks() ?>
 
-<?php snippet('sidebar'); ?>
-
-<?php $articlesQuery = page('blogs')
-  ->children()
-  ->listed()
-  ->filterBy('tags', 'SCHULRADELN', ','); ?>
-<?php if ($articlesQuery->isNotEmpty()): ?>
-  <div class="container">
-    <h2>Berichte über das SCHULRADELN</h2>
-
-    <?php foreach ($articlesQuery->flip() as $subpage): ?>
-      <?= snippet('blogkarte', ['subpage' => $subpage]) ?>
-    <?php endforeach; ?>
-  </div>
-<?php endif; ?>
-
-<?php snippet('footertw'); ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>
