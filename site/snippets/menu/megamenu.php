@@ -3,7 +3,7 @@
     class="relative bg-white dark:bg-gray-900 dark:text-gray-100">
     <!-- Header -->
     <header
-        x-data="{ mobileNavOpen: false }"
+        x-data="{ mobileNavOpen: false, searchOpen: false }"
         id="page-header"
         class="relative flex flex-none items-center py-8">
         <!-- Main Header Content -->
@@ -22,7 +22,7 @@
                 <!-- END Logo -->
 
                 <!-- Mega Menu visible on large screens -->
-                <ul class="mt-0.5 hidden items-center lg:flex">
+                <ul x-show="!searchOpen" class="mt-0.5 hidden items-center lg:flex">
                     <!-- Kontakt Kategorie -->
                     <?php snippet(
                       'menu/menu-category',
@@ -212,7 +212,6 @@
                             ['pfad' => "/allgemeines/schulbuchlisten", 'name' => "Schulbuchlisten"],
                             ['pfad' => "/allgemeines/bus", 'name' => "Buszeiten"],
                             ['pfad' => "/allgemeines/zeitraster", 'name' => "Zeitraster"],
-                            ['pfad' => "/suche", 'name' => "Suche"],
                             ['pfad' => "https://wiki.kgs-rastede.de/de/eltern/elterninfos_kompakt", 'name' => "Eltern-Wiki"]
                         ];
                         snippet('menu/menu-category-column', [
@@ -269,6 +268,29 @@
 
             <!-- Right Section -->
             <div class="flex items-center">
+                <!-- Icon mit aufklappbarer Suche zeigen -->
+                <i x-show="!searchOpen" @click="searchOpen = true; $nextTick(() => $refs.searchInput.focus())" class="bi bi-search hidden lg:block"></i>
+                <form
+                    x-show="searchOpen"
+                    x-transition:enter="transition ease-out duration-300"
+                    x-transition:enter-start="opacity-50 translate-x-20"
+                    x-transition:enter-end="opacity-100 translate-x-0"
+                    @click.outside="searchOpen = false"
+
+                    action="/search">
+                    <div class="hidden items-center space-x-2 w-md rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-gray-800 hover:border-gray-300 hover:text-gray-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-gray-300 focus-within:outline-opacity-25 active:border-gray-200 active:shadow-none lg:inline-flex dark:transparent dark:text-gray-300 dark:hover:border-gray-600 dark:focus-within:outline-opacity-40 dark:active:border-gray-700">
+                        <input type="text"
+                            x-ref="searchInput"
+                            class="grow focus:outline-none"
+                            id="search" name="q" placeholder="Suche..." />
+                        <button type="button"
+                            @click="searchOpen = false"
+                            class="text-gray-500 bg-white hover:text-gray-700 hover:bg-gray-200">
+                            <i class="bi bi-x"></i>
+                        </button>
+                    </div>
+
+                </form>
 
                 <!-- Open Mobile Navigation -->
                 <div class="ml-3 lg:hidden">
