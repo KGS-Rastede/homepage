@@ -5,7 +5,7 @@ Siehe: https://getkirby.com/docs/guide/templates/snippets#passing-slots-to-snipp
 ?>
 
 <li
-    class="group [&:focus-within>div]:visible [&:focus-within>div>div]:scale-100 [&:focus-within>div>div]:opacity-100 [&:focus-within>div>div>div]:scale-100 [&:focus-within>div>div>div]:opacity-100">
+    class="group [&:focus-within>div]:visible [&:focus-within>div>div]:scale-100 [&:focus-within>div>div]:opacity-100 [&:focus-within>div>div>div]:scale-100 [&:focus-within>div>div>div]:opacity-100 [&:not(:hover)>div]:hidden">
     <!-- Sichtbarer Titel -->
     <a
         href="javascript:void(0)"

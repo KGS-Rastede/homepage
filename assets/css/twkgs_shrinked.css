@@ -4140,6 +4140,11 @@
       opacity: 100%;
     }
   }
+  .\[\&\:not\(\:hover\)\>div\]\:hidden {
+    &:not(:hover)>div {
+      display: none;
+    }
+  }
   .\[\&\>\*\]\:border-b {
     &>* {
       border-bottom-style: var(--tw-border-style);
