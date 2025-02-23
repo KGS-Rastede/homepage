@@ -9,7 +9,7 @@ verwendet werden kann. */
     </h4>
     <nav class="flex flex-col gap-3">
         <?php foreach ($menuItems as $item) {
-            snippet('menu/menu-item', $item);
+          snippet('menu/menu-item', $item);
         } ?>
     </nav>
 </div>

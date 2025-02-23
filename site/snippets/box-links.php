@@ -19,9 +19,9 @@ $count = -1;
       $count++; ?>
       <a href="<?= $link ?>" target="_blank" rel="noopener" class="flex justify-center items-center">
 
-        <img src="<?= $kirby->url(
-          'assets',
-        ) ?>/bilder/<?= $bild ?>" alt="<?= $alt[$count] ?>" class="max-h-16 md:max-h-32">
+        <img src="<?= $kirby->url('assets') ?>/bilder/<?= $bild ?>"
+        alt="<?= $alt[$count] ?>"
+        class="max-h-16 md:max-h-32">
 
       </a>
     <?php
