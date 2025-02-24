@@ -581,7 +581,6 @@ echo ($features);
     // The 'building' layer in the Mapbox Streets
     // vector tileset contains building height data
     // from OpenStreetMap.
-
     map.addLayer(
         {
             'id': 'add-3d-buildings',
@@ -590,6 +589,7 @@ echo ($features);
             'filter': ['==', 'extrude', 'true'],
             'filter': ['all',
                     ['!=', 'type', 'school'],
+                    ['!=', 'building_id', 1203265826],
                     ['==', 'extrude', 'true']
                 ],
             'type': 'fill-extrusion',
@@ -1131,9 +1131,14 @@ echo ($features);
                     }
                     return;
                 }
+                //Features aus Layer "add-3d-buildings"  ausgeben
+                if (featureTemp.layer.id === 'add-3d-buildings') {
+                    console.log(featureTemp.properties);
+                }
             }
         }
     });
+    
 
     function zoomToRoom(featureTemp){
        // Nehme die einzelne Koordinate des Raums
