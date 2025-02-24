@@ -814,8 +814,10 @@ echo ($features);
 
             map.setLayoutProperty(`room_labels_floor_${level}`, 'text-offset', [0, 0.01]);
 
-            map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
-            map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
+            if (map.getLayer('room_searched')) {
+                map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
+                map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
+            }
                 
         });
 
@@ -856,8 +858,10 @@ echo ($features);
 
             map.setLayoutProperty(`room_labels_floor_${level}`, 'text-offset', [0, offset]);
 
-            map.setPaintProperty(`room_searched`, 'fill-extrusion-height', ['get', 'height']);
-            map.setPaintProperty(`room_searched`, 'fill-extrusion-base', ['get', 'base_height']);
+            if (map.getLayer('room_searched')) {
+                map.setPaintProperty(`room_searched`, 'fill-extrusion-height', ['get', 'height']);
+                map.setPaintProperty(`room_searched`, 'fill-extrusion-base', ['get', 'base_height']);
+            }
         });
     }
 
@@ -902,8 +906,10 @@ echo ($features);
             
             levels.forEach((level) => {
                 map.setLayoutProperty(`room_walls_${level}`, 'visibility', etage === level ? 'visible' : 'none');
-                map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
-                map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
+                if (map.getLayer('room_searched')) {
+                    map.setPaintProperty(`room_searched`, 'fill-extrusion-height', 0.01);
+                    map.setPaintProperty(`room_searched`, 'fill-extrusion-base', 0.01);
+                }
             });
         }
 
@@ -1053,7 +1059,9 @@ echo ($features);
                             }
                         }
                     });
-                    map.moveLayer('room_searched');
+                    if (map.getLayer('room_searched')) {
+                        map.moveLayer('room_searched');
+                    }
                     levels.forEach((level) => {
                         map.moveLayer(`room_labels_floor_${level}`);
                     })
@@ -1327,7 +1335,6 @@ function mouseovermarker(marker) {
 }
 
 
-console.log(`markergeojson geholt`);
 map.on('mouseenter', 'geojson-source', (e) => {
     
 });
