@@ -485,8 +485,8 @@ echo ($features);
 
 
     //==========================================================
-    //==========Icons==========
-    var markergeojson = getmarkergeojson()
+    //========== Icons ==========
+    var markergeojson = getmarkergeojson();
 
     map.addSource('geojson-source', {
         'type': 'geojson',
@@ -495,29 +495,69 @@ echo ($features);
 
     // Add markers to the map.
     for (const marker of markergeojson.features) {
-        // Create a DOM element for each marker.
         const el = document.createElement('div');
-        const width = 60;  // Größe des Markers
-        const height = 60;
+        const width = marker.properties.iconSize[0];  
+        const height = marker.properties.iconSize[1];
         const iconUrl = marker.properties.iconUrl;
 
         el.className = 'marker';
         el.style.width = `${width}px`;
         el.style.height = `${height}px`;
 
-        // Create a child div for the image
         const imgDiv = document.createElement('div');
         imgDiv.style.backgroundImage = `url(${iconUrl})`;
-        imgDiv.style.width = '80%';  // Größe des Bildes im Marker
+        imgDiv.style.width = '80%';
         imgDiv.style.height = '80%';
         el.appendChild(imgDiv);
 
+        // Popup erstellen
+        const popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false
+        }).setLngLat(marker.geometry.coordinates)
+        .setHTML(`<div class="popup-content">${marker.properties.message}</div>`);
+
+        let isMouseOverMarker = false;
+        let isMouseOverPopup = false;
+        let hideTimeout;
+
+        function showPopup() {
+            clearTimeout(hideTimeout);
+            popup.addTo(map);
+
+            // DOM-Element des Popups holen
+            const popupEl = document.querySelector('.mapboxgl-popup');
+
+            if (popupEl) {
+                popupEl.addEventListener('mouseenter', () => {
+                    isMouseOverPopup = true;
+                    clearTimeout(hideTimeout);
+                });
+
+                popupEl.addEventListener('mouseleave', () => {
+                    isMouseOverPopup = false;
+                    hidePopup();
+                });
+            }
+        }
+
+        function hidePopup() {
+            hideTimeout = setTimeout(() => {
+                if (!isMouseOverMarker && !isMouseOverPopup) {
+                    popup.remove();
+                }
+            }, 200); // Kleine Verzögerung zum Verhindern von Flackern
+        }
+
+        // Event-Listener für den Marker
         el.addEventListener('mouseenter', () => {
-            mouseovermarker(marker)
+            isMouseOverMarker = true;
+            showPopup();
         });
 
         el.addEventListener('mouseleave', () => {
-            popup.remove();
+            isMouseOverMarker = false;
+            hidePopup();
         });
 
         // Add markers to the map.
@@ -525,8 +565,11 @@ echo ($features);
             .setLngLat(marker.geometry.coordinates)
             .addTo(map);
     }
-    //==========Ende von Icons==========
+
+    //========== Ende von Icons ==========
     //==========================================================
+
+
 
     //==========================================================
     //==========Alle Gebäude in 3D==========
@@ -1026,41 +1069,41 @@ echo ($features);
     }
 
     function showToast(message, bgColor = 'red') {
-    let searchContainer = document.querySelector('.search-container');
-    if (!searchContainer) return;
+        let searchContainer = document.querySelector('.search-container');
+        if (!searchContainer) return;
 
-    let toast = document.createElement('div');
-    toast.innerText = message;
-    toast.style.position = 'absolute';
-    toast.style.background = bgColor;
-    toast.style.color = 'white';
-    toast.style.padding = '8px 12px';
-    toast.style.borderRadius = '5px';
-    toast.style.fontSize = '14px';
-    toast.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.2)';
-    toast.style.opacity = '0';
-    toast.style.transition = 'opacity 0.3s ease-in-out, transform 0.3s ease-in-out';
-
-    // Position über dem Search-Container berechnen
-    let rect = searchContainer.getBoundingClientRect();
-    toast.style.left = `${rect.left + window.scrollX}px`;
-    toast.style.top = `${rect.top + window.scrollY - 40}px`; // 40px über dem Container
-
-    document.body.appendChild(toast);
-
-    setTimeout(() => {
-        toast.style.opacity = '1';
-        toast.style.transform = 'translateY(-5px)';
-    }, 100);
-
-    setTimeout(() => {
+        let toast = document.createElement('div');
+        toast.innerText = message;
+        toast.style.position = 'absolute';
+        toast.style.background = bgColor;
+        toast.style.color = 'white';
+        toast.style.padding = '8px 12px';
+        toast.style.borderRadius = '5px';
+        toast.style.fontSize = '14px';
+        toast.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.2)';
         toast.style.opacity = '0';
-        toast.style.transform = 'translateY(0px)';
+        toast.style.transition = 'opacity 0.3s ease-in-out, transform 0.3s ease-in-out';
+
+        // Position über dem Search-Container berechnen
+        let rect = searchContainer.getBoundingClientRect();
+        toast.style.left = `${rect.left + window.scrollX}px`;
+        toast.style.top = `${rect.top + window.scrollY - 40}px`; // 40px über dem Container
+
+        document.body.appendChild(toast);
+
         setTimeout(() => {
-            toast.remove();
-        }, 300);
-    }, 3000);
-}
+            toast.style.opacity = '1';
+            toast.style.transform = 'translateY(-5px)';
+        }, 100);
+
+        setTimeout(() => {
+            toast.style.opacity = '0';
+            toast.style.transform = 'translateY(0px)';
+            setTimeout(() => {
+                toast.remove();
+            }, 300);
+        }, 3000);
+    }
 
 
 
