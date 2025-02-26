@@ -221,7 +221,13 @@ echo ($features);
     // ---------------------------------------------------------
     //  Variablen setzen
     // ---------------------------------------------------------
-	mapboxgl.accessToken = 'pk.eyJ1Ijoia2dzcmFzdGVkZSIsImEiOiJja3hnZ2dnaXczb293MnBvNWxhdWxkdnYxIn0.kHEpdxzycw6ZVg719GpdLA';
+    <?php
+    //Accestoken aus der config.php Datei holen
+    $config = require 'site/config/config.php';
+    $mapboxAccessToken = $config['mapbox']['access_token'];   
+    ?>
+    //mapboxgl.accessToken auf den soeben geholten Token setzen
+    mapboxgl.accessToken = "<?php echo $mapboxAccessToken; ?>";
 
     /*
     const geojson = {

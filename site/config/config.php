@@ -125,4 +125,8 @@ return [
         'url' => 'https://ag-wahl.kgs-rastede.de/api/v1/study_groups',
         'apiKey' => 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJBUElVU0VSIiwiaWF0IjoxNTE2MjM5MDIyfQ.CYrLWRa3dIURYyXjAW0FBfyiQK2C5mYoVeMY2clN_hY'
     ],
+    
+    'mapbox' => [
+        'access_token' => 'pk.eyJ1Ijoia2dzcmFzdGVkZSIsImEiOiJja3hnZ2dnaXczb293MnBvNWxhdWxkdnYxIn0.kHEpdxzycw6ZVg719GpdLA',
+    ],
 ];
