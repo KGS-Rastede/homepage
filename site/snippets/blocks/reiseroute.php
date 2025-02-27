@@ -14,10 +14,6 @@ $features = snippet(
   ]
 );
 
-print_r($features);
-gettype($features);
-
-echo ($features);
 ?>
 
 <!-- Gebäudeplan selber bearbeiten unter: https://osminedit.pavie.info/#18/53.24411/8.19696/0-->
