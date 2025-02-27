@@ -227,7 +227,7 @@ echo ($features);
     $mapboxAccessToken = $config['mapbox']['access_token'];   
     ?>
     //mapboxgl.accessToken auf den soeben geholten Token setzen
-    mapboxgl.accessToken = "<?php echo $mapboxAccessToken; ?>";
+    mapboxgl.accessToken = "<?= $mapboxAccessToken; ?>";
 
     /*
     const geojson = {
