@@ -921,7 +921,6 @@ $features = snippet(
     // Funktion zum Auslösen der Suche -> Rest ist in Load drin
     function performSearch() {
         var query = document.getElementById('searchInput').value;
-        console.log("Suchbegriff:", query); // Hier wird die Suche ausgeführt
         // Füge hier den Code hinzu, um die Suche durchzuführen
         gesuchterRaum = query;
         raumsuchen(gesuchterRaum)
@@ -977,8 +976,6 @@ $features = snippet(
                                 'filter': ['==', 'name', searchTerm]
                             }, roomLayerId);
 
-                            // Jetzt kannst du roomSearchedLevel verwenden, um damit zu arbeiten
-                            //console.log(`Das Level des gesuchten Raums '${searchTerm}' ist ${roomSearchedLevel}.`);
 
                             roomFound = true;
 
@@ -1015,7 +1012,6 @@ $features = snippet(
                                         }
                                     }
                                 }
-                                console.log(etage)
                                 toggleFloor();
 
                                 // Ändere die Knopffarben hier entsprechend der ausgewählten Etage
@@ -1095,7 +1091,6 @@ $features = snippet(
                     //toggleFloor();
                     //Raumname 
                     name = featureTemp.properties.name;
-                    console.log("Raum geklickt. Etage: " + name);
                     if (map.getLayer('room_searched')) {
                         map.removeLayer('room_searched');
                         if (currentPopup) {
@@ -1105,10 +1100,6 @@ $features = snippet(
                        raumsuchen(name);
                     }
                     return;
-                }
-                //Features aus Layer "add-3d-buildings"  ausgeben
-                if (featureTemp.layer.id === 'add-3d-buildings') {
-                    console.log(featureTemp.properties);
                 }
             }
         }
@@ -1283,7 +1274,6 @@ function mouseovermarker(marker) {
     // Populiere das Popup und setze die Koordinaten
     popup.setLngLat(coordinates).setHTML(description).addTo(map);
     popup.setOffset(offset);
-    console.log(`Die Koordinate ist '${coordinates}' und die Beschreibung: ${description}.`);
     map.options.scrollWheelZoom = false;
 }
 
