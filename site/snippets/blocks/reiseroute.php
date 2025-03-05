@@ -27,211 +27,36 @@
         ]
     );
 ?>
-
-
-<!-- ========================================================= -->
-<!-- Definiere HTML-Elemente (Knöpfe, Marker, Kartencontainer, etc.)-->
-<!-- ========================================================= -->
-<style>
-    body {
-      margin: 0;
-      padding: 0;
-      overflow: auto;
-    }
-    #map-container {
-      position: relative;
-      width: 100%;
-      height: 60vh;
-      overflow: hidden; 
-    }
-    #map {
-        width: 100%; /* Breite auf 100% des Containers setzen */
-        height: 87%; /* Höhe auf 100% des Containers setzen */
-    }
-
-    /*==========Knöpfe für die 2D und 3D Ansicht==========*/
-    #perspective-buttons {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        z-index: 1;
-        display: flex; /* Flexbox für einfache Ausrichtung */
-        gap: 10px; /* Abstand zwischen den Knöpfen */
-        background-color: #f5f5f5; /* Hintergrund für den Container */
-        padding: 6px; /* Kompaktes Padding für den Container */
-        border-radius: 8px; /* Abgerundete Ecken für modernen Look */
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Leichter Schatten für Tiefe */
-    }
-    #perspective-buttons button {
-        background-color: #ffffff; /* Weißer Hintergrund für die Buttons */
-        color: #333333; /* Dunkelgrauer Text */
-        border: none; /* Kein Rahmen für einen sauberen Look */
-        border-radius: 6px; /* Leicht abgerundete Ecken */
-        padding: 6px 12px; /* Kompaktes Padding für kleinere Buttons */
-        cursor: pointer; /* Zeiger-Cursor für Interaktivität */
-        font-family: Arial, sans-serif; /* Moderne, serifenlose Schriftart */
-        font-size: 12px; /* Kleinere Schriftgröße für einen schlankeren Look */
-        transition: background-color 0.3s, transform 0.3s; /* Sanfte Übergänge bei Hover */
-    }
-    #perspective-buttons button:hover {
-        background-color: #e0e0e0; /* Hellgrauer Hintergrund bei Hover */
-        transform: translateY(-2px); /* Leichter Hover-Effekt */
-    }
-    #perspective-buttons button:active {
-        background-color: #d0d0d0; /* Dunkleres Grau bei Aktivierung */
-        transform: translateY(0); /* Rückstellung des Hover-Effekts */
-    }
-
-    /*==========Knöpfe für die Etagenauswahl==========*/
-    #floor-buttons {
-        position: absolute;
-        top: 75px;
-        right: 10px;
-        z-index: 1;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-end;
-        background-color: #f5f5f5;
-        padding: 6px; /* Reduziertes Padding für den Container */
-        border-radius: 8px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-    #floor-buttons button {
-        background-color: #ffffff;
-        color: #333333;
-        border: none;
-        border-radius: 6px;
-        padding: 6px 12px; /* Reduziertes Padding für kleinere Buttons */
-        margin-bottom: 6px; /* Weniger Abstand zwischen den Buttons */
-        cursor: pointer;
-        font-family: Arial, sans-serif;
-        font-size: 12px; /* Kleinere Schriftgröße */
-        transition: background-color 0.3s, transform 0.3s;
-    }
-    #floor-buttons button:hover {
-        background-color: #e0e0e0;
-        transform: translateY(-2px);
-    }
-    #floor-buttons button:active {
-        background-color: #d0d0d0;
-        transform: translateY(0);
-    }
-
-    /*==========Suchleiste==========*/
-    .search-container {
-        display: flex;
-        align-items: center;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        overflow: hidden;
-        max-width: 400px; /* Maximale Breite der Suchleiste */
-        margin: 20px auto; /* Zentriert die Suchleiste auf der Seite */
-    }
-    .search-input {
-        flex: 1;
-        padding: 10px 15px;
-        border: 1px solid #cccccc;
-        border-radius: 8px 0 0 8px;
-        font-size: 16px;
-        outline: none; /* Entfernt den Standard-Fokus-Rand */
-        transition: border-color 0.3s;
-    }
-    .search-input:focus {
-        border-color: #999999; /* Farbe bei Fokussierung */
-        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Sanfte Schatten bei Fokussierung */
-    }
-    .search-button {
-        padding: 10px 15px;
-        background-color: #f0f0f0; /* Sehr heller Grauton für einen modernen Look */
-        color: #333333; /* Dunkelgrauer Text für Kontrast */
-        border: 1px solid #dddddd; /* Heller Graufarbener Rand */
-        border-radius: 0 8px 8px 0;
-        cursor: pointer;
-        font-size: 16px;
-        transition: background-color 0.3s, border-color 0.3s, transform 0.2s;
-    }
-    .search-button:hover {
-        background-color: #e0e0e0; /* Etwas dunklerer Grauton beim Hover */
-        border-color: #cccccc; /* Dunklerer Rand beim Hover */
-    }
-    .search-button:active {
-        background-color: #d0d0d0; /* Noch dunklerer Grauton beim Klicken */
-        border-color: #bbbbbb; /* Noch dunklerer Rand beim Klicken */
-        transform: translateY(1px); /* Leichter Klick-Effekt */
-    }
-    /*==========Marker==========*/
-    .marker {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 60px;              /* Größe des Markers */
-        height: 60px;
-        background-color: #FFFFFF; /* Weißer Hintergrund für den Marker */
-        border: 5px solid #eee; /* Grauer Rand um den Marker */
-        border-radius: 50%;       /* Macht den Marker rund */
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Schatten für Tiefe */
-        overflow: hidden;         /* Verhindert Überlauf des Bildes */
-        cursor: pointer
-    }
-    .marker div {
-        width: 30px;             /* Größe des Bildes innerhalb des Markers */
-        height: 30px;
-        background-size: contain; /* Bild wird vollständig angezeigt */
-        background-repeat: no-repeat; /* Verhindert Wiederholung des Bildes */
-        background-position: center; /* Zentriert das Bild */
-    }
-    /*==========Toast Nachricht (Raum nicht gefunden Fehlernachricht)==========*/
-    @keyframes toastAnimation {
-        0% {
-            opacity: 0;
-            transform: translateY(0);
-        }
-        10% {
-            opacity: 1;
-            transform: translateY(-5px);
-        }
-        90% {
-            opacity: 1;
-            transform: translateY(-5px);
-        }
-        100% {
-            opacity: 0;
-            transform: translateY(0);
-        }
-    }
-    .toast {
-        position: absolute;
-        background: red; /* Standard Hintergrundfarbe */
-        color: white;
-        padding: 8px 12px;
-        border-radius: 5px;
-        font-size: 14px;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-        opacity: 0;
-        animation: toastAnimation 3s ease-in-out forwards;
-    }
-</style>
-
-
 <!-- ========================================================= -->
 <!-- Knöpfe(mit Text) in der Karte erstellen  -->
 <!-- ========================================================= -->
-<div id="map-container">
-    <div id="perspective-buttons">
-        <button id="toggle-2d" >2D</button>
-        <button id="toggle-3d">3D</button>
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<div id="map-container" class="relative w-full h-[60vh] overflow-hidden">
+    <!-- 2D und 3D Buttons -->
+    <div id="perspective-buttons" class="absolute top-2 left-2 z-10 flex gap-2 bg-gray-100 p-2 rounded-xl shadow-lg">
+        <button id="toggle-2d" class="bg-white text-gray-700 border-none rounded-lg py-2 px-4 text-sm hover:bg-gray-200 active:bg-gray-300 transition-all">2D</button>
+        <button id="toggle-3d" class="bg-white text-gray-700 border-none rounded-lg py-2 px-4 text-sm hover:bg-gray-200 active:bg-gray-300 transition-all">3D</button>
     </div>
-    <div id="map"></div>
-    <div id="floor-buttons">
-        <button id="floor_2" class="circle">2</button>
-        <button id="floor_1" class="circle">1</button>
-        <button id="floor_0" class="circle">0</button>
-        <button id="floor_-1" class="circle">-1</button>
+
+    <!-- Karte -->
+    <div id="map" class="w-full h-[87%]"></div>
+
+    <!-- Etagen Buttons -->
+    <div id="floor-buttons" class="absolute top-[75px] right-2 z-10 flex flex-col items-end bg-gray-100 p-2 rounded-xl shadow-lg">
+        <button id="floor_2" class="bg-white text-gray-700 border-none rounded-lg py-2 px-4 mb-2 text-sm hover:bg-gray-200 active:bg-gray-300 transition-all">2</button>
+        <button id="floor_1" class="bg-white text-gray-700 border-none rounded-lg py-2 px-4 mb-2 text-sm hover:bg-gray-200 active:bg-gray-300 transition-all">1</button>
+        <button id="floor_0" class="bg-white text-gray-700 border-none rounded-lg py-2 px-4 mb-2 text-sm hover:bg-gray-200 active:bg-gray-300 transition-all">0</button>
+        <button id="floor_-1" class="bg-white text-gray-700 border-none rounded-lg py-2 px-4 text-sm hover:bg-gray-200 active:bg-gray-300 transition-all">-1</button>
     </div>
-    <div class="search-container">
-        <form id="searchForm">
-            <input type="text" class="search-input" id="searchInput" placeholder="Raum suchen...">
-            <button class="search-button" type="submit" id="searchButton">Suchen</button>
+
+    <!-- Suchleiste -->
+    <div class="search-container flex items-center rounded-lg shadow-lg overflow-hidden max-w-[400px] mx-auto my-5">
+        <form id="searchForm" class="w-full flex">
+            <input type="text" class="search-input flex-1 py-2 px-3 border border-gray-300 rounded-l-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-300" id="searchInput" placeholder="Raum suchen...">
+            <button class="search-button py-2 px-4 bg-gray-200 text-gray-700 border border-gray-300 rounded-r-lg hover:bg-gray-300 active:bg-gray-400 transition-all" type="submit" id="searchButton">Suchen</button>
         </form>
     </div>
 </div>
@@ -795,36 +620,39 @@
     }
 
 
-    // ---------------------------------------------------------
-    //  Etagen Knöpfe und wechsel
-    // ---------------------------------------------------------
-    // Etage-Knöpfe
-    //Knopfdruck erkennen
-    levels.forEach((level) => {
-        const floor_button = document.getElementById(`floor_${level}`);
-        
-        floor_button.addEventListener('click', () => {
-            // Alle Knöpfe auf die ursprüngliche Farbe zurücksetzen
-            levels.forEach((otherLevel) => {
-                const other_button = document.getElementById(`floor_${otherLevel}`);
-                other_button.style.backgroundColor = "#ffffff";
-            });
-            // Die Farbe des angeklickten Knopfes ändern
-            if(etage == level){
-                if(!twoD){
-                    alleEtagenAnzeigen();
-                } else{
-                    floor_button.style.backgroundColor = "#d0d0d0";
-                }
-                
-            } else{
-                etage = level;
-                floor_button.style.backgroundColor = "#d0d0d0";
-                toggleFloor(); 
-            }
-            
+// ---------------------------------------------------------
+// Etagen Knöpfe und Wechsel
+// ---------------------------------------------------------
+// Etage-Knöpfe
+levels.forEach((level) => {
+    const floor_button = document.getElementById(`floor_${level}`);
+    
+    floor_button.addEventListener('click', () => {
+        // Alle Knöpfe auf die ursprüngliche Farbe zurücksetzen
+        levels.forEach((otherLevel) => {
+            const other_button = document.getElementById(`floor_${otherLevel}`);
+            // Entfernen der Tailwind-Klassen, die die Hintergrundfarbe beeinflussen
+            other_button.classList.remove('bg-gray-300', 'bg-white');
+            other_button.classList.add('bg-white'); // Setzt zurück auf Weiß
         });
+
+        // Die Farbe des angeklickten Knopfes ändern
+        if (etage == level) {
+            if (!twoD) {
+                alleEtagenAnzeigen();
+            } else {
+                // Im 2D-Modus wird der Knopf grau
+                floor_button.classList.remove('bg-white');
+                floor_button.classList.add('bg-gray-300');
+            }
+        } else {
+            etage = level;
+            floor_button.classList.remove('bg-white');
+            floor_button.classList.add('bg-gray-300');
+            toggleFloor(); 
+        }
     });
+});
 
 
     //Richtige Etage anzeigen

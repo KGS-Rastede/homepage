@@ -1,77 +1,32 @@
 <head>
-    <style>
-        .outer-box {
-            border: 3px solid #bbb;
-            padding: 20px;
-            margin: 20px auto;
-            background-color: #efefef;
-            border-radius: 15px;
-            max-width: 70%;
-        }
-
-        /* Gemeinsame Stile für alle inneren Boxen */
-        .inner-box {
-            border: 2px solid #ccc;
-            padding: 5px;
-            background-color: #f9f9f9;
-            border-radius: 10px;
-            flex: 1;
-            min-width: 280px;
-        }
-
-        /* Spezifische Anpassung für die oberen Boxen */
-        .upper-box {
-            font-size: 12px; /* Kleinere Schrift für die oberen Boxen */
-            padding: 10px; /* Weniger Padding für die oberen Boxen */
-            text-align: center;
-        }
-
-        /* Zweite Reihe - Anfahrtstexte (größere Schrift) */
-        .description {
-            font-size: 14px;
-            padding: 5px; /* Etwas mehr Padding für die unteren Boxen */
-        }
-
-        .row {
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 40px;
-        }
-
-        .text-center {
-            text-align: center;
-        }
-    </style>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 <?php snippet('header') ?>
 <?php snippet('page-header') ?>
 
-<div class="container">
-    <div class="outer-box">
-        <div class="col-md-8 ms-auto me-auto text-center">
-            <h2 class="title" style="margin-bottom: 15px; font-size: 25px;">
-                <?= $page->main_text() ?>
-            </h2>
+<div class="container mx-auto px-4">
+    <div class="outer-box border-3 border-gray-300 p-5 my-5 bg-gray-200 rounded-xl max-w-7xl mx-auto">
+        <div class="col-md-8 mx-auto text-center">
+            <h2 class="title text-xl mb-4"><?= $page->main_text() ?></h2>
         </div>
 
         <!-- Erste Reihe: Adressen (kleiner in Schriftgröße und Padding) -->
-        <div class="row">
-            <div class="inner-box upper-box">
+        <div class="row flex flex-wrap gap-10 justify-between">
+            <div class="inner-box flex-1 min-w-[280px] border-2 border-gray-300 p-3 bg-gray-100 rounded-lg text-sm text-center">
                 <h6><?= $page->adresse_s2()->toBlocks() ?></h6>
             </div>
-            <div class="inner-box upper-box">
+            <div class="inner-box flex-1 min-w-[280px] border-2 border-gray-300 p-3 bg-gray-100 rounded-lg text-sm text-center">
                 <h6><?= $page->adresse_s1()->toBlocks() ?></h6>
             </div>
         </div>
 
         <!-- Zweite Reihe: Anfahrtstexte (größere Schrift und mehr Padding) -->
-        <div class="row">
-            <div class="inner-box">
+        <div class="row flex flex-wrap gap-10 justify-between">
+            <div class="inner-box flex-1 min-w-[280px] border-2 border-gray-300 p-3 bg-gray-100 rounded-lg text-base">
                 <p class="description"><?= $page->anfahrt_text_s2()->toBlocks() ?></p>
             </div>
-            <div class="inner-box">
+            <div class="inner-box flex-1 min-w-[280px] border-2 border-gray-300 p-3 bg-gray-100 rounded-lg text-base">
                 <p class="description"><?= $page->anfahrt_text_s1()->toBlocks() ?></p>
             </div>
         </div>
