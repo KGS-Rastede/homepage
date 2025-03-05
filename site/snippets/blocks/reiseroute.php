@@ -458,7 +458,7 @@
     // Add markers to the map.
     for (const marker of markergeojson.features) {
         const el = document.createElement('div');
-        const width = marker.properties.iconSize[0];  
+        const width = marker.properties.iconSize[0];
         const height = marker.properties.iconSize[1];
         const iconUrl = marker.properties.iconUrl;
 
@@ -477,14 +477,12 @@
             closeButton: false,
             closeOnClick: false
         }).setLngLat(marker.geometry.coordinates)
-        .setHTML(`<div class="popup-content">${marker.properties.message}</div>`);
+            .setHTML(`<div class="popup-content">${marker.properties.message}</div>`);
 
         let isMouseOverMarker = false;
         let isMouseOverPopup = false;
-        let hideTimeout;
 
         function showPopup() {
-            clearTimeout(hideTimeout);
             popup.addTo(map);
 
             // DOM-Element des Popups holen
@@ -492,34 +490,31 @@
 
             if (popupEl) {
                 popupEl.addEventListener('mouseenter', () => {
-                    isMouseOverPopup = true;
-                    clearTimeout(hideTimeout);
+                    isMouseOverPopup = true; // Maus ist über dem Popup
                 });
 
                 popupEl.addEventListener('mouseleave', () => {
-                    isMouseOverPopup = false;
-                    hidePopup();
+                    isMouseOverPopup = false; // Maus verlässt das Popup
+                    hidePopup(); // Popup nur entfernen, wenn Maus nicht mehr über Marker oder Popup ist
                 });
             }
         }
 
         function hidePopup() {
-            hideTimeout = setTimeout(() => {
-                if (!isMouseOverMarker && !isMouseOverPopup) {
-                    popup.remove();
-                }
-            }, 200); // Kleine Verzögerung zum Verhindern von Flackern
+            if (!isMouseOverMarker && !isMouseOverPopup) {
+                popup.remove(); // Popup nur entfernen, wenn Maus weder über Marker noch über Popup ist
+            }
         }
 
         // Event-Listener für den Marker
         el.addEventListener('mouseenter', () => {
-            isMouseOverMarker = true;
+            isMouseOverMarker = true; // Maus ist über dem Marker
             showPopup();
         });
 
         el.addEventListener('mouseleave', () => {
-            isMouseOverMarker = false;
-            hidePopup();
+            isMouseOverMarker = false; // Maus verlässt den Marker
+            hidePopup(); // Popup entfernen nur, wenn Maus auch nicht mehr über dem Popup ist
         });
 
         // Fügt den Marker der Map hinzu
@@ -529,7 +524,6 @@
     }
     //========== Ende von Icons ==========
     //==========================================================
-
 
     //==========================================================
     //==========Alle Gebäude in 3D==========
