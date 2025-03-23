@@ -1,10 +1,14 @@
-<?php snippet('default-page-layout', slots: true);
+<?php
+
+use Kirby\Toolkit\Escape;
+
+snippet('default-page-layout', slots: true);
 slot();
 ?>
 
 <div class="grid grid-cols-1 md:grid-cols-2">
   <div>
-    <?= markdown($page->content->description()) ?>
+    <?= markdown($page->content()->description()) ?>
   </div>
   <?php if ($image = $page->image()): ?>
     <div>
@@ -19,22 +23,22 @@ slot();
     <dt>AG-Leitung:</dt>
     <dd>
       <?= Escape::html(
-        implode(', ', $page->content->teachers()->toArray()['teachers']),
+        implode(', ', $page->content()->teachers()->toArray()['teachers']),
       ) ?>
     </dd>
     <dt>Jahrgänge:</dt>
     <dd>
       <?= Escape::html(
-        implode(', ', $page->content->grades()->toArray()['grades']),
+        implode(', ', $page->content()->grades()->toArray()['grades']),
       ) ?>
     </dd>
     <dt>Termin:</dt>
     <dd>
-      <?= $page->content->date() ?>
+      <?= $page->content()->date() ?>
     </dd>
     <dt>Raum:</dt>
     <dd>
-      <?= Escape::html($page->content->room()) ?>
+      <?= Escape::html($page->content()->room()) ?>
     </dd>
   </dl>
 </div>
