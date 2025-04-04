@@ -49,11 +49,11 @@
     </div>
 
     <!-- Suchleiste -->
-    <div class="search-container flex items-center rounded-lg shadow-lg overflow-hidden max-w-[400px] mx-auto my-5">
-        <form id="searchForm" class="w-full flex">
-            <input type="text" class="flex-1 py-2 px-3 border border-gray-300 rounded-l-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-300" id="searchInput" placeholder="Raum suchen...">
-            <button class="py-2 px-4 bg-gray-200 text-gray-700 border border-gray-300 rounded-r-lg hover:bg-gray-300 active:bg-gray-400 transition-all" type="submit" id="searchButton">Suchen</button>
-        </form>
+    <div class="search-container flex items-center rounded-lg overflow-hidden max-w-[400px] mx-auto my-5">
+      <form action="javascript:void(0)" onsubmit="raumsuchen(this.roomsearch.value)" class="w-full flex">
+        <input type="text" name="roomsearch" class="flex-1 py-2 px-3 border border-gray-300 rounded-l-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-300 box-border" placeholder="Raum suchen...">
+        <button type="submit" class="py-2 px-4 bg-gray-200 text-gray-700 border border-gray-300 rounded-r-lg hover:bg-gray-300 active:bg-gray-400 transition-all box-border">Suchen</button>
+      </form>
     </div>
 </div>
 
@@ -486,22 +486,6 @@
     animateDashArray(0);
     //==========Ende von Wege animieren==========
     //==========================================================
-
-
-
-    //==========================================================
-    //==========Rest==========
-
-    // Event listener für das Formular (onsubmit)
-    document.getElementById('searchForm').onsubmit = function(e) {
-        e.preventDefault(); // Verhindert das Standardverhalten des Formulars (Seitenneu-Laden)
-        const query = document.getElementById('searchInput').value;
-        if (query) {
-            gesuchterRaum = query;
-            raumsuchen(gesuchterRaum); // Führt die Suche aus
-        }
-    };
-
     });
 
     function raumnummernVerstecken(){
