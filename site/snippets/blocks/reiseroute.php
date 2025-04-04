@@ -30,10 +30,6 @@
 <!-- ========================================================= -->
 <!-- Knöpfe(mit Text) in der Karte erstellen  -->
 <!-- ========================================================= -->
-<head>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-
 <div id="map-container" class="relative w-full h-[60vh] overflow-hidden">
     <!-- 2D und 3D Buttons -->
     <div id="perspective-buttons" class="absolute top-2 left-2 z-10 flex gap-2 bg-gray-100 p-2 rounded-xl shadow-lg">
@@ -55,8 +51,8 @@
     <!-- Suchleiste -->
     <div class="search-container flex items-center rounded-lg shadow-lg overflow-hidden max-w-[400px] mx-auto my-5">
         <form id="searchForm" class="w-full flex">
-            <input type="text" class="search-input flex-1 py-2 px-3 border border-gray-300 rounded-l-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-300" id="searchInput" placeholder="Raum suchen...">
-            <button class="search-button py-2 px-4 bg-gray-200 text-gray-700 border border-gray-300 rounded-r-lg hover:bg-gray-300 active:bg-gray-400 transition-all" type="submit" id="searchButton">Suchen</button>
+            <input type="text" class="flex-1 py-2 px-3 border border-gray-300 rounded-l-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-300" id="searchInput" placeholder="Raum suchen...">
+            <button class="py-2 px-4 bg-gray-200 text-gray-700 border border-gray-300 rounded-r-lg hover:bg-gray-300 active:bg-gray-400 transition-all" type="submit" id="searchButton">Suchen</button>
         </form>
     </div>
 </div>
