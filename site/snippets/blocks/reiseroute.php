@@ -55,6 +55,12 @@
         <button type="submit" class="py-2 px-4 bg-gray-200 text-gray-700 border border-gray-300 rounded-r-lg hover:bg-gray-300 active:bg-gray-400 transition-all box-border">Suchen</button>
       </form>
     </div>
+    <div id="toast" class="absolute bottom-11 right-2 z-2 font-semibold p-2 rounded-lg shadow-lg bg-red-600 opacity-0 transition-opacity duration-300">
+        <span>Raum nicht gefunden</span>
+        <button class="p-2 ml-2 hover:text-gray-600" onclick="document.getElementById('toast').classList.add('opacity-0')">
+          <i class="bi bi-x"></i>
+        </button>
+    </div>
 </div>
 
 
@@ -796,7 +802,7 @@ levels.forEach((level) => {
         });
 
         if (!roomFound) {
-            showToast('Raum nicht gefunden');
+            showToast();
         }
     }
 
@@ -804,26 +810,12 @@ levels.forEach((level) => {
     //  Nachricht, wenn Raum nicht gefunden wird
     // ---------------------------------------------------------
 
-    function showToast(message, bgColor = 'red') {
-        let searchContainer = document.querySelector('.search-container');
-        if (!searchContainer) return;
-
-        let toast = document.createElement('div');
-        toast.innerText = message;
-        toast.className = 'toast';
-        toast.style.transition = 'opacity 0.3s ease-in-out, transform 0.3s ease-in-out';
-
-        // Position über dem Search-Container berechnen
-        let rect = searchContainer.getBoundingClientRect();
-        toast.style.left = `${rect.left + window.scrollX}px`;
-        toast.style.top = `${rect.top + window.scrollY - 40}px`; // 40px über dem Container
-
-        document.body.appendChild(toast);
-
-        // Die Animation endet nach 3 Sekunden und entfernt das Toast automatisch
-        toast.addEventListener('animationend', () => {
-            toast.remove();
-        });
+    function showToast() {
+        const toast = document.getElementById('toast');
+        toast.classList.remove('opacity-0');
+        window.setTimeout(() => {
+            toast.classList.add('opacity-0');
+        }, 3000);
     }
 
     //==========Ende von Knöpfen==========
