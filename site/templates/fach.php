@@ -1,12 +1,4 @@
-<?php snippet(
-  'default-page-layout',
-  [
-    'sidebarEnabled' => true,
-    'relatedBlogsTitle' => 'Aktuelles aus dem Fach',
-    'relatedBlogs' => collection('blogs-haupttag')->flip(),
-  ],
-  slots: true,
-);
+<?php snippet('default-page-layout', slots: true);
 slot();
 ?>
 
@@ -49,6 +41,12 @@ slot();
   </div>
 
 <?php endif; ?>
+
+<?php snippet('sidebar'); ?>
+<?php snippet('related-blogs', [
+  'relatedBlogsTitle' => 'Aktuelles aus dem Fach',
+  'relatedBlogs' => collection('blogs-haupttag')->flip(),
+]); ?>
 
 <?php endslot(); ?>
 <?php endsnippet(); ?>

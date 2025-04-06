@@ -1,4 +1,4 @@
-<?php snippet('default-page-layout', ['sidebarEnabled' => true], slots: true);
+<?php snippet('default-page-layout', slots: true);
 slot();
 ?>
 
@@ -23,6 +23,8 @@ slot();
 
 </div>
 
+
+<?php snippet('sidebar'); ?>
 
 <?php endslot(); ?>
 <?php endsnippet(); ?>

@@ -1,0 +1,33 @@
+Title: Erster Plattdeutscher Lesewettbewerb an der KGS Rastede!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://SnzKfTy5gIprXNFV"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c9c21016-b2fd-436b-a179-d7dbcba1f968","isHidden":false,"type":"image"}],"id":"0ae0d47a-c012-44c6-bb93-61106b224f8a","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://GzR2EULPprSgjEqe"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f779722c-e075-47b1-8d31-e4f80ba2f739","isHidden":false,"type":"image"}],"id":"25c8cd6c-43f6-44e2-9165-46d6d1ae737a","width":"1/2"}],"id":"adcd13c5-8111-4c8e-82f2-b1770d300d74"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Moin mitanner! </p><p>Der Plattdeutsche Lesewettbewerb an der KGS Rastede war ein voller Erfolg! </p><p>Am 5. März 2025 fand an der KGS Rastede der Schulentscheid des Plattdeutschen Lesewettbewerbs statt. In der 3. und 4. Stunde traten vier mutige Schülerinnen und Schüler der Altersstufe C in der Aula gegeneinander an, um ihr Können in der plattdeutschen Sprache unter Beweis zu stellen. Mit dabei waren Leefke Kröger, Mats Hoofdmann und Louis Schönefeldt aus der 5C3 sowie Annike van der Heide aus der 6E3. Alle hatten im Vorfeld verschiedene Texte auf Plattdeutsch vorbereitet und präsentierten am Wettbewerbstag jeweils einen ausgewählten Text zur Bewertung. </p><p>Die Zuhörenden, bestehend aus Schülerinnen und Schülern der 5. und 6. Klassen, unterstützten die Vorlesenden mit viel Applaus und sorgten für eine tolle Atmosphäre. Die Organisation des Wettbewerbs lag in den Händen von Frau Ulrike Boelsen und Frau Kristina Czapelka. Beide waren gemeinsam mit Herrn Henning Stockmann auch Teil der Jury, die die schwierige Aufgabe hatte, die besten Vorlesenden zu küren. </p><p>Am Ende konnte sich Leefke Kröger mit dem Text „De pädagogische Opgaav“ deutlich den ersten Platz sichern, gefolgt von Mats Hoofdmann auf Platz zwei. Den dritten Platz belegte Annike van der Heide und Louis Schönefeldt Rang vier. Alle Teilnehmenden konnten sich am Ende über eine Urkunde und ein kleines Präsent freuen – eine verdiente Anerkennung für ihre tolle Leistung!</p><p>Der Wettbewerb war ein voller Erfolg und hat gezeigt, wie lebendig die plattdeutsche Sprache an der KGS Rastede ist. </p><p>Anfang Mai geht es nun in die nächste Runde: den Kreisentscheid. Wir drücken unseren Teilnehmenden fest die Daumen und freuen uns schon auf die nächste Ausgabe des Plattdeutschen Lesewettbewerbs an der KGS Rastede!</p>"},"id":"d0f63ba6-42a3-497b-85ee-12f8b7377638","isHidden":false,"type":"text"}],"id":"70694c34-88b1-4891-8322-13bcfe98a1fa","width":"1/1"}],"id":"e1228be7-7e7a-4863-9230-82aa9f2a6eb9"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://03LQ8mFTK5ISyGLP"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"1cfe82bd-73d6-4966-b333-c3267a19b293","isHidden":false,"type":"image"}],"id":"6f7a346d-9a11-4586-b163-7fa7b851f205","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://YvkEH6jysdXqQyKr"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"08fb6cbb-9c66-4988-af52-90a4f81c06a0","isHidden":false,"type":"image"}],"id":"0b47fa3b-99f2-4617-9ab4-37d584bb5c5a","width":"1/2"}],"id":"a694a626-5277-4aba-8a89-f7433283d82e"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://GKA2rfA2ISW8evoc"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"af252ea2-b18e-4795-be0c-b4ab123ce629","isHidden":false,"type":"image"}],"id":"c848b28f-7b05-4842-a8c0-b16bb3485cde","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://8hpXKYZRliNWJifs"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"55790674-d7bc-4d4d-b5b8-5d5201c5dec9","isHidden":false,"type":"image"}],"id":"95c65318-e0f7-449b-b6fc-5558fd7957e7","width":"1/2"}],"id":"2e31dc66-20b0-480e-9796-5ce257d2bea2"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://JaBOQpOetSk6x1Ir"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"7655a004-899a-416f-89a9-64dc79a2a295","isHidden":false,"type":"image"}],"id":"a2467f9d-3225-4933-92a0-ff1d05cdc451","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://rGxI2lku77uzS3qC"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f9eca075-3dd6-4308-b66b-1dafbc775d10","isHidden":false,"type":"image"}],"id":"6ccc0733-e261-4b8f-a40f-33ed794c9a82","width":"1/2"}],"id":"a8f04b10-5f52-4565-839c-395fcb078f5b"}]
+
+----
+
+Date: 2025-03-18 10:00:00
+
+----
+
+Datumstartseite: 2025-07-18 10:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Ulrike Boelsen und Kristina Czapelka
+
+----
+
+Tags: Wettbewerb, Deutsch, Lesen, Projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: cEcpE7yMtacX1PLo

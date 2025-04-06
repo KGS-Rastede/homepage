@@ -1,16 +1,4 @@
-<?php snippet(
-  'default-page-layout',
-  [
-    'sidebarEnabled' => true,
-    'relatedBlogsTitle' => 'Aktuelles aus den Schülerfirmen',
-    'relatedBlogs' => page('blogs')
-      ->children()
-      ->listed()
-      ->filterBy('tags', 'Schülerfirmen', ',')
-      ->flip(),
-  ],
-  slots: true,
-);
+<?php snippet('default-page-layout', slots: true);
 slot();
 ?>
 
@@ -51,6 +39,16 @@ slot();
   <?php endforeach; ?>
 
 </div>
+
+<?php snippet('sidebar'); ?>
+<?php snippet('related-blogs', [
+  'relatedBlogsTitle' => 'Aktuelles aus den Schülerfirmen',
+  'relatedBlogs' => page('blogs')
+    ->children()
+    ->listed()
+    ->filterBy('tags', 'Schülerfirmen', ',')
+    ->flip(),
+]); ?>
 
 <?php endslot(); ?>
 <?php endsnippet(); ?>

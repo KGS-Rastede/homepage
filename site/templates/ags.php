@@ -1,16 +1,8 @@
-<?php snippet(
-  'default-page-layout',
-  [
-    'sidebarEnabled' => true,
-    'relatedBlogsTitle' => 'Berichte aus den Arbeitsgemeinschaften',
-    'relatedBlogs' => page('blogs')
-      ->children()
-      ->listed()
-      ->filterBy('tags', 'AGs', ',')
-      ->flip(),
-  ],
-  slots: true,
-);
+<?php
+
+use Kirby\Toolkit\Escape;
+
+snippet('default-page-layout', slots: true);
 slot();
 ?>
 
@@ -50,6 +42,16 @@ slot();
 <div class="mb-4 mt-5">
   <?= $page->more_text()->toBlocks() ?>
 </div>
+
+<?php snippet('sidebar'); ?>
+<?php snippet('related-blogs', [
+  'relatedBlogsTitle' => 'Berichte aus den Arbeitsgemeinschaften',
+  'relatedBlogs' => page('blogs')
+    ->children()
+    ->listed()
+    ->filterBy('tags', 'AGs', ',')
+    ->flip(),
+]); ?>
 
 <?php endslot(); ?>
 <?php endsnippet(); ?>

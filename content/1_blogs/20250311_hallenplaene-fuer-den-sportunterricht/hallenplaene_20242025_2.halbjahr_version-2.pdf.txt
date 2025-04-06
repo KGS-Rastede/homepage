@@ -1,0 +1,13 @@
+Anzeigename: Hallenpläne für den Sportunterricht
+
+----
+
+Beschreibung: Hallenpläne für den Sportunterricht
+
+----
+
+Uuid: hKuI5v5NWjnQbOGe
+
+----
+
+Template: datei

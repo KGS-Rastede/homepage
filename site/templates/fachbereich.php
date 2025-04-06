@@ -1,14 +1,4 @@
-<?php snippet(
-  'default-page-layout',
-  [
-    'sidebarEnabled' => true,
-    'relatedBlogsTitle' => 'Aktuelles aus dem Fachbereich',
-    'relatedBlogs' => collection('blogs')
-      ->filterBy('tags', 'in', $page->tags()->split(','), ',')
-      ->flip(),
-  ],
-  slots: true,
-);
+<?php snippet('default-page-layout', slots: true);
 slot();
 ?>
 
@@ -19,6 +9,14 @@ foreach ($relatedPages as $relatedPage): ?>
   <a href="<?= $relatedPage->url() ?>"><?= $relatedPage->title() ?></a>
 <?php endforeach;
 ?>
+
+<?php snippet('sidebar'); ?>
+<?php snippet('related-blogs', [
+  'relatedBlogsTitle' => 'Aktuelles aus dem Fachbereich',
+  'relatedBlogs' => collection('blogs')
+    ->filterBy('tags', 'in', $page->tags()->split(','), ',')
+    ->flip(),
+]); ?>
 
 <?php endslot(); ?>
 <?php endsnippet(); ?>

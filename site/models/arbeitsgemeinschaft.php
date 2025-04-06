@@ -1,5 +1,11 @@
 <?php
 
+use Kirby\Cms\Files;
+use Kirby\Cms\Page;
+use Kirby\Filesystem\F;
+use Kirby\Filesystem\Mime;
+use Kirby\Http\Remote;
+
 /**
  * Represents an image for a Study Group.
  *
@@ -89,15 +95,15 @@ class StudyGroupImage
 
 class ArbeitsgemeinschaftPage extends Page
 {
-    public function images(): \Kirby\Cms\Files
+    public function images(): Files
     {
-        if ($this->content->image_url()->isEmpty()) {
+        if ($this->content()->image_url()->isEmpty()) {
             return parent::images();
         }
 
         $study_group_image = new StudyGroupImage(
             $this->slug(),
-            $this->content->image_url(),
+            $this->content()->image_url(),
             $this->root(),
         );
 

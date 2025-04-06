@@ -1,4 +1,4 @@
-<?php snippet('default-page-layout', ['sidebarEnabled' => true], slots: true);
+<?php snippet('default-page-layout', slots: true);
 slot();
 ?>
 <?= css('assets/css/geschichte.css') ?>
@@ -16,6 +16,8 @@ slot();
 <ul class="timeline timeline-centered">
   <?= $page->text()->toBlocks() ?>
 </ul>
+
+<?php snippet('sidebar'); ?>
 
 <?php endslot(); ?>
 <?php endsnippet(); ?>

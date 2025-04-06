@@ -1,0 +1,33 @@
+Title: Die Bienenfairsteher brauchen eure Hilfe
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ljlmBgY7nvkLPzV7"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"b621b6ae-b0db-45c9-96d5-1a29510a495f","isHidden":false,"type":"image"}],"id":"450d3d84-2d59-4e22-9f59-7f85f2cf39f3","width":"1/1"}],"id":"b5f60e2d-e3af-41a4-a9be-e9a4ba105739"}]
+
+----
+
+Date: 2025-03-28 08:45:00
+
+----
+
+Datumstartseite: 2025-07-28 08:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schülerfirma Bienenfairsteher
+
+----
+
+Tags: Schülerfirmen, Bienenfairsteher
+
+----
+
+Downloads: 
+
+----
+
+Uuid: xVk1kkZeWrIeX2aw
