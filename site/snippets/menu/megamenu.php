@@ -58,15 +58,15 @@
                             ['pfad' => "/schule/schulprogramm", 'name' => "Schulprogramm"],
                             ['pfad' => "/unterricht/schulvorstand", 'name' => "Schulvorstand"],
                             ['pfad' => "/schule/geschichte", 'name' => "Unsere Geschichte"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Übergang Grundschule / KGS"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Die drei Schulzweige"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Oberstufe"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Abschlüsse an der KGS"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Profile und Wahlen"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Zuständigkeiten / Organigram"],
+                            ['pfad' => "/schule/grundschule", 'name' => "Übergang Grundschule / KGS"],
+                            ['pfad' => "/schule/zweige", 'name' => "Die drei Schulzweige"],
+                            ['pfad' => "/schule/oberstufe", 'name' => "Oberstufe"],
+                            ['pfad' => "/schule/abschluesse", 'name' => "Abschlüsse an der KGS"],
+                            ['pfad' => "/schule/wahlen", 'name' => "Profile und Wahlen"],
+                            ['pfad' => "schule/organigramm", 'name' => "Zuständigkeiten / Organigram"],
 
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Ausbildungsschule"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Unsere Schule in der Presse"]
+                            ['pfad' => "/schule/ausbildungsschule", 'name' => "Ausbildungsschule"],
+                            ['pfad' => "/schule/presse", 'name' => "Unsere Schule in der Presse"]
                         ];
                         snippet('menu/menu-category-column', [
                             'title' => 'Die KGS',
