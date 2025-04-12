@@ -62,11 +62,17 @@
       <?php
       // prettier-ignore
       $menuItems = [
-        ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
-      ];
+        ['pfad' => "/allgemeines/anfahrt", 'name' => "Anfahrt"],
+        ['pfad' => "/kontakte/schulleitung", 'name' => "Schulleitung"],
+        ['pfad' => "/kontakte/fbl", 'name' => "Fachbereichsleiter"],
+        ['pfad' => "/kontakte/sekretariate", 'name' => "Sekretariate"],
+        ['pfad' => "/kontakte/sekretariate", 'name' => "Hausmeister"],
+        ['pfad' => "/sv", 'name' => "Schüler:innen Vertretung (SV)"],
+        ['pfad' => "/kontakte/spr", 'name' => "Schulpersonalrat (SPR)"],
+        ['pfad' => "/kontakte/gleichstellung", 'name' => "Gleichstellungsbeauftragte"],
+        ['pfad' => "https://www.ser-kgs.de", 'name' => "Schulelternrat (SER)"],
+        ['pfad' => "https://foerderverein.kgsraste.de", 'name' => "Förderverein"]
+    ];
       snippet('menu/menu-mobile-category-column', [
         'title' => 'Kontakt linke Spalte',
         'menuItems' => $menuItems,
@@ -74,11 +80,20 @@
 
       // prettier-ignore
       $menuItems = [
-        ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
-      ];
+        ['pfad' => "/schule/leitbild", 'name' => "Leitbild"],
+        ['pfad' => "/schule/schulprogramm", 'name' => "Schulprogramm"],
+        ['pfad' => "/unterricht/schulvorstand", 'name' => "Schulvorstand"],
+        ['pfad' => "/schule/geschichte", 'name' => "Unsere Geschichte"],
+        ['pfad' => "/schule/grundschule", 'name' => "Übergang Grundschule / KGS"],
+        ['pfad' => "/schule/zweige", 'name' => "Die drei Schulzweige"],
+        ['pfad' => "/schule/oberstufe", 'name' => "Oberstufe"],
+        ['pfad' => "/schule/abschluesse", 'name' => "Abschlüsse an der KGS"],
+        ['pfad' => "/schule/wahlen", 'name' => "Profile und Wahlen"],
+        ['pfad' => "schule/organigramm", 'name' => "Zuständigkeiten / Organigram"],
+
+        ['pfad' => "/schule/ausbildungsschule", 'name' => "Ausbildungsschule"],
+        ['pfad' => "/schule/presse", 'name' => "Unsere Schule in der Presse"]
+    ];
       snippet('menu/menu-mobile-category-column', [
         'title' => 'Kontakt rechte Spalte',
         'menuItems' => $menuItems,
@@ -87,7 +102,7 @@
       <?php endslot(); ?>
       <?php endsnippet(); ?>
     </div>
-    <div class="grid grid-cols-3 gap-6">
+    <div class="grid grid-cols-2 gap-6">
       <?php snippet(
         'menu/menu-mobile-category',
         ['title' => 'Über die Schule'],
@@ -98,31 +113,18 @@
       // prettier-ignore
       $menuItems = [
         ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
         ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
-      ];
-      snippet('menu/menu-mobile-category-column', [
-        'title' => 'Links',
-        'menuItems' => $menuItems,
-      ]);
+        ['pfad' => "/unterricht/schulhund", 'name' => "Schulhund"],
+        ['pfad' => "/unterricht/schulradeln", 'name' => "Schulradeln"],
+        ['pfad' => "/unterricht/ssd", 'name' => "Schulsanitätsdienst"],
+        ['pfad' => "/unterricht/schulsport", 'name' => "Schulsport"],
+        ['pfad' => "/unterricht/bo-coaches", 'name' => "BO-Coaches. Hilfe bei der Berufsorientierung"],
+        ['pfad' => "/unterricht/wettbewerbe", 'name' => "Wettbewerbe"],
+        ['pfad' => "/unterricht/ag-angebot", 'name' => "Arbeitsgemeinschaften"],
+        ['pfad' => "/unterricht/online-schueler-innenzeitung", 'name' => "Schüler:innenzeitschrift IRREGULäR"],
+        ['pfad' => "/unterricht/herausforderungsprojekt/herausforderungsprojekt-2025", 'name' => "Herausforderungsprojekt 2025"]
 
-      // prettier-ignore
-      $menuItems = [
-        ['pfad' => "/unterricht/ag-frieden", 'name' => "Leitbild"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulprogramm"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulvorstand"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Unsere Geschichte"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulvorstand"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Übergang Grundschule / KGS"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Die drei Schulzweige"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Oberstufe"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Abschlüsse an der KGS"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Profile und Wahlen"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Zuständigkeiten / Organigram"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Ausbildungsschule"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Unsere Schule in der Presse"]
-      ];
+    ];
       snippet('menu/menu-mobile-category-column', [
         'title' => 'Mitte',
         'menuItems' => $menuItems,
@@ -130,17 +132,14 @@
 
       // prettier-ignore
       $menuItems = [
-        ['pfad' => "/unterricht/ag-frieden", 'name' => "Anfahrt"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulleitung"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Fachbereichsleiter"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Sekretariate"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Hausmeister"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Schüler:innen Vertretung (SV)"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulpersonalrat (SPR)"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Gleichstellungsbeauftragte"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulelternrat (SER)"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Förderverein"]
-      ];
+        ['pfad' => "/unterricht/erasmus", 'name' => "Erasmus"],
+        ['pfad' => "/unterricht/schule-ohne-rassismus-schule-mit-courage", 'name' => "Schule ohne Rassismus - Schule mit Courage"],
+        ['pfad' => "/beratungskonzept", 'name' => "Unterstützung und Beratung"],
+        ['pfad' => "/unterricht/inklusion", 'name' => "Inklusion"],
+        ['pfad' => "/unterricht/berufsorientierung", 'name' => "Berufliche Orientierung"],
+        ['pfad' => "/unterricht/schuelerfirmen", 'name' => "Schülerfirmen"],
+        ['pfad' => "/Faecher", 'name' => "Fächer"]
+    ];
       snippet('menu/menu-mobile-category-column', [
         'title' => 'Rechts',
         'menuItems' => $menuItems,
@@ -149,7 +148,7 @@
       <?php endslot(); ?>
       <?php endsnippet(); ?>
     </div>
-    <div class="grid grid-cols-2 gap-6">
+    <div class="grid">
       <?php snippet(
         'menu/menu-mobile-category',
         ['title' => 'Service und Downloads'],
@@ -159,23 +158,12 @@
       <?php
       // prettier-ignore
       $menuItems = [
-        ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
-      ];
-      snippet('menu/menu-mobile-category-column', [
-        'title' => 'Learn',
-        'menuItems' => $menuItems,
-      ]);
-
-      // prettier-ignore
-      $menuItems = [
-        ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"],
-        ['pfad' => "/unterricht/streitschlichter", 'name' => "Streitschlichter"],
-        ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulsanitätsdienst"]
-      ];
+        ['pfad' => "/allgemeines/wichtigelinks", 'name' => "Informationen und Formular"],
+        ['pfad' => "/allgemeines/schulbuchlisten", 'name' => "Schulbuchlisten"],
+        ['pfad' => "/allgemeines/bus", 'name' => "Buszeiten"],
+        ['pfad' => "/allgemeines/zeitraster", 'name' => "Zeitraster"],
+        ['pfad' => "https://wiki.kgs-rastede.de/de/eltern/elterninfos_kompakt", 'name' => "Eltern-Wiki"]
+    ];
       snippet('menu/menu-mobile-category-column', [
         'title' => 'Downloads',
         'menuItems' => $menuItems,
