@@ -223,11 +223,11 @@
                             class="col-span-3 space-y-6 bg-gray-50 p-8 dark:bg-gray-700/25">
                             <h4
                                 class="font-semibold tracking-wider text-kgs-blue uppercase dark:text-kgs-lblue">
-                                Das Wichtigste für Eltern
+                                <?= page("navbar")->Linkmenue2_1()->toUrl() ?>
                             </h4>
                             <div class="grid grid-cols-3 gap-4 xl:gap-8">
                                 <a
-                                    href="https://wiki.kgs-rastede.de/de/eltern"
+                                    href="<?= page("navbar")->Linkmenue2_1()->toUrl() ?>"
                                     class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
                                     <div
                                         class="flex h-32 items-center justify-center rounded-lg border border-gray-200 bg-white text-emerald-500 dark:border-gray-700/75 dark:bg-gray-900/50 dark:text-emerald-400">
