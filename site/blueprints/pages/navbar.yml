@@ -1,29 +1,55 @@
 title: Navbar
 
 fields:
-  navbar:
-    type: structure
-    label: Kategorien
-    fields:
-      dropdownToggle:
-        type: toggle
-        label: Dropdown oder Link?
-        text:
-          - 'Direkter Link' #false
-          - 'Dropdown' #true
-      kategorieTitel:
-        type: text
-        label: Titel der Kategorie
-      kategorieSeite:
-        type: pages
-        label: Seite der Kategorie
-        max: 1
-        when:
-          dropdownToggle: false
-      unterpunkte:
-        type: structure
-        label: Unterpunkte
-        when:
-          dropdownToggle: true
-        fields:
-          navitemfields: fields/navitemfields
+  menue1:
+    label: Menü "Über die Schule"
+    type: headline
+  linkmenue1-1:
+    label: "Erster Link"
+    type: link
+    options:
+      - page
+      - url
+  linkmenue1-2:
+    label: "Zweiter Link"
+    type: link
+    options:
+      - page
+      - url
+  lineB:
+    type: line
+
+  menue2:
+    label: Menü "Unterricht und Schulleben"
+    type: headline
+  linkmenue2-1:
+    label: "Erster Link"
+    type: link
+    options:
+      - page
+      - url 
+  
+  linkmenue2-2:
+    label: "Zweiter Link"
+    type: link
+    options:
+      - page
+      - url
+  lineC:
+    type: line
+
+  menue3:
+    label: Menü "Informationen"
+    type: headline
+  linkmenue3-1:
+    label: "Erster Link"
+    type: link
+    options:
+      - page
+      - url
+  linkmenue3-2:
+    label: "Zweiter Link"
+    type: link
+    options:
+      - page
+      - url
