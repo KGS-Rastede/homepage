@@ -26,11 +26,11 @@ if ($block->location() == 'web') {
 
       <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
 
-      <h3 class="mt-3 text-lg/6 font-semibold text-white">
-        <a href="#">
-          <span class="absolute inset-0"></span>
-          <?= $caption ?> </a>
-      </h3>
+      <div class="flex bg-slate-400/50 justify-center rounded-2xl">
+        <h3 class="mt-3 text-lg/6 font-semibold text-white pb-4 px-4">
+          <?= $caption ?>
+        </h3>
+      </div>
     </article>
   </div>
 
