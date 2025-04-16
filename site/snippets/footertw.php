@@ -1,7 +1,7 @@
 <hr>
 
 <!-- Footer container -->
-<footer id="page-footer" class="bg-neutral-100 text-center dark:bg-neutral-600 lg:text-left">
+<footer id="page-footer" class="bg-neutral-200 text-center dark:bg-neutral-600 lg:text-left">
 
     <div class="container xl:max-w-7xl mx-auto px-4 py-4 lg:px-8 lg:py-8">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
