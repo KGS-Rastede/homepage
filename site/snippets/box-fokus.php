@@ -1,7 +1,7 @@
 <?php if (
-  collection('blogs-topartikel')->isNotEmpty()
-)://wenn aktuelle Topartikel vorhanden sind
-   ?>
+    collection('blogs-topartikel')->isNotEmpty()
+): //wenn aktuelle Topartikel vorhanden sind
+?>
 
     <h2 class="font-semibold p-2 mt-4 text-4xl">Aktuell im Fokus</h2>
 
@@ -14,15 +14,15 @@
                     <span aria-hidden="true" class="grow bg-gray-200 rounded h-0.5 dark:bg-gray-700/75"></span>
                 </h3>
             <?php endif;
-          //Trennstrich kommt nur, wenn es keine Artikel vor diesem Element gibt
-          ?>
+            //Trennstrich kommt nur, wenn es keine Artikel vor diesem Element gibt
+            ?>
 
             <div class="hover:bg-slate-100">
 
                 <a href="<?= $subpage->url() ?>" role="button">
 
                     <!-- Card Header -->
-                    <h3 class="py-2 px-3 text-semibold text-3xl text-blue-700">
+                    <h3 class="py-2 px-3 text-semibold text-3xl text-blue-600">
                         <?= $subpage->title() ?>
                     </h3>
                     <!-- END Card Header -->

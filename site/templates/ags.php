@@ -29,7 +29,7 @@ slot();
             </a>
           <?php else: ?>
             <div class="p-4">
-              <a href="<?= $arbeitsgemeinschaft->url() ?>" class="text-blue-500 hover:underline">mehr...</a>
+              <a href="<?= $arbeitsgemeinschaft->url() ?>" class="text-blue-600 hover:underline">mehr...</a>
             </div>
           <?php endif; ?>
         </div>
