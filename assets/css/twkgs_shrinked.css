@@ -1825,9 +1825,6 @@
   .border-red-500 {
     border-color: var(--color-red-500);
   }
-  .border-slate-100 {
-    border-color: var(--color-slate-100);
-  }
   .border-slate-300 {
     border-color: var(--color-slate-300);
   }
