@@ -173,6 +173,25 @@
       <?php endsnippet(); ?>
     </div>
   </div>
+  <div class="h-px bg-gray-200/75 dark:bg-gray-700/75"></div>
+      <div class="flex flex-col gap-2 p-6">
+        <form
+                    @click.outside="searchOpen = false"
+
+                    action="/search">
+                    <div class="item-center space-x-2 w-md rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-gray-900 hover:border-gray-300 hover:text-gray-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-gray-300 focus-within:outline-opacity-25 active:border-gray-200 active:shadow-none lg:inline-flex dark:transparent dark:text-gray-300 dark:hover:border-gray-600 dark:focus-within:outline-opacity-40 dark:active:border-gray-700">
+                    <button type="button"
+                            @click="searchOpen = false"
+                            class="text-gray-500 bg-white rounded-full px-1 hover:text-gray-700 hover:bg-gray-200">
+                            <i class="bi bi-x"></i>
+                        </button>    
+                    <input type="text"
+                            x-ref="searchInput"
+                            class="grow focus:outline-none"
+                            id="search" name="q" placeholder="Suche..." />
+                    </div>
+                </form>
+      </div>
 
 </nav>
 <!-- END Mobile Navigation -->
