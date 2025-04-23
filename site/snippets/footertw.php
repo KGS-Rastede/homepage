@@ -24,14 +24,14 @@
 
                 <ul class="mb-0 list-none">
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'kontakte/schulleitung',
-                                                                                )->url() ?>">Schulleitung</a></li>
+                      'kontakte/schulleitung',
+                    )->url() ?>">Schulleitung</a></li>
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'kontakte/fbl',
-                                                                                )->url() ?>">Fachbereichsleiter</a></li>
+                      'kontakte/fbl',
+                    )->url() ?>">Fachbereichsleiter</a></li>
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'kontakte/sekretariate',
-                                                                                )->url() ?>">Sekretariate</a></li>
+                      'kontakte/sekretariate',
+                    )->url() ?>">Sekretariate</a></li>
 
                 </ul>
             </nav>
@@ -45,14 +45,14 @@
                 <ul class="mb-0 list-none">
 
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'allgemeines/schulbuchlisten',
-                                                                                )->url() ?>">Schulbuchlisten</a></li>
+                      'allgemeines/schulbuchlisten',
+                    )->url() ?>">Schulbuchlisten</a></li>
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'allgemeines/schulordnung',
-                                                                                )->url() ?>">Schulordnung</a></li>
+                      'allgemeines/schulordnung',
+                    )->url() ?>">Schulordnung</a></li>
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'allgemeines/wichtigelinks',
-                                                                                )->url() ?>">Informationen und Formulare</a></li>
+                      'allgemeines/wichtigelinks',
+                    )->url() ?>">Informationen und Formulare</a></li>
 
                 </ul>
             </nav>
@@ -66,14 +66,14 @@
                 <ul class="mb-0 list-none">
 
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'schule/geschichte',
-                                                                                )->url() ?>">Unsere Geschichte</a></li>
+                      'schule/geschichte',
+                    )->url() ?>">Unsere Geschichte</a></li>
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'allgemeines/anfahrt',
-                                                                                )->url() ?>">Anfahrt</a></li>
+                      'allgemeines/anfahrt',
+                    )->url() ?>">Anfahrt</a></li>
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
-                                                                                    'allgemeines/impressum',
-                                                                                )->url() ?>">Impressum</a></li>
+                      'allgemeines/impressum',
+                    )->url() ?>">Impressum</a></li>
                     <li><a class="text-neutral-800 dark:text-neutral-200" href="https://kgs-rastede.l-e-o.eu" target="_blank" rel="noopener">Mensa</a></li>
                 </ul>
             </nav>

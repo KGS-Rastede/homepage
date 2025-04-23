@@ -6,8 +6,8 @@ slot();
   <div class="relative">
 
     <input type="search" id="default-search" name="q" value="<?= html(
-                                                                $query,
-                                                              ) ?>"
+      $query,
+    ) ?>"
       class="block w-full p-4 ps-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-700 focus:border-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-700 dark:focus:border-blue-500"
       placeholder="Suchen..." required>
     <button type="submit" formaction="#top"

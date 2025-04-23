@@ -25,9 +25,9 @@
                 <ul x-show="!searchOpen" class="mt-0.5 hidden items-center lg:flex">
                     <!-- Kontakt Kategorie -->
                     <?php snippet(
-                        'menu/menu-category',
-                        ['title' => 'Über die Schule'],
-                        slots: true,
+                      'menu/menu-category',
+                      ['title' => 'Über die Schule'],
+                      slots: true,
                     ); ?>
                     <?php slot('menuContent'); ?>
                     <div
@@ -48,8 +48,8 @@
                             ['pfad' => "https://foerderverein.kgsraste.de", 'name' => "Förderverein"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Kontakt',
-                            'menuItems' => $menuItems,
+                          'title' => 'Kontakt',
+                          'menuItems' => $menuItems,
                         ]);
 
                         // prettier-ignore
@@ -69,8 +69,8 @@
                             ['pfad' => "/schule/presse", 'name' => "Unsere Schule in der Presse"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Die KGS',
-                            'menuItems' => $menuItems,
+                          'title' => 'Die KGS',
+                          'menuItems' => $menuItems,
                         ]);
                         ?>
                         <div
@@ -111,9 +111,9 @@
 
                     <!-- Ueber die Schule Kategorie -->
                     <?php snippet(
-                        'menu/menu-category',
-                        ['title' => 'Unterricht & Schulleben'],
-                        slots: true,
+                      'menu/menu-category',
+                      ['title' => 'Unterricht & Schulleben'],
+                      slots: true,
                     ); ?>
                     <?php slot('menuContent'); ?>
                     <div
@@ -129,8 +129,8 @@
                             ['pfad' => "/unterricht/ssd", 'name' => "Schulsanitätsdienst"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => '',
-                            'menuItems' => $menuItems,
+                          'title' => '',
+                          'menuItems' => $menuItems,
                         ]);
 
                         // prettier-ignore
@@ -144,8 +144,8 @@
 
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => '',
-                            'menuItems' => $menuItems,
+                          'title' => '',
+                          'menuItems' => $menuItems,
                         ]);
 
                         // prettier-ignore
@@ -159,8 +159,8 @@
                             ['pfad' => "/Faecher", 'name' => "Fächer"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => '',
-                            'menuItems' => $menuItems,
+                          'title' => '',
+                          'menuItems' => $menuItems,
                         ]);
                         ?>
 
@@ -196,9 +196,9 @@
 
                     <!-- Unterricht und Schulleben Kategorie -->
                     <?php snippet(
-                        'menu/menu-category',
-                        ['title' => 'Informationen'],
-                        slots: true,
+                      'menu/menu-category',
+                      ['title' => 'Informationen'],
+                      slots: true,
                     ); ?>
                     <?php slot('menuContent'); ?>
                     <div
@@ -214,8 +214,8 @@
                             ['pfad' => "https://wiki.kgs-rastede.de/de/eltern/elterninfos_kompakt", 'name' => "Eltern-Wiki"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Informationen',
-                            'menuItems' => $menuItems,
+                          'title' => 'Informationen',
+                          'menuItems' => $menuItems,
                         ]);
                         ?>
 
@@ -223,11 +223,13 @@
                             class="col-span-3 space-y-6 bg-gray-50 p-8 dark:bg-gray-700/25">
                             <h4
                                 class="font-semibold tracking-wider text-kgs-blue uppercase dark:text-kgs-lblue">
-                                <?= page("navbar")->Linkmenue2_1()->toUrl() ?>
+                                <?= page('navbar')->Linkmenue2_1()->toUrl() ?>
                             </h4>
                             <div class="grid grid-cols-3 gap-4 xl:gap-8">
                                 <a
-                                    href="<?= page("navbar")->Linkmenue2_1()->toUrl() ?>"
+                                    href="<?= page('navbar')
+                                      ->Linkmenue2_1()
+                                      ->toUrl() ?>"
                                     class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
                                     <div
                                         class="flex h-32 items-center justify-center rounded-lg border border-gray-200 bg-white text-emerald-500 dark:border-gray-700/75 dark:bg-gray-900/50 dark:text-emerald-400">

@@ -40,7 +40,10 @@
       Alpine.data('slider', () => ({
         currentIndex: 1,
         images: [
-          <?php foreach ($block->karousel()->toFiles() as $image): ?> '<?= $image->url() ?>',
+          <?php foreach (
+            $block->karousel()->toFiles()
+            as $image
+          ): ?> '<?= $image->url() ?>',
           <?php endforeach; ?>
         ],
         back() {

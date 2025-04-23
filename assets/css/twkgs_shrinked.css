@@ -2510,6 +2510,13 @@
       }
     }
   }
+  .group-hover\:text-gray-500 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        color: var(--color-gray-500);
+      }
+    }
+  }
   .group-hover\:text-gray-600 {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {
@@ -2647,13 +2654,6 @@
     &:hover {
       @media (hover: hover) {
         background-color: var(--color-gray-50);
-      }
-    }
-  }
-  .hover\:bg-gray-100 {
-    &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-gray-100);
       }
     }
   }
@@ -3092,11 +3092,6 @@
   .sm\:px-0 {
     @media (width >= 40rem) {
       padding-inline: calc(var(--spacing) * 0);
-    }
-  }
-  .sm\:px-2 {
-    @media (width >= 40rem) {
-      padding-inline: calc(var(--spacing) * 2);
     }
   }
   .sm\:px-6 {

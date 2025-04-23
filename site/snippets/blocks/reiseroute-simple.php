@@ -44,15 +44,12 @@
                         <?php if ($block->bild()->isEmpty()): ?>
                             //Es wurde kein Bild hinterlegt, also ein Standard-Bild
                             'iconUrl': '<?= $kirby->url(
-                                            'assets',
-                                        ) ?>/logo-kgs.jpg'
+                              'assets',
+                            ) ?>/logo-kgs.jpg'
 
                         <?php else: ?>
 
-                            'iconUrl': '<?= $block
-                                            ->bild()
-                                            ->toFile()
-                                            ->url() ?>'
+                            'iconUrl': '<?= $block->bild()->toFile()->url() ?>'
 
                         <?php endif; ?>
 

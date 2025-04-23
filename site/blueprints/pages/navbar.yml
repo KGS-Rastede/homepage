@@ -5,7 +5,7 @@ fields:
     label: Menü "Über die Schule"
     type: headline
   linkmenue1_1:
-    label: "Erster Link"
+    label: 'Erster Link'
     type: link
     options:
       - page
@@ -14,7 +14,7 @@ fields:
     type: text
     label: Beschriftung
   linkmenue1_2:
-    label: "Zweiter Link"
+    label: 'Zweiter Link'
     type: link
     options:
       - page
@@ -29,17 +29,17 @@ fields:
     label: Menü "Unterricht und Schulleben"
     type: headline
   linkmenue2_1:
-    label: "Erster Link"
+    label: 'Erster Link'
     type: link
     options:
       - page
-      - url 
+      - url
   linkmenue2_1_text:
     type: text
     label: Beschriftung
-  
+
   linkmenue2_2:
-    label: "Zweiter Link"
+    label: 'Zweiter Link'
     type: link
     options:
       - page
@@ -54,7 +54,7 @@ fields:
     label: Menü "Informationen"
     type: headline
   linkmenue3_1:
-    label: "Erster Link"
+    label: 'Erster Link'
     type: link
     options:
       - page
@@ -63,7 +63,7 @@ fields:
     type: text
     label: Beschriftung
   linkmenue3_2:
-    label: "Zweiter Link"
+    label: 'Zweiter Link'
     type: link
     options:
       - page

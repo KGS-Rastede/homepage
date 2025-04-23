@@ -13,29 +13,29 @@ $blogCardImage = null; // das Bild was in der Blogkarte angezeigt werden soll
 $blogCardImageAlt = ''; // der Alternativtext vom Bild
 if (
   $block = $subpage
-  ->text()
-  ->toBlocks()
-  ->filterBy('type', '==', 'image')
-  ->first()
+    ->text()
+    ->toBlocks()
+    ->filterBy('type', '==', 'image')
+    ->first()
 ) {
   // Erstes Bild als Block
   $blogCardImage = $block->image()->toFile();
   $blogCardImageAlt = $block->alt();
 } elseif (
   $block = $subpage
-  ->text()
-  ->toBlocks()
-  ->filterBy('type', '==', 'gallery')
-  ->first()
+    ->text()
+    ->toBlocks()
+    ->filterBy('type', '==', 'gallery')
+    ->first()
 ) {
   // Erste Gallery als Block
   $blogCardImage = $block->images()->toFiles()->first();
 } elseif (
   $block = $subpage
-  ->text()
-  ->toBlocks()
-  ->filterBy('type', '==', 'karousel')
-  ->first()
+    ->text()
+    ->toBlocks()
+    ->filterBy('type', '==', 'karousel')
+    ->first()
 ) {
   // Erstes Karousel als Block
   $blogCardImage = $block->karousel()->first()->toFile();
