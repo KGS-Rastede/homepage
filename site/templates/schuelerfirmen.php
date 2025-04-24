@@ -21,9 +21,6 @@ slot();
           <p class="mt-1 text-gray-600">
             <?= $sf->Heading() ?>
           </p>
-          <p class="mt-3 leading-2 text-gray-600">
-            <?= $sf->text()->toBlocks()->excerpt(300) ?>
-          </p>
 
         </div>
       </div>

@@ -11,10 +11,10 @@ slot();
         <h3 class="font-semibold text-xl"><?= $fb->title() ?></h3>
 
       </div>
-      <p class="text-base font-medium text-gray-600 dark:text-gray-400">
+      <p class="text-base font-medium text-gray-600 dark:text-gray-300">
         <?= $fb->bezeichnung() ?>
       </p>
-      <p class="text-lg font-medium text-gray-600 dark:text-gray-400">
+      <p class="text-lg font-medium text-gray-600 dark:text-gray-300">
         <?= $fb->namefbl() ?>
       </p>
       <div class="space-y-2">

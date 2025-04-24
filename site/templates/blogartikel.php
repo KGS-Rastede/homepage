@@ -11,10 +11,10 @@ slot();
 
   <?php if ($page->date()->isNotEmpty() || $page->author()->isNotEmpty()): ?>
     <h3 class="text-xl leading-relaxed font-medium text-gray-700 dark:text-gray-300">
-      <span class="me-4 text-gray-600 dark:text-gray-400">
+      <span class="me-4 text-gray-600 dark:text-gray-300">
         <?= $page->author() ?>
       </span>
-      
+
       <span class="font-semibold">
         <?= $page->date()->toDate('d.m.Y') ?>
       </span>

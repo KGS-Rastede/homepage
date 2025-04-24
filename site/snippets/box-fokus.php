@@ -22,7 +22,7 @@
                 <a href="<?= $subpage->url() ?>" role="button">
 
                     <!-- Card Header -->
-                    <h3 class="py-2 px-3 text-semibold text-3xl text-blue-700">
+                    <h3 class="py-2 px-3 text-semibold text-3xl text-blue-600">
                         <?= $subpage->title() ?>
                     </h3>
                     <!-- END Card Header -->

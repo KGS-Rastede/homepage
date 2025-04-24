@@ -6,7 +6,7 @@
       <h3 class="mb-1 text-2xl font-semibold">
         <?= $block->ueberschrift() ?>
       </h3>
-      <p class="mb-4 text-gray-500 dark:text-gray-400">
+      <p class="mb-4 text-gray-500 dark:text-gray-300">
         <?= $block->feldinhalt()->kt() ?>
       </p>
 

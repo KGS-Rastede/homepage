@@ -1,6 +1,6 @@
 <?php if ($block->karousel()->isNotEmpty()): ?>
 
-  <article x-data="slider" class="relative w-full flex flex-shrink-0 overflow-hidden shadow-2xl">
+  <article x-data="slider" class="relative mt-8 mb-8 w-full flex flex-shrink-0 overflow-hidden shadow-2xl">
     <div class="rounded-full bg-gray-600 text-white absolute top-5 right-5 text-sm px-2 text-center z-10">
       <span x-text="currentIndex"></span>/
       <span x-text="images.length"></span>
@@ -11,7 +11,7 @@
         x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
         x-transition:leave="transition transform duration-300" x-transition:leave-start="opacity-100"
         x-transition:leave-end="opacity-0">
-        <img :src="image" alt="Image" class="absolute inset-0 z-10 h-full w-full object-cover opacity-70" />
+        <img :src="image" alt="Image" class="absolute rounded-2xl inset-0 z-10 h-full w-full object-cover opacity-70" />
       </figure>
     </template>
 
@@ -40,8 +40,10 @@
       Alpine.data('slider', () => ({
         currentIndex: 1,
         images: [
-          <?php foreach ($block->karousel()->toFiles() as $image): ?>
-                                  '<?= $image->url() ?>',
+          <?php foreach (
+            $block->karousel()->toFiles()
+            as $image
+          ): ?> '<?= $image->url() ?>',
           <?php endforeach; ?>
         ],
         back() {

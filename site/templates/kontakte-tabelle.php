@@ -56,7 +56,7 @@ slot();
               <?= $kontakt->title() ?>
             </p>
           </td>
-          <td class="p-3 text-gray-500 dark:text-gray-400">
+          <td class="p-3 text-gray-500 dark:text-gray-300">
             <script type="text/javascript">
               var mail = "<?= $kontakt->Heading() ?>";
               var en = "eu";
@@ -134,7 +134,7 @@ slot();
               <?= $kontakt->title() ?>
             </p>
           </td>
-          <td class="p-3 text-gray-500 dark:text-gray-400">
+          <td class="p-3 text-gray-500 dark:text-gray-300">
             <script type="text/javascript">
               var mail = "<?= $kontakt->Heading() ?>";
               var en = "eu";

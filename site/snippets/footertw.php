@@ -1,7 +1,7 @@
 <hr>
 
 <!-- Footer container -->
-<footer id="page-footer" class="bg-neutral-100 text-center dark:bg-neutral-600 lg:text-left">
+<footer id="page-footer" class="bg-neutral-200 text-center dark:bg-neutral-600 lg:text-left">
 
     <div class="container xl:max-w-7xl mx-auto px-4 py-4 lg:px-8 lg:py-8">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
@@ -80,7 +80,7 @@
         </div>
 
     </div>
-    <hr class="my-10 border-dashed border-gray-200 dark:border-gray-700/75" />
+    <hr class="my-4 border-dashed border-gray-200 dark:border-gray-700/75" />
     <div
         class="flex flex-col gap-6 text-center text-sm">
         <nav class="space-x-4">
@@ -115,7 +115,7 @@
 
 
         </nav>
-        <div class="text-gray-500 dark:text-gray-400/80">
+        <div class="text-gray-500 dark:text-gray-300/80">
             <span class="font-medium">
                 <div class="col" id="copyrightText">
                     <script>

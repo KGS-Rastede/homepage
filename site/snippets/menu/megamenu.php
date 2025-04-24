@@ -1,6 +1,6 @@
 <!-- Main Header Section: With Mega Menu -->
 <div
-    class="relative bg-white dark:bg-gray-900 dark:text-gray-100">
+    class="z-50 relative bg-white dark:bg-gray-900 dark:text-gray-100">
     <!-- Header -->
     <header
         x-data="{ mobileNavOpen: false, searchOpen: false }"
@@ -25,9 +25,9 @@
                 <ul x-show="!searchOpen" class="mt-0.5 hidden items-center lg:flex">
                     <!-- Kontakt Kategorie -->
                     <?php snippet(
-                        'menu/menu-category',
-                        ['title' => 'Kontakt'],
-                        slots: true,
+                      'menu/menu-category',
+                      ['title' => 'Über die Schule'],
+                      slots: true,
                     ); ?>
                     <?php slot('menuContent'); ?>
                     <div
@@ -48,30 +48,29 @@
                             ['pfad' => "https://foerderverein.kgsraste.de", 'name' => "Förderverein"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Desktop Links',
-                            'menuItems' => $menuItems,
+                          'title' => 'Kontakt',
+                          'menuItems' => $menuItems,
                         ]);
 
                         // prettier-ignore
                         $menuItems = [
-                            ['pfad' => "/unterricht/ag-frieden", 'name' => "Leitbild"],
-                            ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Schulprogramm"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulvorstand"],
-                            ['pfad' => "/unterricht/sanitaetsdienst", 'name' => "Unsere Geschichte"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Schulvorstand"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Übergang Grundschule / KGS"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Die drei Schulzweige"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Oberstufe"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Abschlüsse an der KGS"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Profile und Wahlen"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Zuständigkeiten / Organigram"],
+                            ['pfad' => "/schule/leitbild", 'name' => "Leitbild"],
+                            ['pfad' => "/schule/schulprogramm", 'name' => "Schulprogramm"],
+                            ['pfad' => "/unterricht/schulvorstand", 'name' => "Schulvorstand"],
+                            ['pfad' => "/schule/geschichte", 'name' => "Unsere Geschichte"],
+                            ['pfad' => "/schule/grundschule", 'name' => "Übergang Grundschule / KGS"],
+                            ['pfad' => "/schule/zweige", 'name' => "Die drei Schulzweige"],
+                            ['pfad' => "/schule/oberstufe", 'name' => "Oberstufe"],
+                            ['pfad' => "/schule/abschluesse", 'name' => "Abschlüsse an der KGS"],
+                            ['pfad' => "/schule/wahlen", 'name' => "Profile und Wahlen"],
+                            ['pfad' => "/schule/organigramm", 'name' => "Zuständigkeiten / Organigram"],
 
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Ausbildungsschule"],
-                            ['pfad' => "/unterricht/streitschlichter", 'name' => "Unsere Schule in der Presse"]
+                            ['pfad' => "/schule/ausbildungsschule", 'name' => "Ausbildungsschule"],
+                            ['pfad' => "/schule/presse", 'name' => "Unsere Schule in der Presse"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Desktop Rechts',
-                            'menuItems' => $menuItems,
+                          'title' => 'Die KGS',
+                          'menuItems' => $menuItems,
                         ]);
                         ?>
                         <div
@@ -82,25 +81,25 @@
                             </h4>
                             <div class="grid grid-cols-2 gap-4 xl:gap-8">
                                 <a
-                                    href="javascript:void(0)"
+                                    href="https://kgs-rastede.de/blogs/anmeldung-5"
                                     class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
                                     <img
                                         src="https://cdn.tailkit.com/media/placeholders/photo-8pb7Hq539Zw-300x180.jpg"
                                         class="rounded-lg"
                                         alt="Preview Image" />
                                     <h5>
-                                        How to create the best web apps online with our app
+                                        Anmeldung JG 5
                                     </h5>
                                 </a>
                                 <a
-                                    href="javascript:void(0)"
+                                    href="https://kgs-rastede.de/blogs/wpk-wahl-jahrgang-5-im-realschulzweig"
                                     class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
                                     <img
                                         src="https://cdn.tailkit.com/media/placeholders/photo-TxXuh_hAFd8-300x180.jpg"
                                         class="rounded-lg"
                                         alt="Preview Image" />
                                     <h5>
-                                        Inspiring results from your first work week online
+                                        Wahlen WPK JG 5
                                     </h5>
                                 </a>
                             </div>
@@ -112,9 +111,9 @@
 
                     <!-- Ueber die Schule Kategorie -->
                     <?php snippet(
-                        'menu/menu-category',
-                        ['title' => 'Über die Schule'],
-                        slots: true,
+                      'menu/menu-category',
+                      ['title' => 'Unterricht & Schulleben'],
+                      slots: true,
                     ); ?>
                     <?php slot('menuContent'); ?>
                     <div
@@ -130,8 +129,8 @@
                             ['pfad' => "/unterricht/ssd", 'name' => "Schulsanitätsdienst"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Desktop Links',
-                            'menuItems' => $menuItems,
+                          'title' => '',
+                          'menuItems' => $menuItems,
                         ]);
 
                         // prettier-ignore
@@ -145,8 +144,8 @@
 
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Desktop Mitte',
-                            'menuItems' => $menuItems,
+                          'title' => '',
+                          'menuItems' => $menuItems,
                         ]);
 
                         // prettier-ignore
@@ -160,8 +159,8 @@
                             ['pfad' => "/Faecher", 'name' => "Fächer"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Desktop Rechts',
-                            'menuItems' => $menuItems,
+                          'title' => '',
+                          'menuItems' => $menuItems,
                         ]);
                         ?>
 
@@ -197,9 +196,9 @@
 
                     <!-- Unterricht und Schulleben Kategorie -->
                     <?php snippet(
-                        'menu/menu-category',
-                        ['title' => 'Unterricht und Schulleben'],
-                        slots: true,
+                      'menu/menu-category',
+                      ['title' => 'Informationen'],
+                      slots: true,
                     ); ?>
                     <?php slot('menuContent'); ?>
                     <div
@@ -215,8 +214,8 @@
                             ['pfad' => "https://wiki.kgs-rastede.de/de/eltern/elterninfos_kompakt", 'name' => "Eltern-Wiki"]
                         ];
                         snippet('menu/menu-category-column', [
-                            'title' => 'Desktop Links',
-                            'menuItems' => $menuItems,
+                          'title' => 'Informationen',
+                          'menuItems' => $menuItems,
                         ]);
                         ?>
 
@@ -224,11 +223,13 @@
                             class="col-span-3 space-y-6 bg-gray-50 p-8 dark:bg-gray-700/25">
                             <h4
                                 class="font-semibold tracking-wider text-kgs-blue uppercase dark:text-kgs-lblue">
-                                Das Wichtigste für Eltern
+                                <?= page('navbar')->Linkmenue2_1()->toUrl() ?>
                             </h4>
                             <div class="grid grid-cols-3 gap-4 xl:gap-8">
                                 <a
-                                    href="https://wiki.kgs-rastede.de/de/eltern"
+                                    href="<?= page('navbar')
+                                      ->Linkmenue2_1()
+                                      ->toUrl() ?>"
                                     class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
                                     <div
                                         class="flex h-32 items-center justify-center rounded-lg border border-gray-200 bg-white text-emerald-500 dark:border-gray-700/75 dark:bg-gray-900/50 dark:text-emerald-400">
@@ -278,7 +279,7 @@
                     @click.outside="searchOpen = false"
 
                     action="/search">
-                    <div class="hidden items-center space-x-2 w-md rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-gray-800 hover:border-gray-300 hover:text-gray-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-gray-300 focus-within:outline-opacity-25 active:border-gray-200 active:shadow-none lg:inline-flex dark:transparent dark:text-gray-300 dark:hover:border-gray-600 dark:focus-within:outline-opacity-40 dark:active:border-gray-700">
+                    <div class="hidden items-center space-x-2 w-md rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-gray-900 hover:border-gray-300 hover:text-gray-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-gray-300 focus-within:outline-opacity-25 active:border-gray-200 active:shadow-none lg:inline-flex dark:transparent dark:text-gray-300 dark:hover:border-gray-600 dark:focus-within:outline-opacity-40 dark:active:border-gray-700">
                         <input type="text"
                             x-ref="searchInput"
                             class="grow focus:outline-none"
@@ -297,7 +298,7 @@
                     <button
                         x-on:click="mobileNavOpen = true"
                         type="button"
-                        class="inline-flex items-center justify-center gap-2 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-gray-800 hover:border-gray-300 hover:text-gray-900 hover:shadow-xs focus:ring-3 focus:ring-gray-300/25 active:border-gray-200 active:shadow-none dark:border-gray-700 dark:bg-transparent dark:text-gray-300 dark:hover:border-gray-600 dark:hover:text-gray-200 dark:focus:ring-gray-600/40 dark:active:border-gray-700"
+                        class="inline-flex items-center justify-center gap-2 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-gray-900 hover:border-gray-300 hover:text-gray-900 hover:shadow-xs focus:ring-3 focus:ring-gray-300/25 active:border-gray-200 active:shadow-none dark:border-gray-700 dark:bg-transparent dark:text-gray-300 dark:hover:border-gray-600 dark:hover:text-gray-200 dark:focus:ring-gray-600/40 dark:active:border-gray-700"
                         aria-controls="tkMobileNav">
                         <svg
                             class="hi-mini hi-bars-3 inline-block size-5"

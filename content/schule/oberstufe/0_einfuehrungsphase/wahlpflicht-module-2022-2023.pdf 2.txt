@@ -1,0 +1,13 @@
+Anzeigename: Wahlpflicht-Module
+
+----
+
+Beschreibung: 
+
+----
+
+Template: datei
+
+----
+
+Uuid: J2cS9b7wMXnM4lHu

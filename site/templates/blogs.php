@@ -8,7 +8,7 @@ slot();
   <!-- Latest Posts -->
   <div class="grid grid-cols-1 gap-8 md:grid-cols-3 lg:gap-10">
     <?php foreach ($articles as $article) {
-      snippet('blogkarte-einfach', [
+      snippet('blogkarte-bild', [
         'subpage' => $article,
       ]);
     } ?>

@@ -20,15 +20,18 @@ if ($block->location() == 'web') {
 <?php if ($src): ?>
 
   <div class="relative w-1/2">
-    <figure>
-      <img src="<?= $src ?>" alt="<?= $alt->esc() ?>" class="aspect-video w-full rounded-2xl bg-gray-100 object-cover sm:aspect-2/1 lg:aspect-3/2">
-      <div class="absolute inset-0 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
-      <?php if ($caption->isNotEmpty()): ?>
-        <figcaption>
+
+    <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pt-80 pb-8 sm:pt-48 lg:pt-80">
+      <img src="<?= $src ?>" alt="" class="absolute inset-0 -z-10 size-full object-cover">
+
+      <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
+
+      <div class="flex bg-slate-300/50 justify-center rounded-2xl">
+        <h3 class="mt-3 text-lg/6 font-semibold text-white pb-4 px-4">
           <?= $caption ?>
-        </figcaption>
-      <?php endif; ?>
-    </figure>
+        </h3>
+      </div>
+    </article>
   </div>
 
 <?php endif; ?>

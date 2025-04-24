@@ -1,0 +1,33 @@
+Title: Spanien-Austausch in Madrid
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ySfkpH9mTOvWEBaS"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"796422ea-a71c-4da5-9e14-c028621f2927","isHidden":false,"type":"image"}],"id":"869ee496-a0a1-4c0a-b1ef-70512174c3f3","width":"1/2"},{"blocks":[{"content":{"text":"<p>Unser Spanien-Austausch läuft gut, und wir sammeln viele spannende Erfahrungen.</p><p>Das Wetter ist super: Es ist warm, und die Sonne scheint fast jeden Tag. Die Landschaft ist</p><p>überraschend hügelig, fast wie in Österreich. Das macht das Laufen manchmal anstrengend, aber die</p><p>Aussicht ist oft echt schön.</p><p>Wir wohnen in einem Viertel, das nicht so modern ist. Trotzdem ist die Stimmung gut, und wir fühlen</p><p>uns sicher.</p><p>Unsere Wohnungen sind eher klein, und es ist manchmal etwas eng. In unserer Freizeit ist das größte</p><p>Problem aber, dass es echt schwer ist, Restaurants zu finden. Mit 25 Leuten spontan einen Platz zu</p><p>bekommen, ist fast unmöglich. Auch das Planen von Ausflügen dauert lange, weil so viele verschiedene</p><p>Meinungen aufeinandertreffen.</p><p>Die Essenszeiten sind hier ganz anders als bei uns. Mittagessen gibt es oft erst am Nachmittag, und</p><p>Abendessen manchmal erst spät am Abend. Außerdem schmeckt das Leitungswasser ein bisschen nach</p><p>Chlor – das ist ungewohnt.</p><p>Unsere Aktivitäten sind aber richtig toll! Wir machen viele coole Ausflüge und erleben viel. Auch mit</p><p>unseren Gastfamilien sind wir zufrieden, auch wenn es ein bisschen gedauert hat, sich einzugewöhnen.</p><p>Jetzt fühlen wir uns aber wohl und genießen die Zeit.</p><p>Der Austausch ist eine tolle Erfahrung, und wir freuen uns auf die nächsten Tage!</p>"},"id":"58dc4171-624e-4f50-ad57-8163ad4ddd22","isHidden":false,"type":"text"}],"id":"041929b7-3e68-4120-b905-1f661f1f7153","width":"1/2"}],"id":"6bdaf760-e6b4-4188-88e2-0135e850cdc8"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://48xsrZHDN6zrAa6z"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"39f2d015-e26e-4f89-a2ed-c24bc42ad0b6","isHidden":false,"type":"image"}],"id":"c92258de-0999-41dd-b5b6-07ec0de8f490","width":"1/1"}],"id":"b72db75a-7278-4dc9-a8dc-230aaed86d6a"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://3n7okeiSoAmui1V4"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"355d524d-d3ed-4c89-9237-1fc64b8e3f03","isHidden":false,"type":"image"}],"id":"65bbdd67-cff9-4634-b691-449b4c5d7a82","width":"1/1"}],"id":"5fceb37a-968c-44c5-847b-dc3e8c0118a6"}]
+
+----
+
+Date: 2025-02-19 17:15:00
+
+----
+
+Datumstartseite: 2025-06-19 17:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: Spanisch, Austausch, Fremdsprachen
+
+----
+
+Downloads: 
+
+----
+
+Uuid: WlD4ZVmGWrcoubkY

@@ -1,0 +1,9 @@
+Anzeigename: Kurswahlen für auswärtige Schülerinnen und Schüler
+
+----
+
+Template: datei
+
+----
+
+Uuid: uzhs62jx8gkNhnBM

@@ -1,0 +1,33 @@
+Title: Anmeldung zum Schuljahr 2024/25
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Onlinenmeldung zum Schuljahr 2025/26 wird ab dem 02.04.2025 bis zum 27.04.2025 auf der Homepage freigeschaltet. Ab dem 14. März 2025 werden hier dazu weitere Informationen veröffentlicht.</p><p></p>"},"id":"f4b49cdc-bf74-42e7-8c5b-2d8e07282a75","isHidden":false,"type":"text"}],"id":"5f618f33-9894-488a-82cf-131cab9ff0e8","width":"1/1"}],"id":"3f1d6958-0838-45d7-955b-3af982969978"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Präsentation vom Elterninformationsabend finden Sie <a href=\"https://kgs-rastede.de/media/pages/blogs/anmeldung-zum-schuljahr-2023-24/cff038d99d-1701681750/kgs-info4-2023-2024_27-11-23.pdf\">hier</a>.</p>"},"id":"0eb81a74-c996-489b-a0b9-572eca7f2a56","isHidden":false,"type":"text"}],"id":"73ff318b-5cb8-4c52-82de-dd39e1e4ec37","width":"1/1"}],"id":"53916c15-8d4d-4561-8855-7d159e65c01e"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://aNROb7NHQoH8apRx"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"7830c170-4504-48c2-ab25-c74a18807c7f","isHidden":false,"type":"image"}],"id":"5c09ad05-d247-4b78-b0f1-c51ca30058e0","width":"1/1"}],"id":"4cbe67aa-8538-4db7-9dce-44dcbf99f0f3"}]
+
+----
+
+Date: 2023-12-04 09:50:00
+
+----
+
+Datumstartseite: 2024-06-28 09:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Naile Ildiz (ID)
+
+----
+
+Tags: Topartikel, Anmeldung, Schulleitung
+
+----
+
+Downloads: - file://O0tjdYORvaMZ1Zve
+
+----
+
+Uuid: XWNEDTIDwAShzzwx

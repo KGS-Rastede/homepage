@@ -1,7 +1,7 @@
   <!-- Card Headings: Title with Subtitle -->
   <div class="flex flex-col overflow-hidden my-4 rounded-lg bg-white shadow-sm dark:bg-slate-800 dark:text-slate-100">
     <!-- Card Header -->
-    <div class="bg-slate-50 px-5 py-4 dark:bg-slate-700/50">
+    <div class="bg-slate-50 px-5 py-4 dark:bg-slate-800/50">
       <h3 class="mb-1 font-semibold text-2xl">Aus der Presse</h3>
     </div>
     <!-- END Card Header -->
@@ -35,18 +35,18 @@
           default:
             $bildURL = '';
         }
-        ?>
+      ?>
         <li class="flex items-center even:bg-slate-50 odd:bg-white odd:hover:bg-slate-200 even:hover:bg-slate-300 p-4">
 
           <?php
-        // URL ist leer -> keine bestimmte Seite -> default icon
-        ?>
+          // URL ist leer -> keine bestimmte Seite -> default icon
+          ?>
           <?php if (empty($bildURL)) { ?>
             <i class="bi bi-box-arrow-up-right mr-4"></i>
-          <?php
+            <?php
             // Sonst Bild einfügen
             ?>
-          <?php } else { ?> 
+          <?php } else { ?>
             <img src=<?= $bildURL ?> class="mr-4" width="20px" alt="Logo der Presse-Seite">
           <?php } ?>
 

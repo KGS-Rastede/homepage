@@ -1,4 +1,4 @@
-<?php if (!empty($relatedBlogs)) : ?>
+<?php if (!empty($relatedBlogs)): ?>
 
   <div class="mt-4">
     <h2 class="text-2xl border-t pt-4 font-semibold">

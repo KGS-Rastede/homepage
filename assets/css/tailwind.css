@@ -7,6 +7,11 @@
 /* Class based dark mode */
 @variant dark (&:where(.dark, .dark *));
 
+/* Für AlpineJS im mobilen Menü */
+[x-cloak] {
+  display: none !important;
+}
+
 /* Tailkit configuration */
 @theme {
   /* Colors */
