@@ -25,12 +25,14 @@ if ($block->location() == 'web') {
       <img src="<?= $src ?>" alt="" class="absolute inset-0 -z-10 size-full object-cover">
 
       <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
+      <?php if ($caption->isNotEmpty()): ?>
+        <div class="flex bg-slate-300/50 justify-center rounded-2xl">
+          <h3 class="mt-3 text-lg/6 font-semibold text-white pb-4 px-4">
+            <?= $caption ?>
+          </h3>
+        </div>
+      <?php endif; ?>
 
-      <div class="flex bg-slate-300/50 justify-center rounded-2xl">
-        <h3 class="mt-3 text-lg/6 font-semibold text-white pb-4 px-4">
-          <?= $caption ?>
-        </h3>
-      </div>
     </article>
   </div>
 
