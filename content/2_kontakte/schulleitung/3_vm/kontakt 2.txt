@@ -1,0 +1,33 @@
+Title: Hildegard Varelmann
+
+----
+
+Heading: vm
+
+----
+
+Email: vm
+
+----
+
+Position: Didaktische Leiterin
+
+----
+
+Phone: 04402-9264-24
+
+----
+
+Fotoansicht: schulleiter
+
+----
+
+Gallery: - ni.jpg
+
+----
+
+Text: Inhalt, ganz wichtig
+
+----
+
+Uuid: M1kgVpotEITyBAvM
