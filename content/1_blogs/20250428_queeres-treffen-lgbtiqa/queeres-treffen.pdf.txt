@@ -1,0 +1,9 @@
+Beschreibung: Neu an der KGS:
+
+----
+
+Uuid: GJo0fnsYLfFUVArg
+
+----
+
+Template: blocks/image

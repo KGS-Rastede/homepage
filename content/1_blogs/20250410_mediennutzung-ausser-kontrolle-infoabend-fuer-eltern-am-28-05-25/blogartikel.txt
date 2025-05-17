@@ -1,0 +1,33 @@
+Title: Mediennutzung außer Kontrolle? Infoabend für Eltern am 28.05.25
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[],"id":"8086a3b3-4e37-4635-aabb-1711d2328e50","width":"1/1"}],"id":"81c887d6-52b5-4c79-a0c0-7c9e246ed6b7"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die rasant voranschreitenden Entwicklungen in den neuen Medien sind für Sie als Eltern eine große Herausforderung. TikTok, Instagram, Snapchat und andere soziale Medien sind ein wichtiger Bestandteil im Leben Ihrer Kinder. Schnell kennen sich die Kinder besser mit dem technischen Umgang ihrer Geräte besser aus als ihre Eltern. Aber wie können sie das, was im Internet sehen und erleben verarbeiten und einen Umgang damit erlernen?</p><p>Wie können Sie als Eltern ihre Kinder im Umgang mit den sozialen Medien begleiten und beschützen?</p><p>Herr Ansgar Melter, Amtsleiter der Beratungsstelle für Familien, Kinder und Jugendliche im Landkreis Ammerland, und Frau Jose Deutschmann geben einen Überblick über aktuelle Themen, berichten aus ihrem Beratungsalltag und beantworten Ihre Fragen zum Thema „Medienkompetenz“.  </p><p>Wir laden Sie herzlich dazu ein!</p><p><strong>Termin: 28.05.2025, 19:30 Uhr</strong></p><p>Ort: Neue Aula der KGS Rastede</p>"},"id":"7e92aa47-49f5-4e3b-bd92-2050b3ecbadb","isHidden":false,"type":"text"}],"id":"9e9109ba-7e7c-4698-85a8-b100d01bf45e","width":"1/1"}],"id":"f699291c-4647-45f5-b60b-a7b82a5d57cc"}]
+
+----
+
+Date: 2025-04-10 11:50:00
+
+----
+
+Datumstartseite: 2025-05-29 11:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: YL3UQsUjXgFOoUno

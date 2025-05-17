@@ -1,0 +1,5 @@
+Uuid: cidABIFg2fqsOS6H
+
+----
+
+Template: blocks/image

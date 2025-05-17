@@ -1,0 +1,33 @@
+Title: Claudia Berger
+
+----
+
+Heading: be
+
+----
+
+Email: be
+
+----
+
+Position: Gesamtschuldirektorin
+
+----
+
+Phone: 04402-9264-13
+
+----
+
+Fotoansicht: schulleiter
+
+----
+
+Gallery: - be.jpg
+
+----
+
+Text: Inhalt, ganz wichtig
+
+----
+
+Uuid: SwxhUya2JM93s15H
