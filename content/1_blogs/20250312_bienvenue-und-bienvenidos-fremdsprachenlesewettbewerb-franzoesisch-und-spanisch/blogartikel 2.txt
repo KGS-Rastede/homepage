@@ -1,0 +1,33 @@
+Title: Bienvenue! und ¡Bienvenidos! – Fremdsprachenlesewettbewerb Französisch und Spanisch
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://nH1kcmaGRhkBlxPd"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"2ccb1280-2815-4cce-b0fe-12b641845545","isHidden":false,"type":"image"}],"id":"050995f7-9832-43e7-9c36-f61b2b57e9f4","width":"1/1"}],"id":"dc2113de-12bb-4e5a-a266-7543ade9a49e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Mit einer sehr gelungenen Moderation auf Französisch und Spanisch begrüßten die Gewinner:innen des letzten Jahres, Elisa Kellner und Rian Duro, die Teilnehmer:innen des diesjährigen Fremdsprachenlesewettbewerbs und die zahlreichen Zuhörer:innen aus den siebten Klassen. Unsicherheit? Anspannung? Aufgeregt-Sein? – Davon war nur wenig zu spüren. </p><p>Die drei Teilnehmerinnen des französischen Wettbewerbs im Realschulzweig präsentierten sich mit Mut und Selbstbewusstsein. Die Vorträge von Zoey Ape, Hadiya Yosofi und Ole Buchmann waren allesamt sehr gut gelungen. So hatte es die Jury – zusammengesetzt aus Frau Böttner und Elisa – gar nicht so leicht sich zu entscheiden, wer nun am besten vorgetragen hat. Am Ende wurde jedoch Ole als Sieger geehrt. Während der Beratungszeit der Jury lernten die Zuhörer:innen, sich in der jeweils anderen Sprache vorzustellen. </p><p>Dann präsentierten Emmeline Vogt, Anni Stuber und Justus Hammer ihr Können. Die Entscheidung war für die Französisch-Jury alles andere als einfach. Am Ende stand Emmeline als Siegerin im Gymnasialzweig fest. Während der Juryentscheidung hat das Publikum dieses Mal auf Spanisch und Französisch neue Begriffe rund um das Osterfest erlernt. Zudem gab es noch einen Lesebeitrag von Hugo Miot, der als Muttersprachler außer Konkurrenz teilnahm und das Publikum mit seiner perfekten französischen Aussprache beeindruckte. </p><p>Dann ging es mit den Teilnehmer:innen der Spanischkurse weiter: Talha Altuntas, Elias Ramadan, Leni Wagner und Enni Erber lasen mit viel Elan und toller Aussprache. Auch dieser Jury – zusammengesetzt aus Frau Böttner und Rian – fiel die Entscheidung nicht leicht. Schlussendlich stand Talha als Sieger des Spanischwettbewerbs fest. Während die Jury ihre Entscheidung fällte, konnte das Publikum sein Wissen in einem französisch-spanischen Quiz testen. </p><p>Bei der abschließenden Siegerehrung mit kleinen Präsenten für alle gab es viel Applaus und ausschließlich strahlende Gesichter.</p>"},"id":"babeca83-9030-4641-ba85-e27ffd040751","isHidden":false,"type":"text"}],"id":"b1a945b2-874f-4d07-93fa-fe7b135f0595","width":"1/1"}],"id":"9f56684c-24a7-425f-8627-5ec119c7e1ed"}]
+
+----
+
+Date: 2025-03-12 08:30:00
+
+----
+
+Datumstartseite: 2025-07-12 08:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Kirstin Westerholt
+
+----
+
+Tags: Fremdpsrachenlesewettbewerb, Französisch, Spanisch, Wettbewerb, Fremdsprachen
+
+----
+
+Downloads: 
+
+----
+
+Uuid: x0zBcr91XEkKn0uW

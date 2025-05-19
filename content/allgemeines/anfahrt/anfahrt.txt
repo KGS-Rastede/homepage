@@ -6,11 +6,11 @@ Main-text: So erreichen Sie uns
 
 ----
 
-Adresse-s1: [{"content":{"text":"Hauptgeb\u00e4ude: Jahrg\u00e4nge 7-13<br>Wilhelmstra\u00dfe 5<br>26180 Rastede"},"id":"3025c392-f192-4720-835d-e8659be5a77a","isHidden":false,"type":"text"}]
+Adresse_s1: [{"content":{"text":"Hauptgeb\u00e4ude: Jahrg\u00e4nge 7-13<br><hr style=\"margin: 2px 0;\">Wilhelmstra\u00dfe 5<br>26180 Rastede"},"id":"3025c392-f192-4720-835d-e8659be5a77a","isHidden":false,"type":"text"}]
 
 ----
 
-Adresse-s2: [{"content":{"text":"Feldbreite: Jahrg\u00e4nge 5-6<br>Feldbreite 16<br>26180 Rastede"},"id":"18f02a10-3b63-4d5c-8679-7ca9bb52425c","isHidden":false,"type":"text"}]
+Adresse_s2: [{"content":{"text":"Feldbreite: Jahrg\u00e4nge 5-6<br><hr style=\"margin: 2px 0;\">Feldbreite 16<br>26180 Rastede"},"id":"18f02a10-3b63-4d5c-8679-7ca9bb52425c","isHidden":false,"type":"text"}]
 
 ----
 
@@ -18,16 +18,12 @@ Anfahrt-text: Beide Standorte können vom Bahnhof Rastede zu Fuß errreicht werd
 
 ----
 
-Anfahrt-text-s1: [{"content":{"text":"Der Hauptstandort kann ebenfalls mit dem Bus erreicht werden. Haltestelle: Abzw. Bahnhofstra\u00dfe.<br>Mit dem Auto k\u00f6nnen Sie von der Oldenburger Stra\u00dfe in die Bahnhofstra\u00dfe fahren und von dort aus den Parkplatz der Aula erreichen."},"id":"8503bb92-125d-4b45-9b33-42af0ee2d56f","isHidden":false,"type":"text"}]
+Anfahrt-text_s1: [{"content":{"text":"<b>Zug:</b> Bahnhof ist in unmittelbarer Nähe <br><b>Bus:</b> Haltestelle ist in der Bahnhofstraße<br> <b>Auto:</b> Parkplatz erreicht man, indem man von der Oldenburger Stra\u00dfe in die Bahnhofstra\u00dfe f\u00E4hrt und von dort aus auf den Parkplatz der Aula"},"id":"8503bb92-125d-4b45-9b33-42af0ee2d56f","isHidden":false,"type":"text"}]
 
 ----
 
-Anfahrt-text-s2: [{"content":{"text":"<p>Den Parkplatz der Feldbreite k\u00f6nnen Sie erreichen, indem Sie von der Oldenburger Stra\u00dfe auf die Schlo\u00dfstra\u00dfe fahren und von dort aus links in die Feldbreite. Der Parkplatz befindet sich dann an der rechten Seite.<\/p>"},"id":"72c88fd6-fb6f-4da9-a531-4371516f9f0d","isHidden":false,"type":"text"}]
+Anfahrt-text_s2: [{"content":{"text":"<b>Zug:</b> Bahnhof ist in unmittelbarer Nähe <br><b>Bus:</b> Haltestelle ist an der Feldbreite<br> <b>Auto:</b> Parkplatz erreicht man, indem man von der Oldenburger Stra\u00dfe auf die Schlo\u00dfstra\u00dfe f\u00E4hrt und von dort aus links in die Feldbreite mit dem Parkplatz auf der rechten Seite.<\/p>"},"id":"72c88fd6-fb6f-4da9-a531-4371516f9f0d","isHidden":false,"type":"text"}]
 
 ----
 
-Karte: [{"content":{"name":"KGS Rastede","reise":"[{\"content\":{\"name\":\"Hauptgeb\\u00e4ude\",\"kurzbeschreibung\":\"<p>Jahrg\\u00e4nge 7-13<\\\/p>\",\"bild\":[\"logo-kgs-mini.jpg\"],\"laengengrad\":\"53.2442\",\"breitengrad\":\"8.1963\"},\"id\":\"e528c92a-4eca-4f2f-8a26-9faa7cbe149a\",\"isHidden\":false,\"type\":\"koordinate\"},{\"content\":{\"name\":\"Feldbreite\",\"kurzbeschreibung\":\"<p>Jahrg\\u00e4nge 5-6<\\\/p>\",\"bild\":[\"logo-kgs-mini.jpg\"],\"laengengrad\":\"53.24111\",\"breitengrad\":\"8.194932\"},\"id\":\"746cb6ec-9d53-4be0-bd10-fc81871c596f\",\"isHidden\":false,\"type\":\"koordinate\"}]"},"id":"97bd9e9e-0369-4410-9ffe-006b4f145dd1","isHidden":false,"type":"reiseroute"}]
-
-----
-
-Uuid: mg9wMgYkrIaFlCbM
+Karte: [{"content":{"name":"KGS Rastede","reise":"[{\"content\":{\"name\":\"Hauptgeb\\u00e4ude\",\"kurzbeschreibung\":\"<p>Jahrg\\u00e4nge 7-13<\\\/p>\",\"bild\":[\"logo-kgs-mini.jpg\"],\"laengengrad\":\"53.2439\",\"breitengrad\":\"8.1961\"},\"id\":\"e528c92a-4eca-4f2f-8a26-9faa7cbe149a\",\"isHidden\":false,\"type\":\"koordinate\"},{\"content\":{\"name\":\"Feldbreite\",\"kurzbeschreibung\":\"<p>Jahrg\\u00e4nge 5-6<\\\/p>\",\"bild\":[\"logo-kgs-mini.jpg\"],\"laengengrad\":\"53.24111\",\"breitengrad\":\"8.194932\"},\"id\":\"746cb6ec-9d53-4be0-bd10-fc81871c596f\",\"isHidden\":false,\"type\":\"koordinate\"}]"},"id":"97bd9e9e-0369-4410-9ffe-006b4f145dd1","isHidden":false,"type":"reiseroute"}]

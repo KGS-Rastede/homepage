@@ -1,0 +1,33 @@
+Title: Diercke Wissenswettbewerb
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://BzWfpLPqoHskSe3Y"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"70a645c6-864a-4f98-9b83-3d883dbbb3c9","isHidden":false,"type":"image"}],"id":"fdbe0bea-f481-4c99-82cc-13d31fbb05c0","width":"1/1"}],"id":"b02bfcd1-d3d5-4edf-bc16-799064403fdd"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der östlichste Punkt Deutschlands grenzt an Tschechien? Benenne vier der sechs Gründungsstaaten der EU. Sortiere die Staaten China, Kanada, Russland und USA aufsteigend nach ihrer Größe. </p><p>Dies sind nur drei der insgesamt zwanzig Fragen, die im diesjährigen Diercke Wissenswettbewerb gelöst werden mussten. Insgesamt 32 wissbegierige Schüler:innen aus den Klasse 7-10 stellten sich der Herausforderung, aus der Friederike Voglau (10DE) ganz knapp vor Tjark Müller (9F3) und Greta Steinkamp (10D3) als Siegerin hervorging. </p><p>Wir sagen herzlichen Glückwunsch, Danke an alle Teilnehmenden und drücken Friederike die Daumen für die Landesrunde.</p>"},"id":"fd6e6258-1a16-4987-9311-a08b4ac89e42","isHidden":false,"type":"text"}],"id":"afad8d30-02f8-40f3-9d72-34febe5b25af","width":"1/1"}],"id":"c81e5d88-b6fb-4e3d-824a-795b9bccd479"}]
+
+----
+
+Date: 2025-03-11 08:30:00
+
+----
+
+Datumstartseite: 2025-07-11 08:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Philip Pauleit
+
+----
+
+Tags: Wettbewerb, Erdkunde
+
+----
+
+Downloads: 
+
+----
+
+Uuid: NLVakh9K1XvcY0Nd

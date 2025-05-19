@@ -1,0 +1,9 @@
+Anzeigename: Folien zur Informationsveranstaltung Teil 1
+
+----
+
+Template: datei
+
+----
+
+Uuid: 2RGuBtqTKa8L1VzK

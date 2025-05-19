@@ -2,49 +2,38 @@
 slot();
 ?>
 
-<div class="mt-16 sm:mt-20 md:mt-24">
-  <p>
-    <?= $page->main_text() ?>
-  </p>
-  <p>
-    <?= $page->anfahrt_text() ?>
-  </p>
+<div class="container mx-auto px-4">
+    <div class="outer-box border-3 border-gray-300 p-5 my-5 bg-gray-200 rounded-xl max-w-7xl mx-auto">
+        <div class="col-md-8 mx-auto text-center">
+            <h2 class="title text-xl mb-4"><?= $page->main_text() ?></h2>
+        </div>
 
-  <dl
-    class="mt-4 grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base leading-7 text-gray-300 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:gap-x-8 lg:gap-y-16">
-    <div class="relative pl-9">
-      <dt class="inline font-semibold text-white">
+        <!-- Erste Reihe: Adressen (kleiner in Schriftgröße und Padding) -->
+        <div class="row flex flex-wrap gap-10 justify-between">
+            <div class="inner-box flex-1 min-w-[280px] border-2 border-gray-300 p-3 bg-gray-100 rounded-lg text-sm text-center">
+                <h6><?= $page->adresse_s2()->toBlocks() ?></h6>
+            </div>
+            <div class="inner-box flex-1 min-w-[280px] border-2 border-gray-300 p-3 bg-gray-100 rounded-lg text-sm text-center">
+                <h6><?= $page->adresse_s1()->toBlocks() ?></h6>
+            </div>
+        </div>
 
-        <?= $page->adresse_s1()->toBlocks() ?>
-
-
-      </dt>
-      <dt class="mt-4">
-
-        <?= $page->anfahrt_text_s1()->toBlocks() ?>
-
-      </dt>
-    </div>
-    <div class="relative pl-9">
-      <dt class="inline font-semibold text-white">
-
-        <?= $page->adresse_s2()->toBlocks() ?>
-      </dt>
-      <dt class="mt-4">
-
-        <?= $page->anfahrt_text_s2()->toBlocks() ?>
-
-      </dt>
-
+        <!-- Zweite Reihe: Anfahrtstexte (größere Schrift und mehr Padding) -->
+        <div class="row flex flex-wrap gap-10 justify-between">
+            <div class="inner-box flex-1 min-w-[280px] border-2 border-gray-300 p-3 bg-gray-100 rounded-lg text-base">
+                <p class="description"><?= $page->anfahrt_text_s2()->toBlocks() ?></p>
+            </div>
+            <div class="inner-box flex-1 min-w-[280px] border-2 border-gray-300 p-3 bg-gray-100 rounded-lg text-base">
+                <p class="description"><?= $page->anfahrt_text_s1()->toBlocks() ?></p>
+            </div>
+        </div>
     </div>
 
-  </dl>
+    <div class="box">
+        <?= $page->karte()->toBlocks(); ?>
+    </div>
 </div>
-<div class="relative overflow-hidden pt-16 lg:pt-20">
-  <div class="px-6 lg:px-8">
-    <?= $page->karte()->toBlocks() ?>
-  </div>
-</div>
+
 
 <?php endslot(); ?>
 <?php endsnippet(); ?>

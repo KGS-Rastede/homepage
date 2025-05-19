@@ -1,0 +1,13 @@
+Anzeigename: Wahlpflichtmodule 2025-2026
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: YW3esR2QQxDzwoPy
+
+----
+
+Template: datei

@@ -1,0 +1,33 @@
+Title: Eltern- und Schüler:innensprechtag am 11.02.25
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 11.02.25 bieten wir von 15 bis 18 Uhr einen zusätzlichen Sprechtag an. Der Unterricht endet aus organisatorischen Gründen nach der 5. Stunde.</p>"},"id":"f878529f-8274-4e4d-9742-b5c8d819fc4e","isHidden":false,"type":"text"}],"id":"ad9c17ff-59ba-4675-85d0-24853ac3704a","width":"1/1"}],"id":"72a35663-e22c-4cab-80af-3b4e267a5bdd"}]
+
+----
+
+Date: 2025-02-04 17:40:00
+
+----
+
+Datumstartseite: 2025-02-14 17:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schulleitung, Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: vScMau6ijFV56CIx
