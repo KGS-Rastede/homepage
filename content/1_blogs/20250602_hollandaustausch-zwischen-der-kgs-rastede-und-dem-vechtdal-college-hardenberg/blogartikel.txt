@@ -1,0 +1,33 @@
+Title: Hollandaustausch zwischen der KGS Rastede und dem Vechtdal College Hardenberg
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://w0XPQYCemAHbltrJ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"a8519f25-e523-4a26-88ef-6fc53b4c4da1","isHidden":false,"type":"image"}],"id":"0f88f7d7-bc43-430a-a056-5e347c85a880","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://XtdSmnN49iBf8vnW"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"34318a6b-b0e8-4f35-a172-dbbe8289e90a","isHidden":false,"type":"image"}],"id":"f9857e29-eb00-4532-b517-0f59db5b53b2","width":"1/2"}],"id":"10247f38-a511-416b-963b-58afbfc2f8ea"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bericht über den Hollandaustausch zwischen der KGS Rastede und dem Vechtdal College Hardenberg.</p><p>Seit über vierzig Jahren besteht der traditionsreiche Schüleraustausch zwischen der KGS Rastede und dem Ems Vechtdal College in Hardenberg – ein interkulturelles Projekt, das nicht nur Schülergenerationen, sondern mittlerweile auch Eltern und deren Kinder verbindet.</p><p>Der erste Teil des Austausches fand Ende November in der Vorweihnachtszeit in Rastede statt. Dabei stand das gegenseitige Kennenlernen im Mittelpunkt. Bei Kooperationsspielen und gemeinsamen Unterrichtszeiten erhielten die niederländischen Gäste einen Einblick in das deutsche Schulsystem. Ein weiteres Highlight war der Ausflug ins Universum Bremen, das auf spannende Weise Wissenschaft und Technik vermittelt. Abgerundet wurde der Aufenthalt durch Besuche auf den beliebten Weihnachtsmärkten in Bremen und Oldenburg, die für stimmungsvolle Erlebnisse sorgten.</p><p>Der Rückbesuch in Hardenberg fand Ende Mai statt und bot erneut zahlreiche Höhepunkte. Das Wiedersehen begann mit dem Spiel „Crazy 88“, bei dem die Schüler in kleinen Teams Aufgaben lösen mussten – eine gelungene Kombination aus Spaß, Bewegung und Schulrundgang. Weitere Programmpunkte waren der Besuch des Freizeitparks Slagharen, ein Ausflug ins Freilichtmuseum in Arnheim sowie eine Stadterkundung in Arnheim selbst. Diese Aktivitäten boten nicht nur kulturelle Einblicke, sondern stärkten auch die internationalen Freundschaften.</p><p>Wir sind überzeugt, dass dieser Austausch auch in Zukunft ein fester Bestandteil des Schullebens bleibt und einen bedeutenden Beitrag zum interkulturellen Lernen leistet.</p><p>„Das Projekt „Austausch KGS Rastede - Vechtdal College Hardenberg” wird durch das Interreg- Programm Deutschland-Nederland sowie seinen Programmpartnern ermöglicht und von der Europäischen Union kofinanziert.“ Dafür ein herzliches Dankeschön!</p>"},"id":"7879e5fc-6e66-4b74-a861-6704c0bd1bd1","isHidden":false,"type":"text"}],"id":"7040777d-fdbc-408a-8375-12ff5f57d852","width":"1/1"}],"id":"bfdb0022-f09c-4186-8a1c-c1ef6ca303ae"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://FIyIJgOTBYCjUz0n"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c5c7e391-648b-4cd2-b0d5-ede8c85d6965","isHidden":false,"type":"image"}],"id":"e6b66d88-04ba-4fe1-9d7d-f22d332bb58d","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://s17NH6fXFun6C3WM"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"dec1b156-ab8f-4775-82f6-a84be642a64f","isHidden":false,"type":"image"}],"id":"0606495f-070f-4bda-bd27-4b616054b9e2","width":"1/2"}],"id":"2c1149d9-3a9b-4d03-b05d-a30fff3f964a"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://z8QkR2cnTES2DUUh"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"714d59f2-be35-4508-915a-47f81dc60511","isHidden":false,"type":"image"}],"id":"e0b33756-dc8e-4246-899b-865cd456aa28","width":"1/1"}],"id":"ddabc7e4-fee6-4be9-8c76-f1fddb1851bf"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://KWqsZVCI6PCXHZDQ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"50fb9f97-7095-4a22-affa-631595bce0cb","isHidden":false,"type":"image"}],"id":"7752317f-7891-4c6b-a56b-82028390008d","width":"1/1"}],"id":"c5ad88cb-2b06-45d8-b0a4-149e3ad91810"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://Clz3VknqUM3Y6Ew6"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"9f17b561-2610-46ff-827a-607b85e4b96b","isHidden":false,"type":"image"}],"id":"1456d45e-9992-45b2-ad74-863ca18c85e0","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://XtGTkaalvRjxG26U"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"83846611-9c2f-4db2-9443-d883db3e6866","isHidden":false,"type":"image"}],"id":"735a02cf-1108-4665-bf56-2f3f1831b0f0","width":"1/2"}],"id":"c6e8c9a0-fdd8-4f84-845f-8844d28814fe"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://tATY7CIY9kOtfou1"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"97ec47d7-dce0-4d50-b856-6d1e08bac0be","isHidden":false,"type":"image"}],"id":"34a1f869-487b-46e7-805e-7148736a3f74","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://Uv1xQ4YI3cnzA2Gs"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"b239f874-89b7-4f48-a550-36a5952f8e8a","isHidden":false,"type":"image"}],"id":"0955e45e-840b-41f7-8482-e0bffb24d62f","width":"1/2"}],"id":"c32b204a-8b02-4ed0-adf8-4fd219106893"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://GU463y3XhThPIz1Y"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"eab2e04d-375f-406f-bbe6-0e49c7531003","isHidden":false,"type":"image"}],"id":"6b501cef-153d-44e4-b12d-e89d8d487c58","width":"1/1"}],"id":"8a7be8f8-084f-4bbf-8c1e-63c46b11c26c"}]
+
+----
+
+Date: 2025-06-02 08:15:00
+
+----
+
+Datumstartseite: 2025-10-02 08:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Carsten Teske
+
+----
+
+Tags: Holland, Austausch, Niederlande
+
+----
+
+Downloads: 
+
+----
+
+Uuid: acE8isO9YQvqHlln

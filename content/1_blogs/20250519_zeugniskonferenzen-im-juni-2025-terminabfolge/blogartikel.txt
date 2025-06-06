@@ -1,0 +1,33 @@
+Title: Zeugniskonferenzen im Juni 2025. Terminabfolge
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"https://kgs-rastede.de/media/pages/blogs/zeugniskonferenzen-im-juni-2025-terminabfolge/65038d06a3-1747643581/2024_25-2-zeugniskonferenzen.pdf\">Hier</a> finden Sie die Übersicht über die Terminabfolge der Zeugniskonferenzen.</p>"},"id":"86f20561-3cae-4940-95e6-cdefe0ea32cc","isHidden":false,"type":"text"}],"id":"116621f9-fc5d-4e0c-a5eb-b1b5ed3b2c11","width":"1/1"}],"id":"a39bc387-3e7c-4c29-b0b2-02da1b9b03d1"}]
+
+----
+
+Date: 2025-05-19 10:30:00
+
+----
+
+Datumstartseite: 2025-09-19 10:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Topartikel
+
+----
+
+Downloads: - file://QU6OeaQ2EFISHWvE
+
+----
+
+Uuid: e6Zd2dfAgX1scddS

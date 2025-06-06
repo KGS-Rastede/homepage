@@ -1,0 +1,33 @@
+Title: Großer Erfolg beim Plattdeutschen Lesewettbewerb: Leefke Kröger und Mia Kramer qualifizieren sich für den Bezirksentscheid
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://rYMblFvFIB5moTwH"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"6abcac0a-13d6-4cfc-9858-061c92c7149f","isHidden":false,"type":"image"}],"id":"8b5181b3-af57-4e03-b1cc-6032311cb544","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://pfcLso9iJ0foueif"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"014c809a-e38a-4900-aad4-529fdf106a85","isHidden":false,"type":"image"}],"id":"75e00648-f3fa-4b16-a7a8-da3f8dc2d12c","width":"1/2"}],"id":"d8cd721f-9001-4e8c-ae7f-fef0ade4dfe0"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 14. Mai 2025 fand an der Grundschule Feldbreite der Kreisentscheid des Plattdeutschen Lesewettbewerbs statt – und drei Schüler:innen der KGS Rastede waren mit dabei: Leefke Kröger, Mia Kramer und Mats Hoofdmann vertraten unsere Schule mit großem Engagement und viel Freude an der plattdeutschen Sprache.</p><p>Besonders erfolgreich zeigten sich Leefke Kröger und Mia Kramer: Leefke sicherte sich den 1. Platz, dicht gefolgt von Mia auf dem 2. Platz in der Altersgruppe 5/6. Beide haben sich damit für den Bezirksentscheid qualifiziert, der am 23. Mai in Ramsloh stattfinden wird.</p><p>Wir gratulieren unseren drei Teilnehmer:innen ganz herzlich zu ihrem tollen Einsatz und drücken Leefke und Mia für die nächste Runde fest die Daumen!</p>"},"id":"6e8b7678-ebbc-4845-a7fa-bb3ecedae5ae","isHidden":false,"type":"text"}],"id":"5cb346f7-9f45-4d52-b2d1-c7d31648044a","width":"1/1"}],"id":"5f4788da-2ee3-4f18-bf0d-8cbdf2d6b37a"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://1FZEgSn8uIXVprCY"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"88e180de-afcc-45e6-b47d-e2a0cc738c5d","isHidden":false,"type":"image"}],"id":"2de8f50c-adcf-4db8-95ca-7e7cda9a8bf2","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://3J2gUBCVQjtWUcCA"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"81b359ed-104a-401c-be7b-8fc3e1cbd9f4","isHidden":false,"type":"image"}],"id":"cc78f0b1-79ec-4845-bdb6-0d61c457589d","width":"1/2"}],"id":"cd4b5f13-ca1e-460c-9cb1-53c0a7aba7cc"}]
+
+----
+
+Date: 2025-06-02 08:10:00
+
+----
+
+Datumstartseite: 2025-10-02 08:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Ulrike Boelsen und Kristina Czapelka
+
+----
+
+Tags: Deutsch, Wettbewerb, plattdeutsch
+
+----
+
+Downloads: 
+
+----
+
+Uuid: sYYtBd9jqhLajQ48
