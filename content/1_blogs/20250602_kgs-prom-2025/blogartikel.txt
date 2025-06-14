@@ -1,0 +1,33 @@
+Title: KGS Prom 2025
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://tCDpHUuDZoZvC9c5"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"9f6cc883-40dc-4d00-8fd2-1bb57b7f50f4","isHidden":false,"type":"image"}],"id":"af45a9b3-5061-418f-9d06-ffd26f48b79b","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://mAyMp5WVBvLzkLAs"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"cb988f08-0df1-4d98-9db4-ba1241ec93e6","isHidden":false,"type":"image"}],"id":"a1df2e13-748a-4110-9d41-be264e6d559c","width":"1/2"}],"id":"c99bf656-114e-4955-b038-198322efd552"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bericht zur vierten  Auflage des KGS Prom 2025</p><p>Auch in diesem Jahr fand wieder der KGS Prom statt – bereits zum vierten Mal wurde die festliche Tanzveranstaltung für die Jahrgänge 9 bis 11 durchgeführt. Organisiert und gestaltet wurde der Abend von den engagierten Schulsportassistent/innen des 10. Jahrgangs, die mit viel Herzblut und Kreativität für ein besonderes Event sorgten.</p><p>Die kleine Sporthalle an der Feldbreite wurde stimmungsvoll geschmückt und verwandelte sich in eine elegante Tanzfläche. Für Musik, Beleuchtung und technische Begleitung sorgte wie gewohnt die Technik-AG unter der Leitung von Herrn Brötje. Als DJs standen erneut ehemalige Schülerinnen und Schüler unserer Schule hinter dem Mischpult und sorgten für die passende Atmosphäre. </p><p>In festlicher Kleidung tanzten die Schülerinnen und Schüler Paartänze wie Discofox, Cha-Cha-Cha und Jive – Tänze, die zuvor im Sportunterricht des 10. Jahrgangs erlernt wurden. Die Tanzfläche war stets gut gefüllt, und auch viele Lehrkräfte ließen es sich nicht nehmen, mitzutanzen oder das Geschehen mit Begeisterung zu verfolgen.</p><p>Ein weiteres Highlight war wieder einmal der Auftritt der Freiwilligen Feuerwehr, die nicht nur für Sicherheit sorgte, sondern auch mit einem eigenen Tanz zur guten Stimmung beitrug.</p><p>Ein großer Dank geht an alle, die zum Gelingen dieser Veranstaltung beigetragen haben – insbesondere an Laura, Jasmin, Josephine, Svea, Leon, Jelto, Marc und Marvin, die als Schulsportassistentinnen und -assistenten den Prom 2025 geplant und umgesetzt haben. Ebenso bedanken wir uns herzlich bei allen helfenden Händen, die im Hintergrund mitgewirkt haben.</p><p>Für das kommende Schuljahr suchen wir wieder engagierte Schülerinnen und Schüler, die Lust haben, sich aktiv in die Schulgemeinschaft einzubringen und Projekte wie den KGS Prom mitzugestalten. Interessierte können sich bei Herrn Teske oder Frau von Essen melden.</p><p>Wir freuen uns schon jetzt auf die fünfte Auflage im nächsten Jahr!</p>"},"id":"d53772cf-b05d-43f7-9c80-e4434e10451f","isHidden":false,"type":"text"}],"id":"4b7241ac-53d7-42f9-ba9d-b58b06b12d99","width":"1/1"}],"id":"bcaeeb5f-801b-4b25-867b-b41f753d3fb2"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://qc8cXoXN3GWoeVbw"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"a78d8e29-332f-48a5-aba1-2f52262a1219","isHidden":false,"type":"image"}],"id":"57eb6ade-718c-4a31-8e7a-4228bd69952d","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://9I6Nlua20DjmKjdo"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"34c6f497-feec-4343-8803-a1fb6d1298d2","isHidden":false,"type":"image"}],"id":"837c3a8c-027a-425d-9817-744e5ccf7ebd","width":"1/2"}],"id":"5443143a-2843-45ae-815b-43af90aadcc8"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://wEMhqAbFv7a2elJr"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"52c9054e-5c07-484c-b615-aae2dcb7f8c9","isHidden":false,"type":"image"}],"id":"9f7e01f4-e7cf-4712-92fc-de19843011f0","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://c9SyerjhP7RQ8l1l"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"ea0a51ef-0b32-4cdf-b04c-f8357e87fb6a","isHidden":false,"type":"image"}],"id":"b0e055f0-4b1d-4b99-89e8-4104f46b2a9a","width":"1/2"}],"id":"0ca5bd08-bddf-4b47-a68e-50b40f6b209f"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://FKuhnA7w8W4TQgh1"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"1e45f8ec-2a9b-4cd8-9f43-5731e28de591","isHidden":false,"type":"image"}],"id":"e6f18ad9-217b-4fc4-8a74-70a10cfa6ccc","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://9mO2wQDGT5QkBtIy"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"4365ebf9-4d69-4bdc-9c8d-f5f15e1e8b00","isHidden":false,"type":"image"}],"id":"3e276582-f81b-453d-aefe-76a8da3a62e9","width":"1/2"}],"id":"dbce86d8-1f71-4134-ade1-cabbd44c12d6"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://qkcBEo7P2Qh6Lb5w"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"26392614-21c4-4e4b-9cc7-42760cd8b89b","isHidden":false,"type":"image"}],"id":"dc0eb0fd-d4b9-425b-8093-d391b94eec54","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://FUjgJAXxICYDdcmv"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"8bc9db5c-83a5-4438-a812-8c1db50e1f42","isHidden":false,"type":"image"}],"id":"ef9a0e60-ed9f-48eb-b41e-1fa8b2715d3c","width":"1/2"}],"id":"503b4b2f-b386-4227-84b7-d0cd327243c5"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://Q4eWTbjIQQeCZgdC"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"af71896f-109b-468b-b4ad-34d83ddff3a8","isHidden":false,"type":"image"}],"id":"10aade38-3c78-4897-8053-b4772f52e2ae","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://0xHlGKYDt913GzxG"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"99ee711a-005d-4f1f-a25d-9c94e4c5706e","isHidden":false,"type":"image"}],"id":"9a2904a7-81d2-42b2-8ca0-5253e27da63b","width":"1/2"}],"id":"c17f0e08-f9e2-4278-90ea-45ada960703a"}]
+
+----
+
+Date: 2025-06-02 08:25:00
+
+----
+
+Datumstartseite: 2025-10-02 08:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Carsten Teske
+
+----
+
+Tags: Prom
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 3ig4Hcz9OpJtx2hl

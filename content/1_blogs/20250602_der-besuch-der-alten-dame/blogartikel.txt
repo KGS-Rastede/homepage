@@ -1,0 +1,33 @@
+Title: Der Besuch der alten Dame
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ckyiZs8jrwAHNMSI"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"ffe7605e-12cd-4430-abc6-f2981f26cf5b","isHidden":false,"type":"image"}],"id":"92658c43-dab5-42cb-9ab1-36b4ab964183","width":"1/1"}],"id":"986adab8-f1d8-48b8-a3b7-3132814b9cc5"}]
+
+----
+
+Date: 2025-06-02 08:35:00
+
+----
+
+Datumstartseite: 2025-10-02 08:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Claudia Bünnemeyer
+
+----
+
+Tags: Darstellendes Spiel, Musik, Theater
+
+----
+
+Downloads: 
+
+----
+
+Uuid: KKhsvVBRHTRstW0R
