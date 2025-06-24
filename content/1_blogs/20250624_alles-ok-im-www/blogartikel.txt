@@ -1,0 +1,33 @@
+Title: Alles OK im WWW?
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[],"id":"15b1e6fd-a9cb-4158-9c93-c4c9ae1d73f3","width":"1/1"}],"id":"524b1080-e667-40cb-a507-766846af4ce1"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://WswJBMgYOo0kvQSN"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"ae65a950-1cca-48f3-96d7-d67c5e85be40","isHidden":false,"type":"image"},{"content":{"text":"<p><strong>Online-Vortragsreihe zur Medienkompetenz</strong></p><p>Liebe Fachkräfte, Eltern und Interessierte, <br><br>anbei sende ich Ihnen den Juni Flyer der Vortragsreihe „Alles OK im WWW?“. Diese Reihe findet in Kooperation mit dem Präventionsrat Oldenburg und dem Kreispräventionsrates des Landkreis Ammerland statt und bietet monatlich einen Online-Beitrag zur Stärkung der Medienkompetenz.</p><p>Faszination Influencing – Zwischen Privatsphäre und Öffentlichkeit (mit Jessica Wawrzyniak) </p><p>am 24.06.2025 von 20 Uhr bis 21.15 Uhr</p><p>In diesem Webinar erfahren Sie, warum Influencer<em>innen für Jugendliche faszinierend sind. Warum werden sie von vielen Jugendlichen bewundert und warum haben einige junge Menschen den Wunsch, selbst Content Creator zu werden? Die Rolle von Algorithmen bei Instagram, TikTok und YouTube wird erläutert und wie die Verbreitung schädlicher und falscher Inhalte dadurch begünstigt wird. Auch die Finanzierungsmodelle der Influencer</em>innen werden vorgestellt.<br>Nach dem Webinar können Sie informiert mit Ihren Kindern oder mit Jugendlichen zu den neuesten Trends ins Gespräch gehen und Ihre Kinder bei einem verantwortungsvollen Umgang mit sozialen Medien begleiten.</p><p>·         Die Teilnahme ist kostenfrei.</p><p>·         Eine Anmeldung ist nicht notwendig.</p><p>Ich möchte Sie bitten, den Flyer an alle Interessierten weiterzuleiten, damit wir möglichst viele Menschen im Landkreis Ammerland erreichen.</p><p>Weitere Informationen zu der Vortragsreihe finden Sie auf unser Website unter </p><p><u><a href=\"http://www.ammerland.de/AllesOKimWWW\">www.ammerland.de/AllesOKimWWW</a></u>  </p><p>oder auf unserem WhatsApp Kanal (<u><a href=\"http://ammerland.de/whatsapp\">ammerland.de/whatsapp</a></u>). Für Fragen stehe ich Ihnen gerne zur Verfügung. </p><p><br>Hier gelangen Sie zur dazugehörigen Pressemitteilung: <u><a href=\"https://www.ammerland.de/allesOKimWWW-pm.de\">https://www.ammerland.de/allesOKimWWW-pm.de</a></u>  </p>"},"id":"68599257-745b-43c4-8f03-faa5dd40163e","isHidden":false,"type":"text"}],"id":"59ea8025-fc12-4eb5-a444-bbd7aeae88bf","width":"1/1"}],"id":"83a98ca5-af80-4385-a351-9de6bb1257bb"}]
+
+----
+
+Date: 2025-06-24 08:30:00
+
+----
+
+Datumstartseite: 2025-10-24 08:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 0tdS0ZYE8lgOH7VD

@@ -1,0 +1,33 @@
+Title: LEO Mittagessen Infoschreiben zum Schuljahreswechsel
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://LLPtUOlVnKXrr2xy"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f696fc4c-a0e1-4e30-8d8d-f693feb89052","isHidden":false,"type":"image"}],"id":"94a6baf7-81d8-4722-a31a-8a2d5dc9a3ac","width":"1/1"}],"id":"49425cb7-f692-4cb5-9168-f2b55fa20a5a"}]
+
+----
+
+Date: 2025-06-13 10:15:00
+
+----
+
+Datumstartseite: 2025-10-13 10:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: LEO, Mittagessen, Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: fBQTBDvDpfaqyvlx

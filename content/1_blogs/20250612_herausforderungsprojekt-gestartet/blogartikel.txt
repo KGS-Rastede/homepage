@@ -1,0 +1,33 @@
+Title: Herausforderungsprojekt gestartet
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bei strahlendem Sonnenschein und tosendem Applaus startete das diesjährige Herausforderungsprojekt mit voller Energie. 14 Gruppen machten sich am Morgen auf den Weg in ihr individuelles Abenteuer – jede mit einem eigenen Ziel, jeder Schritt ein Teil der Herausforderung.</p><p>In den kommenden 12 Tagen werden die Teilnehmerinnen und Teilnehmer mit Kreativität, Teamgeist und Durchhaltevermögen zeigen, was in ihnen steckt. Ob zu Fuß, mit dem Rad oder auf andere Weise – jede Gruppe geht ihren ganz eigenen Weg.</p><p>Eindrücke vom Start und spannende Momentaufnahmen aus den kommenden Tagen finden Sie unter folgendem Link:<br><a href=\"https://kgs-rastede.de/unterricht/herausforderungsprojekt/herausforderungsprojekt-2025\">https://kgs-rastede.de/unterricht/herausforderungsprojekt/herausforderungsprojekt-2025</a></p><p>Wir wünschen allen Gruppen viel Erfolg, tolle Erfahrungen und unvergessliche Erlebnisse!</p>"},"id":"e5004eb1-6492-4f59-ad44-b82cf690b0c3","isHidden":false,"type":"text"}],"id":"2dd372a9-797d-4b9b-990b-1febeb157e53","width":"1/1"}],"id":"2452169b-0ab7-4d5f-8c4b-ea3141425d1f"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"web","url":"https://vimeo.com/1093698464?share=copy","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"7725063f-0db7-4527-a123-ce54cc1cccef","isHidden":false,"type":"video"}],"id":"9f7beb23-54bd-4040-9ec2-930c50ead58d","width":"1/1"}],"id":"fb56eaa5-acb4-45cb-8e9e-0ef8a45e2fa0"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://c1jZLF5EjcrlXZFG","file://XGjybYQoAUQaSuYx","file://xuS53L2TjrS0YYKh","file://DtVR8eTszXXl1ROz","file://kWfoB6CXuKvh6OMX","file://UNGsu9053PYVJDG1","file://ufJynTXynhQInGAm","file://r7rnPcqk97SMXd7R"],"caption":"","ratio":"","crop":"false"},"id":"e301227f-9468-4a1f-a29e-70e40be0c8c8","isHidden":false,"type":"gallery"}],"id":"4496d79f-143c-4420-8949-352e6afd87eb","width":"1/1"}],"id":"79c995a3-2547-4a8c-adb2-d7b0cc7883a2"}]
+
+----
+
+Date: 2025-06-12 12:35:00
+
+----
+
+Datumstartseite: 2025-10-12 12:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: j8Eex0HFr0nqD5Kc

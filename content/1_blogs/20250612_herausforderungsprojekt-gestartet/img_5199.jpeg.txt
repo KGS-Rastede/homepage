@@ -1,0 +1,5 @@
+Uuid: UNGsu9053PYVJDG1
+
+----
+
+Template: blocks/image

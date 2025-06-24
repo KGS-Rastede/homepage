@@ -1,0 +1,33 @@
+Title: Fußballmädchen der KGS beim Landesentscheid in Hannover!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://uLh3pMWB0AMNgLV2"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"03cc96ba-cd1e-486f-be2b-f5a1ccb41486","isHidden":false,"type":"image"}],"id":"0a4c57a1-9927-4622-9834-f79270b4a3a3","width":"1/1"}],"id":"82a6238f-0d6e-4e40-947f-66d021314119"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Fußballmädchen der KGS Rastede (Wettkampfklasse IV / Jahrgang 2013 - 2015) haben sich für das Landesfinale am 26.06.2025 in Barsinghausen / Hannover qualifiziert.</p><p>Nachdem die Schulmannschaft der Jahrgangsstufe 5 - 6 bereits den Kreisentscheid in Edewecht und auch den Kreisgruppenentscheid in Wilhelmshaven gewinnen konnten, waren sie nun auch beim Bezirksentscheid in Edewecht der Sieger. Danach aber sah es lange nicht aus: im erstem Gruppenspiel gegen das Max-Planck-Gymnasium Delmenhorst kassierten die KGSlerinnen eine 5:3 Niederlage. Im zweiten Gruppenspiel reichte es trotz einer 2:0 Führung gegen das Gymnasium Georgianum Lingen am Ende nur zu einem 4:4. Spielerisch aber war bereits in diesem Spiel eine deutliche Leistungssteigerung der KGS Mädchen zu verzeichnen, und durch etwas Ergebnisglück konnten die KGS Mädchen dennoch ins Halbfinale einziehen. Dort wartete der Gruppensieger aus der Gruppe B, das Gymnasium Lohne. Dieses Spiel konnten die KGS Mädchen relativ ungefährdet mit 2:0 gewinnen, wodurch der Finaleinzug perfekt gemacht werden konnte. Dort wartete dann erneut das Max-Planck-Gymnasium Delmenhorst, mit dem man ja noch eine Rechnung offen hatte. Im Finale gelang diesmal gegen Delmenhorst ein 3:0 Sieg, wodurch der Bezirksentscheid gewonnen werden konnte. </p><p>Zum KGS Mädchenfußballteam gehörten diesmal: Jette Joost, Thea Büsselmann, Rieke Sprenger, Hannah Pollok, Tilda Butschek, Emma Matrusch, Giuliana Kuhn, Alina Helzer, Eva Bruns, Carolina Stulgies. </p><p>Trainer / Betreuer: Maike de Boer und Hauke de Boer</p>"},"id":"cbd3b7b4-8667-4641-a9a3-aef582d1a901","isHidden":false,"type":"text"}],"id":"d8179014-5043-4686-994c-3191a59fa3f2","width":"1/1"}],"id":"282aa093-4ab6-4715-9ea4-39b73001a173"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ci0vpAlKWvvJQTyN"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"a64fb1ec-1f20-48c0-bb6d-c0ce988a3ec6","isHidden":false,"type":"image"}],"id":"799490f8-89a1-47f4-8217-c0332813c9c6","width":"1/1"}],"id":"a5d5ef38-b2ba-4a8b-ada2-2f2d71eeb4b2"}]
+
+----
+
+Date: 2025-06-13 09:55:00
+
+----
+
+Datumstartseite: 2025-10-13 09:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Hauke de Boer
+
+----
+
+Tags: Wettbewerb, Sport, Fußball
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ITAS6xBn6eQ9TTWf

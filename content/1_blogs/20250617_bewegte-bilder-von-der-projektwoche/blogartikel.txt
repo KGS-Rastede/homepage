@@ -1,0 +1,33 @@
+Title: Bewegte Bilder von der Projektwoche
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://MId0HkoEqliXqTgy"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"364ae53e-4fa5-4c88-acbe-845b49005ddd","isHidden":false,"type":"image"}],"id":"7ddc70f3-cb4c-496b-bdd9-0120a0f3ac41","width":"1/1"}],"id":"ea5b3c59-c5ee-4dee-9362-9461deeb44c3"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Hier sind ab sofort Videos des Projektes \"Videodokumentation\" mit Herrn Weusmann zu sehen: </p><p><a href=\"https://kgs-rastede.eu/iserv/file/-/Public/Projektwoche_Videos\">https://kgs-rastede.eu/iserv/file/-/Public/Projektwoche_Videos</a></p>"},"id":"12861760-cb34-4eb3-bddf-9f9b88f9f54d","isHidden":false,"type":"text"}],"id":"32dcf79f-68cc-4cd5-879d-eb3ceeca8a9e","width":"1/1"}],"id":"e4522a7d-f977-4016-bdc0-76e9486d5463"}]
+
+----
+
+Date: 2025-06-17 12:15:00
+
+----
+
+Datumstartseite: 2025-10-17 12:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Lutz Weusmann
+
+----
+
+Tags: Projektwoche, Videos
+
+----
+
+Downloads: 
+
+----
+
+Uuid: Z7U36BrVWepqb8FD

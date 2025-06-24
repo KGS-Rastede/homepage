@@ -1,0 +1,40 @@
+Title: Änderung Busverkehr
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Aufgrund einer zweitägigen Vollsperrung des Kreuzungsbereiches in Borbeck kommt es zu Veränderungen in der Schülerbeförderung.</p><p>Ich bitte um Beachtung der Anhänge und Weitergabe der Informationen an die Schülerinnen und Schüler.</p><p>Für Rückfragen steht Ihnen Firma Imken unter 04402/9688-40 (Frau Bienow) zur Verfügung.</p>"},"id":"e23817e7-1695-4995-8847-4537a4f7ec27","isHidden":false,"type":"text"}],"id":"4b626545-a8b3-45ad-b738-3ff51277fbef","width":"1/1"}],"id":"8e033d90-6f17-40e9-840c-ebb862d87fcb"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li><a href=\"https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/d933f4edf2-1749049628/fahrer_info_l330_borbeck_lsa_ba3_05.-06.06.25.pdf\">https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/d933f4edf2-1749049628/fahrer_info_l330_borbeck_lsa_ba3_05.-06.06.25.pdf</a></li><li><a href=\"https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/3b3e3a4775-1749049628/330-fpl-ba-ab-05.06.25-bis-06.06.25.pdf\">https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/3b3e3a4775-1749049628/330-fpl-ba-ab-05.06.25-bis-06.06.25.pdf</a></li><li><a href=\"https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/13e3061cc3-1749049628/fahrer_info_l349_borbeck_lsa_ba3_05.06.-06.06.25.pdf\">https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/13e3061cc3-1749049628/fahrer_info_l349_borbeck_lsa_ba3_05.06.-06.06.25.pdf</a></li><li><a href=\"https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/9403f0194f-1749049628/fahrer_info_l336_borbeck_lsa_ba3_05.06.-06.06.25.pdf\">https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/9403f0194f-1749049628/fahrer_info_l336_borbeck_lsa_ba3_05.06.-06.06.25.pdf</a></li><li><a href=\"https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/a57b5443e2-1749049628/fahrer_info_l333_borbeck_lsa_ba3_05.06.-06.06.25.pdf\">https://kgs-rastede.de/media/pages/blogs/aenderung-busverkehr/a57b5443e2-1749049628/fahrer_info_l333_borbeck_lsa_ba3_05.06.-06.06.25.pdf</a></li></ul>"},"id":"83ee553b-fa26-498e-a32c-f9da3f3a9684","isHidden":false,"type":"list"}],"id":"50aca228-b56f-4622-adb2-12087f4138d9","width":"1/1"}],"id":"16c2c2b6-151b-4281-b56e-498ad1588339"}]
+
+----
+
+Date: 2025-06-04 16:35:00
+
+----
+
+Datumstartseite: 2025-06-05 16:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Carsten Niehaus
+
+----
+
+Tags: Topartikel
+
+----
+
+Downloads:
+
+- file://1FRD4LRuat5lguRu
+- file://60iCv7Jjcg0Ofdib
+- file://JYtZ3BCMXXZJbMmz
+- file://MR9GeEGVkabdOESr
+- file://FEUvaIN7Ap4g8baV
+- file://QvNcKHdY1hMkqQ04
+
+----
+
+Uuid: SeVa31pnbA7bxny0

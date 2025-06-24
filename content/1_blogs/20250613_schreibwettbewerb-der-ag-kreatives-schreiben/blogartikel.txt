@@ -1,0 +1,33 @@
+Title: Schreibwettbewerb der AG Kreatives Schreiben
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://Pcq0wqTRDnYAjxoU"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"df82509c-d3eb-4cec-b101-a4fbac48471e","isHidden":false,"type":"image"}],"id":"7c999f2a-3f4e-4d66-884c-c4b03707f14c","width":"1/1"}],"id":"eeab5f7b-15f3-462e-a97b-e9ed3a479c04"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die AG Kreatives Schreiben von Frau Bolduan hat dieses Jahr einen Schreibwettbewerb zum Thema „Aus Feinden werden Freunde“ veranstaltet. </p><p>Am Donnerstag, den 5.6. fand die Preisverleihung statt. Den ersten Platz belegte Johanna Zawischa, die einen Buchgutschein gewonnen hat. Den zweiten Platz belegten Emily Wild und Felix von Schoenebeck, den dritten Platz belegte Ida Gaube. Für den zweiten und dritten Platz gab es jeweils Eisgutscheine. </p><p>Wir bedanken uns ganz herzlich bei allen Teilnehmerinnen und Teilnehmern für die kreativen Texte.</p>"},"id":"4bee7778-6936-467b-959d-5e5b8e046489","isHidden":false,"type":"text"}],"id":"f76809a0-6c97-444d-b83e-46fd97f5e58b","width":"1/1"}],"id":"bfbfe791-36d8-41d4-9ff9-5389401e96eb"}]
+
+----
+
+Date: 2025-06-13 10:00:00
+
+----
+
+Datumstartseite: 2025-10-13 10:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Beryl Bolduan
+
+----
+
+Tags: Schreibwettbewerb, Wettbewerb, AGs, AG Kreatives Schreiben
+
+----
+
+Downloads: 
+
+----
+
+Uuid: BNFsVaqmXoxg5WSd
