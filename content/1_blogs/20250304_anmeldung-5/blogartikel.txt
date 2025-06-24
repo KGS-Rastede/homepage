@@ -1,0 +1,48 @@
+Title: Anmeldung zum 5. Jahrgang
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[],"id":"066f1c54-fa83-4911-9ca5-31c32fd99ce2","width":"1/1"}],"id":"6a60d374-b8ac-4621-8a0e-2cab49d0b11d"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Liebe Erziehungsberechtigte,</p><p>der Zeitpunkt der Entscheidung über die weitere Schullaufbahn Ihres Kindes ist gekommen. Sie werden sich sicherlich schon auf Grundlage der Beratung durch die Grundschule intensive Gedanken gemacht haben, wo Sie Ihr Kind anmelden möchten. Auf verschiedenen Veranstaltungen konnten Sie sich über das Angebot der einzelnen Schulzweige der KGS Rastede informieren.</p><p>Um das Anmeldeverfahren für Sie möglichst einfach zu gestalten, haben Sie die Möglichkeit, Ihr Kind online anzumelden. Sie können in aller Ruhe zusammen mit Ihrem Kind den Anmeldebogen durchgehen und sich mögliche Wartezeiten ersparen. Das Zeugnis der 4. Klasse brauchen Sie zum jetzigen Zeitpunkt nicht vorzulegen. Alle Dokumente werden uns beim Schulwechsel von den abgebenden Grundschulen mit der Schülerakte übergeben.</p><p>Das Anmeldeverfahren findet im Zeitraum vom <strong>02.04.2025 bis 27.04.2025</strong> statt.<strong> </strong>Sollten dann noch Fragen offenbleiben, stehen wir Ihnen selbstverständlich jederzeit zur Verfügung.</p><p>Bei der Anmeldung benötigen wir von Ihnen Angaben zu folgenden Bereichen:</p><p>·        Noten der der Fächer Deutsch, Mathe und Sachunterricht</p><p>·        Beurteilung des Arbeits- und Sozialverhaltens</p><p>·        Besuch des <strong>Religionsunterrichts</strong> (Religion oder Werte und Normen)</p><p>·        Die <strong>Buslinie</strong>, falls Ihr Kind mit dem Bus zur Schule fährt</p><p>·        Eine <strong>Freundin oder einen Freund</strong>, mit der oder dem Ihr Kind in die Klasse möchte</p><p>·        Wahl einer <strong>2. Fremdsprache</strong> (nur Gymnasialzweig)</p><p>Die Arbeitsgemeinschaften werden erst zu Beginn des neuen Schuljahres gewählt.</p><p><strong>Onlineanmeldung:</strong></p><p>Sie rufen mit dem Link:</p><p><a href=\"https://haneke.de/schueleranmeldung/Eingabe?id=1602190976\"><strong>https://haneke.de/schueleranmeldung/Eingabe?id=1602190976</strong></a></p><p>den Anmeldebereich unserer Verwaltungssoftware <em>Sibank </em>auf. Ihre Daten landen verschlüsselt auf dem Server der Firma Haneke. Erst, nachdem Sie die Daten eingegeben und geprüft haben, drücken Sie auf Absenden. Danach drucken Sie eine Übersichtsseite mit einem Barcode aus. Der Barcode wird auch als Kennung in Ziffern ausgegeben.</p><p>Dieser Aufnahmebogen enthält personenbezogene Daten der Schülerinnen und Schüler und der Erziehungsberechtigten, die gemäß § 31 Niedersächsisches Schulgesetz (NSchG) erhoben werden. Gemäß Art. 13 Datenschutzgrundverordnung (DSGVO) sind wir verpflichtet Sie zum Zeitpunkt der Erhebung dieser Daten über bestimmte datenschutzrechtliche Bestimmungen zu informieren. Diese Informationen finden Sie in Papierform im Sekretariat oder in der Information zum Schulstart oder auf unserer Homepage.</p><p><strong>Ihr Kind ist erst bei uns angemeldet, wenn wir den von beiden Sorgeberechtigten unterschriebenen Anmeldebogen bis zum 30.04.25 vorliegen haben!</strong></p><p><strong>Alle Schüler:innen, die nicht in Rastede wohnen, bekommen bis zum 26.05.2025 eine Rückmeldung, ob sie an der KGS einen Schulplatz erhalten haben.</strong></p><p><strong>Informationen zu der Klassenzuordnung, zu den benötigten Materialien und den Einlebenstagen erhalten die Schüler:innen schriftlich zu Beginn der Sommerferien.</strong></p><p>Wenn Sie bei der Anmeldung Fragen haben, rufen Sie uns gern unter der folgenden Telefonnummer 04402-926514 in der Zeit von 8.00 bis 13.30 Uhr an.</p><p>Sollten Sie keine Möglichkeit haben, die Anmeldung online durchzuführen oder Ihre Anmeldung auszudrucken, so bieten wir Ihnen an, dies nach Terminabsprache am Standort <strong>Feldbreite</strong> im Sekretariatsbereich in der Schule zu folgenden Zeiten durchzuführen:</p><p>22.04.2025 (Mittwoch) bis 25.04.2025 (Freitag) jeweils von 08:00 Uhr – 13:30 Uhr </p><p><strong>Informationen zu Schulbüchern, Kopierkosten und den KGS-Planer</strong></p><p>die Verwaltung der Schulbuchausleihe, der Kopierkosten und der Kosten für den KGS-Planer wird über unseren Schulserver iServ durchgeführt.</p><p>Die Kosten für die Kopien und den KGS-Planer müssen von allen Erziehungsberechtigten bezahlt werden, die Kosten für die Schulbuchausleihe nur von denen, die für ihr Kind Schulbücher an der KGS ausleihen wollen.</p><p>Jede:r Schüler:in von Jahrgang 5-10 erhält von der Schule den KGS-Planer, der zahlreiche wichtige Informationen aus dem Schulleben enthält, als Hausaufgabenplaner dient und über den die Entschuldigungen für Krankheitstage verpflichtend laufen.</p><p>Da alles aber in iServ über dasselbe Modul abgerechnet wird, <strong>müssen sich alle Erziehungsberechtigten für die Lernmittelausleihe dort anmelden</strong>, auch wenn sie nicht an der Schulbuchausleihe teilnehmen möchten. </p><p>Weitere Details zur Schulbuchausleihe erhalten Sie, wenn Ihr Kind an der KGS aufgenommen worden ist.</p><p></p><p></p>"},"id":"34734a8b-10ba-41fe-8ab2-4e6f0a0b4f62","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Schüler:innen stellen die Feldbreite vor."},"id":"919f6e64-d0fb-45ed-8191-d487130e535e","isHidden":false,"type":"heading"},{"content":{"location":"","url":"https://vimeo.com/917530924","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":""},"id":"4653a154-343e-4eae-ad90-2a76b1b20294","isHidden":false,"type":"video"},{"content":{"text":"<p></p><p>Zu der <a href=\"https://kgs-rastede.de/media/pages/blogs/anmeldung-5/2cebfdffe2-1741769029/kgs-info4-2024-2025_11-03-24.pdf\" title=\"Präsentation der Infoveranstaltung GS\">Präsentation der Informationsveranstaltung</a> </p><p>Informationen zur<a href=\"https://kgs-rastede.de/intern/pages/blogs+anmeldung-5/files/wun-re-brief-an-die-gs-aktualisiert-23.pdf\" target=\"_blank\" title=\"Wun-re-brief-an-die-gs-23\"> </a><a href=\"https://kgs-rastede.de/media/pages/blogs/anmeldung-5/dd593e04a8-1678088526/wun-re-brief-an-die-gs-aktualisiert-24.pdf\" target=\"_blank\" title=\"Wun-re-brief-an-die-gs-24\">Religions- und Werte/Normen-Unterricht</a></p><p>Alle Schulbuchlisten finden sie <a href=\"https://kgs-rastede.de/allgemeines/schulbuchlisten\" target=\"_blank\">hier</a>.</p>"},"id":"20cf4d3c-82a0-491f-8545-d12d7143b17a","isHidden":false,"type":"text"}],"id":"fc57dd37-012e-426d-a366-604e6218090a","width":"1/1"}],"id":"c8260332-71a8-4c0d-87e5-812e0f3edc66"}]
+
+----
+
+Date: 2025-03-04 07:00:00
+
+----
+
+Datumstartseite: 2025-04-30 13:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Naile Ildiz (ID)
+
+----
+
+Tags: Schulleitung, Anmeldung, Topartikel
+
+----
+
+Downloads:
+
+- file://9NdEaZLBToreeX6v
+- file://6kGGrpvV4MqjVQ0B
+
+----
+
+Heading: Anmeldung
+
+----
+
+Gallery: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: IQyfLNvtCg9VksMF

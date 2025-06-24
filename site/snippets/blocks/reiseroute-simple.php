@@ -25,8 +25,8 @@
 
 
 <div id="map"></div>
-<button class="px-4 py-1 text-gray-800 font-semibold rounded-full border border-purple-200 hover:text-white
-    hover:bg-slate-400 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-slate-200 focus:ring-offset-2
+<button class="px-4 py-1 text-gray-900 font-semibold rounded-full border border-purple-200 hover:text-white
+    hover:bg-slate-300 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-slate-200 focus:ring-offset-2
     text-center" id="fit">Auf Punkte reinzoomen</button>
 
 <script>
@@ -41,16 +41,17 @@
                         'message': '<?= $block->name() ?>',
                         'iconSize': [50, 50],
 
-                        <?php
-                        if ($block->bild()->isEmpty()): ?>
-                                            //Es wurde kein Bild hinterlegt, also ein Standard-Bild
-                                           'iconUrl': '<?= $kirby->url('assets') ?>/logo-kgs.jpg'
+                        <?php if ($block->bild()->isEmpty()): ?>
+                            //Es wurde kein Bild hinterlegt, also ein Standard-Bild
+                            'iconUrl': '<?= $kirby->url(
+                              'assets',
+                            ) ?>/logo-kgs.jpg'
 
-                                <?php else: ?> 
+                        <?php else: ?>
 
-                                            'iconUrl': '<?= $block->bild()->toFile()->url() ?>'
+                            'iconUrl': '<?= $block->bild()->toFile()->url() ?>'
 
-                                <?php endif ?>
+                        <?php endif; ?>
 
 
                     },
@@ -59,7 +60,7 @@
                         'coordinates': [<?= $block->breitengrad() ?>, <?= $block->laengengrad() ?>]
                     }
                 },
-            <?php endforeach ?>
+            <?php endforeach; ?>
         ]
     };
 

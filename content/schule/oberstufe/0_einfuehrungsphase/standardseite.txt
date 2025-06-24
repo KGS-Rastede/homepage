@@ -1,0 +1,47 @@
+Title: Einführungsphase
+
+----
+
+Heading: 
+
+----
+
+Blogtag: 
+
+----
+
+Text: [{"content":{"text":"<p>Jede Schülerin und jeder Schüler muss sich für die Oberstufe anmelden. Anmeldeschluss ist dabei landesweit in jedem Jahr der 20. Februar. Die Anmeldung muss vormittags persönlich im Sekretariat der KGS Rastede abgegeben werden.</p>"},"id":"76212c86-cb3e-42de-9b76-1cbf341f451d","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Einfluss der Wahlen in der Einführungsphase</strong> </p>"},"id":"17cfa828-750d-4918-b6b0-4c7734557f5f","isHidden":false,"type":"text"},{"content":{"text":"<p>Bereits in der Einführungsphase kann in einigen Fachbereichen eine Entscheidung zwischen verschiedenen Fächern getroffen werden. Dabei sollte berücksichtigt werden, dass ein einmal abgewähltes Fach in der Qualifikationsphase nicht mehr als Prüfungsfach gewählt werden kann und bestimmte Fächer Voraussetzung zur Wahl bestimmter Schwerpunkte sind. Beispielsweise muss, wer den sportlichen Schwerpunkt anstrebt, in der Einführungsphase Sporttheorie belegen.</p>"},"id":"e5a8b818-a076-47ab-8372-ed994ef17ef0","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Wahlpflichtbereich</strong></p>"},"id":"7f50d5cc-18e2-4f90-999e-ae42870ac71c","isHidden":false,"type":"text"},{"content":{"text":"<p>Schülerinnen und Schüler, die bereits seit der sechsten Klasse durchgängig eine zweite Fremdsprache belegt haben, können anstelle dieser in der Einführungsphase den Wahlpflichtbereich belegen, der unter bestimmten inhaltlichen Oberthemen steht. Die aktuellen Angebote finden Sie bei den Downloads. Eine Wahl des sprachlichen Schwerpunktes ist dann jedoch nicht mehr möglich.</p>"},"id":"da97fde3-90c8-4127-b09b-f9d1df499160","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: 
+
+----
+
+Downloads:
+
+- file://fvO1ycdRs7RsKret
+- file://K1KlSgRmdphtFpBg
+- file://Dt47WxuRMnr4dbNJ
+- file://lwUycluRKuygAbVJ
+- file://YW3esR2QQxDzwoPy
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Uuid: DoY9VIlPWdzcYONX

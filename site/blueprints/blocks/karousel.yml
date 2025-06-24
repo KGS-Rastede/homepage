@@ -1,6 +1,6 @@
 name: Karousel
 icon: menu
-label: "{{ text }}"
+label: '{{ text }}'
 fields:
   karousel:
     label: Bilder für das Karousel
@@ -8,4 +8,3 @@ fields:
     min: 2
     layout: cards
     query: page.images
-

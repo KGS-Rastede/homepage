@@ -23,8 +23,8 @@ columns:
           text:
             type: layout
             layouts:
-              - "1/1"
-              - "1/2, 1/2"
+              - '1/1'
+              - '1/2, 1/2'
             fieldsets:
               - heading
               - text
@@ -72,8 +72,8 @@ columns:
             help: Wenn aktiv wird der Artikel niemals auf der Startseite angezeigt
             type: toggle
             text:
-              - "Nein"
-              - "Ja"
+              - 'Nein'
+              - 'Ja'
             default: false
           author:
             type: text

@@ -8,26 +8,26 @@
  */
 class StudyGroup
 {
-  public $id;
-  public $data;
+    public $id;
+    public $data;
 
-  function __construct($id, $data)
-  {
-    $this->id = $id;
-    $this->data = $data;
-  }
+    function __construct($id, $data)
+    {
+        $this->id = $id;
+        $this->data = $data;
+    }
 
-  public function pageData()
-  {
-    $data = [
-      'slug' => Str::slug($this->id),
-      'template' => 'arbeitsgemeinschaft',
-      'model' => 'arbeitsgemeinschaft',
-      'content' => $this->data
-    ];
+    public function pageData()
+    {
+        $data = [
+            'slug' => Str::slug($this->id),
+            'template' => 'arbeitsgemeinschaft',
+            'model' => 'arbeitsgemeinschaft',
+            'content' => $this->data,
+        ];
 
-    return $data;
-  }
+        return $data;
+    }
 }
 
 /**
@@ -38,100 +38,97 @@ class StudyGroup
  */
 class AgsPage extends Page
 {
-  private const EMPTY_JSON_STRUCTURE = [
-    "current_term_year" => "",
-    "study_groups" => []
-  ];
+    public function children(): Pages
+    {
+        $results = [];
+        $pages = [];
 
-  public function children(): Pages
-  {
-    $results = [];
-    $pages = [];
+        $data = $this->studyGroupsData();
 
-    $data = $this->studyGroupsData();
+        foreach ($data['study_groups'] as $id => $study_group_data) {
+            $study_group = new StudyGroup($id, $study_group_data);
 
-    foreach ($data['study_groups'] as $id => $study_group_data) {
-      $study_group = new StudyGroup($id, $study_group_data);
+            $pages[] = $study_group->pageData();
+        }
 
-      $pages[] = $study_group->pageData();
+        return Pages::factory($pages, $this);
     }
 
-    return Pages::factory($pages, $this);
-  }
-
-  public function termYear(): string
-  {
-    return $this->studyGroupsData()['current_term_year'] ?? "";
-  }
-
-  private function studyGroupsData()
-  {
-    if ($this->hasCachedStudyGroupsData() && !$this->hasStaleCachedStudyGroupsData()) {
-      return $this->readCachedStudyGroupsData();
-    } else {
-      return $this->fetchStudyGroupsData();
-    }
-  }
-
-  private function hasCachedStudyGroupsData()
-  {
-    return F::exists($this->studyGroupsDataCacheFilePath());
-  }
-
-  private function hasStaleCachedStudyGroupsData()
-  {
-    return (time() - F::modified($this->studyGroupsDataCacheFilePath())) > 86400;
-  }
-
-  private function readCachedStudyGroupsData()
-  {
-    $data = Data::read($this->studyGroupsDataCacheFilePath(), 'json');
-
-    return is_array($data) && isset($data['study_groups']) ? $data : self::EMPTY_JSON_STRUCTURE;
-  }
-
-  private function fetchStudyGroupsData()
-  {
-    $request = Remote::get($this->apiEndpointUri() . '?token=' . $this->apiKey());
-
-    if ($request->code() === 200) {
-      $data = $request->json(true);
-
-      if ($this->isValidStudyGroupsData($data)) {
-        $this->updateStudyGroupsDataCache($data);
-        return $data;
-      }
+    public function termYear(): string
+    {
+        return $this->studyGroupsData()['current_term_year'];
     }
 
-    // API fehlgeschlagen oder ungültige Daten → Speichere leere Struktur
-    $this->updateStudyGroupsDataCache(self::EMPTY_JSON_STRUCTURE);
+    private function studyGroupsData()
+    {
+        if (
+            $this->hasCachedStudyGroupsData() &&
+            !$this->hasStaleCachedStudyGroupsData()
+        ) {
+            return $this->readCachedStudyGroupsData();
+        } else {
+            return $this->fetchStudyGroupsData();
+        }
+    }
 
-    return self::EMPTY_JSON_STRUCTURE;
-  }
+    private function hasCachedStudyGroupsData()
+    {
+        return F::exists($this->studyGroupsDataCacheFilePath());
+    }
 
-  private function isValidStudyGroupsData($data)
-  {
-    return is_array($data) && isset($data['study_groups']) && is_array($data['study_groups']);
-  }
+    private function hasStaleCachedStudyGroupsData()
+    {
+        return time() - F::modified($this->studyGroupsDataCacheFilePath()) >
+            86400;
+    }
 
-  private function updateStudyGroupsDataCache($data)
-  {
-    Data::write($this->studyGroupsDataCacheFilePath(), $data, 'json');
-  }
+    private function readCachedStudyGroupsData()
+    {
+        return Data::read($this->studyGroupsDataCacheFilePath(), 'json');
+    }
 
-  private function studyGroupsDataCacheFilePath()
-  {
-    return $this->kirby()->root('cache') . "/" . 'arbeitsgemeinschaften.json';
-  }
+    private function fetchStudyGroupsData()
+    {
+        $request = Remote::get(
+            $this->apiEndpointUri() . '?token=' . $this->apiKey(),
+        );
 
-  private function apiEndpointUri()
-  {
-    return Config::get('studyGroups.url');
-  }
+        if ($request->code() === 200) {
+            $data = $request->json(true);
 
-  private function apiKey()
-  {
-    return Config::get('studyGroups.apiKey');
-  }
+            $this->updateStudyGroupsDataCache($data);
+
+            return $data;
+        } else {
+            if ($this->hasCachedStudyGroupsData()) {
+                return $this->readCachedStudyGroupsData();
+            } else {
+                throw 'Could not load study group information from remote system.';
+            }
+        }
+    }
+
+    private function updateStudyGroupsDataCache($data)
+    {
+        Data::write($this->studyGroupsDataCacheFilePath(), $data, 'json');
+    }
+
+    private function studyGroupsDataCacheFilePath()
+    {
+        return $this->kirby()->root('cache') .
+            '/' .
+            'arbeitsgemeinschaften.json';
+    }
+
+    private function apiEndpointUri()
+    {
+        return Config::get('studyGroups.url');
+    }
+
+    private function apiKey()
+    {
+        return Config::get('studyGroups.apiKey');
+    }
 }
+
 ?>

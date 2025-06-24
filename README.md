@@ -4,11 +4,11 @@ Kirby ist soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann k�
 
 ## Welche Software muss vorher installiert werden?
 
--   [composer](https://getcomposer.org/download/)
--   WebServer (WAMP, LAMP, XAMPP, etc) oder falls [VS Code](https://code.visualstudio.com/) benutzt wird, die Extension [PHP-Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
--   PHP 8 (mindestens PHP 8.3)
--   [git](https://git-scm.com/downloads)
--   Ein Editor wie Visual Studio Code oder ZED
+- [composer](https://getcomposer.org/download/)
+- WebServer (WAMP, LAMP, XAMPP, etc) oder falls [VS Code](https://code.visualstudio.com/) benutzt wird, die Extension [PHP-Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
+- PHP 8 (mindestens PHP 8.3)
+- [git](https://git-scm.com/downloads)
+- Ein Editor wie Visual Studio Code oder ZED
 
 _Weitere Details sind unten zu finden._
 
@@ -48,10 +48,10 @@ Kein Problem! Wir können uns entweder mal (z.B. in einer Mittagspause) treffen 
 
 ### Editor
 
--   Als Editor eignet sich [VS Code](https://code.visualstudio.com/).
--   Unter Linux verwende ich schon immer [Vim](https://www.vim.org/), ein besserer Editor kann kaum existieren :-) Mit NeoVim exisitiert eine Variante, die etwas moderner ist.
--   Zurecht schwören viele auf [Sublime](https://www.sublimetext.com/)
--   [Notepad++](https://notepad-plus-plus.org/) ist ein einfacher zu beherschender Editor, der auf jeden Fall auch ok ist.
+- Als Editor eignet sich [VS Code](https://code.visualstudio.com/).
+- Unter Linux verwende ich schon immer [Vim](https://www.vim.org/), ein besserer Editor kann kaum existieren :-) Mit NeoVim exisitiert eine Variante, die etwas moderner ist.
+- Zurecht schwören viele auf [Sublime](https://www.sublimetext.com/)
+- [Notepad++](https://notepad-plus-plus.org/) ist ein einfacher zu beherschender Editor, der auf jeden Fall auch ok ist.
 
 ### Quellcode verwalten
 
@@ -80,10 +80,8 @@ Gegebenfalls muss man aber noch den Pfad ("PATH") unter Windows einrichten. Das 
 
 Ein sehr gute Methode ist [DDEV](https://getkirby.com/docs/cookbook/development-deployment/ddev) mit Docker. Dann muss man weder MAMP noch WAMP etc installieren, alle Pakete sind aktuell. Die Anleitung von Kirby funktioniert super.
 
-
 ```bash
 ddev config --php-version=8.3 --omit-containers=db
-```
 ```
 
 zum Reparieren hat schonmal geholfen:
@@ -101,7 +99,5 @@ Die Homepage wird mit Git verwaltet werden. Jeder, der mitmachen möchte, sollte
 
 # CSS
 
-Wir müssen natürlich CSS verwenden. [Bootstrap](https://getbootstrap.com/) ist ein sinnvolles, bekanntes System.
-Wir haben uns daher für Bootstrap 5 entschieden. Gute Dokumentation, Anleitungen ohne Ende...
-
-Wir stellen aber zur Zeit auf TailwindCSS um, abgesehen vom Menü ist alles umgestellt. Das Menü folgt, wenn Tailwind 4 raus ist.
+Wir müssen natürlich CSS verwenden. [TailwindCSS](https://tailwindcss.com) ist ein sinnvolles, bekanntes System.
+Wir haben uns daher für TailwindCSS entschieden. Gute Dokumentation, Anleitungen ohne Ende...

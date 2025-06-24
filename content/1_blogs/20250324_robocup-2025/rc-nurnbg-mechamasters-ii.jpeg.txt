@@ -1,0 +1,5 @@
+Uuid: mqltiripxCSkUsa6
+
+----
+
+Template: blocks/image

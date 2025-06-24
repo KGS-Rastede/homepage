@@ -1,0 +1,33 @@
+Title: Mathecamp in Papenburg
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://HnFoyS9qEOeF8dvo"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"2e94321c-45f7-45ad-b32a-8c23212ebe94","isHidden":false,"type":"image"}],"id":"a8ddeec1-455d-4357-931d-c0a04569a125","width":"1/1"}],"id":"0a88c1ac-1df2-47a9-aa62-88baa03bce68"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Vom 09. bis zum 11. Januar 2025 besuchten 4 mathematikbegeisterte Schüler/innen der KGS Rastede das diesjährige Mathecamp in Papenburg. </p><p>Zwischen rund 80 Schülern und Schülerinnen der Klassen 5 bis 13 konnten in diesem Jahr Greta Reck (8D3), Greta Steinkamp (10D3), Kalle Steinkamp(12) und Hauke Döbler (7B3) ihrer Mathebegeisterung nachgehen. </p><p>Wie jedes Jahr organisierte auch dieses Mal die Universität Oldenburg mit der Cäcilienschule Oldenburg im HOEB in Papenburg ein dreitägiges Mathecamp. Hier werden verschiedenste mathematische Themen in anspruchsvollen Aufgaben behandelt, die normalerweise nicht im Unterricht behandelt werden.</p>"},"id":"9db95dd2-d666-438d-9dda-7566a2d9fc4f","isHidden":false,"type":"text"}],"id":"271a30b0-2426-47f6-9b20-f43973ad421d","width":"1/1"}],"id":"b9f1bece-d687-4f42-a7ea-06beeed3fd21"}]
+
+----
+
+Date: 2025-03-14 10:35:00
+
+----
+
+Datumstartseite: 2025-07-14 10:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Hauke Döbler
+
+----
+
+Tags: Mathematik, Papenburg, Wettbewerb, Camp, Mathecamp
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 0OiKZzvdHH66LIPI

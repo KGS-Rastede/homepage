@@ -12,7 +12,7 @@ tabs:
             fields:
               anschrift:
                 label: Anschrift mit Name und Adresse
-                type: textarea 
+                type: textarea
               rechtlichertext:
                 label: Rechtlicher Text
                 type: textarea

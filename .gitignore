@@ -11,6 +11,10 @@ Icon
 /media/*
 !/media/index.html
 
+# Build outputs
+# -------------
+twkgs_shrinked.min.css
+
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------

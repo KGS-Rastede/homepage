@@ -1,7 +1,7 @@
 <div class="bg-white shadow-lg p-6 mb-6 px-8">
   <img src="<?= $block->bild()->toFile()->url() ?>">
 
-  <h3 class="text-lg font-bold text-yellow-500 mb-2">
+  <h3 class="text-lg font-bold text-yellow-600 mb-2">
     <?= $block->name() ?>
   </h3>
   <h4 class="text-xl mb-4">
@@ -18,7 +18,8 @@
         <i class="bi bi-<?= $block->icon() ?>"></i>
         <?= $relatedPage->title() ?>
       </a>
-    <?php endforeach ?>
+    <?php endforeach;
+    ?>
 
   </div>
 </div>

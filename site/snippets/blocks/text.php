@@ -1,8 +1,8 @@
 <?php
-
-/** @var \Kirby\Cms\Block $block */ ?>
+/** @var \Kirby\Cms\Block $block */
+?>
 <article class="prose lg:prose-xl prose-a:text-blue-600">
 
-    <?= $block->text(); ?>
+    <?= $block->text() ?>
 
 </article>

@@ -1,19 +1,22 @@
-<?php snippet('header') ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
-<?php snippet('page-header') ?>
+<!-- Blog List Section: In Grid Alternate -->
+<div class="space-y-16 py-10">
 
-
-
-<div class="bg-slate-50 dark:bg-gray-900 dark:text-gray-100 px-4 pb-6 mb-8">
   <!-- Latest Posts -->
-  <div class="grid gap-4 grid-cols-1 md:grid-cols-3 lg:grid-cols-4">
-    <?php foreach ($articles as $article)
-      snippet('blogkarte-einfach', [
-        'subpage' => $article
-      ])
-    ?>
+  <div class="grid grid-cols-1 gap-8 md:grid-cols-3 lg:gap-10">
+    <?php foreach ($articles as $article) {
+      snippet('blogkarte-bild', [
+        'subpage' => $article,
+      ]);
+    } ?>
   </div>
+  <!-- END Latest Posts -->
 </div>
+<!-- END Blog List Section: In Grid Alternate -->
+
 
 
 <div class="d-flex justify-content-center">
@@ -21,9 +24,10 @@
   $pagination = $articles->pagination();
 
   snippet('pagination', [
-    'pagination' => $pagination
-  ])
+    'pagination' => $pagination,
+  ]);
   ?>
 </div>
 
-<?php snippet('footertw') ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

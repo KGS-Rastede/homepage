@@ -8,21 +8,21 @@ columns:
         type: blocks
         size: large
         fieldsets:
-            - heading
-            - text
-            - list
-            - image
-            - gallery
-            - video
-            - local-video
-            - grabstein
-            - markdown
-            - audio
-            - horizontale-linie
-            - tabelle
-            - gastautor
-            - highlightfeld
-            - quote
-            - karousel
-            - accordion
-            - button
+          - heading
+          - text
+          - list
+          - image
+          - gallery
+          - video
+          - local-video
+          - grabstein
+          - markdown
+          - audio
+          - horizontale-linie
+          - tabelle
+          - gastautor
+          - highlightfeld
+          - quote
+          - karousel
+          - accordion
+          - button

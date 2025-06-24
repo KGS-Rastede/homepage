@@ -1,9 +1,12 @@
-<?php snippet('header') ?>
-<?php snippet('page-header') ?>
+<?php
 
-<?php snippet('sidebar') ?>
+use Kirby\Toolkit\Escape;
 
-<div class="container mb-4 mt-4">
+snippet('default-page-layout', slots: true);
+slot();
+?>
+
+<div class="mb-4 mt-4">
   <h3 class="mb-3">Arbeitsgemeinschaften im Schuljahr
     <?= Escape::html($page->termYear()) ?>
   </h3>
@@ -20,11 +23,13 @@
 
           <?php if ($image = $arbeitsgemeinschaft->image()): ?>
             <a href="<?= $arbeitsgemeinschaft->url() ?>" class="block">
-              <?= $image->crop(650, 488, 'center')->html(['class' => "w-full object-cover max-h-96"]) ?>
+              <?= $image
+                ->crop(650, 488, 'center')
+                ->html(['class' => 'w-full object-cover max-h-96']) ?>
             </a>
           <?php else: ?>
             <div class="p-4">
-              <a href="<?= $arbeitsgemeinschaft->url() ?>" class="text-blue-500 hover:underline">mehr...</a>
+              <a href="<?= $arbeitsgemeinschaft->url() ?>" class="text-blue-600 hover:underline">mehr...</a>
             </div>
           <?php endif; ?>
         </div>
@@ -34,25 +39,19 @@
   </div>
 </div>
 
-<div class="container mb-4 mt-5">
+<div class="mb-4 mt-5">
   <?= $page->more_text()->toBlocks() ?>
 </div>
 
+<?php snippet('sidebar'); ?>
+<?php snippet('related-blogs', [
+  'relatedBlogsTitle' => 'Berichte aus den Arbeitsgemeinschaften',
+  'relatedBlogs' => page('blogs')
+    ->children()
+    ->listed()
+    ->filterBy('tags', 'AGs', ',')
+    ->flip(),
+]); ?>
 
-<div class="container mt-4">
-
-  <h2 class="text-2xl border-t pt-4 font-bold">
-    Berichte aus den Arbeitsgemeinschaften
-  </h2>
-
-  <?php
-  foreach (page('blogs')->children()->listed()->filterBy('tags', 'AGs', ',')->flip() as $subpage):
-
-    snippet('blogkarte', ['subpage' => $subpage]);
-    ?>
-
-  <?php endforeach ?>
-
-</div>
-
-<?php snippet('footertw') ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

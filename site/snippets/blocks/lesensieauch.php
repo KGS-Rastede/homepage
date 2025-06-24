@@ -6,20 +6,22 @@
       <div class="flex">
         <div class="ml-3">
           <p class="text-xl">
-            <?= $block->lesensieauchtitel()->or("Lesen Sie auch...") ?>
+            <?= $block->lesensieauchtitel()->or('Lesen Sie auch...') ?>
           </p>
 
-          <?php $linkziele = $block->lesensieauch()->toPages();
+          <?php
+          $linkziele = $block->lesensieauch()->toPages();
           foreach ($linkziele as $linkziel): ?>
             <p class="mt-2">
               <a href="<?= $linkziel->url() ?>" class="text-2xl underline hover:text-yellow-600">
                 <?= $linkziel->title() ?>
               </a>
             </p>
-          <?php endforeach ?>
+          <?php endforeach;
+          ?>
 
         </div>
       </div>
     </div>
   </div>
-<?php endif ?>
+<?php endif; ?>

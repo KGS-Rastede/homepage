@@ -1,7 +1,7 @@
 # /site/blueprints/blocks/geschichtszeitraum.yml
 name: Zeitraum
 icon: clock
-label: "{{ zeitraum }}"
+label: '{{ zeitraum }}'
 fields:
   zeitraum:
     help: Zeitraum (z.B. "1970er Jahre" oder "2005")

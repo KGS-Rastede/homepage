@@ -1,0 +1,13 @@
+Anzeigename: Kurswahlbogen für auswärtige Schüler:innen
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: kV37q6K23rChMlZa
+
+----
+
+Template: datei

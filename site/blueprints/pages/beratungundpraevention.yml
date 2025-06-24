@@ -2,7 +2,6 @@ title: Fächerübersicht
 icon: 📜
 templates: fach
 
-
 sections:
   pages:
     headline: Beratungsaspekte
@@ -13,7 +12,4 @@ sections:
         label: Beratungstypus
         type: blocks
         fieldsets:
-              - beratungstyp
-
-
-
+          - beratungstyp

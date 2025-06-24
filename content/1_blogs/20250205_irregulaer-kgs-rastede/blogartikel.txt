@@ -1,0 +1,33 @@
+Title: IRREGULäR - KGS Rastede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://wzNlyjLURXnmn36W"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"457a2822-d53a-4dda-b858-57f6c40cba4f","isHidden":false,"type":"image"}],"id":"f3883a8d-1b46-475a-85a7-14ed362307c4","width":"1/1"}],"id":"102c2427-7572-485f-b174-4f80d21deddc"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Neue Ausgabe von IRREGULäR</strong></p><p><br>Die neue Ausgabe von IRREGULäR bietet euch sechs spannende Beiträge. Ihr findet die Online-Schüler*innenzeitung bei den IServ-Modulen (Schüler_innenzeitung) oder direkt unter <a href=\"https://www.schuelerzeitung.kgs-rastede.de/\">schuelerzeitung@kgs-rastede.de</a>.<br><br><strong>Bike to school - wie cool</strong><br>Schüler*innen aus Jahrgang 9 stellen ihre Projekte für eine fahrradfreundliche KGS vor.<br><br><strong>7 Fragen an neue Lehrkräfte</strong><br>Die neuen Lehrkräften Frau Köhler, Herr Schmidt, Frau Klein, Frau Deisemann, Frau Kropp und Frau Oehne-Berdau haben sich unseren Fragen gestellt.<br><br><strong>World Cleanup Day 2024</strong><br>Am World Cleanup Day wird auf der ganzen Welt Müll gesammelt. In unserer Reportage erfahrt ihr, wer sich in Rastede am World Cleanup Day engagiert und was unsere Redakteur*innen bei einer Müllsammel-Aktion rund um die KGS so alles gefunden haben.<br><br><strong>Wegwurf Freestyle</strong><br>Im Forum, in den Gängen, auf den Treppen - überall liegt der Müll herum. Das geht uns massiv auf die Nerven. Daher zeigen wir in unserem Satire-Video, was wir von Schüler*innen halten, die nicht wissen, wie man einen Mülleimer benutzt.<br><br><strong>Bücher-Challenge</strong><br>In diesem Beitrag dreht sich alles ums Lesen. Ihr erfahrt, was es mit der Bücher-Challenge auf sich hat. Außerdem werden Lieblingsbücher und Lieblingsleseorte vorgestellt.<br><br><strong>Bibliotheken - Futter für Leseratten</strong><br>Damit ihr wisst, wo ihr kostengünstig neue Bücher ausleihen, interessante Lesungen besuchen oder selbst in einem Leseclub mitmachten könnt, stellen wir euch die Bibliotheken in unserer Umgebung vor.<br><br>Viel Spaß beim Lesen, Hören und Schauen wünscht die IRREGULäR-Redaktion.</p>"},"id":"a59748f3-9a90-44c7-be23-1237c05758c7","isHidden":false,"type":"text"}],"id":"fe56fb13-2c60-42d8-899e-9d5ff6337e13","width":"1/1"}],"id":"37a790b0-1a93-45ed-92f6-ce595829d3a5"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://bHJlJ6W6jvnJdIY4"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f3a4f5eb-e27a-4a66-848c-d6dfa9ec29f3","isHidden":false,"type":"image"}],"id":"3d637b85-eb2f-4450-8dd0-013749b5caef","width":"1/1"}],"id":"04b46283-0a14-42e6-969d-b7290c86625b"}]
+
+----
+
+Date: 2025-02-05 10:50:00
+
+----
+
+Datumstartseite: 2025-06-05 10:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: IRREGULäR-Redaktion
+
+----
+
+Tags: Schüler:innenzeitung, irregulär, zeitung, projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: LjznVmu5GvqejUiw

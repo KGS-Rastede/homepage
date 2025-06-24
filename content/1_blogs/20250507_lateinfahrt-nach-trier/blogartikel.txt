@@ -1,0 +1,33 @@
+Title: Lateinfahrt nach Trier
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://6Wn9qm6fDZrf0h7R"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"6452880a-d41c-432c-8334-6b4c7b4ec35e","isHidden":false,"type":"image"}],"id":"3b9d1b8b-9239-4f0b-9e68-b598f237a552","width":"1/1"}],"id":"5d901e91-805f-45e0-823d-59cb7ccd5147"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Eine Woche vor den Osterferien (31.03. - 04.04.2025) fand für die Jahrgänge 8 und 9 die Lateinfahrt nach Trier statt. Die Fahrt war einfach unvergesslich.</p><p>Bereits nach einem Tag in Trier waren alle beeindruckt und überwältigt von den einzigartigen Sehenswürdigkeiten und den alten römischen Spuren, die wir in der modernen Stadt vorgefunden haben. </p><p>Besonders interessant waren die Überreste der römischen und christlichen Geschichte, die man überall wahrgenommen hat. Wir haben eine erlebnisreiche Führung in der Porta Nigra bekommen von kostümierten Gästeführern, die uns die Geschichte mit ihren Theaterkünsten vermittelt haben. Danach hatten wir eine wunderschöne Togaführung durch die Stadt. Wir liefen durch die kalten und dunklen Gänge der Kaiserthermen, wo einst schon die Römer badeten. Das alltägliche Leben der reicheren Römer auf dem Land zeigte sich dann in der Villa Borg. Es war sehr beeindruckend, wie viel Mühe sich gegeben wurde, um alles originalgetreu nachzubauen. </p><p>Die Saarschleife hat uns alle überwältigt, ich denke, wir konnten sie durch das gute Wetter von ihrer schönsten Seite erleben. </p><p>Im Landesmuseum konnten wir viele originale Fundstücke entdecken: Schwerter, goldene Münzen – es war alles dabei. Ein weiteres Highlight war das Amphitheater. </p><p>Es war spannend, die Geschichte über die Gladiatorenkämpfe zu hören und selbst das Leben eines Gladiators hautnah nacherleben zu dürfen. Insgesamt war die Trierfahrt ein schönes und lehrreiches Erlebnis!</p>"},"id":"02e5fc2f-a71a-443f-8c2b-a89e2eca9fa3","isHidden":false,"type":"text"}],"id":"25412ef3-2cc7-4ccb-a106-445c577a6626","width":"1/1"}],"id":"79744f3c-9a0f-4023-9f1d-7bb02687f8bc"}]
+
+----
+
+Date: 2025-05-07 07:50:00
+
+----
+
+Datumstartseite: 2025-09-07 07:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Louisa Krippendorf (9F3)
+
+----
+
+Tags: Latein, Kursfahrt, Trier
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 378FNgBpKpYjxqs4

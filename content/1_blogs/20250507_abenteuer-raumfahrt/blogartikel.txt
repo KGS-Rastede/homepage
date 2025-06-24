@@ -1,0 +1,33 @@
+Title: Abenteuer Raumfahrt
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://zaerCKArxpkAquYy"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"88814c5e-5cce-4750-a357-cdc8076479ea","isHidden":false,"type":"image"}],"id":"7093a15e-2917-4c3f-b5ab-4267262c6e52","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://0OGAY6i9fTmVZQSe"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"4f179321-8b42-4d4d-8023-603f3d686794","isHidden":false,"type":"image"}],"id":"5bea3819-3e83-4f02-b5e5-8d40c33abcb4","width":"1/2"}],"id":"bc4d2491-be7f-4aa6-babd-75390b48524c"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Gleich nach den Osterferien wartete auf die Klassen 8d3 und 8e3 ein ganz besonderes Angebot. </p><p>Mit dem Physiklehrer Herr Dr. Riedel und den jeweiligen Klassenlehrerinnen ging es nach Bremen zum Deutschen Zentrum für Luft- und Raumfahrt (DLR), um Raumfahrtluft zu schnuppern und den deutschen Anteil an Missionen der ESA und NASA malkennen zu lernen. Das DLR in Bremen entwickelt wesentliche Teile der Raumstationen und das komplette Galilei Satellitensystem, dass seit einigen Jahren das altbekannte GPS-Positionierungssystem unterstützt. </p><p>In Kleingruppenarbeit, die toll von Student:innen der Uni Bremen unterstützt wurde, konnte die Schüler:innen in verschiedensten Bereichen der Raumfahrt selbst tätig werden: die Programmierung von Robotern, den Entwurf von Mars-Rovern in einem CAD-Programm, die Mikroskopuntersuschungen von Materialien aus irdischen Wüsten und planetaren Sänden und der Infrarotuntersuchung zur Feststellung von Temperaturen oder der Überwachung von Lebewesen. </p><p>Am Ende waren auch noch die Scans von Planetentopogaphie und die Untersuchung von Elementarteilchen, am Beispiel von Myonen kurze Themen, um mit moderner Forschung in Kontakt zu kommen. Die Gastgeber hatten dann nach den jeweils drei Workshops pro Schüler:in einige Broschüren im Angebot, um den Unterricht auch nachhaltig mit Weltrauminhalten zu füllen, und das Angebot, kleine Forschungsprojekte mit dem DLR zu starten und/oder dort ein Praktikum zu machen. </p><p>Rundherum eine tolle Aktivität, die die Schüler:innen begeistert annahmen, auch wenn im Nachhinein natürlich viele tief stapelten. Kann ja auch keiner wissen, dass Naturwissenschaft so cool sein kann 😉</p>"},"id":"b708beb9-b75b-4950-9df3-d44f9f49ba00","isHidden":false,"type":"text"}],"id":"a458fa54-4dd4-4602-8375-89ae1ccda1f8","width":"1/1"}],"id":"69b3cf3b-6bdf-4a2d-bb34-e3c5d63efc13"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://v4pAiV8NjMql0OuZ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"d27a3ab5-4a4c-42ad-8e2c-00bc7b2e27d2","isHidden":false,"type":"image"}],"id":"6d5b7757-1674-404f-bc48-323bbc633c00","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://cidABIFg2fqsOS6H"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c309eda9-cc02-4cc9-a7db-2ae40c154ae5","isHidden":false,"type":"image"}],"id":"2a70d086-2a95-4354-ad6d-318e0bd6db4b","width":"1/2"}],"id":"ee97fae7-9fce-4387-a97b-67e0ceeb6b17"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://jXo0OT3GOW0rENCa"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c5aeff00-a57a-4ee2-ad46-2360d383e37d","isHidden":false,"type":"image"}],"id":"9694ae8c-7ee1-4e95-ad46-915e2ac73a45","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://OEtisHqZjN6DUV2V"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"3b95f697-3894-40b3-902f-01b1e5f4b0ed","isHidden":false,"type":"image"}],"id":"075e418d-5c6b-4611-a7b2-9556f625a8ae","width":"1/2"}],"id":"444b58a0-4f0b-4f6d-b284-a30ea3b683df"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://zlogcFZqXNd9NCNJ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"13840367-223a-4aac-bc51-e5e6b3df6943","isHidden":false,"type":"image"}],"id":"f914445c-0a8c-4c5c-9ea0-fbe470b56dc2","width":"1/1"}],"id":"6f06dbf6-c6e2-4b7f-af3c-86d894e31440"}]
+
+----
+
+Date: 2025-05-07 07:25:00
+
+----
+
+Datumstartseite: 2025-09-07 07:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Carsten Riedel
+
+----
+
+Tags: Physik, Exkursion, Mikroskop, Roboter, Infrarot, DLR Bremen, Marsrover, Planeten, Programmierung
+
+----
+
+Downloads: 
+
+----
+
+Uuid: OVEAzfM8hlN5Awto

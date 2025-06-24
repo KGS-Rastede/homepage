@@ -6,7 +6,7 @@ fields:
     label: field.blocks.image.location
     type: radio
     columns: 2
-    default: "kirby"
+    default: 'kirby'
     options:
       kirby: Kirby
       web: Web
@@ -45,15 +45,15 @@ fields:
     placeholder: Auto
     width: 1/3
     options:
-      1/1: "1:1"
-      16/9: "16:9"
-      10/8: "10:8"
-      21/9: "21:9"
-      7/5: "7:5"
-      4/3: "4:3"
-      5/3: "5:3"
-      3/2: "3:2"
-      3/1: "3:1"
+      1/1: '1:1'
+      16/9: '16:9'
+      10/8: '10:8'
+      21/9: '21:9'
+      7/5: '7:5'
+      4/3: '4:3'
+      5/3: '5:3'
+      3/2: '3:2'
+      3/1: '3:1'
   crop:
     label: field.blocks.image.crop
     type: toggle
@@ -63,6 +63,6 @@ fields:
     type: select
     width: 1/3
     options:
-      links: "links"
-      mitte: "mitte"
-      rechts: "rechts"
+      links: 'links'
+      mitte: 'mitte'
+      rechts: 'rechts'

@@ -1,0 +1,33 @@
+Title: Schulsanitätsdienst der KGS Rastede gewinnt Kreiswettbewerb und qualifiziert sich für Landesentscheid
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://J1XOOwnG7O4s7Bzs"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"9abe14f3-181b-4b33-bbb8-b4e0a611385b","isHidden":false,"type":"image"}],"id":"e8a4cbf7-90f4-4a94-a5c7-0936f46fd0e9","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://pLqOGTHotCLmCeuv"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"af0ec3c6-29d0-4f64-b872-74dda5f70f1e","isHidden":false,"type":"image"}],"id":"9c8934b0-0c25-4cac-99a3-9685a63aa66f","width":"1/2"}],"id":"259c2ba9-0fb3-4a84-8a68-23a397021375"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Erneut erfolgreich: Schulsanitätsdienst der KGS Rastede gewinnt Kreiswettbewerb und qualifiziert sich für Landesentscheid</strong></p><p>Der Schulsanitätsdienst (SSD) der KGS Rastede hat sich erneut als bestes Team beim Kreiswettbewerb der Schulsanitätsdienste durchgesetzt und sich damit für den <strong>Landeswettbewerb in Ganderkesee</strong> qualifiziert.</p><p>An insgesamt <strong>zehn Stationen</strong> stellten die Schülerinnen und Schüler ihr <strong>fachliches Können, ihren Teamgeist und ihre Kreativität</strong> unter Beweis. Von der <strong>Herz-Lungen-Wiederbelebung (HLW)</strong> über die <strong>stabile Seitenlage</strong>, die <strong>Versorgung offener Wunden</strong> bis hin zur <strong>einfühlsamen Betreuung von Verletzten</strong> war das gesamte Spektrum der Ersten Hilfe gefragt.</p><p>Besonders hervorzuheben ist die <strong>Gruppenleitung</strong>, die mit Überblick und klarem Kopf die gesamte Einsatzsituation koordinierte – eine herausragende Leistung. Auch bei den <strong>sportlichen und musisch-kulturellen Aufgaben</strong> zeigte sich, wie gut das Team eingespielt ist – ein Ergebnis jahrelanger, erfolgreicher Zusammenarbeit. Die <strong>Wissensfragen rund um das Rote Kreuz</strong> meisterte die Gruppe souverän und punktete mit beeindruckendem Fachwissen.</p><p>Die Freude über den <strong>erneuten Sieg</strong> und die bevorstehende Teilnahme am Landeswettbewerb war entsprechend groß.</p><p>Zum Schuljahresende heißt es aber auch Abschied nehmen: <strong>Lil, Lisa, Dana, Finley und Sammy</strong> verlassen nach vier Jahren engagierter Mitarbeit den Schulsanitätsdienst. Die KGS Rastede ist stolz auf ihre <strong>Zuverlässigkeit</strong> und das <strong>außergewöhnlich hohe Engagement</strong> dieser langjährigen Mitglieder.</p><p>Wir sind überzeugt, dass neue engagierte Schülerinnen und Schüler in ihre Fußstapfen treten und den seit über <strong>zehn Jahren erfolgreichen SSD der KGS Rastede</strong> weiter mit Leben füllen werden.</p>"},"id":"a6540605-46fa-4f1e-a68e-d359fad29523","isHidden":false,"type":"text"}],"id":"5bdfaa59-da96-4e08-be0e-61b9688b21cf","width":"1/1"}],"id":"568b10c8-bc68-471b-9771-739b24a0fc06"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://yz1yWIFvtQSddqWK"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"d3bbee1e-558a-44b3-a787-a470bcae7e1c","isHidden":false,"type":"image"}],"id":"a509f26f-06e6-4637-8613-646f6b457caa","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://kZ3CaiJeBy95OQue"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"fa584961-f166-4100-a0c7-16942dfd7bb7","isHidden":false,"type":"image"}],"id":"6b0f0c19-d20f-43bd-b615-2f72529824b2","width":"1/2"}],"id":"1e57b743-d77a-420a-8523-6b727802d536"}]
+
+----
+
+Date: 2025-06-02 08:25:00
+
+----
+
+Datumstartseite: 2025-10-02 08:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Carsten Teske
+
+----
+
+Tags: Wettbewerb, Schulsanitäter
+
+----
+
+Downloads: 
+
+----
+
+Uuid: rR8JksNW58fqi6Me

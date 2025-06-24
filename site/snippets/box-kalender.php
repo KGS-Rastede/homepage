@@ -15,9 +15,9 @@
     }
 </style>
 
-<?php $result = false ?>
+<?php $result = false; ?>
 
-<?php snippet('kalender_vorbereiten') ?>
+<?php snippet('kalender_vorbereiten'); ?>
 
 <script>
     document.addEventListener('DOMContentLoaded', function () {

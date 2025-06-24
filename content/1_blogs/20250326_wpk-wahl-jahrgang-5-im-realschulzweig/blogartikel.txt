@@ -1,0 +1,33 @@
+Title: WPK-Wahl Jahrgang 5 im Realschulzweig
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Sehr geehrte Eltern, </p><p>bezüglich der WPK-Wahl im Jahrgang 5 des Realschulzweiges finden Sie hier die Präsentation, die wir beim Elternabend in der Aula gezeigt haben. </p><p>Die Wahl ist über den IServ-Zugang Ihrer Kinder im Modul \"Kurswahlen\" durchzuführen. Sie ist bereits geöffnet und soll bis zum 04.04.2025 durchgeführt sein.</p>"},"id":"5459125b-d51e-4947-8c1b-c3c3e62b6fef","isHidden":false,"type":"text"}],"id":"683f28bc-5a43-4fa6-886c-f28c88461562","width":"1/1"}],"id":"e6a4dd50-a396-429d-8dae-5f3e7743b21c"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Hier ist die Präsentation als PDF-Datei einsehbar: <a href=\"https://kgs-rastede.de/media/pages/blogs/wpk-wahl-jahrgang-5-im-realschulzweig/1981884edc-1742986539/elterninfoabend-wpk-wahl-in-jg-5-des-realschulzweigs.pdf\">elterninfoabend-wpk-wahl-in-jg-5-des-realschulzweigs.pdf</a></p>"},"id":"acfd411c-fe3e-417b-b060-ee65ca4ab7a8","isHidden":false,"type":"text"}],"id":"928544ae-4315-497b-8024-ba9f5b350cf7","width":"1/1"}],"id":"24398ac7-a4ef-46f6-9d00-710bbb1a8ec5"}]
+
+----
+
+Date: 2025-03-26 11:50:00
+
+----
+
+Datumstartseite: 2025-07-26 11:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Katrin Brömer, Christian Neumann, Angelika Akbaşak
+
+----
+
+Tags: Topartikel, WPK, Wahlen, Jahrgang 5
+
+----
+
+Downloads: - file://DTTG2hfHoBGa0Y4r
+
+----
+
+Uuid: 3RT7Y2N8907OoG5G

@@ -1,0 +1,33 @@
+Title: RoboCup 2025
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://upf2RjgfAfYU0r1b"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c30d5588-17ed-4627-8105-e4a01493696e","isHidden":false,"type":"image"}],"id":"9f24ee8b-e2c8-4c2d-8d83-15a4a1e6f835","width":"1/1"}],"id":"ad768c01-9521-4963-9fee-78b64bcd486b"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>RoboCup 2025</strong></p><p>Gemeinsam mit dem Gymnasium Bad Zwischenahn-Edewecht und dem Herbartgymnasium Oldenburg veranstaltete die KGS auch in diesem Jahr den RoboCup Nordwest. Dieser fand vom 25.02. – 27.02. in Oldenburg statt. Die KGS war mit 43 Schülerinnen und Schülern der Roboter-AG und aus dem WPK Informatik sowie 10 Schiedsrichterinnen und Schiedsrichtern dabei. Insgesamt nahmen am RoboCup Nordwest 243 Schülerinnen und Schüler teil. Der RoboCup Nordwest wird von der Firma SmarAct aus Oldenburg unterstützt. SmarAct entwickelt und produziert Positionierungsmaschinen, die im Nanometer-Bereich arbeiten, Automatisierungs- und Messtechnik.</p><p>Im Unterricht oder der AG bauen die Schülerinnen und Schüler nach eigenen Ideen überwiegend aus LEGO-Technik-Bausteinen und -Sensoren Roboter, die einer Linie folgen (Rescue Line Entry und Rescue Line) oder durch ein Labyrinth fahren (Rescue Maze Entry und Rescue Maze). Beim RoboCup wird zwischen den einzelnen Läufen fleißig gebastelt und programmiert, um im Wettkampf möglichst viele Punkte zu erreichen. In der Kategorie Rescue Maze Entry belegte das Team <strong>Mecha Masters</strong> (Kalli Stuber, Thjore Dierks, Jonathan Lach, Matthes Aumann) den ersten Platz. Den zweiten Platz belegte das Team <strong>CTRL+ALT+DEFEAT</strong> (Finn Kowal, Leon Wesner, Mads Nickisch, Phelan Jech). Damit hatten sich beide Teams auch für die German Open in Nürnberg qualifiziert. Außerdem qualifizierten sich noch die Teams <strong>Die drei Bratnudeln</strong> (Talea Garbe, Tomke Engelbart, Julian Kolleker) in der Kategorie Rescue Maze Entry und das Team <strong>No Name</strong> (Kalle Steinkamp) in der Kategorie Rescue Maze. </p><p>Schon zwei Wochen später, vom 13.03. – 16.03. fanden die German Open in Nürnberg statt. Die Fahrt mit der Bahn verlief zum großen Erstaunen der Betreuer (Manuela Berg, Holger de Vries, Markus Michler) ohne Komplikationen. Einsteigen in Oldenburg, pünktliches Aussteigen in Nürnberg. In der sehr großen Messehalle 11 wurde der Wettbewerb parallel zum Wettbewerb RoboCup Major (Universitätsteams aus der ganzen Welt) ausgetragen. Insgesamt 6 Läufe mussten die Roboter in der Maze-Arena absolvieren. In dem Labyrinth, in dem der Roboter fährt, dürfen bestimmte Räume nicht befahren werden, Hindernisse und Rampen müssen überwunden werden und bestimmte Markierungen müssen als (Erdbeben-) Opfer erkannt werden.</p><p>Die Teams der KGS belegten am Ende die Plätze 6 (CTRL+ALT+DEFEAT), 7 (Mecha Masters) und 16 (Die drei Bratnudeln). Je nachdem, wie die anderen Landesturniere verlaufen, könnte sich das Team CRTL+ALT+DEFEAT noch für die EM in Bari / Italien qualifizieren.  </p><p>Nach den Wettkämpfen blieb auch noch genug Zeit, die mittelalterliche Altstadt Nürnbergs zu besichtigen. Dort steht z.B. das Dürer-Haus, in dem Albrecht Dürer mehr als 20 Jahre lebte und arbeitete.</p><p>Außerdem konnten wir am Sonntag das Zeppelinfeld besichtigen, das direkt neben dem Fußballstadion liegt, in dem parallel das Lokalderby Nürnberg – Fürth ausgetragen wurde. </p><p>Am späten Sonntagabend kamen alle wohlbehalten mit 56 Minuten Verspätung wieder in Oldenburg an.   </p><p>Diese Fahrt wurde vom Förderverein der KGS unterstützt. Außerdem gab es eine Unterstützung des Vereins Oldies e.V., dem Alumni-, Studierenden- und Freundes-Verein des Departments für Informatik der Uni Oldenburg, der als Vereinszweck u.a. die Förderung des Informatik-Nachwuchses vorantreibt.</p><p> </p>"},"id":"c1c8ed1b-f100-4997-99b0-d80019d98495","isHidden":false,"type":"text"}],"id":"3fcdba86-2a0f-45c9-86ad-a7e049328fcb","width":"1/1"}],"id":"21b6f0f4-6f24-4d05-a5fc-94b8e9eecbbf"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://lKgRaYP7mjfLvDv7"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"4e656a47-5c11-4507-b492-25a1dcd8540d","isHidden":false,"type":"image"}],"id":"65859e55-7b36-415d-9c7a-a936cf052bef","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://mqltiripxCSkUsa6"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f20adf26-4d38-4d44-824c-1781f3781e7c","isHidden":false,"type":"image"}],"id":"7fafe23c-6898-4064-b6de-989d5959823a","width":"1/2"}],"id":"e1472ba5-f3e3-430c-875f-1fb12fc8300f"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://9e3HZsbh92a504DV"],"caption":"","ratio":"","crop":"false"},"id":"a04cf25c-7bb0-4f75-8d9a-45749d075019","isHidden":false,"type":"gallery"},{"content":{"location":"kirby","image":["file://JDvnRnlv6CSaC7vm"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"27a5001e-458e-4dd1-8cf6-404fb9ff7432","isHidden":false,"type":"image"}],"id":"56fbe9bc-cf69-46b2-b297-1d4ebc5dd1e4","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://KEDHuwLQdK8PRl4o"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"7260a5cc-09c0-4c01-a786-b0d44b105ec2","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://D7xSq15JSHtT1PEF"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"36dbdf01-132b-4d40-b8a8-32c9cca8d61c","isHidden":false,"type":"image"}],"id":"bd507ae7-d7fb-4bdf-9c0a-5c9b51dde53c","width":"1/2"}],"id":"f13231ce-fcf5-4ad3-9f12-9c98a6aaf9d9"}]
+
+----
+
+Date: 2025-03-24 19:35:00
+
+----
+
+Datumstartseite: 2025-07-24 19:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ANy4D7zsWglPklSU

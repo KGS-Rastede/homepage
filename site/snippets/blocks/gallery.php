@@ -1,6 +1,6 @@
 <?php
-
-/** @var \Kirby\Cms\Block $block */?>
+/** @var \Kirby\Cms\Block $block */
+?>
 
 <!-- https://getkirby.com/docs/reference/panel/blocks/gallery -->
 <div class="bg-white dark:bg-gray-900 dark:text-gray-100">
@@ -20,7 +20,7 @@
                     </p>
                 </div>
 
-            <?php endforeach ?>
+            <?php endforeach; ?>
 
         </div>
         <h2 class="text-center text-lg font-semibold leading-8 text-gray-900">

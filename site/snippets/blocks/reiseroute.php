@@ -2,19 +2,16 @@
 $features = [];
 $koordinaten = [];
 
-$features = snippet(
-  'koordinaten-extrahieren',
-  [
-    'koordinaten' => $koordinaten,
-    'features' => $features,
-    'block' => $block
-  ]
-);
+$features = snippet('koordinaten-extrahieren', [
+  'koordinaten' => $koordinaten,
+  'features' => $features,
+  'block' => $block,
+]);
 
 print_r($features);
 gettype($features);
 
-echo ($features);
+echo $features;
 ?>
 
 
@@ -46,8 +43,8 @@ echo ($features);
 
 
 <div id="map"></div>
-<button class="px-4 py-1 text-gray-800 font-semibold rounded-full border border-purple-200 hover:text-white
-    hover:bg-slate-400 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-slate-200 focus:ring-offset-2
+<button class="px-4 py-1 text-gray-900 font-semibold rounded-full border border-purple-200 hover:text-white
+    hover:bg-slate-300 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-slate-200 focus:ring-offset-2
     text-center" id="fit">Auf Punkte reinzoomen</button>
 
 <script>
@@ -232,15 +229,13 @@ echo ($features);
             // Wenn das geht natürlich automatisch (siehe Zeile 20-31)
 
 
-            <?php
-            foreach ($koordinaten as $value) {
-              echo "[";
+            <?php foreach ($koordinaten as $value) {
+              echo '[';
               echo $value[0];
-              echo ",";
+              echo ',';
               echo $value[1];
-              echo "],";
-            }
-            ?>
+              echo '],';
+            } ?>
 
 
             [-122.483696, 37.833818],

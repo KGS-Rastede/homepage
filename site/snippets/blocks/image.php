@@ -1,12 +1,12 @@
 <?php
 
 /** @var \Kirby\Cms\Block $block */
-$alt     = $block->alt();
+$alt = $block->alt();
 $caption = $block->caption();
-$crop    = $block->crop()->isTrue();
-$link    = $block->link();
-$ratio   = $block->ratio()->or('auto');
-$src     = null;
+$crop = $block->crop()->isTrue();
+$link = $block->link();
+$ratio = $block->ratio()->or('auto');
+$src = null;
 
 if ($block->location() == 'web') {
   $src = $block->src()->esc();
@@ -14,29 +14,26 @@ if ($block->location() == 'web') {
   $alt = $alt ?? $image->alt();
   $src = $image->url();
 }
-
-/**
- * Erweiterung, um Bilder links/rechts/mittig darzustellen
- * https://getbootstrap.com/docs/5.3/content/images/#responsive-images
- */
-$orientation = $block->orientation() == 'links' ? 'float-start' : ($block->orientation() == 'rechts' ? 'float-end' : ($block->orientation() == 'mitte' ? 'mx-auto d-block' : ''));
 ?>
 
 
-<?php if ($src) : ?>
-  <figure <?= Html::attr(['data-ratio' => $ratio, 'data-crop' => $crop], null, ' ') ?>>
-    <?php if ($link->isNotEmpty()) : ?>
-      <a href="<?= Str::esc($link->toUrl()) ?>">
-        <img src="<?= $src ?>" class="h-auto my-3 max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 <?= $orientation ?>" alt="<?= $alt->esc() ?>">
-      </a>
-    <?php else : ?>
-      <img src="<?= $src ?>" class="h-auto my-3 max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 <?= $orientation ?>" alt="<?= $alt->esc() ?>">
-    <?php endif ?>
+<?php if ($src): ?>
 
-    <?php if ($caption->isNotEmpty()) : ?>
-      <figcaption>
-        <?= $caption ?>
-      </figcaption>
-    <?php endif ?>
-  </figure>
-<?php endif ?>
+  <div class="relative w-1/2">
+
+    <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pt-80 pb-8 sm:pt-48 lg:pt-80">
+      <img src="<?= $src ?>" alt="" class="absolute inset-0 -z-10 size-full object-cover">
+
+      <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
+      <?php if ($caption->isNotEmpty()): ?>
+        <div class="flex bg-slate-300/50 justify-center rounded-2xl">
+          <h3 class="mt-3 text-lg/6 font-semibold text-white pb-4 px-4">
+            <?= $caption ?>
+          </h3>
+        </div>
+      <?php endif; ?>
+
+    </article>
+  </div>
+
+<?php endif; ?>

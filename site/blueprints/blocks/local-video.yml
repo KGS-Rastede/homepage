@@ -1,6 +1,6 @@
 name: Lokales Video
 icon: video
-label: "{{ name }} - {{ autor }}"
+label: '{{ name }} - {{ autor }}'
 fields:
   video:
     type: files
