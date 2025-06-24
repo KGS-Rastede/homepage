@@ -29,4 +29,10 @@ return [
     'apiKey' => 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJBUElVU0VSIiwiaWF0IjoxNTE2MjM5MDIyfQ.CYrLWRa3dIURYyXjAW0FBfyiQK2C5mYoVeMY2clN_hY'
   ],
 
+  'weather' => [
+    'city' => 'Rastede',
+    'apiKey' => '1c458b177407d2fb76d7d58720766dfe',
+    'cacheFile' => 'assets/weather_cache.json'
+  ]
+
 ];
