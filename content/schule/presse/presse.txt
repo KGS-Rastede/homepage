@@ -6,6 +6,205 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/tabuzonen-fuer-snackautomaten-im-ammerland-sollen-solche-geraete-in-der-naehe-von-schulen-stehen-duerfen_a_4,2,237058884.html
+  name: 'Einkaufen - Tabuzonen für Snackautomaten?'
+  anfang: >
+    Im Ammerland sind Snackautomaten ein
+    wachsendes Thema. Kritiker sehen sie als
+    Verlockung für Schüler zu ungesunden
+    Snacks. Die Gemeinden haben jedoch kaum
+    Einfluss, da die Automaten auf privatem
+    Grund stehen.
+  datum: 2025-04-02
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2025/03/us-schueler-aus-pattsburgh-zu-gast-im-rasteder-rathaus/
+  name: >
+    US-Schüler aus Pattsburgh zu Gast im
+    Rasteder Rathaus
+  anfang: >
+    Bereits seit 1987 besteht der
+    Schulaustausch zwischen der Kooperativen
+    Gesamtschule (KGS) Rastede und der
+    amerikanischen Plattsburgh High School
+    im US-Bundesstaat New York.
+  datum: 2025-03-29
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulvertrag-zwischen-rastede-und-wiefelstede-aufnahme-von-schuelern-an-der-kgs-begrenzen_a_4,2,121521114.html
+  name: 'Streit um Schulvertrag - Rastede „verschenkt“ über halbe Million Euro an Wiefelstede'
+  anfang: 'Rastede und Wiefelstede diskutieren hinter verschlossenen Türen über einen neuen Schulvertrag. Abgesehen vom Geld geht es um eine entscheidende Frage: Wie viele Wiefelsteder Kinder werden künftig noch an der KGS aufgenommen?'
+  datum: 2025-03-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/automatenboom-im-ammerland-wie-man-am-snackautomaten-automatisch-draufzahlt_a_4,2,76422548.html
+  name: 'Automatenboom im Ammerland - Wie man am Snackautomaten automatisch draufzahlt'
+  anfang: >
+    Snackautomaten erleben im Ammerland
+    einen Boom. Trotz deutlich höherer
+    Preise als im Supermarkt sind sie wegen
+    ihrer Bequemlichkeit beliebt. Doch warum
+    sind die Preise so hoch und wer
+    profitiert davon?
+  datum: 2025-03-17
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/finanzen-in-rastede-gruene-und-fdp-machen-vorschlaege-zu-ganztagsschulen-kgs-und-palais_a_4,2,74696249.html
+  name: 'Schulen, Naturbad und Palais - ast-Minute-Anträge zum Haushalt in Rastede'
+  anfang: >
+    Für den Ausbau des
+    Ganztagsschulangebotes in Rastede sollte
+    schon jetzt Geld bereitgestellt, die
+    Erweiterung des Kindergartens Loy
+    hingegen gestoppt werden. Beim Palais
+    sollte ein neuer Weg eingeschlagen
+    werden.
+  datum: 2025-03-17
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schuelerhaushalt-in-rastede-17000-euro-fuer-demokratiebildung-an-der-kgs-rastede_a_4,2,14364757.html
+  name: 'Projekt zur Demokratiebildung - 17.000 Euro zur Verfügung – und Rastedes Schüler bestimmen, was mit dem Geld passiert'
+  anfang: >
+    In Rastede wurde erstmals ein
+    Schülerhaushalt eingeführt. 17.000
+    Euro stehen der Schule zur Verfügung.
+    Was damit passiert, entscheiden
+    ausschließlich die Schüler. Was machen
+    sie mit dem ganzen Geld?
+  datum: 2025-03-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulvertrag-rastede-will-mehr-geld-von-wiefelstede-fuer-schueler-an-der-kooperativen-gesamtschule-kgs_a_4,1,4261086949.html
+  name: 'Streit um Schulvertrag - Rastede will deutlich mehr Geld von Wiefelstede'
+  anfang: >
+    Rastede beteiligt Wiefelstede an den
+    Kosten für die Kooperative
+    Gesamtschule, weil dort auch
+    Wiefelsteder Schüler unterrichtet
+    werden. Bisher kommt Wiefelstede
+    günstig weg, doch das soll sich
+    ändern.
+  datum: 2025-03-12
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2025/03/05/fdp-macht-druck-beim-schulvertrag/
+  name: FDP macht Druck beim Schulvertrag
+  anfang: >
+    Die FDP Rastede möchte einen
+    Vermittlungsausschuss mit der Gemeinde
+    Wiefelstede einberufen, um beim
+    Schulvertrag für die Nutzung der KGS
+    voranzukommen
+  datum: 2025-03-05
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2025/03/04/demokratiefoerderung-in-rastede/
+  name: Demokratieförderung in Rastede
+  anfang: >
+    Schülerhaushalt ist gestartet.
+    Jugendliche verwalten eigenes Budget. rr
+    | Im Schuljahr 2024/25 wurde an der KGS
+    Rastede und der Schule am Voßbarg
+    erstmals der Schülerhaushalt
+    eingeführt. „Mit diesem innovativen
+    Beteiligungsformat erhalten Jugendliche
+    die Möglichkeit, ein eigenes Budget
+    eigenverantwortlich und demokratisch zu
+    verwalten“, teilt die Gemeinde Rastede
+    mit. Sie sieht die bereitgestellten
+    Mittel als starkes Zeichen für gelebte
+    Demokratie und aktive Jugendbeteiligung.
+    Das Konzept, entwickelt von der
+    Bertelsmann Stiftung und begleitet von
+    der Berliner Servicestelle
+    Jugendbeteiligung e.V., vermittle jungen
+    Menschen auf praktische Weise, wie
+    demokratische Prozesse funktionieren und
+    dass ihre Stimme zählt.
+  datum: 2025-03-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rastede.de/2025/03/demokratiefoerderung-in-rastede-erfolgreicher-start-des-schuelerinnenhaushalts/
+  name: 'Demokratieförderung in Rastede: Erfolgreicher Start des Schüler*innenHaushalts'
+  anfang: 'Die Gemeinde Rastede setzt ein starkes Zeichen für gelebte Demokratie und aktive Jugendbeteiligung: Im Schuljahr 2024/25 wurde an der Kooperativen Gesamtschule (KGS) Rastede und der Schule am Voßbarg erstmals der Schüler*innenHaushalt eingeführt. Mit diesem innovativen Beteiligungsformat erhalten Jugendliche die Möglichkeit, ein eigenes Budget eigenverantwortlich und demokratisch zu verwalten. Das Konzept, entwickelt von der Bertelsmann Stiftung und begleitet von der Berliner Servicestelle Jugendbeteiligung e.V., vermittelt jungen Menschen auf praktische Weise, wie demokratische Prozesse funktionieren und dass ihre Stimme zählt.'
+  datum: 2025-03-03
+  medium: gemeinde
+- 
+  link: >
+    https://www.pressebox.de/pressemitteilung/smaract-gmbh/robocup-junior-31-teams-aus-dem-raum-oldenburg-loesen-ticket-fuer-die-deutsche-meisterschaft/boxid/1238711
+  name: 'RoboCup Junior: 31 Teams aus dem Raum Oldenburg lösen Ticket für die Deutsche Meisterschaft Die SmarAct GmbH sponsort das Event zum dritten Mal'
+  anfang: >
+    Beim diesjährigen Regionalwettbewerb
+    des RoboCup Junior NordWest am 26. und
+    27. Februar am Herbartgymnasium
+    Oldenburg bewiesen 242 Schülerinnen und
+    Schüler aus der Region ihr technisches
+    Können. 96 Teams traten mit ihren
+    selbstentwickelten und -programmierten
+    Robotern in eine der vier Disziplinen
+    Rescue Line Entry, Rescue Line, Rescue
+    Maze Entry und Rescue Maze an – mit
+    dem Ziel, sich für die deutschen
+    Meisterschaften vom 12. bis 16. März in
+    Nürnberg zu qualifizieren.
+  datum: 2025-02-28
+  medium: sonstiges
+- 
+  link: >
+    https://www.rastede.de/2025/02/regionalentscheid-im-vorlesewettbewerb-siegerin-in-der-rasteder-gemeindebuecherei-ermittelt/
+  name: 'Regionalentscheid im Vorlesewettbewerb: Siegerin in der Rasteder Gemeindebücherei ermittelt'
+  anfang: >
+    Wer kann im Landkreis Ammerland am
+    besten vorlesen? Die Antwort auf diese
+    Frage gab es am vergangenen Samstag beim
+    Regionalentscheid des 66.
+    Vorlesewettbewerbs des Deutschen
+    Buchhandels. In der Rasteder
+    Gemeindebücherei lasen sechs
+    Siegerinnen und Sieger der kreisweiten
+    Schulentscheide vor einer Jury aus
+    Bibliotheksangestellten aus dem
+    Ammerland um die Wette.
+  datum: 2025-02-27
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/oldenburg/schuelerkunst-in-bremen-kgs-rastede-beeindruckt-in-der-kunsthalle-mit-werken-zu-kirchner-und-kilpper_a_4,1,4101286015.html
+  name: >
+    Ausstellung der KGS Rastede „Ein Teil
+    von mir“ – Schülerkunst in der
+    Kunsthalle Bremen
+  anfang: >
+    Schüler der KGS Rastede stellen ihre
+    Werke in der Kunsthalle Bremen aus,
+    inspiriert von Ernst Ludwig Kirchner und
+    Thomas Kilpper. Die Ausstellung markiert
+    den Beginn einer Partnerschaft und wurde
+    wegen großer Nachfrage verlängert.
+  datum: 2025-02-24
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-klimastreik-am-14-februar-fordert-mehr-einsatz-der-gemeinde_a_4,1,3943723685.html
+  name: 'Proteste in Rastede - Fridays for Future kritisiert unzureichende Klimamaßnahmen'
+  anfang: >
+    Fridays for Future in Rastede streikt
+    erneut für mehr Klimaschutz. Der
+    Demonstrationszug führt bis vor das
+    Rathaus. Kritik gibt es an der Gemeinde.
+  datum: 2025-02-05
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/ammerland/foerderschule-ese-im-ammerland-genehmigung-erteilt-fuer-neue-schule-in-rastede_a_4,1,3862502452.html
   name: 'Nach monatelangen Diskussionen - Grünes Licht für neue Förderschule im Ammerland'
   anfang: >
@@ -16,6 +215,15 @@ Pressenachrichten:
     Genehmigung für die neue Schule vor.
   datum: 2025-01-28
   medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2025/01/28/kultusministerin-zu-gast-in-der-kgs-rastede/
+  name: >
+    Kultusministerin zu Gast in der KGS
+    Rastede
+  anfang: 'Julia Willie Hamburg tauschte sich mit Schul- und Verwaltungsvertretern über aktuelle schulpolitische Themen aus'
+  datum: 2025-01-28
+  medium: rastederrundschau
 - 
   link: >
     https://www.rastede.de/2025/01/austausch-ueber-schulpolitische-themen-kultusministerin-besucht-rastede/
@@ -32,7 +240,7 @@ Pressenachrichten:
     über aktuelle schulpolitische Themen
     aus.
   datum: 2025-01-27
-  medium: sonstiges
+  medium: gemeinde
 - 
   link: >
     https://www.nwzonline.de/ammerland/haushalt-in-rastede-gemeinde-spart-bei-schulen-feuerwehren-kitas-baedern-und-personal_a_4,1,3795217848.html

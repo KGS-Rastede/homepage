@@ -1,7 +1,7 @@
 title: Default File
 
 # hier gehts heißt nur das aufrufen geht irgendwie nicht
-# 
+#
 # accept:
 #   mime: image/jpeg, image/png
 
@@ -9,6 +9,3 @@ fields:
   beschreibung:
     label: Beschreibung
     type: text
-
-
-    

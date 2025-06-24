@@ -1,6 +1,6 @@
-<?php snippet('header') ?>
-
-<?php snippet('page-header') ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
 
 <div class="bg-white py-24 sm:py-32">
@@ -46,7 +46,7 @@
                   </div>
                 </div>
               </li>
-            <?php endforeach ?>
+            <?php endforeach; ?>
             <li>
               <div class="relative pb-8">
                 <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
@@ -65,7 +65,9 @@
                     <div>
                       <p class="text-sm text-gray-500">
                         <?= $datei->extension() ?>
-                        <a href="<?= page("/allgemeines/schulbuchlisten")->url() ?>" class="font-medium text-gray-900">
+                        <a href="<?= page(
+                          '/allgemeines/schulbuchlisten',
+                        )->url() ?>" class="font-medium text-gray-900">
                           Schulbuchlisten
                         </a>
                       </p>
@@ -117,7 +119,7 @@
                 </div>
               </li>
 
-            <?php endforeach ?>
+            <?php endforeach; ?>
             <li>
               <div class="relative pb-8">
                 <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
@@ -135,7 +137,9 @@
                     <div>
                       <p class="text-sm text-gray-500">
                         <?= $datei->extension() ?>
-                        <a href="<?= page("/nutzungsordnung")->url() ?>" class="font-medium text-gray-900">
+                        <a href="<?= page(
+                          '/nutzungsordnung',
+                        )->url() ?>" class="font-medium text-gray-900">
                           Zugang zum Netzwerk
                         </a>
                       </p>
@@ -183,7 +187,7 @@
                   </div>
                 </div>
               </li>
-            <?php endforeach ?>
+            <?php endforeach; ?>
             <li>
               <div class="relative pb-8">
                 <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
@@ -201,7 +205,9 @@
                     <div>
                       <p class="text-sm text-gray-500">
                         <?= $datei->extension() ?>
-                        <a href="<?= page("/allgemeines/schulbuchlisten")->url() ?>" class="font-medium text-gray-900">
+                        <a href="<?= page(
+                          '/allgemeines/schulbuchlisten',
+                        )->url() ?>" class="font-medium text-gray-900">
                           Schulbuchlisten
                         </a>
                       </p>
@@ -226,5 +232,5 @@
 </div>
 
 
-
-<?php snippet('footertw') ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

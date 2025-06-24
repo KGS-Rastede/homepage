@@ -1,41 +1,31 @@
-<?php snippet('header') ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
-<?php snippet('page-header') ?>
+<!-- Heading -->
+<div class="mb-4">
 
+  <?php snippet('tagliste', [
+    'item' => $page,
+  ]); ?>
 
-<div class="container mx-auto">
+  <?php if ($page->date()->isNotEmpty() || $page->author()->isNotEmpty()): ?>
+    <h3 class="text-xl leading-relaxed font-medium text-gray-700 dark:text-gray-300">
+      <span class="me-4 text-gray-600 dark:text-gray-300">
+        <?= $page->author() ?>
+      </span>
 
-  <div mb-4>
+      <span class="font-semibold">
+        <?= $page->date()->toDate('d.m.Y') ?>
+      </span>
+    </h3>
+  <?php endif; ?>
+</div>
+<!-- END Heading -->
 
-    <?php if ($page->date()->isNotEmpty() || $page->author()->isNotEmpty()): ?>
-
-      <?php if ($page->date()->isNotEmpty()): ?>
-        <time datetime="<?= $page->date()->toDate("d.m.Y") ?>" class="text-gray-500">
-          <?= $page->date()->toDate("d.m.Y") ?>
-        </time>
-      <?php endif ?>
-      <div class="ml-4">
-
-        <?php snippet('tagliste', [
-          'item' => $page
-        ]) ?>
-      </div>
-      <div class="mb-2">
-
-        <?php if ($page->author()->isNotEmpty()): ?>
-          geschrieben von:
-          <?= $page->author() ?>
-        <?php endif ?>
-      </div>
-
-    <?php else: ?>
-      <div></div>
-    <?php endif ?>
-
-  </div>
-
-
-
+<!-- Blog Post -->
+<article
+  class="prose prose-lg prose-gray dark:prose-invert prose-a:no-underline prose-a:hover:opacity-75 prose-img:rounded-lg">
 
   <?php foreach ($page->text()->toLayouts() as $layout): ?>
     <section class="grid" id="<?= $layout->id() ?>">
@@ -46,12 +36,13 @@
               <?= $column->blocks() ?>
             </div>
           </div>
-        <?php endforeach ?>
+        <?php endforeach; ?>
       </div>
     </section>
-  <?php endforeach ?>
+  <?php endforeach; ?>
 
-</div>
+</article>
+<!-- END Blog Post -->
 
-
-<?php snippet('footertw') ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

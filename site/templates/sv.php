@@ -1,22 +1,17 @@
-<?php snippet('header') ?>
-<?php snippet('page-header') ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
-<?php snippet('sidebar') ?>
+<?= $page->text()->toBlocks() ?>
 
-
-<div class="container">
-  <?php
-  foreach (page('blogs')
+<?php snippet('sidebar'); ?>
+<?php snippet('related-blogs', [
+  'relatedBlogs' => page('blogs')
     ->children()
     ->listed()
     ->filterBy('tags', 'SV', ',')
-    ->flip() as $subpage) :
+    ->flip(),
+]); ?>
 
-    snippet('blogkarte', ['subpage' => $subpage]);
-  ?>
-
-  <?php endforeach ?>
-</div>
-
-
-<?php snippet('footertw') ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

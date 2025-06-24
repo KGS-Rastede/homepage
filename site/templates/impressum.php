@@ -1,6 +1,6 @@
-<?php snippet('header') ?>
-
-<?php snippet('page-header') ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
 
 <!-- 
@@ -22,37 +22,34 @@ dass das Land Niedersachsen eine juristische Person des
 für eine schnelle elektronische Kontaktaufnahme (Telefon, Fax, 
 Mailadresse) enthalten sind. -->
 
-<div class="container mx-auto">
-    <div class="flex">
-        <div class="w-2/3  p-8">
-            <h3 class="mt-1 text-2xl leading-6 text-gray-900">Anschrift</h3>
-            <?= $page->anschrift()->kirbytext() ?>
-            Tel.:
-            <?= $page->telefon()->tel() ?> </br>
-            Fax:
-            <?= $page->fax()->tel() ?> </br>
-            E-Mail: <span style="text-decoration:underline;"><a href="mailto:<?= $page->email() ?>">
-                    <?= $page->email()->email() ?>
-                </a></span></br>
-            Schulische Datenschutzbeauftragte: <a
-                href="mailto:datenschutz@kgs-rastede.de">datenschutz@kgs-rastede.de</a>
+<div class="flex gap-9">
+  <div class="w-2/3">
+    <h3 class="mt-1 text-2xl leading-6 text-gray-900">Anschrift</h3>
+    <?= $page->anschrift()->kirbytext() ?>
+    Tel.:
+    <?= $page->telefon()->tel() ?> </br>
+    Fax:
+    <?= $page->fax()->tel() ?> </br>
+    E-Mail: <span style="text-decoration:underline;"><a href="mailto:<?= $page->email() ?>">
+        <?= $page->email()->email() ?>
+      </a></span></br>
+    Schulische Datenschutzbeauftragte: <a
+      href="mailto:datenschutz@kgs-rastede.de">datenschutz@kgs-rastede.de</a>
 
-            <h3 class="mt-4 text-2xl leading-6 text-gray-900">Inhaltlich verantwortlich</h3>
-            <p>
-                <?= $page->rechtlichertext()->text()->kirbytext() ?>
-            </p>
-        </div>
-        <div class="w-1/3 p-8">
-            <h3 class="mt-1 text-2xl leading-6 text-gray-900">
-                Schulträger
-            </h3>
-            <p>
-                <?= $page->schultrager()->text()->kirbytext() ?>
-            </p>
-        </div>
-    </div>
-
+    <h3 class="mt-4 text-2xl leading-6 text-gray-900">Inhaltlich verantwortlich</h3>
+    <p>
+      <?= $page->rechtlichertext()->text()->kirbytext() ?>
+    </p>
+  </div>
+  <div class="w-1/3">
+    <h3 class="mt-1 text-2xl leading-6 text-gray-900">
+      Schulträger
+    </h3>
+    <p>
+      <?= $page->schultrager()->text()->kirbytext() ?>
+    </p>
+  </div>
 </div>
 
-
-<?php snippet('footertw') ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

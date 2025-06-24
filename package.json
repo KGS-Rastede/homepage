@@ -2,7 +2,6 @@
   "name": "Homepage_KGS_Rastede",
   "version": "1.0.0",
   "description": "Die Homepage der KGS Rastede, programmiert mit dem CMS Kirby",
-  "main": "postcss.config.js",
   "repository": {
     "type": "git",
     "url": "https://gitlab.com/cniehaus/homepage"
@@ -12,18 +11,24 @@
   "license": "ISC",
   "dependencies": {
     "@fullcalendar/icalendar": "^5.10.1",
-    "alpinejs": "^3.12.0",
-    "bootstrap": "^5.3.3",
-    "bootstrap-icons": "^1.8.1",
+    "alpinejs": "^3.14.9",
+    "bootstrap-icons": "^1.11.3",
     "fullcalendar": "^5.10.2",
     "ical.js": "^1.5.0"
   },
   "scripts": {
-    "watch": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css --content './site/**/*.php' -w",
-    "buildtw": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css --content './site/**/*.php' -m"
+    "watch": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css -w",
+    "watch-mini": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -w -m",
+    "buildtw-mini": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m",
+    "buildtw": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css",
+    "format": "prettier ./site --write"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.10",
-    "tailwindcss": "^3.4.0"
+    "@prettier/plugin-php": "^0.22.4",
+    "@tailwindcss/cli": "4.1",
+    "@tailwindcss/typography": "^0.5.16",
+    "fast-glob": "^3.3.3",
+    "prettier": "^3.5.3",
+    "tailwindcss": "4.1"
   }
 }

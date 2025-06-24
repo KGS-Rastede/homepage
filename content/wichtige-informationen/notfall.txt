@@ -28,7 +28,7 @@ Notfalltext: Die Schule brennt ab - Meiden sie einen Radius von 2 Kilometern!
 
 ----
 
-Notfallredirect: true
+Notfallredirect: false
 
 ----
 

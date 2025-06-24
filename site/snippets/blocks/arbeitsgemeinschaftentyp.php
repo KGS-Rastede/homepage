@@ -1,5 +1,8 @@
 <div class="bg-white shadow-md rounded-md p-4 mb-3">
-  <img src="<?= $block->bild()->toFile()->url() ?>" class="w-full mb-3" alt="Fremdsprachen">
+  <img src="<?= $block
+    ->bild()
+    ->toFile()
+    ->url() ?>" class="w-full mb-3" alt="Fremdsprachen">
 
   <h3 class="text-warning text-lg font-bold mb-3">
     <?= $block->name() ?>
@@ -18,7 +21,8 @@
         <i class="bi bi-<?= $block->icon() ?>"></i>
         <?= $relatedPage->title() ?>
       </a>
-    <?php endforeach ?>
+    <?php endforeach;
+    ?>
 
   </div>
 </div>

@@ -14,6 +14,6 @@
 			<link><?= $note->url() ?></link>
 			<guid isPermaLink="true"><?= $note->url() ?></guid>
 		</item>
-		<?php endforeach ?>
+		<?php endforeach; ?>
 	</channel>
 </rss>

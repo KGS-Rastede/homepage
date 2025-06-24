@@ -1,0 +1,13 @@
+Anzeigename: Wahlpflichtbereich
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: aRQd9TGoXAjJ2ZZT
+
+----
+
+Template: datei

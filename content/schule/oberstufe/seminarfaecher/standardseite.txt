@@ -6,6 +6,10 @@ Heading:
 
 ----
 
+Blogtag: 
+
+----
+
 Text: [{"content":{"text":"<p>Das Seminarfach ist sozusagen die Familie in der Qualifikationsphase. Die Seminarfachlehrkraft ist gleichzeitig Tutorin bzw. Tutor und erster Ansprechpartner in allen schulischen Fragen. Das Seminarfach dient der Vorbereitung wissenschaftspropädeutischen Arbeitens, hier geht es um Methodenlernen, Präsentieren und das Erstellen einer Facharbeit. Außerdem findet die Studienfahrt innerhalb der Seminarfachgemeinschaft statt. Jedes Seminarfach steht unter einem bestimmten Thema.</p><p>Die aktuellen Themen werden über IServ bekannt gegeben. Unten auf der Seite befindet sich eine Liste der Seminarfachthemen der letzten Jahre.</p>"},"id":"d3d7d932-408d-48bd-a96c-a6b51337fb27","isHidden":false,"type":"text"},{"content":{"text":"<strong>Facharbeit</strong>"},"id":"487cfa45-a2eb-434f-b052-e54dd881a015","isHidden":false,"type":"text"},{"content":{"text":"<p>Informationen zur Erstellung einer Facharbeit haben wir in einem Dokument zusammengestellt. Es steht als Download auf dieser Seite zur Verfügung, ebenso wie die Formblätter für die Facharbeit. Die Formblätter können z.B. sowohl mit Microsoft Office als auch mit LibreOffice geöffnet und bearbeitet werden.</p>"},"id":"f810418b-d32c-405e-939c-c7fea7b40e53","isHidden":false,"type":"text"},{"content":{"text":"<p>Eine weitere sehr informative Seite zur Recherche für Facharbeiten findet Ihr bei der <strong><a href=\"https://uol.de/bis/lernen-und-arbeiten/angebote-fuer-schulen\" rel=\"noopener noreferrer nofollow\">Bibliothek der Uni Oldenburg</a>.</strong></p>"},"id":"53eed198-bba8-46a8-8c1a-9c9e47c8ac23","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Seminarfachthemen der letzten Jahre</strong></p>"},"id":"1ac93609-2ac1-40fc-9163-2c8f48155086","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Die Fernsehserie - der Roman des 21. Jahrhunderts?</p></li><li><p>Der Einfluss von Ernährung auf den menschlichen Organismus</p></li><li><p>Dimensionen von Sprache</p></li><li><p>Jeder einmal nach Berlin! - \"Eins in die Fresse, mein Herzblättchen?\" - Berlin in den 20er Jahren</p></li><li><p>Gesellschaft im Wandel</p></li><li><p>Wohnt das Glück in der Stadt – oder gehen uns Städte auf die<br>Nerven?</p></li><li><p>Trend-, Riskio- &amp; Extremsportarten – Sport im Wandel?</p></li><li><p>Dimensionen des Sports</p></li><li><p>Künstliche Intelligenz</p></li><li><p>Zukunft der Städte – Städte der Zukunft</p></li><li><p>Nation – Nationalismus – nationale Identität – Gibt es überhaupt eine deutsche Geschichte?</p></li><li><p>Journalismus im 21. Jahrhundert</p></li><li><p>Machtpoker Weltmeere</p></li><li><p>Sportgroßveranstaltungen</p></li><li><p>Ubiquitous Computing</p></li><li><p>„Nirgendland“ – Utopien und utopisches Denken</p></li><li><p>Klimawandel</p></li></ul>"},"id":"671b9716-ed5e-418a-a766-81ec7e019d57","isHidden":false,"type":"list"}]
 
 ----
@@ -28,6 +32,7 @@ Downloads:
 - file://AgZZE5mdzDgUHXoT
 - file://DrQyb1XaW4ZBpVHF
 - file://0fSzH2VYgdAwt9e4
+- file://XJqKyiB5snlfY7Uk
 
 ----
 

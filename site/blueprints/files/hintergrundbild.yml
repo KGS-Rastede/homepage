@@ -1,9 +1,9 @@
 title: Hintergrundbild
 
 accept:
-    mime: image/*
-    maxheight: 1400
-    orientation: landscape
+  mime: image/*
+  maxheight: 1400
+  orientation: landscape
 
 fields:
   alt:

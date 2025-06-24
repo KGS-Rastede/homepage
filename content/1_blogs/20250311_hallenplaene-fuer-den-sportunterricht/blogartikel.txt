@@ -1,0 +1,33 @@
+Title: Hallenpläne für den Sportunterricht
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ZfB14rJ6etRYcv6o"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"7bc0b7d2-e227-4293-b024-81b7361c23a0","isHidden":false,"type":"image"}],"id":"9349199d-72d3-40f5-a1f0-16940bd8d99d","width":"1/1"}],"id":"45d181d9-3e9f-485e-8954-1e5e4937b6f3"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Liebe Schüler:innen! </p><p>Hier findet ihr eine <strong>ÜBERARBEITETE</strong> Übersicht über eure richtige Sportstätte, damit ihr wisst, welche Sportkleidung ihr wann braucht!</p>"},"id":"8d95c2cb-2214-4006-a181-3a408e1876f5","isHidden":false,"type":"text"}],"id":"cb8c62d6-235e-45f9-8a88-4f97f2bf2d92","width":"1/1"}],"id":"7cae61d5-652d-4bc9-b93d-228592be01f3"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"https://kgs-rastede.de/blogs/hallenplaene-fuer-den-sportunterricht/hallenplaene_20242025_2.halbjahr_version-3.pdf\">https://kgs-rastede.de/blogs/hallenplaene-fuer-den-sportunterricht/hallenplaene_20242025_2.halbjahr_version-3.pdf</a></p>"},"id":"1dd4af3d-13ba-415b-99a3-e46a4dea0733","isHidden":false,"type":"text"}],"id":"fda3b8dd-9e79-4565-801d-f599e24cd913","width":"1/1"}],"id":"2f06d9cf-b815-4a54-ba28-fb66bbaa1a42"}]
+
+----
+
+Date: 2025-03-11 09:00:00
+
+----
+
+Datumstartseite: 2025-07-14 09:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sascha Arzenscheg
+
+----
+
+Tags: Sport, Hallenpläne, Unterricht
+
+----
+
+Downloads: - file://zXgiaw6UaWcoP89L
+
+----
+
+Uuid: Mb9zul6tKlPZI8Vf

@@ -1,0 +1,83 @@
+Title: Die Kooperative Gesamtschule Rastede zeigt Ausstellung „Deine Anne – ein Mädchen schreibt Geschichte“
+
+----
+
+Heading: 
+
+----
+
+Blogtag: Anne Frank
+
+----
+
+Text: [{"content":{"level":"h2","text":"Deine Anne- ein Mädchen schreibt Geschichte an der KGS Rastede"},"id":"329c73be-f696-49f3-9fc3-9c36a006b96c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Herzlich Willkommen auf der Seite zur Anne Frank Ausstellung. Hier finden Sie alle wichtigen Informationen:</p>"},"id":"22adb1a6-34b9-4982-a12b-66d95ab6b1a2","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir zeigen die Ausstellung vom 06.06.25 bis zum 29.06.25. Führungen für die Öffentlichkeit finden vom 16.06. bis zum 20.06. um 16:00 Uhr statt und können auf der Seite der KVHS Ammerland gebucht werden:</p><p><a href=\"https://www.kvhs-ammerland.de/programm/gesellschaft\">https://www.kvhs-ammerland.de/programm/gesellschaft</a></p><p>Alle Führungen sind kostenfrei.</p><p>Außerdem kann die Ausstellung auch an folgenden Sonntagen von 11:00 – 16:00 Uhr besucht werden:</p>"},"id":"729e1b36-0cdd-413b-b25d-7a18888408de","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Termine"},"id":"b7d70196-4d73-49c5-9723-a57edb0c08f3","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>08.06.</li><li>15.06.</li><li>22.06.</li><li>29.06</li></ul>"},"id":"48799407-21c4-4c46-b7f7-dbb00f2c2783","isHidden":false,"type":"list"},{"content":{"text":"<p>Hierfür ist keine zusätzliche Anmeldung nötig.</p><p>Weitere Führungen sind für Gruppen auf Anfrage möglich. Richten Sie Anfragen bitte an <a href=\"mailto:annefrank@kgs-rastede.eu\">annefrank@kgs-rastede.eu</a></p>"},"id":"6f995f6a-80b1-4526-bc92-67151cf15661","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Begleitprogramm"},"id":"4054036a-0fb1-4865-9765-337818af0c77","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zusätzlich zur Ausstellung bieten wir ein interessantes und vielseitiges Begleitprogramm. Den Flyer dazu können Sie unten auf der Seite herunterladen.</p><p></p><p></p>"},"id":"3182c427-cfc1-47ba-86f3-54976c20d26b","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Wir bedanken uns bei unseren Sponsoren:"},"id":"f1b7b589-68dd-4d94-a385-7c1a8928fe2b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Gerhard-Rode-Stiftung Rastede</p><p>Norddeutsche Landesbank Nord/LB</p><p>Lions Club Rastede</p><p>Gegen Vergessen, für Demokratie e.V. Regionalgruppe Weser Ems</p><p>Kleßny-Kunde-Stiftung</p><p>Die Schüler*innen, Eltern und Lehrkräfte der KGS Rastede</p><p>Förderverein der KGS Rastede</p><p>Bündnis 90/ Die Grünen Ratsfraktion Rastede</p><p>Residenzort Rastede</p><p>Landkreis Ammerland</p><p>Bildung und Solidarität – Stiftung der GEW Oldenburg-Stadt</p><p>Raiffeisenbank Rastede eG</p><p>VR Stiftung der Volksbanken und Raiffeisenbanken in Norddeutschland</p><p>Kunst- und Kulturkreis Rastede e.V.</p><p>Partnerschaft für Demokratie im Landkreis Ammerland im Rahmen des Bundesprogramms \"Demokratie Leben\"</p>"},"id":"fffc1f33-799a-4b05-9a88-c61f50e4aa83","isHidden":false,"type":"text"}]
+
+----
+
+Relatedtitel: 
+
+----
+
+Related: 
+
+----
+
+Downloadtitel: Hier können Sie den Flyer zum Begelitprogramm herunterladen:
+
+----
+
+Downloads: - file://HTLKfyul4SbOC4BC
+
+----
+
+Sidetitel: 
+
+----
+
+Sidebar: 
+
+----
+
+Gallery:
+
+- agfuerdenfrieden01.jpg
+- agfuerdenfrieden02.jpg
+- agfuerdenfrieden03.jpg
+- agfuerdenfrieden04.jpg
+- agfuerdenfrieden05.jpg
+- agfuerdenfrieden06.jpg
+- agfuerdenfrieden07.jpg
+- agfuerdenfrieden08.jpg
+- agfuerdenfrieden09.jpg
+- agfuerdenfrieden10.jpg
+- agfuerdenfrieden11.jpg
+- agfuerdenfrieden12.jpg
+- agfuerdenfrieden13.jpg
+
+----
+
+Date: 
+
+----
+
+Datumstartseite: 
+
+----
+
+Author: AG für den Frieden
+
+----
+
+Tags: AGs
+
+----
+
+Fotoansicht: carousel
+
+----
+
+Titel: AG für den Frieden
+
+----
+
+Uuid: EvqT3YRkkcdSZtKt

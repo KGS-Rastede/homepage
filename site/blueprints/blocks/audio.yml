@@ -1,7 +1,7 @@
 # /site/blueprints/blocks/audio.yml
 name: Audio-Datei
 icon: file-audio
-label: "{{ name }} - {{ creator }}"
+label: '{{ name }} - {{ creator }}'
 fields:
   soundfile:
     type: files

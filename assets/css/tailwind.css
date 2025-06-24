@@ -1,85 +1,59 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Tailwind importieren und nur im angegebenen source Ordner scannen */
+@import "tailwindcss" source("../../site/");
 
-@font-face {
-  font-family: "Pangea";
-  src: url("Pangea-LightWeb.woff2");
-  font-style: normal;
-  font-weight: 300;
+/* Plugins */
+@plugin "@tailwindcss/typography";
 
-  src: local("Pangea-LightWeb"), local("Pangea-LightWeb"),
-    url("./Pangea-LightWeb.woff2") format("woff2");
-  font-display: swap;
+/* Class based dark mode */
+@variant dark (&:where(.dark, .dark *));
+
+/* Für AlpineJS im mobilen Menü */
+[x-cloak] {
+  display: none !important;
 }
 
-@font-face {
-  font-family: "Pangea";
-  src: url("./Pangea-RegularWeb.woff2");
-  font-style: normal;
-  font-weight: 400;
+/* Tailkit configuration */
+@theme {
+  /* Colors */
+  --color-kgs-red: #a34e1c;
+  --color-kgs-lblue: #8e9fcc;
+  --color-kgs-blue: #0e5499;
+  
+  /* Fonts */
+  --font-sans: "Pangea", "sans-serif";
 
-  src: local("Pangea-Regular"), local("Pangea-RegularWeb"),
-    url("./Pangea-RegularWeb.woff2") format("woff2");
-  font-display: swap;
-}
+  /* Animations */
+  --animate-spin-slow: spin-slow 8s linear infinite;
 
-@font-face {
-  font-family: "Pangea";
-  src: url("Pangea-MediumWeb.woff2");
-  font-style: normal;
-  font-weight: 500;
-
-  src: local("Pangea-MediumWeb"), local("Pangea-MediumWeb"),
-    url("./Pangea-MediumWeb.woff2") format("woff2");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Pangea";
-  src: url("Pangea-SemiBoldWeb.woff2");
-  font-style: normal;
-  font-weight: 600;
-
-  src: local("Pangea-SemiBold"), local("Pangea-SemiBoldWeb"),
-    url("./Pangea-SemiBoldWeb.woff2") format("woff2");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Pangea";
-  src: url("./Pangea-BoldWeb.woff2");
-  font-style: normal;
-  font-weight: 700;
-
-  src: local("Pangea-BoldWeb"), local("Pangea-BoldWeb"),
-    url("./Pangea-BoldWeb.woff2") format("woff2");
-  font-display: swap;
-}
-
-.prose {
-  max-width: 80ch;
-}
-
-.prose p {
-  margin-bottom: 1em;
-}
-
-.prose-li\:list-disc {
-  margin-bottom: 1em;
-}
-
-img.max-w-xl {
-  max-width: 100%;
-}
-
-@media (min-width: 1024px) {
-  .prose-li\:list-disc {
-    font-size: 1.25rem;
-    line-height: 1.8;
+  @keyframes spin-slow {
+    100% {
+      transform: rotate(-360deg);
+    }
   }
 }
 
-.collapse.show {
-  visibility: visible !important;
+/*
+  The default border color has changed to `currentColor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+}
+
+@font-face {
+  font-family: Pangea;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("/assets/css/Pangea-LightWeb.woff2") format("woff2");
 }

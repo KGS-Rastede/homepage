@@ -1,9 +1,8 @@
-<?php snippet('header') ?>
-<?php snippet('page-header') ?>
+<?php snippet('default-page-layout', slots: true);
+slot();
+?>
 
-<?php snippet('sidebar') ?>
-<div class="teamfarbe1 teamfarbe2 teamfarbe3 teamfarbe4 teamfarbe5 teamfarbe6 teamfarbe7"> </div>
-
+<?= $page->text()->toBlocks() ?>
 
 <div class="container">
 
@@ -30,10 +29,11 @@
 
       <?php endforeach; ?>
 
-
     </div>
   </div>
 </div>
 
+<?php snippet('sidebar'); ?>
 
-<?php snippet('footertw') ?>
+<?php endslot(); ?>
+<?php endsnippet(); ?>

@@ -15,7 +15,7 @@
       $relatedPages = $block->unterseite()->toPages();
 
       foreach ($relatedPages as $relatedPage): ?>
-        <dl class="space-y-6 border-t border-slate-100 pt-6 shadow-sm hover:bg-slate-200 text-gray-500  bg-slate-50">
+        <dl class="space-y-6 border-t border-slate-300 pt-6 shadow-sm hover:bg-slate-200 text-gray-500  bg-slate-50">
 
           <a href="<?= $relatedPage->url() ?>">
             <button type="button" class="ml-5 p-1.5 text-black ">
@@ -27,7 +27,8 @@
             </button>
           </a>
         </dl>
-      <?php endforeach ?>
+      <?php endforeach;
+      ?>
 
     </div>
   </div>
