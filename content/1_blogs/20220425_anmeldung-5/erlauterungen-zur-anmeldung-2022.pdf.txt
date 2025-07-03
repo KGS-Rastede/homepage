@@ -1,9 +1,0 @@
-Anzeigename: Erläuterungen zur Anmeldung, Stand 5.5.22
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

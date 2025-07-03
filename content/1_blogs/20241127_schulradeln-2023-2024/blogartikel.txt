@@ -1,0 +1,33 @@
+Title: Schulradeln 2023/2024
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://iwAWNldvcQeMav43"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c275275f-429a-4df2-9bad-2f77d220538b","isHidden":false,"type":"image"}],"id":"2363e126-35bf-41bc-939d-cfdc9c412f4d","width":"1/1"}],"id":"1d583d31-382e-47ec-b7d5-d3790ed0bfea"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Schulradeln 2023/2024 – Die Siegerehrung</p><p>Auch im Juni 2024 haben wieder viele SchülerInnen, Lehrkräfte und Familienmitglieder beim Schulradeln mitgemacht. Jeder Kilometer, den man mit dem Fahrrad statt mit dem<br>Auto fahrt, trägt zum Schutz von Umwelt und Klima bei. Außerdem macht das Radfahren Spaß, hält uns fit und ermöglicht uns einen tollen Start in den Schultag. Insgesamt hat die KGS Rastede innerhalb von drei Wochen 76.189 Kilometer geschafft. Damit sind wir in ganz Niedersachsen auf Platz 5 geradelt. Nachdem wir in den vorangegangenen drei Jahren immer unter den besten 3 niedersächsischen Schulen waren, hat es dieses Mal nicht ganz für das Siegertreppchen gereicht. Das wollen wir beim Schulradeln 2025 unbedingt wieder schaffen.</p><p>Am 28.10.2024 in der zweiten großen Pause wurden unsere KGS-Sieger*innen ausgezeichnet. Die Plätze 1 bis 3 erhielten Urkunden. Für die 1. Plätze gab es außerdem unseren beliebten Schulradeln-Wanderpokal und einen Eisgutschein.</p><p>SchülerInnen mit den meisten Kilometern:</p><p>*Platz 1 mit 1055 Kilometern: Anton aus Jahrgang 9<br>*Platz 2 mit 1050 Kilometern: Kalle aus Jahrgang 9<br>*Platz 3 mit 963 Kilometern: Bele aus Jahrgang 13</p><p><em>Unsere drei SchulsiegerInnen seht ihr auf dem Foto.</em></p><p>Klassen mit den meisten Kilometern:</p><p>*Platz 1 mit 7924,4 Kilometern: Klasse 6D3<br>*Platz 2 mit 6727,7 Kilometern: Klasse 6C3<br>*Platz 3 mit 6690,9 Kilometern: Klasse 6A3</p><p>Teams mit den meisten Kilometern pro Kopf:</p><p>*Platz 1 mit 1052,5 Kilometern pro Kopf: Team \"Die wilden Bären\"<br>*Platz 2 mit 401,4 Kilometern pro Kopf: Team der Klasse 8A3<br>*Platz 3 mit 301,3 Kilometern pro Kopf: Team der Klasse 11D</p><p>Sonderpreis:</p><p>Den Sonderpreis für besondere Verdienste um das Radfahren an der KGS Rastede erhielten zwei Schülerinnen, die sich im Schuljahr 2023/24 für das Projekt „bike to school“<br>besonders engagiert haben: Saskia aus Jahrgang 11 und Alexandra aus Jahrgang 8</p><p></p><p>Herzlichen Glückwunsch an alle SiegerInnen und vielen Dank an alle, die sich beim Schulradeln beteiligt haben. Wir bedanken uns auch bei allen HelferInnen, die an der Siegerehrung mitgewirkt haben, und freuen uns schon auf das Schulradeln 2025 und noch mehr gefahrene Kilometer!</p><p><strong>Euer Schulradeln-Team</strong></p>"},"id":"30181a79-9071-40a4-8b61-ff7fe91dd72e","isHidden":false,"type":"text"}],"id":"f3ebd6d9-cfe4-4404-bd1f-3d3223bfe4c1","width":"1/1"}],"id":"a2dc0431-80f8-48b4-af50-5dbb4ea840e6"}]
+
+----
+
+Date: 2024-11-27 09:35:00
+
+----
+
+Datumstartseite: 2025-03-27 09:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Okko aus Jahrgang 9
+
+----
+
+Tags: Wettbewerb, schulradeln
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 7RBZFFXUcz4SjXRF

@@ -1,0 +1,33 @@
+Title: Weihnachtsmarkt in der KGS - Freitag, 22.11.24 - 16-20 Uhr
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://jpOsP7nRgYWXLlWm"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"fe2b50c9-8263-4a3a-a55b-f862b6405b19","isHidden":false,"type":"image"}],"id":"7b59b462-f746-4be9-8414-13c886490b33","width":"1/1"}],"id":"f2199d56-fe90-4858-a631-5d9e63ff3313"}]
+
+----
+
+Date: 2024-11-21 09:00:00
+
+----
+
+Datumstartseite: 2025-03-21 09:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: weihnachtsmarkt, aktion
+
+----
+
+Downloads: 
+
+----
+
+Uuid: YuXdkXRkLMoDlhVl

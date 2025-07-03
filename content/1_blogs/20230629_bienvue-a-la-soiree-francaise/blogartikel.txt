@@ -1,0 +1,33 @@
+Title: Bienvenue à la soirée française !
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 28. Juni 2023 um 18 Uhr, eine Woche vor den Sommerferien, fand im Forum der Feldbreite der französische Abend der Klasse 06B3 (im Schuljahr 2023/2024 Klasse 07B3) und deren Französischlehrerin Frau Böttner-Kutz statt. </p><p>Die Eltern, Geschwister und Freunde der Klasse sowie die Klassenlehrerin Frau Schadek waren zu diesem Abend eingeladen. In den Wochen zuvor hatten die Schülerinnen und Schüler im Unterricht ein abendfüllendes Programm ausgearbeitet, das zahlreiche Präsentationen, selbst erstellte Videos, verschiedene Dialoge und Vieles mehr beinhaltete. Kurzum: das Programm zeigte, was die Klasse in ihrem ersten Jahr Französisch so alles gelernt hatte. Auf die Idee des Abends, die gegen Ende des Schuljahres weiter ausgearbeitet wurde, kam die Klasse zusammen mit der Französischlehrerin im Laufe der letzten Monate. Johanna, Leana und Tessa führten als Moderatorentrio das Publikum durch das Programm. Im Laufe des Programms stellten Ida und Nurija anhand selbst erstellter Plakate ihre Familien vor, Tessa zeigte ein beeindruckendes Legevideo und in einem kurzen Video präsentierten sich Mia, Leana und Heytam. Eine Tanzgruppe um Lotta, Mieke, Linn, Carlotta, Nurija, Klara und Tomke arbeiteten extra einen Tanz zum Lied „Gravé dans la roche“ von Sniper aus, der sowohl Elemente des Balletts als auch des Hip-Hops beinhaltete. Am interaktiven Kahoot-Quiz von Annika, Sophie und Tessa konnte auch das Publikum testen, was es zu französischer Kultur und Sprache wusste. Zum Abschluss des einstündigen Programms wurde von der gesamten Klasse ein Tanz zu „Allez Ola Olé“ von Jessy Matador dargeboten. C’était une soirée phénomenale! </p><p>Im Anschluss, nachdem sich die Aufregung bei den Schülerinnen und Schüler gelegt hatte, konnten sie sowie die über 80 Gäste sich an einem Buffet voller kulinarischer französischer Spezialitäten bedienen. An der Crêpe-Station von Pia, Mia und Ida wurden mit viel Liebe süße und herzhafte Crêpes für Jedermann zubereitet. </p><p>Dieser Abend stellte sich als voller Erfolg dar!</p>"},"id":"15b5f586-b044-4741-8b51-74b14c38de3c","isHidden":false,"type":"text"}],"id":"18473bdc-d623-4dd6-8285-4629ac108854","width":"1/1"}],"id":"cfad53dd-67a2-4524-8f5e-57063bb46dad"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://xFBGh5dwQVibKNUr"],"caption":"","ratio":"","crop":"false"},"id":"0ae8fead-69c7-4784-a381-086a5e1a02f0","isHidden":false,"type":"gallery"}],"id":"83306ffa-56c4-4a9a-97ce-a99a50a390e7","width":"1/2"},{"blocks":[{"content":{"images":["file://Mx2ViPMM6mKA9GUJ"],"caption":"","ratio":"","crop":"false"},"id":"192f0349-125d-48a1-b0b1-f1605cfa75dd","isHidden":false,"type":"gallery"}],"id":"fad699bd-8eec-49a5-bf3d-8eeea99d935f","width":"1/2"}],"id":"3d978a0a-583d-48b1-8a86-78501196ce9b"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://fMRdDiwJDDLhZxDU"],"caption":"Herhafte und süße Crêpes im Angebot","ratio":"","crop":"false"},"id":"ca5baea4-2a9c-42c7-abeb-bc2f0d941809","isHidden":false,"type":"gallery"}],"id":"ae9397c7-c9a0-499a-9ce8-5f656a3bd33e","width":"1/2"},{"blocks":[{"content":{"images":["file://TLcW5pALJahXAhAc"],"caption":"Mia und ida an der Crêpestation, Tomke bei der Zuckerwatte","ratio":"","crop":"false"},"id":"0fd92fb8-1f74-40ed-9e92-e810852f0769","isHidden":false,"type":"gallery"}],"id":"019351a0-cba8-46ee-a7df-2af46e3389fb","width":"1/2"}],"id":"d1ade355-e99a-4050-99ea-f91cb7185b4f"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://0RyxiggyMzdLpaBA"],"caption":"Macarons","ratio":"","crop":"false"},"id":"3ef15c19-1455-4e5b-9f13-41e806246b51","isHidden":false,"type":"gallery"}],"id":"3d0f6311-9b57-4d34-b502-6475c9a85adf","width":"1/1"}],"id":"4b9c55b0-16f8-477c-84c7-77b382dce31a"}]
+
+----
+
+Date: 2023-06-29 08:20:00
+
+----
+
+Datumstartseite: 2023-09-29 08:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Delia Böttner-Kutz
+
+----
+
+Tags: Fremdsprachen, Französisch
+
+----
+
+Downloads: 
+
+----
+
+Uuid: AIDvSEXwDPL6UxZf

@@ -1,9 +1,0 @@
-Anzeigename: ABIT - Anlassbezogenes intensiviertes Testen
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

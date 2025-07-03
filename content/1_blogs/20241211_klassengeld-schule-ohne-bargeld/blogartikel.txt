@@ -1,0 +1,33 @@
+Title: Klassengeld - Schule ohne Bargeld
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://UAIx9MxrzZTdAFCG"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"698d4b61-75a3-41d1-896f-ef67bf98c4c1","isHidden":false,"type":"image"}],"id":"d51c1cdd-f913-48d2-9157-39174ed480f2","width":"1/1"}],"id":"975abe23-5022-4139-893e-64fdd769af4a"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Sehr geehrte Eltern und Erziehungsberechtigte, </p><p>wir möchten Sie darüber informieren, dass die KGS Rastede das IServ-Modul „Klassengeld“ nutzt, um die Verwaltung der Schulkonten unserer Schülerinnen und Schüler zu vereinfachen und transparenter zu gestalten. Dieses Modul ermöglicht es Ihnen, über Ihren Elternzugang jederzeit Einsicht in die finanziellen Vorgänge Ihres Kindes zu nehmen. </p><p>Weitere Informationen dazu finden Sie im Anhang und im Eltern-Wiki: <a href=\"https://wiki.kgs-rastede.de/eltern/klassengeld\">https://wiki.kgs-rastede.de/eltern/klassengeld</a></p>"},"id":"20cb6eca-f88f-43b8-9899-813befff8993","isHidden":false,"type":"text"}],"id":"e737710d-96c7-4f32-a30e-0d7f80f3c053","width":"1/1"}],"id":"1a7652d5-3a63-40fa-a11a-f72348096700"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Seit den Herbstferien des Schuljahres 2024-2025 nutzen wir zur Verwaltung von Geldbeträgen das Klassengeld-Modul. Damit automatisieren wir die Verwaltungsaufgaben rund um das Thema \"Geld einsammeln\". Die Verwaltung, die Lehrkräfte und die Eltern erhalten eine Übersicht und Kontrolle über geplante und finanzierte Projekte (Wandertage/Klassenfahrten, Unterrichtsprojekte, Arbeitsmaterialien,...). Die Verwendung des Moduls sorgt auf allen Seiten für viel Transparenz.</p><p>Die Elternregistrierung und der anschließende Zugang erfolgt direkt aus dem IServ-Elternaccount. In der linken Spalte der Module finden Sie Klassengeld.</p><p>Sie finden bei Klassengeld die \"Schülerkonten\" Ihrer Kinder. Für Sie als Erziehungsberechtigte hat das neue System den Vorteil, dass Sie jederzeit Zahlungseingänge und Ausgänge einsehen können.</p>"},"id":"b2457b07-e8d2-4642-947c-8a0bea8fb147","isHidden":false,"type":"text"}],"id":"8e3d9f42-4638-422c-bd0b-e2a442e6332e","width":"1/1"}],"id":"33853e8f-b3d7-4495-b811-e79c9da09d19"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Unter \"Mein Profil\" geben Sie bitte bei \"weitere Kommunikationskanäle\" Ihre <strong>Emailadresse</strong> an.</li><li>Wenn Sie auch noch Ihre <strong>IBAN</strong> eintragen, sind ggf. <strong>Rückzahlungen</strong> sehr einfach.</li><li>Alle Informationen über Projekte erhalten Sie per Email (entweder direkt aus der Klassengeld-App oder über den IServ-Elternaccount).</li><li>Im Anhang der Email oder in der Klassengeld-App befindet sich eine PDF-Datei mit den Projektinformationen (Name des Projektes, der Verwendungszweck oder ein QR-Code für die Überweisung, s. unten stehende Bilder)</li><li>Bitte verwenden Sie bei Überweisungen <strong>stets den individuellen Verwendungszweck</strong> des jeweiligen Projekts oder den QR-Code (s. Bild der PDF).</li><li>Sie können auch jederzeit das Schülerkonto unter Verwendung des entsprechenden Verwendungszecks (s. Bild des Elternportals) aufladen.</li><li>Weitere Informationen entnehmen Sie der Homepage <u><a href=\"https://klassengeld.de\">https://klassengeld.de</a></u>.</li><li>Eine detaillierte Anleitung finden Sie im <u><a href=\"https://documentation.klassengeld.de/books/das-elternportal/page/das-elternportal\">Elternportal</a></u>.</li></ul>"},"id":"d0f1c213-8376-419b-9a34-0b46f8599c39","isHidden":false,"type":"list"}],"id":"df95f0f0-4064-4959-9864-ab2970ec479b","width":"1/1"}],"id":"0f85c240-b913-4419-aa0b-559bf79fc76f"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Hier ein <a href=\"https://klassengeld.webinargeek.com/watch_ondemand/oAJE955vMrnsOHzc7aUK8WsWNSZzhDHW1NxMsWLY6ko/\">Anleitungsvideo</a> extra für Eltern:</p><p><a href=\"https://klassengeld.webinargeek.com/watch_ondemand/oAJE955vMrnsOHzc7aUK8WsWNSZzhDHW1NxMsWLY6ko/\">https://klassengeld.webinargeek.com/watch_ondemand/oAJE955vMrnsOHzc7aUK8WsWNSZzhDHW1NxMsWLY6ko/</a></p>"},"id":"304f2a0d-0e49-4b4b-b874-e42280907a5d","isHidden":false,"type":"text"}],"id":"c530f66f-ca31-4c36-a5ea-2f69ced86058","width":"1/1"}],"id":"4c950d7c-5b24-42bf-b05c-38964d677274"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Ein <a href=\"https://kgs-rastede.de/media/pages/allgemeines/wichtigelinks/dfa0e881dd-1733906657/elternbrief-klassengeld.pdf\">Elternbrief </a>wurde bereits per IServ-Elternbriefe verschickt.</p><p>Bei Problemen und Fragen hilft Ihnen unser Sekretariat gerne weiter. Sie können gerne direkt eine Mail an unsere Mitarbeiterin Fr. Niehaus schreiben (<a href=\"mailto:nhs@kgs-rastede.eu\">nhs@kgs-rastede.eu</a>).</p>"},"id":"4da1d19e-79c9-43c8-8fd1-f9f5600d0bfd","isHidden":false,"type":"text"}],"id":"074201d3-58fc-4e59-b127-e9d2918051e3","width":"1/1"}],"id":"82a39fd5-b679-44c7-adb5-faa10aeca809"}]
+
+----
+
+Date: 2024-12-11 09:35:00
+
+----
+
+Datumstartseite: 2030-07-31 16:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Julia Niehaus
+
+----
+
+Tags: Topartikel, klassenfahrt, klassengeld, tagesfahrt, projekte
+
+----
+
+Downloads: 
+
+----
+
+Uuid: pZRL7LDVPpLvpEVm

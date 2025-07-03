@@ -1,0 +1,33 @@
+Title: Jugend debattiert 2024
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Kluge Köpfe im Finale der KGS Rastede"},"id":"f2ed7260-3e7f-43be-9da7-3835882f7cc1","isHidden":false,"type":"heading"}],"id":"d7882676-5499-42b3-bba0-e3c41e4bbce9","width":"1/1"}],"id":"d1d7b6e4-67a7-4686-9212-931f8239d0c8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In einer Zeit, in der politische Extreme auf immer mehr Zuspruch treffen und Wähler*innen ihre feste Haltung nicht kritisch hinterfragen, gerät die Demokratie immer mehr unter Druck. „Jugend debattiert“ bietet einen Raum, um Positionen zu hinterfragen, Haltungen zu reflektieren und die Demokratie aufrecht zu erhalten. Dies betonte auch Jesco Schneemann stellvertretend für die Schulleitung. Jugend debattiert bietet außerdem die Gelegenheit, sich mit Themen zu beschäftigen, die unsere Schule und unser soziales Umfeld betreffen.</p><p>Daher ist es wertvoll, dass auch unsere Schule Schüler<em>innen ermöglicht, zunächst intern und im Regionalfinale auch mit Schüler</em>innen sechs anderer Schulen, Argumente auszutauschen.</p><p>Dieses Jahr fand am 11.01.24 das spannende KGS- Schulfinale von Jugend debattiert an unserer Schule statt. Die Veranstaltung wurde von einer engagierten Lehrer<em>innengruppe bestehend aus Henning Stockmann und  Gerald große Osterhues organisiert und geleitet. Die Vielfältigkeit der debattierten Themen stieß auf viel Interesse und sorgte für eine Rekordzahl an Zuschauer</em>innen. In zwei Diskussionsrunden der Sek 1 debattierten die Schüler*innen Lisa Meyding (9A3), Jonathan Lach (9C3), Paulina Klatt (9D3), Paul Schepers (9B3) und Phelan Jech (9C3), Jantje Pavel (10B3), Johanna Oehne-Berdau (9E3) und Jan-Gerd Koopmann (9B3) um die Frage „Soll Mobbing an Schulen härter bestraft werden?“. Paulina, Jantje, Lisa und Phelan konnten sich dabei für das Finale der Sek 1 in der Aula der KGS qualifizieren.</p><p>In den Diskussionsrunden der Sek 2 vertreten durch Imke Helmers (11B), Laurin Grund (11D), Henri Veltrup (11F), Hannah Haßmann (Jg.12), Willy Schulze(11E), Saskia Butt (11C), Finn Bramstedt (11E) und Justus zur Loye (11F) konnten Henri, Hannah, Laurin und Finn mit ihren Argumenten zu der Frage, „Sollen Toilettenräume an Schulen grundsätzlich genderneutral sein?“ überzeugen.</p><p>Die Finalrunden, die nicht nur durch Lehrkräfte, sondern auch durch die ehemaligen Teilnehmer<em>innen Paula Veltrup und Emma Oldewurtel bewertet wurden, zeigten nicht nur eine sehr gute Sachkenntnis der Teilnehmer</em>innen, sondern auch ihre Fähigkeit, komplexe Themen zu erfassen und überzeugende Argumente vorzubringen. Jede<em>r Debattant</em>in brachte seine/ihre einzigartige Perspektive ein, was zu einer lebendigen und mitreißenden Debatte führte.</p><p>Schlussendlich bewiesen alle Debattant<em>innen ihre Kompetenz, überzeugende Argumente zu formulieren und die Argumente der Gegner</em>innen zu widerlegen. Als besonders schlagfertig erwiesen sich in der Sek 1 Phelan und Paulina. In der Sek 2 beeindruckten Henri und Hannah die Jury durch ihr starkes Ausdrucksvermögen am meisten. Diese Gewinner*innen unseres Schulfinales qualifizierten sich für das Regionalfinale am Mittwoch, den 24.01.2024 an der IGS-Delmenhorst.</p><p>Wir drücken ihnen die Daumen, dass sie dort die Jury überzeugen und das professionelle Debattiertraining gewinnen.</p>"},"id":"7f6a2484-120e-4e0e-bd03-ff197c7720f8","isHidden":false,"type":"text"}],"id":"102ed033-edcb-4bb6-8633-42178f4330c7","width":"1/1"}],"id":"afe4a0ae-fb75-43d4-a02b-921c27333276"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://TbjwoNMVUUJDomII"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f12632eb-cf5b-43a8-8ac9-15beb15fecbe","isHidden":false,"type":"image"}],"id":"feb3a1b8-3f78-4538-b1ce-32682f361063","width":"1/1"}],"id":"cf27fd07-d2a8-46b6-b08a-6ff751f5cb0d"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://ak3nU1STtsQwmo1M","file://TbjwoNMVUUJDomII","file://DzoFFEH0jnD9RDO5","file://Inq8GGT9HlXkgGWp"],"caption":"","ratio":"","crop":"false"},"id":"2516e4a5-0fcf-416f-9e06-088599817d3b","isHidden":false,"type":"gallery"}],"id":"c5f7c3a2-4e1a-49ce-926e-a5f3e62eba8e","width":"1/1"}],"id":"3eedb6b2-efd0-4f9a-a602-60ab0da1e625"}]
+
+----
+
+Date: 2024-01-17 12:45:00
+
+----
+
+Datumstartseite: 2024-05-17 12:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Pia Neumann und Carolin Müller
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: tOInIf5jfEsd4QpW

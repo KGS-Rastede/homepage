@@ -1,0 +1,33 @@
+Title: So fängt das neue Schuljahr an
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>1. Unterrichtsschluss vor den Ferien</strong></p><p>Der Unterricht endet vor den Sommerferien am 02.07. nach der <strong>3. Stunde. </strong>Die Zeugnisausgabe bzw. die Ausgabe der Studienbücher hat entsprechend vorher durch die Klas­senlehrerinnen/Klassenlehrer bzw. Tutorinnen/Tutoren stattgefunden.</p><p>&nbsp;</p><p><strong>2. Wiederbeginn des Unterricht:</strong></p><p>Der <strong>erste Schultag</strong> nach den Sommerferien ist Donnerstag, der <strong>14. August 2025.</strong></p><p><strong>&nbsp;</strong></p><p>Dabei gelten die folgenden Regelungen:</p><p><u>Jg. 5:</u></p><p>Die 5. Klassen kommen zur 2. Stunde. Die Schülerinnen und Schüler werden auf dem Schulhof ab 8.30 Uhr von ihren Klassenlehrerinnen und Klassenlehrern in Empfang genommen und haben dann von der 2. - 5. Stunde bei ihnen Unterricht.</p><p>Von Freitag bis einschließlich Mittwoch hat der gesamte 5. Jahrgang Einlebenstage bei ihren Klassenlehrerinnen oder Klassenlehrern.</p><p>&nbsp;</p><p><u>Jg. 6 - 11:</u></p><p>Die Klassen kommen zur 1. Stunde und haben Donnerstag und Freitag Einlebenstage mit den Klassenlehrkräften.</p><p>Der Nachmittagsunterricht findet am ersten Schultag nicht statt.</p><p>&nbsp;</p><p><u>Jg. 12:</u></p><p>Der 12. Jahrgang kommt zur 1. Stunde zu einer Jahrgangsinformation in die Aula (Frau Garbe und Herr Diekmann). Am Donnerstag ab der 2. Stunde und Freitag ab der 1.Stunde finden zwei Einlebenstage statt.</p><p>Der Nachmittagsunterricht findet an den ersten beiden Schultagen noch nicht statt.</p><p>&nbsp;</p><p><u>Jg. 13:</u></p><p>Der 13. Jahrgang kommt zur Jahrgangsversammlung (Frau Garbe und Herr Diekmann) zur 2. Stunde (8.55 Uhr) in die Aula. Ab der 3. Stunde finden am Donnerstag und ab der 1. Stunde am Freitag Einlebenstage statt. Der Jahrgang hat für den Freitag einen Sponsorenlauf auf dem Sportplatz organisiert.</p><p>Der Nachmittagsunterricht findet an den ersten beiden Schultagen noch nicht statt.</p>"},"id":"1a97239f-a90f-44c2-8e38-d2928d6d77f8","isHidden":false,"type":"text"}],"id":"c02c3734-df54-4791-af84-2a3a3c0f4d98","width":"1/1"}],"id":"81790776-0622-4156-a8b0-09fe802e7126"}]
+
+----
+
+Date: 2025-06-30 08:00:00
+
+----
+
+Datumstartseite: 2025-08-14 15:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Schuljahr, Topartikel
+
+----
+
+Downloads: 
+
+----
+
+Uuid: MMPnOlL56s7wHny8

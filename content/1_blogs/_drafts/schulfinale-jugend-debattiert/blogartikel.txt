@@ -1,0 +1,33 @@
+Title: Schulfinale "Jugend debattiert"
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://hS7v2OZRcRQH04c7"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"7e66ea5e-4c9d-4192-86d6-a8bbe7bfd377","isHidden":false,"type":"image"}],"id":"f35a8238-a461-4b94-a6a2-33029f11b69b","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://RrswJNnFKv1LgE3P"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"15f20217-17f5-4f9a-881c-f472e05fdd8e","isHidden":false,"type":"image"}],"id":"d9522819-325b-4b95-8d81-b2440e1cbd91","width":"1/2"}],"id":"1620a44f-8718-4e7f-a368-b80faca6c6ce"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 16.01. fand das Schulfinale des Wettbewerbs „Jugend debattiert“ statt. </p><p>In der Sek I setzte sich Louisa Krippendorf vor Phelan Jech und Johanna Oehne-Berdau im Finale durch. Alle drei haben sich aber für das Regionalfinale am Gymnasium Eversten in Oldenburg am 30.01. qualifiziert.</p><p>In der Sek II siegte Jale Seybold vor Liza Apukhtina und Kristin Hennemann, die ebenfalls im Regionalfinale vertreten sein werden. </p><p>Herzlichen Glückwunsch und viel Erfolg allen!</p>"},"id":"f84b5497-e49f-4ff6-b208-1730ff4372bb","isHidden":false,"type":"text"}],"id":"1229ad3a-8abe-48b7-bb50-0ad6c9adb352","width":"1/1"}],"id":"e7020215-f5e6-4d68-8487-1266be74f1bf"}]
+
+----
+
+Date: 2025-01-23 09:10:00
+
+----
+
+Datumstartseite: 2025-05-23 09:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Jesco Schneemann
+
+----
+
+Tags: Wettbewerb, Deutsch, Projekt, Jugend debattiert
+
+----
+
+Downloads: 
+
+----
+
+Uuid: IxghMtcwb7fGPps5

@@ -1,1 +1,5 @@
 Template: blocks/image
+
+----
+
+Uuid: ywgU8x5rVBiApHWA

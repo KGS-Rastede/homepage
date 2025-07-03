@@ -1,5 +1,0 @@
-Anzeigename: Elterninfo WPK Französisch JG5 RZ
-
-----
-
-Template: datei

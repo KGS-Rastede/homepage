@@ -1,0 +1,33 @@
+Title: Mary Poppins gewinnt mit ihrem Regenschirm Gesangswettbewerb in Brasilien
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://f7HjkX6oRwvjvrIJ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"e8fcdf6d-bd8b-4bd8-a2c7-34b3f2b12bca","isHidden":false,"type":"image"}],"id":"985cf23a-09d4-432c-9b67-346b175694af","width":"1/1"}],"id":"0edf0f8c-4dc8-4a94-a1be-d9ea8c688451"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wir von der AG Kreatives Schreiben von Frau Bolduan haben uns sonntags zu einem vierstündigen Schreibnachmittag getroffen und bei selbstgebackenen Keksen und Muffins gemeinsame Geschichten verfasst. Von romantisch über gruselig bis lustig war alles dabei.</p><p>Wir hatten viel Spaß, als Oma Lisa in ihrer Hello-Kitty-Hose ihrem eifersüchtigen Ehemann entkam, Leon Bianca seine Liebe gestand und sie so sehr glücklich machte und sich auf dem Dachboden seltsame Dinge abspielten.</p><p>Es war schön, viel Zeit zum Schreiben zu haben und wir haben viel gelacht. Der nächste Schreibnachmittag findet im neuen Jahr statt.</p><p>Ani, Charlotte, Fr. Bolduan, Kristina, Liana, Theresa</p>"},"id":"5d989dc3-0553-430c-bd54-c87a562cac68","isHidden":false,"type":"text"}],"id":"b213558a-43fb-4ac0-98ce-649e1c9434bc","width":"1/1"}],"id":"64ba42d9-a6bf-4c7c-9670-6dad6b04970a"}]
+
+----
+
+Date: 2024-11-27 09:40:00
+
+----
+
+Datumstartseite: 2025-03-27 09:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: AG Kreatives Schreiben
+
+----
+
+Tags: Deutsch, AGs, Projekt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: UnSGfkp0RPtGoLFi

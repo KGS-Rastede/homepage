@@ -1,9 +1,0 @@
-Anzeigename: Rundverfügung 22 vom 26.8.21
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

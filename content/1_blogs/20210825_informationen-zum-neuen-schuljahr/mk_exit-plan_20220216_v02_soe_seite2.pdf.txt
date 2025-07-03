@@ -1,9 +1,0 @@
-Anzeigename: Exit-Plan
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

@@ -1,5 +1,0 @@
-Anzeigename: Die Plakataktion
-
-----
-
-Template: datei

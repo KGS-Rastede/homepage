@@ -1,9 +1,0 @@
-Anzeigename: Rundverfügung 24
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

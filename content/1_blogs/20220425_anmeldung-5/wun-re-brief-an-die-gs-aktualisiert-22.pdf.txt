@@ -1,9 +1,0 @@
-Anzeigename: Informationen zum Religions- und Werte/Normen-Unterricht
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

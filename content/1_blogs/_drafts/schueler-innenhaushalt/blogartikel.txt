@@ -1,0 +1,33 @@
+Title: Schüler:innenhaushalt
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>Demokratieförderung durch Jugendbeteiligung</strong>"},"id":"36eadb8b-0a9a-490a-8ead-72c87e18621b","isHidden":false,"type":"heading"}],"id":"70f2fb53-5990-40b4-bf3c-f0bda92fe518","width":"1/1"}],"id":"58ab0b61-c3df-4eab-88ea-e958c438f6f7"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://sExLZZnCVZog2230"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f4e77e46-2e44-4ea6-bf50-3d2ec3159cc5","isHidden":false,"type":"image"}],"id":"e231d9a1-db4a-475f-b49b-dbc062f6c047","width":"1/1"}],"id":"5dc115c3-27d8-4033-bdb8-bcb9c3823de5"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Projekt Rasteder Schülerhaushalt startet zum Schuljahr 2024/25</p><p>Die Gemeinde Rastede möchte ein starkes Zeichen für die Demokratieförderung von Jugendlichen setzen und führt ab dem Schuljahr 2024/25 den Schülerhaushalt an der KGS Rastede und der Schule am Voßbarg ein. Das innovative Jugendbeteiligungsformat ist ein Konzept der Bertelsmann Stiftung und bietet den Schülerinnen und Schülern die Möglichkeit, demokratische Prozesse direkt in ihrer Schule mitzuerleben und mitzugestalten.</p><p>Der Schülerhaushalt gibt den Jugendlichen die Chance, über ein eigenes Budget zu verfügen, über dessen Verwendung sie selbstständig und demokratisch entscheiden können. Ob neue Sportgeräte, Lernmittel oder kreative Schulprojekte – die Schülerinnen und Schüler lernen, gemeinsam Ideen zu entwickeln, sich abzustimmen und Kompromisse zu finden. „Jungen Menschen frühzeitig Beteiligungsräume zu eröffnen und sie in Entscheidungsprozesse einzubinden, fördert das Bewusstsein für demokratische Werte und Prozesse“, erklärt die Gleichstellungsbeauftragte und Projektleiterin Anke Wilken.</p><p>Für den ersten Schülerhaushalt stellt die Gemeinde der KGS 10.000 Euro zur Verfügung. Durch einen zusätzlichen Betrag von 7000 Euro, der aus dem Erlös des vom Elternrat initiierten Weihnachtsmarktes stammt, steht den Schülerinnen und Schülern ein Gesamtbudget von insgesamt 17.000 Euro zur Verfügung. Die kleine Schule am Voßbarg erhält für die Umsetzung des Schülerhaushalts von der Gemeinde 1500 Euro. „Das Beteiligungskonzept bindet alle Jugendlichen aktiv mit ein. Die Schülerinnen und Schüler erleben, dass ihre Stimme in demokratischen Prozessen wichtig ist“, betont Anke Wilken.</p><p>Das Projekt wird von der Berliner Servicestelle Jugendbeteiligung e.V. begleitet, die für ihre Expertise bundesweit bekannt ist. Die Hauptverantwortung für die Durchführung liegt bei den Schülerinnen und Schülern der beteiligten Schulen, während die Schulleitungen, Beratungslehrkräfte sowie Mitarbeiterinnen und Mitarbeiter der Gemeindeverwaltung unterstützend zur Seite stehen.</p><p>Die Einführung des Schülerhaushalts ist ein direktes Ergebnis des Demokratieprojektes SARA: Solidarität – Anerkennung – Respekt – Achtsamkeit, das im vergangenen Jahr in der Gemeinde umgesetzt wurde, um demokratische Grundwerte durch erlebnisorientierte Jugendbeteiligungsformate zu stärken.</p>"},"id":"4005c6ca-dced-46aa-8818-d68eede1afad","isHidden":false,"type":"text"}],"id":"19606bff-78db-467d-9b08-0d8fac84f668","width":"1/1"}],"id":"6a554cdb-46d5-4395-9bd0-404d571284ae"}]
+
+----
+
+Date: 2024-09-16 19:25:00
+
+----
+
+Datumstartseite: 2025-01-16 19:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anke Wilken
+
+----
+
+Tags: Demokratiebildung
+
+----
+
+Downloads: - file://3TSkzfWUDaZoTfKm
+
+----
+
+Uuid: ImMFz31eVHRvZtJu

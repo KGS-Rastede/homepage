@@ -1,9 +1,0 @@
-Anzeigename: AGB
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

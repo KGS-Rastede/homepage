@@ -1,0 +1,33 @@
+Title: Lange Nacht der Mathematik 2024
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://BSAi0IQZLEQUj5kO"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"27b86ac6-241e-4ec9-99d2-0d1838dfd5bb","isHidden":false,"type":"image"}],"id":"00b76dee-ca97-49bf-b8b8-3524b1d2a2e3","width":"1/1"}],"id":"5acd44ef-e494-4022-8f8c-d8d86539c959"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Auch in diesem Jahr war die KGS Rastede wieder bei der langen Nacht der Mathematik dabei. </p><p>Direkt im Anschluss an den Weihnachtsmarkt trafen sich 35 mathebegeisterte Siebt- und Achtklässler:innen und fünf Lehrkräfte zum Rätseln und Knobeln. Auch dieses Jahr konnten wir uns wieder für die zweite Runde qualifizieren! Pizza und andere Leckereien machten die Aktion für alle zu einer runden Sache! </p><p>Für die finanzielle Unterstützung dabei bedanken wir uns beim Förderverein! </p><p>Wenn du auch nächstes Jahr dabei sein willst, dann probiere dich doch mal an folgender Aufgabe: In die Mitte der Zahl 325325 soll die kleinstmögliche zweistellige natürliche Zahl ungleich Null (00) eingesetzt werden, so dass die neu entstandene achtstellige Zahl durch 325 teilbar ist.</p>"},"id":"b1de755c-4f99-4642-bd4f-6c0130022168","isHidden":false,"type":"text"}],"id":"85d24171-f60d-4d57-ace5-960e28af393d","width":"1/1"}],"id":"6e636124-6077-4305-a5b6-a3896a7e1790"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://pzEArCj6IfxBCTfB"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"adb96011-f61a-4f17-ad26-1d3b00abe5e0","isHidden":false,"type":"image"}],"id":"c01711ce-0a93-4e57-a632-6d3bbfdf6bb3","width":"1/1"}],"id":"08e44b8f-2a47-4365-a317-2ecd47fcc14e"}]
+
+----
+
+Date: 2024-12-05 08:55:00
+
+----
+
+Datumstartseite: 2025-04-05 08:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dennis Nawrath
+
+----
+
+Tags: Mathematik, Wettbewerb, Projekt, Aktion
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ENx6igTNwjbfsujy

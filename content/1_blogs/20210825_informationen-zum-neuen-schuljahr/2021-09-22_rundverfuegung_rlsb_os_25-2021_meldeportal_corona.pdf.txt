@@ -1,9 +1,0 @@
-Anzeigename: Rundverfügung 25
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

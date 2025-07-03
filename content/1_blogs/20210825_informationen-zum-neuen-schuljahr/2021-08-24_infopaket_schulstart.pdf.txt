@@ -1,9 +1,0 @@
-Anzeigename: Kurzfassung der Regelungen
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

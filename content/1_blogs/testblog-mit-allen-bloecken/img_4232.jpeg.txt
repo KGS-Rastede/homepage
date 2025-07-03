@@ -1,5 +1,0 @@
-Beschreibung: Ein Strommast
-
-----
-
-Uuid: 4HvsgRtBq9QCRj2x

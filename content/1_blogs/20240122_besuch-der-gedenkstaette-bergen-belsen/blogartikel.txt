@@ -1,0 +1,33 @@
+Title: Besuch der Gedenkstätte Bergen-Belsen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://7mc6lCwKvjfpGRJv"],"caption":"","ratio":"","crop":"false"},"id":"55a98419-de1a-401b-9981-ee5b99cf8317","isHidden":false,"type":"gallery"}],"id":"93e54fcd-8d0d-453f-a75c-07b105d59fd4","width":"1/1"}],"id":"5a565e48-08eb-451b-be59-01ee59dc0178"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Gepflegte Rasenflächen, einzelne Birken und zwei große Gebäuden aus Beton. Doch mit dem Wissen über die Geschichte dieses Ortes, sieht man alles mit ganz anderen Augen. Bei unserer Besichtigung der Gedenkstätte Bergen-Belsen ist es uns genauso ergangen. Am letzten Freitag, den 12. Januar 2024 sind wir, die Klassen 10D3, 10D2 und 10C2, mit dem Bus in die Lüneburger Heide gefahren. Uns erwartete eine friedliche Winterlandschaft und nichts, was wir uns unter einem Konzentrationslager vorstellen würden. Wir nahmen an einer Führung über das Gelände und durch das Ausstellungsgebäude teil und haben gesehen, was Menschen Menschen antun können. Als wir dann über den Platz gelaufen sind, konnte man nicht mehr an ein Winter-Wunderland denken, auch wenn es so schien. Von all dem, was der Ort einmal war - zunächst unter den Nationalsozialisten ein Lager für sowjetische Kriegsgefangene, ab 1942 ein Konzentrationslager und schließlich mit der Befreiung am 15. April 1945 durch die britische Armee bis 1948 ein Camp für Displaced Persons - ist nichts mehr zu sehen. Nur noch die Gedenkstätte mit der Ausstellung erinnert daran, dass hier rund 70.000 Menschen durch systematische Vernachlässigung, d.h. Hunger, Kälte und Krankheiten, gestorben sind. Wir finden es wichtig, an die Vergangenheit zu erinnern und wünschen uns für die Zukunft, dass alle 10. Klassen unserer Schule diesen Ort besuchen.<br><br>Klasse 10D3</p>"},"id":"c5dcb78b-3918-45c3-b8ee-0e793c56d74d","isHidden":false,"type":"text"}],"id":"f21016f9-001f-4d9c-8a66-a5a84dde7ef5","width":"1/1"}],"id":"ccf072d8-2f16-467e-a409-3353f9b36a0e"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://BvsDZ4vvcyHdNaW4"],"caption":"","ratio":"","crop":"false"},"id":"c0f6a03f-6ef1-46d4-b08b-b23094687add","isHidden":false,"type":"gallery"}],"id":"8af57ca5-2953-4fac-bcc5-3ffdab192aa6","width":"1/2"},{"blocks":[{"content":{"images":["file://zkZglssDWntVkPO8"],"caption":"","ratio":"","crop":"false"},"id":"f05d9590-d71f-4866-b845-93f52a9e40a9","isHidden":false,"type":"gallery"}],"id":"40222e1f-cd72-4786-a8d1-d464dee745c0","width":"1/2"}],"id":"063ac450-2928-4a2a-8333-da0d4af2842d"}]
+
+----
+
+Date: 2024-01-22 13:15:00
+
+----
+
+Datumstartseite: 2024-05-22 13:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 10D3
+
+----
+
+Tags: PoWi, Für den Frieden, Geschichte, Ausflug
+
+----
+
+Downloads: 
+
+----
+
+Uuid: sRDncm2YMKHv8mRP

@@ -1,0 +1,5 @@
+Uuid: TbjwoNMVUUJDomII
+
+----
+
+Template: blocks/image

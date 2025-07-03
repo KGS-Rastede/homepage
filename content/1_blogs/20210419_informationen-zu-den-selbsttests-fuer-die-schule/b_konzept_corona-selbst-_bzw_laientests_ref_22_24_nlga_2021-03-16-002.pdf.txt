@@ -1,5 +1,0 @@
-Anzeigename: B-Konzept-Selbsttest
-
-----
-
-Template: datei

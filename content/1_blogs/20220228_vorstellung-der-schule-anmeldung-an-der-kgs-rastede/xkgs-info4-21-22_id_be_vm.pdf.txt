@@ -1,9 +1,0 @@
-Anzeigename: Vorstellung der Schule
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

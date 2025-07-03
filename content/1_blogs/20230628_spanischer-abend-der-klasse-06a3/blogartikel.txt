@@ -1,0 +1,33 @@
+Title: Spanischer Abend der Klasse 06A3
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>„¡Bienvenidos!“ hieß es am 27. Juni 2023 um 18 Uhr für die Eltern, Geschwister und Freunde der Klasse 06A3 (im Schuljahr 2023/2024 Klasse 07A3). Die Klasse und ihre Spanischlehrerin Frau Böttner-Kutz hatten zu einem spanischen Abend, der gleichzeitig auch der Schuljahresabschluss der Klasse war, in das Forum der Feldbreite eingeladen. </p><p>Auf die Gäste wartete ein abwechslungsreiches Programm, das die 06A3 mit Frau Böttner-Kutz in den Wochen vorher im Unterricht auf die Beine gestellt hatte. Das Programm bestand aus Dialogen, Videos und Präsentationen der Schülerinnen und Schüler, die im Laufe des Schuljahres entstanden sind. Hier konnten die Chicos und Chicas zeigen, was sie in einem Schuljahr in Spanisch so alles gelernt haben - und das war schon eine ganze Menge! So stellten Lena und Isabel beispielsweise den über 90 Gästen anhand selbst gestalteter Plakate ihre Familien vor und in den Videos von Delia, Janis U., Jooke und Liam zeigten sie, wie man sich selbst vorstellt. Die Zuschauer bekamen durch eine nachgestellte Szene aus dem Unterricht, bei der Lasse Frau Böttner-Kutz spielte und ein Geburtstagsständchen auf Spanisch zum Besten gegeben wurde, einen kleinen Einblick in den Unterrichtsalltag. Die vier Moderatorenpaare Lotta und Isabel, Nabil und Enrico, Alon und Jooke sowie Bennet und Ben führten die Gäste durch das Programm, das durch eine Tanzeinlage zu Alvaro Solers Lied „La Cintura“ und einem Kahoot-Quiz für Jedermann ergänzt wurde. Am Ende des Programms durften auch die Gäste aktiv werden und waren dazu eingeladen, in den Tanz zu „Macarena“ einzusteigen. </p><p>Anschließend gab es ein reichhaltiges Buffet, das unter anderem landestypische kulinarische Spezialitäten wie Tortilla, Bizcocho und Tapas bereithielt. ¡Qué rico! </p><p>Nach diesem gelungenen Abend konnte nicht nur die Spanischlehrerin auf die Klasse, sondern vor allem auch die Schülerinnen und die Schüler auf sich mächtig stolz sein!</p>"},"id":"5f30614e-e798-4ee5-91da-f288c4ab672c","isHidden":false,"type":"text"}],"id":"cffd956c-5985-4686-b6ed-6cdeb2f9d997","width":"1/1"}],"id":"1fe71dd0-1990-40cf-91a9-223987ecce47"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://T6rmlHSoSlQU9NTQ"],"caption":"Lena stellt ihre Familie vor","ratio":"","crop":"false"},"id":"ffe44601-7558-43f1-88f4-d56a914b7822","isHidden":false,"type":"gallery"}],"id":"36cfaed4-ca06-486b-87d0-7e66606e115c","width":"1/2"},{"blocks":[{"content":{"images":["file://TGiPK9oyZUz7iLFR"],"caption":"","ratio":"","crop":"false"},"id":"38a9ceed-7eb9-4ad2-a3d6-e0296b3e976b","isHidden":false,"type":"gallery"}],"id":"1a169f97-79d1-49d5-b43d-f9cddf210202","width":"1/2"}],"id":"1de8bf56-df3a-48e5-8775-2a33e08b586e"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://4o9WB06Uq2yhbuFk"],"caption":"","ratio":"","crop":"false"},"id":"6d1eeec8-4be1-4b77-a786-b1d9d5b315f5","isHidden":false,"type":"gallery"}],"id":"e4eaa2af-98bf-4cf5-841f-eeb37923f8c4","width":"1/2"},{"blocks":[{"content":{"images":["file://KA3iIyLxm6v0Aqk5"],"caption":"","ratio":"","crop":"false"},"id":"5a3231ef-6238-4734-80b0-f3486262f25a","isHidden":false,"type":"gallery"}],"id":"3ec8a67e-d279-4210-a161-313ab0b507a0","width":"1/2"}],"id":"0a98d506-e3fe-4eaf-bbcd-1e9db9735c5f"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://c942MiDvIhtLZ5Gx"],"caption":"Kahoot-Quiz","ratio":"","crop":"false"},"id":"daf575c4-b551-4319-b128-2da1fc540428","isHidden":false,"type":"gallery"}],"id":"036902ee-48b9-4e5c-84ad-bb4e0055c8c8","width":"1/1"}],"id":"4a579548-d1b0-4641-905d-0b68acdaa9e3"}]
+
+----
+
+Date: 2023-06-28 08:10:00
+
+----
+
+Datumstartseite: 2023-09-28 08:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Delia Böttner-Kutz
+
+----
+
+Tags: Spanisch, Fremdsprachen
+
+----
+
+Downloads: 
+
+----
+
+Uuid: OYa396nASQhMa2kE

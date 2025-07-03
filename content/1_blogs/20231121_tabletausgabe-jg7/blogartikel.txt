@@ -2,7 +2,7 @@ Title: Tabletausgabe JG7 am Fr., 01.12.
 
 ----
 
-Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am <strong>01.12.2023 können in der Zeit von 15 - 18 Uhr</strong> die über mobiles.lernen bestellten iPads in der Schule (Neue Aula) abgeholt werden. Die Kinder haben dazu einen Elternbrief erhalten. Im selben Zeitraum bietet der Schulelternrat in den neuen Informatikräumen (C105) ein <strong>Elterncafe</strong> an für Austausch und Unterstützung z.B. bei der Ersteinrichtung.</p><p>Eltern, die Schwierigkeiten bei dem Bestellvorgang hatten, sind ebenfalls herzlich eingeladen. Wir helfen bei der Bestellung.</p>"},"id":"5ee7022f-0bc4-4fcd-a220-f595cff95ad1","isHidden":false,"type":"text"}],"id":"5ec5050c-d15d-4c3d-bd3d-5286ea66f991","width":"1/1"}],"id":"f96c8bda-e169-4788-abde-8554ac1770c7"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Elternbrief zum <a href=\"https://kgs-rastede.de/blogs/tabletausgabe-jg7/vorlage-elternbrief-tabletausgabe-dez-23.pdf\" rel=\"noreferrer\">Download</a></p>"},"id":"b1ba9c07-21a3-44d7-a466-d743bbfa336f","isHidden":false,"type":"text"}],"id":"0c340451-8ad0-409a-9e02-8ac16e5474e3","width":"1/1"}],"id":"de0a4535-5113-4a30-9536-6bf7ee592db7"}]
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am <strong>01.12.2023 können in der Zeit von 15 - 18 Uhr</strong> die über mobiles.lernen bestellten iPads in der Schule (Neue Aula) abgeholt werden. Die Kinder haben dazu einen Elternbrief erhalten. Im selben Zeitraum bietet der Schulelternrat in den neuen Informatikräumen (C105) ein <strong>Elterncafe</strong> an für Austausch und Unterstützung z.B. bei der Ersteinrichtung.</p><p>Eltern, die Schwierigkeiten bei dem Bestellvorgang hatten, sind ebenfalls herzlich eingeladen. Wir helfen bei der Bestellung.</p><p>Hier geht es zu den <a href=\"https://kgs-rastede.de/blogs/ipadbestellung-an-kgs-rastede-fuer-den-aktuellen-6-und-7-jahrgang\">Bestellinformationen</a></p>"},"id":"5ee7022f-0bc4-4fcd-a220-f595cff95ad1","isHidden":false,"type":"text"}],"id":"5ec5050c-d15d-4c3d-bd3d-5286ea66f991","width":"1/1"}],"id":"f96c8bda-e169-4788-abde-8554ac1770c7"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Elternbrief zum <a href=\"https://kgs-rastede.de/blogs/tabletausgabe-jg7/vorlage-elternbrief-tabletausgabe-dez-23.pdf\" rel=\"noreferrer\">Download</a></p>"},"id":"b1ba9c07-21a3-44d7-a466-d743bbfa336f","isHidden":false,"type":"text"}],"id":"0c340451-8ad0-409a-9e02-8ac16e5474e3","width":"1/1"}],"id":"de0a4535-5113-4a30-9536-6bf7ee592db7"}]
 
 ----
 
@@ -10,7 +10,7 @@ Date: 2023-11-21 10:20:00
 
 ----
 
-Datumstartseite: 2024-01-31 10:20:00
+Datumstartseite: 2024-01-22 10:20:00
 
 ----
 

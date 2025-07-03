@@ -1,0 +1,33 @@
+Title: Information zum neuen Schuljahr und Unterrichtsschluss
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>1. Unterrichtsschluss vor den Ferien</p><p><br></p><p>Der Unterricht endet vor den Sommerferien am 02.07. nach der 3. Stunde. Die Zeugnisausgabe bzw. die Ausgabe der Studienbücher hat entsprechend vorher durch die Klas­senlehrerinnen/Klassenlehrer bzw. Tutorinnen/Tutoren stattgefunden.</p><p><br></p><p>2. Wiederbeginn des Unterricht:</p><p><br></p><p>Der erste Schultag nach den Sommerferien ist Donnerstag, der 14. August 2025.</p><p><br></p><p>Dabei gelten die folgenden Regelungen:</p><p><br></p><p>Jg. 5:</p><p><br></p><p>Die 5. Klassen kommen zur 2. Stunde. Die Schülerinnen und Schüler werden auf dem Schulhof ab 8.30 Uhr von ihren Klassenlehrerinnen und Klassenlehrern in Empfang genommen und haben dann von der 2. - 5. Stunde bei ihnen Unterricht.</p><p><br></p><p>Von Freitag bis einschließlich Mittwoch hat der gesamte 5. Jahrgang Einlebenstage bei ihren Klassenlehrerinnen oder Klassenlehrern.</p><p><br></p><p>Jg. 6 - 11:</p><p><br></p><p>Die Klassen kommen zur 1. Stunde und haben Donnerstag und Freitag Einlebenstage mit den Klassenlehrkräften.</p><p><br></p><p>Der Nachmittagsunterricht findet am ersten Schultag nicht statt.</p><p><br></p><p>Jg. 12:</p><p><br></p><p>Der 12. Jahrgang kommt zur 1. Stunde zu einer Jahrgangsinformation in die Aula (Frau Garbe und Herr Diekmann). Am Donnerstag ab der 2. Stunde und Freitag ab der 1.Stunde finden zwei Einlebenstage statt.</p><p><br></p><p>Der Nachmittagsunterricht findet an den ersten beiden Schultagen noch nicht statt.</p><p><br></p><p>Jg. 13:</p><p><br></p><p>Der 13. Jahrgang kommt zur Jahrgangsversammlung (Frau Garbe und Herr Diekmann) zur 2. Stunde (8.55 Uhr) in die Aula. Ab der 3. Stunde finden am Donnerstag und ab der 1. Stunde am Freitag Einlebenstage statt. Der Jahrgang hat für den Freitag einen Sponsorenlauf auf dem Sportplatz organisiert.</p><p><br></p><p>Der Nachmittagsunterricht findet an den ersten beiden Schultagen noch nicht statt.</p>"},"id":"f9359be2-7531-48eb-a649-cbbc8819d9f5","isHidden":false,"type":"text"}],"id":"cec13c71-eb94-4887-9f04-41f9688124b0","width":"1/1"}],"id":"060c0443-cfbe-45fe-b9e9-cbb1d9e53bf8"}]
+
+----
+
+Date: 2025-06-27 08:30:00
+
+----
+
+Datumstartseite: 2025-10-30 08:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Topartikel, Organisation
+
+----
+
+Downloads: 
+
+----
+
+Uuid: bvokg3yuvry3pqvy

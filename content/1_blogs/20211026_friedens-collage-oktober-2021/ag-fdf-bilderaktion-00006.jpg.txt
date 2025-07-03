@@ -1,5 +1,0 @@
-Beschreibung: Die fertige Collage
-
-----
-
-Template: blocks/image

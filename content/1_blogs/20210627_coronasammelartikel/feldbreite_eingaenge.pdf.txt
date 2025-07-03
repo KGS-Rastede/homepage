@@ -1,5 +1,0 @@
-Anzeigename: Feldbreite: Eingänge
-
-----
-
-Template: datei

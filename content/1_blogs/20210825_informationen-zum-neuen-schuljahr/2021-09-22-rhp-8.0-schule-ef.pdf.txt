@@ -1,9 +1,0 @@
-Anzeigename: Rahmenhygieneplan (V 8.0)
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

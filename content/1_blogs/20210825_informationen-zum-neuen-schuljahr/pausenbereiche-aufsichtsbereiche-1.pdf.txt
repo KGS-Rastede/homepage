@@ -1,9 +1,0 @@
-Anzeigename: Pausenbereiche Wilhelmstraße ab 8.12.21
-
-----
-
-Beschreibung: 
-
-----
-
-Template: datei

@@ -1,0 +1,33 @@
+Title: Jugend trainiert für Olympia – Handball
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ow7DBovhMNX2A69U"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"3aa19f22-1ca8-486d-86c9-43b56f266304","isHidden":false,"type":"image"}],"id":"9e3985f4-b576-4d6f-af31-f9ac80c2145e","width":"1/1"}],"id":"d8c78801-61cd-4d61-96d6-10a138ffa26a"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Drei Finals in Rastede</p> <p>Am Mittwoch, 11.12.24 fanden Kreisgruppenentscheide des \r\nWettbewerbs Jugend trainiert für Olympia – Handball in drei Spielklassen bei uns \r\nin Rastede statt. Da auf dieser Ebene noch relativ wenige Schulen ihre \r\nMannschaften melden, waren es gleich Finalspiele.</p> <p>In der WK III (Altersklasse C-Jugend) hatte unsere KGS \r\nRastede eine Jungen- und eine Mädchenmannschaft gemeldet.</p> <p>Gleich im ersten Spiel ließen unsere Jungs nichts \r\nanbrennen. Mit einer stabilen Abwehr gelang ein 12:2-Halbzeitstand. Über den \r\nZwischenstand von 17:3 wurde das Spiel beim Endstand von 22:9 abgepfiffen. Bei \r\neiner geschlossenen Teamleistung konnten alle Feldspieler zu Torerfolgen kommen. \r\nUnsere Torhüter waren sicherer Rückhalt für unsere Abwehr.</p> <p>Im Anschluss waren unsere Mädchen gegen das LMG Varel \r\naktiv. Bis zum 6:6 wechselten die Führungen. In die Halbzeit konnten unsere \r\nKGS-Mädchen mit einer 9:7-Führung gehen. Nach Wiederanpfiff wurden in der Abwehr \r\ndie entscheidenden Schritte mehr gemacht und Lücken für den Gegner geschlossen. \r\nSo wurden die Ballgewinne zum 16:7-Vorsprung genutzt und das Spiel beim Stand \r\nvon 20:9 abgepfiffen. Auch die Mädchen überzeugten v.a. durch mannschaftliche \r\nGeschlossenheit ohne Starallüren.</p> <p>In der Altersklasse WK IV (D-Jugend) boten die IGS \r\nWilhelmshaven und das MG Jever eine wirklich hochklassige Partie. Die Jeveraner \r\ngingen nach einer ausgeglichenen Partie mit 20:17 als Sieger vom \r\nFeld.</p> <p>Alle Siegermannschaften sind damit für den \r\nBezirksentscheid qualifiziert. Austragungsort und -datum stehen noch nicht \r\nfest.</p> <p>Wir sind gespannt, ob wir an die erfolgreichen \r\nTeilnahmen der letzten Jahre anknüpfen können.</p> <p>Ein besonderer Dank gilt unseren Schiedsrichtern Noah \r\nund Lasse, sowie Elisa und Bele am Sekretär-/Zeitnehmertisch - ebenso den \r\nKolleg:innen für den Verzicht auf Schüler:innen im, bzw. Hallenteile für den \r\nUnterricht. ;-)</p> <p>Für die KGS-Jungenmannschaft spielten Timo, Tjark, \r\nFritz, Moritz, Lasse O., Lasse B., Kalle, Anton, Ben und Justus.</p> <p>Für die KGS-Mädchenmannschaft spielten Ann-Sophie, \r\nLiliana, Leona, Femke, Lena, Antonia, Mia, Talea, Jenna, Mieke und \r\nLeah.</p>"},"id":"5a0a600a-ac50-4abc-9b4e-93f2355008ad","isHidden":false,"type":"text"}],"id":"beca9a29-4386-4e58-b89f-1d00bf617621","width":"1/1"}],"id":"4dc40abd-5dab-4a36-abb1-6791e8918592"}]
+
+----
+
+Date: 2024-12-13 11:15:00
+
+----
+
+Datumstartseite: 2025-04-13 11:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Ronald Zange
+
+----
+
+Tags: Sport, Wettbewerb, Jugend trainiert für Olympia, Handball
+
+----
+
+Downloads: 
+
+----
+
+Uuid: YcM2NMWo4znRx7sN
