@@ -1,8 +1,6 @@
 <?php snippet('default-page-layout', slots: true);
 slot();
 ?>
-<?= css('assets/css/geschichte.css') ?>
-
 
 <p class="text-gray-700 italic mb-4 max-w-3xl mx-auto">
   Die Historie der KGS Rastede wird stichpunktartig skizziert und fokussiert in chronologischer Reihenfolge
@@ -11,9 +9,8 @@ slot();
   diese Chronologie einen Spiegel der Presse.
 </p>
 
-<ul class="timeline timeline-centered">
-  <?= $page->text()->toBlocks() ?>
-</ul>
+<?= $page->text()->toBlocks() ?>
+
 
 
 <?php endslot(); ?>
