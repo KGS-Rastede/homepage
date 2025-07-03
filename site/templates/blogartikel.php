@@ -28,20 +28,19 @@ slot();
   class="prose prose-lg dark:prose-invert prose-a:text-indigo-600 prose-a:no-underline prose-a:hover:text-indigo-400 prose-a:hover:opacity-75 dark:prose-a:text-indigo-400 dark:prose-a:hover:text-indigo-300 prose-img:rounded-lg"
     >
 
-
   <?php foreach ($page->text()->toLayouts() as $layout): ?>
-    <section class="grid" id="<?= $layout->id() ?>">
-      <div class="row align-items-start">
-        <?php foreach ($layout->columns() as $column): ?>
-          <div class="col">
-            <div class="blocks">
-              <?= $column->blocks() ?>
-            </div>
+  <section class="grid" id="<?= $layout->id() ?>">
+    <div class="grid grid-cols-1 md:grid-cols-<?= $layout->columns()->count() ?> gap-4 items-start">
+      <?php foreach ($layout->columns() as $column): ?>
+        <div>
+          <div class="blocks">
+            <?= $column->blocks() ?>
           </div>
-        <?php endforeach; ?>
-      </div>
-    </section>
-  <?php endforeach; ?>
+        </div>
+      <?php endforeach; ?>
+    </div>
+  </section>
+<?php endforeach; ?>
 
 </article>
 <!-- END Blog Post -->
