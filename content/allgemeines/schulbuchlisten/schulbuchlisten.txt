@@ -1,8 +1,8 @@
-Title: Schulbuchlisten
+Title: Lernmittelausleihe
 
 ----
 
-Text: [{"content":{"text":"<p><strong>Anmeldung zur entgeltlichen Lernmittelausleihe 2023 (\"Schulbuchausleihe\")</strong></p><p>an der KGS Rastede können die meisten Lernmittel gegen Zahlung eines Entgelts ausgeliehen werden. Die Teilnahme an dem Ausleihverfahren ist freiwillig und kann für jedes Schuljahr neu entschieden werden. Auf dieser Seite finden Sie die aktuellen Schulbuchlisten für das Schuljahr 2023/24, eine Anleitung für das Anmeldeverfahren über iServ sowie weitere Informationen.</p><p><strong>Folgende Fristen sind wichtig:</strong></p><p><strong>Anmeldung über iServ: <u>verlängert bis zum 05.07.23!</u></strong></p><p><strong>Spätester Zahlungseingang: verlängert bis zum <u>07.07.2023</u></strong></p><p><strong>Einreichen von Nachweisen (wg. Befreiung/Ermäßigung): bis zum <u>07.07.2023</u></strong></p><p><strong>WICHTIG: Wer die angegebenen Fristen zur Online-Anmeldung, zu den Nachweisen oder zum Zahlungseingang nicht einhält, nimmt am Ausleihverfahren nicht teil und entscheidet sich damit, alle Lernmittel rechtzeitig auf eigene Kosten selbst zu beschaffen.</strong></p>"},"id":"4a3c4e13-5235-4717-be5c-97bf1cc1acdd","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Ermäßigung und Befreiung</strong> </p><p>Leistungsberechtigte nach dem Sozialgesetzbuch SGB II, SGB XIII oder SGB XII, dem Asylbewerberleistungsgesetz, dem Bundeskindergeldgesetz (§6a) oder dem Wohngeldgesetz müssen die Berechtigung durch Vorlage des Leistungsbescheides oder durch Bescheinigung des Leistungsträgers rechtzeitig nachweisen, sonst ist der volle Betrag zu entrichten.</p><p>Familien mit drei und mehr schulpflichtigen Kindern müssen die Berechtigung durch Vorlage von Schülerausweisen, Zeugnissen, Geburtsurkunden der beiden Geschwisterkinder oder entsprechende Bescheinigungen rechtzeitig nachweisen, sonst ist der volle Betrag zu entrichten.</p>"},"id":"442e4d58-8f58-4285-9e32-3da2861a1486","isHidden":false,"type":"text"},{"content":{"pdfdatei":["file://BV27of2bMsE0fJNz"],"beschriftung":"Anleitung für die Anmeldung zur Lernmittelausleihe 2023"},"id":"27857a2d-2bfa-4f7d-ad1e-72fc861f6f27","isHidden":false,"type":"pdfdatei"}]
+Text: [{"content":{"text":"<p><strong>Termine für die Ausgabe der Lernmittel:</strong></p><p><strong>Jahrgang 5:</strong> Die Ausgabe erfolgt am Mittwoch und Donnerstag, 07./08.08.2024, in Raum F013 (19)</p><p><strong>Jahrgang 6:</strong> Die Ausgabe erfolgt am Montag und Dienstag, 05./06.08.2024, in Raum F013 (19)</p><p><strong>Jahrgang 7:</strong> Die Ausgabe erfolgt klassenweise am Montag, 05.08., in Raum A003. Der genaue Zeitplan wird über die Klassenleitungsteams bekannt gegeben.</p><p><strong>Jahrgang 8:</strong> Die Ausgabe erfolgt klassenweise am Dienstag, 06.08., in Raum A004. Der genaue Zeitplan wird über die Klassenleitungsteams bekannt gegeben.</p><p><strong>Jahrgang 9:</strong> Die Ausgabe erfolgt klassenweise am Donnerstag, 08.08., in Raum A005. Der genaue Zeitplan wird über die Klassenleitungsteams bekannt gegeben.</p><p><strong>Jahrgang 10:</strong> Die Ausgabe erfolgt klassenweise am Freitag, dem 09.08., in Raum A012. Der genaue Zeitplan wird über die Klassenleitungsteams bekannt gegeben.</p><p><strong>Jahrgang 11:</strong> Die Ausgabe erfolgt am Mittwoch, dem 07.08., in Raum A011. Der genaue Zeitplan wird über die Klassenleitungsteams bekannt gegeben.</p><p><strong>Jahrgang 12:</strong> Die Ausgabe erfolgt am Mittwoch, dem 07.08., in Raum A010 nach dem ersten Buchstaben des Nachnamens: Buchstaben A-G 10:20 Uhr; Buchstaben H-M 10:40 Uhr; Buchstaben N-S 11:00 Uhr; Buchstaben T-Z 11:15 Uhr</p><p><strong>Jahrgang 13:</strong> Die Ausgabe erfolgt am Mittwoch, dem 07.08., in Raum A010 nach dem ersten Buchstaben des Nachnamens: Buchstaben A-G 11:55 Uhr; Buchstaben H-M 12:15 Uhr; Buchstaben N-S 12:45 Uhr; Buchstaben T-Z 13:05 Uhr</p><p>Ablauf im WPK-Bereich: Die Bücher im WPK-Bereich werden über die Fachlehrerkräfte ausgegeben und am Ende des Schuljahres von ihnen wieder eingesammelt. Ebenso werden die Bücher im RZ für das Profil Gesundheit und Soziales über die Fachlehrerkräfte ausgegeben und am Ende des Schuljahres von ihnen wieder eingesammelt.</p><p><u>SEHR WICHTIG: </u>Sollten Schüler:innen am Ausgabetermin nicht da sein, kommen sie bitte am Montag, 12.08., ab 8.15 Uhr in Raum A003.Dieser Tag dient auch als Puffer, falls ganze Klassen aus technischen oder organisatorischen Gründen (z.B. Zeitverzug) keine Bücher zum geplanten Zeitpunkt bekommen können. In einem solchen Fall bekommen die Klassen für den Freitag einen neuen Ausgabetermin.</p>"},"id":"4a3c4e13-5235-4717-be5c-97bf1cc1acdd","isHidden":true,"type":"text"},{"content":{"text":"<p><strong>Ermäßigung und Befreiung</strong> </p><p>Leistungsberechtigte nach dem Sozialgesetzbuch SGB II, SGB XIII oder SGB XII, dem Asylbewerberleistungsgesetz, dem Bundeskindergeldgesetz (§6a) oder dem Wohngeldgesetz müssen die Berechtigung durch Vorlage des Leistungsbescheides oder durch Bescheinigung des Leistungsträgers rechtzeitig nachweisen, sonst ist der volle Betrag zu entrichten.</p><p>Familien mit drei und mehr schulpflichtigen Kindern müssen die Berechtigung durch Vorlage von Schülerausweisen, Zeugnissen, Geburtsurkunden der beiden Geschwisterkinder oder entsprechende Bescheinigungen rechtzeitig nachweisen, sonst ist der volle Betrag zu entrichten.</p>"},"id":"442e4d58-8f58-4285-9e32-3da2861a1486","isHidden":true,"type":"text"},{"content":{"pdfdatei":["file://nKr3KRF5qJIFYsnZ"],"beschriftung":"Anleitung_Anmeldung_Lernmittelausleihe"},"id":"4aefd0ab-d449-4fa7-8887-6f8fd5c2231d","isHidden":true,"type":"pdfdatei"},{"content":{"text":"<p></p><p><strong>Digitale Schulbücher</strong></p><p>In den Jahrgängen 8, 9, 11 und 12 des Gymnasialzweigs wird im nächsten Schuljahr in einigen Fächern der Einsatz digitaler Schulbücher getestet. Diese sind dann jeweils nicht im Ausleihepaket enthalten, sondern müssen als Lizenz über folgende Adresse erworben werden: <a href=\"https://lernmittel.digital/kgs-rastede/\">https://lernmittel.digital/kgs-rastede/</a></p>"},"id":"cde58afa-3aec-4bac-9afc-6c0087f05329","isHidden":true,"type":"text"},{"content":{"text":"<p><u><strong>ANMELDUNG</strong></u></p><p>Für <strong>alle Schüler:innen</strong> <strong>muss zwischen dem 12.05. und 30.05.2025</strong> eine Anmeldung für das nächste Schuljahr <strong>über das iServ-Konto des Kindes</strong> vorgenommen werden. <strong>Dies gilt für die Ausleihe der Schulbücher und für Selbstkäufer:innen</strong>, da auch die Kopierkosten und der KGS-Planer (KGS-Planer wurde verbindlich eingeführt für die Mittelstufe) über das iServ-Modul verwaltet werden.</p><p>Schüler:innen, die neu an die KGS kommen und noch kein iServ-Konto haben, nehmen die Anmeldung unter folgendem Link vor: <u><a href=\"https://kgs-rastede.eu/buecher\">https://kgs-rastede.eu/buecher</a></u></p><p>Das Modul ist <strong>ab dem 12.05.2025</strong> geöffnet, eine <strong>Anleitung für die Anmeldung</strong> finden Sie unten auf dieser Seite. </p><p><u><strong>GEBÜHREN</strong></u></p><p><strong>Alle Zahlungen</strong> müssen <strong>bis zum 02.06.2025</strong> auf dem Schulkonto eingegangen sein. Bei fehlenden Einzahlungen bis zu diesem Zeitpunkt wird die Anmeldung auf „Selbstkäufer“ gesetzt. Die Bücher müssen dann selbst gekauft werden. Die Gebühren für die Lizenzen der digitalen Schulbücher/Wörterbücher werden gesondert über das Portal (https://lernmittel.digital/kgs-rastede) direkt abgerechnet.</p><p><u><strong>BEFREIUNG / ERMÄßIGUNG</strong></u></p><p>Wenn Sie im Laufe des Anmeldeprozesses eine Befreiung von den Gebühren oder eine Ermäßigung beantragen, müssen folgende Nachweise dafür ebenfalls <strong>bis zum 02.06.2025</strong> im Sekretariat der Feldbreite (Jg. 5/6), der Wilhelmstraße (Jg. 7-13) oder per E-Mail an schulbuchausleihe@kgs-rastede.eu vorgelegt werden:</p><p>• <strong>Für eine Befreiung</strong> muss ein aktueller Leistungsbescheid mit dem Namen des Kindes vorgelegt werden. Befreit werden können Leistungsberechtigte nach dem Sozialgesetzbuch SGB II, SGB XIII oder SGB XII, dem Asylbewerberleistungsgesetz, dem Bundeskindergeldgesetz (§6a) oder dem Wohngeldgesetz. Leistungsbezieher:innen nach dem Wohngeldgesetz sind nur dann freigestellt, wenn durch Wohngeld die Hilfebedürftigkeit im Sinne des § 9 des Sozialgesetzbuches II oder des § 19 Absatz 1 und 2 Sozialgesetzbuch XII vermieden oder beseitigt werden kann. Eine Berechtigung zur Freistellung besteht hier somit nur, wenn zusätzlich zum Leistungsbescheid der Wohngeldstelle eine Bescheinigung der Wohngeldstelle oder des Jobcenters vorgelegt wird, in der bestätigt wird, dass durch Wohngeld die Hilfebedürftigkeit nach den o. g. Vorschriften vermieden oder beseitigt werden kann. Ohne Vorlage eines solchen zusätzlichen Nachweises darf eine Freistellung nicht gewährt werden.</p><p>• <strong>Für eine Ermäßigung</strong>,<strong> </strong>die ab drei schulpflichtigen Kindern gilt, müssen Schulbescheinigungen der Geschwisterkinder, die nicht die KGS besuchen, eingereicht werden.</p><p><strong>Bei fehlenden und oder nicht rechtzeitig eingereichten Nachweisen muss die volle Höhe des Entgelts bezahlt oder müssen die Bücher selbst gekauft werden.</strong></p><p><u><strong>DIGITALE SCHULBÜCHER</strong></u></p><p><strong>In den Jahrgängen 8-13 im Gymnasialzweig</strong> werden <strong>in einigen Fächern</strong> digitale Schulbücher/Wörterbücher eingesetzt. Die <strong>Lizenzen</strong> für diese Bücher sind über das Portal <a href=\"https://lernmittel.digital/kgs-rastede/\">https://lernmittel.digital/kgs-rastede/</a> zu beziehen. Das Portal ist <strong>vom 14.05. bis zum 15.08.</strong> geöffnet. Wenn Sie unsicher sind, in welcher Klassenstufe/ in welchem Schulzweig Ihr Kind im nächsten Schuljahr ist, warten Sie mit dem Kauf der Lizenzen bitte bis zum Beginn des Schuljahres. Rückabwicklungen des Kaufs sind mit einer Bearbeitungsgebühr verbunden. </p><p><strong>Erst nach Schließung des Portals werden die Lizenzen per Mail an alle Schüler:innen versandt</strong>. Hier finden Sie <strong>Anleitungen</strong>, wie die erworbenen Lizenzen auf dem iPad genutzt werden können: <a href=\"https://lernmittel.support/\">https://lernmittel.support/</a> Es ist in der Regel erforderlich, eine App des jeweiligen Schulbuchverlages zu installieren.</p><p>Bei den digitalen Lizenzen ist <strong>keine Ermäßigung</strong> möglich, da die Preise meist ohnehin unter der sonst fälligen Leihgebühr liegen. Nur für BuT-Empfänger:innen ist eine <strong>Befreiung möglich</strong>. Entsprechende Anträge müssen der Schule vorgelegt werden.</p><p><u><strong>FRAGEN</strong></u></p><p>Falls Sie keinen Internetzugang haben, nehmen Sie bitte telefonisch zu uns Kontakt auf (04402-9264-0), damit wir einen Termin für die Anmeldung vor Ort vereinbaren können.</p><p>Bei Rückfragen können Sie uns auch gerne eine Mail schreiben: <a href=\"mailto:schulbuchausleihe@kgs-rastede.eu\">schulbuchausleihe@kgs-rastede.eu</a></p><p>Fragen zu den digitalen Schulbüchern können Sie an info@lernmittel.digital oder über das Kontaktformular auf der Seite <a href=\"https://lernmittel.digital/kgs-rastede/\">https://lernmittel.digital/kgs-rastede/</a> stellen.</p>"},"id":"842ab537-d780-4202-832d-148d5354af02","isHidden":false,"type":"text"},{"content":{"pdfdatei":["file://4DFqiOhe9FSREL2y"],"beschriftung":"Anleitung für die Anmeldung zur Lernmittelausleihe 2025/26"},"id":"e24c69a0-86d4-4eeb-9d57-b21da2f039c6","isHidden":false,"type":"pdfdatei"}]
 
 ----
 
@@ -10,40 +10,40 @@ Schulbuchlistengz:
 
 - 
   link:
-    - file://THhV3jtUYB28cefG
-  name: Schulbuchliste_GZ5
+    - file://gw4rkgwkeni9nygb
+  name: Lernmittelliste_GZ_Jahrgang 5
 - 
   link:
-    - file://rXaRyAUUekZgVQ0s
-  name: Schulbuchliste_GZ6
+    - file://z64roIH7iufTaMnQ
+  name: Lernmittelliste_GZ_Jahrgang 6
 - 
   link:
-    - file://Zzzz0eJ9ga3jEJIZ
-  name: Schulbuchliste_GZ7
+    - file://gIugJSAEUMCjlVd1
+  name: Lernmittelliste_GZ_Jahrgang 7
 - 
   link:
-    - file://PABqfZz1uRi7VhsC
-  name: Schulbuchliste_GZ8
+    - file://cDOvgevVm311soR4
+  name: Lernmittelliste_GZ_Jahrgang 8
 - 
   link:
-    - file://FuyhgUqsNlIdgyIT
-  name: Schulbuchliste_GZ9
+    - file://uqkoedembirbglgs
+  name: Lernmittelliste_GZ_Jahrgang 9
 - 
   link:
-    - file://WVwm01nOOWRhjwH0
-  name: Schulbuchliste_GZ10
+    - file://C9xrtwOPVeHb2JJQ
+  name: Lernmittelliste_GZ_Jahrgang 10
 - 
   link:
-    - file://pXuvT3ey9gx8qsha
-  name: Schulbuchliste_GZ11
+    - file://j8ZF6vkT59nj3JLU
+  name: Lernmittelliste_GZ_Jahrgang 11
 - 
   link:
-    - file://Znnj4aw5Ox1uDvGu
-  name: Schulbuchliste_GZ12
+    - file://9T4Ce9b5hFWHy5fI
+  name: Lernmittelliste_GZ_Jahrgang 12
 - 
   link:
-    - file://mPbwC0QEDn2orcuC
-  name: Schulbuchliste_GZ13
+    - file://qevPlft1Dyyoln8B
+  name: Lernmittelliste_GZ_Jahrgang 13
 
 ----
 
@@ -51,28 +51,28 @@ Schulbuchlistenrz:
 
 - 
   link:
-    - file://tj8pXrKBg05qiuLP
-  name: Schulbuchliste_RZ 5
+    - file://X1aGqXt1sQ1hoLpu
+  name: Lernmittelliste_RZ_Jahrgang 5
 - 
   link:
-    - file://IWnZsiwKNrsNcewL
-  name: Schulbuchliste_RZ6
+    - file://sJT4fGTW8mv8j0NX
+  name: Lernmittelliste_RZ_Jahrgang 6
 - 
   link:
-    - file://PYRBwNNr7FyweOGT
-  name: Schulbuchliste_RZ7
+    - file://YZGbhcAvc8gDbGKU
+  name: Lernmittelliste_RZ_Jahrgang 7
 - 
   link:
-    - file://mra7UYFa1WJOJeTN
-  name: Schulbuchliste_RZ8
+    - file://DHEgGkDqzGFTLkOW
+  name: Lernmittelliste_RZ_Jahrgang 8
 - 
   link:
-    - file://WMV6fOHI6EmYIIOn
-  name: Schulbuchliste_RZ9
+    - file://h2fdbZ0Qc91Nzp0R
+  name: Lernmittelliste_RZ_Jahrgang 9
 - 
   link:
-    - file://7IWEmf67NFVxcG08
-  name: Schulbuchliste_RZ10
+    - file://ExpLwWYxdLAB9uhH
+  name: Lernmittelliste_RZ_Jahrgang 10
 
 ----
 
@@ -80,28 +80,28 @@ Schulbuchlistenhz:
 
 - 
   link:
-    - file://7uSRMWG4DDyPeZ89
-  name: Schulbuchliste_HZ5
+    - file://V4shNMYPndif6VgI
+  name: Lernmittelliste_HZ_Jahrgang 5
 - 
   link:
-    - file://ahS5AWZQHz24g2oO
-  name: Schulbuchliste_HZ6
+    - file://KiLDysYKF7PzmRpu
+  name: Lernmittelliste_HZ_Jahrgang 6
 - 
   link:
-    - file://6abbyE8hGVbYW85A
-  name: Schulbuchliste_HZ7
+    - file://tSIXNheDPb4Z44kE
+  name: Lernmittelliste_HZ_Jahrgang 7
 - 
   link:
-    - file://HinmgtkGDgbrSKAX
-  name: Schulbuchliste_HZ8
+    - file://Gzr0BCMWz1Yg5zOo
+  name: Lernmittelliste_HZ_Jahrgang 8
 - 
   link:
-    - file://NAS6KCsM5fbXtz1X
-  name: Schulbuchliste_HZ9
+    - file://0LqUPjwQ03nZ02zw
+  name: Lernmittelliste_HZ_Jahrgang 9
 - 
   link:
-    - file://b1yxhsem45WMv6LV
-  name: Schulbuchliste_HZ10
+    - file://mlrQoYP6m4E7TvQO
+  name: Lernmittelliste_HZ_Jahrgang 10
 
 ----
 
