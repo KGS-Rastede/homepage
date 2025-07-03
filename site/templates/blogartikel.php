@@ -25,7 +25,9 @@ slot();
 
 <!-- Blog Post -->
 <article
-  class="prose prose-lg prose-gray dark:prose-invert prose-a:no-underline prose-a:hover:opacity-75 prose-img:rounded-lg">
+  class="prose prose-lg dark:prose-invert prose-a:text-indigo-600 prose-a:no-underline prose-a:hover:text-indigo-400 prose-a:hover:opacity-75 dark:prose-a:text-indigo-400 dark:prose-a:hover:text-indigo-300 prose-img:rounded-lg"
+    >
+
 
   <?php foreach ($page->text()->toLayouts() as $layout): ?>
     <section class="grid" id="<?= $layout->id() ?>">

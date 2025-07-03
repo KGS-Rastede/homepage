@@ -18,22 +18,28 @@ if ($block->location() == 'web') {
 
 
 <?php if ($src): ?>
+  <!-- Item -->
+  <div
+    class="group relative overflow-hidden rounded-lg bg-slate-100 focus-within:ring-4 focus-within:ring-slate-500/50 focus-within:ring-offset-2 focus:ring-4 focus:ring-slate-500/50 focus:ring-offset-2 focus:outline-hidden dark:ring-offset-gray-900"
+    tabindex="0"
+  >
+    <img
+      src="<?= $src ?>"
+      alt="<?= $alt ?>"
+    />
+    <!-- es folgt die Caption -->
 
-  <div class="relative w-1/2">
-
-    <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pt-80 pb-8 sm:pt-48 lg:pt-80">
-      <img src="<?= $src ?>" alt="" class="absolute inset-0 -z-10 size-full object-cover">
-
-      <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
-      <?php if ($caption->isNotEmpty()): ?>
-        <div class="flex bg-slate-300/50 justify-center rounded-2xl">
-          <h3 class="mt-3 text-lg/6 font-semibold text-white pb-4 px-4">
-            <?= $caption ?>
-          </h3>
+    <?php if ($caption->isNotEmpty()): ?>
+      <div
+        class="absolute inset-0 flex translate-x-full flex-col items-center justify-center rounded-sm bg-indigo-900/80 opacity-0 transition duration-300 ease-out group-focus-within:translate-x-0 group-focus-within:opacity-100 group-hover:translate-x-0 group-hover:opacity-100 group-focus:translate-x-0 group-focus:opacity-100"
+      >
+        <div class="text-center">
+          <h4 class="text-lg font-semibold text-white"><?= $caption ?></h4>      
         </div>
-      <?php endif; ?>
+      </div>
+    <?php endif; ?>
+    <!-- ENDE Caption -->
 
-    </article>
   </div>
-
+  <!-- END Item -->
 <?php endif; ?>
