@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: cigna8kk5scefedi
+
+----
+
+Template: blocks/image

@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: vft6p98szoe9e2r4
+
+----
+
+Template: blocks/image

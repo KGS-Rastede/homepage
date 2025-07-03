@@ -1,0 +1,33 @@
+Title: Liebeslyrik im Deutschunterricht: Die 09F3 schreibt eigene Strophen zum Gedicht „Dreistufige Drohung“ von Sarah Kirsch
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im Rahmen des Deutschunterrichts zum Thema Liebeslyrik sind die Schüler:innen der Klasse 09F3 kreativ geworden: Sie verfassten eine dritte Strophe zum Gedicht „Dreistufige Drohung“ von Sarah Kirsch, ohne die Originalstrophe zu kennen. Entstanden sind viele eindrucksvolle Ergebnisse, von denen einige von den Schüler:innen zur Veröffentlichung bereitgestellt wurden: </p>"},"id":"4a98df7e-fa34-43e6-8388-92a9e50c2bb6","isHidden":false,"type":"text"}],"id":"30106a6f-e1f3-40bb-a5a4-c714fae336f5","width":"1/1"}],"id":"854f4193-f26a-4db6-9afe-6777370ef198"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://yjnytflgwyglaldo"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"bd40db8f-b824-4440-846c-6a3073590b54","isHidden":false,"type":"image"}],"id":"efba5967-459e-4113-a8dc-b44fc43610ea","width":"1/1"}],"id":"0e532390-7ac3-4039-896b-909e492d6016"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Fortsetzungen der Schüler:innen: </p>"},"id":"db55c775-3067-4a9a-946a-a882521d2eb3","isHidden":false,"type":"text"}],"id":"cd5ea2f4-143b-46c8-b12c-ba77c6ffe5f3","width":"1/1"}],"id":"b3189d82-46aa-47a1-96c2-a995c2c9ca73"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://kpuetilwfzhvn313"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"db53d95c-70a9-4db2-b5dd-cc308f4245a8","isHidden":false,"type":"image"}],"id":"411e64bd-9f3f-487d-a155-3373f47ac3c7","width":"1/1"}],"id":"067b65e1-340c-431a-94a4-899fb97ffbe6"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://k1gd1rwyx5puhhf3"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"bb33adee-e69f-4440-a01b-9960b79b04c9","isHidden":false,"type":"image"}],"id":"b7ed55e6-b141-4bab-9e02-e20482f86681","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://nbavitarlmxr4x6j"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"5649c745-5cad-4dea-ace4-b5279d900f5a","isHidden":false,"type":"image"}],"id":"0a9dafb2-c64c-4ae6-9156-c2b055f0db61","width":"1/2"}],"id":"d5114431-b646-4470-8b34-baf1d0fe0af2"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://cigna8kk5scefedi"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"ff3af450-8094-4c5c-85c6-171660ab9448","isHidden":false,"type":"image"}],"id":"a5ce04ae-6c85-42a9-a826-ee0ffef7a30c","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://viggxflqenmfjjnf"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"15c75c0d-6649-47a7-afce-b85d56bc6092","isHidden":false,"type":"image"}],"id":"8fb6554e-6a45-46f5-a8ff-00d437eb52c1","width":"1/2"}],"id":"56b56103-54ad-4733-916f-240258ee8d11"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im Anschluss erhielten die Schüler:innen die dritte Originalstrophe des Gedichts, die einen bewussten Erwartungsbruch enthält – nicht nur im Vergleich zu den Schüler:innentexten, sondern auch zu den ersten beiden Strophen des Gedichts selbst, in denen das lyrische Ich mit poetischen Drohungen auf die Trennung reagiert:   </p><p>Originalstrophe (Sarah Kirsch):  </p><p>Du musst jetzt fort? </p><p>Gut, ich sag es keinem. </p><p>Ich werde ohne Tränen und Träume schlafen; </p><p>Nichts hindert dich.  </p><p></p><p>In einem anschließenden literarischen Gespräch diskutierten die Schüler:innen, welche Art von Reaktion auf eine Trennung die stärkste Drohung darstellt: die Steigerung von Strafen oder die stille Akzeptanz und Gleichgültigkeit. Sie übertrugen diese Fragestellung auf ihre eigene Lebenswelt und zeigten dabei ein Gespür für zwischenmenschliche Dynamiken und emotionale Reaktionen. Dabei wurde deutlich, dass Lyrikunterricht nicht nur Raum für kreativen Ausdruck schafft, sondern auch persönliche Reflexionen ermöglicht, die über den Unterricht hinausgehen.</p>"},"id":"54211551-8142-4685-bd2b-f417d34cc0ae","isHidden":false,"type":"text"}],"id":"2c4ce293-50dd-4435-b4be-584d493f65f7","width":"1/1"}],"id":"25906b77-0c80-4efb-8bf3-e966a7453098"}]
+
+----
+
+Date: 2025-07-03 11:30:00
+
+----
+
+Datumstartseite: 2025-11-03 11:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Laura Hinrichs
+
+----
+
+Tags: Deutsch
+
+----
+
+Downloads: 
+
+----
+
+Uuid: a6uqpvbcgflbp4yg

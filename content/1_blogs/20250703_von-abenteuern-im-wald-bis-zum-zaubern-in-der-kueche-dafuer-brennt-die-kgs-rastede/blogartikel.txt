@@ -1,0 +1,33 @@
+Title: Von Abenteuern im Wald bis zum Zaubern in der Küche - Dafür brennt die KGS Rastede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://vft6p98szoe9e2r4"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"e46d99ba-889f-4d9f-9921-e2a94b95b70e","isHidden":false,"type":"image"}],"id":"3ce62324-8d96-48c3-9cfa-4f312a512325","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://hshxya5nltxlsjps"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f743a5ff-653f-4dc5-be44-44d0561b0a3e","isHidden":false,"type":"image"}],"id":"f1725f66-001f-46ef-a891-da2905286036","width":"1/2"}],"id":"2e0990db-109c-47a8-b28a-c173a230d8fe"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Fünf Tage lang schallten wunderschöne Klänge aus den Räumen der KGS Rastede, köstliche Gerüche waberten durch die Schulflure und überall begegnete man geschäftigem Treiben, Kreativität, sportlichem Ehrgeiz, Neugierde und Spaß. </p><p>Vom 16. bis zum 20. Juni 2025 fand an der Kooperativen Gesamtschule Rastede die Projektwoche „Wofür brennst du?“ statt. Aus über 80 vielfältigen Projekten für alle Jahrgänge konnten die Schüler:innen im Vorfeld wählen, woran sie teilnehmen wollten. Hauptsächlich wurden diese Projekte von Lehrkräften koordiniert, allerdings boten zum Beispiel auch zahlreiche Schüler:innen und Eltern Projekte an - eine organisatorische Mammut-Aufgabe für das Team der Projektwoche.  </p><p>„Wofür brennst du?“ lautete nun also das Motto der diesjährigen Projektwoche. Was steckt hinter diesem Motto? Frau Giersch und Herr Haßmann, Mitglieder des Orga-Teams, erklärten hierzu: „Das Motto „Wofür brennst du?“ soll die Schüler:innen motivieren, ihren Leidenschaften nachgehen zu können, aber auch Neues auszuprobieren. Die Projekte sollen allen Spaß machen, deswegen sind sie so vielfältig und breit gefächert.“ Herr Haßmann und Frau Giersch erzählten zudem, dass die Schüler:innen eine neue Art des eigenständigen Lernens erproben konnten. Sie durften, anderes als häufig im regulären Unterricht, viele eigene Ideen einfließen lassen und in ihrem eigenen Tempo kreativ und jahrgangsübergreifend gemeinsam arbeiten. Viele Schüler:innen entdeckten eine neue Leidenschaft, neue Talente, ein neues Hobby und viele vor allem auch neue Freund:innen.  </p><p>Der Präsentationstag am 20.06.2025 war ein voller Erfolg. Eltern und Gäste strömten in die Schule, um sich die grandiosen Ergebnisse anzuschauen, die in dem ganzen Gebäude aufgebaut waren und präsentiert wurden. Für das leibliche Wohl wurde vor allem im Forum gesorgt, und in der Aula fanden spannende Theatervorstellungen und Musikauftritte statt. In den einzelnen Räumen konnte man sich unter anderem Tiny-House-Modelle, Märchen in Schuhkartons, Mangas und Cartoons, Kreatives aus selbst geschöpftem Papier, Häkel- und Strickarbeiten, selbst gebastelte Spiele, Stop-Motion-Filme und noch vieles, vieles mehr anschauen. Viele Projekte waren jedoch auch außerhalb der Schule aktiv. Es wurden Fahrradtouren unternommen, Altenheime besucht, Wattwanderungen und Waldspaziergänge unternommen oder das Tierheim und die Wildtierauffangstation inspiziert.  </p><p>Und wofür brennen so unsere Lehrkräfte? Auch diese Frage stellte sich das Projekt „Team Dokumentation“ im Zuge seiner Berichterstattung über die Projektwoche. Frau Bolduan antwortete darauf, dass sie gerne Geschichten schreibe. Einige davon habe sie sogar schon veröffentlicht. In seiner Freizeit gestaltet Herr Pernt spannende Escape Rooms und Frau Eickelkamp erstellt in einem Autorenteam Unterrichtsmaterial für den Westermann Verlag. Herr Lehmann und Herr Breuker haben viel Spaß am Sport - ebenso Frau Klein, denn diese hat jahrelang Rugby gespielt. Frau Berger brennt besonders für ihre Enkelkinder und liebt das Lesen. Ihr Lieblingsautor sei Erich Kästner. Außerdem erzählte sie, wie begeistert sie von den vielfältigen Projekten und den großartigen Ideen der laufenden Projektwoche war. Sie empfand das Motto als besonders passend, da es so viele Freiheiten bieten und der Kreativität keine Grenzen setzen würde.  </p><p>Unsere Projektwoche „Wofür brennst du?“ war ein wirklich großer Erfolg. Unsere Fotoauswahl kann nur einen winzigen Bruchteil der Eindrücke wiedergeben. Wir sind uns sicher, dass diese Woche den Schüler:innen Gelegenheit geboten hat, Schule einmal ganz anders zu erleben, Neues auszuprobieren, gemeinschaftlich Ziele zu verfolgen, und dass die Schulgemeinschaft in dieser Zeit gestärkt wurde!  </p><p>Die KGS Rastede brennt für diese Projektwoche und wir sagen allen Beteiligten DANKE!</p>"},"id":"f20a48e5-bc55-48d3-92ab-bd99603d0be3","isHidden":false,"type":"text"}],"id":"4c44e674-58cc-4aba-a0ee-02a8f2268ef5","width":"1/1"}],"id":"b0af2125-4488-4da1-a858-2db561e61765"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://j6es0ebadfjxzrmt"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c235d25c-7271-4671-8dc3-834e90972ca5","isHidden":false,"type":"image"}],"id":"c046105c-690d-436a-b036-9d1cf9579dca","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://auauzczcdvgsbzl8"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"95e2f398-2cff-4c92-bda8-5fa6f8838da5","isHidden":false,"type":"image"}],"id":"66dcad63-a41f-4c65-a735-f6da537c8f67","width":"1/2"}],"id":"f85f5805-0bfb-484b-99a5-7a2e2076b064"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://sznxqcdiyva13kir"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f023ff83-a94a-412b-a517-39c463c9a4cd","isHidden":false,"type":"image"}],"id":"1ee13583-0c42-4961-a92e-6c37cb75dc51","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://cciwrhrynlia0bfp"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f02946b1-0e2b-4076-9754-9278637361d2","isHidden":false,"type":"image"}],"id":"66c37255-4736-4528-9652-72d4ce6e4aa8","width":"1/2"}],"id":"a5d12322-dd34-4ddf-b1a8-58115d791ace"}]
+
+----
+
+Date: 2025-07-03 11:25:00
+
+----
+
+Datumstartseite: 2025-11-03 11:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Von Lisa Poppek (9B2) aus dem Team Dokumentation
+
+----
+
+Tags: Projektwoche
+
+----
+
+Downloads: 
+
+----
+
+Uuid: hs57sxgnqzrwozu0

@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: yjnytflgwyglaldo
+
+----
+
+Template: blocks/image

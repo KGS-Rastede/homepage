@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: kpuetilwfzhvn313
+
+----
+
+Template: blocks/image

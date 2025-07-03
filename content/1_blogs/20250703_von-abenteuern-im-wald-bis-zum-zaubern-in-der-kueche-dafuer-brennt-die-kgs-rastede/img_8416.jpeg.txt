@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: cciwrhrynlia0bfp
+
+----
+
+Template: blocks/image

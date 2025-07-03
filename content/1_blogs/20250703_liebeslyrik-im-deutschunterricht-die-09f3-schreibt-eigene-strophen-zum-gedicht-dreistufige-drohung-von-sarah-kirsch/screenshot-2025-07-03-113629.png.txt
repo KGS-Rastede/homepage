@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: nbavitarlmxr4x6j
+
+----
+
+Template: blocks/image
