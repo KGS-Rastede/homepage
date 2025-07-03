@@ -1,0 +1,9 @@
+Anzeigename: Datenschutzerklärung für Eltern, Schülerinnen und Schüler
+
+----
+
+Uuid: gPKrWCk37b0Hvxh5
+
+----
+
+Template: pdfs
