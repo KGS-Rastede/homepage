@@ -227,9 +227,7 @@
                             </h4>
                             <div class="grid grid-cols-3 gap-4 xl:gap-8">
                                 <a
-                                    href="<?= page('navbar')
-                                      ->Linkmenue2_1()
-                                      ->toUrl() ?>"
+                                    href="https://wiki.kgs-rastede.de/de/eltern/elterninfos_kompakt"
                                     class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
                                     <div
                                         class="flex h-32 items-center justify-center rounded-lg border border-gray-200 bg-white text-emerald-500 dark:border-gray-700/75 dark:bg-gray-900/50 dark:text-emerald-400">
