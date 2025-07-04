@@ -1,0 +1,33 @@
+Title: Der Reitkurs des 12. Jahrgangs
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://hpoqaub4wj0oojon"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"0c5292c5-b441-4dd1-bb34-1eb8e508c0b6","isHidden":false,"type":"image"}],"id":"25e27f56-5b8e-47bb-adef-961cb56cbfc3","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://tmssr6slq8k9yrbz"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"cc0224a1-70d3-46f9-8bdf-ef7fd24418a7","isHidden":false,"type":"image"}],"id":"ae95fc0a-1125-44ea-9e16-ff7cd0daac67","width":"1/2"}],"id":"8cc9426a-c235-414b-becf-0fe5da563005"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Damals, bei den Wahlen, habe ich den gesehen – neben der Skiwahl – und dachte mir so: Hmm, das sieht aber interessant aus. Ski fahren kann man irgendwie immer, das wird schon nicht so schwer sein – fahren ja dauernd Leute dahin.</p><p>Aber Reiten, das klingt doch schon so, als würde man da in meinem Alter nicht mehr so einfach reinkommen. Also habe ich’s gewählt, um mal zu sehen, wie das so ist und um verstehen zu können, warum so viele Menschen Reiten so toll finden.</p><p>Ich hatte zu dem Zeitpunkt kaum Kontakt zu Pferden gehabt – in dem Sinne, dass ich sie geritten wäre. Einmal saß ich als Kind auf einem Pony, als meine Schwester unbedingt nach Pony Park City wollte. Jetzt im Nachhinein kann ich mir auch nicht wirklich vorstellen, dass die Pferde das so wirklich genossen haben.<br>Ja, auf jeden Fall waren dann die ersten paar Orga-Treffen, und es wurde irgendwie ein bisschen realer. Wir haben uns so ein bisschen erst mit unseren Vorstellungen und so weiter befasst und sind da ganz langsam rangegangen.</p><p>Es gab auch Referatsthemen. Will ich ganz ehrlich sein: Auf die hätte man auch gerne verzichten können – aber nur, weil sie nervig zu machen sind. Inhaltlich waren sie nötig und extremst hilfreich, um einen Eindruck vom Reiten als Ganzes zu erhalten.<br></p><p>Kurz bevor wir dann auf die Reitwoche gefahren sind, hatten wir eine Sportstunde, in der wir ein paar Übungen gemacht haben, um uns aufs Reiten vorzubereiten. Ich habe mich da ziemlich lost gefühlt, weil man so in eine fremde Welt langsam eingetaucht ist, von der man vorher immer nur gehört hatte.<br>Als wir dann aber am Sonntag angereist waren und die ersten geritten sind, wurde es realer. Generell war die Stimmung sehr schön, und man hat von Anfang an gemerkt, dass Frau Brossmann Ahnung hatte von dem, was sie da tat (sehr viel Ahnung).<br></p><p>Als wir als blutige Anfänger dann am Montag, dem ersten richtigen Tag, auf dieses Pferd steigen sollten – nachdem wir es gesäubert und gesattelt hatten mithilfe unserer erfahrenen Begleitpersonen – hat man sich noch loster gefühlt, weil man nicht wusste, was man denn nun tun soll, um mit diesem Lebewesen unter einem zu kommunizieren. Zum Glück wurde einem diese Unsicherheit sehr schnell durch klare Anweisungen genommen.<br></p><p>Und da wir als Anfänger klugerweise von den Erfahrenen ans Trensen und Führen herangeführt wurden, konnte man sich gut darauf konzentrieren, seinen Sitz zu verbessern. Damit das klappte, gab es immer ein paar kleine Tipps von Frau Brossmann sowie eine Nachbesprechung nach dem ersten Mal über die eigenen Schwächen sowie sehr viel Hilfestellung und Übungen, wie man diese denn minimieren bzw. loswerden kann.<br></p><p>Viel kann ich kaum noch schreiben über die folgenden Tage, da dann auf einmal alles so schnell ging. Jeden Tag hat man in den jeweils zwei Reitstunden pro Tag immer mehr gelernt und immer mehr Verantwortung fürs Pferd übernommen. Man konnte bei den Reitstunden der Erfahreneren sich auch immer kleine Tipps abgucken und zuhören, um etwas zu lernen – während man die Hufe auskratzte oder die Stallgasse fegte.<br></p><p>Gegen Ende der Woche haben wir dann noch einen kleinen Anfänger-Ausritt gemacht, bei dem wir geführt wurden – was auch eine ganz neue Erfahrung war, nicht mehr einfach nur in der Reithalle im Kreis zu laufen.<br></p><p>Über die Zeit hatte man dann auch eine immer nähere Bindung zu dem Pferd, das einem zugeteilt wurde. \"Zugewiesen\" klingt so hart und steif, aber es gab auch viele Änderungen, um es passender zu machen, und die Zuteilung war mehr nach dem, was zu einem passte, als nach dem, was da war – was von viel Können zeugt, zumindest aus meiner Sicht.<br></p><p>Am vorletzten Tag war dann Generalprobe, und am letzten Tag, dem Freitag, noch die Prüfung, bei der wir zeigen sollten, was wir in der Woche gelernt hatten. Zwischendurch wurden abends und mittags immer noch die Referate eingeschmissen, und bei den Mahlzeiten – die liebevoll von Asta zubereitet wurden – konnte man sich immer schön austauschen. Auch wenn dies oft über die richtige Betitelung der Nutella ging.<br></p><p>Alles in allem konnte ich als Anfänger aus der Woche extrem viel mitnehmen und habe einen viel besseren Einblick bekommen – sogar so weit, dass ich jetzt drüber nachdenke, es zu meinem Hobby zu machen.<br></p><p>Also wenn ihr noch nie Reiten wart: Probiert es ruhig mal aus – was soll schon passieren? Aber auch die Erfahrenen haben, glaube ich, viel gelernt. Zumindest konnten sie sich perfektionieren und hatten – soweit ich es beurteilen kann – auch Spaß.<br>Am Ende hätten wir alle nochmal eine zweite Woche machen wollen – wirklich ein sehr gelungener Sportkurs.<br><br>Wenn das zu viel ist, kürze ich was raus. Die Fotos im Anhang dürfen gerne dazu. <br>Viele Grüße und schöne unterrichtsfreie Zeit Nina</p>"},"id":"e5d5727b-f1b8-4b01-b536-397bd656b4b8","isHidden":false,"type":"text"}],"id":"261af5c5-4218-43a8-9c88-4ffc8392b62b","width":"1/1"}],"id":"d5a51db2-49d3-45dd-bca7-b96ef88bf865"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://zpwllv9zmktolrav"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"1a27af0b-c1d9-4a29-b783-e466636c7490","isHidden":false,"type":"image"}],"id":"6090f4bd-1373-4a11-80a9-f184651f462a","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://dxbbmogcgdsynbcq"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"b35b429f-e06f-44b4-af94-ad6028935a0c","isHidden":false,"type":"image"}],"id":"b223cc5a-c495-4653-90f6-63757cdb681f","width":"1/2"}],"id":"683d83c3-6acd-4717-a143-fef379b581f4"}]
+
+----
+
+Date: 2025-07-03 12:00:00
+
+----
+
+Datumstartseite: 2025-11-03 12:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Nina Brossmann
+
+----
+
+Tags: Reitkurs
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 2av8bt4z0lkfjuxx

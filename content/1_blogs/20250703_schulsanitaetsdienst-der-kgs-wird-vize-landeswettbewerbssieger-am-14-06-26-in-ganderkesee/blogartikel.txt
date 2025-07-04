@@ -1,0 +1,33 @@
+Title: Schulsanitätsdienst der KGS wird Vize-Landeswettbewerbssieger am 14.06.26 in Ganderkesee
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://edgnjelgksrn2e3s"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"57957390-aaf7-4044-a69e-7e3e40d27b88","isHidden":false,"type":"image"}],"id":"3d9073f3-0f39-41b3-857b-706f3c5525f9","width":"1/1"}],"id":"82bd6b12-657e-42b0-8644-96faf40a1e25"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Schulsanitätsdienst der KGS wird Vize-Landeswettbewerbssieger </p><p>Ein aufregender und erfolgreicher Tag liegt hinter dem Schulsanitätsdienst der KGS: Beim Landeswettbewerb der Schulsanitätsdienste und Jugend Rot Kreuz Gruppen am 14.06.25 in Ganderkesee, erreichte unser Team den hervorragenden 2. Platz – und das mit nur 17 Punkten Rückstand auf die siegreiche Jugendrotkreuz-Gruppe aus Apen. </p><p>Der Wettbewerb begann mit einer besonders herausfordernden Ersten-Hilfe-Einzelprüfung. Das Szenario: ein simulierter Chemieunfall in der Schule. Unsere Sanis mussten sich um mehrere „Verletzte“ mit Symptomen wie Rauchgasvergiftung, blutenden Wunden, Verwirrtheit, Asthma und Herz-Kreislauf-Problemen kümmern. Ein komplexes Einsatzbild, das viele Ressourcen und schnelles, überlegtes Handeln verlangte. Möglicherweise hat uns genau dieser schwere Einstieg den knappen Sieg gekostet. Im weiteren Verlauf des Wettbewerbs zeigte unser Team jedoch seine ganze Stärke: Im Bereich Rotkreuz-Wissenüberzeugten die KGS-Sanis mit hoher Fachkompetenz und großer Sicherheit. </p><p>Auch in den Kategorien Soziales, Musisch-Kulturelles sowie Sport, Spiel und Freizeit zahlte sich die jahrelange Zusammenarbeit und Erfahrung der Gruppe aus. Das eingespielte Team meisterte alle Aufgaben mit Teamgeist, Kreativität und viel Freude – und es wurde auch herzlich gelacht. </p><p>Mit dem Titel „Bester Schulsanitätsdienst im Landesverband“ und dem Vize-Landeswettbewerbstitel kann unser Team mehr als stolz auf sich sein. Ein rundum gelungener Abschluss für ein erfolgreiches Schuljahr!</p>"},"id":"69dfe910-b36d-4979-8542-d26e73f2f285","isHidden":false,"type":"text"}],"id":"c456b34a-9473-47bb-802b-f8f44b922f41","width":"1/1"}],"id":"93a1e7b8-fddc-4edc-9850-6c89053e643e"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://y0hvzok0qjmsr0n4"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"2724fabf-477a-4092-882d-3974316d5e0b","isHidden":false,"type":"image"}],"id":"6f9a0937-70ab-4680-b1f6-a1a32746db16","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://jfyk1heylkj4npl8"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"729f0513-a735-48b6-9adb-1add398cbcae","isHidden":false,"type":"image"}],"id":"5fe6a8cd-464f-484a-b65e-a2f0cf1f5ca7","width":"1/2"}],"id":"4601b004-9bd4-4a7b-b7ca-3a1e1f892ff1"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ehkzgmasdhbefsr7"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"3c78da89-e8d1-495f-a9f6-be0915ef1b0e","isHidden":false,"type":"image"}],"id":"fa1d7ccf-2f52-4a6e-bcec-6ef73ea9695d","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://dgpgnon7yco7z2a3"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"cb32ea8e-7981-4146-8a4a-c9e2dec589ba","isHidden":false,"type":"image"}],"id":"dc126853-dd50-48d8-b382-e85bbe64139a","width":"1/2"}],"id":"74bab50f-ff1d-4bdd-994a-4e3b559956bb"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://c5loqmzjbfi7zvfj"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"eef072d0-a7a9-4ac8-a64e-7b984dd8914d","isHidden":false,"type":"image"}],"id":"46e8d47c-162f-43d1-9be9-14922f6b3e45","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://icctlxmwekh8tsbp"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"3cb00fc9-ed1a-43f4-bb90-cbe670525b2c","isHidden":false,"type":"image"}],"id":"de559ca9-9565-47e6-a562-ef0085f9c1da","width":"1/2"}],"id":"5c90fb41-4f03-4ed9-8469-1c59e69eb77a"}]
+
+----
+
+Date: 2025-07-03 11:55:00
+
+----
+
+Datumstartseite: 2025-11-03 11:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Carsten Teske
+
+----
+
+Tags: Wettbewerb, Schulsanitätsdienst
+
+----
+
+Downloads: 
+
+----
+
+Uuid: jdowf05p5dd3nk7j

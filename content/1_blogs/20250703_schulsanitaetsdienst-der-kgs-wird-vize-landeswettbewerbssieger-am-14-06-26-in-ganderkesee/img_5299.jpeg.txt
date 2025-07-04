@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: dgpgnon7yco7z2a3
+
+----
+
+Template: blocks/image
