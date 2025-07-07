@@ -1,8 +1,12 @@
+Title: Highlights im Menü
+
+----
+
 Linkmenue1-1: page://sYpQWRLtgRedw1vw
 
 ----
 
-Linkmenue1-1-text: fdghfdgh
+Linkmenue1-1-text: 1. Link "Über die Schule"
 
 ----
 
@@ -10,15 +14,15 @@ Linkmenue1-2: https://heise.de
 
 ----
 
-Linkmenue1-2-text: sadfgsdfg
+Linkmenue1-2-text: zweiter link "Über die Schule"
 
 ----
 
-Linkmenue2-1: page://gm098sb3tnigakoa
+Linkmenue2-1: https://www.zeit.de
 
 ----
 
-Linkmenue2-1-text: sdfsadf
+Linkmenue2-1-text: 1. Link "Über die Schule"
 
 ----
 
@@ -26,7 +30,7 @@ Linkmenue2-2: page://nnXB74h0e1L8XeGg
 
 ----
 
-Linkmenue2-2-text: asdfasdf
+Linkmenue2-2-text: 2. Link "Über die Schule"
 
 ----
 
@@ -34,7 +38,7 @@ Linkmenue3-1: page://gm098sb3tnigakoa
 
 ----
 
-Linkmenue3-1-text: asdfasdf
+Linkmenue3-1-text: 1. Link "Informationen"
 
 ----
 
@@ -42,7 +46,7 @@ Linkmenue3-2: page://r5GGlS3XnBei9xZx
 
 ----
 
-Linkmenue3-2-text: asdfdgh
+Linkmenue3-2-text: 2. Link "Informationen"
 
 ----
 

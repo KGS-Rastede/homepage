@@ -1,3 +1,7 @@
+<?php
+$navbar = page('navbar'); // 'navbar' ist der Slug
+?>
+
 <!-- Main Header Section: With Mega Menu -->
 <div
     class="z-50 relative bg-white dark:bg-gray-900 dark:text-gray-100">
@@ -80,30 +84,19 @@
                                 Aktuelles
                             </h4>
                             <div class="grid grid-cols-2 gap-4 xl:gap-8">
-                                <a
-                                    href="https://kgs-rastede.de/blogs/anmeldung-5"
-                                    class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
-                                    <img
-                                        src="https://cdn.tailkit.com/media/placeholders/photo-8pb7Hq539Zw-300x180.jpg"
-                                        class="rounded-lg"
-                                        alt="Preview Image" />
-                                    <h5>
-                                        Anmeldung JG 5
-                                    </h5>
-                                </a>
-                                <a
-                                    href="https://kgs-rastede.de/blogs/wpk-wahl-jahrgang-5-im-realschulzweig"
-                                    class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
-                                    <img
-                                        src="https://cdn.tailkit.com/media/placeholders/photo-TxXuh_hAFd8-300x180.jpg"
-                                        class="rounded-lg"
-                                        alt="Preview Image" />
-                                    <h5>
-                                        Wahlen WPK JG 5
-                                    </h5>
-                                </a>
+                                <?= snippet('highlightfeld_menu', 
+                                [
+                                    'feld_link' => $navbar->linkmenue1_1()->toUrl(),
+                                    'feld_text' => $navbar->linkmenue1_1_text()->value(),
+                                ]) ?>
+                                <?= snippet('highlightfeld_menu', 
+                                [
+                                    'feld_link' => $navbar->linkmenue2_2()->toUrl(),
+                                    'feld_text' => $navbar->linkmenue2_2_text()->value(),
+                                ]) ?>
                             </div>
                         </div>
+
                     </div>
                     <?php endslot(); ?>
                     <?php endsnippet(); ?>
@@ -169,25 +162,16 @@
                                 class="font-semibold tracking-wider text-kgs-blue uppercase dark:text-kgs-lblue">
                                 Aktuell im Fokus
                             </h4>
-                            <a
-                                href="/unterricht/herausforderungsprojekt/herausforderungsprojekt-2025"
-                                class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
-                                <div
-                                    class="flex h-32 items-center justify-center rounded-lg border border-gray-200 bg-white text-kgs-blue dark:border-gray-700/75 dark:bg-gray-900/50 dark:text-kgs-lblue">
-                                    <svg
-                                        class="hi-mini hi-document-text inline-block size-10"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        viewBox="0 0 20 20"
-                                        fill="currentColor"
-                                        aria-hidden="true">
-                                        <path
-                                            fill-rule="evenodd"
-                                            d="M4.5 2A1.5 1.5 0 003 3.5v13A1.5 1.5 0 004.5 18h11a1.5 1.5 0 001.5-1.5V7.621a1.5 1.5 0 00-.44-1.06l-4.12-4.122A1.5 1.5 0 0011.378 2H4.5zm2.25 8.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-6.5zm0 3a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-6.5z"
-                                            clip-rule="evenodd" />
-                                    </svg>
-                                </div>
-                                <h5>Herausforderungsprojekt 2025</h5>
-                            </a>
+                            <?= snippet('highlightfeld_menu', 
+                                [
+                                    'feld_link' => $navbar->linkmenue2_1()->toUrl(),
+                                    'feld_text' => $navbar->linkmenue2_1_text()->value(),
+                                ]) ?>
+                             <?= snippet('highlightfeld_menu', 
+                                [
+                                    'feld_link' => $navbar->linkmenue2_2()->toUrl(),
+                                    'feld_text' => $navbar->linkmenue2_2_text()->value(),
+                                ]) ?> 
                         </div>
                     </div>
                     <?php endslot(); ?>
@@ -226,25 +210,17 @@
                                 <?= page('navbar')->Linkmenue2_1()->toUrl() ?>
                             </h4>
                             <div class="grid grid-cols-3 gap-4 xl:gap-8">
-                                <a
-                                    href="https://wiki.kgs-rastede.de/de/eltern/elterninfos_kompakt"
-                                    class="block space-y-3 text-sm font-semibold transition-opacity hover:text-kgs-blue hover:opacity-90 dark:hover:text-kgs-lblue">
-                                    <div
-                                        class="flex h-32 items-center justify-center rounded-lg border border-gray-200 bg-white text-emerald-500 dark:border-gray-700/75 dark:bg-gray-900/50 dark:text-emerald-400">
-                                        <svg
-                                            class="hi-mini hi-users inline-block size-10"
-                                            xmlns="http://www.w3.org/2000/svg"
-                                            viewBox="0 0 20 20"
-                                            fill="currentColor"
-                                            aria-hidden="true">
-                                            <path
-                                                d="M7 8a3 3 0 100-6 3 3 0 000 6zM14.5 9a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM1.615 16.428a1.224 1.224 0 01-.569-1.175 6.002 6.002 0 0111.908 0c.058.467-.172.92-.57 1.174A9.953 9.953 0 017 18a9.953 9.953 0 01-5.385-1.572zM14.5 16h-.106c.07-.297.088-.611.048-.933a7.47 7.47 0 00-1.588-3.755 4.502 4.502 0 015.874 2.636.818.818 0 01-.36.98A7.465 7.465 0 0114.5 16z" />
-                                        </svg>
-                                    </div>
-                                    <h5>
-                                        Elterninformationen
-                                    </h5>
-                                </a>
+                                
+                            <?= snippet('highlightfeld_menu', 
+                                [
+                                    'feld_link' => $navbar->linkmenue3_1()->toUrl(),
+                                    'feld_text' => $navbar->linkmenue3_1_text()->value(),
+                                ]) ?>
+                                <?= snippet('highlightfeld_menu', 
+                                [
+                                    'feld_link' => $navbar->linkmenue3_2()->toUrl(),
+                                    'feld_text' => $navbar->linkmenue3_2_text()->value(),
+                                ]) ?>
 
                             </div>
                         </div>
