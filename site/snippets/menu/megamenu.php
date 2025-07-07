@@ -86,6 +86,9 @@ $navbar = page('navbar');
                             </h4>
                             <div class="grid grid-cols-2 gap-4 xl:gap-8">
                                 <?= snippet('highlightfeld_menu', [
+                                  'feld_bild' => $navbar
+                                    ->bild_1_1()
+                                    ->toFile(),
                                   'feld_toggle' => $navbar
                                     ->toggle1_1()
                                     ->toBool(),
@@ -97,6 +100,9 @@ $navbar = page('navbar');
                                     ->value(),
                                 ]) ?>
                                 <?= snippet('highlightfeld_menu', [
+                                  'feld_bild' => $navbar
+                                    ->bild_1_2()
+                                    ->toFile(),
                                   'feld_toggle' => $navbar
                                     ->toggle1_2()
                                     ->toBool(),
@@ -176,6 +182,9 @@ $navbar = page('navbar');
                                 Aktuell im Fokus
                             </h4>
                             <?= snippet('highlightfeld_menu', [
+                              'feld_bild' => $navbar
+                                    ->bild_2_1()
+                                    ->toFile(),
                               'feld_toggle' => $navbar->toggle2_1()->toBool(),
                               'feld_link' => $navbar->linkmenue2_1()->toUrl(),
                               'feld_text' => $navbar
@@ -183,6 +192,9 @@ $navbar = page('navbar');
                                 ->value(),
                             ]) ?>
                              <?= snippet('highlightfeld_menu', [
+                              'feld_bild' => $navbar
+                                    ->bild_2_2()
+                                    ->toFile(),
                                'feld_toggle' => $navbar->toggle2_2()->toBool(),
 
                                'feld_link' => $navbar->linkmenue2_2()->toUrl(),
@@ -230,6 +242,9 @@ $navbar = page('navbar');
                             <div class="grid grid-cols-3 gap-4 xl:gap-8">
                                 
                             <?= snippet('highlightfeld_menu', [
+                              'feld_bild' => $navbar
+                                    ->bild_3_1()
+                                    ->toFile(),
                               'feld_toggle' => $navbar->toggle3_1()->toBool(),
 
                               'feld_link' => $navbar->linkmenue3_1()->toUrl(),
@@ -238,6 +253,9 @@ $navbar = page('navbar');
                                 ->value(),
                             ]) ?>
                                 <?= snippet('highlightfeld_menu', [
+                                  'feld_bild' => $navbar
+                                    ->bild_3_2()
+                                    ->toFile(),
                                   'feld_toggle' => $navbar
                                     ->toggle3_2()
                                     ->toBool(),
