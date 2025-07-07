@@ -22,6 +22,7 @@ $count = -1;
              alt="<?= $alt[$count] ?>"
              class="max-h-16 md:max-h-32">
       </a>
-    <?php endforeach; ?>
+    <?php
+    endforeach; ?>
   </div>
 </div>

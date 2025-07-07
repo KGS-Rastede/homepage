@@ -35,7 +35,9 @@ slot();
 
   <?php foreach ($page->text()->toLayouts() as $layout): ?>
   <section class="grid" id="<?= $layout->id() ?>">
-    <div class="grid grid-cols-1 md:grid-cols-<?= $layout->columns()->count() ?> gap-4 items-start">
+    <div class="grid grid-cols-1 md:grid-cols-<?= $layout
+      ->columns()
+      ->count() ?> gap-4 items-start">
       <?php foreach ($layout->columns() as $column): ?>
         <div>
           <div class="blocks">

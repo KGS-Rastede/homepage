@@ -35,12 +35,12 @@
           default:
             $bildURL = '';
         }
-      ?>
+        ?>
         <li class="flex items-center even:bg-slate-50 odd:bg-white odd:hover:bg-slate-200 even:hover:bg-slate-300 p-4">
 
           <?php
-          // URL ist leer -> keine bestimmte Seite -> default icon
-          ?>
+        // URL ist leer -> keine bestimmte Seite -> default icon
+        ?>
           <?php if (empty($bildURL)) { ?>
             <i class="bi bi-box-arrow-up-right mr-4"></i>
             <?php

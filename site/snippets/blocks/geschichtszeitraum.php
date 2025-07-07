@@ -23,44 +23,64 @@
   <!-- Timeline -->
   <ul class="relative space-y-4 pl-10 md:pl-12 lg:pl-0">
     <?php if ($block->ereignis1()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-links', ['ereignistext' => $block->ereignis1()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-links', [
+    'ereignistext' => $block->ereignis1(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis2()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-rechts', ['ereignistext' => $block->ereignis2()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-rechts', [
+    'ereignistext' => $block->ereignis2(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis3()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-links', ['ereignistext' => $block->ereignis3()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-links', [
+    'ereignistext' => $block->ereignis3(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis4()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-rechts', ['ereignistext' => $block->ereignis4()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-rechts', [
+    'ereignistext' => $block->ereignis4(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis5()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-links', ['ereignistext' => $block->ereignis5()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-links', [
+    'ereignistext' => $block->ereignis5(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis6()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-rechts', ['ereignistext' => $block->ereignis6()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-rechts', [
+    'ereignistext' => $block->ereignis6(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis7()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-links', ['ereignistext' => $block->ereignis7()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-links', [
+    'ereignistext' => $block->ereignis7(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis8()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-rechts', ['ereignistext' => $block->ereignis8()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-rechts', [
+    'ereignistext' => $block->ereignis8(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis9()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-links', ['ereignistext' => $block->ereignis9()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-links', [
+    'ereignistext' => $block->ereignis9(),
+  ]) ?>
+<?php endif; ?>
 
 <?php if ($block->ereignis10()->isNotEmpty()): ?>
-  <?= snippet('geschichtsereignis-rechts', ['ereignistext' => $block->ereignis10()]) ?>
-<?php endif ?>
+  <?= snippet('geschichtsereignis-rechts', [
+    'ereignistext' => $block->ereignis10(),
+  ]) ?>
+<?php endif; ?>
 
   </ul>
   <!-- END Timeline -->
