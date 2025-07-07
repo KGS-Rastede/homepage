@@ -1,118 +1,141 @@
 title: Menü - Highlights definieren
 
-fields:
-  toggle1_1:
-      label: Menü 1, Highlight 1 Im Menü anzeigen?
-      type: toggle
-      text:
-        - "nein"
-        - "ja"
-  menue1:
-    label: Menü "Über die Schule"
-    type: headline
-  linkmenue1_1:
-    label: 'Erster Link'
-    type: link
-    options:
-      - page
-      - url
-  linkmenue1_1_text:
-    type: text
-    label: Beschriftung
+tabs:
+  menu_1:
+    label: Über die Schule
+    icon: text
+    fields:
+      menue1:
+        label: Menü "Über die Schule"
+        type: headline
+      
+      toggle1_1:
+          label: Menü 1, Highlight 1 Im Menü anzeigen?
+          type: toggle
+          text:
+            - "nein"
+            - "ja"
   
-  toggle1_2:
-      label: Menü 1, Highlight 2 Im Menü anzeigen?
-      type: toggle
-      text:
-        - "nein"
-        - "ja"
-  linkmenue1_2:
-    label: 'Zweiter Link'
-    type: link
-    options:
-      - page
-      - url
-  linkmenue1_2_text:
-    type: text
-    label: Beschriftung
-  lineB:
-    type: line
+      linkmenue1_1:
+        label: 'Erster Link'
+        type: link
+        options:
+          - page
+          - url
+      linkmenue1_1_text:
+        type: text
+        label: Beschriftung
+
+
+      toggle1_2:
+          label: Menü 1, Highlight 2 Im Menü anzeigen?
+          type: toggle
+          text:
+            - "nein"
+            - "ja"
+      linkmenue1_2:
+        label: 'Zweiter Link'
+        type: link
+        options:
+          - page
+          - url
+      linkmenue1_2_text:
+        type: text
+        label: Beschriftung
+      lineB:
+        type: line
+
+
+  menu_2:
+    label: Unterricht und Schulleben
+    icon: text
+    fields:      
+      menue2:
+        label: Menü "Unterricht und Schulleben"
+        type: headline
+
+
+      toggle2_1:
+        label: Menü 2, Highlight 1 Im Menü anzeigen?
+        type: toggle
+        text:
+          - "nein"
+          - "ja"
+      
+      linkmenue2_1:
+        label: 'Erster Link'
+        type: link
+        options:
+          - page
+          - url
+      linkmenue2_1_text:
+        type: text
+        label: Beschriftung
+
+
+      toggle2_2:
+          label: Menü 2, Highlight 2 Im Menü anzeigen?
+          type: toggle
+          text:
+            - "nein"
+            - "ja"
+      linkmenue2_2:
+        label: 'Zweiter Link'
+        type: link
+        options:
+          - page
+          - url
+      linkmenue2_2_text:
+        type: text
+        label: Beschriftung
+      lineC:
+        type: line
 
 
 
-  menue2:
-    label: Menü "Unterricht und Schulleben"
-    type: headline
-  
-  toggle2_1:
-    label: Menü 2, Highlight 1 Im Menü anzeigen?
-    type: toggle
-    text:
-      - "nein"
-      - "ja"
-  
-  linkmenue2_1:
-    label: 'Erster Link'
-    type: link
-    options:
-      - page
-      - url
-  linkmenue2_1_text:
-    type: text
-    label: Beschriftung
+  menu_3:
+    label: Informationen
+    icon: text
+    fields:  
+      menue3:
+        label: Menü "Informationen"
+        type: headline
+      
+      
 
+      menue3:
+        label: Menü "Informationen"
+        type: headline
 
-  toggle2_2:
-      label: Menü 2, Highlight 2 Im Menü anzeigen?
-      type: toggle
-      text:
-        - "nein"
-        - "ja"
-  linkmenue2_2:
-    label: 'Zweiter Link'
-    type: link
-    options:
-      - page
-      - url
-  linkmenue2_2_text:
-    type: text
-    label: Beschriftung
-  lineC:
-    type: line
+      toggle3_1:
+        label: Menü 3, Highlight 1 Im Menü anzeigen?
+        type: toggle
+        text:
+          - "nein"
+          - "ja"
 
-  menue3:
-    label: Menü "Informationen"
-    type: headline
+      linkmenue3_1:
+        label: 'Erster Link'
+        type: link
+        options:
+          - page
+          - url
+      linkmenue3_1_text:
+        type: text
+        label: Beschriftung
 
-  toggle3_1:
-    label: Menü 3, Highlight 1 Im Menü anzeigen?
-    type: toggle
-    text:
-      - "nein"
-      - "ja"
-
-  linkmenue3_1:
-    label: 'Erster Link'
-    type: link
-    options:
-      - page
-      - url
-  linkmenue3_1_text:
-    type: text
-    label: Beschriftung
-
-  toggle3_2:
-    label: Menü 3, Highlight 2 Im Menü anzeigen?
-    type: toggle
-    text:
-      - "nein"
-      - "ja"
-  linkmenue3_2:
-    label: 'Zweiter Link'
-    type: link
-    options:
-      - page
-      - url
-  linkmenue3_2_text:
-    type: text
-    label: Beschriftung
+      toggle3_2:
+        label: Menü 3, Highlight 2 Im Menü anzeigen?
+        type: toggle
+        text:
+          - "nein"
+          - "ja"
+      linkmenue3_2:
+        label: 'Zweiter Link'
+        type: link
+        options:
+          - page
+          - url
+      linkmenue3_2_text:
+        type: text
+        label: Beschriftung
