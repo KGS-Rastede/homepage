@@ -225,7 +225,7 @@ $navbar = page('navbar');
                             class="col-span-3 space-y-6 bg-gray-50 p-8 dark:bg-gray-700/25">
                             <h4
                                 class="font-semibold tracking-wider text-kgs-blue uppercase dark:text-kgs-lblue">
-                                <?= page('navbar')->Linkmenue2_1()->toUrl() ?>
+                                Aktuell besonders relevant
                             </h4>
                             <div class="grid grid-cols-3 gap-4 xl:gap-8">
                                 
