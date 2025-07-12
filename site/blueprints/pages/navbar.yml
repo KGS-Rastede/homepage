@@ -4,60 +4,75 @@ tabs:
   menu_1:
     label: Über die Schule
     icon: text
-    fields:
-      menue1:
-        label: Menü "Über die Schule"
-        type: headline
-      
-      toggle1_1:
-          label: Menü 1, Highlight 1 Im Menü anzeigen?
-          type: toggle
-          text:
-            - "nein"
-            - "ja"
-  
-      linkmenue1_1:
-        label: 'Erster Link'
-        type: link
-        options:
-          - page
-          - url
-      linkmenue1_1_text:
-        type: text
-        label: Beschriftung
 
-      bild_1_1:
-        label: Bild Highlight 1/1
-        type: files
-        layout: cards
-        query: page.images
-        max: 1
+    columns:
+      - width: 2/4
+        fields:
+          menue1:
+            label: Menü "Über die Schule"
+            type: headline
 
-      lineB:
-        type: line
+          linkmenue1_1:
+            label: 'Erster Link'
+            type: link
+            options:
+              - page
+              - url
 
-      toggle1_2:
-          label: Menü 1, Highlight 2 Im Menü anzeigen?
-          type: toggle
-          text:
-            - "nein"
-            - "ja"
-      linkmenue1_2:
-        label: 'Zweiter Link'
-        type: link
-        options:
-          - page
-          - url
-      linkmenue1_2_text:
-        type: text
-        label: Beschriftung
+          linkmenue1_1_text:
+            type: text
+            label: Beschriftung
 
-      bild_1_2:
-        label: Bild Highlight 1/2
-        type: files
-        layout: cards
-        query: page.images
-        max: 1
+      - width: 1/4
+        fields:
+          toggle1_1:
+            label: Menü 1, Highlight 1 Im Menü anzeigen?
+            type: toggle
+            text:
+              - "nein"
+              - "ja"
+    
+      - width: 1/4
+        fields:
+            bild_1_1:
+              label: Bild Highlight 1/1
+              type: files
+              layout: cards
+              query: page.images
+              max: 1
+          
+
+      - width: 2/4
+        fields:
+          linkmenue1_2:
+            label: 'Zweiter Link'
+            type: link
+            options:
+              - page
+              - url
+
+          linkmenue1_2_text:
+            type: text
+            label: Beschriftung
+
+      - width: 1/4
+        fields:
+
+          toggle1_2:
+            label: Menü 1, Highlight 2 Im Menü anzeigen?
+            type: toggle
+            text:
+              - "nein"
+              - "ja"
+
+      - width: 1/4
+        fields:
+          bild_1_2:
+            label: Bild Highlight 1/2
+            type: files
+            layout: cards
+            query: page.images
+            max: 1
 
 
   menu_2:
