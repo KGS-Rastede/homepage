@@ -33,8 +33,9 @@ tabs:
             label: Bild Highlight 1/1
             type: files
             layout: cards
-            query: page.images
             max: 1
+            accept:
+              type: image
       - width: 2/4
         fields:
           linkmenue1_2:
@@ -60,8 +61,9 @@ tabs:
             label: Bild Highlight 1/2
             type: files
             layout: cards
-            query: page.images
             max: 1
+            accept:
+              type: image
 
   menu_2:
     label: Unterricht und Schulleben
@@ -95,8 +97,9 @@ tabs:
             label: Bild Highlight 2/1
             type: files
             layout: cards
-            query: page.images
             max: 1
+            accept:
+              type: image
       - width: 2/4
         fields:
           linkmenue2_2:
@@ -122,8 +125,9 @@ tabs:
             label: Bild Highlight 2/2
             type: files
             layout: cards
-            query: page.images
             max: 1
+            accept:
+              type: image
 
   menu_3:
     label: Informationen
@@ -157,8 +161,9 @@ tabs:
             label: Bild Highlight 3/1
             type: files
             layout: cards
-            query: page.images
             max: 1
+            accept:
+              type: image
       - width: 2/4
         fields:
           linkmenue3_2:
@@ -184,5 +189,6 @@ tabs:
             label: Bild Highlight 3/2
             type: files
             layout: cards
-            query: page.images
             max: 1
+            accept:
+              type: image
