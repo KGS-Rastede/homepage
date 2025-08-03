@@ -2,23 +2,19 @@ Title: Highlights im Menü
 
 ----
 
-Toggle1-1: false
+Linkmenue1-1: page://Z9tm2VsMrsIBwb4r
 
 ----
 
-Linkmenue1-1: page://sYpQWRLtgRedw1vw
+Linkmenue1-1-text: Das Leitbild der KGS
 
 ----
 
-Linkmenue1-1-text: 1. Link "Über die Schule"
+Toggle1-1: true
 
 ----
 
-Bild-1-1: - file://0ydzk0wltwo5rgjw
-
-----
-
-Toggle1-2: true
+Bild-1-1: 
 
 ----
 
@@ -30,19 +26,19 @@ Linkmenue1-2-text: zweiter link "Über die Schule"
 
 ----
 
-Bild-1-2: - file://c5ndcmgeti6lmunn
+Toggle1-2: false
 
 ----
 
-Linkmenue2-1-text: 1. Link "Über die Schule"
+Bild-1-2: 
 
 ----
 
-Bild-2-1: - file://xewadqtcbg8mesw3
+Linkmenue2-1: page://jTcBf7aeTJYKdbba
 
 ----
 
-Linkmenue2-1: https://www.zeit.de
+Linkmenue2-1-text: Herausforderungsprojekt
 
 ----
 
@@ -50,7 +46,7 @@ Toggle2-1: true
 
 ----
 
-Toggle2-2: true
+Bild-2-1: - file://pdflfjey6dw49phk
 
 ----
 
@@ -62,7 +58,19 @@ Linkmenue2-2-text: 2. Link "Über die Schule"
 
 ----
 
-Bild-2-2: - file://0ydzk0wltwo5rgjw
+Toggle2-2: false
+
+----
+
+Bild-2-2: 
+
+----
+
+Linkmenue3-1: https://wiki.kgs-rastede.de/de/eltern/elterninfos_kompakt
+
+----
+
+Linkmenue3-1-text: Wiki für Eltern
 
 ----
 
@@ -70,15 +78,15 @@ Toggle3-1: true
 
 ----
 
-Linkmenue3-1: page://gm098sb3tnigakoa
+Bild-3-1: 
 
 ----
 
-Bild-3-1: - file://idyq4kdiolmkrjgh
+Linkmenue3-2: page://Tm2gYmbcfkDLMGIL
 
 ----
 
-Linkmenue3-1-text: 1. Link "Informationen"
+Linkmenue3-2-text: Schulbuchlisten
 
 ----
 
@@ -86,15 +94,7 @@ Toggle3-2: true
 
 ----
 
-Linkmenue3-2: page://r5GGlS3XnBei9xZx
-
-----
-
-Linkmenue3-2-text: 2. Link "Informationen"
-
-----
-
-Bild-3-2: - file://0ydzk0wltwo5rgjw
+Bild-3-2: 
 
 ----
 
