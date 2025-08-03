@@ -12,8 +12,6 @@
     --color-yellow-200: oklch(94.5% 0.129 101.54);
     --color-yellow-600: oklch(68.1% 0.162 75.834);
     --color-emerald-200: oklch(90.5% 0.093 164.15);
-    --color-emerald-400: oklch(76.5% 0.177 163.223);
-    --color-emerald-500: oklch(69.6% 0.17 162.48);
     --color-emerald-700: oklch(50.8% 0.118 165.612);
     --color-emerald-900: oklch(37.8% 0.077 168.94);
     --color-cyan-500: oklch(71.5% 0.143 215.221);
@@ -1385,10 +1383,6 @@
     width: calc(var(--spacing) * 5);
     height: calc(var(--spacing) * 5);
   }
-  .size-10 {
-    width: calc(var(--spacing) * 10);
-    height: calc(var(--spacing) * 10);
-  }
   .size-12 {
     width: calc(var(--spacing) * 12);
     height: calc(var(--spacing) * 12);
@@ -1419,9 +1413,6 @@
   }
   .h-11 {
     height: calc(var(--spacing) * 11);
-  }
-  .h-32 {
-    height: calc(var(--spacing) * 32);
   }
   .h-96 {
     height: calc(var(--spacing) * 96);
@@ -2272,9 +2263,6 @@
   }
   .text-blue-600 {
     color: var(--color-blue-600);
-  }
-  .text-emerald-500 {
-    color: var(--color-emerald-500);
   }
   .text-gray-100 {
     color: var(--color-gray-100);
@@ -3843,14 +3831,6 @@
       background-color: var(--color-gray-900);
     }
   }
-  .dark\:bg-gray-900\/50 {
-    &:where(.dark, .dark *) {
-      background-color: color-mix(in srgb, oklch(21% 0.034 264.665) 50%, transparent);
-      @supports (color: color-mix(in lab, red, red)) {
-        background-color: color-mix(in oklab, var(--color-gray-900) 50%, transparent);
-      }
-    }
-  }
   .dark\:bg-gray-900\/80 {
     &:where(.dark, .dark *) {
       background-color: color-mix(in srgb, oklch(21% 0.034 264.665) 80%, transparent);
@@ -3915,11 +3895,6 @@
   .dark\:text-emerald-200 {
     &:where(.dark, .dark *) {
       color: var(--color-emerald-200);
-    }
-  }
-  .dark\:text-emerald-400 {
-    &:where(.dark, .dark *) {
-      color: var(--color-emerald-400);
     }
   }
   .dark\:text-gray-50 {
