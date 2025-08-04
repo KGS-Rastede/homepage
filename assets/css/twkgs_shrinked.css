@@ -3,7 +3,7 @@
 @layer theme, base, components, utilities;
 @layer theme {
   :root, :host {
-    --font-sans: "Pangea", "sans-serif";
+    --font-sans: 'Pangea', 'sans-serif';
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
     --color-red-400: oklch(70.4% 0.191 22.216);
@@ -2488,65 +2488,49 @@
   }
   .group-hover\:visible {
     &:is(:where(.group):hover *) {
-      @media (hover: hover) {
-        visibility: visible;
-      }
+      visibility: visible;
     }
   }
   .group-hover\:translate-x-0 {
     &:is(:where(.group):hover *) {
-      @media (hover: hover) {
-        --tw-translate-x: calc(var(--spacing) * 0);
-        translate: var(--tw-translate-x) var(--tw-translate-y);
-      }
+      --tw-translate-x: calc(var(--spacing) * 0);
+      translate: var(--tw-translate-x) var(--tw-translate-y);
     }
   }
   .group-hover\:scale-100 {
     &:is(:where(.group):hover *) {
-      @media (hover: hover) {
-        --tw-scale-x: 100%;
-        --tw-scale-y: 100%;
-        --tw-scale-z: 100%;
-        scale: var(--tw-scale-x) var(--tw-scale-y);
-      }
+      --tw-scale-x: 100%;
+      --tw-scale-y: 100%;
+      --tw-scale-z: 100%;
+      scale: var(--tw-scale-x) var(--tw-scale-y);
     }
   }
   .group-hover\:scale-125 {
     &:is(:where(.group):hover *) {
-      @media (hover: hover) {
-        --tw-scale-x: 125%;
-        --tw-scale-y: 125%;
-        --tw-scale-z: 125%;
-        scale: var(--tw-scale-x) var(--tw-scale-y);
-      }
+      --tw-scale-x: 125%;
+      --tw-scale-y: 125%;
+      --tw-scale-z: 125%;
+      scale: var(--tw-scale-x) var(--tw-scale-y);
     }
   }
   .group-hover\:text-gray-500 {
     &:is(:where(.group):hover *) {
-      @media (hover: hover) {
-        color: var(--color-gray-500);
-      }
+      color: var(--color-gray-500);
     }
   }
   .group-hover\:text-gray-600 {
     &:is(:where(.group):hover *) {
-      @media (hover: hover) {
-        color: var(--color-gray-600);
-      }
+      color: var(--color-gray-600);
     }
   }
   .group-hover\:text-kgs-blue {
     &:is(:where(.group):hover *) {
-      @media (hover: hover) {
-        color: var(--color-kgs-blue);
-      }
+      color: var(--color-kgs-blue);
     }
   }
   .group-hover\:opacity-100 {
     &:is(:where(.group):hover *) {
-      @media (hover: hover) {
-        opacity: 100%;
-      }
+      opacity: 100%;
     }
   }
   .group-focus\:translate-x-0 {
@@ -2631,249 +2615,181 @@
   }
   .hover\:z-1 {
     &:hover {
-      @media (hover: hover) {
-        z-index: 1;
-      }
+      z-index: 1;
     }
   }
   .hover\:-translate-x-0\.5 {
     &:hover {
-      @media (hover: hover) {
-        --tw-translate-x: calc(var(--spacing) * -0.5);
-        translate: var(--tw-translate-x) var(--tw-translate-y);
-      }
+      --tw-translate-x: calc(var(--spacing) * -0.5);
+      translate: var(--tw-translate-x) var(--tw-translate-y);
     }
   }
   .hover\:translate-x-0\.5 {
     &:hover {
-      @media (hover: hover) {
-        --tw-translate-x: calc(var(--spacing) * 0.5);
-        translate: var(--tw-translate-x) var(--tw-translate-y);
-      }
+      --tw-translate-x: calc(var(--spacing) * 0.5);
+      translate: var(--tw-translate-x) var(--tw-translate-y);
     }
   }
   .hover\:border-gray-300 {
     &:hover {
-      @media (hover: hover) {
-        border-color: var(--color-gray-300);
-      }
+      border-color: var(--color-gray-300);
     }
   }
   .hover\:border-slate-600 {
     &:hover {
-      @media (hover: hover) {
-        border-color: var(--color-slate-600);
-      }
+      border-color: var(--color-slate-600);
     }
   }
   .hover\:border-transparent {
     &:hover {
-      @media (hover: hover) {
-        border-color: transparent;
-      }
+      border-color: transparent;
     }
   }
   .hover\:bg-blue-800 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-blue-800);
-      }
+      background-color: var(--color-blue-800);
     }
   }
   .hover\:bg-gray-50 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-gray-50);
-      }
+      background-color: var(--color-gray-50);
     }
   }
   .hover\:bg-gray-200 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-gray-200);
-      }
+      background-color: var(--color-gray-200);
     }
   }
   .hover\:bg-gray-300 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-gray-300);
-      }
+      background-color: var(--color-gray-300);
     }
   }
   .hover\:bg-slate-100 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-slate-100);
-      }
+      background-color: var(--color-slate-100);
     }
   }
   .hover\:bg-slate-200 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-slate-200);
-      }
+      background-color: var(--color-slate-200);
     }
   }
   .hover\:bg-slate-300 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-slate-300);
-      }
+      background-color: var(--color-slate-300);
     }
   }
   .hover\:bg-slate-500 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-slate-500);
-      }
+      background-color: var(--color-slate-500);
     }
   }
   .hover\:bg-slate-600 {
     &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-slate-600);
-      }
+      background-color: var(--color-slate-600);
     }
   }
   .hover\:fill-\[\#1185fe\] {
     &:hover {
-      @media (hover: hover) {
-        fill: #1185fe;
-      }
+      fill: #1185fe;
     }
   }
   .hover\:fill-\[\#E1306C\] {
     &:hover {
-      @media (hover: hover) {
-        fill: #E1306C;
-      }
+      fill: #E1306C;
     }
   }
   .hover\:text-gray-600 {
     &:hover {
-      @media (hover: hover) {
-        color: var(--color-gray-600);
-      }
+      color: var(--color-gray-600);
     }
   }
   .hover\:text-gray-700 {
     &:hover {
-      @media (hover: hover) {
-        color: var(--color-gray-700);
-      }
+      color: var(--color-gray-700);
     }
   }
   .hover\:text-gray-900 {
     &:hover {
-      @media (hover: hover) {
-        color: var(--color-gray-900);
-      }
+      color: var(--color-gray-900);
     }
   }
   .hover\:text-kgs-blue {
     &:hover {
-      @media (hover: hover) {
-        color: var(--color-kgs-blue);
-      }
+      color: var(--color-kgs-blue);
     }
   }
   .hover\:text-slate-600 {
     &:hover {
-      @media (hover: hover) {
-        color: var(--color-slate-600);
-      }
+      color: var(--color-slate-600);
     }
   }
   .hover\:text-white {
     &:hover {
-      @media (hover: hover) {
-        color: var(--color-white);
-      }
+      color: var(--color-white);
     }
   }
   .hover\:text-yellow-600 {
     &:hover {
-      @media (hover: hover) {
-        color: var(--color-yellow-600);
-      }
+      color: var(--color-yellow-600);
     }
   }
   .hover\:underline {
     &:hover {
-      @media (hover: hover) {
-        text-decoration-line: underline;
-      }
+      text-decoration-line: underline;
     }
   }
   .hover\:opacity-75 {
     &:hover {
-      @media (hover: hover) {
-        opacity: 75%;
-      }
+      opacity: 75%;
     }
   }
   .hover\:opacity-90 {
     &:hover {
-      @media (hover: hover) {
-        opacity: 90%;
-      }
+      opacity: 90%;
     }
   }
   .hover\:shadow-sm {
     &:hover {
-      @media (hover: hover) {
-        --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
-        box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-      }
+      --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+      box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
     }
   }
   .hover\:shadow-xs {
     &:hover {
-      @media (hover: hover) {
-        --tw-shadow: 0 1px 2px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.05));
-        box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-      }
+      --tw-shadow: 0 1px 2px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.05));
+      box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
     }
   }
   .hover\:ring-3 {
     &:hover {
-      @media (hover: hover) {
-        --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
-        box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-      }
+      --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+      box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
     }
   }
   .hover\:ring-gray-100 {
     &:hover {
-      @media (hover: hover) {
-        --tw-ring-color: var(--color-gray-100);
-      }
+      --tw-ring-color: var(--color-gray-100);
     }
   }
   .hover\:ring-offset-2 {
     &:hover {
-      @media (hover: hover) {
-        --tw-ring-offset-width: 2px;
-        --tw-ring-offset-shadow: var(--tw-ring-inset,) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
-      }
+      --tw-ring-offset-width: 2px;
+      --tw-ring-offset-shadow: var(--tw-ring-inset,) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     }
   }
   .odd\:hover\:bg-slate-200 {
     &:nth-child(odd) {
       &:hover {
-        @media (hover: hover) {
-          background-color: var(--color-slate-200);
-        }
+        background-color: var(--color-slate-200);
       }
     }
   }
   .even\:hover\:bg-slate-300 {
     &:nth-child(even) {
       &:hover {
-        @media (hover: hover) {
-          background-color: var(--color-slate-300);
-        }
+        background-color: var(--color-slate-300);
       }
     }
   }
@@ -4013,47 +3929,37 @@
   .dark\:group-hover\:text-kgs-lblue {
     &:where(.dark, .dark *) {
       &:is(:where(.group):hover *) {
-        @media (hover: hover) {
-          color: var(--color-kgs-lblue);
-        }
+        color: var(--color-kgs-lblue);
       }
     }
   }
   .dark\:hover\:border-gray-500 {
     &:where(.dark, .dark *) {
       &:hover {
-        @media (hover: hover) {
-          border-color: var(--color-gray-500);
-        }
+        border-color: var(--color-gray-500);
       }
     }
   }
   .dark\:hover\:border-gray-600 {
     &:where(.dark, .dark *) {
       &:hover {
-        @media (hover: hover) {
-          border-color: var(--color-gray-600);
-        }
+        border-color: var(--color-gray-600);
       }
     }
   }
   .dark\:hover\:bg-blue-700 {
     &:where(.dark, .dark *) {
       &:hover {
-        @media (hover: hover) {
-          background-color: var(--color-blue-700);
-        }
+        background-color: var(--color-blue-700);
       }
     }
   }
   .dark\:hover\:bg-gray-900\/50 {
     &:where(.dark, .dark *) {
       &:hover {
-        @media (hover: hover) {
-          background-color: color-mix(in srgb, oklch(21% 0.034 264.665) 50%, transparent);
-          @supports (color: color-mix(in lab, red, red)) {
-            background-color: color-mix(in oklab, var(--color-gray-900) 50%, transparent);
-          }
+        background-color: color-mix(in srgb, oklch(21% 0.034 264.665) 50%, transparent);
+        @supports (color: color-mix(in lab, red, red)) {
+          background-color: color-mix(in oklab, var(--color-gray-900) 50%, transparent);
         }
       }
     }
@@ -4061,36 +3967,28 @@
   .dark\:hover\:text-gray-200 {
     &:where(.dark, .dark *) {
       &:hover {
-        @media (hover: hover) {
-          color: var(--color-gray-200);
-        }
+        color: var(--color-gray-200);
       }
     }
   }
   .dark\:hover\:text-gray-300 {
     &:where(.dark, .dark *) {
       &:hover {
-        @media (hover: hover) {
-          color: var(--color-gray-300);
-        }
+        color: var(--color-gray-300);
       }
     }
   }
   .dark\:hover\:text-kgs-lblue {
     &:where(.dark, .dark *) {
       &:hover {
-        @media (hover: hover) {
-          color: var(--color-kgs-lblue);
-        }
+        color: var(--color-kgs-lblue);
       }
     }
   }
   .dark\:hover\:ring-gray-700 {
     &:where(.dark, .dark *) {
       &:hover {
-        @media (hover: hover) {
-          --tw-ring-color: var(--color-gray-700);
-        }
+        --tw-ring-color: var(--color-gray-700);
       }
     }
   }
@@ -4187,18 +4085,14 @@
   .prose-a\:hover\:text-indigo-400 {
     & :is(:where(a):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
       &:hover {
-        @media (hover: hover) {
-          color: var(--color-indigo-400);
-        }
+        color: var(--color-indigo-400);
       }
     }
   }
   .prose-a\:hover\:opacity-75 {
     & :is(:where(a):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
       &:hover {
-        @media (hover: hover) {
-          opacity: 75%;
-        }
+        opacity: 75%;
       }
     }
   }
@@ -4213,9 +4107,7 @@
     &:where(.dark, .dark *) {
       & :is(:where(a):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
         &:hover {
-          @media (hover: hover) {
-            color: var(--color-indigo-300);
-          }
+          color: var(--color-indigo-300);
         }
       }
     }
@@ -4299,7 +4191,7 @@
   font-style: normal;
   font-weight: 200 700;
   font-display: swap;
-  src: url("/assets/css/Pangea-LightWeb.woff2") format("woff2");
+  src: url('/assets/css/Pangea-LightWeb.woff2') format('woff2');
 }
 @property --tw-translate-x {
   syntax: "*";
