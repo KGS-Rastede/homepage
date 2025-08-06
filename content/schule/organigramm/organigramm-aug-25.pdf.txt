@@ -1,0 +1,13 @@
+Anzeigename: Organigram der Schule, Stand August 2025
+
+----
+
+Beschreibung: Organigram der Schule, Stand August 2025
+
+----
+
+Uuid: o1ztOUm4BKRW8fFR
+
+----
+
+Template: datei

@@ -14,23 +14,23 @@ Toggle1-1: true
 
 ----
 
-Bild-1-1: 
+Bild-1-1: - file://ooabehfba3ofx0a9
 
 ----
 
-Linkmenue1-2: https://heise.de
+Linkmenue1-2: page://wLiIqRX5s15HNl8f
 
 ----
 
-Linkmenue1-2-text: zweiter link "Über die Schule"
+Linkmenue1-2-text: Zuständigkeiten
 
 ----
 
-Toggle1-2: false
+Toggle1-2: true
 
 ----
 
-Bild-1-2: 
+Bild-1-2: - file://97xayp9bbdlmmi7q
 
 ----
 
@@ -78,7 +78,7 @@ Toggle3-1: true
 
 ----
 
-Bild-3-1: 
+Bild-3-1: - file://ko0l6l3dawmvsheq
 
 ----
 
@@ -94,7 +94,7 @@ Toggle3-2: true
 
 ----
 
-Bild-3-2: 
+Bild-3-2: - file://qmtkbk4hunsbxfuq
 
 ----
 

@@ -10,7 +10,7 @@ Blogtag:
 
 ----
 
-Text: [{"content":{"text":"<p>Dem Organigramm sind die jeweiligen Ansprechpartner:innen zu entnehmen. Alle Lehrkräfte sind via E-Mail erreichbar: Kürzel@kgs-rastede.eu</p>"},"id":"ad9e3a8b-d89d-49d1-aad9-83810729f1a2","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p>Dem Organigramm sind die jeweiligen Ansprechpartner:innen zu entnehmen. Alle Lehrkräfte sind via E-Mail erreichbar: Kürzel@kgs-rastede.eu</p>"},"id":"ad9e3a8b-d89d-49d1-aad9-83810729f1a2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://vhhb83atjqm1pqvh"],"src":"","alt":"Organigram der Schule, Stand August 2025","caption":"","link":"https://kgs-rastede.de/media/pages/schule/organigramm/4e4aa5efba-1754469013/organigramm-aug-25.pdf","ratio":"","crop":"false","orientation":""},"id":"0d8594ea-efb8-473a-9623-90c1e5b96dc6","isHidden":false,"type":"image"}]
 
 ----
 
