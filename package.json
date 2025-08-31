@@ -10,10 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fullcalendar/icalendar": "^5.10.1",
+    "@fullcalendar/core": "^6.1.19",
+    "@fullcalendar/daygrid": "^6.1.19",
+    "@fullcalendar/timegrid": "^6.1.19",
+    "@fullcalendar/list": "^6.1.19",
+    "@fullcalendar/icalendar": "^6.1.19",
     "alpinejs": "^3.14.9",
     "bootstrap-icons": "^1.11.3",
-    "fullcalendar": "^5.10.2",
     "ical.js": "^1.5.0"
   },
   "scripts": {
