@@ -1,6 +1,7 @@
 <?php
+
 /**
- * Dieses Snippet stellt, dass Grundgerüste für jede normale Seite dar. Es sorgt dafür, dass
+ * Dieses Snippet stellt das Grundgerüst für jede normale Seite dar. Es sorgt dafür, dass
  * Header, Navigationsleiste und Footer richtig eingebunden werden.
  * Der tatsächliche Inhalt der Seite kann per Slot eingefügt werden. Der Inhalt ist bereits 
  * zentriert.
