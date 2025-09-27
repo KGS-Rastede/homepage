@@ -1,0 +1,33 @@
+Title: Aktuelle Hallenpläne
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Schulen haben sich abgesprochen. <a href=\"https://kgs-rastede.de/media/pages/blogs/aktuelle-hallenplaene/a84617e095-1755585765/hallenplaene_1.halbjahr_version-2.pdf\" target=\"_blank\">Hier </a>sind die aktuellen Hallenpläne zu finden.</p>"},"id":"f6cb015a-7727-4676-a286-9aac0f0e1622","isHidden":false,"type":"text"}],"id":"32a75bcc-77cc-45aa-8ea8-f66c11362b6b","width":"1/1"}],"id":"b4fc8991-1d82-451b-a11c-1086d0c74fd9"}]
+
+----
+
+Date: 2025-08-19 08:40:00
+
+----
+
+Datumstartseite: 2025-12-19 08:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: - file://ctzuizxcfccl4zxw
+
+----
+
+Uuid: cgsrkpr2towrijh3

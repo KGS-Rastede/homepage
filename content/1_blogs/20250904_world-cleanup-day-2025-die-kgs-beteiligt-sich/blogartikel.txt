@@ -1,0 +1,33 @@
+Title: World Cleanup Day 2025 - die KGS beteiligt sich
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Auch die KGS ist diesmal dabei: einige Klassen haben sich gemeldet und beteiligen sich. Unterstützt von W.I.M. – Weniger.Ist.Machbar.   </p><p><strong>„Sammeln statt Sabbeln – Rastede packt’s an!“</strong> </p><p><a href=\"https://www.worldcleanupday.de\" target=\"_blank\">www.worldcleanupday.de </a></p><p></p>"},"id":"e7bde795-1060-47eb-8c19-ec1257bc3c51","isHidden":false,"type":"text"}],"id":"6d0b715c-5e9e-49d6-b052-b4ce34c7376d","width":"1/1"}],"id":"10d8a60a-3c50-44c1-b05c-807f2ee384e5"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li><strong>Wann:</strong> Donnerstag, 18. – Sonntag, 21.September 2025</li><li><strong>Wo:</strong> Containerstandorte: Parkplatz Feldbreite und  Parkplatz Mühlenstraße</li><li><strong>Wer:</strong> <strong>Rastede</strong> Als Teil der Weltgemeinschaft, die rund um den Globus anlässlich des Weltaufräumtages zum Müllsammeln unterwegs ist, zeigt sich hier aktiv im Umwelt- und Naturschutz - allein oder in Gruppen, mit Freunden, Vereinen, Nachbarn, Schulklassen … </li><li><strong>Was:</strong> <strong>Straßenmüll</strong> auf den Wegen der Gemeinde soll gesammelt und zu einem der beiden Container gebracht werden. Gesammelt wird alles, was nicht in die Natur gehört – aber ganz sicher kein Hausmüll und kein Sperrmüll!</li></ul>"},"id":"4a8b494e-2cbf-47c8-9d06-90bb4eb0c33d","isHidden":false,"type":"list"}],"id":"fe7f3c51-4673-4c23-93b5-970b02a0f478","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://acylsqqkscd6bfij"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"0f0a9a5a-2101-4320-a046-c4a8a9a297dd","isHidden":false,"type":"image"}],"id":"b203afb1-8b79-4e82-8377-31caf302da0a","width":"1/2"}],"id":"4910df1a-1710-4b23-b483-1b655e388191"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Was noch?</strong> Fotos  vom Vorher – Nachher, von besonderen Fundstücken oder von der Gruppe, die gemeinsam unterwegs war, gerne an die verantwortliche Veranstalterin Geli Wald von der Aktionsgruppe <strong>W.I.M.</strong> – Weniger.Ist.Machbar. geliwald@ewetel.net</p><p>Geschichten und Fotos können dann nach Zustimmung auf Veröffentlichung auch auf  der W.I.M. Homepage <a href=\"https://www.weniger-ist-machbar.de\" target=\"_blank\">www.weniger-ist-machbar.de</a> unter Müllsammlungen gezeigt werden.</p><p>Macht mit – und erzählt’s weiter!</p>"},"id":"fc6175fb-215f-47fd-a70b-af3a3d675cc4","isHidden":false,"type":"text"}],"id":"a8bef127-2276-4e6b-bb82-a1fffb46b305","width":"1/1"}],"id":"c66c7a89-835e-4960-b7f7-960c8939e392"}]
+
+----
+
+Date: 2025-09-04 08:40:00
+
+----
+
+Datumstartseite: 2025-11-02 08:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Claudia Berger
+
+----
+
+Tags: Topartikel, World Cleanup Day
+
+----
+
+Downloads: 
+
+----
+
+Uuid: wyxb4f3lbldnueuh

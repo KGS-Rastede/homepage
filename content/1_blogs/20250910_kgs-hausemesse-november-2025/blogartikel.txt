@@ -1,0 +1,33 @@
+Title: KGS Hausemesse - November 2025
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>„Werde ich Tischler oder Mechatroniker? Möchte ich lieber an Flugzeugen oder LKW arbeiten? Soll ich was mit Menschen machen oder an einer Maschine stehen?…“</p><p>Antworten auf Fragen wie diese können unsere Schülerinnen und Schüler auf der Ausbildungsmesse am 6. November 2025 finden.</p><p>Anmeldungen und weitere <a href=\"https://zukunft.kgs-rastede.de/\" target=\"_blank\">Informationen finden Sie auf dieser Seite</a>.</p>"},"id":"1ac442ef-9090-4071-b0bf-fdb5da9228b7","isHidden":false,"type":"text"}],"id":"bc61b8e1-19f1-48d4-a2f6-0e36e94bda19","width":"1/1"}],"id":"f0e5d94b-9979-4a43-86e6-bf93e36b816b"}]
+
+----
+
+Date: 2025-09-10 11:20:00
+
+----
+
+Datumstartseite: 2025-11-06 19:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: Topartikel, Hausmesse
+
+----
+
+Downloads: 
+
+----
+
+Uuid: zjlfzsketpormrcd

@@ -1,0 +1,33 @@
+Title: Besuch der Gedenkstätte Esterwegen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 05.09.2025 fuhr die Klasse 8A2, zusammen mit der Klasse 9A3 (leider nicht auf dem Foto) um 8:00 Uhr mit dem Bus zur Gedenkstätte Esterwegen.</p><p>An dieser Stelle errichteten die Nationalsozialisten im Jahr 1933/1934 das Konzentrations- und Strafgefangenenlager Esterwegen. Bis zum Kriegsende befanden sich im Emsland insgesamt 15 Konzentrations-, Straf- und Kriegsgefangenenlager (die Emslager).</p><p>Als wir dort ankamen, wurden wir von zwei Mitarbeiterinnen herzlich empfangen und in zwei Gruppen geteilt. Wir bekamen erklärt, was früher dort passiert ist, wie es den KZ-Häftlingen dort ging und wie ein Tag dort aussah. Danach gab es eine kurze 15 Minuten- Pause, wo wir uns in die Cafeteria setzen und dort etwas Kleines essen konnten. Im Anschluss wurde uns, anhand einer Schautafel, das Gelände der Gedenkstätte näher erklärt, worauf hin wir das Gelände ohne Führung erkunden durften und uns einen eigenen Eindruck des Geländes im Außenbereich verschaffen konnten.</p>"},"id":"3cb56be2-0206-4400-a596-0f50e6e68ea7","isHidden":false,"type":"text"}],"id":"392c34b2-9206-4128-b3d7-532e7282fe71","width":"1/1"}],"id":"3eb0e6e1-6112-400c-abb4-b97b9e9a0fbc"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Deutlich war der Unterschied zu erkennen, welchen großen Teil des Geländes die SS-Soldaten für sich beanspruchten, wobei die KZ-Häftlinge, trotz der großen Anzahl der Menschen einen wesentlich kleineren Teil hatten. Die mehreren als Rechteck gepflanzten Hecken im Außenbereich stehen für die Häuser der Gefangenen. Bevor wir wieder reingingen, hat die Mitarbeiterin unsere Fragen beantwortet und alles erklärt. </p>"},"id":"590822a6-0215-4fc6-bd89-c9bcb6a12122","isHidden":false,"type":"text"}],"id":"c3a862f9-2227-4476-bad8-9e92f305b29a","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://fydub3upyqterhio"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"fa86d6da-10aa-4fc7-922b-a4cf6b7f4c02","isHidden":false,"type":"image"}],"id":"b461fb17-6920-4411-b160-61922e5dde22","width":"1/2"}],"id":"4ad0a2dd-a5c1-44f9-97b4-5433f65fd5e8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Daraufhin gingen wir in einen Raum, in dem es reichlich Informationen über viele Gefangene gab. &nbsp;Deren Porträts hingen an einer Wandseite aus. Ein paar Gefangene haben es geschafft, lebend rauszukommen, doch die Mehrzahl an Personen sind dort gestorben.</p><p>In der Gedenkstätte kann man sich verschiedene Interview, mit den Überlebenden anschauen. Sie erzählen, wie der Tagesablauf von ihnen war oder wie viel und was sie täglich zu Essen bekamen. In dem Raum konnte man außerdem verschiedenste Exponate (z. B. getragene Sachen, wie Schuhe oder auch die Werkzeuge, die die Gefangenen früher im Moor benötigten) hinter Glasscheiben anschauen. &nbsp;</p><p>Leider war der Vormittag viel zu schnell vorbei.</p><p>Bevor die Klassen in den Bus einstiegen, bedankten sie sich und machten noch ein Klassenfoto zum Schluss als Erinnerung.</p>"},"id":"776207cf-f327-469c-a7aa-4f0ad510d46b","isHidden":false,"type":"text"},{"content":{"name":"Jule Brandenburg, 8A2"},"id":"9dd67c23-f4b6-4311-bb29-0e86f1bda3c7","isHidden":false,"type":"gastautor"}],"id":"875e3137-0570-4d50-b2cc-d3b32f0516f9","width":"1/1"}],"id":"b0dbb590-aa63-4917-aec8-c08b98aac37b"}]
+
+----
+
+Date: 2025-09-19 08:00:00
+
+----
+
+Datumstartseite: 2026-01-19 08:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Jule Brandenburg
+
+----
+
+Tags: Tagesfahrt, Esterwegen, Gedenkstätte
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 7vtggctumufolprx
