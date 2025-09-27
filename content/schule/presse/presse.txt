@@ -6,6 +6,105 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/schulung-medienhelden-fuer-lehrkraefte-und-sozialarbeiter-in-rastede_a_4,2,1953727250.html
+  name: >
+    Präventionsprojekt Rastede bekommt
+    „Medienhelden“
+  anfang: >
+    Laut aktuellen Studien wird fast jede
+    fünfte Schülerin beziehungsweise jeder
+    fünfte Schüler Opfer von Cybermobbing.
+    In Rastede will man jetzt mit dem
+    Präventionsprojekt „Medienhelden“
+    etwas dagegen tun. 30 Klassenlehrer der
+    KGS Rastede und weitere Fachkräfte
+    bekommen die Fortbildung.
+  datum: 2025-09-08
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2025/08/digitale-gewaltpraevention-rastede-bekommt-medienhelden/
+  name: 'Digitale Gewaltprävention: Rastede bekommt „Medienhelden“'
+  anfang: >
+    Digitale Gewalt ist Realität im Alltag
+    vieler junger Menschen. Laut aktuellen
+    Studien wird fast jede fünfte
+    Schülerin bzw. jeder fünfte Schüler
+    Opfer von Cybermobbing –
+    deutschlandweit sind mehr als zwei
+    Millionen Kinder und Jugendliche
+    betroffen. Um Internetkompetenz zu
+    fördern und dem Mobbing im Netz
+    entgegenzuwirken, erweitert die Gemeinde
+    Rastede ihr kommunales
+    Präventionskonzept nun um das Programm
+    „Medienhelden“. Gefördert wird sie
+    dabei vom Landespräventionsrat
+    Niedersachsen.
+  datum: 2025-08-29
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulhof-in-rastede-spd-fordert-neues-spielfeld-fuer-kgs-schueler_a_4,2,1812818988.html
+  name: 'Weniger Dreck und mehr Spielspaß - Schluss mit Bolzen auf Sand – SPD Rastede beantragt neues Spielfeld für KGS-Schulhof'
+  anfang: >
+    Die SPD Rastede setzt sich für ein
+    neues Kunststoffspielfeld an der
+    Feldbreite ein, um Sand und Matsch im
+    Schulgebäude zu reduzieren. Vereine und
+    Jugendgruppen könnten ebenfalls
+    profitieren.
+  datum: 2025-08-25
+  medium: nwz
+- 
+  link: >
+    https://www.ostfriesland.travel/orte/landkreis-ammerland/rastede/veranstaltungen-in-rastede/veranstaltung/21112025--101004785--weihnachtsmarkt-in-der-kgs
+  name: Weihnachtsmarkt in der KGS
+  anfang: >
+    Am 21.11.2025 findet von 16 bis 20 Uhr
+    der Weihnachtsmarkt der KGS statt. Alle
+    Schüler:innen, Lehrkräfte, Eltern
+    sowie Menschen aus Rastede und Umgebung
+    sind herzlich eingeladen, gemeinsam eine
+    festliche Atmosphäre zu genießen.
+  datum: 2025-08-24
+  medium: sonstiges
+- 
+  link: 'https://pages.et4.de/de/rastede/default/detail/Event/e_100986996/repair-cafe-rastede?From=2025-07-26T02%3A45%3A00%2B00%3A00'
+  name: 'Repair Café Rastede  - Eintritt frei'
+  anfang: >
+    Das RepairCafé ist mehr als nur ein
+    Ort, um defekte Gegenstände zu
+    reparieren. Es ist ein Treffpunkt, an
+    dem Nachhaltigkeit und Gemeinschaft im
+    Fokus stehen. Unsere erfahrenen
+    Freiwilligen sind hier, um zu helfen und
+    Wissen weiterzugeben. Beachte bitte,
+    dass das RepairCafé keine
+    professionelle Reparaturwerkstatt ist.
+  datum: 2025-07-28
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/stadtradeln-2025-im-ammerland-rekordbeteiligung_a_4,2,1338985875.html
+  name: 'Stadtradeln 2025 - Rekord im Ammerland – 3081 Stadtradler mit mehr als einer halben Million Kilometern'
+  anfang: >
+    Über eine halbe Million Kilometer
+    erstrampelten mehr als 3000 Stadtradler
+    im Ammerland. 157 Teams aus allen sechs
+    Kommunen waren vertreten. Welche Kommune
+    hatte die Nase vorn?
+  datum: 2025-07-16
+  medium: nwz
+- 
+  link: >
+    https://www.ioeb.de/de/beitrag/studierende-fuehren-potenzialanalyse-profil-ac-durch.html
+  name: 'Unterstützung im Rahmen der Beruflichen Orientierung: Studierende des IfÖB führen Potenzialanalyse Profil AC an der KGS Rastede durch'
+  anfang: 'Kurz vor den Sommerferien nahmen rund 100 Schüler*innen der 8. Jahrgangsstufe des Hauptschulzweigs der KGS Rastede an dem Potenzialanalyseverfahren „Profil AC“ teil. Die Durchführung des Verfahrens wurde erstmals vollumfänglich von Studierenden des Instituts für Ökonomische Bildung (IfÖB) an der Carl von Ossietzky Universität Oldenburg verantwortet.'
+  datum: 2025-07-03
+  medium: sonstiges
+- 
+  link: >
     https://www.ammerland-touristik.de/event/oeffentliche-fuehrung-der-jungen-talente-der-kgs
   name: >
     Öffentliche Führung der jungen Talente
@@ -31,6 +130,17 @@ Pressenachrichten:
     wollte per Vermittlungsausschuss Schwung
     in die Sache bringen.
   datum: 2025-06-26
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schlosspark-rastede-waldjugendspiele-der-kooperativen-gesamtschule-kgs-rastede_a_4,2,1096747237.html
+  name: 'Waldjugendspiele der KGS - Rasteder Schlosspark wird für einen Tag zum Klassenzimmer'
+  anfang: >
+    Rund 300 Sechstklässler nahmen an den
+    Waldjugendspielen der KGS Rastede teil.
+    An 17 Stationen ging es um das Thema
+    Wald.
+  datum: 2025-06-25
   medium: nwz
 - 
   link: >
@@ -5885,14 +5995,15 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/ammerland/schlosspark-rastede-waldjugendspiele-der-kooperativen-gesamtschule-kgs-rastede_a_4,2,1096747237.html
-  name: 'Waldjugendspiele der KGS - Rasteder Schlosspark wird für einen Tag zum Klassenzimmer'
+    https://www.nwzonline.de/friesland/textil-race-in-friesland-ammerland-und-wilhelmshaven-schueler-sammeln-altkleider-fuer-klimaschutz-und-wettbewerb_a_4,2,2018432208.html
+  name: 'Aktion in Friesland, Ammerland und Wilhelmshaven - „Textil Race“ im Nordwesten – Schüler sammeln Altkleider für mehr Klimaschutz'
   anfang: >
-    Rund 300 Sechstklässler nahmen an den
-    Waldjugendspielen der KGS Rastede teil.
-    An 17 Stationen ging es um das Thema
-    Wald.
-  datum: 2025-06-25
+    Schülerinnen und Schüler aus
+    Friesland, Wilhelmshaven und dem
+    Ammerland sammeln bei einem „Textil
+    Race“ Alttextilien. Wer etwas abgeben
+    möchte, kann sich melden.
+  datum: 2025-09-11
   medium: nwz
 
 ----
