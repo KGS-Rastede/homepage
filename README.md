@@ -15,7 +15,7 @@ _Weitere Details sind unten zu finden._
 Wenn alle der vorherigen Punkte erfüllt sind, kann der Code mit folgenden Befehlen in der Console heruntergeladen werden:
 
 ```console
-git clone https://gitlab.com/cniehaus/homepage
+git clone https://github.com/KGS-Rastede/homepage
 cd homepage
 ```
 
