@@ -45,7 +45,7 @@
     <!-- TODO 
    HIER MÜSSEN ANDERE FARBEN FÜR DEN GRADIENTEN GEWÄHLT WERDEN
     -->
-    <div class="bg-gray-900/80 bg-linear-to-b from-cyan-500/90 to-slate-500/10 text-gray-100">
+    <div class="bg-gray-900/80 bg-gradient-to-b from-orange-500/90 to-yellow-300/30">
       <div
         class="container mx-auto space-y-8 px-4 py-16 sm:space-y-16 lg:px-8 lg:py-32 xl:max-w-7xl">
 
