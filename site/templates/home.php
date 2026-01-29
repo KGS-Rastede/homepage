@@ -16,6 +16,15 @@
 
   <?php snippet('box-schnellverweise'); ?>
 
+<!-- Divider -->
+<div class="my-8 flex items-center">
+  <span
+    aria-hidden="true"
+    class="h-0.5 grow rounded-sm bg-gray-200 dark:bg-gray-700/75"
+  ></span>
+
+</div>
+<!-- END Divider-->
 
   <div class="m-4 flex flex-wrap justify-center xl:mx-20 2xl:mx-40">
     <!-- Major Column (2/3 width) -->
