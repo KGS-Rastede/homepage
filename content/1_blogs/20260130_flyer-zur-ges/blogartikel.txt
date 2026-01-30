@@ -1,0 +1,33 @@
+Title: Flyer zur GES
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Flyer zur GES"},"id":"71ce4d68-c736-4c23-8a8a-dc952e1b3c91","isHidden":false,"type":"heading"}],"id":"4d074ee3-eadc-4e7b-932a-8946a33deebe","width":"1/1"}],"id":"a111bbc1-fdfd-4d5d-b186-a2a5d3d3a640"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://lz7lyfgqig1ceuji"],"src":"","alt":"Flyer zur gemeinsamen Eingangsstufe","caption":"","link":"https://kgs-rastede.de/media/pages/blogs/flyer-zur-ges/70632a31bb-1769754600/ges-flyer.pdf","ratio":"","crop":"false","orientation":""},"id":"9ed34aba-c787-40b6-9707-4e2d5a0e2dbb","isHidden":false,"type":"image"}],"id":"b1c39161-15bc-4d87-a67d-87e6627793cc","width":"1/1"}],"id":"2b0e9e84-911b-4f82-8c3d-5bd4c9d6fb7e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"https://kgs-rastede.de/media/pages/blogs/flyer-zur-ges/70632a31bb-1769754600/ges-flyer.pdf\">Hier</a> kann man den Flyer als PDF <a href=\"https://kgs-rastede.de/media/pages/blogs/flyer-zur-ges/70632a31bb-1769754600/ges-flyer.pdf\">herunterladen</a>.</p>"},"id":"37c03d19-3616-404e-9e3e-c773328ef28e","isHidden":false,"type":"text"}],"id":"2c2af058-ab09-4e0f-ae55-baeb5ddcc388","width":"1/1"}],"id":"b253e7f9-8e3e-427a-a34a-bc252477a537"}]
+
+----
+
+Date: 2026-01-30 07:30:00
+
+----
+
+Datumstartseite: 2026-05-30 07:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: TKKGES
+
+----
+
+Tags: Feldbreite, GES, Eingangsstufe, Schulentwicklung
+
+----
+
+Downloads: - file://k59vaifq81yxwycj
+
+----
+
+Uuid: 0wbgbwafrcz05xgy

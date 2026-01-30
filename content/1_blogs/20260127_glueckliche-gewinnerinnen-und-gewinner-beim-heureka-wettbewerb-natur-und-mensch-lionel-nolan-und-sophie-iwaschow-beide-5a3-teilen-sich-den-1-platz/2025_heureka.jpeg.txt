@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: e2au5irhtu39ac2a
+
+----
+
+Template: blocks/image

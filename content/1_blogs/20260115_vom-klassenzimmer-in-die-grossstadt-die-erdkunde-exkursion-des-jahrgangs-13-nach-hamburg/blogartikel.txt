@@ -1,0 +1,33 @@
+Title: Vom Klassenzimmer in die Großstadt: Die Erdkunde-Exkursion des Jahrgangs 13 nach Hamburg
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://skg6jdz6cp2ihqwx"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"9a24e60c-0a62-4f64-bd9a-46bcc93bc5da","isHidden":false,"type":"image"}],"id":"337dcb9a-2db9-4fa6-a36b-d147de3e97c6","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://apn9csquf6vqzjx6"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"db74ead8-6309-43fd-a39d-f139939ead22","isHidden":false,"type":"image"}],"id":"d00eed13-3fe9-40c8-8f3b-896a9c56c1ee","width":"1/2"}],"id":"4d8610f5-4b41-41af-b143-fbcd6577c8cf"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 15. Dezember fuhren die vier Erdkundekurse des Jahrgangs 13 von Frau Krolik, Frau Westerholt, Herrn Pauleit und Herrn van de Rieth auf eine dreitägige Exkursion nach Hamburg. Ziel der Fahrt war es, die im Unterricht behandelten Themen der Stadtgeographie direkt vor Ort zu erleben.<br><br>Gegen 9 Uhr starteten wir gemeinsam von Rastede aus. Nach etwa zweieinhalb Stunden Zugfahrt erreichten wir Hamburg und machten uns zunächst auf den Weg zu unserer Unterkunft, der Jugendherberge „Auf dem Stintfang“. Nach dem Verstauen des Gepäcks, einer kurzen Einführung und einer Mittagspause begann unser Programm.<br><br>Vor der Exkursion hatten die Kurse Referate zu verschiedenen Orten und geographischen Themen Hamburgs vorbereitet, die wir nun vor Ort präsentierten. Wir starteten an den Landungsbrücken. Von dort ging es durch den „Alten Elbtunnel“, der eine wichtige historische Verkehrsverbindung darstellt, um die Skyline Hamburgs vom Südufer der Elbe aus zu betrachten. Anschließend besuchten wir den „Fischmarkt“, ein schon seit dem frühen 18. Jahrhundert bedeutender historischer Handelsplatz.<br>Am späten Nachmittag begann eine exklusive Hafenrundfahrt nur für die Erdkunde-Leistungskurse unserer Schule. Bei untergehender Sonne fuhren wir durch den Hamburger Hafen und die Speicherstadt. Dabei erhielten wir viele Informationen zur Hafenwirtschaft, Geschichte der Speicherstadt sowie zur Bedeutung Hamburgs als internationalen Handelsstandort. Trotz Wind und Kälte war die Stimmung durch das besondere Abendlicht und die Aussicht gut.<br><br>Den Abend durften wir in Kleingruppen verbringen. Viele nutzten die Gelegenheit, verschiedene Weihnachtsmärkte wie den Markt am Rathaus oder den Santa Pauli Weihnachtsmarkt zu besuchen und Hamburg auf eigene Faust zu erkunden.<br><br>Der Dienstag begann mit einer geführten Fahrradtour durch die Stadt. Wir liehen Fahrräder und Helme aus und jeder Leistungskurs wurde von einem Guide begleitet. Die Route führte durch St. Pauli vorbei an der Reeperbahn, den Esso-Häusern, dem Millerntorstadion, über die Sternschanze und das Universitätsviertel bis zum Alsterufer. Nach einer kurzen Pause ging es weiter über den Jungfernstieg, durch die Innenstadt zum Rathaus und schließlich zur Hauptkirche St. Michaelis, dem „Michel“. Dabei lernten wir viel über die Stadtentwicklung, die funktionale Gliederung Hamburgs und seine Wahrzeichen.<br><br>Nach einer Mittagspause setzten wir unser Programm mit weiteren Referaten fort und hörten zum Beispiel einen Vortrag zur sogenannten „Perlenkette Hamburgs“. Dieses städtebauliche Konzept beschreibt die Aufwertung des Nordufers der Elbe durch moderne Neubauten wie die „Tanzenden Türme“ in Kombination mit dem Erhalt historischer Gebäude, beispielsweise der Fischauktionshalle. Ziel ist eine schönere und vielfältige Uferbebauung.<br><br>Weitere Vorträge, unter anderem zum Hans-Albers-Platz, folgten. Den Abschluss bildete der Besuch des Bunkers an der Feldstraße. Nach dem Aufstieg von 389 Stufen erreichten wir die Aussichtsplattform auf etwa 58 Metern Höhe und wurden mit einem beeindruckenden Blick über Hamburg bei Sonnenuntergang belohnt.<br><br>Den zweiten freien Abend nutzten viele zum Shoppen, Essen gehen oder für einen erneuten Besuch der Weihnachtsmärkte.<br><br>Am Mittwoch stand schließlich der letzte Programmpunkt an. Wir haben eine Führung durch die HafenCity gemacht. Zunächst betrachteten wir im Kesselhaus ein Modell des Stadtteils, bevor wir mit Guides durch die HafenCity liefen. Dabei konnten wir viele Unterrichtsinhalte wiedererkennen. Der Strukturwandel des Viertels von dem ehemaligen Hafen- und Industriegebiet hin zu einem modernen innerstädtischen Quartier mit Fokus auf Nachhaltigkeit, Nutzungsmischung und Wohnen wurde gut deutlich. Beeindruckend war vor allem der hohe Anteil an Sozialwohnungen von etwa 20 Prozent und eine Schule mit einem Pausenhof auf dem Dach.<br><br>Nach der Führung, die am Westfield Center endete, haben wir uns auf die Rückreise gemacht. Aufgrund einer Streckensperrung kam es zu Verzögerungen und Umwegen, sodass wir erst mit deutlicher Verspätung wieder in Rastede ankamen.<br><br>Trotz der anstrengenden Tage mit über 20.000 Schritten täglich und einer langen Rückfahrt war die Exkursion ein voller Erfolg. Wir haben Hamburg aus geographischer Perspektive kennengelernt und viele theoretische Inhalte praktisch erlebt. Es war schön, dass alle vier Kurse gemeinsam unterwegs waren und wir die Tage in Hamburg mit einem Großteil des Jahrgangs erleben konnten. Eine Exkursion, die uns sicher lange in Erinnerung bleiben wird und uns hoffentlich auch in der Abiprüfung weiterhelfen wird.</p>"},"id":"55934180-593a-40b1-a1d6-63c3ebdf9a01","isHidden":false,"type":"text"}],"id":"4527cf08-3a28-48fd-8b4a-91d566f43aea","width":"1/1"}],"id":"5c2f2f36-ef4e-492a-80a9-ca0a497a1bc7"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://nsxmarodjyee0ret"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"cec39f36-ecb0-45a6-87ed-09c0793d07d3","isHidden":false,"type":"image"}],"id":"b1e2b324-8347-4778-b529-743c85804165","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://2uhu91ot9bqhtiz1"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"e0b4be31-977e-4696-b1a8-6d274970f23b","isHidden":false,"type":"image"}],"id":"7565d751-cc10-4365-9a12-0c64bae03763","width":"1/2"}],"id":"c6f4937c-c7f4-4451-8ce7-d5b799e995d5"}]
+
+----
+
+Date: 2026-01-15 08:40:00
+
+----
+
+Datumstartseite: 2026-05-15 08:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Luise
+
+----
+
+Tags: Erdkunde, Oberstufe, Excursion, Klassenfahrt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: d6iq62hefycf385u

@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: nsxmarodjyee0ret
+
+----
+
+Template: blocks/image

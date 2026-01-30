@@ -1,0 +1,33 @@
+Title: Der Vorlesewettbewerb für die 6. Klassen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://4rfhjoz8yh4wwuxp"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"dcfb1ea0-db19-4244-8101-a702c4438878","isHidden":false,"type":"image"}],"id":"566378dc-b390-4e79-96ca-5a7895ea8456","width":"1/1"}],"id":"432a5cb1-ab14-4910-a983-608bb2ee0b75"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 3. Dezember 2025 fand an der KGS Rastede erneut der Vorlesewettbewerb der sechsten Klassen statt. Insgesamt zehn Schülerinnen und Schüler nahmen an dem Wettbewerb teil und präsentierten der Jury spannende und abwechslungsreiche Textstellen aus ihren Lieblingsbüchern. Bewertet wurden die Vorträge von Frau Schneemann, Frau Oehne-Berdau, Herrn Dr. Stockmann, der Gewinnerin des Vorjahres Leentje Bruns sowie den Schülerinnen Adriana Kabelitz und Anna Fohrmann aus dem 12. Jahrgang.</p><p>Der Wettbewerb gliederte sich in zwei Durchgänge. In der ersten Runde stellten die Teilnehmenden zunächst ihr selbst gewähltes Buch kurz vor und lasen anschließend eine vorbereitete Textstelle daraus vor. Dabei achtete die Jury unter anderem auf Lesefluss, Betonung, Textverständnis und die Auswahl der Passage. Nach einer kurzen Pause, in der für Getränke und Süßigkeiten gesorgt war, folgte die zweite Runde. Hier mussten die Schülerinnen und Schüler einen ihnen unbekannten Text aus dem Jugendroman „Tintenherz“ von Cornelia Funke vorlesen. Nach zwei Minuten wurde der Text jeweils weitergereicht, sodass alle die gleichen Voraussetzungen hatten.</p><p>Nach beiden Durchgängen und einer ausführlichen Beratung der Jury stand schließlich das Ergebnis fest. Saskia Paetzold konnte sich mit ihrer Lesung aus „Seawalkers“ von Katja Brandis den ersten Platz sichern und überzeugte durch einen besonders sicheren und ausdrucksstarken Vortrag. Den zweiten Platz belegte Jan Habash, der ebenfalls mit einer gelungenen Leseleistung beeindruckte. Beide Gewinner bekamen einen Buchpreis, der von der Rasteder Buchhandlung \"Seite Eins\" gestiftet wurde.</p><p>Der Vorlesewettbewerb erwies sich auch in diesem Jahr als gelungene Veranstaltung und bot allen Beteiligten eine schöne Gelegenheit, ihre Freude am Lesen zu zeigen. Sowohl die Teilnehmenden als auch die Jury blickten auf einen spannenden und gelungenen Wettbewerb zurück.</p>"},"id":"2682a095-8d60-4131-a3d0-4729fb067232","isHidden":false,"type":"text"}],"id":"188dd82a-f974-4e96-8095-574b9469748f","width":"1/1"}],"id":"0ad844fe-c690-4819-bde5-3c380203a138"}]
+
+----
+
+Date: 2026-01-22 10:30:00
+
+----
+
+Datumstartseite: 2026-05-22 10:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anna Fohrmann und Adriana Kabelitz, Jg. 12
+
+----
+
+Tags: Deutsch, Wettbewerb, JG 6
+
+----
+
+Downloads: 
+
+----
+
+Uuid: el7ibo95ltw4rk1v

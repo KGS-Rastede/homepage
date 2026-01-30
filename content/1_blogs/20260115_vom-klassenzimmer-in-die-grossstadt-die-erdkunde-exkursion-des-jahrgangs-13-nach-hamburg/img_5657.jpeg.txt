@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: 2uhu91ot9bqhtiz1
+
+----
+
+Template: blocks/image
