@@ -5,6 +5,7 @@ $alt = $block->alt();
 $caption = $block->caption();
 $crop = $block->crop()->isTrue();
 $link = $block->link();
+$href = $link->isNotEmpty() ? $link->esc() : null;
 $ratio = $block->ratio()->or('auto');
 $src = null;
 
@@ -23,6 +24,9 @@ if ($block->location() == 'web') {
     class="group relative overflow-hidden rounded-lg bg-slate-100 focus-within:ring-4 focus-within:ring-slate-500/50 focus-within:ring-offset-2 focus:ring-4 focus:ring-slate-500/50 focus:ring-offset-2 focus:outline-hidden dark:ring-offset-gray-900"
     tabindex="0"
   >
+    <?php if ($href): ?>
+      <a href="<?= $href ?>" class="block focus:outline-none">
+    <?php endif; ?>
     <img
       src="<?= $src ?>"
       alt="<?= $alt ?>"
@@ -39,6 +43,9 @@ if ($block->location() == 'web') {
       </div>
     <?php endif; ?>
     <!-- ENDE Caption -->
+    <?php if ($href): ?>
+      </a>
+    <?php endif; ?>
 
   </div>
   <!-- END Item -->
