@@ -1,0 +1,33 @@
+Title: "Ihr müsst Menschen sein"
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://lfnmppiwkpzow0y7"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"41affdc3-1621-409a-a6f6-78f3c32a460b","isHidden":false,"type":"image"}],"id":"a088fba8-3ad0-4872-a6ab-81f79a308096","width":"1/2"},{"blocks":[{"content":{"text":"<p>In einer beeindruckenden Veranstaltung der AG Für den Frieden! fand am 28.01.2026 vor vollgefüllter Aula die Erinnerung an den Holocaust statt. Anhand der Lebensgeschichte von Margot Friedländer wurde an die Schrecken der Nazi-Zeit erinnert. Der Ausschnitt eines Interviews, das kurz vor ihrem Tod geführt wurde, brachte die Mahnung Margot Friedländers ganz deutlich hervor: „Nie wieder!“ und „Ihr müsst Menschen sein“. Es sei völlig unwichtig, ob man Christ, Jude, Moslem oder ohne Religion sei – auf das Menschsein kommt es an. &nbsp;</p>"},"id":"46399bb9-8248-4259-965d-a7b6d7645837","isHidden":false,"type":"text"}],"id":"22440632-0cbd-47aa-aec0-2dddf30b2be0","width":"1/2"}],"id":"d9fbf452-c501-498e-b4ce-3d82245beff9"}]
+
+----
+
+Date: 2026-01-30 08:45:00
+
+----
+
+Datumstartseite: 2027-01-26 08:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Claudia Berger
+
+----
+
+Tags: Für den Frieden
+
+----
+
+Downloads: 
+
+----
+
+Uuid: cvm3qg1qbok6qgj4

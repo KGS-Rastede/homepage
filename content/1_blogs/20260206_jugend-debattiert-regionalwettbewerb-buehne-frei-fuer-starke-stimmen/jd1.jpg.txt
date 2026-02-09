@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: cht961tocjo7ylhc
+
+----
+
+Template: blocks/image

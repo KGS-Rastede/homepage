@@ -1,0 +1,33 @@
+Title: Jugend debattiert Regionalwettbewerb: Bühne frei für starke Stimmen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am Donnerstag, den 29.01.2026 fand der Regionalwettbewerb von ,,Jugend debattiert” an der KGS statt und sorgte für spannende Debatten und eine besondere Atmosphäre. Sechs Schulen aus dem regionalen Umkreis waren vertreten, um in der Altersklasse 1 (Jg. 8 - 10) und 2 (Jg. 11 - 13) gegeneinander anzutreten. </p><p>Diskutiert wurde unter anderem zu den Themen Medienförderung, Arztgebühren, Insektenschutz in Gärten und Tierkrankenversicherung. In zwei Qualifikationsrunden stellten die Teilnehmenden Sachkenntnis, Gesprächsfähigkeit, Überzeugungskraft und ihr Ausdrucksvermögen unter Beweis. Nach jeder Debatte erhielten sie hilfreiches Feedback durch die Jury, um ihre Argumentationsfähigkeit weiter zu verbessern. Anschließend wurde bekanntgegeben, wer sich für das Finale in der Aula qualifiziert hat. </p><p>Im Finale der Altersklasse 1 lautete das Thema ,,Sollen für schriftliche Prüfungen in der Oberstufe Anwendungen mit künstlicher Intelligenz als Hilfsmittel zugelassen werden?“ Die Altersklasse 2 diskutierte im Anschluss über die Frage: ,,Soll die Veröffentlichung von Wahlumfragen im Vorfeld von Wahlen verboten werden?” Es folgte eine Feedbackrunde, bevor es zur feierlichen Siegerehrung kam. Besonders erfolgreich war die KGS: Johanna Zawischa (9B3) erreichte den zweiten Platz (Altersklasse 1) hinter Klara Heinke von der Liebfrauenschule Oldenburg. Eva Klatt (11C) belegte in einer knappen Entscheidung den dritten Platz (Altersklasse 2) hinter Jolina Klammer vom Max-Plank-Gymnasium aus Delmenhorst und Franziska Hagen von der Liebfrauenschule. Der Wettbewerbstag war geprägt von viel Leidenschaft, Aufregung und großem Engagement.<em> „Das ist ein totales Highlight in meinem Kalender”,</em> betonte Frau Abke von der EWE Stiftung, die das Projekt finanziell unterstützt. Für alle Beteiligten war Jugend debattiert eine wertvolle Erfahrung und ein besonderes Ereignis im Schuljahr. Ein herzlicher Dank geht an Herrn Grote, Herrn Steinberg und Herrn Osterhues für die engagierte Turnierplanung und die reibungslose Organisation.</p>"},"id":"659dba11-e221-4934-b24a-e62c8fd0f227","isHidden":false,"type":"text"}],"id":"9815a3a7-3468-4942-b398-3dfc28270d52","width":"1/1"}],"id":"2f731a70-9ee3-4648-abd9-21295ef79984"},{"attrs":[],"columns":[{"blocks":[{"content":{"name":"Sofia Babachanow"},"id":"8d8cb84a-cec3-4605-94e5-213ed306720c","isHidden":false,"type":"gastautor"}],"id":"0f3491e2-98d9-41e4-96f8-c6cd722b3dab","width":"1/1"}],"id":"b3096e09-b675-44b8-b852-372c2e653feb"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://aaiauexmnhjgyzuh","file://ofjg3ywmozwo3e5u","file://ew9gbldgg3iyxrep","file://b9ol4sbzblns4lsv","file://x1l72ela5yqdjvf1","file://cht961tocjo7ylhc"],"caption":"","ratio":"","crop":"false"},"id":"15749862-cac6-41b9-abaa-d452feb4c44a","isHidden":false,"type":"gallery"}],"id":"66698d3f-6f99-4052-a5f8-0277a302f6d5","width":"1/1"}],"id":"0b2b61e7-896e-4476-8be8-8b09b2f625c3"}]
+
+----
+
+Date: 2026-02-06 06:45:00
+
+----
+
+Datumstartseite: 2026-06-06 06:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sofia Babachanow
+
+----
+
+Tags: Wettbewerb, Jugend debattiert
+
+----
+
+Downloads: 
+
+----
+
+Uuid: z8biytduvjyxumb0

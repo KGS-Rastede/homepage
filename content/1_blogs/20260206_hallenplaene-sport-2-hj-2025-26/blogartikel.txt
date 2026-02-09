@@ -1,0 +1,33 @@
+Title: Hallenpläne Sport 2. HJ 2025/26
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"https://kgs-rastede.de/media/pages/blogs/hallenplaene-sport-2-hj-2025-26/265fe334bb-1770365661/hallenplaene_2.halbjahr_version-1.pdf\" target=\"_blank\">Hier</a> finden Sie die aktuellen Hallenpläne für das 2. HJ 2025/26</p><p></p><p><a href=\"https://kgs-rastede.de/media/pages/blogs/hallenplaene-sport-2-hj-2025-26/265fe334bb-1770365661/hallenplaene_2.halbjahr_version-1.pdf\" target=\"_blank\">DOWNLOAD</a></p>"},"id":"15bff1a0-d2d5-47ed-8b72-40fafb443d5a","isHidden":false,"type":"text"}],"id":"54fe5c50-f26c-4330-af1f-21e0c35fe764","width":"1/1"}],"id":"5d44c53f-24e5-4cab-bc4a-e89a609606ae"}]
+
+----
+
+Date: 2026-02-06 09:15:00
+
+----
+
+Datumstartseite: 2026-06-06 09:15:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sascha Arzenscheg
+
+----
+
+Tags: Sport, Hallenpläne
+
+----
+
+Downloads: - file://kibaokbkv9wigzlx
+
+----
+
+Uuid: g8fzj07qoxx5itw6

@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: lfnmppiwkpzow0y7
+
+----
+
+Template: blocks/image
