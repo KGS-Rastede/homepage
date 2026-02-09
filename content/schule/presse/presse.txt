@@ -6,6 +6,35 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.ad-hoc-news.de/boerse/news/ueberblick/robocup-nordwest-2026-startet-mit-rekordbeteiligung/68522824
+  name: >
+    RoboCup NordWest 2026 startet mit
+    Rekordbeteiligung
+  anfang: >
+    Der regionale RoboCup in Rastede
+    verzeichnet mit 297 Teilnehmern einen
+    historischen Rekord und dient als
+    Sprungbrett für nationale
+    Meisterschaften.
+  datum: 2026-01-27
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/termine/veranstaltungen-rastede-informationsveranstaltung-ueber-die-gymnasiale-oberstufe_e_63990412-3.html
+  name: >
+    Informationsveranstaltung über die
+    gymnasiale Oberstufe
+  anfang: >
+    Interessierte Eltern sind dazu herzlich
+    eingeladen. Letzter Anmeldetermin für
+    die Aufnahme zum 1. August –
+    einheitlich für alle gymnasialen
+    Oberstufen in Niedersachsen – ist der
+    20. Februar 2026
+  datum: 2026-01-13
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/ammerland/schulvertrag-zwischen-wiefelstede-und-rastede-verhandlungen-ueber-neue-regelung-werden-fortgesetzt_a_4,2,3374556932.html
   name: 'Nach Kündigung des Schulvertrags - Verhandlungen zwischen Rastede und Wiefelstede werden fortgesetzt – Scharfe Kritik aus der Politik'
   anfang: >
@@ -6217,18 +6246,16 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/termine/veranstaltungen-rastede-informationsveranstaltung-ueber-die-gymnasiale-oberstufe_e_63990412-3.html
-  name: >
-    Informationsveranstaltung über die
-    gymnasiale Oberstufe
+    https://www.nwzonline.de/ammerland/debatten-um-ki-und-wahlumfragen-regionalwettbewerb-jugend-debattiert-in-rastede_a_4,2,3659452989.html
+  name: '„Jugend debattiert“ in KGS Rastede - Schüler liefern sich Schlagabtausch auf der Bühne'
   anfang: >
-    Interessierte Eltern sind dazu herzlich
-    eingeladen. Letzter Anmeldetermin für
-    die Aufnahme zum 1. August –
-    einheitlich für alle gymnasialen
-    Oberstufen in Niedersachsen – ist der
-    20. Februar 2026
-  datum: 2026-01-13
+    Schlagabtausch statt Schulstunde – Bei
+    „Jugend debattiert“ in Rastede
+    flogen Argumente zu KI und Wahlumfragen
+    im Sekundentakt. Vier Schülerinnen
+    qualifizierten sich für den
+    Landeswettbewerb.
+  datum: 2026-01-29
   medium: nwz
 
 ----
