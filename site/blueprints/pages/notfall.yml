@@ -8,11 +8,47 @@ options:
     admin: true
 
 sections:
+
+sections:
+  knoepfe:
+    type: fields
+    fields:
+      headline:
+        label: Buttons
+        type: headline
+
+      buttons:
+        label: Knöpfe für den wichtigsten Unterseiten
+        type: structure
+        sortable: true
+        columns:
+          text:
+            width: 2/5
+          page:
+            width: 2/5
+          active:
+            width: 1/5
+        fields:
+          active:
+            label: Aktiv
+            type: toggle
+            default: true
+            text:
+              - Inaktiv
+              - Aktiv
+          text:
+            label: Button-Text
+            type: text
+            required: true
+          page:
+            label: Zielseite (intern)
+            type: pages
+            multiple: false
+            required: true
+
+          
+  
   content:
-
-
-
-
     type: fields
     fields:
 
