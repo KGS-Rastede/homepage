@@ -6,7 +6,8 @@ Kirby ist soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann k�
 
 - [composer](https://getcomposer.org/download/)
 - WebServer (WAMP, LAMP, XAMPP, etc) oder falls [VS Code](https://code.visualstudio.com/) benutzt wird, die Extension [PHP-Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
-- PHP 8 (mindestens PHP 8.3)
+- PHP 8 (mindestens PHP 8.4)
+- [Node.js](https://nodejs.org/) (für TailwindCSS und JS-Abhängigkeiten)
 - [git](https://git-scm.com/downloads)
 - Ein Editor wie Visual Studio Code oder ZED
 
@@ -34,7 +35,15 @@ In Git fehlt ein Unterordner namens 'vendor'. Man muss noch den Befehl
 composer install
 ```
 
-eingeben. Dieser Befehl läd fehlende Abhängkeiten nach. Das dauert ein paar Minuten. Wenn das abgeschlossen ist sollte man im 'localhost' die neue Seite sehen.
+eingeben. Dieser Befehl läd fehlende Abhängkeiten nach. Das dauert ein paar Minuten.
+
+Danach noch die JavaScript-Abhängigkeiten installieren:
+
+```console
+npm install
+```
+
+Wenn das abgeschlossen ist sollte man im 'localhost' die neue Seite sehen.
 
 # Probleme bei diesen Sachen?
 
@@ -68,7 +77,7 @@ Ich verwende [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/).
 
 ## PHP (muss eigentlich nicht direkt installiert werden, kommt mit dem Webserver)
 
-Kirby setzt technisch gesehen PHP 8.2 voraus. Die echte Homepage läuft schon auf PHP 8.4.
+Kirby setzt technisch gesehen PHP 8.2 voraus, wir verwenden aber mindestens PHP 8.4. Die echte Homepage läuft auf PHP 8.4.
 
 Man muss PHP aber nicht direkt installieren, denn PHP kommt als Teil vom Wamp64 mit.
 
@@ -81,7 +90,7 @@ Gegebenfalls muss man aber noch den Pfad ("PATH") unter Windows einrichten. Das 
 Ein sehr gute Methode ist [DDEV](https://getkirby.com/docs/cookbook/development-deployment/ddev) mit Docker. Dann muss man weder MAMP noch WAMP etc installieren, alle Pakete sind aktuell. Die Anleitung von Kirby funktioniert super.
 
 ```bash
-ddev config --php-version=8.3 --omit-containers=db
+ddev config --php-version=8.4 --omit-containers=db
 ```
 
 zum Reparieren hat schonmal geholfen:
