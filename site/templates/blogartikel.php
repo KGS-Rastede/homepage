@@ -10,9 +10,9 @@ slot();
   ]); ?>
 
   <?php if ($page->date()->isNotEmpty() || $page->author()->isNotEmpty()): ?>
-  <h3 class="text-xl leading-relaxed font-medium text-gray-700 dark:text-gray-300">
+  <h3 class="text-xl leading-relaxed font-medium text-slate-700 dark:text-slate-300">
     <?php if ($page->author()->isNotEmpty()): ?>
-      <span class="mr-4 text-gray-600 dark:text-gray-300">
+      <span class="mr-4 text-slate-600 dark:text-slate-300">
         <?= $page->author() ?>
       </span>
     <?php endif; ?>

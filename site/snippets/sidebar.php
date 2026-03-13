@@ -41,10 +41,10 @@ if ($anzahlVorhandenerBloecke >= 1): ?>
           <?= $page->sidetitel()->or('Weitere Informationen') ?>
           <i class="bi bi-box-arrow-up-right ml-2"></i>
         </h5>
-        <div class="flex flex-col gap-2 p-3 leading-relaxed text-gray-600">
+        <div class="flex flex-col gap-2 p-3 leading-relaxed text-slate-600">
           <?php foreach ($sidebar->toStructure() as $sidebarItem): ?>
             <a href="<?= $sidebarItem->link() ?>" target="_blank" rel="noopener">
-              <div role="button" class="flex justify-center p-1 transition-all rounded-lg hover:bg-gray-300 hover:bg-opacity-80 hover:text-gray-700">
+              <div role="button" class="flex justify-center p-1 transition-all rounded-lg hover:bg-slate-300/80 hover:text-slate-700">
                 <?= $sidebarItem->name()->or($sidebarItem->link()) ?>
               </div>
             </a>
@@ -59,10 +59,10 @@ if ($anzahlVorhandenerBloecke >= 1): ?>
           <?= $page->relatedtitel()->or('Weitere Informationen') ?>
           <i class="bi bi-arrow-right ml-2"></i>
         </h5>
-        <div class="flex flex-col gap-2 p-3 leading-relaxed text-gray-600">
+        <div class="flex flex-col gap-2 p-3 leading-relaxed text-slate-600">
           <?php foreach ($related->toPages() as $relatedPage): ?>
             <a href="<?= $relatedPage->url() ?>">
-              <div role="button" class="flex justify-center p-1 transition-all rounded-lg hover:bg-gray-300 hover:bg-opacity-80 hover:text-gray-700">
+              <div role="button" class="flex justify-center p-1 transition-all rounded-lg hover:bg-slate-300/80 hover:text-slate-700">
                 <?= $relatedPage->title() ?>
               </div>
             </a>
@@ -77,11 +77,11 @@ if ($anzahlVorhandenerBloecke >= 1): ?>
           <?= $page->downloadtitel()->or('Zugehörige Downloads') ?>
           <i class="bi bi-download ml-2"></i>
         </h5>
-        <div class="flex flex-col gap-2 p-3 leading-relaxed text-gray-600">
+        <div class="flex flex-col gap-2 p-3 leading-relaxed text-slate-600">
           <?php foreach ($downloads->toFiles() as $file): ?>
 
-            <a a href="<?= $file->url() ?>" class="flex flex-row items-center p-1 transition-all rounded-lg hover:bg-gray-300 hover:bg-opacity-80 hover:text-gray-700">
-              <span class="ml-4 mr-4 hidden rounded-full bg-gray-900/5 px-2 font-mono text-xs/5 font-medium whitespace-nowrap text-gray-600 hover:bg-gray-200 md:block">
+            <a a href="<?= $file->url() ?>" class="flex flex-row items-center p-1 transition-all rounded-lg hover:bg-slate-300/80 hover:text-slate-700">
+              <span class="ml-4 mr-4 hidden rounded-full bg-slate-900/5 px-2 font-mono text-xs/5 font-medium whitespace-nowrap text-slate-600 hover:bg-slate-200 md:block">
                 <?= $file->extension() ?>
               </span>
               <p class="flex flex-grow">

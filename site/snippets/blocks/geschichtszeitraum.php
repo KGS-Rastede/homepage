@@ -4,7 +4,7 @@
 
 
 <!-- Timeline: Centered Simple -->
-<div class="relative py-5 dark:text-gray-100">
+<div class="relative py-5 dark:text-slate-100">
   <!-- Vertical Guide -->
   <div
     class="absolute top-0 bottom-0 left-0 flex w-10 flex-col justify-center md:w-12 lg:left-1/2 lg:-ml-6"

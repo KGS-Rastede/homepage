@@ -15,7 +15,7 @@
   x-transition:leave-start="opacity-100 translate-x-0"
   x-transition:leave-end="opacity-50 translate-x-full"
   id="tkMobileNav"
-  class="fixed top-0 right-0 bottom-0 z-50 min-w-80 w-10/12 overflow-auto bg-white/95 shadow-lg md:w-3/5 lg:hidden dark:bg-gray-800/95"
+  class="fixed top-0 right-0 bottom-0 z-50 min-w-80 w-10/12 overflow-auto bg-white/95 shadow-lg md:w-3/5 lg:hidden dark:bg-slate-800/95"
   tabindex="-1"
   aria-labelledby="tkMobileNavLabel"
   x-bind:aria-modal="mobileNavOpen ? 'true' : null"
@@ -26,7 +26,7 @@
     <a
       id="tkMobileNavLabel"
       href="<?= $site->url() ?>"
-      class="group inline-flex items-center gap-2 text-lg font-bold tracking-wide text-gray-900 hover:text-gray-600 dark:text-gray-100 dark:hover:text-gray-300">
+      class="group inline-flex items-center gap-2 text-lg font-bold tracking-wide text-slate-900 hover:text-slate-600 dark:text-slate-100 dark:hover:text-slate-300">
       <?= asset('assets/bilder/logo.svg')->read() ?>
 
       <span>KGS Rastede</span>
@@ -37,7 +37,7 @@
     <button
       x-on:click="mobileNavOpen = false"
       type="button"
-      class="inline-flex items-center justify-center gap-2 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-gray-900 hover:border-gray-300 hover:text-gray-900 hover:shadow-xs focus:ring-3 focus:ring-gray-300/25 active:border-gray-200 active:shadow-none dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:border-gray-600 dark:hover:text-gray-200 dark:focus:ring-gray-600/40 dark:active:border-gray-700">
+      class="inline-flex items-center justify-center gap-2 rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-slate-900 hover:border-slate-300 hover:text-slate-900 hover:shadow-xs focus:ring-3 focus:ring-slate-300/25 active:border-slate-200 active:shadow-none dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:border-slate-600 dark:hover:text-slate-200 dark:focus:ring-slate-600/40 dark:active:border-slate-700">
       <svg
         class="hi-mini hi-x-mark -mx-0.5 inline-block size-5"
         xmlns="http://www.w3.org/2000/svg"
@@ -50,7 +50,7 @@
     </button>
     <!-- END Close Mobile Navigation -->
   </div>
-  <div class="h-px bg-gray-200/75 dark:bg-gray-700/75"></div>
+  <div class="h-px bg-slate-200/75 dark:bg-slate-700/75"></div>
   <div class="flex flex-col gap-8 px-6 py-6">
     <div class="grid grid-cols-2 gap-6">
       <?php snippet(
@@ -167,16 +167,16 @@
       <?php endsnippet(); ?>
     </div>
   </div>
-  <div class="h-px bg-gray-200/75 dark:bg-gray-700/75"></div>
+  <div class="h-px bg-slate-200/75 dark:bg-slate-700/75"></div>
   <div class="flex flex-col gap-2 p-6">
     <form
       @click.outside="searchOpen = false"
 
       action="/search">
-      <div class="item-center space-x-2 w-md rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-gray-900 hover:border-gray-300 hover:text-gray-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-gray-300 focus-within:outline-opacity-25 active:border-gray-200 active:shadow-none lg:inline-flex dark:transparent dark:text-gray-300 dark:hover:border-gray-600 dark:focus-within:outline-opacity-40 dark:active:border-gray-700">
+      <div class="item-center space-x-2 w-md rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-slate-900 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-slate-300 focus-within:outline-opacity-25 active:border-slate-200 active:shadow-none lg:inline-flex dark:transparent dark:text-slate-300 dark:hover:border-slate-600 dark:focus-within:outline-opacity-40 dark:active:border-slate-700">
         <button type="button"
           @click="searchOpen = false"
-          class="text-gray-500 bg-white rounded-full px-1 hover:text-gray-700 hover:bg-gray-200">
+          class="text-slate-500 bg-white rounded-full px-1 hover:text-slate-700 hover:bg-slate-200">
           <i class="bi bi-x"></i>
         </button>
         <input type="text"
@@ -201,5 +201,5 @@
   x-transition:leave="transition ease-in duration-150"
   x-transition:leave-start="opacity-100"
   x-transition:leave-end="opacity-0"
-  class="fixed inset-0 z-40 bg-gray-900/20 backdrop-blur-xs will-change-auto lg:hidden dark:bg-gray-900/80"></div>
+  class="fixed inset-0 z-40 bg-slate-900/20 backdrop-blur-xs will-change-auto lg:hidden dark:bg-slate-900/80"></div>
 <!-- END Mobile Navigation Backdrop -->

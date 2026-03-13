@@ -1,5 +1,5 @@
 <?php if ($block->lesensieauch()->isNotEmpty()): ?>
-  <div class="flex flex-col overflow-hidden rounded-lg bg-white shadow-sm my-4 dark:bg-gray-800 dark:text-gray-100">
+  <div class="flex flex-col overflow-hidden rounded-lg bg-white shadow-sm my-4 dark:bg-slate-800 dark:text-slate-100">
     <div
       class="w-full grow space-y-4 border-l-8 border-red-500 p-5 sm:flex sm:items-center sm:justify-between sm:space-x-2 sm:space-y-0">
 

@@ -11,7 +11,7 @@ slot();
       <div class="mb-4">
         <img class="aspect-[2/3] w-full rounded-2xl object-cover"
           src="<?= $kontakt->images()->first()->url() ?>" />
-        <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+        <h3 class="mt-3 text-lg font-semibold leading-6 text-slate-900 group-hover:text-slate-600">
           <?= $kontakt->title() ?>
         </h3>
         <p class="mt-3 text-slate-600">

@@ -14,10 +14,10 @@ slot();
     <div class="group  bg-slate-100 p-4">
 
       <div class="mb-4">
-        <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+        <h3 class="mt-3 text-lg font-semibold leading-6 text-slate-900 group-hover:text-slate-600">
           <?= $datei->anzeigename()->or($datei->name()) ?>
         </h3>
-        <p class="mt-5 leading-6 text-gray-600">
+        <p class="mt-5 leading-6 text-slate-600">
           <?= $datei->beschreibung() ?>
         </p>
 

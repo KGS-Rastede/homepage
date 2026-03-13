@@ -6,23 +6,23 @@ slot();
 <div class="bg-white py-24 sm:py-32">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:mx-0">
-      <p class="mt-2 text-lg leading-8 text-gray-600">
+      <p class="mt-2 text-lg leading-8 text-slate-600">
         <?= $page->Lehrplantext()->kirbytext() ?>
       </p>
     </div>
     <div
-      class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+      class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-slate-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
 
 
       <article class="flex max-w-xl flex-col items-start justify-between">
         <div class="flow-root">
-          <h1 class="my-8 text-2xl font-bold tracking-tight text-gray-900 sm:text-6xl">Unterricht</h1>
+          <h1 class="my-8 text-2xl font-bold tracking-tight text-slate-900 sm:text-6xl">Unterricht</h1>
 
           <ul role="list" class="-mb-8">
             <?php foreach ($page->Unterricht()->toFiles() as $datei): ?>
               <li>
                 <div class="relative pb-8">
-                  <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
+                  <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-slate-200" aria-hidden="true"></span>
                   <div class="relative flex space-x-3">
                     <div>
                       <span class="h-8 w-8 rounded-full bg-slate-300 flex items-center justify-center ring-8 ring-white">
@@ -35,9 +35,9 @@ slot();
                     </div>
                     <div class="flex min-w-0 flex-1 justify-between space-x-4 pt-1.5">
                       <div>
-                        <p class="text-sm text-gray-500">
+                        <p class="text-sm text-slate-500">
                           <?= $datei->extension() ?>
-                          <a href="<?= $datei->url() ?>" class="font-medium text-gray-900">
+                          <a href="<?= $datei->url() ?>" class="font-medium text-slate-900">
                             <?= $datei->Anzeigename()->or($datei->name()) ?>
                           </a>
                         </p>
@@ -49,7 +49,7 @@ slot();
             <?php endforeach; ?>
             <li>
               <div class="relative pb-8">
-                <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
+                <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-slate-200" aria-hidden="true"></span>
                 <div class="relative flex space-x-3">
                   <div>
                     <span class="h-8 w-8 rounded-full bg-slate-300 flex items-center justify-center ring-8 ring-white">
@@ -63,11 +63,11 @@ slot();
                   </div>
                   <div class="flex min-w-0 flex-1 justify-between space-x-4 pt-1.5">
                     <div>
-                      <p class="text-sm text-gray-500">
+                      <p class="text-sm text-slate-500">
                         <?= $datei->extension() ?>
                         <a href="<?= page(
                           '/allgemeines/schulbuchlisten',
-                        )->url() ?>" class="font-medium text-gray-900">
+                        )->url() ?>" class="font-medium text-slate-900">
                           Schulbuchlisten
                         </a>
                       </p>
@@ -88,13 +88,13 @@ slot();
       <article class="flex max-w-xl flex-col items-start justify-between">
 
         <div class="flow-root">
-          <h1 class="my-8 text-2xl font-bold tracking-tight text-gray-900 sm:text-6xl">Datenschutz</h1>
+          <h1 class="my-8 text-2xl font-bold tracking-tight text-slate-900 sm:text-6xl">Datenschutz</h1>
 
           <ul role="list" class="-mb-8">
             <?php foreach ($page->Datenschutz()->toFiles() as $datei): ?>
               <li>
                 <div class="relative pb-8">
-                  <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
+                  <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-slate-200" aria-hidden="true"></span>
                   <div class="relative flex space-x-3">
                     <div>
                       <span class="h-8 w-8 rounded-full bg-slate-300 flex items-center justify-center ring-8 ring-white">
@@ -107,9 +107,9 @@ slot();
                     </div>
                     <div class="flex min-w-0 flex-1 justify-between space-x-4 pt-1.5">
                       <div>
-                        <p class="text-sm text-gray-500">
+                        <p class="text-sm text-slate-500">
                           <?= $datei->extension() ?>
-                          <a href="<?= $datei->url() ?>" class="font-medium text-gray-900">
+                          <a href="<?= $datei->url() ?>" class="font-medium text-slate-900">
                             <?= $datei->Anzeigename()->or($datei->name()) ?>
                           </a>
                         </p>
@@ -122,7 +122,7 @@ slot();
             <?php endforeach; ?>
             <li>
               <div class="relative pb-8">
-                <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
+                <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-slate-200" aria-hidden="true"></span>
                 <div class="relative flex space-x-3">
                   <div>
                     <span class="h-8 w-8 rounded-full bg-slate-300 flex items-center justify-center ring-8 ring-white">
@@ -135,11 +135,11 @@ slot();
                   </div>
                   <div class="flex min-w-0 flex-1 justify-between space-x-4 pt-1.5">
                     <div>
-                      <p class="text-sm text-gray-500">
+                      <p class="text-sm text-slate-500">
                         <?= $datei->extension() ?>
                         <a href="<?= page(
                           '/nutzungsordnung',
-                        )->url() ?>" class="font-medium text-gray-900">
+                        )->url() ?>" class="font-medium text-slate-900">
                           Zugang zum Netzwerk
                         </a>
                       </p>
@@ -157,13 +157,13 @@ slot();
       <article class="flex max-w-xl flex-col items-start justify-between">
 
         <div class="flow-root">
-          <h1 class="my-8 text-2xl font-bold tracking-tight text-gray-900 sm:text-6xl">Schule</h1>
+          <h1 class="my-8 text-2xl font-bold tracking-tight text-slate-900 sm:text-6xl">Schule</h1>
 
           <ul role="list" class="-mb-8">
             <?php foreach ($page->Schule()->toFiles() as $datei): ?>
               <li>
                 <div class="relative pb-8">
-                  <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
+                  <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-slate-200" aria-hidden="true"></span>
                   <div class="relative flex space-x-3">
                     <div>
                       <span class="h-8 w-8 rounded-full bg-slate-300 flex items-center justify-center ring-8 ring-white">
@@ -176,9 +176,9 @@ slot();
                     </div>
                     <div class="flex min-w-0 flex-1 justify-between space-x-4 pt-1.5">
                       <div>
-                        <p class="text-sm text-gray-500">
+                        <p class="text-sm text-slate-500">
                           <?= $datei->extension() ?>
-                          <a href="<?= $datei->url() ?>" class="font-medium text-gray-900">
+                          <a href="<?= $datei->url() ?>" class="font-medium text-slate-900">
                             <?= $datei->Anzeigename()->or($datei->name()) ?>
                           </a>
                         </p>
@@ -190,7 +190,7 @@ slot();
             <?php endforeach; ?>
             <li>
               <div class="relative pb-8">
-                <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
+                <span class="absolute left-4 top-4 -ml-px h-full w-0.5 bg-slate-200" aria-hidden="true"></span>
                 <div class="relative flex space-x-3">
                   <div>
                     <span class="h-8 w-8 rounded-full bg-slate-300 flex items-center justify-center ring-8 ring-white">
@@ -203,11 +203,11 @@ slot();
                   </div>
                   <div class="flex min-w-0 flex-1 justify-between space-x-4 pt-1.5">
                     <div>
-                      <p class="text-sm text-gray-500">
+                      <p class="text-sm text-slate-500">
                         <?= $datei->extension() ?>
                         <a href="<?= page(
                           '/allgemeines/schulbuchlisten',
-                        )->url() ?>" class="font-medium text-gray-900">
+                        )->url() ?>" class="font-medium text-slate-900">
                           Schulbuchlisten
                         </a>
                       </p>

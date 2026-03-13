@@ -6,7 +6,7 @@
     </div>
     <!-- END Card Header -->
 
-    <ul class="divide-y divide-slate-200 rounded-lg border border-slate-300 bg-white dark:divide-slate-700 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100">
+    <ul class="divide-y divide-slate-200 rounded-lg border border-slate-300 bg-white dark:divide-slate-700 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
       <?php
       $items = page('schule/presse')
         ->pressenachrichten()

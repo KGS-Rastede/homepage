@@ -52,7 +52,7 @@ if (
 
 <div class="basis-1/4">
   <div
-    class="col-span-1 flex flex-col px-2 pt-3 pb-8 shadow-xl ring-1 ring-gray-900/5 sm:mx-auto sm:max-w-lg sm:rounded-lg  md:px-4 h-full bg-slate-50 hover:bg-slate-100">
+    class="col-span-1 flex flex-col px-2 pt-3 pb-8 shadow-xl ring-1 ring-slate-900/5 sm:mx-auto sm:max-w-lg sm:rounded-lg  md:px-4 h-full bg-slate-50 hover:bg-slate-100">
     <?php if ($blogCardImage): ?>
       <img src="<?= $blogCardImage->url() ?>" class="mb-2 w-full rounded-2xl" alt="<?= $blogCardImageAlt ?>">
     <?php endif; ?>

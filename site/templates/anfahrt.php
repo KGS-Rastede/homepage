@@ -11,7 +11,7 @@ slot();
   </p>
 
   <dl
-    class="mt-4 grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base leading-7 text-gray-300 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:gap-x-8 lg:gap-y-16">
+    class="mt-4 grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base leading-7 text-slate-300 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:gap-x-8 lg:gap-y-16">
     <div class="relative pl-9">
       <dt class="inline font-semibold text-white">
 

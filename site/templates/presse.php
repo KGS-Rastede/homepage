@@ -2,7 +2,7 @@
 slot();
 ?>
 
-<div class="grid grid-cols-1 mb-8 gap-x-8 gap-y-16 pt-10 border-gray-200 lg:grid-cols-4">
+<div class="grid grid-cols-1 mb-8 gap-x-8 gap-y-16 pt-10 border-slate-200 lg:grid-cols-4">
 
   <?php
   // `toStructure()` erzeugt einen Iterator fuer die URLs
@@ -29,7 +29,7 @@ slot();
 
     <a href="<?= $item->link() ?>">
       <article
-        class="col-span-1 flex flex-col h-full px-2 py-6 text-gray-500 bg-slate-50 shadow-xl ring-1 ring-gray-900/5 group sm:mx-auto sm:max-w-lg sm:rounded-lg md:px-4 hover:bg-slate-100">
+        class="col-span-1 flex flex-col h-full px-2 py-6 text-slate-500 bg-slate-50 shadow-xl ring-1 ring-slate-900/5 group sm:mx-auto sm:max-w-lg sm:rounded-lg md:px-4 hover:bg-slate-100">
 
         <div class="flex items-center gap-x-4 text-xs">
           <time datetime="<?= $item->datum()->html() ?>">
@@ -41,7 +41,7 @@ slot();
           </span>
         </div>
         <div class="relative">
-          <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-500">
+          <h3 class="mt-3 text-lg font-semibold leading-6 text-slate-900 group-hover:text-slate-500">
             <span class="absolute inset-0"></span>
             <?= $item->name()->html() ?>
           </h3>

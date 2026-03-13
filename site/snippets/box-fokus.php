@@ -5,13 +5,13 @@
 
     <h2 class="font-semibold p-2 mt-4 text-4xl">Aktuell im Fokus</h2>
 
-    <div class="flex shadow-sm flex-col my-4 bg-slate-50 overflow-hidden dark:text-gray-100 dark:bg-gray-800">
+    <div class="flex shadow-sm flex-col my-4 bg-slate-50 overflow-hidden dark:text-slate-100 dark:bg-slate-800">
 
         <?php foreach (collection('blogs-topartikel') as $subpage): ?>
 
             <?php if (!$subpage->isFirst(collection('blogs-topartikel'))): ?>
                 <h3 class="flex items-center py-2 my-4">
-                    <span aria-hidden="true" class="grow bg-gray-200 rounded h-0.5 dark:bg-gray-700/75"></span>
+                    <span aria-hidden="true" class="grow bg-slate-200 rounded h-0.5 dark:bg-slate-700/75"></span>
                 </h3>
             <?php endif;
           //Trennstrich kommt nur, wenn es keine Artikel vor diesem Element gibt

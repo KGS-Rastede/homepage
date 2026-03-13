@@ -21,7 +21,7 @@ if ($block->location() == 'web') {
 <?php if ($src): ?>
   <!-- Item -->
   <div
-    class="group relative overflow-hidden rounded-lg bg-slate-100 focus-within:ring-4 focus-within:ring-slate-500/50 focus-within:ring-offset-2 focus:ring-4 focus:ring-slate-500/50 focus:ring-offset-2 focus:outline-hidden dark:ring-offset-gray-900"
+    class="group relative overflow-hidden rounded-lg bg-slate-100 focus-within:ring-4 focus-within:ring-slate-500/50 focus-within:ring-offset-2 focus:ring-4 focus:ring-slate-500/50 focus:ring-offset-2 focus:outline-hidden dark:ring-offset-slate-900"
     tabindex="0"
   >
     <?php if ($href): ?>

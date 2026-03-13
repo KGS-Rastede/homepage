@@ -4,17 +4,17 @@
 <!-- Page Container -->
 <div
     id="page-container"
-    class="mx-auto flex min-h-dvh w-full min-w-80 flex-col bg-gray-100 dark:bg-gray-900 dark:text-gray-100">
+    class="mx-auto flex min-h-dvh w-full min-w-80 flex-col bg-slate-100 dark:bg-slate-900 dark:text-slate-100">
     <!-- Page Content -->
     <main id="page-content" class="flex max-w-full flex-auto flex-col">
         <div
-            class="relative flex min-h-dvh items-center overflow-hidden bg-white dark:bg-gray-800">
+            class="relative flex min-h-dvh items-center overflow-hidden bg-white dark:bg-slate-800">
             <!-- Left/Right Background -->
             <div
-                class="absolute top-0 bottom-0 left-0 -ml-44 w-48 bg-gray-50 md:-ml-28 md:skew-x-6 dark:bg-gray-500/10"
+                class="absolute top-0 bottom-0 left-0 -ml-44 w-48 bg-slate-50 md:-ml-28 md:skew-x-6 dark:bg-slate-500/10"
                 aria-hidden="true"></div>
             <div
-                class="absolute top-0 right-0 bottom-0 -mr-44 w-48 bg-gray-50 md:-mr-28 md:skew-x-6 dark:bg-gray-500/10"
+                class="absolute top-0 right-0 bottom-0 -mr-44 w-48 bg-slate-50 md:-mr-28 md:skew-x-6 dark:bg-slate-500/10"
                 aria-hidden="true"></div>
             <!-- END Left/Right Background -->
 
@@ -22,7 +22,7 @@
             <div
                 class="relative container mx-auto space-y-16 px-8 py-16 text-center lg:py-32 xl:max-w-7xl">
                 <div>
-                    <div class="mb-5 text-gray-300 dark:text-gray-300/50">
+                    <div class="mb-5 text-slate-300 dark:text-slate-300/50">
                         <svg
                             class="hi-outline hi-document-magnifying-glass inline-block size-12"
                             xmlns="http://www.w3.org/2000/svg"
@@ -38,23 +38,23 @@
                         </svg>
                     </div>
                     <div
-                        class="text-6xl font-extrabold text-gray-600 md:text-7xl dark:text-gray-500">
+                        class="text-6xl font-extrabold text-slate-600 md:text-7xl dark:text-slate-500">
                         404
                     </div>
                     <div
-                        class="mx-auto my-6 h-1.5 w-12 rounded-lg bg-gray-200 md:my-10 dark:bg-gray-700"
+                        class="mx-auto my-6 h-1.5 w-12 rounded-lg bg-slate-200 md:my-10 dark:bg-slate-700"
                         aria-hidden="true"></div>
                     <h1 class="mb-3 text-2xl font-extrabold md:text-3xl">
                         Die Seite wurde nicht gefunden
                     </h1>
                     <h2
-                        class="mx-auto mb-5 font-medium text-gray-500 md:leading-relaxed lg:w-3/5 dark:text-gray-300">
+                        class="mx-auto mb-5 font-medium text-slate-500 md:leading-relaxed lg:w-3/5 dark:text-slate-300">
                         Scheinbar wurde die Seite nicht gefunden. Vielleicht wurde sie gelöscht oder umbenannt. Benutzten Sie gerne die Suche.
                     </h2>
                     <form class="mx-auto max-w-sm space-y-1" onsubmit="return false;">
                         <div class="relative">
                             <div
-                                class="pointer-events-none absolute inset-y-0 left-0 my-px ml-px flex w-12 items-center justify-center rounded-l-lg text-gray-500 dark:text-gray-300">
+                                class="pointer-events-none absolute inset-y-0 left-0 my-px ml-px flex w-12 items-center justify-center rounded-l-lg text-slate-500 dark:text-slate-300">
                                 <svg
                                     class="hi-mini hi-magnifying-glass inline-block size-5"
                                     xmlns="http://www.w3.org/2000/svg"
@@ -72,7 +72,7 @@
                                 id="search"
                                 name="search"
                                 placeholder="Suchen..."
-                                class="block w-full rounded-lg border border-gray-200 py-3 pr-5 pl-12 leading-6 placeholder-gray-500 focus:border-gray-500 focus:ring-3 focus:ring-gray-500/50 dark:border-gray-600 dark:bg-gray-800 dark:placeholder-gray-400 dark:focus:border-gray-500" />
+                                class="block w-full rounded-lg border border-slate-200 py-3 pr-5 pl-12 leading-6 placeholder-slate-500 focus:border-slate-500 focus:ring-3 focus:ring-slate-500/50 dark:border-slate-600 dark:bg-slate-800 dark:placeholder-slate-400 dark:focus:border-slate-500" />
                         </div>
                     </form>
                 </div>

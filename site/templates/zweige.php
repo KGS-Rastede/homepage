@@ -9,11 +9,11 @@ slot();
 
   <?php foreach ($page->children() as $zweig): ?>
     <div class="bg-white p-4 shadow-md">
-      <h1 class="mt-6 text-2xl font-semibold text-gray-900">
+      <h1 class="mt-6 text-2xl font-semibold text-slate-900">
         <?= $zweig->title() ?>
       </h1>
 
-      <h3 class="my-8 block text-gray-900">
+      <h3 class="my-8 block text-slate-900">
         Leitung:
         <?= $zweig->leitung() ?>
 

@@ -9,7 +9,7 @@ Siehe: https://getkirby.com/docs/guide/templates/snippets#passing-slots-to-snipp
     <!-- Sichtbarer Titel -->
     <a
         href="javascript:void(0)"
-        class="inline-flex h-8 items-center gap-1 px-2.5 text-lg font-semibold text-gray-900 group-hover:text-kgs-blue dark:text-gray-100 dark:group-hover:text-kgs-lblue">
+        class="inline-flex h-8 items-center gap-1 px-2.5 text-lg font-semibold text-slate-900 group-hover:text-kgs-blue dark:text-slate-100 dark:group-hover:text-kgs-lblue">
         <span><?= $title ?></span>
         <svg
             fill="currentColor"
@@ -28,7 +28,7 @@ Siehe: https://getkirby.com/docs/guide/templates/snippets#passing-slots-to-snipp
     <div
         class="invisible absolute top-16 right-8 left-8 z-1 pt-4 group-hover:visible">
         <div
-            class="origin-top scale-90 overflow-hidden rounded-lg bg-white opacity-0 ring-1 shadow-xl ring-black/5 transition duration-300 ease-out group-hover:scale-100 group-hover:opacity-100 dark:bg-gray-800 dark:ring-white/10">
+            class="origin-top scale-90 overflow-hidden rounded-lg bg-white opacity-0 ring-1 shadow-xl ring-black/5 transition duration-300 ease-out group-hover:scale-100 group-hover:opacity-100 dark:bg-slate-800 dark:ring-white/10">
             <?= $slots->menuContent() ?>
         </div>
     </div>

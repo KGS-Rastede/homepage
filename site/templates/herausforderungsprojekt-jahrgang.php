@@ -16,10 +16,10 @@ slot();
             <img src="<?= $unterprojekt->teamlogo()->toFile()->url() ?>"
               class="aspect-[3/2] w-full rounded-2xl object-cover" alt="Teamlogo">
             <div class="mt-1">
-              <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+              <h3 class="mt-3 text-lg font-semibold leading-6 text-slate-900 group-hover:text-slate-600">
                 <?= $unterprojekt->title() ?>
               </h3>
-              <p class="mt-5 leading-2 text-gray-600">
+              <p class="mt-5 leading-2 text-slate-600">
                 <?= $unterprojekt->heading() ?>
               </p>
             </div>

@@ -17,9 +17,9 @@ Set [x-cloak] as display: none !important;
 
 -->
 
-  <div x-data="{ selected: null }" class="border border-gray-200 rounded-lg" class="p-3">
+  <div x-data="{ selected: null }" class="border border-slate-200 rounded-lg" class="p-3">
     <!-- The accordion items -->
-    <div class="[&>*]:border-b [&>*]:border-b-gray-200 last:[&>*]:border-b-0">
+    <div class="[&>*]:border-b [&>*]:border-b-slate-200 last:[&>*]:border-b-0">
       <?php $accordion = $acc->first();
   // erstes Element aus der Struktur erhalten
   ?>

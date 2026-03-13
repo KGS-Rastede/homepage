@@ -15,11 +15,11 @@ slot();
   <div class="mt-8 flow-root">
     <div class="-mx-4 -my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
       <div class="inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8">
-        <table class="min-w-full divide-y divide-gray-300">
+        <table class="min-w-full divide-y divide-slate-300">
 
           <thead>
             <tr>
-              <th scope="col" class="px-3 py-3.5 text-left text-xl font-semibold text-gray-900">Lehrplan</th>
+              <th scope="col" class="px-3 py-3.5 text-left text-xl font-semibold text-slate-900">Lehrplan</th>
             </tr>
           </thead>
           <tbody>

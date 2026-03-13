@@ -48,7 +48,7 @@
     <div
       class="container mx-auto space-y-8 px-4 py-16 sm:space-y-16 lg:px-8 lg:py-32 xl:max-w-7xl">
       <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">Herzlich willkommen</h1>
-      <h2 class="text-2xl text-gray-300">an der Kooperativen Gesamtschule Rastede</h2>
+      <h2 class="text-2xl text-slate-300">an der Kooperativen Gesamtschule Rastede</h2>
     </div>
 
   </div>

@@ -1,7 +1,7 @@
 <hr>
 
 <!-- Footer container -->
-<footer id="page-footer" class="bg-neutral-200 text-center dark:bg-neutral-600 lg:text-left">
+<footer id="page-footer" class="bg-slate-200 text-center dark:bg-slate-600 lg:text-left">
 
     <div class="container xl:max-w-7xl mx-auto px-4 py-4 lg:px-8 lg:py-8">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
@@ -18,18 +18,18 @@
             <nav class="flex flex-col space-y-3">
 
                 <!--Second links section-->
-                <h5 class="mb-2.5 font-bold uppercase text-neutral-800 dark:text-neutral-200">
+                <h5 class="mb-2.5 font-bold uppercase text-slate-800 dark:text-slate-200">
                     Kontakte
                 </h5>
 
                 <ul class="mb-0 list-none">
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'kontakte/schulleitung',
                     )->url() ?>">Schulleitung</a></li>
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'kontakte/fbl',
                     )->url() ?>">Fachbereichsleiter</a></li>
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'kontakte/sekretariate',
                     )->url() ?>">Sekretariate</a></li>
 
@@ -38,19 +38,19 @@
 
             <!--Third links section-->
             <nav class="flex flex-col space-y-3">
-                <h5 class="mb-2.5 font-bold uppercase text-neutral-800 dark:text-neutral-200">
+                <h5 class="mb-2.5 font-bold uppercase text-slate-800 dark:text-slate-200">
                     Wichtige Downloads
                 </h5>
 
                 <ul class="mb-0 list-none">
 
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'allgemeines/schulbuchlisten',
                     )->url() ?>">Schulbuchlisten</a></li>
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'allgemeines/schulordnung',
                     )->url() ?>">Schulordnung</a></li>
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'allgemeines/wichtigelinks',
                     )->url() ?>">Informationen und Formulare</a></li>
 
@@ -59,33 +59,33 @@
 
             <!--Fourth links section-->
             <nav class="flex flex-col space-y-3">
-                <h5 class="mb-2.5 font-bold uppercase text-neutral-800 dark:text-neutral-200">
+                <h5 class="mb-2.5 font-bold uppercase text-slate-800 dark:text-slate-200">
                     Über die KGS
                 </h5>
 
                 <ul class="mb-0 list-none">
 
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'schule/geschichte',
                     )->url() ?>">Unsere Geschichte</a></li>
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'allgemeines/anfahrt',
                     )->url() ?>">Anfahrt</a></li>
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="<?= page(
+                    <li><a class="text-slate-800 dark:text-slate-200" href="<?= page(
                       'allgemeines/impressum',
                     )->url() ?>">Impressum</a></li>
-                    <li><a class="text-neutral-800 dark:text-neutral-200" href="https://kgs-rastede.l-e-o.eu" target="_blank" rel="noopener">Mensa</a></li>
+                    <li><a class="text-slate-800 dark:text-slate-200" href="https://kgs-rastede.l-e-o.eu" target="_blank" rel="noopener">Mensa</a></li>
                 </ul>
             </nav>
         </div>
 
     </div>
-    <hr class="my-4 border-dashed border-gray-200 dark:border-gray-700/75" />
+    <hr class="my-4 border-dashed border-slate-200 dark:border-slate-700/75" />
     <div
         class="flex flex-col gap-6 text-center text-sm">
         <nav class="space-x-4">
 
-            <a href="https://bsky.app/profile/kgs-rastede.bsky.social" class="fill-gray-400 hover:fill-[#1185fe]" referrerpolicy="no-referrer">
+            <a href="https://bsky.app/profile/kgs-rastede.bsky.social" class="fill-slate-400 hover:fill-[#1185fe]" referrerpolicy="no-referrer">
                 <svg
                     class="inline-block size-5"
                     xmlns="http://www.w3.org/2000/svg"
@@ -94,7 +94,7 @@
                 </svg>
 
             </a>
-            <a href="https://www.tiktok.com/@kgsrastede_offiziell" class="fill-gray-400 hover:fill-[#1185fe]" referrerpolicy="no-referrer">
+            <a href="https://www.tiktok.com/@kgsrastede_offiziell" class="fill-slate-400 hover:fill-[#1185fe]" referrerpolicy="no-referrer">
                 <svg class="inline-block size-5" width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <title>Tiktok</title>
 
@@ -104,7 +104,7 @@
                 </svg>
 
             </a>
-            <a href="https://www.instagram.com/kgsrastede_offiziell/" class="fill-gray-400 hover:fill-[#E1306C]" referrerpolicy="no-referrer">
+            <a href="https://www.instagram.com/kgsrastede_offiziell/" class="fill-slate-400 hover:fill-[#E1306C]" referrerpolicy="no-referrer">
                 <svg
                     class="icon-instagram inline-block size-5"
                     xmlns="http://www.w3.org/2000/svg"
@@ -115,7 +115,7 @@
 
 
         </nav>
-        <div class="text-gray-500 dark:text-gray-300/80">
+        <div class="text-slate-500 dark:text-slate-300/80">
             <span class="font-medium">
                 <div class="col" id="copyrightText">
                     <script>

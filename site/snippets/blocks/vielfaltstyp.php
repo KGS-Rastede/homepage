@@ -14,7 +14,7 @@
     $relatedPages = $block->unterseite()->toPages();
 
     foreach ($relatedPages as $relatedPage): ?>
-      <a href="<?= $relatedPage->url() ?>" class="block py-2 px-4 border border-gray-200 rounded-md hover:bg-gray-50">
+      <a href="<?= $relatedPage->url() ?>" class="block py-2 px-4 border border-slate-200 rounded-md hover:bg-slate-50">
         <i class="bi bi-<?= $block->icon() ?>"></i>
         <?= $relatedPage->title() ?>
       </a>

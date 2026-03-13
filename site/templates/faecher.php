@@ -6,15 +6,15 @@ slot();
   <?php foreach ($page->children() as $fb): ?>
 
     <!-- Work List -->
-    <div class="space-y-3 rounded-lg bg-gray-200/75 p-3.5 dark:bg-gray-700/75">
+    <div class="space-y-3 rounded-lg bg-slate-200/75 p-3.5 dark:bg-slate-700/75">
       <div class="flex items-center justify-between">
         <h3 class="font-semibold text-xl"><?= $fb->title() ?></h3>
 
       </div>
-      <p class="text-base font-medium text-gray-600 dark:text-gray-300">
+      <p class="text-base font-medium text-slate-600 dark:text-slate-300">
         <?= $fb->bezeichnung() ?>
       </p>
-      <p class="text-lg font-medium text-gray-600 dark:text-gray-300">
+      <p class="text-lg font-medium text-slate-600 dark:text-slate-300">
         <?= $fb->namefbl() ?>
       </p>
       <div class="space-y-2">
@@ -22,7 +22,7 @@ slot();
         $relatedPages = $fb->pages()->toPages();
         foreach ($relatedPages as $relatedPage): ?>
           <a href="<?= $relatedPage->url() ?>"
-            class="flex flex-col overflow-hidden rounded-lg bg-white shadow-sm hover:opacity-75 active:opacity-100 dark:bg-gray-800 dark:text-gray-200">
+            class="flex flex-col overflow-hidden rounded-lg bg-white shadow-sm hover:opacity-75 active:opacity-100 dark:bg-slate-800 dark:text-slate-200">
             <div class="space-y-2 p-3 text-sm sm:p-4">
               <div class="h-2 w-10"></div>
               <p><?= $relatedPage->title() ?></p>

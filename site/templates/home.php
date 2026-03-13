@@ -5,8 +5,8 @@
 <?php if (
   page('wichtige-informationen')->togglenotfall()->toggle()->bool() === true
 ): ?>
-  <div class="rounded-lg border-8 border-dashed border-gray-800">
-    <article class="bg-red-400 py-8 px-8 text-2xl leading-10 prose-h1:text-lg dark:bg-gray-700/25 prose-a:text-blue-600">
+  <div class="rounded-lg border-8 border-dashed border-slate-800">
+    <article class="bg-red-400 py-8 px-8 text-2xl leading-10 prose-h1:text-lg dark:bg-slate-700/25 prose-a:text-blue-600">
       <?= page('wichtige-informationen')->notfalltext()->kirbytext() ?>
     </article>
   </div>
@@ -20,7 +20,7 @@
 <div class="my-8 flex items-center">
   <span
     aria-hidden="true"
-    class="h-0.5 grow rounded-sm bg-gray-200 dark:bg-gray-700/75"
+    class="h-0.5 grow rounded-sm bg-slate-200 dark:bg-slate-700/75"
   ></span>
 
 </div>

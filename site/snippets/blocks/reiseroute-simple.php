@@ -25,7 +25,7 @@
 
 
 <div id="map"></div>
-<button class="px-4 py-1 text-gray-900 font-semibold rounded-full border border-purple-200 hover:text-white
+<button class="px-4 py-1 text-slate-900 font-semibold rounded-full border border-purple-200 hover:text-white
     hover:bg-slate-300 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-slate-200 focus:ring-offset-2
     text-center" id="fit">Auf Punkte reinzoomen</button>
 

@@ -15,10 +15,10 @@ slot();
         <?php endif; ?>
 
         <div>
-          <h3 class="mt-3 text-lg font-semibold text-gray-900 group-hover:text-gray-600">
+          <h3 class="mt-3 text-lg font-semibold text-slate-900 group-hover:text-slate-600">
             <?= $sf->Title() ?>
           </h3>
-          <p class="mt-1 text-gray-600">
+          <p class="mt-1 text-slate-600">
             <?= $sf->Heading() ?>
           </p>
 

@@ -11,14 +11,14 @@ slot();
       <div class="mt-1">
         <?php echo $block->grabsteinbild()->toFile(); ?>
 
-        <h2 class="mt-3 text-2xl font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+        <h2 class="mt-3 text-2xl font-semibold leading-6 text-slate-900 group-hover:text-slate-600">
           <?php echo $block->beschriftung(); ?>
         </h2>
-        <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+        <h3 class="mt-3 text-lg font-semibold leading-6 text-slate-900 group-hover:text-slate-600">
           geb.:
           <?php echo $block->gebdatum(); ?>
         </h3>
-        <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+        <h3 class="mt-3 text-lg font-semibold leading-6 text-slate-900 group-hover:text-slate-600">
           gestorben:
           <?php echo $block->todesdatum(); ?>
           </p>

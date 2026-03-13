@@ -24,7 +24,7 @@ Mailadresse) enthalten sind. -->
 
 <div class="flex gap-9">
   <div class="w-2/3">
-    <h3 class="mt-1 text-2xl leading-6 text-gray-900">Anschrift</h3>
+    <h3 class="mt-1 text-2xl leading-6 text-slate-900">Anschrift</h3>
     <?= $page->anschrift()->kirbytext() ?>
     Tel.:
     <?= $page->telefon()->tel() ?> </br>
@@ -36,13 +36,13 @@ Mailadresse) enthalten sind. -->
     Schulische Datenschutzbeauftragte: <a
       href="mailto:datenschutz@kgs-rastede.de">datenschutz@kgs-rastede.de</a>
 
-    <h3 class="mt-4 text-2xl leading-6 text-gray-900">Inhaltlich verantwortlich</h3>
+    <h3 class="mt-4 text-2xl leading-6 text-slate-900">Inhaltlich verantwortlich</h3>
     <p>
       <?= $page->rechtlichertext()->text()->kirbytext() ?>
     </p>
   </div>
   <div class="w-1/3">
-    <h3 class="mt-1 text-2xl leading-6 text-gray-900">
+    <h3 class="mt-1 text-2xl leading-6 text-slate-900">
       Schulträger
     </h3>
     <p>

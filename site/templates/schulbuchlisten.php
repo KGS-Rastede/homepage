@@ -11,17 +11,17 @@ slot();
 </div>
 
 
-<div class="grid grid-cols-1 gap-x-8 gap-y-16 border-gray-200 pt-10 lg:grid-cols-3">
+<div class="grid grid-cols-1 gap-x-8 gap-y-16 border-slate-200 pt-10 lg:grid-cols-3">
   <div class="flex flex-col items-start justify-between">
     <div class="group relative">
       <?php foreach ($page->SchulbuchlistenHZ()->toStructure() as $liste): ?>
-        <dl class="space-y-6 border-t border-gray-200 pt-6 text-sm font-medium text-gray-500">
+        <dl class="space-y-6 border-t border-slate-200 pt-6 text-sm font-medium text-slate-500">
 
           <div class="flex justify-between p-2">
             <dt>
               <?= $liste->name() ?>
             </dt>
-            <dd class="text-gray-900">
+            <dd class="text-slate-900">
               <a href="<?= $liste->link()->toFile()->url() ?>">
                 <button type="button"
                   class="ml-5 rounded-full bg-slate-100 p-1.5 text-black shadow-sm hover:bg-slate-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-900">
@@ -47,13 +47,13 @@ slot();
       <?php foreach ($page->SchulbuchlistenRZ()->toStructure() as $liste): ?>
         <a href="<?= $liste->link()->toFile()->url() ?>">
 
-          <dl class="space-y-6 border-t border-gray-200 pt-6 text-sm font-medium text-gray-500">
+          <dl class="space-y-6 border-t border-slate-200 pt-6 text-sm font-medium text-slate-500">
 
             <div class="flex justify-between">
               <dt>
                 <?= $liste->name() ?>
               </dt>
-              <dd class="text-gray-900">
+              <dd class="text-slate-900">
                 <button type="button"
                   class="ml-5 rounded-full bg-slate-100 p-1.5 text-black shadow-sm hover:bg-slate-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-900">
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
@@ -76,7 +76,7 @@ slot();
   <div class="flex max-w-xl flex-col items-start justify-between">
     <div class="group relative">
       <?php foreach ($page->SchulbuchlistenGZ()->toStructure() as $liste): ?>
-        <dl class="space-y-6 border-t border-gray-200 pt-6 text-sm font-medium text-gray-500">
+        <dl class="space-y-6 border-t border-slate-200 pt-6 text-sm font-medium text-slate-500">
           <div class="flex justify-between">
             <dt>
               <?= $liste->name() ?>
