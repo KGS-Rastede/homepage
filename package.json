@@ -20,11 +20,11 @@
     "ical.js": "^1.5.0"
   },
   "scripts": {
-    "watch": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css -w",
-    "watch-mini": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -w -m",
-    "buildtw-mini": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m",
-    "buildtw": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css",
-    "format": "prettier ./site --write"
+    "dev": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css -w",
+    "build": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css",
+    "build:prod": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m",
+    "format": "prettier ./site --write",
+    "format:check": "prettier ./site --check"
   },
   "devDependencies": {
     "@prettier/plugin-php": "^0.22.4",
