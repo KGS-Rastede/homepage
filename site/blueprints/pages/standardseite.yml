@@ -66,6 +66,12 @@ columns:
         label: Sidebar
         type: headline
         numbered: false
+      pageSettings4:
+        label: SEO
+        type: headline
+        numbered: false
+      description:
+        extends: fields/seo
       sidetitel:
         label: Überschrift für Links
         type: text

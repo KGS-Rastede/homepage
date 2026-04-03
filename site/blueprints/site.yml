@@ -1,6 +1,19 @@
 title: KGS Rastede
 
 tabs:
+  einstellungen:
+    label: Einstellungen
+    icon: settings
+    sections:
+      seo:
+        type: fields
+        fields:
+          description:
+            label: Standard-Meta-Beschreibung
+            type: textarea
+            rows: 3
+            help: Wird auf allen Seiten verwendet, die keine eigene Meta-Beschreibung haben
+
   alles:
     preset: pages
     unlisted: true

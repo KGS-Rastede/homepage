@@ -59,6 +59,8 @@ columns:
             help: Was hier steht taucht 1:1 im Artikel als Name auf
           line1:
             type: line
+          description:
+            extends: fields/seo
           downloads:
             label: Zugehörige Dateien
             help: Hier können beliebige Dateien für den Download bereitgestellt werden

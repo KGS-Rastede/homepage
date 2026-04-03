@@ -1,0 +1,4 @@
+label: Meta-Beschreibung (SEO)
+type: textarea
+rows: 3
+help: Leer lassen = globale Beschreibung der Webseite wird verwendet

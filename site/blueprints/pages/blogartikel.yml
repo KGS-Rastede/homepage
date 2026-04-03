@@ -123,6 +123,9 @@ columns:
           line1:
             type: line
 
+          description:
+            extends: fields/seo
+
           downloads:
             label: Zugehörige Dateien
             help: Hier können beliebige Dateien für den Download bereitgestellt werden
