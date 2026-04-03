@@ -1,4 +1,4 @@
-<main role="main">
+<main>
 
   <!-- The CSS grid area that displays the image (layer 1) -->
 

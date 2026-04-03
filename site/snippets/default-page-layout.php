@@ -10,7 +10,7 @@
 <?php snippet('header'); ?>
 <?php snippet('page-header'); ?>
 
-<main role="main">
+<main>
   <div class="container mx-auto max-w-7xl p-3 lg:px-8 mb-2">
     <?= $slot ?>
   </div>

@@ -5,7 +5,7 @@
 
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
+  document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -51,10 +51,10 @@
       events: {
         url: '<?= $kirby->url('assets') ?>/kalender/public.ics',
         format: 'ics',
-        failure: function () {
+        failure: function() {
           document.getElementById('script-warning').style.display = 'block';
         },
-        loading: function (bool) {
+        loading: function(bool) {
           document.getElementById('loading').style.display =
             bool ? 'block' : 'none';
         }
@@ -62,28 +62,27 @@
     });
 
     calendar.render();
-    calendar.refetchEvents(); //Test
   });
 </script>
 
-<main role="main">
+<main>
   <div class="p-1 md:p-3 lg:px-8 mb-2">
     <div id='calendar'></div>
 
-      <!-- 
+    <!-- 
         Jetzt werden zwei Variablen von FullCalender.io überschrieben.
       Durch diese kommt es bei langen Kalendereinträgen zu Zeilenumbrüchen.
       -->
-      <style type='text/css'>
-        .fc-daygrid-dot-event .fc-event-title {
-          white-space: normal !important;
-        }
+    <style type='text/css'>
+      .fc-daygrid-dot-event .fc-event-title {
+        white-space: normal !important;
+      }
 
-        .fc-h-event .fc-event-title {
-          white-space: normal !important;
-        }
-      </style>
-    </div>
+      .fc-h-event .fc-event-title {
+        white-space: normal !important;
+      }
+    </style>
+  </div>
   </div>
 </main>
 
