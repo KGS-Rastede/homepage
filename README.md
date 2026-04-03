@@ -119,13 +119,13 @@ Nach `npm install` stehen folgende Befehle zur Verfügung:
 
 | Befehl | Zweck |
 | --- | --- |
-| `npm run watch` | TailwindCSS im Hintergrund beobachten (für die Entwicklung) |
-| `npm run watch-mini` | wie `watch`, aber CSS wird minifiziert |
-| `npm run buildtw` | CSS einmalig bauen |
-| `npm run buildtw-mini` | CSS einmalig bauen und minifizieren |
+| `npm run dev` | TailwindCSS im Hintergrund beobachten (für die Entwicklung) |
+| `npm run build` | CSS einmalig bauen |
+| `npm run build:prod` | CSS einmalig bauen und minifizieren (für den Deploy) |
 | `npm run format` | PHP-Dateien mit Prettier formatieren |
+| `npm run format:check` | Prettier-Prüfung ohne Änderungen (z.B. für CI) |
 
-Für die Entwicklung reicht meistens `npm run watch` — dann wird das CSS automatisch neu gebaut, sobald sich etwas ändert.
+Für die Entwicklung reicht meistens `npm run dev` — dann wird das CSS automatisch neu gebaut, sobald sich etwas ändert. Vor dem Deploy einmalig `npm run build:prod` ausführen.
 
 ## JavaScript-Abhängigkeiten
 
