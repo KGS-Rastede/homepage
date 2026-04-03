@@ -20,6 +20,8 @@
     "ical.js": "^1.5.0"
   },
   "scripts": {
+    "clean": "node scripts/clean.js",
+    "copy": "node scripts/copy-vendor.js",
     "dev": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css -w",
     "build": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css",
     "build:prod": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m",

@@ -1,12 +1,12 @@
-<!-- FullCalendar 6.1.19 JavaScript (CSS is included in JS files in v6) -->
-<script src='../../node_modules/@fullcalendar/core/index.global.min.js'></script>
-<script src='../../node_modules/@fullcalendar/daygrid/index.global.min.js'></script>
-<script src='../../node_modules/@fullcalendar/timegrid/index.global.min.js'></script>
-<script src='../../node_modules/@fullcalendar/list/index.global.min.js'></script>
+<!-- FullCalendar 6 JavaScript (CSS is included in JS files in v6) -->
+<script src='/assets/vendor/js/fullcalendar-core.min.js'></script>
+<script src='/assets/vendor/js/fullcalendar-daygrid.min.js'></script>
+<script src='/assets/vendor/js/fullcalendar-timegrid.min.js'></script>
+<script src='/assets/vendor/js/fullcalendar-list.min.js'></script>
 
 <!-- iCal support -->
-<script src='../../node_modules/ical.js/build/ical.min.js'></script>
-<script src='../../node_modules/@fullcalendar/icalendar/index.global.min.js'></script>
+<script src='/assets/vendor/js/ical.min.js'></script>
+<script src='/assets/vendor/js/fullcalendar-icalendar.min.js'></script>
 
 <?php
 include './assets/kalender/kalender-update.php'; // Den Code für das automatische Update laden
