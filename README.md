@@ -64,7 +64,7 @@ Kein Problem! Wir können uns entweder mal (z.B. in einer Mittagspause) treffen 
 
 ### Quellcode verwalten
 
-Um den Quellcode zu verwalten braucht man [Git](https://git-scm.com/). Das kann man einfach installieren, Visual Code kann das dann direkt benutzen. Man (jedenfalls ich) benutzt Git direkt aus VS Code heraus. Auch andere sehr gute Editoren (Vim, Sublime, Atom, ...) unterstüzten Git direkt, denn Git ist ein Standard geworden. Jeder benutzt es.
+Um den Quellcode zu verwalten braucht man [Git](https://git-scm.com/). Das kann man einfach installieren, Visual Code kann das dann direkt benutzen. Man (jedenfalls ich) benutzt Git direkt aus VS Code heraus. Auch andere sehr gute Editoren (Vim, Sublime, ...) unterstüzten Git direkt, denn Git ist ein Standard geworden. Jeder benutzt es.
 
 # WebServer (Kurzfassung: Unter Windows WAMP oder Herd installieren!)
 
@@ -110,3 +110,27 @@ Die Homepage wird mit Git verwaltet werden. Jeder, der mitmachen möchte, sollte
 
 Wir müssen natürlich CSS verwenden. [TailwindCSS](https://tailwindcss.com) ist ein sinnvolles, bekanntes System.
 Wir haben uns daher für TailwindCSS entschieden. Gute Dokumentation, Anleitungen ohne Ende...
+
+Wir verwenden **TailwindCSS v4**. Im Vergleich zu älteren Versionen gibt es kein `tailwind.config.js` mehr — die Konfiguration erfolgt direkt in der CSS-Datei `assets/css/tailwind.css`.
+
+## npm-Scripts
+
+Nach `npm install` stehen folgende Befehle zur Verfügung:
+
+| Befehl | Zweck |
+| --- | --- |
+| `npm run watch` | TailwindCSS im Hintergrund beobachten (für die Entwicklung) |
+| `npm run watch-mini` | wie `watch`, aber CSS wird minifiziert |
+| `npm run buildtw` | CSS einmalig bauen |
+| `npm run buildtw-mini` | CSS einmalig bauen und minifizieren |
+| `npm run format` | PHP-Dateien mit Prettier formatieren |
+
+Für die Entwicklung reicht meistens `npm run watch` — dann wird das CSS automatisch neu gebaut, sobald sich etwas ändert.
+
+## JavaScript-Abhängigkeiten
+
+Das Projekt verwendet folgende JavaScript-Bibliotheken (alle über `npm install` installiert):
+
+- [AlpineJS](https://alpinejs.dev/) — leichtgewichtiges JS-Framework für interaktive Elemente
+- [FullCalendar](https://fullcalendar.io/) — Kalenderdarstellung (mit iCal-Unterstützung)
+- [Bootstrap Icons](https://icons.getbootstrap.com/) — Icon-Set
