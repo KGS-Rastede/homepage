@@ -15,12 +15,10 @@
     }
 </style>
 
-<?php $result = false; ?>
-
 <?php snippet('kalender_vorbereiten'); ?>
 
 <script>
-    document.addEventListener('DOMContentLoaded', function () {
+    document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
 
         var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -54,10 +52,10 @@
                 /*url: 'https://kgs-rastede.eu/iserv/public/calendar/?key=1bad7fec91a3d07904543f4476774fd1',*/
                 url: '<?= $kirby->url('assets') ?>/kalender/public.ics',
                 format: 'ics',
-                failure: function () {
+                failure: function() {
                     document.getElementById('script-warning').style.display = 'block';
                 },
-                loading: function (bool) {
+                loading: function(bool) {
                     document.getElementById('loading').style.display =
                         bool ? 'block' : 'none';
                 }
@@ -65,7 +63,6 @@
         });
 
         calendar.render();
-        calendar.refetchEvents(); //Test
     });
 </script>
 
