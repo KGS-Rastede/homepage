@@ -9,7 +9,7 @@
 
   <!-- Required meta tags -->
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Die Homepage der Kooperativen Gesamtschule Rastede (KGS Rastede)" />
 
   <?php // Auf dem richtigen Server wird die minifizierte CSS geladen.
