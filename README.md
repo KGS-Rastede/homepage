@@ -37,10 +37,11 @@ composer install
 
 eingeben. Dieser Befehl läd fehlende Abhängkeiten nach. Das dauert ein paar Minuten.
 
-Danach noch die JavaScript-Abhängigkeiten installieren:
+Danach noch die JavaScript-Abhängigkeiten installieren und die Vendor-Dateien in den `assets/`-Ordner kopieren:
 
 ```console
 npm install
+npm run copy
 ```
 
 Wenn das abgeschlossen ist sollte man im 'localhost' die neue Seite sehen.
@@ -115,21 +116,40 @@ Wir verwenden **TailwindCSS v4**. Im Vergleich zu älteren Versionen gibt es kei
 
 ## npm-Scripts
 
-Nach `npm install` stehen folgende Befehle zur Verfügung:
-
-| Befehl | Zweck |
+| Befehl | Wann |
 | --- | --- |
-| `npm run dev` | TailwindCSS im Hintergrund beobachten (für die Entwicklung) |
-| `npm run build` | CSS einmalig bauen |
-| `npm run build:prod` | CSS einmalig bauen und minifizieren (für den Deploy) |
+| `npm run copy` | Einmalig nach `npm install` — kopiert Vendor-Dateien nach `assets/vendor/` |
+| `npm run clean` | Löscht `node_modules/`, `vendor/` und `assets/vendor/` für einen sauberen Neustart |
+| `npm run dev` | Beim Entwickeln — TailwindCSS wird automatisch neu gebaut |
+| `npm run build` | CSS einmalig bauen (ohne Minify) |
+| `npm run build:prod` | Vor dem Deploy — CSS minifiziert bauen |
 | `npm run format` | PHP-Dateien mit Prettier formatieren |
 | `npm run format:check` | Prettier-Prüfung ohne Änderungen (z.B. für CI) |
 
-Für die Entwicklung reicht meistens `npm run dev` — dann wird das CSS automatisch neu gebaut, sobald sich etwas ändert. Vor dem Deploy einmalig `npm run build:prod` ausführen.
+Typischer Workflow nach einem sauberen Checkout:
+
+```console
+composer install
+npm install
+npm run copy
+npm run dev
+```
+
+Vor dem Deploy:
+
+```console
+npm run build:prod
+```
+
+Sauberer Neustart (löscht alle installierten Abhängigkeiten):
+
+```console
+npm run clean
+```
 
 ## JavaScript-Abhängigkeiten
 
-Das Projekt verwendet folgende JavaScript-Bibliotheken (alle über `npm install` installiert):
+Das Projekt verwendet folgende JavaScript-Bibliotheken (alle über `npm install` installiert, per `npm run copy` nach `assets/vendor/` kopiert):
 
 - [AlpineJS](https://alpinejs.dev/) — leichtgewichtiges JS-Framework für interaktive Elemente
 - [FullCalendar](https://fullcalendar.io/) — Kalenderdarstellung (mit iCal-Unterstützung)
