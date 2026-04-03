@@ -5,8 +5,10 @@
       <?= $page->title() ?>
     </h1>
 
+    <?php if ($page->heading()->isNotEmpty()): ?>
     <h2 class="text-xl mb-3">
       <?= $page->heading() ?>
     </h2>
+    <?php endif; ?>
   </div>
 </div>
