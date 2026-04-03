@@ -39,7 +39,7 @@ Set [x-cloak] as display: none !important;
             <span class="text-lg transition-all block" :class="selected === 1 ? 'rotate-45' : ''">+</span>
           </div>
         </button>
-        <div x-cloak x-show="selected === 1" class="text-sm text-black/50 p-3"
+        <div x-cloak x-show="selected === 1" class="text-sm text-slate-600 p-3"
           x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95">
           <?= $accordion->accordionbody()->kt()->or('Hier fehlt noch Inhalt') ?>
         </div>
@@ -67,7 +67,7 @@ Set [x-cloak] as display: none !important;
               <span class="text-lg transition-all block" :class="selected === <?= $count ?> ? 'rotate-45' : ''">+</span>
             </div>
           </button>
-          <div x-cloak x-show="selected === <?= $count ?>" class="text-sm text-black/50 p-3"
+          <div x-cloak x-show="selected === <?= $count ?>" class="text-sm text-slate-600 p-3"
             x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95">
             <?= $accordion
               ->accordionbody()
