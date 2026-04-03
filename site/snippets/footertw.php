@@ -9,7 +9,7 @@
             <!--Logo der Schule -->
             <nav class="flex flex-col space-y-2">
 
-                <a href="<?= $site->url() ?>" aria-label="logo-bottom">
+                <a href="<?= $site->url() ?>" aria-label="KGS Rastede – Zur Startseite">
                     <?= asset('assets/bilder/logo.svg')->read() ?>
                 </a>
 
