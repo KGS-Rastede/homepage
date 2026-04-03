@@ -1,6 +1,11 @@
 title: KGS Rastede
 
 tabs:
+  alles:
+    label: Inhalte
+    preset: pages
+    unlisted: true
+
   einstellungen:
     label: Einstellungen
     icon: settings
@@ -13,10 +18,6 @@ tabs:
             type: textarea
             rows: 3
             help: Wird auf allen Seiten verwendet, die keine eigene Meta-Beschreibung haben
-
-  alles:
-    preset: pages
-    unlisted: true
 
   # Lesezeichen
   bookmark:
