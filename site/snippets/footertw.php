@@ -85,7 +85,7 @@
         class="flex flex-col gap-6 text-center text-sm">
         <nav class="space-x-4">
 
-            <a href="https://bsky.app/profile/kgs-rastede.bsky.social" class="fill-slate-400 hover:fill-[#1185fe]" referrerpolicy="no-referrer">
+            <a href="https://bsky.app/profile/kgs-rastede.bsky.social" class="fill-slate-400 hover:fill-[#1185fe]" referrerpolicy="no-referrer" aria-label="KGS Rastede auf Bluesky">
                 <svg
                     class="inline-block size-5"
                     xmlns="http://www.w3.org/2000/svg"
@@ -94,7 +94,7 @@
                 </svg>
 
             </a>
-            <a href="https://www.tiktok.com/@kgsrastede_offiziell" class="fill-slate-400 hover:fill-[#1185fe]" referrerpolicy="no-referrer">
+            <a href="https://www.tiktok.com/@kgsrastede_offiziell" class="fill-slate-400 hover:fill-[#1185fe]" referrerpolicy="no-referrer" aria-label="KGS Rastede auf TikTok">
                 <svg class="inline-block size-5" width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <title>Tiktok</title>
 
@@ -104,7 +104,7 @@
                 </svg>
 
             </a>
-            <a href="https://www.instagram.com/kgsrastede_offiziell/" class="fill-slate-400 hover:fill-[#E1306C]" referrerpolicy="no-referrer">
+            <a href="https://www.instagram.com/kgsrastede_offiziell/" class="fill-slate-400 hover:fill-[#E1306C]" referrerpolicy="no-referrer" aria-label="KGS Rastede auf Instagram">
                 <svg
                     class="icon-instagram inline-block size-5"
                     xmlns="http://www.w3.org/2000/svg"
