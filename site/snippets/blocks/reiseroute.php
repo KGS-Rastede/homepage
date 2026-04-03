@@ -48,7 +48,7 @@ echo $features;
     text-center" id="fit">Auf Punkte reinzoomen</button>
 
 <script>
-  mapboxgl.accessToken = 'pk.eyJ1Ijoia2dzcmFzdGVkZSIsImEiOiJja3hnZ2dnaXczb293MnBvNWxhdWxkdnYxIn0.kHEpdxzycw6ZVg719GpdLA';
+  mapboxgl.accessToken = '<?= option('mapbox.token') ?>';
 
   const geojson = {
     'type': 'FeatureCollection',

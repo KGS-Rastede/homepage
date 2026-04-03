@@ -19,6 +19,8 @@ twkgs_shrinked.min.css
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
 
+site/config/secrets.php
+
 # Cache Files
 # ---------------
 

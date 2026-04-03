@@ -1,6 +1,8 @@
 <?php
 
-return [
+$secrets = file_exists(__DIR__ . '/secrets.php') ? include __DIR__ . '/secrets.php' : [];
+
+return array_merge($secrets, [
     // Damit bei Fehlern der Debugger angeht
     // https://getkirby.com/docs/cookbook/setup/debugging-basics
 
@@ -119,4 +121,4 @@ return [
         'apiKey' =>
             'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJBUElVU0VSIiwiaWF0IjoxNTE2MjM5MDIyfQ.CYrLWRa3dIURYyXjAW0FBfyiQK2C5mYoVeMY2clN_hY',
     ],
-];
+]);
