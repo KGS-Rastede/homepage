@@ -2,7 +2,7 @@
 
   <div class="mt-4">
     <h2 class="text-2xl border-t pt-4 font-semibold">
-      <?= isset($relatedBlogsTitle) ? $relatedBlogsTitle : 'Blogbeiträge' ?>
+      <?= $relatedBlogsTitle ?? 'Blogbeiträge' ?>
     </h2>
 
     <?php foreach ($relatedBlogs as $blog) {
