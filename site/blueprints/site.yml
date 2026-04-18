@@ -13,9 +13,12 @@ tabs:
       banner:
         type: fields
         fields:
+          bannerueberschrift:
+            type: headline
+            label: Hintergrundbilder (Startseite)
           bannerhinweis:
             type: info
-            text: Hintergrundbilder für den Startseiten-Header. Das passende Bild wird automatisch je nach Tageszeit gewählt.
+            text: Das passende Bild wird automatisch je nach Tageszeit gewählt.
           bildmorgens:
             label: Morgens (Sonnenaufgang bis Zenit)
             type: files
@@ -37,6 +40,8 @@ tabs:
             layout: cards
             uploads: hintergrundbild
             width: "1/3"
+          fallbacklinie:
+            type: line
           bildregen:
             label: Fallback-Bild
             type: files
@@ -47,6 +52,9 @@ tabs:
       seo:
         type: fields
         fields:
+          seoueberschrift:
+            type: headline
+            label: Suchmaschinenoptimierung (SEO)
           description:
             label: Standard-Meta-Beschreibung
             type: textarea
