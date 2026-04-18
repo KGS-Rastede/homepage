@@ -122,12 +122,12 @@ class AgsPage extends Page
 
     private function apiEndpointUri()
     {
-        return Config::get('studyGroups.url');
+        return option('studyGroups.url');
     }
 
     private function apiKey()
     {
-        return Config::get('studyGroups.apiKey');
+        return option('studyGroups.apiKey');
     }
 }
 
