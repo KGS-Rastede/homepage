@@ -10,6 +10,36 @@ tabs:
     label: Einstellungen
     icon: settings
     sections:
+      banner:
+        type: fields
+        fields:
+          bannerhinweis:
+            type: info
+            text: Hintergrundbilder für den Startseiten-Header. Das passende Bild wird automatisch je nach Tageszeit gewählt.
+          bildmorgens:
+            label: Morgens (Sonnenaufgang bis Zenit)
+            type: files
+            multiple: false
+            layout: cards
+            uploads: hintergrundbild
+          bildtag:
+            label: Mittags (Zenit bis Sonnenuntergang)
+            type: files
+            multiple: false
+            layout: cards
+            uploads: hintergrundbild
+          bildnacht:
+            label: Nachts (Sonnenuntergang bis Sonnenaufgang)
+            type: files
+            multiple: false
+            layout: cards
+            uploads: hintergrundbild
+          bildregen:
+            label: Fallback-Bild
+            type: files
+            multiple: false
+            layout: cards
+            uploads: hintergrundbild
       seo:
         type: fields
         fields:

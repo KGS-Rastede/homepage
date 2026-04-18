@@ -5,8 +5,7 @@
   <?php
   // Code nach https://www.php.net/manual/en/function.date-sun-info.php
 
-  // Die Bilder sind in /content/design/ gespeichert
-  $page = page('design');
+  $page = site();
 
   // Dieser Pfad speichert die URL des Hintergrundbildes
   $bannerpfad = $page->bildregen()->toFile()->url();

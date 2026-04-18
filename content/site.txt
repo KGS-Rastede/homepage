@@ -2,10 +2,28 @@ Title: KGS Rastede
 
 ----
 
+Bildmorgens: - file://8t5fvc5y7kpdgahu
+
+----
+
+Bildtag: - file://8t5fvc5y7kpdgahu
+
+----
+
+Bildnacht: - file://8t5fvc5y7kpdgahu
+
+----
+
+Bildregen: - file://8t5fvc5y7kpdgahu
+
+----
+
+Description: 
+
+----
+
 Pages:
 
-- schule
-- ser
-- unterricht
-- wichtige_informationen
-- sv
+- page://8M3KZYR9nhun0o0p
+- page://LqMt8QQDzxeotTcM
+- page://bSp5sUOo62vU1QZC
