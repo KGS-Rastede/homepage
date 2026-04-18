@@ -5,34 +5,32 @@
   <?php
   // Code nach https://www.php.net/manual/en/function.date-sun-info.php
 
+  // Bilder werden in den Site-Einstellungen im Panel konfiguriert
   $page = site();
 
-  // Dieser Pfad speichert die URL des Hintergrundbildes
-  $bannerpfad = $page->bildregen()->toFile()->url();
+  // Fallback-Bild, falls ein Tageszeit-Bild nicht gesetzt ist
+  $fallback = $page->bildregen()->toFile()?->url();
 
-  // Setze die Zeitzone auf Berlin
+  // Zeitzone und Koordinaten für die Sonnenstandsberechnung
   date_default_timezone_set('Europe/Berlin');
-
-  // Setze deine Breiten- und Längengrade hier
   $lat = 53.25; // Rastede
   $long = 8.215;
 
-  // Hole die Sonneninformationen für heute
+  // Sonnenaufgang, Zenit und Sonnenuntergang für heute berechnen
+  // Dokumentation: https://www.php.net/manual/en/function.date-sun-info.php
   $sun_info = date_sun_info(time(), $lat, $long);
-
-  // Hole die aktuelle Zeit als Timestamp
   $now = time();
 
-  // Bestimme das Bild basierend auf der Zeit
+  // Bild je nach Tageszeit wählen; ?? $fallback greift, wenn das Feld leer ist
   if ($now >= $sun_info['sunrise'] && $now < $sun_info['transit']) {
-    // Von Sonnenaufgang bis Zenit
-    $bannerpfad = $page->bildmorgens()->toFile()->url();
+    // Sonnenaufgang bis Zenit
+    $bannerpfad = $page->bildmorgens()->toFile()?->url() ?? $fallback;
   } elseif ($now >= $sun_info['transit'] && $now < $sun_info['sunset']) {
-    // Von Zenit bis Sonnenuntergang
-    $bannerpfad = $page->bildtag()->toFile()->url();
+    // Zenit bis Sonnenuntergang
+    $bannerpfad = $page->bildtag()->toFile()?->url() ?? $fallback;
   } else {
-    // Von Sonnenuntergang bis Sonnenaufgang des Folgetages
-    $bannerpfad = $page->bildnacht()->toFile()->url();
+    // Sonnenuntergang bis Sonnenaufgang des Folgetages
+    $bannerpfad = $page->bildnacht()->toFile()?->url() ?? $fallback;
   }
   ?>
 
