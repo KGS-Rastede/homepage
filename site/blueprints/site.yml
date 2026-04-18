@@ -22,24 +22,28 @@ tabs:
             multiple: false
             layout: cards
             uploads: hintergrundbild
+            width: "1/3"
           bildtag:
             label: Mittags (Zenit bis Sonnenuntergang)
             type: files
             multiple: false
             layout: cards
             uploads: hintergrundbild
+            width: "1/3"
           bildnacht:
             label: Nachts (Sonnenuntergang bis Sonnenaufgang)
             type: files
             multiple: false
             layout: cards
             uploads: hintergrundbild
+            width: "1/3"
           bildregen:
             label: Fallback-Bild
             type: files
             multiple: false
             layout: cards
             uploads: hintergrundbild
+            width: "1/3"
       seo:
         type: fields
         fields:
