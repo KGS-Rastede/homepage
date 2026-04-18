@@ -103,7 +103,7 @@ class AgsPage extends Page
             if ($this->hasCachedStudyGroupsData()) {
                 return $this->readCachedStudyGroupsData();
             } else {
-                throw 'Could not load study group information from remote system.';
+                throw new \RuntimeException('Could not load study group information from remote system.');
             }
         }
     }
