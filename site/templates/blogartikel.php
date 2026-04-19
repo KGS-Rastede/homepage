@@ -18,9 +18,9 @@ slot();
     <?php endif; ?>
 
     <?php if ($page->date()->isNotEmpty()): ?>
-      <span class="font-semibold">
+      <time datetime="<?= $page->date()->toDate('Y-m-d') ?>" class="font-semibold">
         <?= $page->date()->toDate('d.m.Y') ?>
-      </span>
+      </time>
     <?php endif; ?>
   </h3>
 <?php endif; ?>
@@ -33,21 +33,25 @@ slot();
   class="prose prose-lg dark:prose-invert prose-a:text-indigo-600 prose-a:no-underline prose-a:hover:text-indigo-400 prose-a:hover:opacity-75 dark:prose-a:text-indigo-400 dark:prose-a:hover:text-indigo-300 prose-img:rounded-lg"
     >
 
-  <?php foreach ($page->text()->toLayouts() as $layout): ?>
-  <section class="grid" id="<?= $layout->id() ?>">
-    <div class="grid grid-cols-1 md:grid-cols-<?= $layout
-      ->columns()
-      ->count() ?> gap-4 items-start">
-      <?php foreach ($layout->columns() as $column): ?>
-        <div>
-          <div class="blocks">
-            <?= $column->blocks() ?>
+  <?php if ($page->text()->isEmpty()): ?>
+    <p class="text-slate-500">Kein Inhalt vorhanden.</p>
+  <?php else: ?>
+    <?php foreach ($page->text()->toLayouts() as $layout): ?>
+    <section class="grid" id="<?= $layout->id() ?>">
+      <div class="grid grid-cols-1 md:grid-cols-<?= $layout
+        ->columns()
+        ->count() ?> gap-4 items-start">
+        <?php foreach ($layout->columns() as $column): ?>
+          <div>
+            <div class="blocks">
+              <?= $column->blocks() ?>
+            </div>
           </div>
-        </div>
-      <?php endforeach; ?>
-    </div>
-  </section>
-<?php endforeach; ?>
+        <?php endforeach; ?>
+      </div>
+    </section>
+    <?php endforeach; ?>
+  <?php endif; ?>
 
 </article>
 <!-- END Blog Post -->
