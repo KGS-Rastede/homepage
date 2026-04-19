@@ -3,40 +3,21 @@
 )://wenn aktuelle Topartikel vorhanden sind
    ?>
 
-    <h2 class="font-semibold p-2 mt-4 text-4xl">Aktuell im Fokus</h2>
+    <h2 class="font-semibold p-2 mt-4 text-4xl dark:text-slate-100">Aktuell im Fokus</h2>
 
-    <div class="flex shadow-sm flex-col my-4 bg-slate-50 overflow-hidden dark:text-slate-100 dark:bg-slate-800">
-
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
         <?php foreach (collection('blogs-topartikel') as $subpage): ?>
-
-            <?php if (!$subpage->isFirst(collection('blogs-topartikel'))): ?>
-                <h3 class="flex items-center py-2 my-4">
-                    <span aria-hidden="true" class="grow bg-slate-200 rounded h-0.5 dark:bg-slate-700/75"></span>
-                </h3>
-            <?php endif;
-          //Trennstrich kommt nur, wenn es keine Artikel vor diesem Element gibt
-          ?>
-
-            <div class="hover:bg-slate-100">
-
-                <a href="<?= $subpage->url() ?>" role="button">
-
-                    <!-- Card Header -->
-                    <h3 class="py-2 px-3 text-semibold text-3xl text-blue-600">
+            <a href="<?= $subpage->url() ?>"
+               class="group flex flex-col rounded-lg bg-slate-50 shadow-sm hover:shadow-md overflow-hidden dark:bg-slate-800 dark:text-slate-100 transition-shadow duration-200">
+                <div class="p-4 flex flex-col grow">
+                    <h3 class="text-xl font-semibold text-blue-600 group-hover:text-blue-500 mb-2">
                         <?= $subpage->title() ?>
                     </h3>
-                    <!-- END Card Header -->
-
-                    <!-- Card Body -->
-                    <p class="p-2 text-xl grow">
+                    <p class="text-base text-slate-600 dark:text-slate-300 grow">
                         <?= $subpage->Text()->toBlocks()->excerpt(150) ?>
                     </p>
-                    <!-- END Card Body -->
-
-                    <!-- END Card Footer -->
-
-                </a>
-            </div>
+                </div>
+            </a>
         <?php endforeach; ?>
     </div>
 

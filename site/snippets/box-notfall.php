@@ -9,7 +9,7 @@
 
 
     <div class="rounded-lg border-8 border-dashed border-slate-800">
-        <article class="bg-red-400 py-8 px-8 text-2xl leading-10 prose-h1:text-lg dark:bg-slate-700/25 prose-a:text-blue-600">
+        <article class="bg-red-400 py-8 px-8 text-2xl leading-10 prose-h1:text-lg dark:bg-slate-700/25 dark:text-slate-100 prose-a:text-blue-600">
             <h1><?php page('wichtige-informationen')->textTitel(); ?></h1>
 
             <?= page('wichtige-informationen')->text()->kt() ?>

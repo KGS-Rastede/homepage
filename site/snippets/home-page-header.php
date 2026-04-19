@@ -35,17 +35,11 @@
   ?>
 
   <div
-    class="bg-cover bg-bottom"
-    style="
-    background-image: url(<?= $bannerpfad ?>);
-  ">
-    <!-- TODO 
-   HIER MÜSSEN ANDERE FARBEN FÜR DEN GRADIENTEN GEWÄHLT WERDEN
-    -->
-    <div
-      class="container mx-auto space-y-8 px-4 py-16 sm:space-y-16 lg:px-8 lg:py-32 xl:max-w-7xl">
-      <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">Herzlich willkommen</h1>
-      <h2 class="text-2xl text-slate-300">an der Kooperativen Gesamtschule Rastede</h2>
+    class="relative bg-cover bg-center min-h-65 sm:min-h-90"
+    style="background-image: url(<?= $bannerpfad ?>);">
+    <div class="absolute inset-0 bg-linear-to-t from-black/70 via-black/30 to-transparent"></div>
+    <div class="relative container mx-auto px-4 py-16 sm:py-24 lg:px-8 xl:max-w-7xl">
+      <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl drop-shadow-lg">Herzlich willkommen</h1>
+      <h2 class="mt-2 text-2xl text-slate-200 drop-shadow">an der Kooperativen Gesamtschule Rastede</h2>
     </div>
-
   </div>

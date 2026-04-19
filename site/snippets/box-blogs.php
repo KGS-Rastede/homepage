@@ -1,4 +1,4 @@
-<h2 class="mt-4 font-semibold text-4xl">Aus dem Schulleben</h2>
+<h2 class="mt-4 font-semibold text-4xl dark:text-slate-100">Aus dem Schulleben</h2>
 
 <?php if (
   collection('blogs-startseite')->isNotEmpty()

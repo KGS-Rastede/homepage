@@ -16,30 +16,20 @@
 
   <?php snippet('box-schnellverweise'); ?>
 
-<!-- Divider -->
-<div class="my-8 flex items-center">
-  <span
-    aria-hidden="true"
-    class="h-0.5 grow rounded-sm bg-slate-200 dark:bg-slate-700/75"
-  ></span>
-
-</div>
-<!-- END Divider-->
-
-  <div class="m-4 flex flex-wrap justify-center xl:mx-20 2xl:mx-40">
-    <!-- Major Column (2/3 width) -->
-    <div class="lg:w-2/3 mb-8 lg:mb-0 pr-4"> <!-- Added pr-4 for right margin -->
-      <?php snippet('box-fokus'); ?>
-      <?php snippet('box-blogs'); ?>
+  <div class="mx-4 xl:mx-20 2xl:mx-40 mt-6">
+    <div class="flex flex-wrap">
+      <div class="w-full lg:w-2/3 mb-8 lg:mb-0 lg:pr-6">
+        <?php snippet('box-fokus'); ?>
+        <?php snippet('box-blogs'); ?>
+      </div>
+      <div class="w-full lg:w-1/3">
+        <?php snippet('box-kalender'); ?>
+        <?php snippet('box-presse'); ?>
+      </div>
     </div>
-
-    <!-- Sidebar Column (1/3 width) -->
-    <div class="lg:w-1/3">
-      <?php snippet('box-kalender'); ?>
-      <?php snippet('box-presse'); ?>
+    <div class="mt-8">
+      <?php snippet('box-links'); ?>
     </div>
-
-    <?php snippet('box-links'); ?>
   </div>
 
 
