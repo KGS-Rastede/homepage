@@ -23,7 +23,7 @@
   --color-kgs-blue: #0e5499;
 
   /* Fonts */
-  --font-sans: 'Pangea', 'sans-serif';
+  --font-sans: 'Pangea', sans-serif;
 
   /* Animations */
   --animate-spin-slow: spin-slow 8s linear infinite;
@@ -56,7 +56,35 @@
 @font-face {
   font-family: Pangea;
   font-style: normal;
-  font-weight: 200 700;
+  font-weight: 300;
   font-display: swap;
   src: url('/assets/css/Pangea-LightWeb.woff2') format('woff2');
+}
+@font-face {
+  font-family: Pangea;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/css/Pangea-RegularWeb.woff2') format('woff2');
+}
+@font-face {
+  font-family: Pangea;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/css/Pangea-MediumWeb.woff2') format('woff2');
+}
+@font-face {
+  font-family: Pangea;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/css/Pangea-SemiBoldWeb.woff2') format('woff2');
+}
+@font-face {
+  font-family: Pangea;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/css/Pangea-BoldWeb.woff2') format('woff2');
 }
