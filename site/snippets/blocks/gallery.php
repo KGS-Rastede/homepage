@@ -13,7 +13,7 @@
                     tabindex="0">
                     <img src="<?= $image->url() ?>"
                         class="transition duration-300 ease-out group-focus-within:scale-125 group-hover:scale-125 group-focus:scale-125"
-                        alt="Image 1" />
+                        alt="<?= $image->alt()->or($image->filename()) ?>" />
 
                     <p>
                         <?= $image->beschreibung() ?>
