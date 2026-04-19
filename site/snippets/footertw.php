@@ -116,13 +116,7 @@
 
         </nav>
         <div class="text-slate-500 dark:text-slate-300/80">
-            <span class="font-medium">
-                <div class="col" id="copyrightText">
-                    <script>
-                        document.getElementById("copyrightText").innerHTML = `Copyright &#xA9; ${new Date().getFullYear()} KGS Rastede ; All Rights Reserved.`;
-                    </script>
-                </div>
-            </span>
+            Copyright &copy; <?= date('Y') ?> KGS Rastede &middot; All Rights Reserved.
         </div>
     </div>
 </footer>
