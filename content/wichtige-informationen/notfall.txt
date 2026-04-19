@@ -1,4 +1,34 @@
-Title: Warnmeldungen Startseite (Schneefrei, Erreichbarkeit der Schule in den Ferien)
+Title: Inhalt Startseite (Links, Warnungen, Notfall)
+
+----
+
+Buttons:
+
+- 
+  active: 'true'
+  text: Anmeldung JG 5
+  page:
+    - page://IQyfLNvtCg9VksMF
+- 
+  active: 'true'
+  text: Oberstufe
+  page:
+    - page://Surdto5GGPSksT6U
+- 
+  active: 'true'
+  text: Schulbücher
+  page:
+    - page://Tm2gYmbcfkDLMGIL
+- 
+  active: 'false'
+  text: Infos aus dem Kultusministerium
+  page:
+    - page://jqfv0apflueib8dd
+- 
+  active: 'false'
+  text: IServ für Eltern / Klassengeld
+  page:
+    - page://jjykwmoqpgsw7no2
 
 ----
 
@@ -6,7 +36,28 @@ Toggle: false
 
 ----
 
-Text: In den Ferien ist die Schule dienstags und donnerstags telefonisch in der Zeit von 10 - 12 Uhr unter 04402-92640 zu erreichen. Auch wenn Sie persönlich vorbeikommen möchten, ist eine telefonische Anmeldung erforderlich.
+Textvorlage: 
+
+----
+
+Text:
+
+Pädagogische Tage/ Studientage am 04. und 05. Feb. 2026 
+
+Wie in den vergangenen Jahren auch findet an den ersten beiden Tagen des 2. Halbjahrs eine schulinterne Lehrerfortbildung/ Pädagogische Tage statt. Das bedeutet, dass am 04. und 05. Februar der Unterricht entfällt. Stattdessen haben Schülerinnen und Schüler Studientage. Die Lehrkräfte stellen Aufgaben, die die Schülerinnen und Schüler in diesen beiden Tagen zu Hause erledigen.
+Für die Jahrgänge 5 und 6 gibt es von 08.00 - 13.30 Uhr eine Notbetreuung in der Feldbreite, in der die gestellten Aufgaben erledigt werden. Hierzu melden Eltern ihre Kinder im Sekretariat der Feldbreite bis zum 29.01. an.
+
+----
+
+Togglenotfall: false
+
+----
+
+Notfalltext: Test
+
+----
+
+Notfallredirect: false
 
 ----
 
