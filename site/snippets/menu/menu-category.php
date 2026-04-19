@@ -7,8 +7,9 @@ Siehe: https://getkirby.com/docs/guide/templates/snippets#passing-slots-to-snipp
 <li
     class="group [&:focus-within>div]:visible [&:focus-within>div>div]:scale-100 [&:focus-within>div>div]:opacity-100 [&:focus-within>div>div>div]:scale-100 [&:focus-within>div>div>div]:opacity-100 [&:not(:hover)>div]:hidden">
     <!-- Sichtbarer Titel -->
-    <a
-        href="javascript:void(0)"
+    <button
+        type="button"
+        onclick="this.blur()"
         class="inline-flex h-8 items-center gap-1 px-2.5 text-lg font-semibold text-slate-900 group-hover:text-kgs-blue dark:text-slate-100 dark:group-hover:text-kgs-lblue">
         <span><?= $title ?></span>
         <svg
@@ -21,12 +22,12 @@ Siehe: https://getkirby.com/docs/guide/templates/snippets#passing-slots-to-snipp
                 d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
                 clip-rule="evenodd"></path>
         </svg>
-    </a>
+    </button>
     <!-- END Sichtbarer Titel -->
 
     <!-- Das tatsächliche Menü -->
     <div
-        class="invisible absolute top-16 right-8 left-8 z-1 pt-4 group-hover:visible">
+        class="invisible absolute top-8 right-8 left-8 z-1 pt-8 group-hover:visible">
         <div
             class="origin-top scale-90 overflow-hidden rounded-lg bg-white opacity-0 ring-1 shadow-xl ring-black/5 transition duration-300 ease-out group-hover:scale-100 group-hover:opacity-100 dark:bg-slate-800 dark:ring-white/10">
             <?= $slots->menuContent() ?>
