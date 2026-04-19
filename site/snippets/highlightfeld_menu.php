@@ -7,7 +7,7 @@
       <img
         src="<?= $feld_bild->url() ?>"
         class="rounded-lg"
-        alt="Preview Image" />
+        alt="<?= $feld_bild->alt()->or($feld_text) ?>" />
     <?php endif; ?>
 
 

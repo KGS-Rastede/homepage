@@ -11,7 +11,7 @@
         x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
         x-transition:leave="transition transform duration-300" x-transition:leave-start="opacity-100"
         x-transition:leave-end="opacity-0">
-        <img :src="image" alt="Image" class="absolute rounded-2xl inset-0 z-10 h-full w-full object-cover opacity-70" />
+        <img :src="image" alt="" class="absolute rounded-2xl inset-0 z-10 h-full w-full object-cover opacity-70" />
       </figure>
     </template>
 

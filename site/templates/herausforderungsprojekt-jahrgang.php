@@ -14,7 +14,7 @@ slot();
           <div class="group aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg xl:aspect-h-8 xl:aspect-w-7">
 
             <img src="<?= $unterprojekt->teamlogo()->toFile()->url() ?>"
-              class="aspect-[3/2] w-full rounded-2xl object-cover" alt="Teamlogo">
+              class="aspect-[3/2] w-full rounded-2xl object-cover" alt="<?= $unterprojekt->teamlogo()->toFile()?->alt()->or($unterprojekt->title()) ?>">
             <div class="mt-1">
               <h3 class="mt-3 text-lg font-semibold leading-6 text-slate-900 group-hover:text-slate-600">
                 <?= $unterprojekt->title() ?>

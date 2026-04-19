@@ -2,7 +2,7 @@
   <img src="<?= $block
     ->bild()
     ->toFile()
-    ->url() ?>" class="w-full mb-3" alt="Fremdsprachen">
+    ->url() ?>" class="w-full mb-3" alt="<?= $block->bild()->toFile()?->alt()->or($block->name()) ?>">
 
   <h3 class="text-warning text-lg font-bold mb-3">
     <?= $block->name() ?>
