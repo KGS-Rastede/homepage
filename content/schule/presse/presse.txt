@@ -6,6 +6,151 @@ Pressenachrichten:
 
 - 
   link: >
+    https://govolunteer.com/projekte/begleitung-von-jugendlichen-an-der-kgs-rastede-oldenburg-auf-herausforderung
+  name: 'Begleitung von Jugendlichen an der KGS Rastede - Oldenburg auf HERAUSFORDERUNG'
+  anfang: 'Du hast Lust Jugendliche auf ein Abenteuer zu begleiten und dabei eine Fahrradtour zu machen, die Alpen zu überqueren, eine Band zu gründen oder vieles mehr? Dann bist du bei uns genau richtig!  Wir sind HERAUSFORDERUNG einfach machen gGmbH.  Bei uns werden die Jugendlichen an der KGS Rastede - Oldenburg auf dem Weg zu ihren eigenen Herausforderungen begleitet.'
+  datum: 2026-04-10
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulvertrag-zwischen-wiefelstede-und-rastede-elternvertreter-fordert-klarheit-von-gemeinde-ein-leserbrief_a_4,3,119137018.html
+  name: 'Lesermeinung aus dem Ammerland - Weniger Schachern hinter verschlossenen Türen – mehr Transparenz'
+  anfang: 'In Wiefelstede wächst die Sorge, dass Kinder keinen Platz an der KGS Rastede bekommen. Der Schulelternrat kritisiert fehlende Offenheit und betont: Es geht um Fairness bei den Kosten.'
+  datum: 2026-04-08
+  medium: nwz
+- 
+  link: 'https://www.nwzonline.de/ammerland/kultusministerium-eingeschaltet-wiefelsteder-eltern-bangen-um-schulplatz-fuer-ihre-kinder_a_4,3,66841156.html#'
+  name: 'Kultusministerium eingeschaltet - Wiefelsteder Eltern bangen um Schulplatz für ihre Kinder'
+  anfang: >
+    Wird Wiefelsteder Schülern systematisch
+    der gymnasiale Bildungsanspruch
+    verweigert? Das glaubt der
+    Gemeindeelternrat und hat sich ans
+    Kultusministerium gewandt. Wie es jetzt
+    weitergeht.
+  datum: 2026-04-02
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/03/17/mit-dem-schnellboot-zur-ganztagsschule/
+  name: Mit dem Schnellboot zur Ganztagsschule
+  anfang: >
+    Der Schulausschuss hat die von der
+    Trapez Architektur GmbH empfohlenen
+    Akutmaßnahmen zur Einrichtung der
+    Ganztagsschulen in der Gemeinde Rastede
+    bewilligt. Die Grünen kritisieren die
+    Umschichtung von Mitteln für die KGS,
+    die nun zunächst an die Grundschulen
+    gehen sollen.
+  datum: 2026-03-17
+  medium: rastederrundschau
+- 
+  link: >
+    https://repaircafes.reparaturrat-oldenburg.de/service-cafe/repaircafe-rastede/
+  name: Repair Café Rastede
+  anfang: >
+    Willkommen beim RepairCafé Rastede! Wir
+    sind eine Gemeinschaft, der die Umwelt
+    und das soziale Miteinander am Herzen
+    liegt.
+  datum: 2026-03-14
+  medium: sonstiges
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/03/10/frisches-und-aufgewaermtes/
+  name: '„Frisches und Aufgewärmtes“ - Lehrerkabarett „Lehrkraft“ tritt an diesem Freitag in Rastede auf. Gezeigt werden humorvolle und skurrile Situationen aus dem Schulalltag.'
+  anfang: >
+    Nach ihrem ersten Auftritt im Jahr 2012
+    in der KGS Rastede ist das Lehrkabarett
+    „Lehrkraft“ jetzt wieder dort zu
+    Gast.
+  datum: 2026-03-10
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rastede.de/2026/03/jahrbuch-2025-viel-wissenswertes-rund-um-die-gemeinde-rastede/
+  name: >
+    Jahrbuch 2025 – Viel Wissenswertes
+    rund um die Gemeinde Rastede
+  anfang: >
+    Die Neuauflage des Statistischen
+    Jahrbuchs der Gemeinde Rastede 2025 ist
+    soeben erschienen. Sie beinhaltet
+    Auswertungen des Jahres 2025, oftmals im
+    Vergleich mit den Vorjahren. Ein breites
+    Spektrum statistischer Daten deckt alle
+    wichtigen kommunalen Themen des
+    Residenzortes ab und bietet
+    Wissenswertes über Strukturen und die
+    Entwicklung der Gemeinde.
+  datum: 2026-03-09
+  medium: gemeinde
+- 
+  link: >
+    https://www.regioactive.de/party/road-to-abi-26-das-grosse-finale-sande-twister-dance-2026-03-27-QpB50dcySR
+  name: "ROAD TO ABI'26: DAS GROSSE FINALE!"
+  anfang: 'Die ultimative ABI Party! Jetzt heißt es: FEIERN BIS ZUM UMFALLEN! Wir verwandeln das Twister in die heißeste Feierzone für alle Abiturient*innen, Abschlussklassen und Normalos. Die angesagteste ABI Party wartet auf DICH – mit krassen Specials und bester Stimmung!'
+  datum: 2026-03-08
+  medium: sonstiges
+- 
+  link: 'https://www.nwzonline.de/sport/jugend-trainiert-fuer-olympia-gymnasium-bad-zwischenahn-edewecht-fuer-landesentscheid-qualifiziert_a_4,2,4012352666.html#'
+  name: 'Jugend-Handball - Wie sich FriPes C-Junioren erfolgreich zwischen Landesliga-Alltag und Landesentscheid bewegen'
+  anfang: >
+    In der Landesliga und nun auch bis zum
+    Landesentscheid auf Kurs sind die
+    C-Junioren-Handballer der SG
+    Friedrichsfehn/Petersfehn. In Sehnde
+    soll nun das Ticket für die ganz große
+    Bühne gebucht werden.
+  datum: 2026-03-03
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/stolpersteine-erinnern-an-ns-opfer-gunter-demnig-verlegt-erstmals-steine-in-rastede_a_4,2,3774494623.html
+  name: 'Gedenken an NS-Opfer - Vier Stolpersteine erinnern in Rastede an jüdische Familie'
+  anfang: >
+    In über 1860 Kommunen wurden inzwischen
+    Stolpersteine verlegt. Seit Montag
+    gehört auch die Gemeinde Rastede dazu.
+    Fast 200 Menschen begleiteten die
+    feierliche Verlegung in der
+    Schloßstraße.
+  datum: 2026-02-09
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/02/09/steine-die-zum-stolpern-bringen/
+  name: 'Steine, die „zum Stolpern bringen“ - In der Schloßstraße 16 verlegte Künstler Gunter Demnig heute die ersten Stolpersteine in der Gemeinde Rastede'
+  anfang: >
+    Genau auf der Höhe der Hausnummer
+    erinnern seit heute vier
+    „Stolpersteine“ in der
+    Schloßstraße 16 an das Schicksal der
+    jüdischen Familie Hattendorf. Ihre
+    Mitglieder wurden von den
+    Nationalsozialisten von dort vertrieben
+    und in das Konzentrationslager
+    Theresienstadt bzw. ins
+    Zwangsarbeiterlager nach
+    Kassel-Bettenhausen deportiert.
+  datum: 2026-02-09
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/debatten-um-ki-und-wahlumfragen-regionalwettbewerb-jugend-debattiert-in-rastede_a_4,2,3659452989.html
+  name: '„Jugend debattiert“ in KGS Rastede - Schüler liefern sich Schlagabtausch auf der Bühne'
+  anfang: >
+    Schlagabtausch statt Schulstunde – Bei
+    „Jugend debattiert“ in Rastede
+    flogen Argumente zu KI und Wahlumfragen
+    im Sekundentakt. Vier Schülerinnen
+    qualifizierten sich für den
+    Landeswettbewerb.
+  datum: 2026-01-29
+  medium: nwz
+- 
+  link: >
     https://www.ad-hoc-news.de/boerse/news/ueberblick/robocup-nordwest-2026-startet-mit-rekordbeteiligung/68522824
   name: >
     RoboCup NordWest 2026 startet mit
@@ -33,6 +178,15 @@ Pressenachrichten:
     20. Februar 2026
   datum: 2026-01-13
   medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/01/13/anmeldung-zur-gymnasialen-oberstufe/
+  name: Anmeldung zur Gymnasialen Oberstufe
+  anfang: >
+    Informationsveranstaltung der
+    Kooperativen Gesamtschule (KGS) Rastede
+  datum: 2026-01-13
+  medium: rastederrundschau
 - 
   link: >
     https://www.nwzonline.de/ammerland/schulvertrag-zwischen-wiefelstede-und-rastede-verhandlungen-ueber-neue-regelung-werden-fortgesetzt_a_4,2,3374556932.html
@@ -73,6 +227,19 @@ Pressenachrichten:
     Schülern auf der KGS des Nachbarn –
     und vor allem geht es um Geld.
   datum: 2025-12-23
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bbs-ammerland-ist-alternative_a_4,2,3024654173.html
+  name: 'BBS Ammerland ist Alternative - Abitur auch an BBS möglich'
+  anfang: >
+    Schülern aus Wiefelstede, die ihr
+    Abitur machen möchten, fehlt es an
+    einer Möglichkeit in der eigenen
+    Gemeinde. Ein Lehrer aus Rostrup bringt
+    in seinem Leserbrief die BBS Ammerland
+    ins Spiel.
+  datum: 2025-12-09
   medium: nwz
 - 
   link: >
@@ -6246,16 +6413,10 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/ammerland/debatten-um-ki-und-wahlumfragen-regionalwettbewerb-jugend-debattiert-in-rastede_a_4,2,3659452989.html
-  name: '„Jugend debattiert“ in KGS Rastede - Schüler liefern sich Schlagabtausch auf der Bühne'
-  anfang: >
-    Schlagabtausch statt Schulstunde – Bei
-    „Jugend debattiert“ in Rastede
-    flogen Argumente zu KI und Wahlumfragen
-    im Sekundentakt. Vier Schülerinnen
-    qualifizierten sich für den
-    Landeswettbewerb.
-  datum: 2026-01-29
+    https://www.nwzonline.de/ammerland/schulvertrag-zwischen-rastede-und-wiefelstede-aufnahme-an-kgs-mit-begrenzter-kapazitaet_a_4,3,181975299.html
+  name: 'Ringen um Schulvertrag - Rastede will Wiefelsteder Schüler nur „bis zur Kapazitätsgrenze“ aufnehmen'
+  anfang: 'Wiefelstede/Rastede - Die Eltern von Viertklässlern aus Wiefelstede und Metjendorf müssen weiter auf eine klare Aussage warten, welche weiterführende Schule ihre Kinder nach den Sommerferien besuchen können. Der Wiefelsteder Schulausschuss wollte dem Schulvertrag mit der Gemeinde Rastede am Montagabend in öffentlicher Sitzung nicht zustimmen und vertagte eine Entscheidung. Hauptkritikpunkte waren die fehlende Planungssicherheit für Eltern und die rechtliche Unverbindlichkeit des Entwurfs.'
+  datum: 2026-04-14
   medium: nwz
 
 ----
