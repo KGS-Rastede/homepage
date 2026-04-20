@@ -1,0 +1,33 @@
+Title: Tag für BNE. Wir zeigen's euch!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://z5bx3gzqbnvrp9gi"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"db80883e-09ff-47e4-9f0d-cf83a22c803f","isHidden":false,"type":"image"}],"id":"bf5f060a-759f-4039-bfd7-321ba6e549f2","width":"1/1"}],"id":"70db68ac-4981-47b0-a24f-573c902037d5"}]
+
+----
+
+Date: 2026-03-02 21:20:00
+
+----
+
+Datumstartseite: 2026-07-02 21:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: kvkznhrjhkofs9sb
