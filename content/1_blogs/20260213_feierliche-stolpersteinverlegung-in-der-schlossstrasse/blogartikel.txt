@@ -1,0 +1,33 @@
+Title: Feierliche Stolpersteinverlegung in der Schloßstraße
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://tjlodq4iuchg8euy"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"69031505-800a-4656-b159-72841a5dd1c3","isHidden":false,"type":"image"}],"id":"9570688d-b594-4db2-8569-ecd3d348858c","width":"1/1"}],"id":"a81be8e4-3ad7-4789-a162-2c9b4c977b1b"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 9. Februar hat der Künstler Gunter Demnig in der Schloßstraße vier Stolpersteine zum Gedenken an die jüdische Familie Hattendorf verlegt. Es handelt sich um kleine glänzende Steine, die mit einer kurzen Inschrift darauf aufmerksam machen, dass in dem Wohnhaus mit der Nummer 16 einst eine jüdische Familie wohnte.<br><br>Seit die Nazis im Frühjahr 1933 an die Macht kamen, wurden jüdische Menschen in Rastede ausgegrenzt, schikaniert und verfolgt. Karl und Klara Hattendorf mussten ihre Fleischerei schließen, weil niemand mehr bei ihnen einkaufen wollte. Ihre Tochter Selma verlor ihre Anstellung bei der Bank. Seit 1935 durften jüdische Menschen in den Rasteder Geschäften nicht mehr einkaufen. Von den zwanzig jüdischen Menschen, die damals in Rastede lebten, flohen die meisten zwischen 1935 und 1938 aus der Gemeinde. Familie Hattendorf konnte sich eine Flucht jedoch nicht leisten. Im Mai 1940 wurde die Familie schließlich aus der Gemeinde Rastede vertrieben, ihr Haus in der Schloßstraße 16 wurde enteignet. Karl und Klara Hattendorf kamen 1942 ins KZ Theresienstadt, wo sie ermordet wurden. Selma Hattendorf und ihr Sohn Hinrich überlebten.<br><br>Die KGS Rastede hat die Patenschaft für den Stolperstein zum Gedenken an Karl Hattendorf übernommen. Bei der feierlichen Verlegung erinnerten die Schüler*innen Johanna Oehne-Berdau (Jg. 11) und Elizaveta Apukhtina (Jg. 12) an das Schicksal der Familie Hattendorf. Als Patin für einen Stolperstein ist unsere Schule Teil eines europaweiten KunstDenkmals geworden. In fast 1900 Orten in zweiunddreißig europäischen Ländern erinnern insgesamt 100.000 glänzende Stolpersteine an die Opfer des Nationalsozialismus.<br><br>Wer mehr über den Rasteder Juden Karl Hattendorf und seine Familie erfahren möchte, findet dazu Informationen auf der Webseite des Projekts „Radeln gegen Rassismus“: <a href=\"https://www.radeln-gegen-rassismus.de/radtouren/rastede/das-schicksal-der-rasteder-juden/haus-der-familie-hattendorf/\">https://www.radeln-gegen-rassismus.de/radtouren/rastede/das-schicksal-der-rasteder-juden/haus-der-familie-hattendorf/</a><br><br>Informationen über das Stolpersteinprojekt in Rastede gibt es auf der Webseite des Vereins „Stolpersteine Rastede“, in dem unsere Schule Mitglied ist: <a href=\"https://stolpersteine-rastede.de/\">https://stolpersteine-rastede.de/</a></p>"},"id":"b20c301a-9f83-423f-b432-6bde20c5975e","isHidden":false,"type":"text"}],"id":"91a21500-6f71-4b19-8b5c-2cb2faaea086","width":"1/1"}],"id":"0c54bd99-de10-477c-86e1-f07cc53956e1"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://st0nudmyqiuu6v0d"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"85a38131-42bd-4fea-ac9c-02d1200cfc91","isHidden":false,"type":"image"}],"id":"feff21d8-5a7c-4a62-b227-8ef6de9a6871","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://cqc8hukskyjc3gus"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c1eb97eb-6b1f-4652-be30-22ad84c72a3c","isHidden":false,"type":"image"}],"id":"c73eb09c-c144-4f54-a813-a36b1c8316a5","width":"1/2"}],"id":"1595b204-092c-4be6-883b-bbc8ad309570"}]
+
+----
+
+Date: 2026-02-13 09:50:00
+
+----
+
+Datumstartseite: 2026-06-13 09:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anja Szyltowski
+
+----
+
+Tags: Courage
+
+----
+
+Downloads: 
+
+----
+
+Uuid: fuimhfdgbxiqtnom
