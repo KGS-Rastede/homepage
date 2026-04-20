@@ -1,0 +1,49 @@
+Title: Anmeldung zum 5. Jahrgang
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Liebe Erziehungsberechtigte,</p><p>der Zeitpunkt der Entscheidung über die weitere Schullaufbahn Ihres Kindes ist gekommen. Sie werden sich sicherlich schon auf Grundlage der Beratung durch die Grundschule intensive Gedanken gemacht haben, zu welchem Schulzweig Sie ihr Kind in der gemeinsamen Eingangsstufe anmelden möchten. Auf verschiedenen Informationsveranstaltungen konnten Sie sich über das Angebot der gemeinsamen Eingangsstufe im 5. und 6. Jahrgang informieren.</p><p>Um das Anmeldeverfahren für Sie möglichst einfach zu gestalten, haben Sie die Möglichkeit, Ihr Kind online anzumelden. Sie können in aller Ruhe zusammen mit Ihrem Kind den Anmeldebogen durchgehen und sich mögliche Wartezeiten ersparen. Das Zeugnis der 4. Klasse brauchen Sie zum jetzigen Zeitpunkt nicht vorlegen. Alle Dokumente werden uns beim Schulwechsel von den abgebenden Grundschulen mit der Schülerakte übergeben.</p><p>Das Anmeldeverfahren findet im Zeitraum vom <strong>13.04.2026 bis zum 17.04.2026</strong> statt. Sollten dann noch Fragen offenbleiben, stehen wir Ihnen selbstverständlich jederzeit zur Verfügung.</p><p>Bei der Anmeldung benötigen wir von Ihnen Angaben zu folgenden Bereichen:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noten der Fächer Deutsch, Mathe, Englisch und Sachunterricht</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beurteilung des Arbeits- und Sozialverhaltens</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Besuch des <strong>Religionsunterrichts</strong> (Religion oder Werte und Normen)</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Die <strong>Buslinie</strong>, falls Ihr Kind mit dem Bus zur Schule fährt</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eine <strong>Freundin oder einen Freund</strong>, mit der oder dem Ihr Kind in die Klasse möchte</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wahl einer <strong>2. Fremdsprache</strong> (nur Gymnasialzweig)</p><p>Die Arbeitsgemeinschaften werden erst zu Beginn des neuen Schuljahres gewählt.</p><p><strong>Onlineanmeldung:</strong></p><p><strong>Vom 13.04.2026  - 17.04.2026 wird der Link:</strong></p><p><a href=\"https://haneke.de/schueleranmeldung/Eingabe?id=1602190976\"><strong>https://haneke.de/schueleranmeldung/Eingabe?id=1602190976</strong></a></p><p>im Anmeldebereich unserer Verwaltungssoftware <em>Sibank </em>freigeschaltet. Ihre Daten landen verschlüsselt auf dem Server der Firma Haneke. Erst, nachdem Sie die Daten eingegeben und geprüft haben, drücken Sie auf Absenden. Danach drucken Sie eine Übersichtsseite mit einem Barcode aus. Der Barcode wird auch als Kennung in Ziffern ausgegeben.</p><p>Dieser Aufnahmebogen enthält personenbezogene Daten der Schülerinnen und Schüler und der Erziehungsberechtigten, die gemäß § 31 Niedersächsisches Schulgesetz (NSchG) erhoben werden. Gemäß Art. 13 Datenschutzgrundverordnung (DSGVO) sind wir verpflichtet Sie zum Zeitpunkt der Erhebung dieser Daten über bestimmte datenschutzrechtliche Bestimmungen zu informieren. Diese Informationen finden Sie in Papierform im Sekretariat oder in der Information zum Schulstart oder auf unserer Homepage.</p><p><strong>Ihr Kind ist erst bei uns angemeldet, wenn wir den von beiden Sorgeberechtigten unterschriebenen Anmeldebogen bis zum 20.04.2026 vorliegen haben!</strong></p><p><strong>Alle Schüler:innen, die nicht in Rastede wohnen, bekommen bis zum 08.05.2026 eine Rückmeldung, ob sie an der KGS einen Schulplatz erhalten haben.</strong></p><p><strong>Informationen zu der Klassenzuordnung, zu den benötigten Materialien und der Einlebensphase erhalten die Schüler:innen schriftlich zu Beginn der Sommerferien.</strong></p><p>Wenn Sie bei der Anmeldung Fragen haben, rufen Sie uns gern unter der folgenden Telefonnummer 04402-926514 in der Zeit von 8.00 bis 13.30 Uhr an.</p><p>Sollten Sie keine Möglichkeit haben, die Anmeldung online durchzuführen oder Ihre Anmeldung auszudrucken, so bieten wir Ihnen an, dies nach Terminabsprache am Standort <strong>Feldbreite</strong> im Sekretariatsbereich in der Schule zu folgenden Zeiten durchzuführen:</p><p>13.04.2026 bis 17.04.2026 jeweils von 08:00 Uhr – 13:30 Uhr&nbsp;</p><p>Die Verwaltung der Schulbuchausleihe, der Kopierkosten und der Kosten für das KGS-Logbuch wird über unseren Schulserver iServ durchgeführt. Die Kosten für die Kopien und das KGS-Logbuch müssen von allen Erziehungsberechtigten bezahlt werden, die Kosten für die Schulbuchausleihe nur von denen, die für ihr Kind Schulbücher an der KGS ausleihen wollen.</p><p>Jede:r Schüler:in des 5. und 6. Jahrgang erhält von der Schule das KGS-Logbuch, das zahlreiche wichtige Informationen aus dem Schulleben enthält, als Hausaufgabenplaner dient und über das die Entschuldigungen für Krankheitstage verpflichtend laufen.</p><p>Da alles aber in iServ über dasselbe Modul abgerechnet wird, <strong>müssen sich alle Erziehungsberechtigten für die Lernmittelausleihe dort anmelden</strong>, auch wenn sie nicht an der Schulbuchausleihe teilnehmen möchten. </p><p>Weitere Details zur Schulbuchausleihe erhalten Sie, wenn Ihr Kind an der KGS aufgenommen worden ist.</p>"},"id":"34734a8b-10ba-41fe-8ab2-4e6f0a0b4f62","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"<strong>Kunst- und Musik-Klasse</strong> <strong>in der Gemeinsamen Eingangsstufe</strong>"},"id":"fe41fa04-9afa-415c-83bf-a1109a6660bb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Kunst- und Musik-Klassen (Jahrgänge 5 und 6) bieten Schülerinnen und Schülern die Möglichkeit, ihre musikalischen, kreativen und künstlerischen Fähigkeiten gezielt zu entwickeln. Beide Profilklassen werden <u><strong>verbindlich</strong></u> für zwei Jahre gewählt. Ein nachträglicher Klassenwechsel ist nicht möglich.</p><p>Die <strong>Kunst-Klasse</strong> legt den Schwerpunkt auf die Förderung künstlerischer Fähigkeiten durch die Erarbeitung vielfältiger Techniken, den Umgang mit unterschiedlichen Materialien, überwiegend in Projektarbeit sowie den Besuch außerschulischer Lernorte wie Ausstellungen. Für die Kunst-Klasse entstehen keine zusätzlichen Kosten.</p><p>In der <strong>Musik-Klasse</strong> erlernen die Kinder ein Blasinstrument (Querflöte, Klarinette, Saxophon, Trompete und Posaune) und erhalten wöchentlich Ensemble- sowie Instrumentalunterricht. Das Erlernen weiterer Instrumente im Rahmen der Musik-Klasse kann zurzeit nicht angeboten werden.</p><p>Für die Teilnahme an der Musik-Klasse ist eine Mitgliedschaft der Erziehungsberechtigten im Kulturförderverein der KGS Rastede <em>Junge Kultur! e. V.</em> erwünscht. Die Vollmitgliedschaft für Erziehungsberechtigte beträgt 45 € (monatlich) und umfasst unter anderem Instrumentenausleihe, Versicherung, Wartung sowie den Instrumentalunterricht. Alternativ besteht die Möglichkeit einer Fördermitgliedschaft mit reduziertem Beitrag. Sollte die Vollmitgliedschaft eine zu große finanzielle Belastung darstellen, sprechen Sie nach der Anmeldung Ihres Kindes bitte Herrn Kannenbrock-Körner (Fachbereichsleitung MukuBi, <a href=\"mailto:knr@kgs-rastede.eu\">knr@kgs-rastede.eu</a>) an.</p>"},"id":"04a8600c-c982-4aa9-9684-3e1ed6d3b530","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Schüler:innen stellen die Feldbreite vor."},"id":"919f6e64-d0fb-45ed-8191-d487130e535e","isHidden":false,"type":"heading"},{"content":{"location":"","url":"https://vimeo.com/917530924","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":""},"id":"4653a154-343e-4eae-ad90-2a76b1b20294","isHidden":false,"type":"video"},{"content":{"text":"<p></p><p>Zu der<a href=\"https://kgs-rastede.de/media/pages/blogs/anmeldung-5/e53f3847cb-1770743099/kgs-elterninfoabend-ges-2026_27.pdf\"> Präsentation vom Elternabend</a> zur GES.</p><p>Zur <a href=\"https://kgs-rastede.de/media/pages/blogs/anmeldung-5/cb6a22d265-1772451111/ppp_infoabend_fremdsprachen-und-wpkrz_homepage2026.pdf\" title=\"Präsentation zur 2. Fremdsprache am GZ und Französisch / Hauswirtschaft-Technik am RZ\">Präsentation zur Wahl der 2. Fremdsprache im GZ und zu Französisch/ Hauswirtschaft-Technik im RZ</a>.</p><p>Informationen zur<a href=\"https://kgs-rastede.de/intern/pages/blogs+anmeldung-5/files/wun-re-brief-an-die-gs-aktualisiert-24.pdf\" target=\"_blank\" title=\"Religion- und Werte/Normen-Unterricht\"> </a><a href=\"https://kgs-rastede.de/media/pages/blogs/anmeldung-5/9a7e2020c1-1770891428/wun-re-brief-an-die-gs-2026.pdf\" target=\"_blank\" title=\"Religion- und Werte/Normen-Unterricht\">Religions- und Werte/Normen-Unterricht</a></p><p>Alle Schulbuchlisten finden sie <a href=\"https://kgs-rastede.de/allgemeines/schulbuchlisten\" target=\"_blank\">hier</a>.</p>"},"id":"20cf4d3c-82a0-491f-8545-d12d7143b17a","isHidden":false,"type":"text"}],"id":"fc57dd37-012e-426d-a366-604e6218090a","width":"1/1"}],"id":"c8260332-71a8-4c0d-87e5-812e0f3edc66"}]
+
+----
+
+Date: 2026-02-12 07:00:00
+
+----
+
+Datumstartseite: 2026-04-30 13:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Naile Ildiz (ID)
+
+----
+
+Tags: Schulleitung, Anmeldung
+
+----
+
+Downloads:
+
+- file://jmc8bpmvbifm9snx
+- file://lnnplhoqf25hktol
+- file://dkfglpxftohl6r89
+
+----
+
+Heading: Anmeldung
+
+----
+
+Gallery: 
+
+----
+
+Fotoansicht: gallery
+
+----
+
+Uuid: IQyfLNvtCg9VksMF
