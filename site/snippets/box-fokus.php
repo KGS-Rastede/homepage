@@ -5,7 +5,8 @@
 
     <h2 class="font-semibold p-2 mt-4 text-4xl dark:text-slate-100">Aktuell im Fokus</h2>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
+    <?php $artikelCount = collection('blogs-topartikel')->count(); ?>
+    <div class="grid gap-4 my-4 <?= $artikelCount === 1 ? 'grid-cols-1' : 'grid-cols-1 md:grid-cols-2' ?>">
         <?php foreach (collection('blogs-topartikel') as $subpage): ?>
             <a href="<?= $subpage->url() ?>"
                class="group flex flex-col rounded-lg bg-slate-50 shadow-sm hover:shadow-md overflow-hidden dark:bg-slate-800 dark:text-slate-100 transition-shadow duration-200">
