@@ -1,0 +1,9 @@
+Anzeigename: Schulordnung (Stand 2023)
+
+----
+
+Uuid: ianwxi9egshbecgs
+
+----
+
+Template: pdfs

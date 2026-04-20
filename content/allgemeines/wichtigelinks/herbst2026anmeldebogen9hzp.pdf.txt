@@ -1,0 +1,9 @@
+Anzeigename: Praktikum Anmeldebogen 9 HZ Schuljahr 2026/27
+
+----
+
+Uuid: ofvdqnckynifkgff
+
+----
+
+Template: pdfs
