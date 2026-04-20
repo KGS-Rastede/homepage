@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: hlndbe5wirywqui0
+
+----
+
+Template: blocks/image

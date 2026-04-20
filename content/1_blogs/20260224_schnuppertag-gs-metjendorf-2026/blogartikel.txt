@@ -1,0 +1,33 @@
+Title: Schnuppertag GS Metjendorf
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><br>Für die 4. Klassen der Grundschule Metjendorf ist Dienstag, der 10.03.2026 &nbsp;von 09:00 Uhr – 11:30 Uhr vorgesehen. </p><p>Treffpunkt ist das <a href=\"https://w3w.co/einer.unserer.stehen\" target=\"_blank\">Forum der KGS Feldbreite</a>. Dort werden die Schüler von einer Lehrkraft abgeholt. Die Schüler sollen ein Frühstück, Buntstifte und eine Schere mitbringen. Die Schüler, die am Schnuppertag teilnehmen möchten, können sich bei der KGS Feldbreite im Sekretariat anmelden.</p>"},"id":"932f0df9-2a98-491c-9a68-5c5d2a8e7895","isHidden":false,"type":"text"}],"id":"a45d3abd-393d-436c-bc76-3335560fcf39","width":"1/1"}],"id":"12d1f857-57a8-481b-a278-5dcad9423c72"}]
+
+----
+
+Date: 2026-02-24 11:40:00
+
+----
+
+Datumstartseite: 2026-03-10 11:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Naile Ildiz
+
+----
+
+Tags: Topartikel, Schnuppertag, Feldbreite
+
+----
+
+Downloads: 
+
+----
+
+Uuid: bx1xuems9dbmk07z

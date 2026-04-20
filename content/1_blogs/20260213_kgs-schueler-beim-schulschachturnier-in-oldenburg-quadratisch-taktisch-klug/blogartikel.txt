@@ -1,0 +1,33 @@
+Title: KGS-Schüler beim Schulschachturnier in Oldenburg- quadratisch, taktisch, klug :-)
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://lrknxs6gsbx57ppc"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"b257cc17-5362-4431-92bc-103641573653","isHidden":false,"type":"image"}],"id":"82bc53c9-7478-42be-bd5e-8f1c5089e108","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://jrwpycwgssvyxpbi"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"05261b2b-4d9f-40e1-8728-0797b76934e0","isHidden":false,"type":"image"}],"id":"8e53fb92-2ddb-4787-9204-a588fde4d54f","width":"1/2"}],"id":"4f76c92b-8db6-409a-961e-9e1cf3579020"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Heute hat die Schach AG der KGS Rastede erfolgreich am Schulschachturnier in Oldenburg teilgenommen. Mit einer motivierten Gruppe von acht Schülern gingen sie an den Start, um ihr Können unter Beweis zu stellen. <br> <br>Trotz der Herausforderung, gegen Gegner anzutreten, die teilweise bis zu drei Jahre älter waren, haben unsere Schüler hervorragende Leistungen gezeigt. Sie spielten mit viel Engagement und konnten viele Partien für sich entscheiden. <br> <br>Wir sind stolz auf die tollen Ergebnisse und die Teamarbeit, die unsere Schachspieler geleistet haben und freuen uns auf zukünftige Turniere und weitere Erfolge!</p>"},"id":"34ef9a35-8693-4f12-95b1-c43734a7253d","isHidden":false,"type":"text"}],"id":"b7fdbaf7-3600-456e-b39f-c8d3cabd8383","width":"1/1"}],"id":"6a56740f-101d-4fcf-86b3-3f5fa67fe0c3"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://0wxecv4cqoybs0s7"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"522662fe-1638-419b-ae9b-ed76fa7c82a2","isHidden":false,"type":"image"}],"id":"2acd5324-af96-4183-b868-edba9b020e5d","width":"1/1"}],"id":"2019c549-6e91-4691-a2bf-6f9793431329"}]
+
+----
+
+Date: 2026-02-13 09:50:00
+
+----
+
+Datumstartseite: 2026-06-13 09:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Gerd Breuker
+
+----
+
+Tags: schach, Wettbewerb
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ibhw5gn6ln8w1oq9

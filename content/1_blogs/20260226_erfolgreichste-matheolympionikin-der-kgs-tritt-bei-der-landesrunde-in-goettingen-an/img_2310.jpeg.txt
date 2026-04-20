@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: 2ipv0mutrxlcf6ve
+
+----
+
+Template: blocks/image

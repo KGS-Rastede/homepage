@@ -1,0 +1,33 @@
+Title: Erfolgreichste Matheolympionikin der KGS tritt bei der Landesrunde in Göttingen an
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://2ipv0mutrxlcf6ve"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"acc7916f-54bb-4fd0-a149-a95169aaf3a2","isHidden":false,"type":"image"}],"id":"96f6d470-4815-4a43-8b3c-28aea0602f77","width":"1/1"}],"id":"1dad3c6f-2641-4134-83ed-beb1b9e3582c"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Jale Husmann, Schülerin der 7B3, hatte sich gemeinsam mit 230 weiteren Schülerinnen und Schülern der Jahrgangsstufen 5 bis 13 aus ganz Niedersachsen gegen mehr als 5000 Mitkonkurrent:innen durchgesetzt und sich für die Landesrunde der Mathematikolympiade in Göttingen qualifiziert – Herzlichen Glückwunsch!<br><br>Die Teilnehmenden stellten sich am letzten Wochenende an zwei aufeinanderfolgenden Tagen jeweils einer vierstündigen Klausur. In dieser intensiven Arbeitsphase mussten anspruchsvolle Problemstellungen selbstständig durchdacht und sauber begründet gelöst werden. Allein diese Herausforderung erfolgreich zu meistern, erfordert ein außergewöhnliches Maß an Konzentration, Motivation und mathematischem Können. Die Anforderungen der Mathematikolympiade gehen weit über den regulären Schulstoff hinaus – ein Beispiel aus der 7. Klasse gefällig?<br><br>\"Ermittle alle Paare (a,b) natürlicher Zahlen, für die a, b, a+b, a-b und die Summe dieser vier Zahlen Primzahlen sind.\"<br><br>Wir gratulieren Jale herzlich zu dieser großartigen Leistung und freuen uns darauf, ihren weiteren mathematischen Weg an unserer Schule zu begleiten.</p>"},"id":"277dbb6e-c190-42dc-a539-ba426926242e","isHidden":false,"type":"text"}],"id":"e0f69211-5e86-49c9-b6c8-e83ef55281b3","width":"1/1"}],"id":"ac0d1ca7-47ec-42e8-b053-8bc38cf80ad6"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://mja7kjaqp9rpqot1"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"bb3eea39-9e21-4edf-95ff-a5301a7fb438","isHidden":false,"type":"image"}],"id":"a900c335-d83f-43a1-843b-15adc1428fa3","width":"1/1"}],"id":"e14d65fe-212c-4039-bded-51a18677741c"}]
+
+----
+
+Date: 2026-02-26 10:55:00
+
+----
+
+Datumstartseite: 2026-06-26 10:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Diane Kühn
+
+----
+
+Tags: Mathe, Wettbewerb, Matheolympiade
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ui09dnuphijkyqxy

@@ -1,0 +1,33 @@
+Title: Glückliche Gewinnerinnen und Gewinner beim HEUREKA!-Wettbewerb „Natur und Mensch“ – Lionel Nolan und Sophie Iwaschow (beide 5A3) teilen sich den 1. Platz
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://hlndbe5wirywqui0"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"9084a6e0-a553-4f9b-b6b9-62b9d66e890d","isHidden":false,"type":"image"}],"id":"bbde0ad6-45e3-4070-a91a-615cd0ad5ef3","width":"1/1"}],"id":"8620fb10-3570-418d-a564-13ac164e1397"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Jedes Jahr im November findet bundesweit der HEUREKA!-Wettbewerb „Natur und Mensch“ statt. </p><p>An diesem Online-Wettbewerb mit naturwissenschaftlichen Fragestellungen können Schülerinnen und Schüler der 3.-8. Klassen teilnehmen. Dabei sind Fragen aus den Bereichen Biologie, Physik und Chemie im Multiple-Choice-Format zu beantworten.<br>Für alle Teilnehmenden gibt es zumindest einen kleinen Preis, die besten drei Ergebnisse werden zusätzlich prämiert. In diesem Jahr freuen sich am meisten die beiden Schulsieger Lionel Nolan (ganz links) und Sophie Iwaschow (2. von rechts), aber, wie das Foto beweist, sind auch Valentina Hagedorn (ganz rechts) und Jannus Campen (2. von links) über ihren zweiten bzw. dritten Platz sehr glücklich! Alle gehen im Übrigen in die 5A3. Wir danken Frau Kühn für die Durchführung und gratulieren – herzlichen Glückwunsch!</p>"},"id":"5410afa9-be03-488e-a109-6e7091babba8","isHidden":false,"type":"text"}],"id":"197a3b29-8945-4b45-bc40-6763bec3e3e4","width":"1/1"}],"id":"a0735763-901b-4191-aa20-4329403a2d62"}]
+
+----
+
+Date: 2026-02-13 09:55:00
+
+----
+
+Datumstartseite: 2026-06-13 09:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: NTW, Wettbewerb, Heureka
+
+----
+
+Downloads: 
+
+----
+
+Uuid: syejhzqmj0e8gd1y
