@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: x17ts1rrxdr3s9tf
+
+----
+
+Template: blocks/image

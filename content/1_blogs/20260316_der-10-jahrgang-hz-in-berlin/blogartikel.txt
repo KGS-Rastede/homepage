@@ -1,0 +1,33 @@
+Title: Der 10. Jahrgang HZ in Berlin
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://lrve8o7cybkro3st"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"32076eeb-bfdf-4d6c-b039-9325c00cf3ee","isHidden":false,"type":"image"}],"id":"aafbdfbe-6683-4ab6-b552-951911304069","width":"1/1"}],"id":"a3eb212f-e888-4cbf-acde-ba0d5d488104"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der 10. Jahrgang HZ in Berlin<br>Letzte Woche waren wir mit allen drei 10. Klassen des Hauptschulzweiges in Berlin auf Klassenfahrt. Am ersten Tag war die Anreise. Nachdem wir angekommen sind, haben wir uns unsere Unterkunft angeschaut und hatten anschließend etwas Freizeit. Dienstag haben wir in Gruppen eine Stadtführung gemacht und dabei viele interessante Orte wie den Bundestag, das Brandenburger Tor und das Holocaus-Mahnmal kennen gelernt. Danach konnten wir unsere Freizeit selbst gestalten. Es gab verschiedene Optionen, zum Beispiel einen Besuch im Museum oder im Zoo. Anschließend am Mittwoch waren wir im Bundestag und hatten dort nach einem Mittagessen die Gelegenheit, an einer Bundestagsdebatte teilzunehmen, mit dem Abgeordneten Alaa Alhamwi von den Grünen zu persönlich sprechen und viel über seine Arbeit als Abgeordneter für den Landkreis Ammerland zu lernen. Der abschließende Besuch der Kuppel des Bundestages bot uns bei Sonnenschein beste Sicht auf Berlin. Abschließend haben wir noch den bekannten Checkpoint Charlie besucht. Am Donnerstag waren wir im Olympiastadion und durften uns dort zum Beispiel die Umkleidekabinen, den Presseraum oder die goldene Kapelle angucken. Als Highlight liefen wir zur Champions League Hymne ins Stadion ein. Am Abend sind wir als ganze Klasse gemeinsam ins Matrix gegangen, einem Club, der an diesem Abend extra für Schulklassen öffnete. Und am Freitag war die Abreise und unsere Klassenfahrt ging zu Ende. Wir haben als Jahrgang viel erlebt und hatten ausreichend Freizeit, um uns alles alleine in Berlin auch angucken zu können.Eine insgesamt tolle Klassenfahrt, bei besten Wetter, die uns als Jahrgang noch weiter zusammengeführt hat.</p>"},"id":"cc759a17-380e-47bf-b495-22340c6be57d","isHidden":false,"type":"text"}],"id":"b72b216a-1617-48c5-bff5-81bde93f1a0e","width":"1/1"}],"id":"7b5c7a5a-d654-4fb3-a784-8363e9e14f25"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://prmhkxzsqpmlzyz3"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"74044ddc-daa7-437b-bc6a-de9f259420b7","isHidden":false,"type":"image"}],"id":"79efb424-a4b5-41c9-92e5-77765cc6b341","width":"1/1"}],"id":"4357b8d2-015d-4fee-9f24-d73adba08fbf"}]
+
+----
+
+Date: 2026-03-16 12:45:00
+
+----
+
+Datumstartseite: 2026-07-16 12:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Kejsi Paja, Jolina Oltmanns, Liyana Houssein, Najaah Houssein
+
+----
+
+Tags: Klassenfahrt
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ay36t7eilcpdpdmw

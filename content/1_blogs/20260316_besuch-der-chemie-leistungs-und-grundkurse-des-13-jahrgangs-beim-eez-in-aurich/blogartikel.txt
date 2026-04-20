@@ -1,0 +1,33 @@
+Title: Besuch der Chemie Leistungs- und Grundkurse des 13. Jahrgangs beim EEZ in Aurich
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://dmf40bym0ulzjxvg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"4e15f5ea-0b2e-4672-ae3b-0e76f45f5d32","isHidden":false,"type":"image"}],"id":"c6099439-464b-4fa3-b20b-354c31004341","width":"1/1"}],"id":"8f6ebee0-d324-4c95-8087-6bfc97c29f91"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am Montag, 09.03.2026 ging es für den Chemie LK von Frau Malecki und den Grundkurs von Frau Kühn erneut ins EEZ nach Aurich. Mit dem Ziel sich experimentell aufs Chemieabitur vorzubereiten, beschäftigten wir uns vor allem mit dem Thema der Elektrochemie. Genauer gesagt mit den Energiespeichertechnologien.</p><p>Die Anreise erfolgte selbstständig bis 09:15 Uhr und wir starteten zusammen im Schülerlabor. Nachdem sich jeder mit einem Kittel und einer Schutzbrille ausgestattet hatte, konnten wir nach einer kurzen Einführung in Kleingruppen mit dem Experimentieren beginnen. Wir durften in unseren Kleingruppen alle Experimente selber durchführen, was einem die praxisnahe Vertiefung in das Thema ermöglicht hat. Beginnend mit einer Batterie bestehend aus einer Zitrone bis hin zu einer mit Methanol beriebenen Brennstoffzelle, waren viele verschiedene Experimente dabei. In dem Experiment „Obst unter Strom“ ging es darum eine einfache Batterie aus einer Zitrone zu bauen. Ein elektrisierendes Experiment, auch wenn die geballte Spannung dreier in Reihe geschalteter Zitronen nicht für ein kleines LED Licht reichte.</p><p>Ein besonderes Highlight war das Experimentieren mit einer PEM-Brennstoffzelle (Proton Exchange Membrane). Das Prinzip dahinter klingt erst einmal nach trockener Wissenschaft, Wasser wird mittels Elektrolyse in Wasser und Sauerstoff gespalten … Aber in der Praxis hieß das Energie für unsere Spielzeugautos. Nachdem wir Wasserstoff-Alchemisten die Autos vollgetankt haben ging es auf den Flur, um ein Rennen auszutragen.</p><p>Nach einigen Durchläufen und einer Pause bekamen wir zum Ende noch eine Show geboten. Bei einem Experiment zur Methanisierung haben wir uns an die Erzeugung von Methan getraut. Dabei pumpten zwei Schüler von uns eifrig Wasserstoff und Kohlenstoffdioxid über einen Nickelkatalysator. Und nach einer Weile entstand aus unseren Gasen<br>plötzlich brennbares Methan. Um uns zu beeindrucken führte die Laborantin die Entflammbarkeit als Demo durch, bei der unser frisch gewonnenes Methan in einer<br>Stichflamme eindrucksvoll verbrannte.</p><p>Nach diesem Highlight ging ein Ausflug voller Experimente und Eindrücke dem Ende entgegen. </p><p>Abschließend lässt sich sagen, dass vor allem der praxisnahe Bezug zur Elektrochemie sehr erfrischend war. Wir alle konnten einiges für die weitere Vorbereitung aufs Abitur mitnehmen.</p>"},"id":"41c49dec-a5a8-4b86-a54e-983138517800","isHidden":false,"type":"text"}],"id":"0c2c96b0-4582-40d0-89d1-1b05191bbcd4","width":"1/1"}],"id":"cc93c90c-a77c-4169-a85a-68dd8162a8b7"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ly0cxlbrrctb6gb0"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"7c1ec187-5789-45e9-9f61-5d3f31506923","isHidden":false,"type":"image"}],"id":"5a95dffd-6152-4433-a783-1952a30f4884","width":"1/1"}],"id":"98e41d05-4851-4cea-beb1-9a57ebfa1d7a"}]
+
+----
+
+Date: 2026-03-16 08:10:00
+
+----
+
+Datumstartseite: 2026-07-16 08:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Willy Schulze
+
+----
+
+Tags: Chemie, Exkursion, Ausflug, Abitur
+
+----
+
+Downloads: 
+
+----
+
+Uuid: lrz3zkluycrtuafj

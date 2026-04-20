@@ -1,0 +1,33 @@
+Title: Gewinnübergabe nach dem Tag der Ausbildung bei Edeka in Wiefelstede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://boyamax5zauuqfxb"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"08ffdfdf-fd60-4b57-94ff-06f5f332c905","isHidden":false,"type":"image"}],"id":"abd5130a-17a5-47bf-9eca-0e0e3215fe89","width":"1/1"}],"id":"78f786a1-34ef-4be0-97b3-df20e96afc1b"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im Rahmen des Tags der Ausbildung bei Edeka hatte unsere Schülerfirma „Food Factory“ die Möglichkeit, einen spannenden Einblick in die Arbeitswelt eines großen Handelsunternehmens zu erhalten. Vor Ort bekamen die Schülerinnen und Schüler zahlreiche Eindrücke – insbesondere im Bereich der Lagerhaltung – und lernten die vielfältigen Ausbildungs- und Berufsmöglichkeiten bei Edeka kennen.</p><p>Während des Besuchs gab es ein Quiz, an dem alle Teilnehmenden mitmachen konnten. Mit großem Erfolg: Eine Schülerin unserer Schülerfirma gewann dabei einen Wunscherfüller-Gutschein!</p><p>Die Gewinnübergabe fand am 14.04.2026 direkt bei uns an der Schule statt und sorgte für viel Aufmerksamkeit. Zwei Mitarbeiter von Edeka fuhren mit einem Edeka LKW vor den Schulhof, was sofort die Neugier vieler Schülerinnen und Schüler weckte. Stellvertretend für die Gewinnerin durfte ich den Gutschein entgegennehmen – die Freude über den Gewinn und den besonderen Besuch war groß.</p><p>Wir bedanken uns herzlich bei Edeka für die Einladung zum Tag der Ausbildung, die Gewinnübergabe und die Unterstützung unserer schulischen Arbeit im Bereich der beruflichen Orientierung!</p>"},"id":"e1d59151-38dd-4c8a-be56-6bf00c991524","isHidden":false,"type":"text"}],"id":"692380cb-bd8a-4f16-9edb-8ea14f8f182d","width":"1/1"}],"id":"a96a26ac-cab4-4b57-9fa1-7af5bf792e26"}]
+
+----
+
+Date: 2026-04-17 10:35:00
+
+----
+
+Datumstartseite: 2026-08-17 10:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Angelika Akbaşak
+
+----
+
+Tags: Berufliche Orientierung
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ikjsrz5tov2rruj6

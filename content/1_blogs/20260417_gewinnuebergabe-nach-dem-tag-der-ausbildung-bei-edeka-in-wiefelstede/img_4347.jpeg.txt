@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: boyamax5zauuqfxb
+
+----
+
+Template: blocks/image

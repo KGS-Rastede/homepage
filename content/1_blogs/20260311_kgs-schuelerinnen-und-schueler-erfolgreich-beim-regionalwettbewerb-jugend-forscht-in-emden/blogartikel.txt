@@ -1,0 +1,33 @@
+Title: KGS-Schülerinnen und Schüler erfolgreich beim Regionalwettbewerb „Jugend Forscht“ in Emden
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://x17ts1rrxdr3s9tf"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"8cd48a10-5739-4547-b9e5-1dbeea54e896","isHidden":false,"type":"image"}],"id":"fabdf2df-23d5-4efd-b4fb-c821acf28b1d","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://hloyp9ir3au3mjie"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"292e7b90-8e90-44d5-ae62-3ef9a9fa9af3","isHidden":false,"type":"image"}],"id":"af9b5a4f-b0ba-428d-b558-1b4c4b129519","width":"1/2"}],"id":"c94af053-5ab1-4ae8-9b97-d1e6810f6ca2"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der MINT-Wettbewerb „Jugend Forscht“ ist einer der bekanntesten Wettbewerbe in Deutschland. Nicht zuletzt fand er auch Erwähnung in den „Fack Ju, Göhte!“-Filmen und die Bundessieger werden regelmäßig in den Hauptnachrichten zum Beispiel der Tagesschau vorgestellt. Im Kleinen fängt das Ganze auf der Regionalebene an und dort waren in diesem Jahr auch drei Gruppen aus der KGS vertreten.<br>Die Projekte wurden im Rahmen des WPK10 Chemie bei Herrn Dr. Fach entwickelt und nach erfolgreicher Anmeldung im November fuhren wir nun am 12.02. und 13.02.26 nach Emden, wo der Wettbewerb traditionell stattfindet. Mit dabei waren Lina Hermann (10E3) und Greta Steinkamp (11B) mit dem Projekt „Wachstum der Radieschenpflanze“, Lukas Kruse, Jannis Poppen (beide 10D3) und Marten Politz (10F3) mit dem Projekt „Geschirrspülmittel unter der Lupe“, sowie Laura Amann, Alina Rosenthal (beide 10E3), Julia Raupach und Antonia Witte (beide 10D3) mit dem Projekt „Eisengehalt im Grundwasser“. Das erste Projekt, bei dem in der Erarbeitung im Unterricht maßgeblich auch Alexandra Piesche, Neele Tabken und Hannah Wemken (alle 10A3, zum Zeitpunkt des Wettbewerbs im Spanienaustausch) beteiligt waren, war in der Sparte Biologie, die beiden anderen in der Sparte Chemie angemeldet. Bei „Jugend Forscht“ und „Jugend Forscht Junior“ werden in insgesamt sieben Sparten Preise vergeben, die Sieger der Regionalwettbewerbe qualifizieren sich für die Landeswettbewerbe. Insgesamt haben sich in diesem Jahr über 80 Projekte angemeldet, die von über 170 Jungforscherinnen und Jungforschern bearbeitet werden. Die Konkurrenz ist als groß!<br>Am Donnerstag haben alle Gruppen zunächst ihre Stände aufgebaut, an denen die Projekte präsentiert werden. Dazu haben wir Materialkoffer mit nach Emden geschleppt, um die Experimente und Projekte erlebbar zu machen. Dann werden die Projekte der Fachjury und auch der Öffentlichkeit vorgestellt, es gibt viele Schülergruppen, die die Ausstellung besuchen. Am Freitag findet dann die Preisverleihung statt. Hier konnten wir erfreut feststellen, dass alle Gruppen einen Preis gewonnen haben: Lina und Greta konnten sich über einen Buchpreis freuen, Lukas, Jannis und Marten erreichten den 3. Platz in der Sparte Chemie und gewannen zusätzlich den Sonderpreis Umwelttechnik und Laura, Alina, Julia und Antonia konnten den 2. Platz in der Sparte Chemie erreichen und ebenfalls zusätzlich noch einen Sonderpreis, in diesem Fall ein Zeitschriftenabo, gewinnen. Angesichts von vielen beeindruckenden Arbeiten im Wettbewerb freuen wir uns, dass unsere Projekte so gut angekommen sind, und blicken auf zwei anstrengende, ereignisreiche, aber sehr gelungene Tage zurück. Gratulation an alle Gewinnerinnen und Gewinner!</p>"},"id":"70fec041-51fd-4e92-b8df-39634948ebce","isHidden":false,"type":"text"}],"id":"13d76e0a-a23b-4318-9305-7149b5eb9f51","width":"1/1"}],"id":"1a34a1b1-f6bf-4cc1-8652-5874d412c4fc"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://b9vdakuicowhlhbc"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"dd7c6a10-8e08-49e0-a7cd-692b5c050036","isHidden":false,"type":"image"}],"id":"4a08a16b-a5a9-4bd0-992a-afea941c6c25","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://ynyfygpkje4dagrn"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"ebd92624-67e6-4ab6-b542-52cbe16a7c93","isHidden":false,"type":"image"}],"id":"af6f819d-86a1-4d30-aa3e-63142f26bbb2","width":"1/2"}],"id":"1b8c6c9e-61a1-486a-a87e-160fd892db28"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://wqnoxsqctz8pkqlj"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"79c2bda5-821a-4688-93c9-36f8428460d1","isHidden":false,"type":"image"}],"id":"c3fbd4f9-92f5-4870-8de6-a4582d896e9d","width":"1/1"}],"id":"2ba601df-aba2-4996-9ded-283f8fd31d4c"}]
+
+----
+
+Date: 2026-03-11 11:20:00
+
+----
+
+Datumstartseite: 2026-07-11 11:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: Naturwissenschaften, Wettbewerb, WPK, Jugend Forscht
+
+----
+
+Downloads: 
+
+----
+
+Uuid: c8hkw1jslifgcbfo

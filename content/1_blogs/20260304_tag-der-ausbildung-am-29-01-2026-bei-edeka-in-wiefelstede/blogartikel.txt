@@ -1,0 +1,33 @@
+Title: Tag der Ausbildung am 29.01.2026 bei EDEKA in Wiefelstede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://0krapplu639ooihu"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"3c2dfe4b-cf7b-4627-bf30-201f611ee9f1","isHidden":false,"type":"image"}],"id":"036714c8-51bb-4cfb-b0b3-05da70898186","width":"1/1"}],"id":"0318026a-982d-4da1-a99e-17f699aedc86"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am Morgen des 29. Januar 2026 trafen wir uns um 8:30 Uhr im Forum der KGS. Um 8:45 Uhr fuhren wir mit dem Bus nach Neuenkruge zum Zentrallager der EDEKA in Wiefelstede. Dort wurden wir herzlich begrüßt und in einen großen Konferenzraum geführt, in dem bereits viele Schülerinnen und Schüler anderer Schulen warteten.</p><p>In einer Präsentation erhielten wir spannende Einblicke in die EDEKA-Gruppe und insbesondere in die verschiedenen Bereiche des Zentrallagers. Außerdem erfuhren wir, welche Ausbildungsberufe EDEKA anbietet und welche Tätigkeiten damit verbunden sind. Das war sehr interessant und informativ.</p><p>Anschließend wechselten wir in einen weiteren Raum, in dem ein „Marktstand“ aufgebaut war, der die unterschiedlichen Ausbildungsberufe bei EDEKA vorstellte. Dort gab es zudem viele Blumen, Früchte, Donuts und andere Leckereien.</p><p>Wir nahmen an einer Lagerführung teil, bei der uns sowohl das Trockenlager als auch das Tiefkühllager gezeigt wurden. Besonders beeindruckend waren die großen Temperaturunterschiede: Im Tiefkühllager herrschen -18 °C oder noch niedrigere Temperaturen. Deshalb müssen die Mitarbeiterinnen und Mitarbeiter dort alle zwei Stunden eine 15‑minütige Wärmepause einlegen. Während der Führung konnten wir viele Fragen stellen und haben viel Neues gelernt. Die Führung dauerte etwa 40 Minuten, da das Lager sehr weitläufig ist.</p><p>Zum Abschluss trafen wir uns wieder und gingen um 11:10 Uhr zurück zum Bus. Beim Verlassen des Gebäudes erhielt jede und jeder von uns ein Geschenk mit verschiedenen kleinen Präsenten. Gegen 12:00 Uhr waren wir wieder an der KGS.</p><p>Es war ein sehr interessanter und lehrreicher Tag, an dem wir viele neue Eindrücke gewinnen konnten.</p><p>Viele Grüße</p><p>Schülerfirma Food-Factory</p>"},"id":"4186c10c-4c83-4b66-972a-6c4adbc3baf0","isHidden":false,"type":"text"}],"id":"f40b995f-d0fe-471f-a572-69111fca35b9","width":"1/1"}],"id":"65d1119b-91f6-4f8a-9f77-3593dde2b0d9"}]
+
+----
+
+Date: 2026-03-04 09:55:00
+
+----
+
+Datumstartseite: 2026-07-04 09:55:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schülerfirma Food-Factory
+
+----
+
+Tags: Schülerfirmen
+
+----
+
+Downloads: 
+
+----
+
+Uuid: jqqv71jjgsbxh59z

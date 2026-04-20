@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: dmf40bym0ulzjxvg
+
+----
+
+Template: blocks/image

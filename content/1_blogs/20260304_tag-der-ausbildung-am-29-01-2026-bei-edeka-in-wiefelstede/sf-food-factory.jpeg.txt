@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: 0krapplu639ooihu
+
+----
+
+Template: blocks/image

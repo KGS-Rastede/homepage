@@ -1,0 +1,33 @@
+Title: Diercke Wissenswettbewerb 2026
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://yatya0vu259vak5n"],"src":"","alt":"","caption":"von links: Philip Pauleit, Keno Borchers, Fynn Buttelmann, Henrik Maas","link":"","ratio":"","crop":"false","orientation":""},"id":"9fc5b838-9c65-4e94-b3b7-344ca345b0ab","isHidden":false,"type":"image"}],"id":"9b9cf5c8-9e61-4753-bd71-74be154772c4","width":"1/1"}],"id":"1b918b96-24d2-4cf6-9326-f753a3d0db98"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wie hoch ist der Anteil der Windkraft an der Nettostromerzeugung in Deutschland? </p><p>Was ist virtuelles Wasser? </p><p>Und wie heißt eigentlich der zweitgrößte Inselstaat nach Indonesien? </p><p>Dies sind nur drei der insgesamt 20 Fragen, die sich insgesamt 44 Schüler:innen im Rahmen des Diercke Wissenswettbewerbs 2026 für die Klassenstufen 7-10 stellten. Diese Herausforderung meisterte Fynn Buttelmann aus der 10B3 am erfolgreichsten und er setzte sich damit vor seinem Klassenkameraden Keno Borchers sowie Herik Maas aus der 10C3 durch. </p><p>Wir gratulieren allen drei zu ihrem Erfolg und drücken Fynn alle Daumen für die Beantwortung der Fragen in der Landesrunde Niedersachsen. Viel Glück!</p>"},"id":"de96f009-5eb1-43e2-85a7-ea966f1fcc98","isHidden":false,"type":"text"}],"id":"00fbe96c-ec8c-44b2-94ce-81c4dcb9c377","width":"1/1"}],"id":"d70dfead-b754-46a5-98e1-1b071964b387"}]
+
+----
+
+Date: 2026-03-12 08:30:00
+
+----
+
+Datumstartseite: 2026-07-12 08:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Philip Pauleit
+
+----
+
+Tags: Erdkunde, Wettbewerb
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ydzyibjogrfikmqr
