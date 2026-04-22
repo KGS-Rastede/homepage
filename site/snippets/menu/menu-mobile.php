@@ -88,7 +88,7 @@
         ['pfad' => "/schule/oberstufe", 'name' => "Oberstufe"],
         ['pfad' => "/schule/abschluesse", 'name' => "Abschlüsse an der KGS"],
         ['pfad' => "/schule/wahlen", 'name' => "Profile und Wahlen"],
-        ['pfad' => "schule/organigramm", 'name' => "Zuständigkeiten / Organigramm"],
+        ['pfad' => "/schule/organigramm", 'name' => "Zuständigkeiten / Organigramm"],
 
         ['pfad' => "/schule/ausbildungsschule", 'name' => "Ausbildungsschule"],
         ['pfad' => "/schule/presse", 'name' => "Unsere Schule in der Presse"]
@@ -165,6 +165,13 @@
       ?>
       <?php endslot(); ?>
       <?php endsnippet(); ?>
+    </div>
+    <div class="grid">
+      <a
+        href="/allgemeines/kalender"
+        class="text-lg font-semibold text-slate-900 hover:text-kgs-blue dark:text-slate-100 dark:hover:text-kgs-lblue">
+        Kalender
+      </a>
     </div>
   </div>
   <div class="h-px bg-slate-200/75 dark:bg-slate-700/75"></div>
