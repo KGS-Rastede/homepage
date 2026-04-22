@@ -277,7 +277,7 @@ $navbar = page('navbar');
 
           <li class="group">
             <a
-              href="/allgemeines/kalender "
+              href="/allgemeines/kalender"
               class="inline-flex h-8 items-center gap-1 px-2.5 text-lg font-semibold text-slate-900 group-hover:text-kgs-blue dark:text-slate-100 dark:group-hover:text-kgs-lblue">
               <span>Kalender</span>
             </a>
