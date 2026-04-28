@@ -1,0 +1,24 @@
+title: Startseite
+
+# Nur Admins dürfen die Startseite sehen und bearbeiten.
+# Alle anderen Rollen (inkl. Schulleitung) werden hier ausgeschlossen.
+options:
+  read:
+    admin: true
+    schulleitung: false
+    blogger: false
+    fachleiter: false
+    hfp: false
+    nilepe: false
+  update:
+    admin: true
+    schulleitung: false
+    blogger: false
+    fachleiter: false
+    hfp: false
+    nilepe: false
+
+sections:
+  content:
+    type: pages
+    headline: Unterseiten

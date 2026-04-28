@@ -1,44 +1,39 @@
-title: Fachleiter
-description: Fachleiter können Blogs erstellen und Fächer bearbeiten
+title: Fachbereichsleiter (FBL)
+description: FBL dürfen Blogs veröffentlichen und Fächer bearbeiten
 
 permissions:
   access:
     panel: true
     site: true
-    settings: false
     users: false
+    system: false
   files:
     create: true
     changeName: true
     delete: true
     replace: true
-    update: false
+    update: true
   site:
     update: false
   pages:
     create: true
-    changeTemplate: true
+    changeTemplate: false
     changeTitle: true
-    changeSlug: true
+    changeSlug: false
+    changeStatus: true
     delete: false
-    hide: true
+    duplicate: false
+    preview: true
     sort: true
     update: true
   user:
-    create: false
-    changeName: false
+    changeName: true
     changeEmail: false
     changeLanguage: true
-    changePassword: false
+    changePassword: true
     changeRole: false
+    create: false
     delete: false
     update: false
   users:
-    create: true
-    changeEmail: false
-    changeLanguage: true
-    changeName: false
-    changePassword: false
-    changeRole: false
-    delete: false
-    update: false
+    '*': false

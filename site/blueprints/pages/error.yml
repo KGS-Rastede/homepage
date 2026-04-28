@@ -1,0 +1,26 @@
+title: Fehlerseite
+
+# Nur Admins dürfen die Fehlerseite sehen und bearbeiten.
+options:
+  read:
+    admin: true
+    schulleitung: false
+    blogger: false
+    fachleiter: false
+    hfp: false
+    nilepe: false
+  update:
+    admin: true
+    schulleitung: false
+    blogger: false
+    fachleiter: false
+    hfp: false
+    nilepe: false
+
+sections:
+  content:
+    type: fields
+    fields:
+      text:
+        label: Fehlertext
+        type: textarea

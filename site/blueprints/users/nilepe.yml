@@ -1,5 +1,5 @@
-title: Blogger
-description: Blogger dürfen nur Blogartikel veröffentlichen und bearbeiten
+title: NiLePe
+description: NiLePe dürfen nur im Unterrichts-Bereich arbeiten
 
 permissions:
   access:
@@ -24,7 +24,7 @@ permissions:
     delete: false
     duplicate: false
     preview: true
-    sort: false
+    sort: true
     update: true
   user:
     changeName: true
