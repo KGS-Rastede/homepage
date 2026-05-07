@@ -3,7 +3,10 @@ title: Standardseite
 options:
   update:
     *: false
-    Fachleiter: true
+    fachleiter: true
+    hfp: true
+    nilepe: true
+    schulleitung: true
     admin: true
 
 columns:
