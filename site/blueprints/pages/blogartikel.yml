@@ -5,12 +5,15 @@ icon: 📖
 options:
   update:
     blogger: true
+    schulleitung: true
     admin: true
   changeTitle:
     blogger: true
+    schulleitung: true
     admin: true
   changeStatus:
     blogger: true
+    schulleitung: true
     admin: true
 
 columns:

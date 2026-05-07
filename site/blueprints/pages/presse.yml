@@ -5,6 +5,7 @@ icon: book
 options:
   update:
     *: false
+    schulleitung: true
     admin: true
 
 
