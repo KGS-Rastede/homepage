@@ -1,0 +1,59 @@
+title: Countdowns
+
+options:
+  delete: false
+  create: false
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  duplicate: false
+  read:
+    *: false
+    admin: true
+    schulleitung: true
+  update:
+    *: false
+    admin: true
+    schulleitung: true
+
+sections:
+  info:
+    type: fields
+    fields:
+      hinweis:
+        type: info
+        text: "Die URL für Info-Monitore lautet: <code>/countdown.json</code>"
+
+  countdowns:
+    type: fields
+    fields:
+      countdowns:
+        label: Countdowns
+        type: structure
+        help: Mehrere Countdowns möglich, z.B. Sommerferien, Abitur, ...
+        empty: Noch keine Countdowns angelegt.
+        columns:
+          titel:
+            width: 1/2
+          datum:
+            width: 1/4
+          aktiv:
+            width: 1/4
+        fields:
+          titel:
+            label: Titel
+            type: text
+            placeholder: z.B. Sommerferien
+            required: true
+          datum:
+            label: Datum
+            type: date
+            required: true
+            display: DD.MM.YYYY
+          aktiv:
+            label: Aktiv
+            type: toggle
+            default: true
+            text:
+              - Inaktiv
+              - Aktiv

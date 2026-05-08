@@ -1,0 +1,17 @@
+Title: Countdowns
+
+----
+
+Countdowns:
+
+- 
+  titel: Sommerferien
+  datum: 2026-06-05
+  aktiv: 'true'
+  0: 'titel": "Sommerferien'
+  1: 'datum": "2025-07-17'
+  2: 'aktiv": "true'
+
+----
+
+Uuid: b8suozorwo6bcndd
