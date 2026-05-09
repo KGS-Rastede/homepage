@@ -1,12 +1,17 @@
-<!-- FullCalendar 6 JavaScript (CSS is included in JS files in v6) -->
-<script src='/assets/vendor/js/fullcalendar-core.min.js'></script>
-<script src='/assets/vendor/js/fullcalendar-daygrid.min.js'></script>
-<script src='/assets/vendor/js/fullcalendar-timegrid.min.js'></script>
-<script src='/assets/vendor/js/fullcalendar-list.min.js'></script>
+<!-- FullCalendar 7 CSS (muss manuell eingebunden werden, nicht mehr per JS) -->
+<link rel='stylesheet' href='/assets/vendor/css/fullcalendar-skeleton.css'>
+<link rel='stylesheet' href='/assets/vendor/css/fullcalendar-classic-palette.css'>
+<link rel='stylesheet' href='/assets/vendor/css/fullcalendar-classic-theme.css'>
 
-<!-- iCal support -->
+<!-- FullCalendar 7 JavaScript -->
+<script src='/assets/vendor/js/temporal-polyfill.min.js'></script>
+<script src='/assets/vendor/js/fullcalendar-all.global.js'></script>
+<script src='/assets/vendor/js/fullcalendar-classic-theme.global.js'></script>
+<script src='/assets/vendor/js/fullcalendar-de.global.js'></script>
+
+<!-- iCal-Unterstützung -->
 <script src='/assets/vendor/js/ical.min.js'></script>
-<script src='/assets/vendor/js/fullcalendar-icalendar.min.js'></script>
+<script src='/assets/vendor/js/fullcalendar-icalendar.global.js'></script>
 
 <?php
 include './assets/kalender/kalender-update.php'; // Den Code für das automatische Update laden

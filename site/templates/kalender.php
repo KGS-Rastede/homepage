@@ -10,7 +10,7 @@
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
       locale: 'de', //Darstellung auf Deutsch
-      themeSystem: "standard",
+      themeSystem: "classic",
       headerToolbar: {
         left: 'prev,next today',
         center: 'title',

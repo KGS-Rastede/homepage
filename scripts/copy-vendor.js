@@ -28,32 +28,50 @@ copyFile(
   'assets/vendor/js/alpine.min.js'
 );
 
-// FullCalendar
+// FullCalendar 7 (Alles in einem Bundle)
 copyFile(
-  'node_modules/@fullcalendar/core/index.global.min.js',
-  'assets/vendor/js/fullcalendar-core.min.js'
+  'node_modules/fullcalendar/all.global.js',
+  'assets/vendor/js/fullcalendar-all.global.js'
 );
 copyFile(
-  'node_modules/@fullcalendar/daygrid/index.global.min.js',
-  'assets/vendor/js/fullcalendar-daygrid.min.js'
+  'node_modules/fullcalendar/locales/de.global.js',
+  'assets/vendor/js/fullcalendar-de.global.js'
+);
+
+// FullCalendar 7 Classic-Theme-Plugin (registriert das Theme in globalPlugins)
+copyFile(
+  'node_modules/fullcalendar/themes/classic/global.js',
+  'assets/vendor/js/fullcalendar-classic-theme.global.js'
+);
+
+// FullCalendar 7 CSS (wird nicht mehr automatisch per JS eingefügt)
+copyFile(
+  'node_modules/fullcalendar/skeleton.css',
+  'assets/vendor/css/fullcalendar-skeleton.css'
 );
 copyFile(
-  'node_modules/@fullcalendar/timegrid/index.global.min.js',
-  'assets/vendor/js/fullcalendar-timegrid.min.js'
+  'node_modules/fullcalendar/themes/classic/palette.css',
+  'assets/vendor/css/fullcalendar-classic-palette.css'
 );
 copyFile(
-  'node_modules/@fullcalendar/list/index.global.min.js',
-  'assets/vendor/js/fullcalendar-list.min.js'
+  'node_modules/fullcalendar/themes/classic/theme.css',
+  'assets/vendor/css/fullcalendar-classic-theme.css'
+);
+
+// Temporal Polyfill (Pflichtabhängigkeit von FullCalendar 7)
+copyFile(
+  'node_modules/temporal-polyfill/global.min.js',
+  'assets/vendor/js/temporal-polyfill.min.js'
 );
 
 // iCal + FullCalendar iCal-Plugin
 copyFile(
-  'node_modules/ical.js/build/ical.min.js',
+  'node_modules/ical.js/dist/ical.min.js',
   'assets/vendor/js/ical.min.js'
 );
 copyFile(
-  'node_modules/@fullcalendar/icalendar/index.global.min.js',
-  'assets/vendor/js/fullcalendar-icalendar.min.js'
+  'node_modules/@fullcalendar/icalendar/global.js',
+  'assets/vendor/js/fullcalendar-icalendar.global.js'
 );
 
 // Bootstrap Icons (CSS + Schriftdateien, Pfade müssen relativ zueinander bleiben)

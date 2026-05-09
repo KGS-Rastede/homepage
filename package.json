@@ -10,14 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fullcalendar/core": "^6.1.19",
-    "@fullcalendar/daygrid": "^6.1.19",
-    "@fullcalendar/timegrid": "^6.1.19",
-    "@fullcalendar/list": "^6.1.19",
-    "@fullcalendar/icalendar": "^6.1.19",
+    "fullcalendar": "7.0.0-rc.2",
+    "@fullcalendar/icalendar": "7.0.0-rc.2",
+    "ical.js": "^2.2.1",
+    "temporal-polyfill": "^0.3.2",
     "alpinejs": "^3.14.9",
-    "bootstrap-icons": "^1.11.3",
-    "ical.js": "^1.5.0"
+    "bootstrap-icons": "^1.11.3"
   },
   "scripts": {
     "clean": "node scripts/clean.js",
