@@ -15,7 +15,7 @@
     "ical.js": "^2.2.1",
     "temporal-polyfill": "^0.3.2",
     "alpinejs": "^3.14.9",
-    "bootstrap-icons": "^1.11.3"
+    "bootstrap-icons": "^1.13.1"
   },
   "scripts": {
     "clean": "node scripts/clean.js",
