@@ -80,4 +80,11 @@ copyDir(
   'assets/vendor/bootstrap-icons/font'
 );
 
+// font-display: block blockiert das Rendering – swap ist performanter
+for (const cssFile of ['bootstrap-icons.css', 'bootstrap-icons.min.css']) {
+  const p = path.join('assets/vendor/bootstrap-icons/font', cssFile);
+  fs.writeFileSync(p, fs.readFileSync(p, 'utf8').replace('font-display:block', 'font-display:swap').replace('font-display: block', 'font-display: swap'));
+  console.log(`✓ font-display: swap gesetzt in ${p}`);
+}
+
 console.log('\nFertig. Alle Vendor-Dateien liegen in assets/vendor/');
