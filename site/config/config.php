@@ -17,8 +17,8 @@ return array_merge($secrets, [
     // automatische URLs folgen der deuschen Sprache
     'slugs' => 'de',
 
-    // Automatically resize images on upload 2000px width
-    'medienbaecker.autoresize.maxWidth' => 1000,
+    'kgs.autoresize.maxWidth' => 1000,
+    'kgs.autoresize.quality'  => 85,
 
     // Anpassungen des Panels
     // Anleitung siehe hier:
@@ -179,6 +179,47 @@ return array_merge($secrets, [
     // Gilt für Panel-View-Routen (panel/pages/…) UND für API-Routen,
     // die das Vue-SPA bei interner Navigation nutzt (api/pages/…).
     'hooks' => [
+        'file.create:after' => function ($file) {
+            if (!$file->isResizable()) return;
+
+            $maxWidth = option('kgs.autoresize.maxWidth', 1000);
+            $quality  = option('kgs.autoresize.quality', 85);
+
+            if ($file->width() <= $maxWidth) return;
+
+            $root = $file->root();
+            $mime = $file->mime();
+
+            $src = match ($mime) {
+                'image/jpeg' => imagecreatefromjpeg($root),
+                'image/png'  => imagecreatefrompng($root),
+                'image/webp' => imagecreatefromwebp($root),
+                default      => null,
+            };
+
+            if (!$src) return;
+
+            $newHeight = (int) round($file->height() * ($maxWidth / $file->width()));
+            $dst = imagecreatetruecolor($maxWidth, $newHeight);
+
+            if ($mime === 'image/png') {
+                imagealphablending($dst, false);
+                imagesavealpha($dst, true);
+            }
+
+            imagecopyresampled($dst, $src, 0, 0, 0, 0, $maxWidth, $newHeight, $file->width(), $file->height());
+
+            match ($mime) {
+                'image/jpeg' => imagejpeg($dst, $root, $quality),
+                'image/png'  => imagepng($dst, $root),
+                'image/webp' => imagewebp($dst, $root, $quality),
+                default      => null,
+            };
+
+            imagedestroy($src);
+            imagedestroy($dst);
+        },
+
         'route:before' => function ($route, $path, $method) {
             $user = kirby()->user();
             if (!$user) return;
