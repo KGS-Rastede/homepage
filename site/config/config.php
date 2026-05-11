@@ -38,7 +38,8 @@ return array_merge($secrets, [
                 'blogger'    => 'pages/blogs',
                 'fachleiter' => 'pages/blogs',
                 'hfp'        => 'pages/unterricht+herausforderungsprojekt',
-                'nilepe'     => 'pages/unterricht',
+                'nilepe'     => 'pages/blogs',
+                'schulleitung' => 'pages/schule',
                 default      => 'site',
             };
         },
@@ -74,6 +75,16 @@ return array_merge($secrets, [
                     ],
                 ],
                 'nilepe' => [
+                    'blogs' => [
+                        'label' => 'Blogs',
+                        'link'  => 'pages/blogs',
+                        'icon'  => 'edit',
+                    ],
+                    'beratungskonzept' => [
+                        'label' => 'Beratungskonzept',
+                        'link'  => 'pages/beratungskonzept',
+                        'icon'  => 'heart',
+                    ],
                     'unterricht' => [
                         'label' => 'Unterricht',
                         'link'  => 'pages/unterricht',
@@ -81,17 +92,30 @@ return array_merge($secrets, [
                     ],
                 ],
                 'schulleitung' => [
-                    'site',
-                    '-',
-                    'newblog' => [
-                        'label' => 'Neuer Blog',
-                        'link'  => 'pages/blogs',
-                        'icon'  => 'add',
+                    'schule' => [
+                        'label' => 'Schule',
+                        'link'  => 'pages/schule',
+                        'icon'  => 'home',
                     ],
-                    'newpress' => [
-                        'label' => 'Presseartikel',
-                        'link'  => 'pages/schule+presse',
+                    'blogs' => [
+                        'label' => 'Blogs',
+                        'link'  => 'pages/blogs',
+                        'icon'  => 'edit',
+                    ],
+                    'unterricht' => [
+                        'label' => 'Unterricht',
+                        'link'  => 'pages/unterricht',
+                        'icon'  => 'tag',
+                    ],
+                    'faecher' => [
+                        'label' => 'Fächer',
+                        'link'  => 'pages/Faecher',
                         'icon'  => 'book',
+                    ],
+                    'sv' => [
+                        'label' => 'SV',
+                        'link'  => 'pages/sv',
+                        'icon'  => 'users',
                     ],
                 ],
                 // admin und alle anderen: volles Menü
@@ -199,7 +223,8 @@ return array_merge($secrets, [
                 'blogger'    => ['blogs'],
                 'fachleiter' => ['blogs', 'Faecher'],
                 'hfp'        => ['unterricht/herausforderungsprojekt'],
-                'nilepe'     => ['unterricht'],
+                'nilepe'        => ['blogs', 'beratungskonzept', 'unterricht'],
+                'schulleitung'  => ['blogs', 'unterricht', 'sv', 'Faecher', 'schule'],
             ];
 
             // Rollen ohne Seitenbeschränkung (z.B. schulleitung) → überspringen
@@ -212,8 +237,9 @@ return array_merge($secrets, [
                 'blogger'    => '/panel/pages/blogs',
                 'fachleiter' => '/panel/pages/blogs',
                 'hfp'        => '/panel/pages/unterricht+herausforderungsprojekt',
-                'nilepe'     => '/panel/pages/unterricht',
-                default      => '/panel',
+                'nilepe'       => '/panel/pages/blogs',
+                'schulleitung' => '/panel/pages/schule',
+                default        => '/panel',
             };
 
             // Vollständige Seitenübersicht sperren
