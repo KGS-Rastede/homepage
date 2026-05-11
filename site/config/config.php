@@ -116,26 +116,6 @@ return array_merge($secrets, [
         },
     ],
 
-    'email' => [
-        'presets' => [
-            'contact' => [
-                'from' => 'schulleitung@kgs-rastede.de',
-                'subject' => 'Testemail von der neuen Homepage',
-                'cc' => 'ni@kgs-rastede.de',
-                'body' => 'Testinhalt der Mail',
-            ],
-            'transport' => [
-                'type' => 'smtp',
-                'host' => 'smtp.kgs-rastede.eu',
-                'port' => 587,
-                'security' => true,
-                'auth' => true,
-                'username' => 'xxx',
-                'password' => 'yyy',
-            ],
-        ],
-    ],
-
     'routes' => [
         // Dokumentation zur Sitemap hier:
         // https://getkirby.com/docs/cookbook/content/sitemap
@@ -158,19 +138,6 @@ return array_merge($secrets, [
             'pattern' => 'sitemap',
             'action' => function () {
                 return go('sitemap.xml', 301);
-            },
-        ],
-
-        //  Diese Route ist für den versteckten Login (aktuell nur für die WLAN-Voucher)
-        // https://getkirby.com/docs/cookbook/security/access-restriction
-        [
-            'pattern' => 'logout',
-            'action' => function () {
-                if ($user = kirby()->user()) {
-                    $user->logout();
-                }
-
-                go('login');
             },
         ],
     ],
@@ -298,11 +265,5 @@ return array_merge($secrets, [
 
     'markdown' => [
         'extra' => true,
-    ],
-
-    'studyGroups' => [
-        'url' => 'https://ag-wahl.kgs-rastede.de/api/v1/study_groups',
-        'apiKey' =>
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJBUElVU0VSIiwiaWF0IjoxNTE2MjM5MDIyfQ.CYrLWRa3dIURYyXjAW0FBfyiQK2C5mYoVeMY2clN_hY',
     ],
 ]);
