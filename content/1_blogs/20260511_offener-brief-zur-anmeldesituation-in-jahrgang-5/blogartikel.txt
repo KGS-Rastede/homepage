@@ -1,0 +1,37 @@
+Title: Offener Brief zur Anmeldesituation in Jahrgang 5
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Sehr geehrte Eltern, </p><p>wir danken Ihnen für Ihr Vertrauen in unsere Schule und die Anmeldung Ihres Kindes an der KGS Rastede.&nbsp;</p><p>Leider übersteigen die Anmeldezahlen deutlich unsere räumlichen und personellen Kapazitäten, so dass wir vor Herausforderungen stehen, für die es aktuell keine Lösung gibt.&nbsp;&nbsp;</p><p>Wir haben schlichtweg keine Räume mehr zur Verfügung: Es fehlen in der Feldbreite bei der aktuellen Anmeldesituation im nächsten Schuljahr zwei Klassenräume und mindestens drei Differenzierungsräume, während wir im Hauptgebäude Wilhelmstraße bereits vier Wanderklassen ohne festen Klassenraum haben. Schon jetzt ist außerdem die Fachraumsituation sehr angespannt, so dass z.B. Chemieunterricht oft im Klassenraum stattfinden muss.&nbsp;</p><p>Die hohen Schülerzahlen führen auch dazu, dass die Kinder weniger Fläche zum Spielen, Toben und Erholen in den Pausen haben.&nbsp;</p><p>Daher bitten wir Sie im Sinne Ihres Kindes auch Alternativen zu prüfen: den Gymnasialzweig der Oberschule Wiefelstede, das Gymnasium Bad Zwischenahn/Edewecht, die Oldenburger Gymnasien oder das Jadegymnasium. Die Oberschule Wiefelstede arbeitet in Jahrgang 5/6 nach dem gleichen Konzept wie wir.  &nbsp;</p><p>Nach Abschluss der 10. Klasse können wir Ihrem Kind einen Platz in unserer Oberstufe zusichern.  &nbsp;</p><p>Mit freundlichen Grüßen &nbsp;</p><p>&nbsp;</p>"},"id":"81fa0f52-1fdd-448c-b689-e4c37388c3e7","isHidden":false,"type":"text"}],"id":"c7d45fd1-243d-4415-811e-827d120f764f","width":"1/1"}],"id":"6e19d41a-e8e2-42af-8833-a3ecfcf53083"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ifzkjp1m0jlzawra"],"src":"","alt":"Unsere Schule platzt aus allen Nähten","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c570d737-dd8c-4b91-9e2f-42b6acb40c34","isHidden":false,"type":"image"}],"id":"4d61f9ae-a00d-4ee2-9f6e-c26019fa2706","width":"1/1"}],"id":"e337cdfb-871c-4e16-af02-e3c0b7078165"}]
+
+----
+
+Date: 2026-05-11 13:05:00
+
+----
+
+Datumstartseite: 2026-09-11 13:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Schulleitung
+
+----
+
+Tags: Offener Brief, Anmeldung, JG5, Topartikel
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: grdvhniidhudjgnj
