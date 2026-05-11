@@ -6,6 +6,86 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/familie/mobbing-in-emden-so-reagieren-schulen-im-nordwesten-auf-uebergriffe_a_4,3,413720616.html
+  name: 'Nach Gewalt-Vorfall in Emden - Welche Rolle Mobbing an Schulen im Nordwesten spielt'
+  anfang: 'Ein Mobbing-Fall in Emden hat für Aufsehen gesorgt: Wie reagieren Eltern richtig, und was unternimmt Schule? Zwei Pädagoginnen erklären, was Schulen tun können – und wo ihnen die Mittel fehlen.'
+  datum: 2026-05-06
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/familie/seema-schneemann-im-interview-mobbing-ist-ein-system-kgs-lehrerin-ueber-praevention-an-schulen_a_4,3,416544639.html
+  name: >
+    KGS-Lehrkraft Seema Schneemann
+    „Mobbing an Schulen als System –
+    fast alle spielen darin eine Rolle“
+  anfang: >
+    Ausgrenzung, Beleidigungen, Gewalt –
+    Mobbing hat viele Gesichter. Lehrerin
+    Seema Schneemann vom
+    Mobbing-Interventions-Team der KGS
+    Rastede erzählt im Interview, wie
+    Schulen Betroffene schützen und Täter
+    zum Umdenken bringen wollen.
+  datum: 2026-05-06
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/aufnahme-der-wiefelsteder-schueler-am-gze-bad-zwischenahn-busverbindung-und-schuelerbefoerderung-muessen-besser-werden_a_4,3,329392314.html
+  name: 'Gemeinden streiten um Schulvertrag - Wiefelsteder Eltern kritisieren Schulbusverbindung nach Bad Zwischenahn'
+  anfang: >
+    Laut Landesamt dürfen Schüler aus
+    Wiefelstede am Gymnasium Bad
+    Zwischenahn-Edewecht nicht abgewiesen
+    werden. Jetzt muss vor allem die
+    problematische Busverbindung verbessert
+    werden.
+  datum: 2026-04-27
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/elternprotest-in-wiefelstede-streit-um-schulvertrag-mit-rastede-spitzt-sich-zu_a_4,3,299767161.html
+  name: 'Ringen um Schulvertrag - Wiefelsteder Eltern sind frustriert – und haben klare Forderungen an Rastede'
+  anfang: >
+    Eltern aus Wiefelstede und Metjendorf
+    kritisieren den Schulvertrag mit
+    Rastede. Sie befürchten weniger Chancen
+    für ihre Kinder an der KGS. Die SPD
+    fordert deshalb eine Machbarkeitsstudie
+    für eine eigene IGS.
+  datum: 2026-04-24
+  medium: nwz
+- 
+  link: 'https://www.nwzonline.de/ammerland/schule-im-ammerland-eltern-bei-aufnahme-von-wiefelsteder-schuelern-am-gymnasium-bad-zwischenahn-und-der-kgs-rastede-verunsichert_a_4,3,259911365.html#'
+  name: 'Unklare Rechtslage - Zwischenahner Gymnasium muss Wiefelsteder Schüler aufnehmen – oder doch nicht?'
+  anfang: >
+    Wiefelsteder Eltern sind verunsichert,
+    an welcher weiterführenden Schule sie
+    ihr Kind anmelden sollen. Ob das
+    Gymnasium Bad Zwischenahn-Edewecht über
+    seine Kapazitäten hinaus aufnehmen
+    muss, soll nun geklärt werden.
+  datum: 2026-04-21
+  medium: nwz
+- 
+  link: 'https://www.nwzonline.de/ammerland/schulvertrag-zwischen-wiefelstede-und-rastede-eltern-weiter-in-sorge-nach-vertagung-im-schulausschuss_a_4,3,208267693.html#'
+  name: 'Sorge der Eltern bleibt - Wiefelstede stimmt neuem Schulvertrag mit Rastede nicht zu – Wie es jetzt weitergeht'
+  anfang: >
+    Rastede will begrenzen, wie viele
+    Schüler aus Wiefelstede die Kooperative
+    Gesamtschule besuchen dürfen. Dem
+    wollte die Wiefelsteder Politik nicht
+    zustimmen. Wie es jetzt weitergeht.
+  datum: 2026-04-16
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulvertrag-zwischen-rastede-und-wiefelstede-aufnahme-an-kgs-mit-begrenzter-kapazitaet_a_4,3,181975299.html
+  name: 'Ringen um Schulvertrag - Rastede will Wiefelsteder Schüler nur „bis zur Kapazitätsgrenze“ aufnehmen'
+  anfang: 'Wiefelstede/Rastede - Die Eltern von Viertklässlern aus Wiefelstede und Metjendorf müssen weiter auf eine klare Aussage warten, welche weiterführende Schule ihre Kinder nach den Sommerferien besuchen können. Der Wiefelsteder Schulausschuss wollte dem Schulvertrag mit der Gemeinde Rastede am Montagabend in öffentlicher Sitzung nicht zustimmen und vertagte eine Entscheidung. Hauptkritikpunkte waren die fehlende Planungssicherheit für Eltern und die rechtliche Unverbindlichkeit des Entwurfs.'
+  datum: 2026-04-14
+  medium: nwz
+- 
+  link: >
     https://govolunteer.com/projekte/begleitung-von-jugendlichen-an-der-kgs-rastede-oldenburg-auf-herausforderung
   name: 'Begleitung von Jugendlichen an der KGS Rastede - Oldenburg auf HERAUSFORDERUNG'
   anfang: 'Du hast Lust Jugendliche auf ein Abenteuer zu begleiten und dabei eine Fahrradtour zu machen, die Alpen zu überqueren, eine Band zu gründen oder vieles mehr? Dann bist du bei uns genau richtig!  Wir sind HERAUSFORDERUNG einfach machen gGmbH.  Bei uns werden die Jugendlichen an der KGS Rastede - Oldenburg auf dem Weg zu ihren eigenen Herausforderungen begleitet.'
@@ -6413,10 +6493,13 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/ammerland/schulvertrag-zwischen-rastede-und-wiefelstede-aufnahme-an-kgs-mit-begrenzter-kapazitaet_a_4,3,181975299.html
-  name: 'Ringen um Schulvertrag - Rastede will Wiefelsteder Schüler nur „bis zur Kapazitätsgrenze“ aufnehmen'
-  anfang: 'Wiefelstede/Rastede - Die Eltern von Viertklässlern aus Wiefelstede und Metjendorf müssen weiter auf eine klare Aussage warten, welche weiterführende Schule ihre Kinder nach den Sommerferien besuchen können. Der Wiefelsteder Schulausschuss wollte dem Schulvertrag mit der Gemeinde Rastede am Montagabend in öffentlicher Sitzung nicht zustimmen und vertagte eine Entscheidung. Hauptkritikpunkte waren die fehlende Planungssicherheit für Eltern und die rechtliche Unverbindlichkeit des Entwurfs.'
-  datum: 2026-04-14
+    https://www.nwzonline.de/ammerland/kgs-rastede-und-wiefelstede-streit-ueber-schulvertrag-verzoegert-entscheidung_a_4,3,476611065.html
+  name: >
+    Neues Gutachten sät Zweifel – Ist der
+    Schulvertrag zwischen Rastede und
+    Wiefelstede rechtswidrig?
+  anfang: 'Eltern aus Wiefelstede und Metjendorf sind empört: Die Zusagen für die KGS Rastede bleiben aus. Ein Schulvertrag zwischen den Gemeinden stockt – und ein Gutachten sieht darin gleich mehrere rechtliche Fehler.'
+  datum: 2026-05-11
   medium: nwz
 
 ----
