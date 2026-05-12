@@ -4,6 +4,31 @@ $now = new DateTime('today');
 $dayNames = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];
 $datumLang = $dayNames[(int)$now->format('w')] . ', ' . $now->format('j.n.y');
 
+function wordClockDE(int $h, int $m): string {
+    $h = $h % 12 ?: 12;
+    $rounded = (int) round($m / 5) * 5;
+    $names = ['', 'eins', 'zwei', 'drei', 'vier', 'fünf', 'sechs', 'sieben', 'acht', 'neun', 'zehn', 'elf', 'zwölf'];
+    $next = ($h % 12) + 1;
+    if ($rounded === 60) { $h = $next; $rounded = 0; }
+    return match($rounded) {
+        0  => ($h === 1 ? 'ein' : $names[$h]) . ' Uhr',
+        5  => 'fünf nach ' . $names[$h],
+        10 => 'zehn nach ' . $names[$h],
+        15 => 'Viertel nach ' . $names[$h],
+        20 => 'zwanzig nach ' . $names[$h],
+        25 => 'fünf vor halb ' . $names[$next],
+        30 => 'halb ' . $names[$next],
+        35 => 'fünf nach halb ' . $names[$next],
+        40 => 'zwanzig vor ' . $names[$next],
+        45 => 'Viertel vor ' . $names[$next],
+        50 => 'zehn vor ' . $names[$next],
+        55 => 'fünf vor ' . $names[$next],
+        default => '',
+    };
+}
+$nowTime  = new DateTime();
+$wordClock = wordClockDE((int)$nowTime->format('G'), (int)$nowTime->format('i'));
+
 // Wetterdaten von Open-Meteo (kostenlos, kein API-Key nötig)
 // Koordinaten für Rastede (26180)
 $temperature = null;
@@ -67,7 +92,7 @@ try {
   <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg flex w-full max-w-4xl overflow-hidden">
 
     <!-- Countdowns (linke zwei Drittel) -->
-    <div class="flex-[2] p-10 divide-y divide-slate-100 dark:divide-slate-700">
+    <div class="flex-[2] p-10 divide-y divide-slate-100 dark:divide-slate-700" style="text-align:center">
 
       <?php if ($countdowns->count() === 0): ?>
         <p class="text-center text-slate-500 dark:text-slate-400 py-8">Keine aktiven Countdowns konfiguriert.</p>
@@ -78,7 +103,7 @@ try {
         $diff = $now->diff($zieldatum);
         $tage = (int) $diff->format('%r%a');
       ?>
-        <div class="py-8 text-center first:pt-0 last:pb-0">
+        <div class="py-8 first:pt-0 last:pb-0">
           <p class="text-lg font-semibold text-slate-500 dark:text-slate-400 uppercase tracking-widest mb-4">
             <?= html($countdown->titel()) ?>
           </p>
@@ -129,9 +154,47 @@ try {
 
   </div>
 
-  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl px-10 py-6 text-center text-lg text-slate-500 dark:text-slate-400">
-    <?= $datumLang ?>
+  <!-- Datum & Uhrzeit -->
+  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl px-10 py-6 text-center text-slate-500 dark:text-slate-400">
+    <div id="datum" class="text-lg"><?= $datumLang ?></div>
+    <div id="wordclock" class="text-4xl font-bold text-slate-800 dark:text-white mt-2"><?= $wordClock ?></div>
   </div>
+
+  <script>
+    const dayNames = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'];
+
+    function wordClockDE(h, m) {
+      h = h % 12 || 12;
+      const rounded = Math.round(m / 5) * 5;
+      const names = ['','eins','zwei','drei','vier','fünf','sechs','sieben','acht','neun','zehn','elf','zwölf'];
+      const next = (h % 12) + 1;
+      if (rounded === 60) return ((next === 1 ? 'ein' : names[next]) + ' Uhr');
+      switch (rounded) {
+        case 0:  return (h === 1 ? 'ein' : names[h]) + ' Uhr';
+        case 5:  return 'fünf nach ' + names[h];
+        case 10: return 'zehn nach ' + names[h];
+        case 15: return 'Viertel nach ' + names[h];
+        case 20: return 'zwanzig nach ' + names[h];
+        case 25: return 'fünf vor halb ' + names[next];
+        case 30: return 'halb ' + names[next];
+        case 35: return 'fünf nach halb ' + names[next];
+        case 40: return 'zwanzig vor ' + names[next];
+        case 45: return 'Viertel vor ' + names[next];
+        case 50: return 'zehn vor ' + names[next];
+        case 55: return 'fünf vor ' + names[next];
+      }
+    }
+
+    function update() {
+      const now = new Date();
+      const d = now.getDate() + '.' + (now.getMonth() + 1) + '.' + String(now.getFullYear()).slice(-2);
+      document.getElementById('datum').textContent = dayNames[now.getDay()] + ', ' + d;
+      document.getElementById('wordclock').textContent = wordClockDE(now.getHours(), now.getMinutes());
+    }
+
+    update();
+    setInterval(update, 30000);
+  </script>
 
 </body>
 </html>
