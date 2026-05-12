@@ -1,6 +1,8 @@
 <?php
 $countdowns = $page->countdowns()->toStructure()->filter(fn($c) => $c->aktiv()->toBool());
 $now = new DateTime('today');
+$dayNames = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];
+$datumLang = $dayNames[(int)$now->format('w')] . ', ' . $now->format('j.n.y');
 
 // Wetterdaten von Open-Meteo (kostenlos, kein API-Key nötig)
 // Koordinaten für Rastede (26180)
@@ -60,7 +62,7 @@ try {
     .weather-emoji { font-family: 'NotoColorEmoji', 'Segoe UI Emoji', 'Apple Color Emoji', sans-serif; }
   </style>
 </head>
-<body class="antialiased bg-slate-100 dark:bg-slate-900 min-h-screen flex items-center justify-center p-8">
+<body class="antialiased bg-slate-100 dark:bg-slate-900 min-h-screen flex flex-col items-center justify-center gap-6 p-8">
 
   <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg flex w-full max-w-4xl overflow-hidden">
 
@@ -125,6 +127,10 @@ try {
       <?php endif; ?>
     </div>
 
+  </div>
+
+  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl px-10 py-6 text-center text-lg text-slate-500 dark:text-slate-400">
+    <?= $datumLang ?>
   </div>
 
 </body>
