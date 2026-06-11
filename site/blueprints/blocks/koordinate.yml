@@ -1,19 +1,25 @@
 # /site/blueprints/blocks/koordinate.yml
 name: Koordinate
 icon: map
-label: '{{ name }} - N{{ laengengrad }} E{{ breitengrad }}'
+label: '{{ datum.toDate("d.m.Y") }} - {{ name }}'
 fields:
   name:
+    label: Ort (z.B. Name der Unterkunft)
     type: text
+  datum:
+    label: Datum
+    type: date
+    display: D. MMMM YYYY
+    time: false
   kurzbeschreibung:
     type: writer
   bild:
     type: files
     max: 1
     query: page.images
-  laengengrad:
-    label: Zum Beispiel 53.24111
-    type: text
   breitengrad:
-    label: Zum Beispiel 8.194932
+    label: Breitengrad (Latitude), zum Beispiel 53.78951
+    type: text
+  laengengrad:
+    label: Längengrad (Longitude), zum Beispiel 7.89542
     type: text
