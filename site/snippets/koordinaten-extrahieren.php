@@ -1,8 +1,11 @@
 <?php
 
+$features = [];
+$koordinaten = [];
+
 // Dieser Code generiert die JSON-Elemente
 foreach ($block->reise()->toBlocks() as $block) {
-  $features = [
+  $features[] = [
     'type' => 'Feature',
     'properties' => [
       'message' => $block->name()->value(),
@@ -12,21 +15,20 @@ foreach ($block->reise()->toBlocks() as $block) {
     'geometry' => [
       'type' => 'Point',
       'coordinates' => [
-        $block->breitengrad()->value(),
-        $block->laengengrad()->value(),
+        (float) $block->breitengrad()->value(),
+        (float) $block->laengengrad()->value(),
       ],
     ],
   ];
 
-  $aktuelle_koordinate = [];
-  $aktuelle_koordinate[0] = $block->breitengrad()->value();
-  $aktuelle_koordinate[1] = $block->laengengrad()->value();
+  $koordinaten[] = [
+    (float) $block->breitengrad()->value(),
+    (float) $block->laengengrad()->value(),
+  ];
 }
 
-//Achtung, hier ist der Code passend zur Fehlermeldung. Int vs. String
-$koordinaten[0] = [['53.1'], ['8.12']];
-$koordinaten[2] = [['43.1'], ['7.12']];
-$koordinaten[3] = [['33.1'], ['6.12']];
-
-return $features;
+return [
+  'features' => $features,
+  'koordinaten' => $koordinaten,
+];
 ?>

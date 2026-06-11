@@ -1,23 +1,16 @@
 <?php
-$features = [];
-$koordinaten = [];
-
-$features = snippet('koordinaten-extrahieren', [
-  'koordinaten' => $koordinaten,
-  'features' => $features,
+$result = snippet('koordinaten-extrahieren', [
   'block' => $block,
 ]);
 
-print_r($features);
-gettype($features);
-
-echo $features;
+$features = $result['features'];
+$koordinaten = $result['koordinaten'];
 ?>
 
 
 
-<script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
-<link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+<script src='https://api.mapbox.com/mapbox-gl-js/v3.24.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v3.24.0/mapbox-gl.css' rel='stylesheet' />
 
 <style>
   body {
