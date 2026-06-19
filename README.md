@@ -125,6 +125,7 @@ Wir verwenden **TailwindCSS v4**. Im Vergleich zu älteren Versionen gibt es kei
 | `npm run build:prod` | Vor dem Deploy — CSS minifiziert bauen |
 | `npm run format` | PHP-Dateien mit Prettier formatieren |
 | `npm run format:check` | Prettier-Prüfung ohne Änderungen (z.B. für CI) |
+| `npm run farben` | Zählt alle verwendeten Tailwind-Farbklassen, gruppiert nach Basisfarbe — hilft, Farb-Wildwuchs (z.B. 10 Stufen Slate) zu erkennen |
 
 Typischer Workflow nach einem sauberen Checkout:
 

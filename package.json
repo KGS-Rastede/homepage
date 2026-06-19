@@ -24,7 +24,8 @@
     "build": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.css",
     "build:prod": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m",
     "format": "prettier ./site --write",
-    "format:check": "prettier ./site --check"
+    "format:check": "prettier ./site --check",
+    "farben": "node scripts/farbanalyse.js"
   },
   "devDependencies": {
     "@prettier/plugin-php": "^0.25.0",
