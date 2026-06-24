@@ -66,7 +66,7 @@ copyFile(
 
 // iCal + FullCalendar iCal-Plugin
 copyFile(
-  'node_modules/ical.js/dist/ical.min.js',
+  'node_modules/ical.js/dist/ical.es5.min.cjs',
   'assets/vendor/js/ical.min.js'
 );
 copyFile(
