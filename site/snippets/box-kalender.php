@@ -21,51 +21,19 @@
     document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
 
-        var calendar = new FullCalendar.Calendar(calendarEl, {
-            locale: 'de', //Darstellung auf Deutsch
-            height: 'auto',
-
-            initialView: 'zweiWochen',
-
-            headerToolbar: {
-                left: '',
-                center: 'title',
-                right: ''
-            },
-
-            views: {
-                zweiWochen: {
-                    type: 'listWeek',
-                    duration: {
-                        days: 14
-                    },
-                }
-            },
-
-            stickyHeaderDates: false, //Die Terminleiste wird nicht immer oben am Bildschirm angezeigt
-            firstDay: 1,
-            hiddenDays: [0, 6], // Samstag und Sonntag verstecken
-            allDayText: "ganztägig",
-            noEventsContent: "Keine Ereignisse anzuzeigen",
-            displayEventTime: true, // don't show the time column in list view
-            events: {
-                /*url: 'https://kgs-rastede.eu/iserv/public/calendar/?key=1bad7fec91a3d07904543f4476774fd1',*/
-                url: '<?= $kirby->url('assets') ?>/kalender/public.ics',
-                format: 'ics',
-                failure: function() {
-                    document.getElementById('script-warning').style.display = 'block';
-                },
-                loading: function(bool) {
-                    document.getElementById('loading').style.display =
-                        bool ? 'block' : 'none';
-                }
-            }
+        window.KgsCalendar.initHomepageCalendar(calendarEl, {
+            url: calendarEl.dataset.calendarUrl,
+            loadingSelector: '#calendar-box-loading',
+            errorSelector: '#calendar-box-error',
         });
-
-        calendar.render();
     });
 </script>
 
+<p id="calendar-box-loading" class="kgs-calendar-status" hidden>Termine werden geladen ...</p>
+<p id="calendar-box-error" class="kgs-calendar-status kgs-calendar-status-error" hidden>
+    Die Kalenderdaten konnten nicht geladen werden.
+</p>
+
 <div class="mt-5 rounded-lg bg-white shadow-sm dark:bg-slate-800 dark:text-slate-100">
-    <div id='calendar'></div>
+    <div id="calendar" data-calendar-url="<?= $kirby->url('assets') ?>/kalender/public.ics"></div>
 </div>
