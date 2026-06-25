@@ -6,6 +6,319 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.rasteder-rundschau.de/2026/06/18/moderne-module-fuer-die-kgs/
+  name: Moderne Module für die KGS
+  anfang: >
+    Die Gemeinde Rastede will der Raumnot an
+    der KGS mit einer Erweiterung in
+    Modulbauweise begegnen. So können
+    dauerhaft acht Klassenräume
+    eingerichtet werden.
+  datum: 2026-06-18
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulentwicklung-in-rastede-kgs-und-grundschulen-werden-erweitert-und-saniert_a_4,3,879337796.html
+  name: >
+    Zehn-Jahres-Programm Fragen und
+    Antworten zum 100-Millionen-Euro-Plan
+    für Rastedes Schulen
+  anfang: >
+    Um die Schulen in Rastede fit für die
+    Zukunft zu machen, will die Gemeinde so
+    viel Geld wie nie zuvor in die Hand
+    nehmen. Ein Vorhaben wurde allerdings
+    stark kritisiert.
+  datum: 2026-06-17
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schueler-haushalt-an-der-kgs-rastede-was-schueler-mit-17000-euro-anfangen_a_4,3,881369872.html
+  name: >
+    Erster Schüler-Haushalt Was Rasteder
+    Schüler mit 17.000 Euro anfangen
+  anfang: >
+    17.000 Euro standen den Schülern der
+    KGS Rastede zur Verfügung. Sie konnten
+    komplett selbst entscheiden, was damit
+    gemacht wird. Nun wurden die
+    Anschaffungen präsentiert.
+  datum: 2026-06-17
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulentwicklung-in-rastede-zukunftsplan-fuer-kgs-und-grundschulen-sieht-baumassnahmen-fuer-100-millionen-euro-vor_a_4,3,880496181.html
+  name: >
+    100-Millionen-Euro-Plan Wie Rastedes
+    Schulen bis 2037 umgebaut werden
+  anfang: >
+    Die Gemeinde Rastede steht vor einer
+    Herkulesaufgabe. Bis 2037 sollen alle
+    Grundschulen und die KGS zukunftssicher
+    umgebaut werden. Fast 100 Millionen Euro
+    wird das kosten. Ein erster Überblick.
+  datum: 2026-06-17
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ratgeber/mut-zum-loslassen-wie-kinder-in-rastede-selbstvertrauen-gewinnen-ein-kommentar_a_4,3,840804891.html
+  name: >
+    Rasteder Projekt lehrt Selbstvertrauen
+    Mut zu mehr Herausforderung!
+  anfang: >
+    An der KGS Rastede lernen Kinder Mut und
+    Eltern Vertrauen – ein Projekt zeigt,
+    wie Loslassen gelingt. Warum das so
+    wichtig ist, erklärt NWZ-Kommentatorin
+    Katja Lüers.
+  datum: 2026-06-14
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/spezial-familie/herausforderungsprojekt-der-kgs-82-kinder-starten-fahrradabenteuer-in-rastede_a_4,3,827873898.html
+  name: >
+    Raus aus der Komfortzone – 82 Kinder
+    starten Fahrradabenteuer in Rastede
+  anfang: 'Hast Du etwa Deinen Helm vergessen? Wo ist die Wasserflasche? Fehlt die Luftpumpe? Überall Gesprächsfetzen, aufgeregte Eltern und aufgeregte Kinder. Sie stehen in Kleingruppen auf dem Schulhof der KGS Rastede zusammen – umgeben von unzähligen Rädern. Und die Vielfalt auf zwei Rädern ist nicht zu überbieten: schlichte Hollandräder mit Dreigangschaltung neben hoch spezialisierten Trekkingrädern, dünne Reifen neben dicken Reifen, Räder mit Anhängern, manche ausgestattet mit Solarpaneelen. Nur noch wenige Minuten, dann heißt es „Abfahrt“ für die 82 Mädchen und Jungen.'
+  datum: 2026-06-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/raumnot-an-kgs-rastede-gemeinde-stellt-plaene-fuer-neues-modulgebaeude-vor_a_4,3,803170218.html
+  name: 'Raumnot an der KGS - Hier will Rastede neue Klassenzimmer bauen – Fertigstellung aber erst Ende 2027'
+  anfang: >
+    Die KGS Rastede platzt aus allen
+    Nähten. Jetzt will die Gemeinde ein
+    Schulgebäude in Modulbauweise
+    errichten. Kurzfristig werden aber noch
+    andere Räume gebraucht – und die
+    Suche danach läuft auf Hochtouren.
+  datum: 2026-06-10
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/stadtradeln-im-ammerland-593717-kilometer-auf-dem-rad-zurueckgelegt_a_4,3,790309355.html
+  name: >
+    Bilanz des Stadtradelns 593.717
+    Kilometer mit dem Rad – das Ammerland
+    hat mächtig gestrampelt
+  anfang: 'Das Stadtradeln im Ammerland bricht wieder Landkreis-Rekorde: Fast 3400 Menschen traten für Klima und Gemeinschaft in die Pedale. Rastede bleibt vorn, doch Apen holt mit besonders engagierten Teams auf.'
+  datum: 2026-06-09
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2026/06/praeventionsprojekt-balu-und-du-fuenfter-durchgang-ist-der-bislang-groesste/
+  name: 'Präventionsprojekt „Balu und Du“: Fünfter Durchgang ist der bislang größte'
+  anfang: >
+    Der fünfte Durchgang des
+    Präventionsprojekts „Balu und Du“
+    ist jetzt erfolgreich zu Ende gegangen.
+    Im Rahmen einer kleinen Abschlussfeier
+    übergab Bürgermeister Lars Krause
+    Urkunden und Medaillen an die
+    teilnehmenden Schülerinnen und Schüler
+    der Kooperativen Gesamtschule (KGS)
+    Rastede sowie der Grundschulen
+    Feldbreite, Leuchtenburg und Kleibrok.
+  datum: 2026-06-09
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/spezial-familie/mobbing-an-schulen-im-nordwesten-lehrkraefte-kaempfen-gegen-ausgrenzung-und-gewalt_a_4,3,703668231.html
+  name: >
+    Mobbing – Jedes Kind übernimmt eine
+    Rolle
+  anfang: >
+    Ein 14-jähriger Schüler wird über
+    Wochen von Mitschülern gedemütigt,
+    bedroht und geschlagen. Die Eltern
+    reagieren, konfrontieren die
+    Schulleitung mit der Situation und
+    ziehen am Ende die Reißleine. Sie
+    behalten ihren Sohn und den drei Jahre
+    jüngeren Bruder für drei Wochen zu
+    Hause. Der Mobbingfall in Emden sorgte
+    nicht nur vor Ort für Schlagzeilen,
+    sondern ließ das Thema aufkochen. Viele
+    Eltern machen sich Sorgen um ihre
+    Kinder. Und viele Kinder trauen sich
+    nicht, über Vorfälle zu sprechen.
+  datum: 2026-06-08
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schule-in-rastede-und-wiefelstede-container-koennen-in-metjendorf-bleiben_a_4,3,747637356.html
+  name: 'Schulstreit im Ammerland  - Rastede will Container der Grundschule Metjendorf nicht – Wie es jetzt weitergeht'
+  anfang: >
+    Die Container der Grundschule Metjendorf
+    bleiben stehen. Rastede will die Anlage
+    nicht übernehmen. Angesichts steigender
+    Schülerzahlen muss die Gemeinde nun
+    schnell Alternativen fürs kommende
+    Schuljahr finden.
+  datum: 2026-06-05
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulplatzvergabe-im-ammerland-und-in-oldenburg-oberbuergermeister-schreibt-an-ministerin_a_4,3,735176566.html
+  name: 'Drohende Zuweisungen - Ammerländer Streit um Schulplatzvergabe erreicht Stadt Oldenburg'
+  anfang: >
+    In Rastede sind die Schulräume voll, in
+    Wiefelstede gibt es keine Oberstufe. Nun
+    sollen Ammerländer Kinder an
+    Oldenburger Gymnasien unterkommen. Doch
+    die Stadt wehrt sich entschieden gegen
+    die Pläne des Landes.
+  datum: 2026-06-04
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/jugendteams-vom-roten-kreuz-stellen-in-rastede-ihre-leistungsfaehigkeit-unter-beweis_a_4,3,691359787.html
+  name: 'Kreiswettbewerb in Rastede - Jugendteams vom Roten Kreuz stellen ihre Leistungsfähigkeit unter Beweis'
+  anfang: >
+    Die Jugendteams vom Deutschen Roten
+    Kreuz haben beim Kreiswettbewerb in
+    Rastede gezeigt, was sie draufhaben. Und
+    dann kam noch ein echter Notfall dazu.
+  datum: 2026-05-31
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-elternrat-wiefelstede-aeussert-sich-zur-debatte-um-schulplatzvergabe_a_4,3,672438516.html
+  name: 'Streit um Schulplatzvergabe - Wiefelsteder Eltern empört über „Nachtreten“ und „psychologischen Druck“ aus Rastede'
+  anfang: >
+    Der Wiefelsteder Elternrat übt scharfe
+    Kritik an den Reaktionen aus Rastede.
+    Die Engpässe an der Kooperativen
+    Gesamtschule seien das Resultat
+    verschleppter Investitionen und
+    mangelhafter Voraussicht.
+  datum: 2026-05-29
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/familie/herausforderungsprojekt-an-kgs-rastede-jugendliche-radeln-ohne-handy-nach-fehmarn_a_4,3,551740371.html
+  name: 'Herausforderungsprojekt der KGS Rastede - TikTok aus, Teamgeist an – Achtklässler radeln ohne Handys durch Norddeutschland'
+  anfang: >
+    Ohne Handy, Lehrer und Unterkunft radeln
+    Schülerinnen und Schüler der KGS
+    Rastede bis nach Fehmarn. Unzählige
+    Kilometer Abenteuer, Selbstständigkeit
+    und Solidarität – und auf der Strecke
+    wächst mehr als nur Muskelkraft.
+  datum: 2026-05-29
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-schulelternrat-und-gemeindeelternrat-schreiben-offenen-brief-und-schlagen-alarm_a_4,3,648556664.html
+  name: >
+    Streit um Schulplatz an der KGS –
+    Jetzt schlagen Rasteder Eltern Alarm
+  anfang: >
+    Eltern in Rastede warnen vor einer
+    Überlastung der KGS. Die Schule platzt
+    aus allen Nähten. Trotzdem sollen
+    weitere Kinder aufgenommen werden –
+    ein Plan, der die Sorgen noch
+    vergrößert.
+  datum: 2026-05-27
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/05/22/anspruch-auf-aufnahme-an-der-kgs/
+  name: Anspruch auf Aufnahme an der KGS
+  anfang: >
+    Jetzt schaltet sich Landrätin Karin
+    Harms in die Debatte um den Schulvertrag
+    zwischen den Gemeinden Rastede und
+    Wiefelstede ein. Sie sagt, Wiefelsteder
+    Schüler haben ein Recht darauf, an der
+    KGS aufgenommen zu werden.
+  datum: 2026-05-22
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/platzmangel-an-kgs-rastede-wiefelsteder-container-sollen-fuer-entlastung-sorgen_a_4,3,588078046.html
+  name: 'Platzmangel an KGS Rastede - Container der Grundschule Metjendorf sollen für Entlastung sorgen'
+  anfang: >
+    Die Containerklassen der Grundschule
+    Metjendorf sollen nach Rastede kommen.
+    Schulleiterin Dr. Sandra Thom ist davon
+    wenig begeistert. Sie bedauert, dass vor
+    der Entscheidung niemand mir ihr
+    gesprochen hat.
+  datum: 2026-05-22
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulen-im-ammerland-diskussion-um-zukunft-der-bildungslandschaft-schulstreit-zwischen-rastede-und-wiefelstede_a_4,3,605487444.html
+  name: 'Lesermeinung aus dem Ammerland - Bildungslandschaft muss neu gedacht werden – Leserbrief zum Schulstreit im Ammerland'
+  anfang: >
+    Der Streit um Schulplätze in Rastede
+    greift zu kurz, meint Leser Gerd
+    Langhorst. Er fordert, die
+    Bildungslandschaft im ganzen Ammerland
+    neu zu denken – von Raumangebot bis
+    Lehrergesundheit.
+  datum: 2026-05-22
+  medium: nwz
+- 
+  link: 'https://www.ammerland.de/Aktuelles/Presse-%C3%96ffentlichkeit/Landr%C3%A4tin-Karin-Harms-Wiefelsteder-Sch%C3%BCle-rinnen-und-Sch%C3%BCler-haben-Anspruch-auf-Auf-nahme-an-der-KGS-Rastede.php?object=tx,2843.5&ModID=7&FID=2843.67139.1&NavID=2843.185&La=1'
+  name: 'Landrätin Karin Harms: Wiefelsteder Schülerinnen und Schüler haben Anspruch auf Aufnahme an der KGS Rastede'
+  anfang: >
+    Schülerinnen und Schüler aus der
+    Gemeinde Wiefelstede haben auch zum
+    Schuljahr 2026/2027 einen Anspruch auf
+    Aufnahme an der Kooperativen
+    Gesamtschule Rastede. Landrätin Karin
+    Harms hat die Gemeinde Rastede deshalb
+    aufgefordert, kurzfristig ausreichende
+    räumliche Kapazitäten bereitzustellen.
+    Gleichzeitig hat die Gemeinde
+    Wiefelstede nach Angaben des Landkreises
+    signalisiert, kurzfristig zusätzliche
+    Containeranlagen kostenlos zur
+    Verfügung stellen zu können, um die
+    Beschulung weiterer Schülerinnen und
+    Schüler an der KGS Rastede zu
+    ermöglichen und die räumliche
+    Situation zu entlasten.
+  datum: 2026-05-20
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/oldenburg/erinnerung-an-das-holocaust-opfer-anne-frank-in-oldenburg-ausstellung-lesung-fuehrungen-und-filme_a_4,3,550148867.html
+  name: >
+    „Sie könnte heute noch hier sein“
+    – Anne Frank-Ausstellung in Oldenburg
+  anfang: >
+    Mit der Ausstellung „Deine Anne –
+    ein Mädchen schreibt Geschichte“
+    kommt die Wanderausstellung des Anne
+    Frank Zentrums Berlin nach Oldenburg ins
+    Alte Gymnasium. Schülerinnen und
+    Schüler übernehmen die Führungen.
+  datum: 2026-05-19
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-anmeldezahlen-fuer-jahrgang-fuenf-uebersteigen-kapazitaeten-keine-loesung-in-sicht_a_4,3,503799704.html
+  name: 'Kooperative Gesamtschule Rastede - Zu viele Anmeldungen für Jahrgang fünf – Lösung nicht in Sicht'
+  anfang: 'Die KGS Rastede steht vor einem Platzproblem: Zu viele Anmeldungen, zu wenig Raum. Eltern sollen Alternativen suchen – vor allem in Wiefelstede wächst der Druck.'
+  datum: 2026-05-13
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-und-wiefelstede-streit-ueber-schulvertrag-verzoegert-entscheidung_a_4,3,476611065.html
+  name: >
+    Neues Gutachten sät Zweifel – Ist der
+    Schulvertrag zwischen Rastede und
+    Wiefelstede rechtswidrig?
+  anfang: 'Eltern aus Wiefelstede und Metjendorf sind empört: Die Zusagen für die KGS Rastede bleiben aus. Ein Schulvertrag zwischen den Gemeinden stockt – und ein Gutachten sieht darin gleich mehrere rechtliche Fehler.'
+  datum: 2026-05-11
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/familie/mobbing-in-emden-so-reagieren-schulen-im-nordwesten-auf-uebergriffe_a_4,3,413720616.html
   name: 'Nach Gewalt-Vorfall in Emden - Welche Rolle Mobbing an Schulen im Nordwesten spielt'
   anfang: 'Ein Mobbing-Fall in Emden hat für Aufsehen gesorgt: Wie reagieren Eltern richtig, und was unternimmt Schule? Zwei Pädagoginnen erklären, was Schulen tun können – und wo ihnen die Mittel fehlen.'
@@ -6493,14 +6806,11 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-und-wiefelstede-streit-ueber-schulvertrag-verzoegert-entscheidung_a_4,3,476611065.html
-  name: >
-    Neues Gutachten sät Zweifel – Ist der
-    Schulvertrag zwischen Rastede und
-    Wiefelstede rechtswidrig?
-  anfang: 'Eltern aus Wiefelstede und Metjendorf sind empört: Die Zusagen für die KGS Rastede bleiben aus. Ein Schulvertrag zwischen den Gemeinden stockt – und ein Gutachten sieht darin gleich mehrere rechtliche Fehler.'
-  datum: 2026-05-11
-  medium: nwz
+    https://www.rastede.de/2026/06/schuelerinnenhaushalt-staerkt-mitbestimmung-an-rasteder-schulen/
+  name: 'Schüler*innenHaushalt stärkt Mitbestimmung an Rasteder Schulen'
+  anfang: 'Demokratie ist weit mehr als ein politisches System – sie ist eine Haltung, die von Beteiligung, Verantwortung und gegenseitigem Respekt lebt. Damit junge Menschen demokratische Werte verinnerlichen, reicht es nicht aus, darüber im Unterricht zu sprechen. Demokratie muss erlebt, ausprobiert und gestaltet werden können. Genau hier setzt der Schüler*innenHaushalt an.'
+  datum: 2026-06-22
+  medium: gemeinde
 
 ----
 
