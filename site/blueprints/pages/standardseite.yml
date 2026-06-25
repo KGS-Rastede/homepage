@@ -3,6 +3,7 @@ title: Standardseite
 options:
   update:
     *: false
+    erasmus: true
     fachleiter: true
     hfp: true
     nilepe: true

@@ -1,0 +1,40 @@
+title: Erasmus
+description: Erasmus-Benutzer dürfen nur die Erasmus-Seite bearbeiten
+home: pages/unterricht+erasmus
+
+permissions:
+  access:
+    panel: true
+    site: true
+    users: false
+    system: false
+  files:
+    create: true
+    changeName: true
+    delete: true
+    replace: true
+    update: true
+  site:
+    update: false
+  pages:
+    create: false
+    changeTemplate: false
+    changeTitle: false
+    changeSlug: false
+    changeStatus: false
+    delete: false
+    duplicate: false
+    preview: true
+    sort: false
+    update: true
+  user:
+    changeName: true
+    changeEmail: false
+    changeLanguage: true
+    changePassword: true
+    changeRole: false
+    create: false
+    delete: false
+    update: false
+  users:
+    '*': false
