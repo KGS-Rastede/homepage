@@ -1,0 +1,37 @@
+Title: Bericht über den Hollandaustausch
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://cw2g9on8ceufe57d"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"233f53d8-ac28-4d10-a3ab-7d4a59f2a23a","isHidden":false,"type":"image"}],"id":"bcfa7436-aaf1-4994-a236-061fd91af333","width":"1/1"}],"id":"9daa3855-1548-4f40-9619-f8319cfaee0c"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der traditionelle Schüleraustausch findet seit über vierzig Jahren zwischen den beiden Schulen KGS Rastede und Vechtdal College Hardenberg statt. Das interkulturelle Projekt webt somit einen Teppich aus Geschichten über Generationen hinweg.</p><p>Die holländischen Schüler*innen besuchten uns Ende November. Zu Beginn lernten wir uns gegenseitig kennen und besuchten gemeinsam den Unterricht, damit die Niederländer*innen einen Einblick in das deutsche Schulsystem erhalten. Zudem standen Ausflüge auf dem Programm. Im Universum Bremen erkundeten wir die spannende Welt der Wissenschaft. Zur Einstimmung auf die kommende Adventszeit besuchten wir gemeinsam die Weihnachtsmärkte in Oldenburg und Bremen. Außerdem bekamen die Schüler*innen einen Einblick in das Familienleben.</p><p>Anfang Mai waren wir in Hardenberg und lernten die niederländische Kultur und das Schulsystem kennen. Auch hier standen coole Ausflugsziele auf unserem Programm. Wir fuhren mit dem Fahrrad zum Freizeitpark Slagharen und konnten die Attraktionen testen. Außerdem besichtigten wir das schöne Freilichtmuseum und die Innenstadt in Arnhem. Am letzten Tag stand noch ein gemeinsamer Marktbesuch in Hardenberg an.</p><p>Der Austausch war für uns alle eine bereichernde und unvergessliche Erfahrung. Gemeinsame Erlebnisse stärkten die interkulturellen Freundschaften und vermittelten uns authentische Einblicke in den niederländischen Alltag.</p><p>Herr Teske nahm bereits zum zehnten und zugleich leider letzten Mal teil. Wir danken ihm herzlich für die schöne gemeinsame Zeit und sein großes Engagement. Außerdem wissen wir die freundliche Unterstützung der Programmpartnerschaften und die Kofinanzierung seitens der Europäischen Union sehr zu schätzen\" </p><p><strong><em>Das Projekt „Deutsch-Niederlande SchülerInnen Austausch“ wird durch das Interreg-Programm Deutschland-Nederland sowie seinen Programmpartnern ermöglicht und von der Europäischen Union (EU) kofinanziert.</em></strong></p>"},"id":"934a1c86-b83c-4975-84e8-80fc8226bd8f","isHidden":false,"type":"text"}],"id":"c073c9ee-c589-464b-a331-48db07cd10c0","width":"1/1"}],"id":"2296e9ce-73e6-45e5-bc3f-64fffcfd1617"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://rcej2lnyd57gfldz"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"f71de6c2-2ced-4ef8-82ff-5f9bbf82996e","isHidden":false,"type":"image"}],"id":"92766975-e343-4862-ad17-5fca5e6a83ab","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://fdkxxotdzsg0lsll"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"b13206e9-685b-473a-8bc6-5e2e28b3143f","isHidden":false,"type":"image"}],"id":"0f7267f1-8694-453e-86e2-35636dea5f08","width":"1/2"}],"id":"7b5d2e29-ecdc-4eb6-9a24-a365223b870f"}]
+
+----
+
+Date: 2026-05-27 08:05:00
+
+----
+
+Datumstartseite: 2026-09-27 08:05:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Lucian
+
+----
+
+Tags: Fremdsprachen, Austausch, Niederlande, Ausflug, Excursion
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: 4izhnbvsdwt0rey3

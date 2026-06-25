@@ -1,0 +1,37 @@
+Title: Herausforderungsprojekt 2026 gestartet
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am 11. Juni fiel an der KGS der Startschuss für das diesjährige Herausforderungsprojekt. Mit viel Vorfreude, Spannung und einer großen Portion Mut machten sich die verschiedenen Gruppen auf den Weg, um ihre ganz persönlichen Herausforderungen zu meistern.</p><p>Wir wünschen allen Teilnehmerinnen und Teilnehmern eine erfolgreiche, sichere und erlebnisreiche Zeit und freuen uns schon auf ihre Rückkehr und die Geschichten, die sie mitbringen werden.</p><p><strong>Den Film zur Verabschiedung der radelnden Gruppen finden Sie hier: </strong><a href=\"https://peertube.kgs-rastede.de/videos/embed/ee6xHxacUxVDC5YjKc4k9A\">https://peertube.kgs-rastede.de/videos/embed/ee6xHxacUxVDC5YjKc4k9A</a></p><p>Die täglichen Bilder der Tour finden Sie hier: <a href=\"https://kgs-rastede.de/unterricht/herausforderungsprojekt/herausforderungsprojekt-2026\">https://kgs-rastede.de/unterricht/herausforderungsprojekt/herausforderungsprojekt-2026</a></p>"},"id":"9edda845-7f2c-4556-b207-cabbb5e04dd6","isHidden":false,"type":"text"}],"id":"461f4941-4802-42e0-b508-4e57b7b9350d","width":"1/1"}],"id":"0f23539b-1a21-44cd-a2fb-d648d0d7af6e"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://9t1usil9uc7sjgcb","file://lpca9zg9ljbq3xi9","file://jftvqaghaoxgla0n","file://spzfg2kfddan3ihl"],"caption":"","ratio":"","crop":"false"},"id":"f3787413-fb46-483b-9640-3626bbbc8d7b","isHidden":false,"type":"gallery"}],"id":"228f6592-de2e-493d-b966-52332f3b6db7","width":"1/1"}],"id":"7d329d33-d079-4e25-b513-b47a74612638"}]
+
+----
+
+Date: 2026-06-14 15:10:00
+
+----
+
+Datumstartseite: 2026-10-14 15:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: AG Herausforderungsprojekt
+
+----
+
+Tags: AGs, HFP, Herausforderungsprojekt
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: arrrxjs1oalmq6vr

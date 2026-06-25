@@ -1,0 +1,37 @@
+Title: Regenerative Energie im Physikunterricht
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://7roxtlrmyyrkwzan"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"10a71bc0-275e-4f84-818a-6c68b38600ab","isHidden":false,"type":"image"}],"id":"c1466869-2919-4e36-9243-1d3924111677","width":"1/1"}],"id":"2e3592b4-75fd-4e0c-a3f8-d7145d28057f"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am heutigen Donnerstag, den 28.5.2026, bekam die KGS Rastede Besuch vom Solarcamp. </p><p>Zunächst mit dem Physik-Leistungskurs in Klasse 12 und später mit der 9d3 diskutierten Leo und Charlotte vom Solarcamp in Oldenburg über die Vorteile der Energiewende. In kleinen Rechnungen und Diagrammen sollte klar werden, wie viel Energie ein solches Modul geben kann , aber auch wie ungleich diese Energie über den Tag verteilt ist und wie wenig sie an den normalen Stromverbrauch des Durchschnitssmenschen angepast ist. </p><p>Dann wurde es auch gleich praktisch. Die Schüler:innen mussten selbst anfassen und die Solarmodule in Kleingruppen auf etwa 10° geneigten Gestellen anschrauben, die man für Ost-West-ausgerichtete Solarmodule nutzt und dann mit einem Wechselrichter verbinden. Im Anschluß wurde dann noch mal mit einem Schulmultimeter getestet, wie viel Strom und Spannung ein einzelnes Photovoltaikmodul erzeugt, wenn es in der prallen Sonne ist oder wenn Teile davon beschattet werden. </p><p>Während die Neuntklässler vor allem den praktischen Teil zu schätzen wussten, wurden im Leistungskurs durchaus auch über die enormen Stromflüsse in den Anlagen gestaunt, die in kürzester Zeit auch die Anschlüsse des Multimeters schwarz färbten. </p><p>Noch mehr EInblick in den Aufbau einer Solaranlage bekommt man in den Sommerferien (<a href=\"https://solarcamp-oldenburg.de/\">https://solarcamp-oldenburg.de/</a>) - vom 20. bis zum 24. Juli 2026, oder 27. bis zum 31. Juli 2026 - , das wir als Fachbereich Naturwissenschaften allen interessierten Schüler:innen ab 14 Jahren nach diesem tollen Einstiegstag sehr empfehlen.</p>"},"id":"e9c4bb2d-e48a-4031-af25-4277082a72dc","isHidden":false,"type":"text"}],"id":"81ad4d1c-1c25-4c21-bb1e-6ac2fd443da7","width":"1/1"}],"id":"2e20f1be-7160-4abb-8b98-c7d3bd9d16e1"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://vlyqcmqtn5hvwrnx"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"e41a6e40-3b44-4f5a-a68d-02464b379bc7","isHidden":false,"type":"image"}],"id":"cca778e4-427c-4bae-952d-47c08e8eb8ca","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://apvkhzef4b4gke6d"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"51ec4f46-255b-48e8-8d8e-f37c77ae9837","isHidden":false,"type":"image"}],"id":"caed0821-13cf-4efe-b0ee-6be9968d7037","width":"1/2"}],"id":"8dfb84d9-5e31-486b-a010-7c50f18d6576"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://z6rdkdjcrcdisjpi"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"0ca8562a-c329-4e11-924a-0da5d00ae413","isHidden":false,"type":"image"}],"id":"138ed3f9-6333-4484-afe9-d495f08eb620","width":"1/1"}],"id":"edfb9ee0-b870-4d72-80b6-262076cbe60b"}]
+
+----
+
+Date: 2026-06-03 12:30:00
+
+----
+
+Datumstartseite: 2026-10-03 12:30:00
+
+----
+
+Togglestartseite: true
+
+----
+
+Author: Carsten Riedel
+
+----
+
+Tags: Physik, Solarcamp, NTW
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: vruytrrqfryi1cj0

@@ -1,0 +1,37 @@
+Title: 6E3 im Schülerlabor physiXS
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://rgbr4nb5fcaxkvqv"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"0b7aaa5d-ddf3-4dd7-9963-daa0dda57f20","isHidden":false,"type":"image"}],"id":"74f8a5e9-9903-4486-862b-4a24e4b63490","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://b3dxo5uujmimvxwl"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"3f173d3f-7cf4-48cc-a05b-192c0ccbf5be","isHidden":false,"type":"image"}],"id":"b82055c1-84f2-402e-a3d6-4dfca8c03742","width":"1/2"}],"id":"1892121e-39dd-4de5-985a-4ca5dafedb11"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wie funktioniert ein Elektromagnet? Und wie entstehen eigentlich im Handy-Display verschiedene Farben?</p><p>Diese  und weitere Fragen haben die Schüler:innen der 6E3 am 07.05.26 im  Schülerlabor physiXS der Uni Oldenburg untersucht. Unter Anleitung von  Studierenden haben sie dabei in mehreren Stationen tolle Experimente  durchgeführt. Volle Power wurde den Schüler:innen beim Antrieb von  Carrera-Autos mit Hilfe eines Dynamos abverlangt. Dabei lernten sie  spielerisch Energieumwandlungen kennen. Ein besonderes Highlight war das  Zusammenlöten einer Taschenlampe auf einer Platine. Die Taschenlampe  durfte sogar mit nach Hause genommen werden!</p><p>Begleitet wurde die 6E3 von Herrn Rosenau und ihrem Klassenlehrer Herrn Nawrath.</p>"},"id":"3bc8a663-490f-4875-abc0-7cf5f80f3945","isHidden":false,"type":"text"}],"id":"5aca2b9e-f84f-4f1d-8ef0-a91507dead39","width":"1/1"}],"id":"b54ed61d-8d51-46d2-92ca-d7cdd59041e7"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://bdwetcsfrsubgq4w"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"908304cb-14aa-432a-be8c-23e856945d97","isHidden":false,"type":"image"}],"id":"aea5f921-74d2-4885-9e7b-7e1004bcf47f","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://2tonifgxlvqhawgf"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"41bd5f2a-c6d9-4a26-a91e-6e0070d813d8","isHidden":false,"type":"image"}],"id":"a57c5ac0-0ab7-40d6-8e92-e6ab994569fc","width":"1/2"}],"id":"f28a7ebe-e368-407c-aa0e-feebcd1084ff"}]
+
+----
+
+Date: 2026-05-19 09:35:00
+
+----
+
+Datumstartseite: 2026-09-19 09:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dennis Nawrath
+
+----
+
+Tags: physik, Exkursion, NTW
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: k1mbchevvcdbemjg

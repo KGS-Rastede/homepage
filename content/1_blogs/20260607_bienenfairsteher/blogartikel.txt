@@ -1,0 +1,37 @@
+Title: Bienenfairsteher
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://wm6eanrgrvy4sqlb"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"48f874f6-dee5-4432-8f46-733f89bacf64","isHidden":false,"type":"image"}],"id":"2213a291-4913-43cf-9413-328d31dab430","width":"1/1"}],"id":"3254a5ec-4a4c-4d1c-9bac-20a90cad5aeb"}]
+
+----
+
+Date: 2026-06-07 12:50:00
+
+----
+
+Datumstartseite: 2026-10-07 12:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Claudia Bünnemeyer
+
+----
+
+Tags: AGs, Schülerfirmen, BNE
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: bdbigyuanrdy9icn

@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: spzfg2kfddan3ihl
+
+----
+
+Template: blocks/image

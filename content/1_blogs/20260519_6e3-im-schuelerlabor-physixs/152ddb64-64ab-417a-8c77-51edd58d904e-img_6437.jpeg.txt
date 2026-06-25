@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: bdwetcsfrsubgq4w
+
+----
+
+Template: blocks/image

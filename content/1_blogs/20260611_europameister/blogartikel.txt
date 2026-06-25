@@ -1,0 +1,37 @@
+Title: Europameister!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Europameister!</strong></p><p>Großer Erfolg für ein Team der Robo-AG.</p><p>Die „Bratnudeln“ haben bei der RoboCupJunior-Europameisterschaft 2026 in Wien den Titel in der Kategorie „Rescue Maze Entry“ gewonnen.</p><p>Was für Fußballfans ein Titelgewinn auf dem Rasen ist, haben die „Bratnudeln“ nun in der Robotik erreicht: Sie gehören zu den besten Nachwuchsteams ihres Fachgebiets. Nach ihrer erfolgreichen Qualifikation und einem starken dritten Platz bei den Deutschen Meisterschaften reiste das Team nach Wien – und kehrte mit dem Sieg zurück.</p><p>Hinter dem Erfolg stehen Tomke Engelbart (10C3), Talea Garbe und Julian Kollecker (beide 10A3), die bereits seit 2021 in der Robo-AG tüfteln und sich 2022 zum Team „Bratnudeln“ zusammengeschlossen haben. Was mit ersten Konstruktionen, vielen Ideen und noch mehr Fragen begann, entwickelte sich über die Jahre zu einem beeindruckenden Projekt, das nun seinen bisherigen Höhepunkt erreicht hat.</p><p>Bei der RoboCupJunior-Europameisterschaft trafen die drei auf starke Konkurrenz aus zahlreichen Ländern. In ihrer Wettbewerbskategorie musste der selbst entwickelte Roboter anspruchsvolle Parcours bewältigen, Hindernisse überwinden und verschiedene Aufgaben vollständig autonom lösen. Dabei überzeugte das Team mit seiner Leistung.</p><p>Der Erfolg ist das Ergebnis von Ausdauer, technischem Können und unzähligen Stunden gemeinsamer Arbeit. Über Jahre hinweg wurden Roboter gebaut, Programme geschrieben, Fehler gesucht und neue Lösungen entwickelt. Dass dieser Einsatz nun mit dem ersten Platz belohnt wurde, freut uns ganz besonders.</p><p>Ein besonderer Dank gilt dem Förderverein der KGS Rastede für die organisatorische Unterstützung und der Firma Thales, die die Teilnahme durch ihr Sponsoring wesentlich unterstützt hat.</p><p>Wir gratulieren den „Bratnudeln“ herzlich zu diesem außergewöhnlichen Erfolg und wünschen ihnen weiterhin viel Freude und Ausdauer bei ihren zukünftigen Projekten.</p><p>Manu Berg<br>Hilke Garbe<br>Markus Michler<br>Holger de Vries</p>"},"id":"b4f216a4-53d7-47af-b41f-08f903d1c966","isHidden":false,"type":"text"}],"id":"9dcb038b-eacb-4b04-a5b2-a72a8847c9fb","width":"1/1"}],"id":"412f4b83-e6b8-4071-88f1-e59a638d10ad"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://irfmgxujtrqssgae"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"a4471c4e-2d91-41f2-8065-eac4f39a3120","isHidden":false,"type":"image"}],"id":"4c6c9cb4-662c-4d65-a30b-944312b944c0","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://rrghxs8nogtvdbri"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"302479fe-1b98-49e2-a4d0-c9232aaf031e","isHidden":false,"type":"image"}],"id":"cfe7ee70-77d4-495f-89af-a82db461c620","width":"1/2"}],"id":"167a472a-0ca4-4cff-b530-641e21314689"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://e3szwchfocnwzzpv"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"3ed5239e-9013-43e6-b043-ae2a668250f9","isHidden":false,"type":"image"}],"id":"8a3cfa85-c58c-4784-b7a1-8cc624be4e5d","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://lnb4snxzv6r6gs6o"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"52f9e885-51b7-4192-b96f-cf97ed5d87ac","isHidden":false,"type":"image"}],"id":"4df539f8-71fb-4d30-bbb8-35e2f51c047c","width":"1/2"}],"id":"9ba07340-acc5-4cb2-985e-22f6992bc13f"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://y7phfglz08lcoj0s"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"6b11e222-4941-4924-8ad5-d27b7d1e543b","isHidden":false,"type":"image"}],"id":"607a0d67-b58a-4ed1-aeb0-16bafb6ee449","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://ibzvmq6qbl1idjyj"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"82481808-fda4-4278-9fbc-e5e1966c7d86","isHidden":false,"type":"image"}],"id":"58aadb78-918a-4bd9-b3f7-1b2d9a145e5f","width":"1/2"}],"id":"cfa3fabd-acc1-464b-9b70-73241a97ce0c"}]
+
+----
+
+Date: 2026-06-11 12:35:00
+
+----
+
+Datumstartseite: 2026-10-11 12:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Fachgruppe Informatik
+
+----
+
+Tags: Europameister, Bratnudeln, Robo AG, Informatik
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: htd3sah281o7vhes

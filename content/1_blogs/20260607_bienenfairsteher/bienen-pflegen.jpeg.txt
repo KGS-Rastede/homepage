@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: wm6eanrgrvy4sqlb
+
+----
+
+Template: blocks/image

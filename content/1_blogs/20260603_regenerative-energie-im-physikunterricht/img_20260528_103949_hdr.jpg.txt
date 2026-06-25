@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: 7roxtlrmyyrkwzan
+
+----
+
+Template: blocks/image

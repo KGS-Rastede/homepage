@@ -1,0 +1,37 @@
+Title: Erstes Stück der Theater AG 5-7
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://tmlw8n1btbfvrsoa"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"d0e93559-2522-4356-8119-b8d3bfbfa8b5","isHidden":false,"type":"image"}],"id":"81324bb7-060c-4b50-966a-d83a1b873d79","width":"1/1"}],"id":"83aee975-1cff-412f-96c6-9e13d5d91429"}]
+
+----
+
+Date: 2026-05-27 08:10:00
+
+----
+
+Datumstartseite: 2026-09-27 08:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anja Lorenz
+
+----
+
+Tags: Theater, Darstellendes Spiel
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ozauehsetyucfymm

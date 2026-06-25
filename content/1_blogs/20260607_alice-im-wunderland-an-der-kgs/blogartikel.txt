@@ -1,0 +1,37 @@
+Title: "Alice im Wunderland" an der KGS
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://iqzjllmyr5pvtmtk"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"6a01367f-be3f-45a2-8e65-02916b94c97a","isHidden":false,"type":"image"}],"id":"227a0401-8f03-4dfd-ac04-e7dc79be542f","width":"1/1"}],"id":"c5782f56-f7ce-4510-96d6-5b0cf28fd140"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Am Donnerstag, 11. Juni 2026, führt der Wahlpflichtkurs Darstellendes Spiel und Musik von Frau Tawussi und Herrn Schneemann um 19 Uhr in der Neuen Aula das Stück \"Alice im Wunderland\" auf. Wir freuen uns auf ein großes Publikum! Der Eintritt ist frei, aber Spenden kann man sehr gerne.</p>"},"id":"c3e11950-ac26-464d-8419-e768c83cebfc","isHidden":false,"type":"text"}],"id":"bd94a235-2482-4eb0-8ea3-d1c85b5f70b0","width":"1/1"}],"id":"5b3d3fa9-0df7-4339-96ee-5a47e994facc"}]
+
+----
+
+Date: 2026-06-07 11:45:00
+
+----
+
+Datumstartseite: 2026-10-07 11:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: fwdgzu35hyw2bhld
