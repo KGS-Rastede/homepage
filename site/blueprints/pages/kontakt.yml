@@ -5,6 +5,7 @@ options:
   update:
     *: false
     admin: true
+    nilepe: true
 
 columns:
   left:
