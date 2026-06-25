@@ -1,8 +1,9 @@
 <?php
 $countdowns = $page->countdowns()->toStructure()->filter(fn($c) => $c->aktiv()->toBool());
 $now = new DateTime('today');
-$dayNames = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];
-$datumLang = $dayNames[(int)$now->format('w')] . ', ' . $now->format('j.n.y');
+$dayNames   = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];
+$monthNames = ['', 'Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'];
+$datumLang  = $dayNames[(int)$now->format('w')] . ', ' . $now->format('j') . '. ' . $monthNames[(int)$now->format('n')] . ' ' . $now->format('Y');
 
 function wordClockDE(int $h, int $m): string {
     $h = $h % 12 ?: 12;
@@ -103,7 +104,7 @@ try {
         $diff = $now->diff($zieldatum);
         $tage = (int) $diff->format('%r%a');
       ?>
-        <div class="py-8 first:pt-0 last:pb-0">
+        <div class="py-8 text-center first:pt-0 last:pb-0">
           <p class="text-lg font-semibold text-slate-500 dark:text-slate-400 uppercase tracking-widest mb-4">
             <?= html($countdown->titel()) ?>
           </p>
@@ -161,7 +162,8 @@ try {
   </div>
 
   <script>
-    const dayNames = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'];
+    const dayNames   = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'];
+    const monthNames = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'];
 
     function wordClockDE(h, m) {
       h = h % 12 || 12;
@@ -187,7 +189,7 @@ try {
 
     function update() {
       const now = new Date();
-      const d = now.getDate() + '.' + (now.getMonth() + 1) + '.' + String(now.getFullYear()).slice(-2);
+      const d = now.getDate() + '. ' + monthNames[now.getMonth()] + ' ' + now.getFullYear();
       document.getElementById('datum').textContent = dayNames[now.getDay()] + ', ' + d;
       document.getElementById('wordclock').textContent = wordClockDE(now.getHours(), now.getMinutes());
     }
