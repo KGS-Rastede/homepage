@@ -3,7 +3,10 @@
     "allow": [
       "PowerShell(New-Item -ItemType Directory -Path \"c:\\\\Users\\\\Niehaus\\\\programmieren\\\\homepage\\\\assets\\\\fonts\" -Force)",
       "PowerShell(Invoke-WebRequest -Uri \"https://github.com/googlefonts/noto-emoji/raw/main/fonts/NotoColorEmoji.ttf\" -OutFile \"c:\\\\Users\\\\Niehaus\\\\programmieren\\\\homepage\\\\assets\\\\fonts\\\\NotoColorEmoji.ttf\" -UseBasicParsing)",
-      "PowerShell(\\(Get-Item \"c:\\\\Users\\\\Niehaus\\\\programmieren\\\\homepage\\\\assets\\\\fonts\\\\NotoColorEmoji.ttf\"\\).Length / 1MB | ForEach-Object { \"{0:N1} MB\" -f $_ })"
+      "PowerShell(\\(Get-Item \"c:\\\\Users\\\\Niehaus\\\\programmieren\\\\homepage\\\\assets\\\\fonts\\\\NotoColorEmoji.ttf\"\\).Length / 1MB | ForEach-Object { \"{0:N1} MB\" -f $_ })",
+      "WebFetch(domain:tailkit.com)",
+      "Bash(curl -sL https://tailkit.com/docs/mcp-server/quick-start)",
+      "Bash(claude mcp *)"
     ]
   }
 }
