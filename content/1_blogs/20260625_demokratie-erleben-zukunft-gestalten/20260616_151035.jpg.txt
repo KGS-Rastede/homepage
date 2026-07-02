@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: khacodw0f9pxkfb4
+
+----
+
+Template: blocks/image

@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: fy2hrhs2saruamvp
+
+----
+
+Template: blocks/image

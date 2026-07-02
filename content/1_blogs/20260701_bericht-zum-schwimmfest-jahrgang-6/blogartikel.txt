@@ -1,0 +1,37 @@
+Title: Bericht zum Schwimmfest — Jahrgang 6
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://9wjiba7nucwkeom3"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"d93f79e1-6e35-47ce-ba96-5307dabe1410","isHidden":false,"type":"image"}],"id":"ac1ee7b3-4edf-4752-a09e-30abb1ccf5b0","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://8fmyysawxytiscsf"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"e74fb3c0-0103-4f76-9668-869014ce4680","isHidden":false,"type":"image"}],"id":"94f70dd1-44a2-4be2-ab50-8d766e931118","width":"1/2"}],"id":"40fb468d-42a0-4cb7-be9a-871c97ff6ff4"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Viele lachende Gesichter und jede Menge Spaß — ein rundum gelungener Tag! </p><p>Zum ersten Mal fand das Schwimmfest für den 6. Jahrgang statt — und es war ein voller Erfolg. Fröhliche Stimmung, laute Anfeuerungsrufe und viel Teamgeist prägten den Tag. Die abwechslungsreichen Programmpunkte umfassten Klassenstaffeln: Beim H2O‑Marathon gaben alle Schülerinnen und Schüler ihr Bestes, und die SUP‑Staffel sorgte zusätzlich für viel Spaß. Es gab spannende Sprungwettkämpfe, die begeistert kommentiert wurden, während parallel dazu freies Schwimmen zum Austoben einlud. Der Kiosk war gut besucht und trug zur guten Stimmung bei. Zum Abschluss konnten einige Schülerinnen und Schüler in den Abschlusswettkämpfen noch einmal ihr gesamtes schwimmerisches Können zeigen. Am Rande des Festes gab es außerdem eine rege Tauschbörse für Edeka/ NP‑WM‑Sammelkarten, die für zusätzliche Freude sorgte. </p><p>Besonders erfreulich war, dass wir das Bronze‑Schwimmabzeichen noch vor Ort abnehmen konnten — herzlichen Glückwunsch an die erfolgreichen Teilnehmenden! </p><p>Ein herzliches Dankeschön geht an das Team des Freibads, an die unterstützenden Sportkolleginnen und Sportkollegen sowie an die Klasse 10C3 für ihre tatkräftige Hilfe.</p>"},"id":"449c01b4-c623-4fd2-8cb1-232de3e32554","isHidden":false,"type":"text"}],"id":"57af7980-1b2b-4891-b0fb-613f624d2a50","width":"1/1"}],"id":"14beb630-a1e6-4f69-9b78-5c2cca388ccd"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://b5xtucnh8dkyn6zg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"245b358d-d26d-46ae-90cb-faf0af098256","isHidden":false,"type":"image"}],"id":"65c3ea94-01e3-4649-bdb0-57e084368bfe","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://jpwflo2iyi8etl3l"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"eae18c08-1eef-4640-9331-461e850ef075","isHidden":false,"type":"image"}],"id":"676099ce-398a-435c-b1f4-f0d178d796ad","width":"1/2"}],"id":"3f82f3bf-4506-4056-b23a-4d065a0d8cf9"}]
+
+----
+
+Date: 2026-07-01 09:40:00
+
+----
+
+Datumstartseite: 2026-11-01 09:40:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sascha Arzenscheg
+
+----
+
+Tags: Schwimmen, Sport, Schwimmfest, Jahrgang 6
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: k8imxj9zug2ifxz9
