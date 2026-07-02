@@ -1,0 +1,37 @@
+Title: Präventionsprojekt „Balu und Du“: Fünfter Durchgang ist der bislang größte
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Der fünfte Durchgang des Präventionsprojekts „Balu und Du“ ist jetzt erfolgreich zu Ende gegangen. Im Rahmen einer kleinen Abschlussfeier übergab Bürgermeister Lars Krause Urkunden und Medaillen an die teilnehmenden Schülerinnen und Schüler der Kooperativen Gesamtschule (KGS) Rastede sowie der Grundschulen Feldbreite, Leuchtenburg und Kleibrok.</p><p>Das Projekt ist Bestandteil der Präventionsstrategie „Communities that care“ (CTC) der Gemeinde Rastede, die 2024 mit dem Niedersächsischen Präventionspreis ausgezeichnet wurde. Schülerinnen und Schüler des 12. Jahrgangs gehen im Rahmen eines Seminarfachs eine einjährige Partnerschaft mit einem Grundschulkind ein. In Anlehnung an den Film „Das Dschungelbuch“ werden die Grundschulkinder dabei als „Moglis“ und die älteren Schülerinnen und Schüler als „Balus“ bezeichnet. Ein Schuljahr lang treffen sich diese „Tandems“ einmal wöchentlich, unternehmen gemeinsam etwas oder tauschen sich einfach miteinander aus. Mit insgesamt 18 Tandems war es der bislang größte Durchgang.</p><p>„Ihr habt Euch tolle Aktionen für Eure Moglis einfallen lassen“, lobte Krause die Balus in einer kurzen Rede und zählte einige Beispiele auf: „Manche von Euch haben Radtouren gemacht, andere waren schwimmen, wieder andere haben Fußball oder Basketball gespielt, auch Schlittschuh und Schlitten sind einige gefahren“, so der Bürgermeister. Und weiter: „Ihr wart Eis essen, habt Kekse und Pizza gebacken, habt Spielplätzte, den Weihnachtsmarkt oder unsere schöne Bücherei besucht, gebastelt, gemalt, Gesellschaftsspiele gespielt und noch vieles mehr.“ Für dieses Engagement erhielten die Schülerinnen und Schüler im Rahmen der Feierstunde einen Ehrenamtsnachweis des Landes Niedersachsen in Form einer Urkunde.</p><p>Die Moglis erhielten neben einer Teilnehmerurkunde auch eine Medaille. „Beide Seiten profitieren von dieser Partnerschaft und können voneinander lernen“, betonte Krause. Inzwischen hätten schon 144 Rasteder Schülerinnen und Schüler an „Balu und Du“ teilgenommen und manche „Tandems“ hätten anschließend den Kontakt miteinander weiter aufrechterhalten. Krause dankte allen Beteiligten dafür, „Balu und Du“ so erfolgreich umzusetzen, allen voran Jonas Niebur. Der Lehrer begleitet das Projekt seitens der KGS und leitet auch das eigens dazu eingeführte Seminarfach.</p>"},"id":"187d52af-9d96-467f-86d5-75b5e6ad6507","isHidden":false,"type":"text"}],"id":"dc4dbf79-5379-4159-b734-05330ae38ef9","width":"1/1"}],"id":"06c25558-5af3-45da-b328-594dd4aadbfd"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://lchevc0svbfw1oco"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"e8878d9b-c140-4639-97ed-89d644988a61","isHidden":false,"type":"image"},{"content":{"text":"<p><em>Freuten sich über den gelungenen Abschluss des Projektes: Die diesjährigen „Balus“ mit der Gleichstellungsbeauftragten der Gemeinde Rastede und CTC-Leiterin Anke Wilken (links), Rastedes Bürgermeister Lars Krause (vorne) sowie KGS-Projektleiter Jonas Niebur (hinten rechts).</em></p>"},"id":"f9b6b2a6-bd8f-4305-a2ad-38e1e91d6dc1","isHidden":false,"type":"text"}],"id":"b3af3580-0e01-4d3e-9717-3f5f42685788","width":"1/1"}],"id":"aae1242c-3a0e-448c-b0c9-1d0b7b3307bf"}]
+
+----
+
+Date: 2026-06-25 10:20:00
+
+----
+
+Datumstartseite: 2027-09-16 10:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Anke Wilken, Gleichstellungsbeauftragte der Gemeinde Rastede
+
+----
+
+Tags: Courage, AGs, Balu und Du
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: cdnki9u4fxxrclou

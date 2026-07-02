@@ -1,0 +1,37 @@
+Title: FFN zu Besuch an der KGS Rastede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Herausforderungsprojekt im Radio</strong></p><p>Ein Team des Radiosenders ffn war kürzlich zu Gast an der KGS Rastede, um über ein ganz besonderes Projekt unserer Schule zu berichten: das Herausforderungsprojekt. Dabei stellen sich Schülerinnen und Schüler eigenständig neuen Aufgaben, verlassen ihre Komfortzone und sammeln wertvolle Erfahrungen fürs Leben.</p><p>Das ffn-Team gewann spannende Einblicke und in Interviews berichten Schülerinnen und Schüler von ihren Herausforderungen, Erfolgen und besonderen Momenten.</p><p>👉 Einen gekürzten Beitrag gibt es hier zu hören (relevant ab Minute 1:30).</p><p>\"Der Tag in Niedersachsen\" vom 23.06.2026</p>"},"id":"e01c55a7-d347-4ed0-b01f-684495374aea","isHidden":false,"type":"text"}],"id":"7c648d50-ae3c-4ce3-ab5e-2601a06dee85","width":"1/1"}],"id":"46232a86-77e3-4bd2-8fd1-f2ba1137748e"},{"attrs":[],"columns":[{"blocks":[{"content":{"soundfile":["file://fa6ncwheghtzg2it"],"name":"Das HFP in den FFN Regionalnachrichten","creator":""},"id":"1fd92428-15b9-473a-8cd5-f0b29dd85977","isHidden":false,"type":"audio"}],"id":"36736c2d-c848-4b42-aa34-08fa3aeab108","width":"1/1"}],"id":"2cacef40-f05b-4ec3-aa10-d6696186ac9d"}]
+
+----
+
+Date: 2026-06-25 10:10:00
+
+----
+
+Datumstartseite: 2026-10-25 10:10:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Julia Niehaus
+
+----
+
+Tags: HFP, Herausforderungsprojekt
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: v88wu7cyia28vl7v

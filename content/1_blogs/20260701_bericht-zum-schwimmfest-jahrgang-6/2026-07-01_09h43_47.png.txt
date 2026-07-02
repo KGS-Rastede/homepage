@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: jpwflo2iyi8etl3l
+
+----
+
+Template: blocks/image
