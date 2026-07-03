@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: acry3yyiaaqijobi
+
+----
+
+Template: blocks/image

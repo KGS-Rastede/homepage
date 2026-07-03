@@ -1,0 +1,37 @@
+Title: WPK10 Chemie von Herrn Dr. Fach besucht Schüler:innenlabor der Universität Oldenburg
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://k6yg3ixowvsyakjm"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"2d22f9fd-1ff1-42fc-9e44-fde3f321b495","isHidden":false,"type":"image"}],"id":"a4fb7bfd-84a4-438e-a1f0-ad91c4a051f0","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://zt20wp7mxz6e7yel"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"67e767bd-4801-4fc3-9d22-68f6b5d735eb","isHidden":false,"type":"image"}],"id":"55adeed6-f0a6-4242-a294-66e11bc3821c","width":"1/2"}],"id":"c94bbd3e-07ca-402d-9795-7168141ec3bb"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wie arbeiten Forscher in den Naturwissenschaften? Wie entstehen aus Beobachtungen Fragestellungen, Hypothesen und schließlich Antworten? Dies sind die zentralen Inhalte des WPK Chemie gewesen, die wir nun praktisch an verschiedenen Beispielen über mehr als ein Schuljahr bearbeitet haben. Die Universität Oldenburg bietet passend dazu das Modul „Globale Umweltprobleme“ im Schüler:innenlabor CHEMOL2 an, weshalb wir am 17.06. zur Uni gefahren sind, um dort das Modul zu belegen. Dort werden die Entstehung des menschengemachten Treibhauseffekts und dessen Folgen behandelt. Nach einer Einführung in die Thematik haben wir verschiedene Experimente zur Rolle des Kohlenstoffdioxids bei der globalen Erwärmung durchgeführt und die Auswirkung auf die globale Temperatur und das Klima bzw. auf die Weltmeere und Meeresbewohner:innen untersucht. Ziel des Moduls ist es auch zu erkennen, die Fakten aus wissenschaftlicher Forschung entstehen und wie sie dann in die öffentliche Meinung einfließen können.</p><p>Insgesamt konnten wir viel zum Thema des Klimawandels lernen, insbesondere die Experimente waren gut geeignet, um zu erkennen, wie die einzelnen Aspekte miteinander zusammenhängen. Ein lohnenswerter Ausflug, der unseren Kurs in besonderer Weise abgerundet hat und sehr zu empfehlen ist!</p>"},"id":"a3453afa-fe4f-40fc-80c1-c9209c3cdcd2","isHidden":false,"type":"text"}],"id":"a68d7743-4ac2-4a6b-a97b-8841745eb553","width":"1/1"}],"id":"efbddacb-53c6-4968-92dd-982edcbb7a1b"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://y0hyvla0p3zdwfkd"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c36f6397-d819-4bc8-b46e-b8660fee64a9","isHidden":false,"type":"image"}],"id":"698eceab-9aa7-4f01-914a-8c9d95b81ae8","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://w7fblbzhajmk6kgn"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"378fa710-8df5-444e-9def-3141e8919345","isHidden":false,"type":"image"}],"id":"278a8b38-b98f-4537-92bc-226391dba380","width":"1/2"}],"id":"5102774d-86ae-4c27-b354-cc5724d3dbe7"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://praczf90exjful35"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c78be5ed-0e7c-48dc-ae01-ff320e5cf601","isHidden":false,"type":"image"}],"id":"2c0ecbb3-522f-459e-8a14-64ba49d17bee","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://xcs9jrihhrssmzvg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"30361a1a-715e-4915-8a25-d7dfb4dcf57d","isHidden":false,"type":"image"}],"id":"d5fb8200-47d8-47fa-ae75-cd48e2abf8d8","width":"1/2"}],"id":"f0ebec07-4c40-4c8b-aedf-80c60561e3b3"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://j1ywvtzzu6jejaba"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"7d212c68-af0d-46dd-bcde-27e31e216884","isHidden":false,"type":"image"}],"id":"9e1f631c-d549-4e95-9a6b-73866488bafa","width":"1/1"}],"id":"17ac1c85-fa91-44d7-9a39-3e2d1e625543"}]
+
+----
+
+Date: 2026-07-03 09:50:00
+
+----
+
+Datumstartseite: 2026-11-03 09:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach
+
+----
+
+Tags: Chemie, Schülerlabor, Exkursion
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: zjiodmi0wbiitfmn

@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: zt20wp7mxz6e7yel
+
+----
+
+Template: blocks/image

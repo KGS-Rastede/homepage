@@ -1,0 +1,37 @@
+Title: Tom Langhans (10B2) bekommt Angelus Sala-Preis verliehen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://acry3yyiaaqijobi"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"ec963875-b28d-44af-a1b0-27dfe14b8960","isHidden":false,"type":"image"}],"id":"a74a2b86-43f2-4e6b-8558-98c5812b5876","width":"1/1"}],"id":"7d6d16dd-3af4-4cdf-9145-db0f67d8a3f9"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":""},"id":"538d1e97-a226-4ac2-96c2-3ad68b7dc752","isHidden":false,"type":"text"},{"content":{"text":"<p>Tom Langhans mit Angelus-Sala-Preis für besonders gute\r\nLeistungen in Chemie geehrt</p> <p>Für herausragende Leistungen im Fach Chemie hat Tom Langhans\r\n(10B2) den Angelus-Sala-Preis verliehen bekommen. Dieser wird jedes Jahr durch\r\ndie Universität Oldenburg im Namen der Gesellschaft deutscher Chemiker (GDCh) an\r\neine Schülerin oder einen Schüler der 10. Klassen verliehen. Benannt ist der\r\nPreis nach Angelus Sala, der im 16. und 17. Jahrhundert lebte und neben seiner\r\nTätigkeit als Chemiker unter anderem auch Leibarzt des Grafen Anton Günther von\r\nOldenburg war. Ausgezeichnet werden Schüler:innen, die besonderes Interesse an\r\nund Engagement für Chemie zeigen.</p> <p>Dieses Jahr fand die Preisverleihung im Rahmen des Hochschulinformationstages\r\nder Universität Oldenburg am 19.06.26 statt. Der Bericht der Universität ist\r\nhier zu finden: <a href=\"https://uol.de/chemie/artikel/angelus-sala-preise-verliehen-das-institut-fuer-chemie-ehrt-46-herausragende-schueler-fuer-ihre-exzellente-leistungen-im-fach-chemie\" rel=\"noreferrer\">https://uol.de/chemie/artikel/angelus-sala-preise-verliehen-das-institut-fuer-chemie-ehrt-46-herausragende-schueler-fuer-ihre-exzellente-leistungen-im-fach-chemie</a></p> <p>Begleitet wurde Tom u. a. von seiner Lehrerin Frau Möller.\r\nIm Rahmen des Tages konnte er sich zusätzlich auch noch über Studienangebote an\r\nder Uni informieren.</p> <p>Wir gratulieren herzlich und wünschen viel Freude mit dem\r\nBuchpreis!</p>"},"id":"9a38768c-56d3-44ce-9bea-d7ea74eeecba","isHidden":false,"type":"text"}],"id":"bde37aaf-906d-47e0-9a51-3a25b72df610","width":"1/1"}],"id":"e05910c7-b287-450c-91e1-3caf7f8ff225"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://tgvcs4wvkrcpnqs0"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"c18ef4f4-b550-4e79-878a-b5d90dc4b499","isHidden":false,"type":"image"}],"id":"674d8d44-1b75-4a23-8b4c-0d6f75e905a8","width":"1/1"}],"id":"2e017aa5-138e-40be-9bf9-b9021894ce1f"}]
+
+----
+
+Date: 2026-07-03 09:45:00
+
+----
+
+Datumstartseite: 2026-11-03 09:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Dr. Martin Fach, Fiona Möller
+
+----
+
+Tags: Chemie, Wettbewerb, NTW
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: bkvso0fo8khvbx9f
