@@ -35,8 +35,8 @@ $fotos = $widget->fotos()->toFiles();
           <?= $widget->heading()->html() ?>
         </h2>
 
-        <div class="leading-relaxed font-medium text-slate-700 dark:text-slate-400 [&_a]:text-kgs-blue [&_a]:underline hover:[&_a]:no-underline dark:[&_a]:text-kgs-lblue">
-          <?= $widget->text()->kirbytext() ?>
+        <div class="space-y-4 leading-relaxed text-slate-700 dark:text-slate-400">
+          <?= $widget->text()->toBlocks() ?>
         </div>
 
         <?php if ($widget->buttons()->toStructure()->isNotEmpty()): ?>

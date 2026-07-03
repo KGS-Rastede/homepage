@@ -41,14 +41,17 @@ sections:
         width: 1/2
 
       text:
-        label: Kurzer Text
-        help: Ein bis drei Sätze. Fett, kursiv und Links sind möglich.
-        type: textarea
-        size: medium
-        buttons:
-          - bold
-          - italic
-          - link
+        label: Text
+        help: Der Inhalt der linken Hälfte des Widgets. Absätze, Zwischenüberschriften, Listen, Zitate und Buttons sind möglich.
+        type: blocks
+        fieldsets:
+          - heading
+          - text
+          - list
+          - local-video
+          - quote
+          - button
+          - horizontale-linie
 
       headlineButtons:
         label: Links / Buttons

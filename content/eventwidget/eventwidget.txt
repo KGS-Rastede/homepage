@@ -2,7 +2,7 @@ Title: Event-Widget Startseite
 
 ----
 
-Active: false
+Active: true
 
 ----
 
@@ -14,7 +14,7 @@ Heading: 50 Jahre KGS Rastede
 
 ----
 
-Text: Die KGS Rastede feiert ihr 50-jähriges Bestehen! Alle Informationen rund um das Jubiläum, das Festprogramm und die Aktionen der Schulgemeinschaft finden Sie hier in Kürze.
+Text: [{"content":{"text":"<p>Die KGS Rastede feiert ihr 50-jähriges Bestehen! Alle Informationen rund um das Jubiläum, das Festprogramm und die Aktionen der Schulgemeinschaft finden Sie hier in Kürze.</p>"},"id":"e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b","isHidden":false,"type":"text"},{"content":{"text":"Hund sind besser als Katzen","citation":"Waldi"},"id":"25186f73-8b69-47dc-a479-e5dc5b06b0c1","isHidden":false,"type":"quote"},{"content":{"name":""},"id":"48e5076c-a9ee-4e28-8e4c-4a3e0692cc6f","isHidden":false,"type":"horizontale-linie"},{"content":{"text":"<p>Hier steht Text</p>"},"id":"9e5443b6-3662-49c6-8cad-25dcbd74b4db","isHidden":false,"type":"text"},{"content":{"text":"<p>Zum ersten Mal fand das <strong>Schwimmfest</strong> für den 6. Jahrgang statt — und es war ein <em>voller</em> Erfolg. Fröhliche Stimmung, laute Anfeuerungsrufe und viel Teamgeist prägten den Tag. Die abwechslungsreichen Programmpunkte umfassten Klassenstaffeln: Beim H2O‑Marathon gaben alle Schülerinnen und Schüler ihr Bestes, und die</p><p></p>"},"id":"632e4a29-3495-4605-b558-bda3eba56578","isHidden":false,"type":"text"}]
 
 ----
 
