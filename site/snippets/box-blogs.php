@@ -1,10 +1,8 @@
 <h2 class="mt-4 font-semibold text-4xl dark:text-slate-100">Aus dem Schulleben</h2>
 
-<?php if (
-  collection('blogs-startseite')->isNotEmpty()
-):// Wenn aktuelle Artikel vorhanden sind
-   ?>
-  <div class="grid grid-cols-[repeat(auto-fill,_minmax(330px,_1fr))] gap-2 my-4">
+<?php // Wenn aktuelle Artikel vorhanden sind
+if (collection('blogs-startseite')->isNotEmpty()): ?>
+  <div class="grid grid-cols-[repeat(auto-fill,_minmax(330px,_1fr))] gap-4 lg:gap-6 my-4">
     <?php foreach (collection('blogs-startseite') as $subpage) {
       snippet('blogkarte-bild', ['subpage' => $subpage]);
     } ?>
