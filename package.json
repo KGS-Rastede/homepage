@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fullcalendar": "7.0.0-rc.2",
-    "@fullcalendar/icalendar": "7.0.0-rc.2",
+    "fullcalendar": "^7.0.0",
+    "@fullcalendar/icalendar": "^7.0.0",
     "ical.js": "^2.2.1",
-    "temporal-polyfill": "^0.3.2",
+    "temporal-polyfill": "^1.0.1",
     "alpinejs": "^3.15.12",
     "bootstrap-icons": "^1.13.1"
   },

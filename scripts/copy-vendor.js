@@ -30,11 +30,11 @@ copyFile(
 
 // FullCalendar 7 (Alles in einem Bundle)
 copyFile(
-  'node_modules/fullcalendar/all.global.js',
+  'node_modules/fullcalendar/all/global.js',
   'assets/vendor/js/fullcalendar-all.global.js'
 );
 copyFile(
-  'node_modules/fullcalendar/locales/de.global.js',
+  'node_modules/fullcalendar/locales/de/global.js',
   'assets/vendor/js/fullcalendar-de.global.js'
 );
 
@@ -59,8 +59,9 @@ copyFile(
 );
 
 // Temporal Polyfill (Pflichtabhängigkeit von FullCalendar 7)
+// Seit 1.0 liefert das Paket nur noch global.js (bereits minifiziert)
 copyFile(
-  'node_modules/temporal-polyfill/global.min.js',
+  'node_modules/temporal-polyfill/global.js',
   'assets/vendor/js/temporal-polyfill.min.js'
 );
 
