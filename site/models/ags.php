@@ -89,23 +89,33 @@ class AgsPage extends Page
 
     private function fetchStudyGroupsData()
     {
-        $request = Remote::get(
-            $this->apiEndpointUri() . '?token=' . $this->apiKey(),
-        );
+        try {
+            $request = Remote::get(
+                $this->apiEndpointUri() . '?token=' . $this->apiKey(),
+            );
 
-        if ($request->code() === 200) {
-            $data = $request->json(true);
+            if ($request->code() === 200) {
+                $data = $request->json(true);
 
-            $this->updateStudyGroupsDataCache($data);
+                $this->updateStudyGroupsDataCache($data);
 
-            return $data;
-        } else {
-            if ($this->hasCachedStudyGroupsData()) {
-                return $this->readCachedStudyGroupsData();
-            } else {
-                throw new \RuntimeException('Could not load study group information from remote system.');
+                return $data;
             }
+        } catch (\Throwable $e) {
+            // Remote system unreachable or studyGroups option not configured
+            // (e.g. local development without secrets.php) — fall through to cache.
         }
+
+        // Fall back to cached data even if stale, so the whole site keeps
+        // rendering (the mega menu triggers this model on every page).
+        if ($this->hasCachedStudyGroupsData()) {
+            return $this->readCachedStudyGroupsData();
+        }
+
+        return [
+            'study_groups' => [],
+            'current_term_year' => '',
+        ];
     }
 
     private function updateStudyGroupsDataCache($data)
