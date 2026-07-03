@@ -6,7 +6,22 @@
       "PowerShell(\\(Get-Item \"c:\\\\Users\\\\Niehaus\\\\programmieren\\\\homepage\\\\assets\\\\fonts\\\\NotoColorEmoji.ttf\"\\).Length / 1MB | ForEach-Object { \"{0:N1} MB\" -f $_ })",
       "WebFetch(domain:tailkit.com)",
       "Bash(curl -sL https://tailkit.com/docs/mcp-server/quick-start)",
-      "Bash(claude mcp *)"
+      "Bash(claude mcp *)",
+      "mcp__tailkit__get_component_suggestions",
+      "mcp__tailkit__search_components",
+      "mcp__tailkit__browse_catalog",
+      "mcp__tailkit__get_component_code",
+      "Bash(curl -s -o /tmp/live-public.ics -w \"HTTP %{http_code}, %{size_download} bytes, content-type: %{content_type}\\\\n\" \"https://kgs-rastede.de/assets/kalender/public.ics\")",
+      "Read(//private/tmp/**)",
+      "Bash(npm run *)",
+      "Bash(curl -sL -o /tmp/iserv-followed.ics -w \"final HTTP %{http_code}, %{size_download} bytes, %{content_type}\\\\n\" \"https://kgs-rastede.eu/iserv/public/calendar/?key=1bad7fec91a3d07904543f4476774fd1\")",
+      "Read(//tmp/**)",
+      "mcp__Claude_in_Chrome__navigate",
+      "Bash(curl -s \"http://homepage.test/assets/vendor/js/ical.min.js\")",
+      "Bash(curl -s -o /dev/null -w \"Kalenderseite: HTTP %{http_code}\\\\n\" \"http://homepage.test/allgemeines/kalender\")",
+      "Bash(ls /Applications/ | grep -i chrom; which playwright 2>/dev/null; ls ~/Library/Caches/ms-playwright 2>/dev/null | head -3)",
+      "Bash(grep -oE '<div id=\"calendar\"[^>]*>.{0,300}' /tmp/rendered.html)",
+      "Bash(php -l site/snippets/box-links.php)"
     ]
   }
 }

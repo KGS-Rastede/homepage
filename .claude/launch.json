@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kirby",
+      "runtimeExecutable": "php",
+      "runtimeArgs": ["-S", "localhost:8321", "kirby/router.php"],
+      "port": 8321
+    }
+  ]
+}
