@@ -30,7 +30,19 @@
       "PowerShell(Copy-Item \"content\\\\1_blogs\\\\20220113_wuensche-von-der-ag-fuer-den-frieden\\\\ag-fdf-2022.jpg\" \"content\\\\eventwidget\\\\beispiel-2.jpg\")",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://homepage.test/panel/installation)",
       "Bash(curl -s http://homepage.test/api/system -H \"X-CSRF: dev\")",
-      "Bash(curl -s http://homepage.test/api/system)"
+      "Bash(curl -s http://homepage.test/api/system)",
+      "WebFetch(domain:github.com)",
+      "PowerShell(npm install)",
+      "PowerShell(npm ls fullcalendar @fullcalendar/icalendar temporal-polyfill ical.js)",
+      "PowerShell(Get-Item node_modules/temporal-polyfill/global.js, node_modules/fullcalendar/all/global.js | Select-Object Name, Length; Get-Content node_modules/temporal-polyfill/global.js -TotalCount 2 | ForEach-Object { $_.Substring\\(0, [Math]::Min\\(200, $_.Length\\)\\) })",
+      "PowerShell(npm run copy)",
+      "PowerShell(ddev describe 2>$null)",
+      "PowerShell(wsl -e sh -lc \"cd /mnt/c/Users/Niehaus/programmieren/homepage 2>/dev/null && command -v ddev && ddev describe | head -20\" 2>$null)",
+      "PowerShell(if \\(-not $?\\) { \"wsl/ddev nicht verf�gbar\" })",
+      "PowerShell(try { $r = Invoke-WebRequest -Uri \"https://homepage.test/\" -UseBasicParsing -TimeoutSec 5; \"Status: $\\($r.StatusCode\\)\" } catch { \"Nicht erreichbar: $\\($_.Exception.Message\\)\" })",
+      "PowerShell(git check-ignore assets/vendor/js/fullcalendar-core.min.js)",
+      "PowerShell(if \\($?\\) { \"-> gitignored\" } else { \"-> versioniert\" })",
+      "PowerShell(\"---\")"
     ]
   }
 }
