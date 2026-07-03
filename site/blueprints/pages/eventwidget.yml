@@ -1,0 +1,99 @@
+title: Event-Widget (Startseite)
+icon: star
+
+# Wie beim Notfall-Banner dürfen nur Admins diese Seite bearbeiten.
+options:
+  update:
+    *: false
+    admin: true
+
+sections:
+  inhalt:
+    type: fields
+    fields:
+      headlineAnzeige:
+        label: Anzeige
+        type: headline
+
+      active:
+        label: Widget auf der Startseite anzeigen
+        type: toggle
+        width: 1/2
+        text:
+          - Ausgeblendet
+          - Sichtbar
+
+      headlineTexte:
+        label: Inhalt
+        type: headline
+
+      badge:
+        label: Kleine Überschrift über dem Titel
+        help: z. B. „50 Jahre KGS Rastede“ oder „Projektwoche 2027“
+        type: text
+        maxlength: 60
+        width: 1/2
+
+      heading:
+        label: Überschrift
+        type: text
+        required: true
+        width: 1/2
+
+      text:
+        label: Kurzer Text
+        help: Ein bis drei Sätze. Fett, kursiv und Links sind möglich.
+        type: textarea
+        size: medium
+        buttons:
+          - bold
+          - italic
+          - link
+
+      headlineButtons:
+        label: Links / Buttons
+        type: headline
+
+      buttons:
+        label: Bis zu drei Links
+        help: Der erste Link wird als hervorgehobener Button dargestellt.
+        type: structure
+        max: 3
+        sortable: true
+        columns:
+          text:
+            width: 1/2
+          link:
+            width: 1/2
+        fields:
+          text:
+            label: Beschriftung
+            type: text
+            required: true
+          link:
+            label: Ziel (interne Seite oder URL)
+            type: link
+            required: true
+            options:
+              - page
+              - url
+
+      headlineFotos:
+        label: Fotos
+        type: headline
+
+      fotos:
+        label: Fotos für die Bild-Collage
+        help: Bis zu vier Fotos. Bei einem Foto wird es groß angezeigt, bei mehreren als Collage.
+        type: files
+        query: page.images
+        uploads: images
+        max: 4
+        layout: cards
+        size: small
+
+  bilder:
+    type: files
+    headline: Hochgeladene Bilder
+    template: images
+    info: "{{ file.dimensions }}"
