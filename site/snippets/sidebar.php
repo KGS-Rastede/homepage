@@ -52,8 +52,8 @@ if ($anzahlVorhandenerBloecke >= 1): ?>
         </div>
       </div>
     <?php endif; ?>
-    <?php if ($related->isNotEmpty()):// "Weitere Informationen" ist vorhanden
-       ?>
+    <?php // "Weitere Informationen" ist vorhanden
+    if ($related->isNotEmpty()): ?>
       <div class="flex flex-col text-slate-800 bg-slate-50 shadow-md rounded-lg">
         <h5 class="block mb-2 mr-2 ml-2 mt-3 antialiased leading-7 font-semibold">
           <?= $page->relatedtitel()->or('Weitere Informationen') ?>
@@ -70,8 +70,8 @@ if ($anzahlVorhandenerBloecke >= 1): ?>
         </div>
       </div>
     <?php endif; ?>
-    <?php if ($downloads->isNotEmpty()):// "Zugehörige Downloads" ist vorhanden
-       ?>
+    <?php // "Zugehörige Downloads" ist vorhanden
+    if ($downloads->isNotEmpty()): ?>
       <div class="flex flex-col text-slate-800 bg-slate-50 shadow-md rounded-lg">
         <h5 class="block mb-2 mr-2 ml-2 mt-3 antialiased leading-7 font-semibold">
           <?= $page->downloadtitel()->or('Zugehörige Downloads') ?>
