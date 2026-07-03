@@ -21,7 +21,16 @@
       "Bash(curl -s -o /dev/null -w \"Kalenderseite: HTTP %{http_code}\\\\n\" \"http://homepage.test/allgemeines/kalender\")",
       "Bash(ls /Applications/ | grep -i chrom; which playwright 2>/dev/null; ls ~/Library/Caches/ms-playwright 2>/dev/null | head -3)",
       "Bash(grep -oE '<div id=\"calendar\"[^>]*>.{0,300}' /tmp/rendered.html)",
-      "Bash(php -l site/snippets/box-links.php)"
+      "Bash(php -l site/snippets/box-links.php)",
+      "Bash(curl -sL https://tailkit.com/docs/mcp-server/installation)",
+      "PowerShell(\\(Get-Item \"site\\\\cache\\\\arbeitsgemeinschaften.json\"\\).LastWriteTime = Get-Date; Write-Output \"mtime aktualisiert\")",
+      "PowerShell(php -l site\\\\models\\\\ags.php; if \\($?\\) { \\(Get-Item \"site\\\\cache\\\\arbeitsgemeinschaften.json\"\\).LastWriteTime = \\(Get-Date\\).AddDays\\(-3\\); Write-Output \"Cache auf 3 Tage alt gesetzt\" })",
+      "PowerShell(\\(Get-Item \"site\\\\cache\\\\arbeitsgemeinschaften.json\"\\).LastWriteTime = Get-Date; Write-Output \"OK\")",
+      "PowerShell(Copy-Item \"content\\\\1_blogs\\\\20180227_bienvenidos\\\\2018-03-14_spanienaustausch_07.jpg\" \"content\\\\eventwidget\\\\beispiel-1.jpg\")",
+      "PowerShell(Copy-Item \"content\\\\1_blogs\\\\20220113_wuensche-von-der-ag-fuer-den-frieden\\\\ag-fdf-2022.jpg\" \"content\\\\eventwidget\\\\beispiel-2.jpg\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://homepage.test/panel/installation)",
+      "Bash(curl -s http://homepage.test/api/system -H \"X-CSRF: dev\")",
+      "Bash(curl -s http://homepage.test/api/system)"
     ]
   }
 }
