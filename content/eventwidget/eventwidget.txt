@@ -1,0 +1,36 @@
+Title: Event-Widget Startseite
+
+----
+
+Active: false
+
+----
+
+Badge: Schuljubiläum
+
+----
+
+Heading: 50 Jahre KGS Rastede
+
+----
+
+Text: Die KGS Rastede feiert ihr 50-jähriges Bestehen! Alle Informationen rund um das Jubiläum, das Festprogramm und die Aktionen der Schulgemeinschaft finden Sie hier in Kürze.
+
+----
+
+Buttons:
+
+- 
+  text: Unsere Geschichte
+  link: page://Cg8KeI3uXYcKD5wL
+
+----
+
+Fotos:
+
+- file://7p4k1w5q6udwvm9e
+- file://slsvtrn7zkgvnfmj
+
+----
+
+Uuid: x0h4rqs1scijk3kl

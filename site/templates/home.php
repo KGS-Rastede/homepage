@@ -25,6 +25,8 @@
 
   <?php snippet('box-schnellverweise'); ?>
 
+  <?php snippet('box-eventwidget'); ?>
+
   <div class="mx-4 xl:mx-20 2xl:mx-40 mt-6">
     <div class="flex flex-wrap">
       <div class="w-full lg:w-2/3 mb-8 lg:mb-0 lg:pr-6">
