@@ -40,7 +40,6 @@
     --color-slate-900: oklch(20.8% 0.042 265.755);
     --color-slate-950: oklch(12.9% 0.042 264.695);
     --color-gray-200: oklch(92.8% 0.006 264.531);
-    --color-gray-500: oklch(55.1% 0.027 264.364);
     --color-black: #000;
     --color-white: #fff;
     --spacing: 0.25rem;
@@ -2320,9 +2319,6 @@
   }
   .text-black {
     color: var(--color-black);
-  }
-  .text-gray-500 {
-    color: var(--color-gray-500);
   }
   .text-green-600 {
     color: var(--color-green-600);
