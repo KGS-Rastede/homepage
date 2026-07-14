@@ -180,7 +180,7 @@
       @click.outside="searchOpen = false"
 
       action="/search">
-      <div class="item-center space-x-2 w-md rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-slate-900 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-slate-300 focus-within:outline-opacity-25 active:border-slate-200 active:shadow-none lg:inline-flex dark:transparent dark:text-slate-300 dark:hover:border-slate-600 dark:focus-within:outline-opacity-40 dark:active:border-slate-700">
+      <div class="item-center space-x-2 w-md rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-slate-900 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-slate-300/25 active:border-slate-200 active:shadow-none lg:inline-flex dark:transparent dark:text-slate-300 dark:hover:border-slate-600 dark:focus-within:outline-slate-300/40 dark:active:border-slate-700">
         <button type="button"
           @click="searchOpen = false"
           class="text-slate-500 bg-white rounded-full px-1 hover:text-slate-700 hover:bg-slate-200">

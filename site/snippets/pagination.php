@@ -14,7 +14,7 @@
         $pagination->hasPrevPage()
       )://Wenn es eine Seite vor der aktuellen Seite gibt wird ein Doppelpfeil («) angezeigt, der zur vorherigen Seite führt
          ?>
-        <a href="<?= $pagination->prevPageURL() ?>" class="-mr-px inline-flex items-center justify-center space-x-2 rounded-l-lg border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300 focus:ring-opacity-25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600 dark:focus:ring-opacity-40 dark:active:border-slate-600">
+        <a href="<?= $pagination->prevPageURL() ?>" class="-mr-px inline-flex items-center justify-center space-x-2 rounded-l-lg border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300/25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600/40 dark:active:border-slate-600">
           <svg class="hi-mini hi-arrow-left -mx-1.5 inline-block h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
             <path fill-rule="evenodd" d="M17 10a.75.75 0 01-.75.75H5.612l4.158 3.96a.75.75 0 11-1.04 1.08l-5.5-5.25a.75.75 0 010-1.08l5.5-5.25a.75.75 0 111.04 1.08L5.612 9.25H16.25A.75.75 0 0117 10z" clip-rule="evenodd" />
           </svg>
@@ -31,7 +31,7 @@
 
           <a href="<?= $pagination->pageURL(
             $i,
-          ) ?>" class="-mr-px inline-flex items-center justify-center space-x-2 border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300 focus:ring-opacity-25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600 dark:focus:ring-opacity-40 dark:active:border-slate-600">
+          ) ?>" class="-mr-px inline-flex items-center justify-center space-x-2 border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300/25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600/40 dark:active:border-slate-600">
             <?= $i ?>
           </a>
 
@@ -46,7 +46,7 @@
 
         //d-none d-sm-block => auf dem Handy nicht anzeigen
          ?>
-        <a href="" class="-mr-px inline-flex items-center justify-center space-x-2 border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300 focus:ring-opacity-25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600 dark:focus:ring-opacity-40 dark:active:border-slate-600">
+        <a href="" class="-mr-px inline-flex items-center justify-center space-x-2 border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300/25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600/40 dark:active:border-slate-600">
           ...
         </a>
       <?php endif; ?>
@@ -58,7 +58,7 @@
           $r,
         ) ?>" class="-mr-px <?= $aktuelleSeite === $r
   ? 'bg-slate-300'
-  : 'bg-slate-200' ?> inline-flex items-center justify-center space-x-2 border border-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300 focus:ring-opacity-25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600 dark:focus:ring-opacity-40 dark:active:border-slate-600">
+  : 'bg-slate-200' ?> inline-flex items-center justify-center space-x-2 border border-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300/25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600/40 dark:active:border-slate-600">
           <?= $r ?>
         </a>
 
@@ -93,7 +93,7 @@
 
           <a href="<?= $pagination->pageURL(
             $i,
-          ) ?>" class="-mr-px inline-flex items-center justify-center space-x-2 border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300 focus:ring-opacity-25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600 dark:focus:ring-opacity-40 dark:active:border-slate-600">
+          ) ?>" class="-mr-px inline-flex items-center justify-center space-x-2 border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300/25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600/40 dark:active:border-slate-600">
             <?= $i ?>
           </a>
         <?php endif; ?>
@@ -103,7 +103,7 @@
         $pagination->hasNextPage()
       )://Wenn es eine Seite nach der aktuellen Seite gibt wird ein Doppelpfeil (») angezeigt, der zur nächsten Seite führt
          ?>
-        <a href="<?= $pagination->nextPageURL() ?>" class="inline-flex items-center justify-center space-x-2 rounded-r-lg border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300 focus:ring-opacity-25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600 dark:focus:ring-opacity-40 dark:active:border-slate-600">
+        <a href="<?= $pagination->nextPageURL() ?>" class="inline-flex items-center justify-center space-x-2 rounded-r-lg border border-slate-200 bg-slate-200 px-4 py-2 font-semibold leading-6 text-slate-900 hover:z-1 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus:z-1 focus:ring focus:ring-slate-300/25 active:z-1 active:border-slate-200 active:shadow-none dark:border-slate-600 dark:bg-slate-700 dark:text-slate-300 dark:hover:border-slate-500 dark:hover:text-slate-200 dark:focus:ring-slate-600/40 dark:active:border-slate-600">
           <svg class="hi-mini hi-arrow-right -mx-1.5 inline-block h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
             <path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd" />
           </svg>

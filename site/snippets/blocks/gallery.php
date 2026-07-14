@@ -9,7 +9,7 @@
 
             <?php foreach ($block->images()->toFiles() as $image): ?>
 
-                <div class="group relative overflow-hidden rounded-lg focus-within:ring-4 focus-within:ring-indigo-500 focus-within:ring-opacity-50 focus-within:ring-offset-2 focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-opacity-50 focus:ring-offset-2 dark:ring-offset-slate-900"
+                <div class="group relative overflow-hidden rounded-lg focus-within:ring-4 focus-within:ring-indigo-500/50 focus-within:ring-offset-2 focus:outline-none focus:ring-4 focus:ring-indigo-500/50 focus:ring-offset-2 dark:ring-offset-slate-900"
                     tabindex="0">
                     <img src="<?= $image->url() ?>"
                         class="transition duration-300 ease-out group-focus-within:scale-125 group-hover:scale-125 group-focus:scale-125"

@@ -2699,9 +2699,12 @@
       box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
     }
   }
-  .focus-within\:ring-indigo-500 {
+  .focus-within\:ring-indigo-500\/50 {
     &:focus-within {
-      --tw-ring-color: var(--color-indigo-500);
+      --tw-ring-color: color-mix(in srgb, oklch(58.5% 0.233 277.117) 50%, transparent);
+      @supports (color: color-mix(in lab, red, red)) {
+        --tw-ring-color: color-mix(in oklab, var(--color-indigo-500) 50%, transparent);
+      }
     }
   }
   .focus-within\:ring-slate-500\/50 {
@@ -2729,9 +2732,12 @@
       outline-offset: calc(2px * -1);
     }
   }
-  .focus-within\:outline-slate-300 {
+  .focus-within\:outline-slate-300\/25 {
     &:focus-within {
-      outline-color: var(--color-slate-300);
+      outline-color: color-mix(in srgb, oklch(86.9% 0.022 252.894) 25%, transparent);
+      @supports (color: color-mix(in lab, red, red)) {
+        outline-color: color-mix(in oklab, var(--color-slate-300) 25%, transparent);
+      }
     }
   }
   .hover\:z-1 {
@@ -2983,9 +2989,12 @@
       --tw-ring-color: var(--color-blue-700);
     }
   }
-  .focus\:ring-indigo-500 {
+  .focus\:ring-indigo-500\/50 {
     &:focus {
-      --tw-ring-color: var(--color-indigo-500);
+      --tw-ring-color: color-mix(in srgb, oklch(58.5% 0.233 277.117) 50%, transparent);
+      @supports (color: color-mix(in lab, red, red)) {
+        --tw-ring-color: color-mix(in oklab, var(--color-indigo-500) 50%, transparent);
+      }
     }
   }
   .focus\:ring-kgs-blue\/25 {
@@ -2999,11 +3008,6 @@
   .focus\:ring-slate-200 {
     &:focus {
       --tw-ring-color: var(--color-slate-200);
-    }
-  }
-  .focus\:ring-slate-300 {
-    &:focus {
-      --tw-ring-color: var(--color-slate-300);
     }
   }
   .focus\:ring-slate-300\/25 {
@@ -4264,6 +4268,16 @@
       }
     }
   }
+  .dark\:focus-within\:outline-slate-300\/40 {
+    &:where(.dark, .dark *) {
+      &:focus-within {
+        outline-color: color-mix(in srgb, oklch(86.9% 0.022 252.894) 40%, transparent);
+        @supports (color: color-mix(in lab, red, red)) {
+          outline-color: color-mix(in oklab, var(--color-slate-300) 40%, transparent);
+        }
+      }
+    }
+  }
   .dark\:hover\:border-slate-500 {
     &:where(.dark, .dark *) {
       &:hover {
@@ -4402,13 +4416,6 @@
         @supports (color: color-mix(in lab, red, red)) {
           --tw-ring-color: color-mix(in oklab, var(--color-slate-300) 90%, transparent);
         }
-      }
-    }
-  }
-  .dark\:focus\:ring-slate-600 {
-    &:where(.dark, .dark *) {
-      &:focus {
-        --tw-ring-color: var(--color-slate-600);
       }
     }
   }
