@@ -8,10 +8,10 @@ slot();
     <input type="search" id="default-search" name="q" value="<?= html(
       $query,
     ) ?>"
-      class="block w-full p-4 ps-10 text-sm text-slate-900 border border-slate-300 rounded-lg bg-slate-50 focus:ring-blue-700 focus:border-blue-700 dark:bg-slate-700 dark:border-slate-600 dark:placeholder-slate-400 dark:text-white dark:focus:ring-blue-700 dark:focus:border-blue-500"
+      class="block w-full p-4 ps-10 text-sm text-slate-900 border border-slate-300 rounded-lg bg-slate-50 focus:ring-kgs-blue focus:border-kgs-blue dark:bg-slate-700 dark:border-slate-600 dark:placeholder-slate-400 dark:text-white dark:focus:ring-kgs-lblue dark:focus:border-kgs-lblue"
       placeholder="Suchen..." required>
     <button type="submit" formaction="#top"
-      class="text-white absolute end-2.5 bottom-2.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+      class="text-white absolute end-2.5 bottom-2.5 bg-kgs-blue hover:bg-kgs-blue/90 focus:ring-4 focus:outline-none focus:ring-kgs-blue/25 font-medium rounded-lg text-sm px-4 py-2 dark:hover:bg-kgs-blue/90 dark:focus:ring-kgs-lblue/40">
       Suchen
     </button>
   </div>
