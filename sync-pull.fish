@@ -3,7 +3,7 @@
 set RSYNC /opt/homebrew/bin/rsync
 set REMOTE kirby-remote
 set REMOTE_PATH kirby
-set LOCAL_PATH (realpath (dirname (status filename))/..)
+set LOCAL_PATH (realpath (dirname (status filename)))
 
 set OPTS
 set DRYRUN 0
