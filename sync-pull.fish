@@ -6,8 +6,10 @@ set REMOTE_PATH kirby
 set LOCAL_PATH (realpath (dirname (status filename))/..)
 
 set OPTS
-if test "$argv[1]" = -n -o "$argv[1]" = --dry-run
+set DRYRUN 0
+if contains -- -n $argv; or contains -- --dry-run $argv
     set OPTS --dry-run
+    set DRYRUN 1
     echo ">>> TROCKENLAUF – es wird nichts geschrieben"
 end
 
@@ -18,7 +20,7 @@ $RSYNC -avz --delete $OPTS \
     $LOCAL_PATH/content/
 or exit 1
 
-if test -z "$OPTS"
+if test $DRYRUN -eq 0
     echo "--- Git-Status ---"
     cd $LOCAL_PATH; and git status --short
 end
