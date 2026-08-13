@@ -22,7 +22,32 @@ sections:
     fields:
       hinweis:
         type: info
-        text: "Die URL für Info-Monitore lautet: <code>/countdown.json</code>"
+        text: "Die URL für Info-Monitore lautet: <code>/countdown</code>"
+
+  monitor:
+    type: fields
+    fields:
+      countdownaktiv:
+        label: Countdown anzeigen
+        type: toggle
+        default: true
+        text:
+          - Ausblenden
+          - Anzeigen
+      infotextaktiv:
+        label: Infotext anzeigen
+        type: toggle
+        default: false
+        text:
+          - Ausblenden
+          - Anzeigen
+      infotext:
+        label: Infotext für den Monitor
+        type: textarea
+        help: Der Text läuft gut lesbar als Hinweis über den Monitor. Zum Beispiel bei Busausfällen oder kurzfristigen Änderungen.
+        size: small
+        when:
+          infotextaktiv: true
 
   countdowns:
     type: fields

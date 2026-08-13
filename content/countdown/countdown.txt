@@ -2,6 +2,18 @@ Title: Countdowns
 
 ----
 
+Countdownaktiv: true
+
+----
+
+Infotextaktiv: true
+
+----
+
+Infotext: Der Text läuft gut lesbar als Hinweis über den Monitor. Zum **Beispiel** bei Busausfällen *oder* kurzfristigen Änderungen.
+
+----
+
 Countdowns:
 
 - 

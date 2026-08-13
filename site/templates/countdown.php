@@ -1,5 +1,8 @@
 <?php
 $countdowns = $page->countdowns()->toStructure()->filter(fn($c) => $c->aktiv()->toBool());
+$showCountdown = $page->countdownaktiv()->isEmpty() || $page->countdownaktiv()->toBool();
+$showInfo = $page->infotextaktiv()->toBool() && $page->infotext()->isNotEmpty();
+$infoText = $page->infotext()->kirbytext();
 $now = new DateTime('today');
 $dayNames   = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];
 $monthNames = ['', 'Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'];
@@ -86,14 +89,28 @@ try {
       font-display: swap;
     }
     .weather-emoji { font-family: 'NotoColorEmoji', 'Segoe UI Emoji', 'Apple Color Emoji', sans-serif; }
+    .ticker-track { display: inline-flex; min-width: max-content; animation: ticker 28s linear infinite; will-change: transform; }
+    .ticker-track p { margin: 0; }
+    @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+    @media (prefers-reduced-motion: reduce) { .ticker-track { animation: none; min-width: 100%; justify-content: center; } }
   </style>
 </head>
 <body class="antialiased bg-slate-100 dark:bg-slate-900 min-h-screen flex flex-col items-center justify-center gap-6 p-8">
 
-  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg flex w-full max-w-4xl overflow-hidden">
+  <?php if ($showInfo): ?>
+    <section class="bg-amber-400 text-slate-900 rounded-2xl shadow-lg w-full max-w-4xl overflow-hidden" aria-label="Wichtige Information">
+      <div class="flex items-center gap-4 px-6 py-4 text-xl font-bold whitespace-nowrap overflow-hidden">
+        <span class="shrink-0" aria-hidden="true">⚠️</span>
+        <div class="overflow-hidden flex-1"><div class="ticker-track"><span class="pr-20"><?= $infoText ?></span><span class="pr-20" aria-hidden="true"><?= $infoText ?></span></div></div>
+      </div>
+    </section>
+  <?php endif; ?>
 
-    <!-- Countdowns (linke zwei Drittel) -->
-    <div class="flex-[2] p-10 divide-y divide-slate-100 dark:divide-slate-700" style="text-align:center">
+  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg flex w-full max-w-4xl overflow-hidden <?= $showCountdown ? '' : 'max-w-md' ?>">
+
+    <?php if ($showCountdown): ?>
+      <!-- Countdowns (linke zwei Drittel) -->
+      <div class="flex-[2] p-10 divide-y divide-slate-100 dark:divide-slate-700" style="text-align:center">
 
       <?php if ($countdowns->count() === 0): ?>
         <p class="text-center text-slate-500 dark:text-slate-400 py-8">Keine aktiven Countdowns konfiguriert.</p>
@@ -134,10 +151,11 @@ try {
         </div>
       <?php endforeach; ?>
 
-    </div>
+      </div>
+    <?php endif; ?>
 
     <!-- Wetter (rechtes Drittel) -->
-    <div class="flex-[1] border-l border-slate-100 dark:border-slate-700 p-10 flex flex-col items-center justify-center">
+    <div class="flex-[1] <?= $showCountdown ? 'border-l border-slate-100 dark:border-slate-700' : '' ?> p-10 flex flex-col items-center justify-center">
       <?php if ($temperature !== null): ?>
         <div class="text-center select-none">
           <div class="weather-emoji text-8xl mb-6 leading-none"><?= $weatherEmoji ?></div>
