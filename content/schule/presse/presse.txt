@@ -6,6 +6,141 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/gymnasium-in-wiefelstede-buergermeisterkandidaten-ueber-den-kuenftigen-weg-zum-abitur_a_4,3,1476691944.html
+  name: >
+    Aus Wiefelstede zum Abitur – wie
+    soll’s künftig laufen?
+  anfang: >
+    Schüler aus Wiefelstede müssen für
+    die Oberstufe bisher meist zur KGS
+    Rastede – doch die klagt über
+    Platzmangel. Wie der Weg zum Abitur
+    gesichert werden soll, dazu äußern
+    sich die Bürgermeisterkandidaten in
+    Wiefelstede.
+  datum: 2026-08-14
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/platzmangel-an-kgs-rastede-gemeinde-mietet-raeume-fuer-neue-klassen_a_4,3,1463119853.html
+  name: >
+    Erster Blick in die provisorischen
+    Klassenzimmer
+  anfang: >
+    In Rastede entstanden in Rekordzeit vier
+    Behelfsklassenräume – in einem
+    früheren Laden und dem Gemeindehaus.
+    Auslöser war der Streit um Schüler aus
+    Wiefelstede. Der Konflikt ist aber noch
+    nicht vom Tisch.
+  datum: 2026-08-13
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-cdu-wiefelstede-schlaegt-gemeinsames-gymnasium-der-beiden-gemeinden-vor_a_4,3,1368240522.html
+  name: 'Nach Streit um Schulplatzvergabe - Wiefelsteder CDU will gemeinsames Gymnasium – Rastede macht Gegenvorschlag'
+  anfang: >
+    Die Wiefelsteder CDU schlägt in ihrem
+    Wahlprogramm die Gründung eines
+    gemeinsamen Gymnasiums für Rastede und
+    Wiefelstede vor. In Rastede löst die
+    Idee allerdings wenig Begeisterung aus.
+  datum: 2026-08-04
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/loesungssuche-fuer-kgs-rastede-das-sagen-die-buergermeisterkandidaten-tapper-und-daries_a_4,3,1351336508.html
+  name: 'Kommunalwahl im Ammerland - An der KGS Rastede wird es eng – Was wollen die Bürgermeisterkandidaten tun?'
+  anfang: >
+    Die KGS Rastede platzt aus allen Nähten
+    und nimmt weiter Schüler aus
+    Wiefelstede auf. Wie wollen die
+    Kandidaten um das Bürgermeisteramt das
+    Problem angehen?
+  datum: 2026-08-03
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-second-hand-laden-regenbogen-an-der-schlossstrasse-wird-zum-klassenzimmer_a_4,3,1287786704.html
+  name: 'Platzprobleme an der KGS Rastede - Ehemaliger Second-Hand-Laden wird zum Klassenzimmer'
+  anfang: 'Zu viele Anmeldungen aus Wiefelstede, zu wenig Platz an der KGS: Die Gemeinde Rastede hat nun zwei Immobilien im Umfeld der Schule angemietet, die vorübergehend zu Klassenzimmern werden.'
+  datum: 2026-07-27
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/provisorium-an-kgs-rastede-gemeinde-mietet-raeume-fuer-neue-klassen_a_4,3,1176853605.html
+  name: 'Provisorium an KGS Rastede - Zu viele Anmeldungen – Gemeinde mietet Räume für neue Klassen'
+  anfang: >
+    In Rastede platzt die größte Schule
+    Niedersachsens aus allen Nähten. Die
+    Gemeinde reagiert mit angemieteten
+    Räumen und Modulbauten. Das ist der
+    aktuelle Stand.
+  datum: 2026-07-15
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2026/07/unternehmen-und-schulen-setzen-auf-das-fahrrad/
+  name: >
+    Unternehmen und Schulen setzen auf das
+    Fahrrad
+  anfang: 'Bereits zum sechsten Mal hat die Gemeinde Rastede am Stadtradeln teilgenommen und in diesem Jahr ein Rekordergebnis eingefahren: Mit 1278 Teilnehmern wurde die bisherige Bestmarke aus dem Jahr 2022 um 23 Personen übertroffen. Insgesamt legten die 40 radelnden Teams in den 21 Tagen im Mai 166.235 Kilometer auf dem Fahrrad zurück. Dadurch konnten rund 27 Tonnen CO₂ eingespart werden.'
+  datum: 2026-07-02
+  medium: gemeinde
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/06/29/ferrabi-2026-13-jahre-neben-der-spur/
+  name: Ferrabi 2026 – 13 Jahre neben der Spur
+  anfang: >
+    In einem Festakt unter schwierigen
+    Temperaturbedingungen erhielten die
+    Abiturientinnen und Abiturienten an der
+    KGS Feldbreite ihre Abi-Zeugnisse.
+    Vielfältige musikalische Darbietungen
+    rahmten die Veranstaltung ein.
+  datum: 2026-06-29
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulstreit-in-rastede-landkreis-soll-verantwortung-uebernehmen-ein-leserbrief_a_4,3,986959514.html
+  name: 'Leserbrief aus dem Ammerland - Schulstreit zwischen Rastede und Wiefelstede – Leser sieht Landkreis in der Pflicht'
+  anfang: >
+    Wiefelstede und Rastede streiten weiter
+    um Schulplätze. Ein Leser sieht den
+    Landkreis Ammerland als eigentlichen
+    Schuldigen. Er fordert, dass der Kreis
+    wieder Verantwortung übernimmt.
+  datum: 2026-06-26
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/europameister-aus-rastede-die-bratnudeln-ueberzeugen-beim-robocup-junior-in-wien_a_4,3,956634576.html
+  name: 'Schüler der KGS - Rasteder „Bratnudeln“ sind Europameister beim „RoboCup Junior“'
+  anfang: >
+    Von Bronze zu Gold – damit haben die
+    „Bratnudeln“ von der KGS in Rastede
+    nicht gerechnet. Doch nun können sie
+    sich Europameister nennen. Beim
+    „RoboCup Junior“ in Wien
+    überzeugten sie auf ganzer Linie.
+  datum: 2026-06-26
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-waldjugendspiele-im-schlosspark-fuer-die-sechstklaessler_a_4,3,947210959.html
+  name: 'Waldjugendspiele in Rastede - Sechstklässler der KGS erkunden den Schlosspark'
+  anfang: 'Schlosspark statt Klassenzimmer: Die Sechstklässler der Kooperativen Gesamtschule Rastede erkundeten den Wald. Hier gibt’s die Bilder.'
+  datum: 2026-06-23
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2026/06/schuelerinnenhaushalt-staerkt-mitbestimmung-an-rasteder-schulen/
+  name: 'Schüler*innenHaushalt stärkt Mitbestimmung an Rasteder Schulen'
+  anfang: 'Demokratie ist weit mehr als ein politisches System – sie ist eine Haltung, die von Beteiligung, Verantwortung und gegenseitigem Respekt lebt. Damit junge Menschen demokratische Werte verinnerlichen, reicht es nicht aus, darüber im Unterricht zu sprechen. Demokratie muss erlebt, ausprobiert und gestaltet werden können. Genau hier setzt der Schüler*innenHaushalt an.'
+  datum: 2026-06-22
+  medium: gemeinde
+- 
+  link: >
     https://www.rasteder-rundschau.de/2026/06/18/moderne-module-fuer-die-kgs/
   name: Moderne Module für die KGS
   anfang: >
@@ -59,6 +194,13 @@ Pressenachrichten:
     wird das kosten. Ein erster Überblick.
   datum: 2026-06-17
   medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/06/17/rasteder-schulen-neu-gedacht/
+  name: Rasteder Schulen neu gedacht
+  anfang: 'Phase-Null-Prozess: KGS soll ab 2028 umgebaut werden, Maßnahmen an den Grundschulen folgen. Hält der Zeitrahmen, belaufen sich die Gesamtkosten auf mehr als 90 Millionen Euro. Bei Verzögerungen wird es teurer.'
+  datum: 2026-06-17
+  medium: rastederrundschau
 - 
   link: >
     https://www.nwzonline.de/ratgeber/mut-zum-loslassen-wie-kinder-in-rastede-selbstvertrauen-gewinnen-ein-kommentar_a_4,3,840804891.html
@@ -6804,13 +6946,6 @@ Pressenachrichten:
     also auf dem Programm.
   datum: 2015-01-02
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rastede.de/2026/06/schuelerinnenhaushalt-staerkt-mitbestimmung-an-rasteder-schulen/
-  name: 'Schüler*innenHaushalt stärkt Mitbestimmung an Rasteder Schulen'
-  anfang: 'Demokratie ist weit mehr als ein politisches System – sie ist eine Haltung, die von Beteiligung, Verantwortung und gegenseitigem Respekt lebt. Damit junge Menschen demokratische Werte verinnerlichen, reicht es nicht aus, darüber im Unterricht zu sprechen. Demokratie muss erlebt, ausprobiert und gestaltet werden können. Genau hier setzt der Schüler*innenHaushalt an.'
-  datum: 2026-06-22
-  medium: gemeinde
 
 ----
 
