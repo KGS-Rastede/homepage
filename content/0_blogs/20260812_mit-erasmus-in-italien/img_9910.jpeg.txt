@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: tasjvc3qax73jdbd
+
+----
+
+Template: blocks/image
