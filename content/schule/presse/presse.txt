@@ -6,6 +6,21 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/ksg-rastede-feiert-50-jaehriges-jubilaeum_a_4,3,1513138804.html
+  name: >
+    Wie die KGS Rastede in 50 Jahren zum
+    Erfolgsmodell wurde
+  anfang: >
+    Die Kooperative Gesamtschule Rastede
+    feiert ihr 50-jähriges Bestehen. Mit
+    einem Festakt startet das
+    Jubiläumsjahr. Schulleiterin Claudia
+    Berger erklärt, warum die KGS eine ganz
+    besondere Schule ist.
+  datum: 2026-08-24
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/ammerland/gymnasium-in-wiefelstede-buergermeisterkandidaten-ueber-den-kuenftigen-weg-zum-abitur_a_4,3,1476691944.html
   name: >
     Aus Wiefelstede zum Abitur – wie
@@ -6946,6 +6961,18 @@ Pressenachrichten:
     also auf dem Programm.
   datum: 2015-01-02
   medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/jubilaeum-in-rastede-kgs-feiert-50-jaehriges-bestehen_a_4,3,1606641642.html
+  name: >
+    KGS Rastede feiert Jubiläum mit
+    ehemaligen Schulleitern
+  anfang: >
+    Die KGS Rastede ist 50 Jahre alt. Das
+    Jubiläum wurde nun mit einem Festakt
+    gefeiert.
+  datum: 2026-08-28
+  medium: nwz
 
 ----
 
