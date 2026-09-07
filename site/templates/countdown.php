@@ -38,10 +38,15 @@ $wordClock = wordClockDE((int)$nowTime->format('G'), (int)$nowTime->format('i'))
 $temperature = null;
 $weatherEmoji = '🌡️';
 $weatherDesc  = '';
+$feelsLike    = null;
+$tempMax      = null;
+$tempMin      = null;
+$sunrise      = null;
+$sunset       = null;
 try {
     $ctx  = stream_context_create(['http' => ['timeout' => 3]]);
     $json = @file_get_contents(
-        'https://api.open-meteo.com/v1/forecast?latitude=53.25&longitude=8.20&current=temperature_2m,weather_code&timezone=Europe%2FBerlin',
+        'https://api.open-meteo.com/v1/forecast?latitude=53.25&longitude=8.20&current=temperature_2m,apparent_temperature,weather_code&daily=temperature_2m_max,temperature_2m_min,sunrise,sunset&timezone=Europe%2FBerlin',
         false,
         $ctx
     );
@@ -64,6 +69,22 @@ try {
                 in_array($code, [95, 96, 99])         => ['⛈️',  'Gewitter'],
                 default                               => ['🌡️', ''],
             };
+
+            if (isset($data['current']['apparent_temperature'])) {
+                $feelsLike = (int) round($data['current']['apparent_temperature']);
+            }
+            if (isset($data['daily']['temperature_2m_max'][0])) {
+                $tempMax = (int) round($data['daily']['temperature_2m_max'][0]);
+            }
+            if (isset($data['daily']['temperature_2m_min'][0])) {
+                $tempMin = (int) round($data['daily']['temperature_2m_min'][0]);
+            }
+            if (isset($data['daily']['sunrise'][0])) {
+                $sunrise = (new DateTime($data['daily']['sunrise'][0]))->format('H:i');
+            }
+            if (isset($data['daily']['sunset'][0])) {
+                $sunset = (new DateTime($data['daily']['sunset'][0]))->format('H:i');
+            }
         }
     }
 } catch (Throwable $e) {
@@ -106,9 +127,9 @@ try {
     </section>
   <?php endif; ?>
 
-  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg flex w-full max-w-4xl overflow-hidden <?= $showCountdown ? '' : 'max-w-md' ?>">
+  <?php if ($showCountdown): ?>
+  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg flex w-full max-w-4xl overflow-hidden">
 
-    <?php if ($showCountdown): ?>
       <!-- Countdowns (linke zwei Drittel) -->
       <div class="flex-[2] p-10 divide-y divide-slate-100 dark:divide-slate-700" style="text-align:center">
 
@@ -152,10 +173,9 @@ try {
       <?php endforeach; ?>
 
       </div>
-    <?php endif; ?>
 
     <!-- Wetter (rechtes Drittel) -->
-    <div class="flex-[1] <?= $showCountdown ? 'border-l border-slate-100 dark:border-slate-700' : '' ?> p-10 flex flex-col items-center justify-center">
+    <div class="flex-[1] border-l border-slate-100 dark:border-slate-700 p-10 flex flex-col items-center justify-center">
       <?php if ($temperature !== null): ?>
         <div class="text-center select-none">
           <div class="weather-emoji text-8xl mb-6 leading-none"><?= $weatherEmoji ?></div>
@@ -172,6 +192,42 @@ try {
     </div>
 
   </div>
+
+  <?php else: ?>
+
+  <!-- Wetter (ausführlich, kein Countdown aktiv) -->
+  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl overflow-hidden">
+    <?php if ($temperature !== null): ?>
+      <div class="flex items-center justify-between gap-8 p-10">
+        <div class="grid grid-cols-2 gap-x-8 gap-y-4 text-lg text-slate-600 dark:text-slate-300">
+          <?php if ($feelsLike !== null): ?>
+            <div><span class="block text-sm uppercase tracking-widest text-slate-400 dark:text-slate-500">Gefühlt</span><?= $feelsLike ?>°C</div>
+          <?php endif; ?>
+          <?php if ($tempMax !== null && $tempMin !== null): ?>
+            <div><span class="block text-sm uppercase tracking-widest text-slate-400 dark:text-slate-500">Hoch / Tief</span><?= $tempMax ?>° / <?= $tempMin ?>°</div>
+          <?php endif; ?>
+          <?php if ($sunrise !== null): ?>
+            <div><span class="block text-sm uppercase tracking-widest text-slate-400 dark:text-slate-500">Sonnenaufgang</span>🌅 <?= $sunrise ?></div>
+          <?php endif; ?>
+          <?php if ($sunset !== null): ?>
+            <div><span class="block text-sm uppercase tracking-widest text-slate-400 dark:text-slate-500">Sonnenuntergang</span>🌇 <?= $sunset ?></div>
+          <?php endif; ?>
+        </div>
+
+        <div class="text-center select-none shrink-0">
+          <div class="weather-emoji text-8xl leading-none"><?= $weatherEmoji ?></div>
+          <div class="mt-4 text-6xl font-black text-slate-800 dark:text-white leading-none"><?= $temperature ?>°C</div>
+          <?php if ($weatherDesc !== ''): ?>
+            <div class="mt-2 text-lg text-slate-500 dark:text-slate-400"><?= html($weatherDesc) ?></div>
+          <?php endif; ?>
+        </div>
+      </div>
+    <?php else: ?>
+      <p class="text-slate-400 dark:text-slate-500 text-sm text-center py-12">Wetter nicht verfügbar</p>
+    <?php endif; ?>
+  </div>
+
+  <?php endif; ?>
 
   <!-- Datum & Uhrzeit -->
   <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl px-10 py-6 text-center text-slate-500 dark:text-slate-400">
