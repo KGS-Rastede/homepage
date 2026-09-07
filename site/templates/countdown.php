@@ -199,18 +199,18 @@ try {
   <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl overflow-hidden">
     <?php if ($temperature !== null): ?>
       <div class="flex items-center justify-between gap-8 p-10">
-        <div class="grid grid-cols-2 gap-x-8 gap-y-4 text-lg text-slate-600 dark:text-slate-300">
+        <div class="flex flex-col gap-5 text-3xl font-bold text-slate-700 dark:text-slate-200">
           <?php if ($feelsLike !== null): ?>
-            <div><span class="block text-sm uppercase tracking-widest text-slate-400 dark:text-slate-500">Gefühlt</span><?= $feelsLike ?>°C</div>
+            <div><span class="block text-base font-semibold uppercase tracking-wide text-slate-400 dark:text-slate-500 mb-1">Gefühlt</span><?= $feelsLike ?>°C</div>
           <?php endif; ?>
           <?php if ($tempMax !== null && $tempMin !== null): ?>
-            <div><span class="block text-sm uppercase tracking-widest text-slate-400 dark:text-slate-500">Hoch / Tief</span><?= $tempMax ?>° / <?= $tempMin ?>°</div>
+            <div><span class="block text-base font-semibold uppercase tracking-wide text-slate-400 dark:text-slate-500 mb-1">Hoch / Tief</span><?= $tempMax ?>° / <?= $tempMin ?>°</div>
           <?php endif; ?>
           <?php if ($sunrise !== null): ?>
-            <div><span class="block text-sm uppercase tracking-widest text-slate-400 dark:text-slate-500">Sonnenaufgang</span>🌅 <?= $sunrise ?></div>
+            <div><span class="block text-base font-semibold uppercase tracking-wide text-slate-400 dark:text-slate-500 mb-1">Sonnenaufgang</span><span class="weather-emoji">🌅</span> <?= $sunrise ?></div>
           <?php endif; ?>
           <?php if ($sunset !== null): ?>
-            <div><span class="block text-sm uppercase tracking-widest text-slate-400 dark:text-slate-500">Sonnenuntergang</span>🌇 <?= $sunset ?></div>
+            <div><span class="block text-base font-semibold uppercase tracking-wide text-slate-400 dark:text-slate-500 mb-1">Sonnenuntergang</span><span class="weather-emoji">🌇</span> <?= $sunset ?></div>
           <?php endif; ?>
         </div>
 
