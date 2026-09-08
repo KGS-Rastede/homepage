@@ -4,6 +4,7 @@ icon: file
 options:
   update:
     *: false
+    schulleitung: true
     admin: true
 
 
