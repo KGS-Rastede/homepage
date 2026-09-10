@@ -116,7 +116,7 @@ try {
     @media (prefers-reduced-motion: reduce) { .ticker-track { animation: none; min-width: 100%; justify-content: center; } }
   </style>
 </head>
-<body class="antialiased bg-slate-100 dark:bg-slate-900 min-h-screen flex flex-col items-center justify-center gap-6 p-8">
+<body class="antialiased bg-slate-100 dark:bg-slate-900 min-h-screen flex flex-col items-center justify-center gap-3 p-5">
 
   <?php if ($showInfo): ?>
     <section class="bg-amber-400 text-slate-900 rounded-2xl shadow-lg w-full max-w-4xl overflow-hidden" aria-label="Wichtige Information">
@@ -131,7 +131,7 @@ try {
   <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg flex w-full max-w-4xl overflow-hidden">
 
       <!-- Countdowns (linke zwei Drittel) -->
-      <div class="flex-[2] p-10 divide-y divide-slate-100 dark:divide-slate-700" style="text-align:center">
+      <div class="flex-[2] p-7 divide-y divide-slate-100 dark:divide-slate-700" style="text-align:center">
 
       <?php if ($countdowns->count() === 0): ?>
         <p class="text-center text-slate-500 dark:text-slate-400 py-8">Keine aktiven Countdowns konfiguriert.</p>
@@ -175,7 +175,7 @@ try {
       </div>
 
     <!-- Wetter (rechtes Drittel) -->
-    <div class="flex-[1] border-l border-slate-100 dark:border-slate-700 p-10 flex flex-col items-center justify-center">
+    <div class="flex-[1] border-l border-slate-100 dark:border-slate-700 p-7 flex flex-col items-center justify-center">
       <?php if ($temperature !== null): ?>
         <div class="text-center select-none">
           <div class="weather-emoji text-8xl mb-6 leading-none"><?= $weatherEmoji ?></div>
@@ -198,7 +198,7 @@ try {
   <!-- Wetter (ausführlich, kein Countdown aktiv) -->
   <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl overflow-hidden">
     <?php if ($temperature !== null): ?>
-      <div class="flex items-center justify-between gap-8 p-10">
+      <div class="flex items-center justify-between gap-8 p-7">
         <div class="flex flex-col gap-5 text-3xl font-bold text-slate-700 dark:text-slate-200">
           <?php if ($feelsLike !== null): ?>
             <div><span class="block text-base font-semibold uppercase tracking-wide text-slate-400 dark:text-slate-500 mb-1">Gefühlt</span><?= $feelsLike ?>°C</div>
@@ -230,7 +230,7 @@ try {
   <?php endif; ?>
 
   <!-- Datum & Uhrzeit -->
-  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl px-10 py-6 text-center text-slate-500 dark:text-slate-400">
+  <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg w-full max-w-4xl px-10 py-4 text-center text-slate-500 dark:text-slate-400">
     <div id="datum" class="text-lg"><?= $datumLang ?></div>
     <div id="wordclock" class="text-4xl font-bold text-slate-800 dark:text-white mt-2"><?= $wordClock ?></div>
   </div>
