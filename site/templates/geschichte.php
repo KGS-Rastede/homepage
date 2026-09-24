@@ -9,9 +9,15 @@ slot();
   diese Chronologie einen Spiegel der Presse.
 </p>
 
-<?= $page->text()->toBlocks() ?>
+<div class="relative mt-8 mb-4">
+  <!-- Durchgehende Timeline-Linie -->
+  <div
+    class="absolute top-0 bottom-0 left-6 w-px -translate-x-1/2 bg-indigo-200 dark:bg-indigo-900 lg:left-1/2"
+    aria-hidden="true"
+  ></div>
 
-
+  <?= $page->text()->toBlocks() ?>
+</div>
 
 <?php endslot(); ?>
 <?php endsnippet(); ?>

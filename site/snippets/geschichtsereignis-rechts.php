@@ -1,18 +1,14 @@
-<!-- RECHTER Event -->
-    <li class="relative lg:ml-auto lg:w-1/2 lg:pl-6">
-      <div
-        class="absolute top-0 bottom-0 left-0 mt-5 flex w-10 -translate-x-full justify-center md:w-12 lg:-translate-x-6"
-      >
-        <div
-          class="size-3 rounded-full bg-indigo-500 ring-3 ring-indigo-100 ring-offset-2 dark:bg-indigo-300 dark:ring-indigo-900 dark:ring-offset-slate-900"
-        ></div>
-      </div>
-      <div
-        class="rounded-xl bg-slate-100 p-4 hover:ring-3 hover:ring-slate-100 hover:ring-offset-2 dark:bg-slate-800 dark:ring-offset-slate-900 dark:hover:ring-slate-700"
-      >
-        <p class="text-sm leading-relaxed">
-          <?= $ereignistext ?>
-        </p>      
-      </div>
-    </li>
-    <!-- END RECHTER Event -->
+<!-- Ereignis-Card rechts der Linie (Desktop) -->
+<li class="relative pl-8 lg:ml-auto lg:w-1/2 lg:pl-10">
+  <span
+    class="absolute top-6 left-6 size-3 -translate-x-1/2 rounded-full bg-indigo-500 ring-3 ring-indigo-100 dark:bg-indigo-300 dark:ring-indigo-900 lg:top-7 lg:left-0"
+    aria-hidden="true"
+  ></span>
+  <article
+    class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-700 dark:bg-slate-800"
+  >
+    <div class="prose prose-sm max-w-none prose-a:text-kgs-blue dark:prose-invert dark:prose-a:text-kgs-lblue">
+      <?= $ereignistext ?>
+    </div>
+  </article>
+</li>
