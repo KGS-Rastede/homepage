@@ -33,13 +33,13 @@ $update = new kalender_update($cache_file, $ics_file);
 $result = $update->checkForUpdate();
 ?>
 
-<div id="kgs-calendar-modal" class="kgs-calendar-modal" hidden aria-hidden="true">
+<div id="kgs-calendar-modal" class="kgs-calendar-modal" hidden>
   <div class="kgs-calendar-modal-backdrop" data-calendar-modal-backdrop></div>
   <section class="kgs-calendar-modal-panel" role="dialog" aria-modal="true" aria-labelledby="kgs-calendar-modal-title">
     <header class="kgs-calendar-modal-header">
       <div>
         <p class="kgs-calendar-modal-kicker" data-calendar-modal-time></p>
-        <h2 id="kgs-calendar-modal-title" class="kgs-calendar-modal-title" data-calendar-modal-title></h2>
+        <h2 id="kgs-calendar-modal-title" class="kgs-calendar-modal-title" data-calendar-modal-title>Termindetails</h2>
       </div>
       <button type="button" class="kgs-calendar-modal-close" data-calendar-modal-close aria-label="Termindetails schließen">
         <i class="bi bi-x-lg" aria-hidden="true"></i>

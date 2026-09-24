@@ -130,7 +130,6 @@
     }
 
     modal.hidden = false;
-    modal.setAttribute('aria-hidden', 'false');
     document.documentElement.classList.add('kgs-calendar-modal-open');
     modal.querySelector('[data-calendar-modal-close]').focus();
   }
@@ -140,7 +139,6 @@
     if (!modal || modal.hidden) return;
 
     modal.hidden = true;
-    modal.setAttribute('aria-hidden', 'true');
     document.documentElement.classList.remove('kgs-calendar-modal-open');
   }
 
