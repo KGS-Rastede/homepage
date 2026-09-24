@@ -49,7 +49,8 @@
                     </h1>
                     <h2
                         class="mx-auto mb-5 font-medium text-slate-500 md:leading-relaxed lg:w-3/5 dark:text-slate-300">
-                        Scheinbar wurde die Seite nicht gefunden. Vielleicht wurde sie gelöscht oder umbenannt. Benutzten Sie gerne die Suche.
+                        Scheinbar wurde die Seite nicht gefunden. Vielleicht wurde sie gelöscht oder umbenannt.<br>
+                        Benutzen Sie gerne die Suche.
                     </h2>
                     <form class="mx-auto max-w-sm space-y-1" onsubmit="return false;">
                         <div class="relative">
