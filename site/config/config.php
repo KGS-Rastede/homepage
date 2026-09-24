@@ -20,6 +20,28 @@ return array_merge($secrets, [
     // Seiten ohne Frontend-Ansicht nicht in die sitemap.xml aufnehmen
     'sitemap.ignore' => ['error', 'design', 'eventwidget', 'navbar'],
 
+    // Responsive Bilder: Kirby rendert die Größen beim ersten Abruf selbst
+    // https://getkirby.com/docs/guide/files/resize-images-on-the-fly
+    'thumbs' => [
+        'srcsets' => [
+            // Banner der Startseite (volle Bildschirmbreite)
+            'banner' => [
+                '640w'  => ['width' => 640,  'quality' => 80],
+                '1024w' => ['width' => 1024, 'quality' => 80],
+                '1536w' => ['width' => 1536, 'quality' => 80],
+                '1920w' => ['width' => 1920, 'quality' => 80],
+                '2560w' => ['width' => 2560, 'quality' => 80],
+            ],
+            'banner-webp' => [
+                '640w'  => ['width' => 640,  'quality' => 75, 'format' => 'webp'],
+                '1024w' => ['width' => 1024, 'quality' => 75, 'format' => 'webp'],
+                '1536w' => ['width' => 1536, 'quality' => 75, 'format' => 'webp'],
+                '1920w' => ['width' => 1920, 'quality' => 75, 'format' => 'webp'],
+                '2560w' => ['width' => 2560, 'quality' => 75, 'format' => 'webp'],
+            ],
+        ],
+    ],
+
     'kgs.autoresize.maxWidth' => 1000,
     'kgs.autoresize.quality'  => 85,
 
@@ -175,6 +197,10 @@ return array_merge($secrets, [
     'hooks' => [
         'file.create:after' => function ($file) {
             if (!$file->isResizable()) return;
+
+            // Banner brauchen die volle Auflösung, kleinere Größen
+            // erzeugt Kirby dafür per srcset (siehe 'thumbs')
+            if ($file->template() === 'hintergrundbild') return;
 
             $maxWidth = option('kgs.autoresize.maxWidth', 1000);
             $quality  = option('kgs.autoresize.quality', 85);
