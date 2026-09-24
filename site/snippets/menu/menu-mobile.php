@@ -189,7 +189,7 @@
         <input type="text"
           x-ref="searchInput"
           class="grow focus:outline-none"
-          id="search" name="q" placeholder="Suche..." />
+          id="search-mobile" name="q" placeholder="Suche..." />
       </div>
     </form>
   </div>
