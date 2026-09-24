@@ -17,6 +17,9 @@ return array_merge($secrets, [
     // automatische URLs folgen der deuschen Sprache
     'slugs' => 'de',
 
+    // Seiten ohne Frontend-Ansicht nicht in die sitemap.xml aufnehmen
+    'sitemap.ignore' => ['error', 'design', 'eventwidget', 'navbar'],
+
     'kgs.autoresize.maxWidth' => 1000,
     'kgs.autoresize.quality'  => 85,
 
