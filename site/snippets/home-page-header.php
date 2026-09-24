@@ -34,7 +34,11 @@
   }
   ?>
 
-  <div class="relative overflow-hidden min-h-65 sm:min-h-90">
+  <!-- Ab lg bekommt der Banner das Seitenverhältnis des Bildes, damit es vollständig sichtbar ist.
+       Darunter bleibt die feste Mindesthöhe (Bild wird seitlich beschnitten). -->
+  <div
+    class="relative overflow-hidden min-h-65 sm:min-h-90 lg:aspect-(--banner-ratio)"
+    <?php if ($banner): ?>style="--banner-ratio: <?= $banner->width() ?> / <?= $banner->height() ?>;"<?php endif; ?>>
     <?php if ($banner): ?>
       <!-- Kirby rendert passende Größen als WebP (JPG als Fallback), Presets in config.php -->
       <picture>
