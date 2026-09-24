@@ -43,10 +43,16 @@ if (
   // Bei alten Artikeln gibt es eine gallery, die nicht im Block ist
   $blogCardImage = $image;
 } elseif (
-  $image = $subpage->downloads()->filterBy('type', '==', 'image')->first()
+  $image = $subpage->downloads()->toFiles()->filterBy('type', 'image')->first()
 ) {
   // Bilder, die bei "Zugehörige Dateien" ausgewählt wurden
-  $blogCardImage = $image->toFile();
+  $blogCardImage = $image;
+}
+
+// Nur echte Bilder anzeigen: Ein PDF im <img> zeigt Safari auf dem iPhone
+// zwar an, Chrome/Edge/Firefox aber nur als kaputtes Bild
+if ($blogCardImage && $blogCardImage->type() !== 'image') {
+  $blogCardImage = null;
 }
 ?>
 
