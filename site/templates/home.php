@@ -1,4 +1,6 @@
 <?php snippet('header'); ?>
+
+<main>
 <?php snippet('home-page-header'); ?>
 
 
@@ -45,6 +47,6 @@
 
 
 <?php endif; ?>
-
+</main>
 
 <?php snippet('footertw'); ?>
