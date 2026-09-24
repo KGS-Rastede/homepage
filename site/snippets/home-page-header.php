@@ -5,11 +5,11 @@
   <?php
   // Code nach https://www.php.net/manual/en/function.date-sun-info.php
 
-  // Bilder werden in den Site-Einstellungen im Panel konfiguriert
-  $page = site();
+  // Bilder werden im Panel auf der Seite "design" konfiguriert (Blueprint banner.yml)
+  $page = page('design');
 
   // Fallback-Bild, falls ein Tageszeit-Bild nicht gesetzt ist
-  $fallback = $page->bildregen()->toFile()?->url();
+  $fallback = $page?->bildfallback()->toFile()?->url();
 
   // Zeitzone und Koordinaten für die Sonnenstandsberechnung
   date_default_timezone_set('Europe/Berlin');
@@ -24,13 +24,13 @@
   // Bild je nach Tageszeit wählen; ?? $fallback greift, wenn das Feld leer ist
   if ($now >= $sun_info['sunrise'] && $now < $sun_info['transit']) {
     // Sonnenaufgang bis Zenit
-    $bannerpfad = $page->bildmorgens()->toFile()?->url() ?? $fallback;
+    $bannerpfad = $page?->bildmorgens()->toFile()?->url() ?? $fallback;
   } elseif ($now >= $sun_info['transit'] && $now < $sun_info['sunset']) {
     // Zenit bis Sonnenuntergang
-    $bannerpfad = $page->bildtag()->toFile()?->url() ?? $fallback;
+    $bannerpfad = $page?->bildtag()->toFile()?->url() ?? $fallback;
   } else {
     // Sonnenuntergang bis Sonnenaufgang des Folgetages
-    $bannerpfad = $page->bildnacht()->toFile()?->url() ?? $fallback;
+    $bannerpfad = $page?->bildnacht()->toFile()?->url() ?? $fallback;
   }
   ?>
 
