@@ -1,0 +1,13 @@
+Anzeigename: 
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: mu4zeialsfxhe50z
+
+----
+
+Template: datei

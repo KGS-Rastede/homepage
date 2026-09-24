@@ -1,0 +1,37 @@
+Title: 50 Jahre KGS – Wir sind beim Ellernfest dabei! 🎉
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Anlässlich unseres <strong>50-jährigen Jubiläums</strong> ist die KGS Rastede vom <strong>11. bis 13. September</strong> mit einem eigenen Stand auf dem Ellernfest vertreten. Dazu laden wir alle <strong>Kolleginnen und Kollegen, Schülerinnen und Schüler, Eltern, Ehemaligen und Freunde der KGS</strong> herzlich ein, bei uns vorbeizuschauen!</p><p>An unserem Stand gibt es <strong>einiges aus unserem Schulleben zu entdecken</strong>. Die <strong>Imkerei</strong> präsentiert ihre Arbeit und bietet ihre Produkte an, der <strong>Förderverein</strong> stellt sich vor, &nbsp;am Samstag und Sonntag sorgt der <strong>Abi-Jahrgang mit Kaffee und Kuchen</strong> für das leibliche Wohl. Außerdem kann unsere <strong>Festschrift zum 50-jährigen Jubiläum</strong> direkt am Stand erworben werden.</p><p>Ein besonderes Highlight ist unsere <strong>Zeitkapsel</strong>: Hinterlasst einen Wunsch für die Zukunft der KGS, eine persönliche Erinnerung oder eine Botschaft an kommende Schülergenerationen. Als kleines Dankeschön wartet eine Überraschung auf euch.</p><p><strong>Unsere Standzeiten:</strong> Freitag: <strong>15–18 Uhr</strong> · Samstag: <strong>11–18:30 Uhr</strong> · Sonntag: <strong>11–17 Uhr</strong></p><p>Wir freuen uns auf viele bekannte und neue Gesichter, schöne Erinnerungen und gute Gespräche.</p><p><strong>Kommt vorbei und feiert mit uns 50 Jahre KGS! 🎈</strong></p>"},"id":"c6f5cbdd-08af-4831-a7a7-ce261fcb7cb3","isHidden":false,"type":"text"}],"id":"39bf6364-d381-442f-b3e5-07f915b7931b","width":"1/1"}],"id":"cf6b3aed-e253-4b9b-b7dc-3c6cff03990a"}]
+
+----
+
+Date: 2026-09-07 14:00:00
+
+----
+
+Datumstartseite: 2027-01-07 14:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Alena Müller-Bininda
+
+----
+
+Tags: Topartikel
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: arhhl3l1kpywt3jq

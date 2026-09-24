@@ -1,0 +1,42 @@
+Title: Briefe der Ministerin zum Schuljahresbeginn
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Liebe Schulgemeinschaft, hier sind zwei Briefe der Kultusministerin zum Schuljahresbeginn:</p>"},"id":"c90541bb-e305-40a2-ab94-a5aa0c908749","isHidden":false,"type":"text"}],"id":"20ebf06f-75de-488e-910c-e65b7b900da7","width":"1/1"}],"id":"455b3f02-230e-4db2-a884-6c406cede59a"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li><a href=\"https://kgs-rastede.de/media/pages/blogs/briefe-der-ministerin-zum-schljahresbeginn/701fb4c73b-1787635101/2026-08-20-schuljahresanfangsbrief_eltern-und-erz_final.pdf\" target=\"_blank\" title=\"für das Personal\">für das Personal</a></li><li><a href=\"https://kgs-rastede.de/media/pages/blogs/briefe-der-ministerin-zum-schljahresbeginn/f0946884fd-1787635101/2026-08-20-schuljahresanfangsbrief_schulen_final.pdf\" target=\"_blank\" title=\"Für Eltern\">für Eltern</a></li><li><a href=\"https://kgs-rastede.de/media/pages/blogs/briefe-der-ministerin-zum-schljahresbeginn/33bc5b15cb-1787635566/2026-08-20-schuljahresanfangsbrief-sek-ii_final.pdf\" target=\"_blank\" title=\"für Schüler Sek I\">für Schüler Sek I</a></li><li><a href=\"https://kgs-rastede.de/media/pages/blogs/briefe-der-ministerin-zum-schljahresbeginn/33bc5b15cb-1787635566/2026-08-20-schuljahresanfangsbrief-sek-ii_final.pdf\" target=\"_blank\" title=\"für Schüler Sek II\">für Schüler Sek II</a></li></ul>"},"id":"a881a37a-d917-4dd7-89a8-b77ef93ff847","isHidden":false,"type":"list"}],"id":"6dd3d6c1-68a7-48c1-8f61-959f1822196b","width":"1/1"}],"id":"2389457b-8fca-4964-8229-5ca4b0303d97"}]
+
+----
+
+Date: 2026-08-25 07:20:00
+
+----
+
+Datumstartseite: 2026-12-25 07:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Description: 
+
+----
+
+Downloads:
+
+- file://cnflln3dnxvdqqw5
+- file://uajshldkfixfnzya
+- file://mu4zeialsfxhe50z
+- file://ze6s9q2az3mqyih5
+
+----
+
+Uuid: xx2foath8os48abn

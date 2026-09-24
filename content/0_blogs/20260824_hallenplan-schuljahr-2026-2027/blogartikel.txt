@@ -1,0 +1,37 @@
+Title: Hallenplan Schuljahr 2026/2027
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://fdl2nogdrggrvdm2"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"2f14a1bd-515a-44eb-a917-652e52b402a3","isHidden":false,"type":"image"}],"id":"c68f7ae1-568d-4486-9845-810fe936e5b5","width":"1/1"}],"id":"4329f497-6309-4ca5-99cc-d36ea4cc01be"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"/@/file/5p5xtwv4bjhyzj5d\" target=\"_blank\">Hier</a> finden Sie die aktuellen Hallenpläne für das 1. HJ 2026/27</p>"},"id":"1c35c048-1f65-4d27-9c53-50a5cd8746fc","isHidden":false,"type":"text"}],"id":"9aff1392-6abf-46c6-8731-2419c4dce880","width":"1/1"}],"id":"2f2b5343-469d-47c3-9729-9b62e01077bd"}]
+
+----
+
+Date: 2026-08-24 09:45:00
+
+----
+
+Datumstartseite: 2026-12-24 09:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sascha Arzenscheg
+
+----
+
+Tags: Sport, Hallenpläne
+
+----
+
+Description: 
+
+----
+
+Downloads: - file://5p5xtwv4bjhyzj5d
+
+----
+
+Uuid: 4bzvayedr5hfnegj
