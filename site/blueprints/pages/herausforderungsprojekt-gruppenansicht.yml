@@ -20,10 +20,6 @@ fields:
     width: 1/2
   teamfarbe:
     label: Teamfarbe
-    type: text
-    width: 1/2
-  teamfarbe:
-    label: Teamfarbe
     type: select
     options:
       teamfarbe1: Farbe 1

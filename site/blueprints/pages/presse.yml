@@ -4,7 +4,7 @@ icon: book
 
 options:
   update:
-    *: false
+    '*': false
     schulleitung: true
     admin: true
 

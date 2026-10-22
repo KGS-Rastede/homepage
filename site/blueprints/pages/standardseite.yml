@@ -2,7 +2,7 @@ title: Standardseite
 
 options:
   update:
-    *: false
+    '*': false
     erasmus: true
     fachleiter: true
     hfp: true

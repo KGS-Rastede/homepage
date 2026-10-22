@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": ">=8.4",
-    "getkirby/cms": "^5"
+    "getkirby/cms": "6.0.0-beta.1"
   },
   "minimum-stability": "stable",
   "prefer-stable": true,

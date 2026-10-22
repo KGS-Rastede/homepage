@@ -2,7 +2,7 @@
 
 require 'kirby/bootstrap.php';
 
-if (page("wichtige-informationen")->togglenotfall()->toggle()->bool() === true && page("wichtige-informationen")->notfallredirect()->toggle()->bool() === true) {
+if (page("wichtige-informationen")?->togglenotfall()->toBool() === true && page("wichtige-informationen")?->notfallredirect()->toBool() === true) {
 
     // Aktuelle URL prüfen
     $currentUrl = $_SERVER['REQUEST_URI'];

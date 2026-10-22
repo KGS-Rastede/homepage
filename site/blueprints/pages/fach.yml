@@ -4,7 +4,7 @@ icon: 📖
 
 options:
   update:
-    *: false
+    '*': false
     fachleiter: true
     schulleitung: true
     admin: true
@@ -45,9 +45,6 @@ columns:
 
           gallery:
             type: files
-            uploads: blogbild
-            query: page.images
-            label: Bilder zum Fach
             uploads: blogbild
             query: page.images
             label: Bilder zum Fach
@@ -95,5 +92,4 @@ columns:
               carousel: Karousel
               gallery: Galerie
               manuel: Manuell einbinden
-                toggle:
           sidebar: fields/seitenleiste

@@ -3,7 +3,7 @@ icon: file
 
 options:
   update:
-    *: false
+    '*': false
     schulleitung: true
     admin: true
 

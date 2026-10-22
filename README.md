@@ -2,6 +2,64 @@
 
 Kirby ist soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann könnt ihr den Code mit folgenden Befehlen runterladen:
 
+## Kirby 6: Entwicklungsstand
+
+Dieses Projekt verwendet **Kirby 6.0.0-beta.1** mit **PHP 8.4 oder 8.5**.
+Die genaue Beta-Version ist in `composer.json` festgelegt; `composer.lock` gehört
+zum Repository und hält die installierten PHP-Abhängigkeiten reproduzierbar.
+`package.json` verwaltet die Frontend-Bibliotheken, nicht Kirby.
+
+Nach dem Checkout bzw. Update:
+
+```console
+composer install
+composer check-platform-reqs
+php scripts/check-kirby.php --content --render
+```
+
+Der Check prüft PHP-Syntax, alle Blueprint-YAML-Dateien, das Laden der Seiten- und
+Site-Blueprints, bestehende YAML-Listen in Inhalten und ausgewählte Seitenaufrufe
+inklusive Sitemap und Panel-Weiterleitung. Ohne `--render` werden keine Seiten
+aufgerufen. Beim Rendern können wie bei normalen Seitenaufrufen Cache- und
+Mediendateien entstehen. Der Check ersetzt keine Prüfung der Panel-Bedienung.
+
+Die vorhandenen Inhalte verwenden vorerst weiterhin `yaml.handler: spyc` (in der
+PHP-Konfiguration als `'yaml.handler' => 'spyc'`). Der Vergleich der Parser fand
+in 50 von 320 YAML-Inhaltsfeldern Unterschiede, unter anderem bei unquotierten
+Datumswerten. Eine Umstellung auf den neuen Symfony-Parser erfolgt deshalb
+separat mit einer gesicherten Inhaltskopie. Die Blueprints sind bereits für
+striktes Symfony-YAML bereinigt. Bestehende Sections konvertiert Kirby 6 beim
+Laden; entfernte Presets sind durch explizite Listenfelder ersetzt.
+
+### Vor dem Produktivstart im Dezember 2026
+
+Die Beta nur lokal oder auf Staging mit einer Kopie von `content/` verwenden.
+Beta-Inhalte nicht zurück auf die Kirby-5-Produktionsseite synchronisieren.
+Vor jedem weiteren Update die Release- und Migrationshinweise erneut prüfen.
+
+- Auf eine dann verfügbare stabile Kirby-6-Version wechseln und `composer.lock`
+  mit aktualisieren; eine stabile Veröffentlichung im Dezember ist keine Zusage.
+- Vollständiges Backup inklusive Inhalt, Accounts und Konfiguration erstellen.
+- Login mit allen verwendeten Rollen, zweitem Faktor, Berechtigungen, Uploads,
+  Blocks und Live-Vorschau im Browser prüfen. Der Frontend-Login übergibt eine
+  erforderliche zweite Authentifizierungsstufe an das Panel.
+- Eigenes Panel-CSS visuell prüfen; das Panel benötigt aktuelle Browser
+  (Chrome/Edge 124+, Firefox 125+ oder Safari 17.5+).
+- Auf Produktion `debug: false` beibehalten und nach dem Deployment Frontend,
+  Sitemap, Feeds, Suche, Kalender und Notfallmodus prüfen.
+- Falls auf dem Server zusätzliche, hier nicht vorhandene Plugins installiert
+  sind, deren Kirby-6-/Vue-3-Kompatibilität vor dem Wechsel prüfen.
+
+Bekannter offener Punkt: `site/blueprints/blocks/tabelle.yml` verwendet das
+Plugin-Feld `type: table`. Das zugehörige Plugin ist in diesem Checkout nicht
+installiert. Vor der Bearbeitung solcher Tabellen-Blöcke muss eine mit Kirby 6
+kompatible Lösung installiert bzw. der Block samt vorhandenen Daten migriert
+werden. Die automatischen Checks validieren YAML und Seiten-/Site-Blueprints,
+prüfen aber nicht sämtliche verschachtelten Block-Formulare im Panel.
+
+Offizielle Hinweise: [Installation und Anforderungen](https://getkirby.com/releases/6/migration),
+[Migration für Seitenentwickler](https://getkirby.com/releases/6/migration/site-developers).
+
 ## Welche Software muss vorher installiert werden?
 
 - [composer](https://getcomposer.org/download/)
@@ -78,7 +136,7 @@ Ich verwende [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/).
 
 ## PHP (muss eigentlich nicht direkt installiert werden, kommt mit dem Webserver)
 
-Kirby setzt technisch gesehen PHP 8.2 voraus, wir verwenden aber mindestens PHP 8.4. Die echte Homepage läuft auf PHP 8.4.
+Kirby 6 setzt technisch gesehen PHP 8.3 voraus, wir verwenden aber mindestens PHP 8.4. Die echte Homepage läuft auf PHP 8.4.
 
 Man muss PHP aber nicht direkt installieren, denn PHP kommt als Teil vom Wamp64 mit.
 

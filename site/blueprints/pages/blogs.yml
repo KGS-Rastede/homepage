@@ -3,7 +3,7 @@ num: '{{ page.date.toDate("YmdHi") }}'
 icon: 📖
 
 options:
-  *: true
+  '*': true
 
 
 sections:

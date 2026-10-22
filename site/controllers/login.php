@@ -12,7 +12,12 @@ return function ($kirby) {
     if ($kirby->request()->is('POST') && get('login')) {
         // try to log the user in with the provided credentials
         try {
-            $kirby->auth()->login(get('email'), get('password'));
+            $status = $kirby->auth()->authenticate('password', get('email'), get('password'));
+
+            // Das Panel führt eine gegebenenfalls nötige zweite Anmeldung durch.
+            if ($status instanceof \Kirby\Auth\Status && $status->is(\Kirby\Auth\State::Pending)) {
+                go($kirby->url('panel'));
+            }
 
             // redirect to the homepage if the login was successful
             go('/');

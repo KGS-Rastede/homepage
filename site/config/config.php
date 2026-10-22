@@ -3,6 +3,10 @@
 $secrets = file_exists(__DIR__ . '/secrets.php') ? include __DIR__ . '/secrets.php' : [];
 
 return array_merge($secrets, [
+    // Bestehende Kirby-5-Inhalte enthalten u.a. unquotierte Datumswerte.
+    // Spyc bis zur separaten Inhaltsmigration beibehalten, damit Typen gleich bleiben.
+    'yaml.handler' => 'spyc',
+
     // Damit bei Fehlern der Debugger angeht
     // https://getkirby.com/docs/cookbook/setup/debugging-basics
 

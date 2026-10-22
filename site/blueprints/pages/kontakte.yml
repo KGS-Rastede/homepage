@@ -1,8 +1,21 @@
-titel: Kontakte mit Bild
-preset: pages
+title: Kontakte mit Bild
 icon: user
-templates: kontakt
 
-unlisted:
-  headline: Kontaktdaten
-  info: 'Postion: {{page.position}} Kürzel: {{page.heading}}'
+fields:
+  drafts:
+    label: Entwürfe
+    type: pagelist
+    status: drafts
+    templates: kontakt
+  unlisted:
+    type: pagelist
+    status: unlisted
+    templates: kontakt
+    label: Kontaktdaten
+    info: 'Postion: {{page.position}} Kürzel: {{page.heading}}'
+
+  listed:
+    label: Veröffentlichte Seiten
+    type: pagelist
+    status: listed
+    templates: kontakt

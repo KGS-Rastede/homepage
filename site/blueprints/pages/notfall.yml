@@ -4,10 +4,8 @@ icon: alert
 
 options:
   update:
-    *: false
+    '*': false
     admin: true
-
-sections:
 
 sections:
   knoepfe:

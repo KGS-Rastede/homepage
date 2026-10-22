@@ -1,6 +1,17 @@
 title: Allgemeines (Allgemeine Informationen)
-preset: pages
 icon: 📜
 
-unlisted:
-  headline: Unterseiten
+fields:
+  drafts:
+    label: Entwürfe
+    type: pagelist
+    status: drafts
+  unlisted:
+    type: pagelist
+    status: unlisted
+    label: Unterseiten
+
+  listed:
+    label: Veröffentlichte Seiten
+    type: pagelist
+    status: listed

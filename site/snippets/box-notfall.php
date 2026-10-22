@@ -3,7 +3,7 @@
     An besonderen Tagen (Schneefrei, Heizungsbruch, ...) soll ganz schnell
     ein Banner angezeigt werden, damit die Eltern schnell informiert werden können
 */
-if (page('wichtige-informationen')->toggle()->bool() === true): ?>
+if (page('wichtige-informationen')?->toggle()->toBool() === true): ?>
 
 
 

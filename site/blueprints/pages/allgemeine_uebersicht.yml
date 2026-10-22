@@ -1,13 +1,13 @@
 title: Allgemeine Übersicht 
 options:
   update:
-    *: false
+    '*': false
     admin: true
   pages:
-    *: false
+    '*': false
     admin: true
   files:
-    *: false
+    '*': false
     admin: true
 
 

@@ -2,7 +2,7 @@ title: Schulradeln-Seite
 
 options:
   update:
-    *: false
+    '*': false
     Fachleiter: true
     admin: true
 

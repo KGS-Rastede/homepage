@@ -1,12 +1,21 @@
 title: Zeitraster
 options:
   update:
-    *: false
+    '*': false
 
-preset: page
 fields:
   text:
     label: Inhalt für die Homepage
     type: blocks
     size: large
 
+
+  pages:
+    label: Unterseiten
+    type: pagelist
+    status: all
+    width: 1/2
+  files:
+    label: Dateien
+    type: filelist
+    width: 1/2

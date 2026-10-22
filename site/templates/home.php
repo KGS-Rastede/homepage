@@ -5,7 +5,7 @@
 
 
 <?php if (
-  page('wichtige-informationen')->togglenotfall()->toggle()->bool() === true
+  page('wichtige-informationen')?->togglenotfall()->toBool() === true
 ): ?>
   <!-- Alert nach Tailkit a-c-alerts-06 (Danger) -->
   <div class="mx-4 xl:mx-20 2xl:mx-40 my-6 flex items-start gap-4 rounded-xl border border-rose-200 bg-rose-50 p-6 md:p-8 dark:border-rose-900/50 dark:bg-rose-950/25 dark:text-slate-100">
