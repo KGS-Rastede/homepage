@@ -34,6 +34,9 @@ permissions:
     changePassword: true
     changeRole: false
     delete: false
-    update: false
+    update: true
   users:
     '*': false
+
+fields:
+  lesezeichen: fields/lesezeichen

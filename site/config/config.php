@@ -72,7 +72,7 @@ return array_merge($secrets, [
         'menu' => function () {
             $role = kirby()->user()?->role()->id() ?? 'nobody';
 
-            return match ($role) {
+            $menu = match ($role) {
                 'blogger' => [
                     'blogs' => [
                         'label' => 'Blogs',
@@ -162,6 +162,15 @@ return array_merge($secrets, [
                     ],
                 ],
             };
+
+            // Persönliche Lesezeichen (im eigenen Konto) für alle Rollen
+            $menu['lesezeichen'] = [
+                'label' => 'Lesezeichen',
+                'link'  => 'account',
+                'icon'  => 'bookmark',
+            ];
+
+            return $menu;
         },
     ],
 

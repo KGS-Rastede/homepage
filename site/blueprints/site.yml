@@ -31,12 +31,3 @@ tabs:
             rows: 3
             help: Wird auf allen Seiten verwendet, die keine eigene Meta-Beschreibung haben
 
-  # Lesezeichen
-  bookmark:
-    label: Lesezeichen
-    icon: bookmark
-    sections:
-      seiten:
-        type: fields
-        fields:
-          pages:
