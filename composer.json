@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "php": ">=8.4",
+    "php": ">=8.5",
     "getkirby/cms": "^5"
   },
   "minimum-stability": "stable",

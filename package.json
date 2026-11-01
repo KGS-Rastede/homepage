@@ -28,7 +28,7 @@
     "farben": "node scripts/farbanalyse.js"
   },
   "devDependencies": {
-    "@prettier/plugin-php": "^0.25.0",
+    "@prettier/plugin-php": "^0.26.0",
     "@tailwindcss/cli": "4.3",
     "@tailwindcss/typography": "^0.5.20",
     "fast-glob": "^3.3.3",
