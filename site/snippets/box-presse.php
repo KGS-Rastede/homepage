@@ -9,8 +9,7 @@
   <nav class="divide-y divide-slate-200 dark:divide-slate-700">
     <?php
     $items = page('schule/presse')
-      ->pressenachrichten()
-      ->toStructure()
+      ->allePressenachrichten()
       ->sortBy('datum')
       ->flip()
       ->limit(6);

@@ -1,0 +1,58 @@
+title: Presse (Jahr)
+icon: book
+
+# Jahresseiten sind unsichtbar (unlisted) und werden von der Seite
+# "Presse" eingesammelt, siehe site/models/presse.php
+create:
+  title:
+    label: Jahr
+  status: unlisted
+  redirect: true
+
+options:
+  update:
+    '*': false
+    schulleitung: true
+    admin: true
+  changeStatus: false
+
+
+fields:
+  pressenachrichten:
+    type: structure
+    sortBy: datum desc
+    columns:
+      link:
+        width: 1/10
+      name:
+        width: 4/10
+      anfang:
+        width: 3/10
+      datum:
+        width: 1/10
+      medium:
+        width: 1/10
+    fields:
+      link:
+        label: Link (URL)
+        type: url
+      name:
+        label: Bezeichnung des Links
+        type: text
+      anfang:
+        label: Anriss
+        type: text
+      datum:
+        label: Datum
+        type: date
+        required: true
+      medium:
+        label: Medium
+        type: select
+        required: true
+        options:
+          nwz: NWZ
+          rastederrundschau: Rasteder Rundschau
+          youtube: YouTube
+          gemeinde: Gemeinde Rastede
+          sonstiges: Sonstige Medien

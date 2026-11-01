@@ -5,8 +5,8 @@ slot();
 <div class="grid grid-cols-1 mb-8 gap-x-8 gap-y-16 pt-10 border-slate-200 lg:grid-cols-4">
 
   <?php
-  // `toStructure()` erzeugt einen Iterator fuer die URLs
-  $items = $page->pressenachrichten()->toStructure()->sortBy('datum')->flip();
+  // Meldungen aller Jahresseiten, siehe site/models/presse.php
+  $items = $page->allePressenachrichten()->sortBy('datum')->flip();
 
   $list = $items->paginate(12);
 
