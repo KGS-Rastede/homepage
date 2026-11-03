@@ -6,6 +6,18 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/ammerland/jubilaeum-in-rastede-kgs-feiert-50-jaehriges-bestehen_a_4,3,1606641642.html
+  name: >
+    KGS Rastede feiert Jubiläum mit
+    ehemaligen Schulleitern
+  anfang: >
+    Die KGS Rastede ist 50 Jahre alt. Das
+    Jubiläum wurde nun mit einem Festakt
+    gefeiert.
+  datum: 2026-08-28
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/ammerland/ksg-rastede-feiert-50-jaehriges-jubilaeum_a_4,3,1513138804.html
   name: >
     Wie die KGS Rastede in 50 Jahren zum
@@ -6963,15 +6975,19 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/ammerland/jubilaeum-in-rastede-kgs-feiert-50-jaehriges-bestehen_a_4,3,1606641642.html
+    https://www.nwzonline.de/ammerland/ns-zeit-in-rastede-themenabend-an-kgs-zieht-200-besucher-an_a_4,3,2051046279.html
   name: >
-    KGS Rastede feiert Jubiläum mit
-    ehemaligen Schulleitern
+    Dokumente aus der Zeit des Dritten
+    Reichs fehlen – Gemeinde sucht
+    Zeugnisse
   anfang: >
-    Die KGS Rastede ist 50 Jahre alt. Das
-    Jubiläum wurde nun mit einem Festakt
-    gefeiert.
-  datum: 2026-08-28
+    In Rastede fand ein großer Themenabend
+    zur NS-Zeit in der Gemeinde statt. Dabei
+    wurde immer wieder deutlich, dass es
+    kaum Dokumente oder Zeugnisse aus dieser
+    Zeit gibt. Jetzt soll die Bevölkerung
+    helfen.
+  datum: 2026-10-09
   medium: nwz
 
 ----
