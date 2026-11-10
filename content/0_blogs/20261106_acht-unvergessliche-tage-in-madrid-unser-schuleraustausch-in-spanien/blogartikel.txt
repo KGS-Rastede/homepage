@@ -1,0 +1,37 @@
+Title: Acht unvergessliche Tage in Madrid – unser Schüleraustausch in Spanien
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Acht ereignisreiche Tage liegen hinter uns! Im Rahmen unseres Schüleraustauschs durften wir die spanische Hauptstadt Madrid kennenlernen und viele besondere Eindrücke sammeln.<br>Schon bei unserer Ankunft wurden wir am Flughafen herzlich empfangen. Mit kleinen Geschenken bereiteten uns unsere spanischen Gastgeber einen besonders schönen Empfang und sorgten dafür, dass wir uns von Anfang an willkommen fühlten.<br>Während unseres Aufenthalts blieb es in Spanien allerdings nicht ganz ruhig. Ein schweres Zugunglück und verschiedene Streiks, unter anderem an Schulen, bei denen es um Verbesserungen im Bildungssystem ging, sorgten für Unruhe im Land. Trotz dieser außergewöhnlichen Umstände ließen wir uns die gute Stimmung nicht nehmen und hatten eine tolle gemeinsame Zeit.<br>Natürlich durfte auch die Erkundung Madrids nicht fehlen. Wir besichtigten die beeindruckende spanische Metropole, entdeckten ihre prächtigen Bauwerke und weitläufigen Plätze und konnten so einen Eindruck von der Geschichte und dem besonderen Flair der Stadt gewinnen. Ein besonderes Highlight war unser Besuch im berühmten Museum Reina Sofía. Dort standen wir vor Pablo Picassos weltbekanntem Gemälde Guernica und beschäftigten uns auch mit der deutschen Geschichte dazu.<br>Ein weiterer Höhepunkt unserer Reise war der gemeinsame Ausflug nach Alcalá de Henares. Dort besuchten wir die wunderschöne historische Universität, an der einst auch der berühmte spanische Schriftsteller Miguel de Cervantes studierte. Gemeinsam mit unseren spanischen Austauschschülerinnen und -schülern konnten wir die Stadt erkunden, miteinander ins Gespräch kommen und uns noch besser kennenlernen. Gerade diese gemeinsamen Erlebnisse haben unseren Austausch zu etwas ganz Besonderem gemacht.<br>Nun heißt es leider schon wieder Abschied nehmen. Wir blicken auf acht spannende Tage voller neuer Eindrücke, interessanter Begegnungen und gemeinsamer Erlebnisse zurück. Neben vielen kulturellen und historischen Erfahrungen nehmen wir vor allem neue Freundschaften und schöne Erinnerungen mit nach Hause.<br>Wir bedanken uns herzlich bei unseren spanischen Gastgebern für die wunderbare Aufnahme und freuen uns schon sehr darauf, sie bald bei uns in Deutschland begrüßen zu dürfen!</p>"},"id":"990b3307-0b64-4f10-b4e6-cfb430f5fa59","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://pvcdn7qoqnhy9rmu"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"e1bbe57d-2d8a-4a96-abed-6ba4420d7428","isHidden":false,"type":"image"}],"id":"69994369-2171-42da-87be-61b1f0507d49","width":"1/1"}],"id":"4a004639-06da-422d-b33d-b09fe5470e3b"}]
+
+----
+
+Date: 2026-11-06 12:50:00
+
+----
+
+Datumstartseite: 2027-03-06 12:50:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Hilal Baumgarten
+
+----
+
+Tags: Austausch, Spanisch, Fremdsprachen
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: l9olkwujrecyjfpi

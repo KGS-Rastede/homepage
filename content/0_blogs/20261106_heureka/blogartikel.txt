@@ -1,0 +1,37 @@
+Title: Heureka!
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Köpfchen einschalten: Über 300 Schülerinnen und Schüler beim HEUREKA!-Wettbewerb an der KGS Rastede </p><p>Warum fressen Eisbären in freier Wildbahn eigentlich keine Pinguine? Weil Pinguinfleisch giftig ist, die Vögel zu schnell wegschwimmen oder schlicht deshalb, weil sich beide in der Natur niemals über den Weg laufen?&nbsp;  </p><p>Wer die richtige Antwort parat hat (sie leben schließlich an entgegengesetzten Polen), ist beim naturwissenschaftlichen HEUREKA!-Wettbewerb genau richtig. In diesen Tagen stellen an der KGS Rastede über 300 Schülerinnen und Schüler ihr Wissen rund um Mensch, Natur und Technik unter Beweis.&nbsp;  </p><p>Den Auftakt machten am 03.11.2026 die Jahrgänge 5, 7 und 8 im Hörsaal. In konzentrierter Atmosphäre stellten sich die Jugendlichen kniffligen Multiple-Choice-Fragen, die weit über das klassische Schulbuchwissen hinausgehen und echtes Allgemeinwissen fordern. Wir drücken allen teilnehmenden Forschergeistern der KGS Rastede fest die Daumen für tolle Ergebnisse und spannende Platzierungen!</p>"},"id":"cbe98428-44c2-4e91-ac81-287ef22456b0","isHidden":false,"type":"text"}],"id":"882baced-ee84-490b-81f6-d9432f1b5221","width":"1/1"}],"id":"2ce6281e-3645-4013-953f-ef5142ad48c0"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://smrbtigymosunlkj"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"dadcbf99-4e89-42ef-a42b-d3be819de921","isHidden":false,"type":"image"}],"id":"5aabd4ad-e5d5-4d6f-bcc4-3d7d8a9536db","width":"1/1"}],"id":"d5fd0fbb-a6ad-4cb0-ab6f-93ea57eef4dd"}]
+
+----
+
+Date: 2026-11-06 13:20:00
+
+----
+
+Datumstartseite: 2027-03-06 13:20:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Gerd Breuker
+
+----
+
+Tags: Wettbewerb, NTW
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: xnov2lqat5pucr5k

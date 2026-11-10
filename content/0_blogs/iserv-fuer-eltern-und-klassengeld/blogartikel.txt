@@ -1,0 +1,33 @@
+Title: IServ für Eltern und Klassengeld
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Information für Eltern: Nutzung des IServ‑Elternmoduls"},"id":"17875711-b597-4672-810f-f6be49eff1a1","isHidden":false,"type":"heading"}],"id":"ce6fec22-9731-4f0c-b1f4-83ec4d77b461","width":"1/1"}],"id":"6905f3b9-11d0-4c7e-ada8-64e2f01e4334"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Unsere Schule nutzt das IServ‑Elternmodul, um die Kommunikation mit Eltern und Erziehungsberechtigten zuverlässig und sicher zu gestalten.<br>Damit Sie alle wichtigen Informationen erhalten, ist es notwendig, dass Sie sich einen eigenen Elternzugang in IServ einrichten.</p><p><strong>Warum ist ein IServ‑Elternaccount wichtig?</strong></p><p>Über das Elternmodul werden unter anderem folgende Informationen und Dokumente digital bereitgestellt:</p><p>- Elternbriefe und wichtige Mitteilungen</p><p>- Zahlungsanforderungen für Klassenfahrten und Tagesausflüge</p><p>- Weitere organisatorische Hinweise</p><p><strong>Einrichtung des Elternzugangs</strong></p><p>Ausführliche Informationen zum Elternaccounts und dessen Einrichtung finden Sie in unserem Schul‑Wiki:</p><p>👉 <a href=\"https://wiki.kgs-rastede.de/de/eltern/iservzugang_eltern\"><strong>https://wiki.kgs-rastede.de/de/eltern/iservzugang_eltern</strong></a></p><p>Bitte richten Sie den Zugang zeitnah ein, damit Sie keine wichtigen Informationen verpassen.</p>"},"id":"9ae5cd4e-b9a2-414c-ae12-a85be93cd72e","isHidden":false,"type":"text"}],"id":"93d076b8-8b54-420b-85ba-9df945067215","width":"1/1"}],"id":"efa28b36-28d1-4f0f-863d-53866c5bea84"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Klassengeld – Digitale Verwaltung von Zahlungen an unserer Schule"},"id":"2ca87f50-31eb-4df5-ab05-0dacc01ffd0c","isHidden":false,"type":"heading"}],"id":"ffe68faf-ef09-4b4a-8478-d50fc83e32d9","width":"1/1"}],"id":"260afc7a-2563-4d33-9c97-f8ec3b0dfa10"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Unsere Schule arbeitet mit Klassengeld (<a href=\"https://klassengeld.de/\">https://klassengeld.de/</a>), einem Modul innerhalb von IServ, das die gesamten Verwaltungsaufgaben rund um das Thema „Geld einsammeln“ digital unterstützt und deutlich vereinfacht.</p><p>Durch Klassengeld können Zahlungen für schulische Aktivitäten transparent, sicher und automatisiert organisiert werden – z. B.:</p><p>- Klassenfahrten</p><p>- Tagesausflüge</p><p>- Projekte und Materialien</p><p>- Büchergeld (z.B. Lektüre für den Deutsch- oder Englischunterricht, Abiturvorbereitungen, etc.)</p><p>- Weitere schulische Kostenstellen</p><p>Zugang für Eltern</p><p>Die Registrierung sowie der Zugriff auf Klassengeld erfolgen direkt über den IServ‑Elternaccount.</p><p>Nur mit diesem Zugang können Eltern Zahlungsaufforderungen empfangen und Beträge online einsehen.</p><p>Falls Sie noch keinen Elternzugang eingerichtet haben, finden Sie Informationen dazu hier:</p><p>👉 IServ‑Elternaccount: <a href=\"https://wiki.kgs-rastede.de/de/eltern/iservzugang_eltern\">https://wiki.kgs-rastede.de/de/eltern/iservzugang_eltern</a></p><p>Weitere Informationen zu Klassengeld</p><p>Eine ausführliche Beschreibung des Moduls sowie Hinweise zur Nutzung finden Sie in unserem Schul‑Wiki:</p><p>👉 Klassengeld im Schul‑Wiki: <a href=\"https://wiki.kgs-rastede.de/de/eltern/klassengeld\">https://wiki.kgs-rastede.de/de/eltern/klassengeld</a></p><p>Sowie auch hier auf der Homepage:</p><p>👉<a href=\"https://kgs-rastede.de/blogs/klassengeld-schule-ohne-bargeld\">https://kgs-rastede.de/blogs/klassengeld-schule-ohne-bargeld</a></p><p></p>"},"id":"e328ba3f-8bc8-4f17-92e3-fbb951256d0b","isHidden":false,"type":"text"}],"id":"8265d845-a94a-4440-aad6-4c8c394ac76c","width":"1/1"}],"id":"71bb2d35-30a7-4a12-8e6d-fca3a3293581"}]
+
+----
+
+Date: 2026-02-18 11:25:00
+
+----
+
+Datumstartseite: 2026-06-18 11:25:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: jjykwmoqpgsw7no2

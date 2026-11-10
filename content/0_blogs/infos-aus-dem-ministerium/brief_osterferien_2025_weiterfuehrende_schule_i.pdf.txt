@@ -1,0 +1,13 @@
+Anzeigename: 
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: gtv0bxlw18sxdr91
+
+----
+
+Template: datei

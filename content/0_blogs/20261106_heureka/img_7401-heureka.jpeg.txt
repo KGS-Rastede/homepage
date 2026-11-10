@@ -1,0 +1,9 @@
+Beschreibung: 
+
+----
+
+Uuid: smrbtigymosunlkj
+
+----
+
+Template: blocks/image

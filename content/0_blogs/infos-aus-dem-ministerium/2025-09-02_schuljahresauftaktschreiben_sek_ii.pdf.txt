@@ -1,0 +1,13 @@
+Anzeigename: 
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: rafzy2zuwizavdvb
+
+----
+
+Template: datei
