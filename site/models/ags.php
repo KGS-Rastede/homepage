@@ -89,31 +89,42 @@ class AgsPage extends Page
 
     private function fetchStudyGroupsData()
     {
+        // Ohne Konfiguration (z. B. lokal ohne secrets.php) gar nicht erst anfragen.
+        if (empty($this->apiEndpointUri()) || empty($this->apiKey())) {
+            return $this->fallbackStudyGroupsData();
+        }
+
         try {
             $request = Remote::get(
-                $this->apiEndpointUri() . '?token=' . $this->apiKey(),
+                $this->apiEndpointUri() . '?token=' . urlencode($this->apiKey()),
             );
 
             if ($request->code() === 200) {
                 $data = $request->json(true);
 
-                $this->updateStudyGroupsDataCache($data);
-
-                return $data;
+                if (is_array($data) && isset($data['study_groups'])) {
+                    $this->updateStudyGroupsDataCache($data);
+                    return $data;
+                }
             }
         } catch (\Throwable $e) {
-            // Remote system unreachable or studyGroups option not configured
-            // (e.g. local development without secrets.php) — fall through to cache.
+            // Netzwerk-/Konfigurationsfehler: weiter mit Fallback
         }
 
-        // Fall back to cached data even if stale, so the whole site keeps
-        // rendering (the mega menu triggers this model on every page).
+        return $this->fallbackStudyGroupsData();
+    }
+
+    /**
+     * Veralteter Cache, falls vorhanden – sonst eine leere AG-Liste.
+     */
+    private function fallbackStudyGroupsData()
+    {
         if ($this->hasCachedStudyGroupsData()) {
             return $this->readCachedStudyGroupsData();
         }
 
         return [
-            'study_groups' => [],
+            'study_groups'      => [],
             'current_term_year' => '',
         ];
     }
