@@ -25,7 +25,9 @@
     "build:prod": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/twkgs_shrinked.min.css -m",
     "format": "prettier ./site --write",
     "format:check": "prettier ./site --check",
-    "farben": "node scripts/farbanalyse.js"
+    "farben": "node scripts/farbanalyse.js",
+    "pull-blog": "lftp -u p8102927-kirby sftp://home33042222.1and1-data.host -e \"mirror --verbose content/0_blogs content/0_blogs; quit\"",
+    "pull-presse": "lftp -u p8102927-kirby sftp://home33042222.1and1-data.host -e \"set xfer:clobber on; get content/schule/presse/presse.txt -o content/schule/presse/presse.txt; quit\""
   },
   "devDependencies": {
     "@prettier/plugin-php": "^0.26.0",
