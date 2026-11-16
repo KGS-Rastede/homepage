@@ -33,11 +33,10 @@ unter <https://getkirby.com/releases/6>.
 - [ ] Beim Umstieg prüfen, ob die Selektoren in `custom-panel.css` noch
       greifen: `.k-tabs`, `.k-header`, `.k-login-view` (Login ist in Kirby 6
       neu gebaut), `.k-icon-key`.
-- [ ] **Rollen nur an einer Stelle pflegen:** `panel.home`, `panel.menu`
-      und `kgs.bereichsrechte` in `config.php` führen dieselben Rollen und
-      Bereiche dreimal. Besser alles aus einer Struktur ableiten, z. B.
-      Bereiche plus Startseite plus Menüpunkte pro Rolle. Das verringert
-      außerdem den Aufwand, falls sich `panel.menu` in Kirby 6 ändert.
+- [x] **Rollen nur an einer Stelle pflegen:** `panel.home` und
+      `panel.menu` werden aus `kgs.bereichsrechte` abgeleitet (erster
+      Bereich = Startseite, Reihenfolge = Menü). Bezeichnung und Icon stehen
+      einmal pro Bereich in `kgs.bereiche`.
 - [ ] **Smoke-Test-Skript** (`scripts/kirby6/smoke-test.php`): alle Seiten
       lokal rendern und Exceptions oder Statuscodes ungleich 200 melden.
       Damit lässt sich jetzt ein Referenzstand festhalten und nach dem
