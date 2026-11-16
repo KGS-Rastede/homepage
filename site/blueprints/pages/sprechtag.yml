@@ -12,4 +12,13 @@ sections:
     fields:
       hinweis:
         type: info
-        text: "Die URL für Info-Monitore lautet: <code>/sprechtag</code>. Die anzuzeigende HTML-Datei (z.B. <code>esp.html</code>) per FTP in den Ordner <code>content/sprechtag/</code> hochladen. Liegen mehrere HTML-Dateien dort, wird die neueste angezeigt."
+        text: "Aktive Ansicht mit Suche: <code>/sprechtag</code>. Monitoransicht ohne Suche: <code>/sprechtag?ansicht=monitor</code>. CSV-Datei mit den Spalten <code>Kürzel;Anrede;Nachname;Raum</code> hochladen, auswählen und speichern. Ohne Auswahl wird <code>sprechtagdaten.csv</code> verwendet."
+      sprechtagDatum:
+        label: Datum des Sprechtags (optional, für die Monitoransicht)
+        type: date
+      csvDatei:
+        label: Sprechtag-Daten (CSV)
+        type: files
+        multiple: false
+        query: page.files.filterBy('extension', 'csv')
+        uploads: sprechtag
