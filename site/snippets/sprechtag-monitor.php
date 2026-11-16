@@ -15,12 +15,12 @@ $spalten = $lehrkraefte ? array_chunk($lehrkraefte, (int)ceil(count($lehrkraefte
     <h1 class="text-[clamp(16px,2.35vw,48px)] font-medium">Schüler:innen- und Elternsprechtag</h1>
     <p class="text-[clamp(12px,1.5vw,30px)] text-gray-600">· Raumplan<?php if ($page->sprechtagDatum()->isNotEmpty()): ?> · <?= esc($page->sprechtagDatum()->toDate('d.m.Y')) ?><?php endif ?></p>
   </header>
-  <main class="grid min-h-0 flex-1 grid-cols-3 gap-[1.25vw]">
+  <main class="grid min-h-0 flex-1 grid-cols-3 grid-rows-[minmax(0,1fr)] gap-[1.25vw]">
   <?php if ($fehler !== null || !$lehrkraefte): ?>
     <p class="col-span-full text-[2vw]" role="status"><?= esc($fehler ?? 'Aktuell sind keine Raumdaten hinterlegt.') ?></p>
   <?php else: ?>
     <?php foreach ($spalten as $index => $spalte): ?>
-      <div class="min-w-0 border-t-4 border-kgs-blue">
+      <div class="min-h-0 min-w-0 overflow-hidden border-t-4 border-kgs-blue">
         <table class="w-full table-fixed border-collapse text-[length:inherit]">
           <caption class="sr-only">Raumplan · Spalte <?= $index + 1 ?> · Kürzel, Anrede, Nachname, Raum</caption>
           <colgroup><col class="w-[14%]"><col class="w-[16%]"><col class="w-[48%]"><col class="w-[22%]"></colgroup>
@@ -44,6 +44,8 @@ $spalten = $lehrkraefte ? array_chunk($lehrkraefte, (int)ceil(count($lehrkraefte
     const main = document.querySelector('main');
     const header = document.querySelector('header');
     const tables = Array.from(document.querySelectorAll('table'));
+    const cells = tables.flatMap(table => Array.from(table.querySelectorAll('td')));
+    const range = document.createRange();
     function fit() {
       header.style.fontSize = '';
       header.style.zoom = '1';
@@ -52,20 +54,26 @@ $spalten = $lehrkraefte ? array_chunk($lehrkraefte, (int)ceil(count($lehrkraefte
       }
       let low = 1;
       let high = 64;
+      const availableHeight = main.getBoundingClientRect().height - 4;
       for (let step = 0; step < 12; step++) {
         const size = (low + high) / 2;
-        main.style.fontSize = size + 'px';
-        const fits = tables.every(table =>
-          table.getBoundingClientRect().height <= table.parentElement.clientHeight &&
-          Array.from(table.querySelectorAll('td')).every(cell => cell.scrollWidth <= cell.clientWidth)
-        );
+        // Direkt auf die Tabellen anwenden, unabhängig von geerbten Schriftgrößen.
+        tables.forEach(table => { table.style.fontSize = size + 'px'; });
+        const fits = tables.every(table => table.getBoundingClientRect().height <= availableHeight) &&
+          cells.every(cell => {
+            range.selectNodeContents(cell);
+            const style = getComputedStyle(cell);
+            const availableWidth = cell.getBoundingClientRect().width - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight);
+            return range.getBoundingClientRect().width <= availableWidth;
+          });
         if (fits) low = size;
         else high = size;
       }
-      main.style.fontSize = low + 'px';
+      tables.forEach(table => { table.style.fontSize = low + 'px'; });
     }
     fit();
     window.addEventListener('resize', fit);
+    window.addEventListener('load', fit);
     if (document.fonts) document.fonts.ready.then(fit);
   </script>
 </body>
