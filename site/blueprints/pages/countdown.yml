@@ -8,11 +8,11 @@ options:
   changeTemplate: false
   duplicate: false
   read:
-    *: false
+    '*': false
     admin: true
     schulleitung: true
   update:
-    *: false
+    '*': false
     admin: true
     schulleitung: true
 

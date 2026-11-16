@@ -2,7 +2,7 @@ title: Standardseite
 
 options:
   update:
-    *: false
+    '*': false
     fachleiter: true
     hfp: true
     nilepe: true
