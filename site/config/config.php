@@ -200,9 +200,18 @@ return array_merge($secrets, [
         ],
     ],
 
-    // Seitenbasierter Zugriffschutz für eingeschränkte Rollen.
-    // Gilt für Panel-View-Routen (panel/pages/…) UND für API-Routen,
-    // die das Vue-SPA bei interner Navigation nutzt (api/pages/…).
+    // Bereichsrechte: eingeschränkte Rollen sehen und bearbeiten im Panel
+    // nur diese Teilbäume (Seiten-IDs, Groß-/Kleinschreibung egal).
+    // Rollen ohne Eintrag (z. B. admin) sind nicht eingeschränkt.
+    // Umsetzung: site/plugins/bereichsrechte
+    'kgs.bereichsrechte' => [
+        'blogger'      => ['blogs'],
+        'fachleiter'   => ['blogs', 'Faecher'],
+        'hfp'          => ['unterricht/herausforderungsprojekt'],
+        'nilepe'       => ['blogs', 'beratungskonzept', 'unterricht'],
+        'schulleitung' => ['blogs', 'unterricht', 'sv', 'Faecher', 'schule'],
+    ],
+
     'hooks' => [
         // Hochgeladene Bilder auf maximale Breite verkleinern (Original wird ersetzt).
         // GIFs bleiben unangetastet, damit Animationen nicht verloren gehen.
@@ -221,83 +230,6 @@ return array_merge($secrets, [
                 'width'   => $maxWidth,
                 'quality' => option('kgs.autoresize.quality', 85),
             ]);
-        },
-
-        'route:before' => function ($route, $path, $method) {
-            $user = kirby()->user();
-            if (!$user) return;
-
-            $role = $user->role()->id();
-            if ($role === 'admin') return;
-
-            // Erlaubte Seitenwurzeln pro Rolle (Pfad-Notation mit /)
-            $allowedRoots = [
-                'blogger'    => ['blogs'],
-                'fachleiter' => ['blogs', 'Faecher'],
-                'hfp'        => ['unterricht/herausforderungsprojekt'],
-                'nilepe'        => ['blogs', 'beratungskonzept', 'unterricht'],
-                'schulleitung'  => ['blogs', 'unterricht', 'sv', 'Faecher', 'schule'],
-            ];
-
-            // Rollen ohne Seitenbeschränkung (z.B. schulleitung) → überspringen
-            if (!isset($allowedRoots[$role])) return;
-
-            $roots = $allowedRoots[$role];
-
-            // Zielseite nach unerlaubtem Zugriff
-            $panelHome = match ($role) {
-                'blogger'    => '/panel/pages/blogs',
-                'fachleiter' => '/panel/pages/blogs',
-                'hfp'        => '/panel/pages/unterricht+herausforderungsprojekt',
-                'nilepe'       => '/panel/pages/blogs',
-                'schulleitung' => '/panel/pages/schule',
-                default        => '/panel',
-            };
-
-            // Vollständige Seitenübersicht sperren
-            if ($path === 'panel/site' || str_starts_with($path, 'panel/site/')) {
-                go($panelHome);
-                return;
-            }
-
-            // Seiten-ID aus Panel- oder API-Route extrahieren
-            // Kirby kodiert verschachtelte Seiten mit + (blogs+artikel → blogs/artikel)
-            $pageId = null;
-            if (str_starts_with($path, 'panel/pages/')) {
-                $slug = explode('/', substr($path, strlen('panel/pages/')))[0];
-                $pageId = str_replace('+', '/', $slug);
-            } elseif (str_starts_with($path, 'api/pages/')) {
-                $slug = explode('/', substr($path, strlen('api/pages/')))[0];
-                $pageId = str_replace('+', '/', $slug);
-            }
-
-            if ($pageId === null || $pageId === '') return;
-
-            // Prüfen ob die Seite innerhalb der erlaubten Wurzeln liegt
-            // Vergleich case-insensitiv, da Kirby Ordnernamen ggf. großschreibt
-            $isAllowed = false;
-            $pageIdLower = strtolower($pageId);
-            foreach ($roots as $root) {
-                $rootLower = strtolower($root);
-                if ($pageIdLower === $rootLower || str_starts_with($pageIdLower, $rootLower . '/')) {
-                    $isAllowed = true;
-                    break;
-                }
-            }
-
-            if ($isAllowed) return;
-
-            if (str_starts_with($path, 'api/')) {
-                // JSON-Fehler für interne Vue-API-Anfragen
-                return new \Kirby\Http\Response(
-                    json_encode(['status' => 'error', 'code' => 403, 'message' => 'Zugriff nicht erlaubt']),
-                    'application/json',
-                    403
-                );
-            } else {
-                // Weiterleitung bei direktem URL-Aufruf
-                go($panelHome);
-            }
         },
     ],
 

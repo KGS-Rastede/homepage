@@ -36,7 +36,7 @@ class StudyGroup
  * Children are virtual pages: The information about the current study groups is fetched from the Study Group
  * Manager website as JSON data and cached locally.
  */
-class AgsPage extends Page
+class AgsPage extends \Kgs\Bereichsrechte\BereichsPage
 {
     public function children(): Pages
     {
