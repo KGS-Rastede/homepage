@@ -28,6 +28,69 @@ class Bereiche
      */
     public static function forCurrentUser(): array|null
     {
+        $roots = static::configured();
+
+        if ($roots === null) {
+            return null;
+        }
+
+        return array_map('strtolower', $roots);
+    }
+
+    /**
+     * Startseite der aktuellen Rolle im Panel (erster Bereich),
+     * oder null, wenn die Rolle nicht eingeschränkt ist.
+     */
+    public static function panelHome(): string|null
+    {
+        $roots = static::configured();
+
+        if ($roots === null || $roots === []) {
+            return null;
+        }
+
+        return static::panelPath($roots[0]);
+    }
+
+    /**
+     * Panel-Menü der aktuellen Rolle: ein Eintrag pro Bereich, in der
+     * Reihenfolge aus `kgs.bereichsrechte`. Bezeichnung und Icon kommen
+     * aus `kgs.bereiche`, sonst der Seitentitel bzw. ein Standard-Icon.
+     * null, wenn die Rolle nicht eingeschränkt ist.
+     */
+    public static function panelMenu(): array|null
+    {
+        $roots = static::configured();
+
+        if ($roots === null) {
+            return null;
+        }
+
+        $kirby = App::instance();
+        $infos = $kirby->option('kgs.bereiche', []);
+        $menu  = [];
+
+        foreach ($roots as $root) {
+            $info = $infos[$root] ?? [];
+
+            $menu[str_replace('/', '-', strtolower($root))] = [
+                'label' => $info['label'] ?? $kirby->page($root)?->title()->value() ?? $root,
+                'link'  => static::panelPath($root),
+                'icon'  => $info['icon'] ?? 'page',
+            ];
+        }
+
+        return $menu;
+    }
+
+    /**
+     * Bereiche der aktuellen Rolle so, wie sie in der Config stehen,
+     * oder null, wenn niemand eingeloggt oder die Rolle nicht eingeschränkt ist.
+     *
+     * @return string[]|null
+     */
+    protected static function configured(): array|null
+    {
         $kirby = App::instance();
         $user  = $kirby->user();
 
@@ -36,13 +99,16 @@ class Bereiche
             return null;
         }
 
-        $roots = $kirby->option('kgs.bereichsrechte', [])[$user->role()->id()] ?? null;
+        return $kirby->option('kgs.bereichsrechte', [])[$user->role()->id()] ?? null;
+    }
 
-        if ($roots === null) {
-            return null;
-        }
-
-        return array_map('strtolower', $roots);
+    /**
+     * Panel-Pfad einer Seiten-ID: Kirby schreibt Unterseiten mit +
+     * (unterricht/herausforderungsprojekt → pages/unterricht+herausforderungsprojekt).
+     */
+    protected static function panelPath(string $id): string
+    {
+        return 'pages/' . str_replace('/', '+', $id);
     }
 
     /**

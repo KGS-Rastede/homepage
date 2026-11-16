@@ -31,113 +31,27 @@ return array_merge($secrets, [
 
         'css' => 'assets/css/custom-panel.css',
 
-        // Weiterleitung nach Login je nach Rolle
-        'home' => function () {
-            $role = kirby()->user()?->role()->id() ?? 'nobody';
-            return match ($role) {
-                'blogger'    => 'pages/blogs',
-                'fachleiter' => 'pages/blogs',
-                'hfp'        => 'pages/unterricht+herausforderungsprojekt',
-                'nilepe'     => 'pages/blogs',
-                'schulleitung' => 'pages/schule',
-                default      => 'site',
-            };
-        },
+        // Startseite und Menü eingeschränkter Rollen ergeben sich aus
+        // kgs.bereichsrechte (siehe unten), alle anderen bekommen das volle Panel.
+        'home' => fn () => Kgs\Bereichsrechte\Bereiche::panelHome() ?? 'site',
 
-        'menu' => function () {
-            $role = kirby()->user()?->role()->id() ?? 'nobody';
-
-            return match ($role) {
-                'blogger' => [
-                    'blogs' => [
-                        'label' => 'Blogs',
-                        'link'  => 'pages/blogs',
-                        'icon'  => 'edit',
-                    ],
-                ],
-                'fachleiter' => [
-                    'blogs' => [
-                        'label' => 'Blogs',
-                        'link'  => 'pages/blogs',
-                        'icon'  => 'edit',
-                    ],
-                    'faecher' => [
-                        'label' => 'Fächer',
-                        'link'  => 'pages/Faecher',
-                        'icon'  => 'book',
-                    ],
-                ],
-                'hfp' => [
-                    'hfp' => [
-                        'label' => 'Herausforderungsprojekt',
-                        'link'  => 'pages/unterricht+herausforderungsprojekt',
-                        'icon'  => 'bolt',
-                    ],
-                ],
-                'nilepe' => [
-                    'blogs' => [
-                        'label' => 'Blogs',
-                        'link'  => 'pages/blogs',
-                        'icon'  => 'edit',
-                    ],
-                    'beratungskonzept' => [
-                        'label' => 'Beratungskonzept',
-                        'link'  => 'pages/beratungskonzept',
-                        'icon'  => 'heart',
-                    ],
-                    'unterricht' => [
-                        'label' => 'Unterricht',
-                        'link'  => 'pages/unterricht',
-                        'icon'  => 'tag',
-                    ],
-                ],
-                'schulleitung' => [
-                    'schule' => [
-                        'label' => 'Schule',
-                        'link'  => 'pages/schule',
-                        'icon'  => 'home',
-                    ],
-                    'blogs' => [
-                        'label' => 'Blogs',
-                        'link'  => 'pages/blogs',
-                        'icon'  => 'edit',
-                    ],
-                    'unterricht' => [
-                        'label' => 'Unterricht',
-                        'link'  => 'pages/unterricht',
-                        'icon'  => 'tag',
-                    ],
-                    'faecher' => [
-                        'label' => 'Fächer',
-                        'link'  => 'pages/Faecher',
-                        'icon'  => 'book',
-                    ],
-                    'sv' => [
-                        'label' => 'SV',
-                        'link'  => 'pages/sv',
-                        'icon'  => 'users',
-                    ],
-                ],
-                // admin und alle anderen: volles Menü
-                default => [
-                    'site',
-                    'system',
-                    'users',
-                    'languages',
-                    '-',
-                    'newblog' => [
-                        'label' => 'Neuer Blog',
-                        'link'  => 'pages/blogs',
-                        'icon'  => 'add',
-                    ],
-                    'newpress' => [
-                        'label' => 'Presseartikel',
-                        'link'  => 'pages/schule+presse',
-                        'icon'  => 'book',
-                    ],
-                ],
-            };
-        },
+        'menu' => fn () => Kgs\Bereichsrechte\Bereiche::panelMenu() ?? [
+            'site',
+            'system',
+            'users',
+            'languages',
+            '-',
+            'newblog' => [
+                'label' => 'Neuer Blog',
+                'link'  => 'pages/blogs',
+                'icon'  => 'add',
+            ],
+            'newpress' => [
+                'label' => 'Presseartikel',
+                'link'  => 'pages/schule+presse',
+                'icon'  => 'book',
+            ],
+        ],
     ],
 
     'routes' => [
@@ -168,6 +82,8 @@ return array_merge($secrets, [
 
     // Bereichsrechte: eingeschränkte Rollen sehen und bearbeiten im Panel
     // nur diese Teilbäume (Seiten-IDs, Groß-/Kleinschreibung egal).
+    // Der erste Bereich ist die Startseite der Rolle im Panel, die
+    // Reihenfolge bestimmt das Menü.
     // Rollen ohne Eintrag (z. B. admin) sind nicht eingeschränkt.
     // Umsetzung: site/plugins/bereichsrechte
     'kgs.bereichsrechte' => [
@@ -175,7 +91,18 @@ return array_merge($secrets, [
         'fachleiter'   => ['blogs', 'Faecher'],
         'hfp'          => ['unterricht/herausforderungsprojekt'],
         'nilepe'       => ['blogs', 'beratungskonzept', 'unterricht'],
-        'schulleitung' => ['blogs', 'unterricht', 'sv', 'Faecher', 'schule'],
+        'schulleitung' => ['schule', 'blogs', 'unterricht', 'Faecher', 'sv'],
+    ],
+
+    // Bezeichnung und Icon der Bereiche im Panel-Menü
+    'kgs.bereiche' => [
+        'blogs'                              => ['label' => 'Blogs',                   'icon' => 'edit'],
+        'Faecher'                            => ['label' => 'Fächer',                  'icon' => 'book'],
+        'unterricht'                         => ['label' => 'Unterricht',              'icon' => 'tag'],
+        'unterricht/herausforderungsprojekt' => ['label' => 'Herausforderungsprojekt', 'icon' => 'bolt'],
+        'beratungskonzept'                   => ['label' => 'Beratungskonzept',        'icon' => 'heart'],
+        'schule'                             => ['label' => 'Schule',                  'icon' => 'home'],
+        'sv'                                 => ['label' => 'SV',                      'icon' => 'users'],
     ],
 
     'hooks' => [
