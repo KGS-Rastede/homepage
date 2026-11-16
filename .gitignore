@@ -90,6 +90,10 @@ site/plugins/webhook-field/classes/WebhookField.php
 site/plugins/webhook-field/docs/config.md
 site/plugins/webhook-field/docs/quickstart.md
 
+# Sprechtag-Monitor: per FTP hochgeladene HTML-Exporte (Termindaten)
+# ---------------
+content/sprechtag/*.html
+
 # Cache der Studiengruppen-Bilder (AG-Angebot)
 # ---------------
 content/unterricht/ag-angebot/**/*.jpg
