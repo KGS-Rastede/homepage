@@ -1,0 +1,15 @@
+title: Sprechtag-Monitor
+
+options:
+  delete: false
+  changeSlug: false
+  changeTemplate: false
+  duplicate: false
+
+sections:
+  info:
+    type: fields
+    fields:
+      hinweis:
+        type: info
+        text: "Die URL für Info-Monitore lautet: <code>/sprechtag</code>. Die anzuzeigende HTML-Datei (z.B. <code>esp.html</code>) per FTP in den Ordner <code>content/sprechtag/</code> hochladen. Liegen mehrere HTML-Dateien dort, wird die neueste angezeigt."
