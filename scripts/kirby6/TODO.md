@@ -22,7 +22,7 @@ unter <https://getkirby.com/releases/6>.
       (`panel.slug` in `config.kgs-rastede.de.php`). Bekäme der Controller je wieder ein Template, würde
       `auth()->login()` die 2FA umgehen. In Kirby 6 bräuchte er
       `auth()->authenticate()`.
-- [ ] **Namenskollision in `pages/countdown.yml`:** Die Section `countdowns`
+- [x] **Namenskollision in `pages/countdown.yml`:** Die Section `countdowns`
       und das Feld `countdowns` haben denselben Namen. In Kirby 6 teilen sich
       Sections und Felder einen Namensraum, das ergibt eine Fehlerbox.
       Die Section umbenennen, z. B. in `liste`.

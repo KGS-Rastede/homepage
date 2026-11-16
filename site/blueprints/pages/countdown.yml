@@ -17,16 +17,12 @@ options:
     schulleitung: true
 
 sections:
-  info:
+  inhalt:
     type: fields
     fields:
       hinweis:
         type: info
         text: "Die URL für Info-Monitore lautet: <code>/countdown.json</code>"
-
-  countdowns:
-    type: fields
-    fields:
       countdowns:
         label: Countdowns
         type: structure
