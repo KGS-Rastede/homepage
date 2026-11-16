@@ -26,9 +26,13 @@ unter <https://getkirby.com/releases/6>.
       und das Feld `countdowns` haben denselben Namen. In Kirby 6 teilen sich
       Sections und Felder einen Namensraum, das ergibt eine Fehlerbox.
       Die Section umbenennen, z. B. in `liste`.
-- [ ] **Panel-CSS:** Die Variable `--color-background` in
-      `assets/css/custom-panel.css:69` gibt es in Kirby 6 nicht mehr.
-      Den Ersatz von der Migrationsseite einsetzen und `.min.css` neu bauen.
+- [x] **Panel-CSS:** `--color-background` entfernt. Kirby setzt die Variable
+      nur als Alias auf `--panel-color-back`, das Überschreiben hatte schon
+      unter Kirby 5 keine Wirkung. Die ungenutzte, veraltete
+      `custom-panel.min.css` ist gelöscht.
+- [ ] Beim Umstieg prüfen, ob die Selektoren in `custom-panel.css` noch
+      greifen: `.k-tabs`, `.k-header`, `.k-login-view` (Login ist in Kirby 6
+      neu gebaut), `.k-icon-key`.
 - [ ] **Rollen nur an einer Stelle pflegen:** `panel.home`, `panel.menu`
       und `kgs.bereichsrechte` in `config.php` führen dieselben Rollen und
       Bereiche dreimal. Besser alles aus einer Struktur ableiten, z. B.
