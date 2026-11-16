@@ -1,7 +1,17 @@
 title: Kontakte in einer Tabelle
-preset: pages
 icon: user
 
-unlisted:
-  headline: Kontaktdaten
-  info: 'Postion: {{page.position}} Kürzel: {{page.heading}}'
+sections:
+  drafts:
+    type: pages
+    label: Entwürfe
+    status: drafts
+  unlisted:
+    type: pages
+    label: Kontaktdaten
+    status: unlisted
+    info: 'Postion: {{page.position}} Kürzel: {{page.heading}}'
+  listed:
+    type: pages
+    label: Veröffentlicht
+    status: listed

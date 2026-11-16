@@ -3,8 +3,19 @@ title: KGS Rastede
 tabs:
   alles:
     label: Inhalte
-    preset: pages
-    unlisted: true
+    sections:
+      drafts:
+        type: pages
+        label: Entwürfe
+        status: drafts
+      unlisted:
+        type: pages
+        label: Ungelistet
+        status: unlisted
+      listed:
+        type: pages
+        label: Veröffentlicht
+        status: listed
 
   einstellungen:
     label: Einstellungen
