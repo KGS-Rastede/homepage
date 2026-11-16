@@ -204,49 +204,23 @@ return array_merge($secrets, [
     // Gilt für Panel-View-Routen (panel/pages/…) UND für API-Routen,
     // die das Vue-SPA bei interner Navigation nutzt (api/pages/…).
     'hooks' => [
+        // Hochgeladene Bilder auf maximale Breite verkleinern (Original wird ersetzt).
+        // GIFs bleiben unangetastet, damit Animationen nicht verloren gehen.
         'file.create:after' => function ($file) {
-            if (!$file->isResizable()) return;
+            if (!in_array($file->mime(), ['image/jpeg', 'image/png', 'image/webp'], true)) return;
 
             // Banner brauchen die volle Auflösung, kleinere Größen
             // erzeugt Kirby dafür per srcset (siehe 'thumbs')
             if ($file->template() === 'hintergrundbild') return;
 
             $maxWidth = option('kgs.autoresize.maxWidth', 1000);
-            $quality  = option('kgs.autoresize.quality', 85);
 
             if ($file->width() <= $maxWidth) return;
 
-            $root = $file->root();
-            $mime = $file->mime();
-
-            $src = match ($mime) {
-                'image/jpeg' => imagecreatefromjpeg($root),
-                'image/png'  => imagecreatefrompng($root),
-                'image/webp' => imagecreatefromwebp($root),
-                default      => null,
-            };
-
-            if (!$src) return;
-
-            $newHeight = (int) round($file->height() * ($maxWidth / $file->width()));
-            $dst = imagecreatetruecolor($maxWidth, $newHeight);
-
-            if ($mime === 'image/png') {
-                imagealphablending($dst, false);
-                imagesavealpha($dst, true);
-            }
-
-            imagecopyresampled($dst, $src, 0, 0, 0, 0, $maxWidth, $newHeight, $file->width(), $file->height());
-
-            match ($mime) {
-                'image/jpeg' => imagejpeg($dst, $root, $quality),
-                'image/png'  => imagepng($dst, $root),
-                'image/webp' => imagewebp($dst, $root, $quality),
-                default      => null,
-            };
-
-            imagedestroy($src);
-            imagedestroy($dst);
+            $file->manipulate([
+                'width'   => $maxWidth,
+                'quality' => option('kgs.autoresize.quality', 85),
+            ]);
         },
 
         'route:before' => function ($route, $path, $method) {
