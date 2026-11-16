@@ -2,7 +2,7 @@ title: Default Page
 
 options:
   update:
-    *: false
+    '*': false
     admin: true
 
 columns:

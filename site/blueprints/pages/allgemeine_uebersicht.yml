@@ -1,13 +1,13 @@
 title: Allgemeine Übersicht 
 options:
   update:
-    *: false
+    '*': false
     admin: true
   pages:
-    *: false
+    '*': false
     admin: true
   files:
-    *: false
+    '*': false
     admin: true
 
 
@@ -26,7 +26,6 @@ columns:
     sticky: true
     sections:
       meta:
-        meta:
         type: fields
         fields:
           sidebar: fields/seitenleiste
