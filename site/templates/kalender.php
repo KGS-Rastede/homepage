@@ -10,18 +10,10 @@
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
       locale: 'de', //Darstellung auf Deutsch
-      themeSystem: "classic",
       headerToolbar: {
         left: 'prev,next today',
         center: 'title',
         right: 'dayGridMonth,timeGridWeek,timeGridDay'
-      },
-
-      buttonText: {
-        today: 'Heute',
-        month: 'Monat',
-        week: 'Woche',
-        day: 'Tag',
       },
 
       // Samstag und Sonntag verstecken
@@ -29,7 +21,6 @@
       firstDay: 1,
       navLinks: true, // can click day/week names to navigate views
       editable: false,
-      handleWindowResize: true,
 
       //Zeigt eine rote Linie an, die die aktuelle Zeit darstellt
       nowIndicator: true,
@@ -52,12 +43,11 @@
         url: '<?= $kirby->url('assets') ?>/kalender/public.ics',
         format: 'ics',
         failure: function() {
-          document.getElementById('script-warning').style.display = 'block';
-        },
-        loading: function(bool) {
-          document.getElementById('loading').style.display =
-            bool ? 'block' : 'none';
+          document.getElementById('script-warning').hidden = false;
         }
+      },
+      loading: function(bool) {
+        document.getElementById('loading').hidden = !bool;
       }
     });
 
@@ -67,6 +57,8 @@
 
 <main>
   <div class="p-1 md:p-3 lg:px-8 mb-2">
+    <p id="script-warning" hidden class="mb-2 text-red-700">Der Kalender konnte nicht geladen werden.</p>
+    <p id="loading" hidden class="mb-2 text-slate-500">Termine werden geladen …</p>
     <div id='calendar'></div>
 
     <!-- 
@@ -83,15 +75,6 @@
       }
     </style>
   </div>
-  </div>
 </main>
-
-<!-- <div id='script-warning'>
-  <code>public.ics</code> konnte nicht geladen werden
-</div>
-
-<div id='loading'>loading...</div>
-
-<div id='calendar'></div> -->
 
 <?php snippet('footertw'); ?>

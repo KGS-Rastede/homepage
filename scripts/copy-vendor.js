@@ -65,8 +65,11 @@ copyFile(
 );
 
 // iCal + FullCalendar iCal-Plugin
+// ical.js 2.x: ical.min.js ist ein ES-Modul und läuft nicht als normales
+// <script>. Der UMD-Build ical.es5.min.cjs setzt die globale Variable ICAL,
+// die das FullCalendar-Plugin erwartet.
 copyFile(
-  'node_modules/ical.js/dist/ical.min.js',
+  'node_modules/ical.js/dist/ical.es5.min.cjs',
   'assets/vendor/js/ical.min.js'
 );
 copyFile(
