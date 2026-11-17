@@ -64,19 +64,6 @@ copyFile(
   'assets/vendor/js/temporal-polyfill.min.js'
 );
 
-// iCal + FullCalendar iCal-Plugin
-// ical.js 2.x: ical.min.js ist ein ES-Modul und läuft nicht als normales
-// <script>. Der UMD-Build ical.es5.min.cjs setzt die globale Variable ICAL,
-// die das FullCalendar-Plugin erwartet.
-copyFile(
-  'node_modules/ical.js/dist/ical.es5.min.cjs',
-  'assets/vendor/js/ical.min.js'
-);
-copyFile(
-  'node_modules/@fullcalendar/icalendar/global.js',
-  'assets/vendor/js/fullcalendar-icalendar.global.js'
-);
-
 // Bootstrap Icons (CSS + Schriftdateien, Pfade müssen relativ zueinander bleiben)
 copyDir(
   'node_modules/bootstrap-icons/font',

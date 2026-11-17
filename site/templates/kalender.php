@@ -3,45 +3,49 @@
 
 <?php snippet('kalender_vorbereiten'); ?>
 
-
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var calendarEl = document.getElementById('calendar');
+    // Auf schmalen Bildschirmen ist das Monatsraster kaum lesbar,
+    // dort startet der Kalender als Liste.
+    var schmal = window.matchMedia('(max-width: 767px)').matches;
 
-    var calendar = new FullCalendar.Calendar(calendarEl, {
-      locale: 'de', //Darstellung auf Deutsch
-      headerToolbar: {
+    var calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
+      locale: 'de',
+      initialView: schmal ? 'listMonth' : 'dayGridMonth',
+      height: schmal ? 'auto' : undefined,
+      // Auf dem Handy nur Blättern und Titel, sonst ist die Leiste zu breit
+      headerToolbar: schmal ? {
+        left: 'prev',
+        center: 'title',
+        right: 'next'
+      } : {
         left: 'prev,next today',
         center: 'title',
-        right: 'dayGridMonth,timeGridWeek,timeGridDay'
+        right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
       },
 
-      // Samstag und Sonntag verstecken
+      // Samstag und Sonntag ausblenden
       hiddenDays: [0, 6],
       firstDay: 1,
-      navLinks: true, // can click day/week names to navigate views
-      editable: false,
-
-      //Zeigt eine rote Linie an, die die aktuelle Zeit darstellt
-      nowIndicator: true,
-
-      //Die Stunden von 20 Uhr bis 07 Uhr morgens müssen nicht
-      //angezeigt werden, dahier nie schulische Veranstaltungen sind
-      slotMinTime: "07:00:00",
-      slotMaxTime: "20:00:00",
-
-      // Kalenderwoche anzeigen
+      navLinks: true, // Klick auf Tag oder Woche öffnet diese Ansicht
+      nowIndicator: true, // rote Linie für die aktuelle Uhrzeit
       weekNumbers: true,
 
-      allDayText: "ganztägig",
+      // Zwischen 20 und 7 Uhr gibt es keine schulischen Termine
+      slotMinTime: '07:00:00',
+      slotMaxTime: '20:00:00',
 
-      noEventsContent: 'Keine Ereignisse anzuzeigen',
+      // Im Monatsraster nur die Titel, in Liste und Woche mit Uhrzeit
+      views: {
+        dayGridMonth: { displayEventTime: false }
+      },
 
-      displayEventTime: false, // don't show the time column in list view
+      allDayText: 'ganztägig',
+      noEventsContent: 'Keine Termine',
 
+      // Termine aus IServ, aufbereitet von site/plugins/kalender
       events: {
-        url: '<?= $kirby->url('assets') ?>/kalender/public.ics',
-        format: 'ics',
+        url: '<?= url('kalender.json') ?>',
         failure: function() {
           document.getElementById('script-warning').hidden = false;
         }
@@ -59,21 +63,7 @@
   <div class="p-1 md:p-3 lg:px-8 mb-2">
     <p id="script-warning" hidden class="mb-2 text-red-700">Der Kalender konnte nicht geladen werden.</p>
     <p id="loading" hidden class="mb-2 text-slate-500">Termine werden geladen …</p>
-    <div id='calendar'></div>
-
-    <!-- 
-        Jetzt werden zwei Variablen von FullCalender.io überschrieben.
-      Durch diese kommt es bei langen Kalendereinträgen zu Zeilenumbrüchen.
-      -->
-    <style type='text/css'>
-      .fc-daygrid-dot-event .fc-event-title {
-        white-space: normal !important;
-      }
-
-      .fc-h-event .fc-event-title {
-        white-space: normal !important;
-      }
-    </style>
+    <div id="calendar"></div>
   </div>
 </main>
 

@@ -10,4 +10,7 @@ return [
         'url'    => 'https://ag-wahl.kgs-rastede.de/api/v1/study_groups',
         'apiKey' => 'HIER_DEN_API_KEY_EINTRAGEN',
     ],
+
+    // Öffentlicher IServ-Kalender (ICS) für site/plugins/kalender
+    'kgs.kalender.url' => 'https://kgs-rastede.eu/iserv/public/calendar/?key=HIER_DEN_KALENDER_KEY_EINTRAGEN',
 ];
