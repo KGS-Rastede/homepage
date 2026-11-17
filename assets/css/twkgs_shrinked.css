@@ -289,6 +289,9 @@
   .relative {
     position: relative;
   }
+  .static {
+    position: static;
+  }
   .sticky {
     position: sticky;
   }
@@ -1492,6 +1495,9 @@
   }
   .w-12 {
     width: calc(var(--spacing) * 12);
+  }
+  .w-24 {
+    width: calc(var(--spacing) * 24);
   }
   .w-48 {
     width: calc(var(--spacing) * 48);
@@ -3670,6 +3676,12 @@
   }
   .dark\:hover\:bg-blue-700:where(.dark, .dark *):hover {
     background-color: var(--color-blue-700);
+  }
+  .dark\:hover\:bg-slate-700\/50:where(.dark, .dark *):hover {
+    background-color: color-mix(in srgb, oklch(37.2% 0.044 257.287) 50%, transparent);
+    @supports (color: color-mix(in lab, red, red)) {
+      background-color: color-mix(in oklab, var(--color-slate-700) 50%, transparent);
+    }
   }
   .dark\:hover\:bg-slate-900\/50:where(.dark, .dark *):hover {
     background-color: color-mix(in srgb, oklch(20.8% 0.042 265.755) 50%, transparent);

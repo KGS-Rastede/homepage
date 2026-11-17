@@ -64,16 +64,6 @@ copyFile(
   'assets/vendor/js/temporal-polyfill.min.js'
 );
 
-// iCal + FullCalendar iCal-Plugin
-copyFile(
-  'node_modules/ical.js/dist/ical.min.js',
-  'assets/vendor/js/ical.min.js'
-);
-copyFile(
-  'node_modules/@fullcalendar/icalendar/global.js',
-  'assets/vendor/js/fullcalendar-icalendar.global.js'
-);
-
 // Bootstrap Icons (CSS + Schriftdateien, Pfade müssen relativ zueinander bleiben)
 copyDir(
   'node_modules/bootstrap-icons/font',
