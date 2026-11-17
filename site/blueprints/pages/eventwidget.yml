@@ -4,7 +4,7 @@ icon: star
 # Wie beim Notfall-Banner dürfen nur Admins diese Seite bearbeiten.
 options:
   update:
-    *: false
+    '*': false
     admin: true
 
 sections:
