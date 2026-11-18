@@ -6,6 +6,29 @@ Pressenachrichten:
 
 - 
   link: >
+    https://www.nwzonline.de/lokales/ammerland/rastede/ihre-messe-ihre-zukunft-kgs-schueler-organisieren-berufsmesse-in-eigenregie-EWGMIJ52RZGTJL3MMBT2VOH5YU.html
+  name: 'Ihre Messe, ihre Zukunft: KGS-Schüler organisieren Berufsmesse in Eigenregie '
+  anfang: 'Buntes Treiben bei der Hausmesse der KGS-Rastede: Eske Harre (re.) und Noah Riebe von der Tischlerei Neuhaus haben selbst ihren Abschluss an der KGS Rastede gemacht. Nun beraten sie Sophia Hoffmann und Luis Wagner. '
+  datum: 2026-11-14
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/ns-zeit-in-rastede-themenabend-an-kgs-zieht-200-besucher-an_a_4,3,2051046279.html
+  name: >
+    Dokumente aus der Zeit des Dritten
+    Reichs fehlen – Gemeinde sucht
+    Zeugnisse
+  anfang: >
+    In Rastede fand ein großer Themenabend
+    zur NS-Zeit in der Gemeinde statt. Dabei
+    wurde immer wieder deutlich, dass es
+    kaum Dokumente oder Zeugnisse aus dieser
+    Zeit gibt. Jetzt soll die Bevölkerung
+    helfen.
+  datum: 2026-10-09
+  medium: nwz
+- 
+  link: >
     https://www.nwzonline.de/ammerland/jubilaeum-in-rastede-kgs-feiert-50-jaehriges-bestehen_a_4,3,1606641642.html
   name: >
     KGS Rastede feiert Jubiläum mit
@@ -6975,19 +6998,17 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/ammerland/ns-zeit-in-rastede-themenabend-an-kgs-zieht-200-besucher-an_a_4,3,2051046279.html
-  name: >
-    Dokumente aus der Zeit des Dritten
-    Reichs fehlen – Gemeinde sucht
-    Zeugnisse
+    https://www.nwzonline.de/lokales/ammerland/rastede/kgs-rastede-organisiert-eigene-jobmesse-54aa0a94-66d4-406e-aadb-eab6198d4ddb.html
+  name: KGS Rastede organisiert eigene Jobmesse
   anfang: >
-    In Rastede fand ein großer Themenabend
-    zur NS-Zeit in der Gemeinde statt. Dabei
-    wurde immer wieder deutlich, dass es
-    kaum Dokumente oder Zeugnisse aus dieser
-    Zeit gibt. Jetzt soll die Bevölkerung
-    helfen.
-  datum: 2026-10-09
+    Handwerk, Pflege, Polizei oder doch ein
+    Studium? Rund 1200 Schülerinnen und
+    Schüler der KGS Rastede konnten auf
+    ihrer selbst organisierten Jobmesse mehr
+    als 60 Unternehmen kennenlernen – und
+    dabei vielleicht auch eine neue Richtung
+    für ihre Zukunft entdecken.
+  datum: 2026-11-13
   medium: nwz
 
 ----
