@@ -122,6 +122,17 @@ columns:
               - NTW
               - Fremdsprachen
               - Projektwoche
+              - Geschichte
+              - Schwimmen
+              - Erasmus
+              - Herausforderungsprojekt
+              - DaZ
+              - Werken
+              - Textiles Gestalten
+              - Jugend debattiert
+              - Exkursion
+              - Austausch
+              - Projekt
 
           line1:
             type: line

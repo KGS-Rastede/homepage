@@ -4,775 +4,359 @@ Title: 2025
 
 Pressenachrichten:
 
-- 
-  link: >
-    https://www.rastede.de/2025/12/schulvertrag-zur-kostenbeteiligung-wird-gekuendigt-kommunen-setzen-verhandlungen-fort/
-  name: >
-    Schulvertrag zur Kostenbeteiligung wird
-    gekündigt – Kommunen setzen
-    Verhandlungen fort
-  anfang: >
-    Die Gemeinde Rastede kündigt den
-    bestehenden Schulvertrag zur
-    Kostenbeteiligung mit der Gemeinde
-    Wiefelstede. Ab dem ersten Quartal 2026
-    wollen die beiden Kommunen die
-    Verhandlungen über ein neues
-    Vertragswerk fortsetzen.
-  datum: 2025-12-23
+-
+  link: 'https://www.rastede.de/2025/12/schulvertrag-zur-kostenbeteiligung-wird-gekuendigt-kommunen-setzen-verhandlungen-fort/'
+  name: 'Schulvertrag zur Kostenbeteiligung wird gekündigt – Kommunen setzen Verhandlungen fort'
+  anfang: 'Die Gemeinde Rastede kündigt den bestehenden Schulvertrag zur Kostenbeteiligung mit der Gemeinde Wiefelstede. Ab dem ersten Quartal 2026 wollen die beiden Kommunen die Verhandlungen über ein neues Vertragswerk fortsetzen.'
+  datum: '2025-12-23'
   medium: gemeinde
-- 
+-
   link: 'https://www.nwzonline.de/ammerland/verhandlungen-ueber-kgs-besuch-rastede-kuendigt-schulvertrag-mit-wiefelstede_a_4,2,3282000495.html#'
   name: 'Verhandlungen über Oberstufenbesuch - Rastede erhöht Druck auf Wiefelstede und kündigt Schulvertrag'
-  anfang: >
-    Seit Monaten ringen Rastede und
-    Wiefelstede um einen neuen Schulvertrag.
-    Es geht um den Besuch von Wiefelsteder
-    Schülern auf der KGS des Nachbarn –
-    und vor allem geht es um Geld.
-  datum: 2025-12-23
+  anfang: 'Seit Monaten ringen Rastede und Wiefelstede um einen neuen Schulvertrag. Es geht um den Besuch von Wiefelsteder Schülern auf der KGS des Nachbarn – und vor allem geht es um Geld.'
+  datum: '2025-12-23'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/bbs-ammerland-ist-alternative_a_4,2,3024654173.html
+-
+  link: 'https://www.nwzonline.de/ammerland/bbs-ammerland-ist-alternative_a_4,2,3024654173.html'
   name: 'BBS Ammerland ist Alternative - Abitur auch an BBS möglich'
-  anfang: >
-    Schülern aus Wiefelstede, die ihr
-    Abitur machen möchten, fehlt es an
-    einer Möglichkeit in der eigenen
-    Gemeinde. Ein Lehrer aus Rostrup bringt
-    in seinem Leserbrief die BBS Ammerland
-    ins Spiel.
-  datum: 2025-12-09
+  anfang: 'Schülern aus Wiefelstede, die ihr Abitur machen möchten, fehlt es an einer Möglichkeit in der eigenen Gemeinde. Ein Lehrer aus Rostrup bringt in seinem Leserbrief die BBS Ammerland ins Spiel.'
+  datum: '2025-12-09'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schulplanung-in-wiefelstede-eltern-fordern-schnelle-loesung-fuer-gymnasialschueler_a_4,2,2932590398.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schulplanung-in-wiefelstede-eltern-fordern-schnelle-loesung-fuer-gymnasialschueler_a_4,2,2932590398.html'
   name: 'Schulplanung in der Kritik  - Wohin mit Wiefelsteder Gymnasialschülern? – Eltern drängen auf schnelle Lösung'
-  anfang: >
-    Eltern in Wiefelstede sind besorgt über
-    die unklare Zukunft ihrer Kinder an
-    weiterführenden Schulen. Die geplanten
-    Gespräche zur Lösung des Schulproblems
-    sollen erst im Januar stattfinden.
-  datum: 2025-11-26
+  anfang: 'Eltern in Wiefelstede sind besorgt über die unklare Zukunft ihrer Kinder an weiterführenden Schulen. Die geplanten Gespräche zur Lösung des Schulproblems sollen erst im Januar stattfinden.'
+  datum: '2025-11-26'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schulfinanzierung-in-rastede-verhandlungen-mit-wiefelstede-ohne-einigung-differenzen-ueber-schuelerkosten_a_4,2,2349841354.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schulfinanzierung-in-rastede-verhandlungen-mit-wiefelstede-ohne-einigung-differenzen-ueber-schuelerkosten_a_4,2,2349841354.html'
   name: 'Erhebliche Differenzen - Streit zwischen Rastede und Wiefelstede um Schülerkosten'
-  anfang: >
-    Rastede und Wiefelstede streiten über
-    einen neuen Schulvertrag. Der
-    Pauschalbetrag von 490 Euro pro Schüler
-    deckt die Kosten nicht mehr. Ein neuer
-    Vorschlag liegt vor, doch eine Einigung
-    ist nicht in Sicht.
-  datum: 2025-10-08
+  anfang: 'Rastede und Wiefelstede streiten über einen neuen Schulvertrag. Der Pauschalbetrag von 490 Euro pro Schüler deckt die Kosten nicht mehr. Ein neuer Vorschlag liegt vor, doch eine Einigung ist nicht in Sicht.'
+  datum: '2025-10-08'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/10/01/verein-stolpersteine-rastede-gegruendet/
-  name: >
-    Verein „Stolpersteine Rastede“
-    gegründet
-  anfang: >
-    Die ersten Gedenksteine sollen am 9.
-    Februar zur Erinnerung an die Familie
-    Hattendorf in der Schloßstraße verlegt
-    werden
-  datum: 2025-10-01
+-
+  link: 'https://www.rasteder-rundschau.de/2025/10/01/verein-stolpersteine-rastede-gegruendet/'
+  name: 'Verein „Stolpersteine Rastede“ gegründet'
+  anfang: 'Die ersten Gedenksteine sollen am 9. Februar zur Erinnerung an die Familie Hattendorf in der Schloßstraße verlegt werden'
+  datum: '2025-10-01'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/09/22/altkleider-sammeln-reparieren-und-tauschen/
-  name: >
-    Altkleider sammeln, reparieren und
-    tauschen
-  anfang: >
-    Die Mädchen und Jungen der Klasse 5B3
-    an der KGS Rastede nehmen mit
-    Engagement, tollen Ideen und großer
-    Freude an dem Projekt „Textil Race“
-    teil. Unterstützt werden sie dabei von
-    Susanne Bürig und Gerd Breuker.
-  datum: 2025-09-22
+-
+  link: 'https://www.rasteder-rundschau.de/2025/09/22/altkleider-sammeln-reparieren-und-tauschen/'
+  name: 'Altkleider sammeln, reparieren und tauschen'
+  anfang: 'Die Mädchen und Jungen der Klasse 5B3 an der KGS Rastede nehmen mit Engagement, tollen Ideen und großer Freude an dem Projekt „Textil Race“ teil. Unterstützt werden sie dabei von Susanne Bürig und Gerd Breuker.'
+  datum: '2025-09-22'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/09/19/outdoor-ausstellung-zur-ns-zeit/
-  name: Outdoor-Ausstellung zur NS-Zeit
-  anfang: >
-    Die Residenzort Rastede GmbH erarbeitet
-    eine Ausstellung über Rastede im
-    Nationalsozialismus, die im Palaisgarten
-    realisiert werden soll. Bürgerinnen und
-    Bürger sind aufgerufen, sich zu
-    beteiligen.
-  datum: 2025-09-19
+-
+  link: 'https://www.rasteder-rundschau.de/2025/09/19/outdoor-ausstellung-zur-ns-zeit/'
+  name: 'Outdoor-Ausstellung zur NS-Zeit'
+  anfang: 'Die Residenzort Rastede GmbH erarbeitet eine Ausstellung über Rastede im Nationalsozialismus, die im Palaisgarten realisiert werden soll. Bürgerinnen und Bürger sind aufgerufen, sich zu beteiligen.'
+  datum: '2025-09-19'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/friesland/textil-race-in-friesland-ammerland-und-wilhelmshaven-schueler-sammeln-altkleider-fuer-klimaschutz-und-wettbewerb_a_4,2,2018432208.html
+-
+  link: 'https://www.nwzonline.de/friesland/textil-race-in-friesland-ammerland-und-wilhelmshaven-schueler-sammeln-altkleider-fuer-klimaschutz-und-wettbewerb_a_4,2,2018432208.html'
   name: 'Aktion in Friesland, Ammerland und Wilhelmshaven - „Textil Race“ im Nordwesten – Schüler sammeln Altkleider für mehr Klimaschutz'
-  anfang: >
-    Schülerinnen und Schüler aus
-    Friesland, Wilhelmshaven und dem
-    Ammerland sammeln bei einem „Textil
-    Race“ Alttextilien. Wer etwas abgeben
-    möchte, kann sich melden.
-  datum: 2025-09-11
+  anfang: 'Schülerinnen und Schüler aus Friesland, Wilhelmshaven und dem Ammerland sammeln bei einem „Textil Race“ Alttextilien. Wer etwas abgeben möchte, kann sich melden.'
+  datum: '2025-09-11'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schulung-medienhelden-fuer-lehrkraefte-und-sozialarbeiter-in-rastede_a_4,2,1953727250.html
-  name: >
-    Präventionsprojekt Rastede bekommt
-    „Medienhelden“
-  anfang: >
-    Laut aktuellen Studien wird fast jede
-    fünfte Schülerin beziehungsweise jeder
-    fünfte Schüler Opfer von Cybermobbing.
-    In Rastede will man jetzt mit dem
-    Präventionsprojekt „Medienhelden“
-    etwas dagegen tun. 30 Klassenlehrer der
-    KGS Rastede und weitere Fachkräfte
-    bekommen die Fortbildung.
-  datum: 2025-09-08
+-
+  link: 'https://www.nwzonline.de/ammerland/schulung-medienhelden-fuer-lehrkraefte-und-sozialarbeiter-in-rastede_a_4,2,1953727250.html'
+  name: 'Präventionsprojekt Rastede bekommt „Medienhelden“'
+  anfang: 'Laut aktuellen Studien wird fast jede fünfte Schülerin beziehungsweise jeder fünfte Schüler Opfer von Cybermobbing. In Rastede will man jetzt mit dem Präventionsprojekt „Medienhelden“ etwas dagegen tun. 30 Klassenlehrer der KGS Rastede und weitere Fachkräfte bekommen die Fortbildung.'
+  datum: '2025-09-08'
   medium: nwz
-- 
-  link: >
-    https://www.rastede.de/2025/08/digitale-gewaltpraevention-rastede-bekommt-medienhelden/
+-
+  link: 'https://www.rastede.de/2025/08/digitale-gewaltpraevention-rastede-bekommt-medienhelden/'
   name: 'Digitale Gewaltprävention: Rastede bekommt „Medienhelden“'
-  anfang: >
-    Digitale Gewalt ist Realität im Alltag
-    vieler junger Menschen. Laut aktuellen
-    Studien wird fast jede fünfte
-    Schülerin bzw. jeder fünfte Schüler
-    Opfer von Cybermobbing –
-    deutschlandweit sind mehr als zwei
-    Millionen Kinder und Jugendliche
-    betroffen. Um Internetkompetenz zu
-    fördern und dem Mobbing im Netz
-    entgegenzuwirken, erweitert die Gemeinde
-    Rastede ihr kommunales
-    Präventionskonzept nun um das Programm
-    „Medienhelden“. Gefördert wird sie
-    dabei vom Landespräventionsrat
-    Niedersachsen.
-  datum: 2025-08-29
+  anfang: 'Digitale Gewalt ist Realität im Alltag vieler junger Menschen. Laut aktuellen Studien wird fast jede fünfte Schülerin bzw. jeder fünfte Schüler Opfer von Cybermobbing – deutschlandweit sind mehr als zwei Millionen Kinder und Jugendliche betroffen. Um Internetkompetenz zu fördern und dem Mobbing im Netz entgegenzuwirken, erweitert die Gemeinde Rastede ihr kommunales Präventionskonzept nun um das Programm „Medienhelden“. Gefördert wird sie dabei vom Landespräventionsrat Niedersachsen.'
+  datum: '2025-08-29'
   medium: gemeinde
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/08/29/besondere-fuehrung-im-palais-rastede/
-  name: Besondere Führung im Palais Rastede
-  anfang: >
-    Junge Talente der KGS präsentieren ihre
-    Werke
-  datum: 2025-08-29
+-
+  link: 'https://www.rasteder-rundschau.de/2025/08/29/besondere-fuehrung-im-palais-rastede/'
+  name: 'Besondere Führung im Palais Rastede'
+  anfang: 'Junge Talente der KGS präsentieren ihre Werke'
+  datum: '2025-08-29'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schulhof-in-rastede-spd-fordert-neues-spielfeld-fuer-kgs-schueler_a_4,2,1812818988.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schulhof-in-rastede-spd-fordert-neues-spielfeld-fuer-kgs-schueler_a_4,2,1812818988.html'
   name: 'Weniger Dreck und mehr Spielspaß - Schluss mit Bolzen auf Sand – SPD Rastede beantragt neues Spielfeld für KGS-Schulhof'
-  anfang: >
-    Die SPD Rastede setzt sich für ein
-    neues Kunststoffspielfeld an der
-    Feldbreite ein, um Sand und Matsch im
-    Schulgebäude zu reduzieren. Vereine und
-    Jugendgruppen könnten ebenfalls
-    profitieren.
-  datum: 2025-08-25
+  anfang: 'Die SPD Rastede setzt sich für ein neues Kunststoffspielfeld an der Feldbreite ein, um Sand und Matsch im Schulgebäude zu reduzieren. Vereine und Jugendgruppen könnten ebenfalls profitieren.'
+  datum: '2025-08-25'
   medium: nwz
-- 
-  link: >
-    https://www.ostfriesland.travel/orte/landkreis-ammerland/rastede/veranstaltungen-in-rastede/veranstaltung/21112025--101004785--weihnachtsmarkt-in-der-kgs
-  name: Weihnachtsmarkt in der KGS
-  anfang: >
-    Am 21.11.2025 findet von 16 bis 20 Uhr
-    der Weihnachtsmarkt der KGS statt. Alle
-    Schüler:innen, Lehrkräfte, Eltern
-    sowie Menschen aus Rastede und Umgebung
-    sind herzlich eingeladen, gemeinsam eine
-    festliche Atmosphäre zu genießen.
-  datum: 2025-08-24
+-
+  link: 'https://www.ostfriesland.travel/orte/landkreis-ammerland/rastede/veranstaltungen-in-rastede/veranstaltung/21112025--101004785--weihnachtsmarkt-in-der-kgs'
+  name: 'Weihnachtsmarkt in der KGS'
+  anfang: 'Am 21.11.2025 findet von 16 bis 20 Uhr der Weihnachtsmarkt der KGS statt. Alle Schüler:innen, Lehrkräfte, Eltern sowie Menschen aus Rastede und Umgebung sind herzlich eingeladen, gemeinsam eine festliche Atmosphäre zu genießen.'
+  datum: '2025-08-24'
   medium: sonstiges
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/08/13/repaircafe-rastede-startet-wieder/
-  name: RepairCafé Rastede startet wieder
-  anfang: >
-    Ab diesem Samstag reparieren
-    Ehrenamtliche in der KGS Rastede einmal
-    im Monat Alltagsgegenstände oder
-    unterstützen Hilfesuchende bei der
-    Reparatur
-  datum: 2025-08-13
+-
+  link: 'https://www.rasteder-rundschau.de/2025/08/13/repaircafe-rastede-startet-wieder/'
+  name: 'RepairCafé Rastede startet wieder'
+  anfang: 'Ab diesem Samstag reparieren Ehrenamtliche in der KGS Rastede einmal im Monat Alltagsgegenstände oder unterstützen Hilfesuchende bei der Reparatur'
+  datum: '2025-08-13'
   medium: rastederrundschau
-- 
+-
   link: 'https://pages.et4.de/de/rastede/default/detail/Event/e_100986996/repair-cafe-rastede?From=2025-07-26T02%3A45%3A00%2B00%3A00'
   name: 'Repair Café Rastede  - Eintritt frei'
-  anfang: >
-    Das RepairCafé ist mehr als nur ein
-    Ort, um defekte Gegenstände zu
-    reparieren. Es ist ein Treffpunkt, an
-    dem Nachhaltigkeit und Gemeinschaft im
-    Fokus stehen. Unsere erfahrenen
-    Freiwilligen sind hier, um zu helfen und
-    Wissen weiterzugeben. Beachte bitte,
-    dass das RepairCafé keine
-    professionelle Reparaturwerkstatt ist.
-  datum: 2025-07-28
+  anfang: 'Das RepairCafé ist mehr als nur ein Ort, um defekte Gegenstände zu reparieren. Es ist ein Treffpunkt, an dem Nachhaltigkeit und Gemeinschaft im Fokus stehen. Unsere erfahrenen Freiwilligen sind hier, um zu helfen und Wissen weiterzugeben. Beachte bitte, dass das RepairCafé keine professionelle Reparaturwerkstatt ist.'
+  datum: '2025-07-28'
   medium: sonstiges
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/stadtradeln-2025-im-ammerland-rekordbeteiligung_a_4,2,1338985875.html
+-
+  link: 'https://www.nwzonline.de/ammerland/stadtradeln-2025-im-ammerland-rekordbeteiligung_a_4,2,1338985875.html'
   name: 'Stadtradeln 2025 - Rekord im Ammerland – 3081 Stadtradler mit mehr als einer halben Million Kilometern'
-  anfang: >
-    Über eine halbe Million Kilometer
-    erstrampelten mehr als 3000 Stadtradler
-    im Ammerland. 157 Teams aus allen sechs
-    Kommunen waren vertreten. Welche Kommune
-    hatte die Nase vorn?
-  datum: 2025-07-16
+  anfang: 'Über eine halbe Million Kilometer erstrampelten mehr als 3000 Stadtradler im Ammerland. 157 Teams aus allen sechs Kommunen waren vertreten. Welche Kommune hatte die Nase vorn?'
+  datum: '2025-07-16'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/07/14/ein-interkulturelles-projekt-das-verbindet/
-  name: >
-    Ein interkulturelles Projekt, das
-    verbindet
-  anfang: >
-    Auch in diesem Jahr bereicherte der
-    Hollandaustausch zwischen der KGS
-    Rastede und dem Vechtdal College
-    Hardenberg die Beteiligten
-  datum: 2025-07-14
+-
+  link: 'https://www.rasteder-rundschau.de/2025/07/14/ein-interkulturelles-projekt-das-verbindet/'
+  name: 'Ein interkulturelles Projekt, das verbindet'
+  anfang: 'Auch in diesem Jahr bereicherte der Hollandaustausch zwischen der KGS Rastede und dem Vechtdal College Hardenberg die Beteiligten'
+  datum: '2025-07-14'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.ioeb.de/de/beitrag/studierende-fuehren-potenzialanalyse-profil-ac-durch.html
+-
+  link: 'https://www.ioeb.de/de/beitrag/studierende-fuehren-potenzialanalyse-profil-ac-durch.html'
   name: 'Unterstützung im Rahmen der Beruflichen Orientierung: Studierende des IfÖB führen Potenzialanalyse Profil AC an der KGS Rastede durch'
   anfang: 'Kurz vor den Sommerferien nahmen rund 100 Schüler*innen der 8. Jahrgangsstufe des Hauptschulzweigs der KGS Rastede an dem Potenzialanalyseverfahren „Profil AC“ teil. Die Durchführung des Verfahrens wurde erstmals vollumfänglich von Studierenden des Instituts für Ökonomische Bildung (IfÖB) an der Carl von Ossietzky Universität Oldenburg verantwortet.'
-  datum: 2025-07-03
+  datum: '2025-07-03'
   medium: sonstiges
-- 
-  link: >
-    https://www.ammerland-touristik.de/event/oeffentliche-fuehrung-der-jungen-talente-der-kgs
-  name: >
-    Öffentliche Führung der jungen Talente
-    der KGS
-  anfang: >
-    Die SchülerInnen des Leistungskurses
-    Kunst der Kooperativen Gesamtschule
-    Rastede haben eine Serie von 15
-    Radierungen geschaffen. In Form eines
-    Rundgangs berichten Sie über die Werke
-    in der Ausstellung.
-  datum: 2025-07-01
+-
+  link: 'https://www.ammerland-touristik.de/event/oeffentliche-fuehrung-der-jungen-talente-der-kgs'
+  name: 'Öffentliche Führung der jungen Talente der KGS'
+  anfang: 'Die SchülerInnen des Leistungskurses Kunst der Kooperativen Gesamtschule Rastede haben eine Serie von 15 Radierungen geschaffen. In Form eines Rundgangs berichten Sie über die Werke in der Ausstellung.'
+  datum: '2025-07-01'
   medium: sonstiges
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/06/30/die-schule-endet-aber-das-spiel-geht-weiter/
-  name: >
-    „Die Schule endet, aber das Spiel geht
-    weiter“
-  anfang: >
-    Die Entlassungsfeier der Abiturientinnen
-    und Abiturienten der KGS Rastede stand
-    unter dem Motto „CABISINO – 13 Jahre
-    um jeden Punkt gepokert“. Die Metapher
-    des „Spiels“ zog sich durch die
-    gesamte Veranstaltung.
-  datum: 2025-06-30
+-
+  link: 'https://www.rasteder-rundschau.de/2025/06/30/die-schule-endet-aber-das-spiel-geht-weiter/'
+  name: '„Die Schule endet, aber das Spiel geht weiter“'
+  anfang: 'Die Entlassungsfeier der Abiturientinnen und Abiturienten der KGS Rastede stand unter dem Motto „CABISINO – 13 Jahre um jeden Punkt gepokert“. Die Metapher des „Spiels“ zog sich durch die gesamte Veranstaltung.'
+  datum: '2025-06-30'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/debatte-um-schulvertrag-zwischen-rastede-und-wiefelstede-keine-hilfe-von-aussen-fdp-scheitert-mit-antrag-fuer-vermittlungsausschuss_a_4,2,1109570614.html
+-
+  link: 'https://www.nwzonline.de/ammerland/debatte-um-schulvertrag-zwischen-rastede-und-wiefelstede-keine-hilfe-von-aussen-fdp-scheitert-mit-antrag-fuer-vermittlungsausschuss_a_4,2,1109570614.html'
   name: 'Debatte um Schulvertrag im Ammerland - Verhandlungen zwischen Rastede und Wiefelstede ohne Hilfe von außen'
-  anfang: >
-    Rastede beteiligt Wiefelstede an den
-    Kosten für die Kooperative
-    Gesamtschule. Seit über einem Jahr wird
-    der Schulvertrag neu verhandelt. Die FDP
-    wollte per Vermittlungsausschuss Schwung
-    in die Sache bringen.
-  datum: 2025-06-26
+  anfang: 'Rastede beteiligt Wiefelstede an den Kosten für die Kooperative Gesamtschule. Seit über einem Jahr wird der Schulvertrag neu verhandelt. Die FDP wollte per Vermittlungsausschuss Schwung in die Sache bringen.'
+  datum: '2025-06-26'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schlosspark-rastede-waldjugendspiele-der-kooperativen-gesamtschule-kgs-rastede_a_4,2,1096747237.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schlosspark-rastede-waldjugendspiele-der-kooperativen-gesamtschule-kgs-rastede_a_4,2,1096747237.html'
   name: 'Waldjugendspiele der KGS - Rasteder Schlosspark wird für einen Tag zum Klassenzimmer'
-  anfang: >
-    Rund 300 Sechstklässler nahmen an den
-    Waldjugendspielen der KGS Rastede teil.
-    An 17 Stationen ging es um das Thema
-    Wald.
-  datum: 2025-06-25
+  anfang: 'Rund 300 Sechstklässler nahmen an den Waldjugendspielen der KGS Rastede teil. An 17 Stationen ging es um das Thema Wald.'
+  datum: '2025-06-25'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/06/25/kein-vermittlungsausschuss-gewuenscht/
-  name: Kein Vermittlungsausschuss gewünscht
-  anfang: >
-    Die FDP hatte beantragt, einen
-    Vermittlungsausschuss mit der Gemeinde
-    Wiefelstede einzuberufen, um beim
-    Schulvertrag für die Nutzung der KGS
-    voranzukommen. Der Schulausschuss
-    stimmte am Montag dagegen.
-  datum: 2025-06-25
+-
+  link: 'https://www.rasteder-rundschau.de/2025/06/25/kein-vermittlungsausschuss-gewuenscht/'
+  name: 'Kein Vermittlungsausschuss gewünscht'
+  anfang: 'Die FDP hatte beantragt, einen Vermittlungsausschuss mit der Gemeinde Wiefelstede einzuberufen, um beim Schulvertrag für die Nutzung der KGS voranzukommen. Der Schulausschuss stimmte am Montag dagegen.'
+  datum: '2025-06-25'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.landeszeitung.de/lokales/lueneburg-lk/bardowick/mit-dem-fahrrad-ins-abenteuer-sechs-schuelerinnen-radeln-240-kilometer-fuer-soziales-projekt-FFA7VOV3N5DYDL7BIY6IROB7CE.html?outputType=valid_amp
+-
+  link: 'https://www.landeszeitung.de/lokales/lueneburg-lk/bardowick/mit-dem-fahrrad-ins-abenteuer-sechs-schuelerinnen-radeln-240-kilometer-fuer-soziales-projekt-FFA7VOV3N5DYDL7BIY6IROB7CE.html?outputType=valid_amp'
   name: 'Von Rastede bis nach St. Dionys Mit dem Fahrrad ins Abenteuer: Schülerinnen radeln 240 Kilometer für soziales Projekt'
   anfang: 'Sechs 14-jährige Mädchen, sechs Fahrräder – und eine Mission: Im Rahmen eines Schulprojekts radeln Schülerinnen der KGS Rastede über 240 Kilometer Richtung Lüneburger Heide, um sich in zwei Kirchengemeinden sozial zu engagieren.'
-  datum: 2025-06-17
+  datum: '2025-06-17'
   medium: sonstiges
-- 
-  link: >
-    https://www.rastede.de/2025/06/praeventionsprojekt-balu-und-du-vierter-durchgang-setzt-erfolgsgeschichte-fort/
+-
+  link: 'https://www.rastede.de/2025/06/praeventionsprojekt-balu-und-du-vierter-durchgang-setzt-erfolgsgeschichte-fort/'
   name: 'Präventionsprojekt „Balu und Du“: Vierter Durchgang setzt Erfolgsgeschichte fort'
-  anfang: >
-    Der vierte Durchgang des
-    Präventionsprojekts „Balu und Du“
-    ist in dieser Woche erfolgreich zu Ende
-    gegangen. Im Rahmen einer kleinen
-    Abschlussfeier übergab Bürgermeister
-    Lars Krause Urkunden und Medaillen an
-    die teilnehmenden Schülerinnen und
-    Schüler der Kooperativen Gesamtschule
-    (KGS) Rastede sowie der Grundschulen
-    Feldbreite, Leuchtenburg und Kleibrok.
-  datum: 2025-06-08
+  anfang: 'Der vierte Durchgang des Präventionsprojekts „Balu und Du“ ist in dieser Woche erfolgreich zu Ende gegangen. Im Rahmen einer kleinen Abschlussfeier übergab Bürgermeister Lars Krause Urkunden und Medaillen an die teilnehmenden Schülerinnen und Schüler der Kooperativen Gesamtschule (KGS) Rastede sowie der Grundschulen Feldbreite, Leuchtenburg und Kleibrok.'
+  datum: '2025-06-08'
   medium: gemeinde
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/06/06/wuerdigung-einer-mutigen-helferin/
-  name: Würdigung einer mutigen Helferin
+-
+  link: 'https://www.rasteder-rundschau.de/2025/06/06/wuerdigung-einer-mutigen-helferin/'
+  name: 'Würdigung einer mutigen Helferin'
   anfang: '„Die Kastanien an der Gracht – Miep Gies und das Tagebuch der Anne Frank“: Lesung mit Agnes Imhof am 19. Juni -  Im Rahmen der Rasteder Lesestunden liest Agnes Imhof am 19. Juni, 19.30 Uhr, in Raum C 005 der KGS aus ihrem Roman „Die Kastanien an der Gracht – Miep Gies und das Tagebuch der Anne Frank“.'
-  datum: 2025-06-06
+  datum: '2025-06-06'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/06/06/mahnung-zur-zivilcourage/
-  name: Mahnung zur Zivilcourage
+-
+  link: 'https://www.rasteder-rundschau.de/2025/06/06/mahnung-zur-zivilcourage/'
+  name: 'Mahnung zur Zivilcourage'
   anfang: 'Anne Frank-Ausstellung eröffnet: „Deine Anne – Ein Mädchen schreibt Geschichte“ ist noch bis zum 27. Juni in der KGS zu sehen'
-  datum: 2025-06-06
+  datum: '2025-06-06'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/06/05/doppelte-spendenscheck-uebergabe/
-  name: Doppelte Spendenscheck-Übergabe
+-
+  link: 'https://www.rasteder-rundschau.de/2025/06/05/doppelte-spendenscheck-uebergabe/'
+  name: 'Doppelte Spendenscheck-Übergabe'
   anfang: 'Die VR-Stiftung der Volks- und Raiffeisenbanken und die Raiffeisenbank Rastede eG fördern die Rasteder Musiktage und die Wanderausstellung „Deine Anne. Ein Mädchen schreibt Geschichte“, die heute in der KGS eröffnet wird'
-  datum: 2025-06-05
+  datum: '2025-06-05'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/anne-frank-ausstellung-in-rastede-kgs-erinnert-an-schicksal-des-juedischen-maedchens_a_4,2,744671717.html
-  name: >
-    Ausstellung in Rastede erinnert an
-    jüdisches Mädchen Anne Frank
-  anfang: >
-    In Rastede findet im Juni eine
-    Anne-Frank-Ausstellung statt. Führungen
-    und ein umfangreiches Begleitprogramm
-    bieten Einblicke in ihr Leben und die
-    NS-Zeit. Welche Veranstaltungen erwarten
-    die Besucher?
-  datum: 2025-05-22
+-
+  link: 'https://www.nwzonline.de/ammerland/anne-frank-ausstellung-in-rastede-kgs-erinnert-an-schicksal-des-juedischen-maedchens_a_4,2,744671717.html'
+  name: 'Ausstellung in Rastede erinnert an jüdisches Mädchen Anne Frank'
+  anfang: 'In Rastede findet im Juni eine Anne-Frank-Ausstellung statt. Führungen und ein umfangreiches Begleitprogramm bieten Einblicke in ihr Leben und die NS-Zeit. Welche Veranstaltungen erwarten die Besucher?'
+  datum: '2025-05-22'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/05/20/ohne-ehrenamtliche-kein-pausensnack/
-  name: Ohne Ehrenamtliche kein Pausensnack
-  anfang: KGS-Cafeteria sucht helfende Hände
-  datum: 2025-05-20
+-
+  link: 'https://www.rasteder-rundschau.de/2025/05/20/ohne-ehrenamtliche-kein-pausensnack/'
+  name: 'Ohne Ehrenamtliche kein Pausensnack'
+  anfang: 'KGS-Cafeteria sucht helfende Hände'
+  datum: '2025-05-20'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/05/15/leere-weite-wuchernder-wald/
-  name: Leere Weite, wuchernder Wald
-  anfang: >
-    Die Ausstellung „Hoch.Tief.Flach.
-    Landschaft im Nordwesten“ wird an
-    diesem Sonntag im Palais Rastede
-    eröffnet. Drei regionale
-    Kunstschaffende zeigen die Vielfalt des
-    Drucks.
-  datum: 2025-05-15
+-
+  link: 'https://www.rasteder-rundschau.de/2025/05/15/leere-weite-wuchernder-wald/'
+  name: 'Leere Weite, wuchernder Wald'
+  anfang: 'Die Ausstellung „Hoch.Tief.Flach. Landschaft im Nordwesten“ wird an diesem Sonntag im Palais Rastede eröffnet. Drei regionale Kunstschaffende zeigen die Vielfalt des Drucks.'
+  datum: '2025-05-15'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.ostfriesland.travel/orte/landkreis-ammerland/rastede/veranstaltungen-in-rastede/veranstaltung/29062025--101049188--deine-anne-ein-madchen-schreibt-geschichte
+-
+  link: 'https://www.ostfriesland.travel/orte/landkreis-ammerland/rastede/veranstaltungen-in-rastede/veranstaltung/29062025--101049188--deine-anne-ein-madchen-schreibt-geschichte'
   name: 'Deine Anne - ein Mädchen schreibt Geschichte'
   anfang: 'Die Geschichte des jüdischen Mädchens Anne Frank, das in einem Hinterhaus versteckt ihr berühmtes Tagebuch schrieb und letztendlich von den Nationalsozialisten entdeckt, deportiert und ermordet wurde, wird in der Wanderausstellung "Deine Anne - ein Mädchen schreibt Geschichte" in der Kooperativen Gesamtschule Rastede gezeigt.'
-  datum: 2025-05-14
+  datum: '2025-05-14'
   medium: sonstiges
-- 
-  link: >
-    https://kvhs-ammerland.de/programm/kultur/kurs/NEU-Ausstellung-Deine-Anne-Ein-Maedchen-schreibt-Geschichte/O1018?knradd=O1018
+-
+  link: 'https://kvhs-ammerland.de/programm/kultur/kurs/NEU-Ausstellung-Deine-Anne-Ein-Maedchen-schreibt-Geschichte/O1018?knradd=O1018'
   name: 'NEU Ausstellung: Deine Anne – Ein Mädchen schreibt Geschichte'
-  anfang: >
-    Die Kooperative Gesamtschule Rastede
-    präsentiert im Juni die interaktive
-    Ausstellung „Deine Anne – Ein
-    Mädchen schreibt Geschichte“,
-    entwickelt vom Anne Frank Zentrum Berlin
-    in Kooperation mit dem Anne Frank Haus
-    in Amsterdam. Schülerinnen und Schüler
-    der KGS Rastede begleiten durch diese
-    eindrucksvolle und hoch aktuelle
-    Ausstellung und diskutieren dabei zum
-    Thema "Diskriminierung damals und
-    heute". Gemeinsam mit der KVHS Ammerland
-    möchte die KGS Rastede auch externen
-    Gästen den Besuch der Ausstellung
-    ermöglichen und lädt dazu herzlich
-    ein. Treffpunkt ist der Haupteingang der
-    KGS Rastede, Wilhelmstr. 5 in 26180
-    Rastede. Die Veranstaltung ist
-    entgeltfrei. Um Voranmeldung über die
-    KVHS Ammerland wird gebeten.
-  datum: 2025-04-30
+  anfang: 'Die Kooperative Gesamtschule Rastede präsentiert im Juni die interaktive Ausstellung „Deine Anne – Ein Mädchen schreibt Geschichte“, entwickelt vom Anne Frank Zentrum Berlin in Kooperation mit dem Anne Frank Haus in Amsterdam. Schülerinnen und Schüler der KGS Rastede begleiten durch diese eindrucksvolle und hoch aktuelle Ausstellung und diskutieren dabei zum Thema "Diskriminierung damals und heute". Gemeinsam mit der KVHS Ammerland möchte die KGS Rastede auch externen Gästen den Besuch der Ausstellung ermöglichen und lädt dazu herzlich ein. Treffpunkt ist der Haupteingang der KGS Rastede, Wilhelmstr. 5 in 26180 Rastede. Die Veranstaltung ist entgeltfrei. Um Voranmeldung über die KVHS Ammerland wird gebeten.'
+  datum: '2025-04-30'
   medium: sonstiges
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/der-schuetzenverein-leuchtenburg-feiert-sein-schuetzenfest-ende-april_a_4,2,391900431.html
+-
+  link: 'https://www.nwzonline.de/ammerland/der-schuetzenverein-leuchtenburg-feiert-sein-schuetzenfest-ende-april_a_4,2,391900431.html'
   name: 'Schießwettbewerbe, Spiele und Party - Schützenfest in Leuchtenburg für Groß und Klein'
-  anfang: >
-    Befreundete Schützenvereine sind
-    herzlich zum Preisschießen eingeladen.
-    Den Teilnehmern winken viele Sachpreise.
-  datum: 2025-04-16
+  anfang: 'Befreundete Schützenvereine sind herzlich zum Preisschießen eingeladen. Den Teilnehmern winken viele Sachpreise.'
+  datum: '2025-04-16'
   medium: nwz
-- 
-  link: >
-    https://www.rastede.de/2025/04/rastede-strampelt-auch-2025-fuers-klima/
-  name: Rastede strampelt auch 2025 fürs Klima
+-
+  link: 'https://www.rastede.de/2025/04/rastede-strampelt-auch-2025-fuers-klima/'
+  name: 'Rastede strampelt auch 2025 fürs Klima'
   anfang: 'Drei Wochen lang für möglichst viele Alltagswege das Fahrrad nutzen – darum geht es beim Wettbewerb „Stadtradeln“. Die Gemeinde Rastede nimmt in diesem Jahr bereits zum fünften Mal an der Aktion teil und wirbt um Unterstützung: Vom 18. Mai bis zum 7. Juni sind alle Menschen, die in der Gemeinde leben, arbeiten, einen Verein oder eine Schule besuchen dazu aufgerufen, per Rad zurückgelegte Kilometer zu sammeln.'
-  datum: 2025-04-15
+  datum: '2025-04-15'
   medium: gemeinde
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/tabuzonen-fuer-snackautomaten-im-ammerland-sollen-solche-geraete-in-der-naehe-von-schulen-stehen-duerfen_a_4,2,237058884.html
+-
+  link: 'https://www.nwzonline.de/ammerland/tabuzonen-fuer-snackautomaten-im-ammerland-sollen-solche-geraete-in-der-naehe-von-schulen-stehen-duerfen_a_4,2,237058884.html'
   name: 'Einkaufen - Tabuzonen für Snackautomaten?'
-  anfang: >
-    Im Ammerland sind Snackautomaten ein
-    wachsendes Thema. Kritiker sehen sie als
-    Verlockung für Schüler zu ungesunden
-    Snacks. Die Gemeinden haben jedoch kaum
-    Einfluss, da die Automaten auf privatem
-    Grund stehen.
-  datum: 2025-04-02
+  anfang: 'Im Ammerland sind Snackautomaten ein wachsendes Thema. Kritiker sehen sie als Verlockung für Schüler zu ungesunden Snacks. Die Gemeinden haben jedoch kaum Einfluss, da die Automaten auf privatem Grund stehen.'
+  datum: '2025-04-02'
   medium: nwz
-- 
-  link: >
-    https://www.rastede.de/2025/03/us-schueler-aus-pattsburgh-zu-gast-im-rasteder-rathaus/
-  name: >
-    US-Schüler aus Pattsburgh zu Gast im
-    Rasteder Rathaus
-  anfang: >
-    Bereits seit 1987 besteht der
-    Schulaustausch zwischen der Kooperativen
-    Gesamtschule (KGS) Rastede und der
-    amerikanischen Plattsburgh High School
-    im US-Bundesstaat New York.
-  datum: 2025-03-29
+-
+  link: 'https://www.rastede.de/2025/03/us-schueler-aus-pattsburgh-zu-gast-im-rasteder-rathaus/'
+  name: 'US-Schüler aus Pattsburgh zu Gast im Rasteder Rathaus'
+  anfang: 'Bereits seit 1987 besteht der Schulaustausch zwischen der Kooperativen Gesamtschule (KGS) Rastede und der amerikanischen Plattsburgh High School im US-Bundesstaat New York.'
+  datum: '2025-03-29'
   medium: gemeinde
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schulvertrag-zwischen-rastede-und-wiefelstede-aufnahme-von-schuelern-an-der-kgs-begrenzen_a_4,2,121521114.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schulvertrag-zwischen-rastede-und-wiefelstede-aufnahme-von-schuelern-an-der-kgs-begrenzen_a_4,2,121521114.html'
   name: 'Streit um Schulvertrag - Rastede „verschenkt“ über halbe Million Euro an Wiefelstede'
   anfang: 'Rastede und Wiefelstede diskutieren hinter verschlossenen Türen über einen neuen Schulvertrag. Abgesehen vom Geld geht es um eine entscheidende Frage: Wie viele Wiefelsteder Kinder werden künftig noch an der KGS aufgenommen?'
-  datum: 2025-03-21
+  datum: '2025-03-21'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/automatenboom-im-ammerland-wie-man-am-snackautomaten-automatisch-draufzahlt_a_4,2,76422548.html
+-
+  link: 'https://www.nwzonline.de/ammerland/automatenboom-im-ammerland-wie-man-am-snackautomaten-automatisch-draufzahlt_a_4,2,76422548.html'
   name: 'Automatenboom im Ammerland - Wie man am Snackautomaten automatisch draufzahlt'
-  anfang: >
-    Snackautomaten erleben im Ammerland
-    einen Boom. Trotz deutlich höherer
-    Preise als im Supermarkt sind sie wegen
-    ihrer Bequemlichkeit beliebt. Doch warum
-    sind die Preise so hoch und wer
-    profitiert davon?
-  datum: 2025-03-17
+  anfang: 'Snackautomaten erleben im Ammerland einen Boom. Trotz deutlich höherer Preise als im Supermarkt sind sie wegen ihrer Bequemlichkeit beliebt. Doch warum sind die Preise so hoch und wer profitiert davon?'
+  datum: '2025-03-17'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/finanzen-in-rastede-gruene-und-fdp-machen-vorschlaege-zu-ganztagsschulen-kgs-und-palais_a_4,2,74696249.html
+-
+  link: 'https://www.nwzonline.de/ammerland/finanzen-in-rastede-gruene-und-fdp-machen-vorschlaege-zu-ganztagsschulen-kgs-und-palais_a_4,2,74696249.html'
   name: 'Schulen, Naturbad und Palais - ast-Minute-Anträge zum Haushalt in Rastede'
-  anfang: >
-    Für den Ausbau des
-    Ganztagsschulangebotes in Rastede sollte
-    schon jetzt Geld bereitgestellt, die
-    Erweiterung des Kindergartens Loy
-    hingegen gestoppt werden. Beim Palais
-    sollte ein neuer Weg eingeschlagen
-    werden.
-  datum: 2025-03-17
+  anfang: 'Für den Ausbau des Ganztagsschulangebotes in Rastede sollte schon jetzt Geld bereitgestellt, die Erweiterung des Kindergartens Loy hingegen gestoppt werden. Beim Palais sollte ein neuer Weg eingeschlagen werden.'
+  datum: '2025-03-17'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schuelerhaushalt-in-rastede-17000-euro-fuer-demokratiebildung-an-der-kgs-rastede_a_4,2,14364757.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schuelerhaushalt-in-rastede-17000-euro-fuer-demokratiebildung-an-der-kgs-rastede_a_4,2,14364757.html'
   name: 'Projekt zur Demokratiebildung - 17.000 Euro zur Verfügung – und Rastedes Schüler bestimmen, was mit dem Geld passiert'
-  anfang: >
-    In Rastede wurde erstmals ein
-    Schülerhaushalt eingeführt. 17.000
-    Euro stehen der Schule zur Verfügung.
-    Was damit passiert, entscheiden
-    ausschließlich die Schüler. Was machen
-    sie mit dem ganzen Geld?
-  datum: 2025-03-12
+  anfang: 'In Rastede wurde erstmals ein Schülerhaushalt eingeführt. 17.000 Euro stehen der Schule zur Verfügung. Was damit passiert, entscheiden ausschließlich die Schüler. Was machen sie mit dem ganzen Geld?'
+  datum: '2025-03-12'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schulvertrag-rastede-will-mehr-geld-von-wiefelstede-fuer-schueler-an-der-kooperativen-gesamtschule-kgs_a_4,1,4261086949.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schulvertrag-rastede-will-mehr-geld-von-wiefelstede-fuer-schueler-an-der-kooperativen-gesamtschule-kgs_a_4,1,4261086949.html'
   name: 'Streit um Schulvertrag - Rastede will deutlich mehr Geld von Wiefelstede'
-  anfang: >
-    Rastede beteiligt Wiefelstede an den
-    Kosten für die Kooperative
-    Gesamtschule, weil dort auch
-    Wiefelsteder Schüler unterrichtet
-    werden. Bisher kommt Wiefelstede
-    günstig weg, doch das soll sich
-    ändern.
-  datum: 2025-03-12
+  anfang: 'Rastede beteiligt Wiefelstede an den Kosten für die Kooperative Gesamtschule, weil dort auch Wiefelsteder Schüler unterrichtet werden. Bisher kommt Wiefelstede günstig weg, doch das soll sich ändern.'
+  datum: '2025-03-12'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/03/05/fdp-macht-druck-beim-schulvertrag/
-  name: FDP macht Druck beim Schulvertrag
-  anfang: >
-    Die FDP Rastede möchte einen
-    Vermittlungsausschuss mit der Gemeinde
-    Wiefelstede einberufen, um beim
-    Schulvertrag für die Nutzung der KGS
-    voranzukommen
-  datum: 2025-03-05
+-
+  link: 'https://www.rasteder-rundschau.de/2025/03/05/fdp-macht-druck-beim-schulvertrag/'
+  name: 'FDP macht Druck beim Schulvertrag'
+  anfang: 'Die FDP Rastede möchte einen Vermittlungsausschuss mit der Gemeinde Wiefelstede einberufen, um beim Schulvertrag für die Nutzung der KGS voranzukommen'
+  datum: '2025-03-05'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/03/04/demokratiefoerderung-in-rastede/
-  name: Demokratieförderung in Rastede
-  anfang: >
-    Schülerhaushalt ist gestartet.
-    Jugendliche verwalten eigenes Budget. rr
-    | Im Schuljahr 2024/25 wurde an der KGS
-    Rastede und der Schule am Voßbarg
-    erstmals der Schülerhaushalt
-    eingeführt. „Mit diesem innovativen
-    Beteiligungsformat erhalten Jugendliche
-    die Möglichkeit, ein eigenes Budget
-    eigenverantwortlich und demokratisch zu
-    verwalten“, teilt die Gemeinde Rastede
-    mit. Sie sieht die bereitgestellten
-    Mittel als starkes Zeichen für gelebte
-    Demokratie und aktive Jugendbeteiligung.
-    Das Konzept, entwickelt von der
-    Bertelsmann Stiftung und begleitet von
-    der Berliner Servicestelle
-    Jugendbeteiligung e.V., vermittle jungen
-    Menschen auf praktische Weise, wie
-    demokratische Prozesse funktionieren und
-    dass ihre Stimme zählt.
-  datum: 2025-03-04
+-
+  link: 'https://www.rasteder-rundschau.de/2025/03/04/demokratiefoerderung-in-rastede/'
+  name: 'Demokratieförderung in Rastede'
+  anfang: 'Schülerhaushalt ist gestartet. Jugendliche verwalten eigenes Budget. rr | Im Schuljahr 2024/25 wurde an der KGS Rastede und der Schule am Voßbarg erstmals der Schülerhaushalt eingeführt. „Mit diesem innovativen Beteiligungsformat erhalten Jugendliche die Möglichkeit, ein eigenes Budget eigenverantwortlich und demokratisch zu verwalten“, teilt die Gemeinde Rastede mit. Sie sieht die bereitgestellten Mittel als starkes Zeichen für gelebte Demokratie und aktive Jugendbeteiligung. Das Konzept, entwickelt von der Bertelsmann Stiftung und begleitet von der Berliner Servicestelle Jugendbeteiligung e.V., vermittle jungen Menschen auf praktische Weise, wie demokratische Prozesse funktionieren und dass ihre Stimme zählt.'
+  datum: '2025-03-04'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rastede.de/2025/03/demokratiefoerderung-in-rastede-erfolgreicher-start-des-schuelerinnenhaushalts/
+-
+  link: 'https://www.rastede.de/2025/03/demokratiefoerderung-in-rastede-erfolgreicher-start-des-schuelerinnenhaushalts/'
   name: 'Demokratieförderung in Rastede: Erfolgreicher Start des Schüler*innenHaushalts'
   anfang: 'Die Gemeinde Rastede setzt ein starkes Zeichen für gelebte Demokratie und aktive Jugendbeteiligung: Im Schuljahr 2024/25 wurde an der Kooperativen Gesamtschule (KGS) Rastede und der Schule am Voßbarg erstmals der Schüler*innenHaushalt eingeführt. Mit diesem innovativen Beteiligungsformat erhalten Jugendliche die Möglichkeit, ein eigenes Budget eigenverantwortlich und demokratisch zu verwalten. Das Konzept, entwickelt von der Bertelsmann Stiftung und begleitet von der Berliner Servicestelle Jugendbeteiligung e.V., vermittelt jungen Menschen auf praktische Weise, wie demokratische Prozesse funktionieren und dass ihre Stimme zählt.'
-  datum: 2025-03-03
+  datum: '2025-03-03'
   medium: gemeinde
-- 
-  link: >
-    https://www.pressebox.de/pressemitteilung/smaract-gmbh/robocup-junior-31-teams-aus-dem-raum-oldenburg-loesen-ticket-fuer-die-deutsche-meisterschaft/boxid/1238711
+-
+  link: 'https://www.pressebox.de/pressemitteilung/smaract-gmbh/robocup-junior-31-teams-aus-dem-raum-oldenburg-loesen-ticket-fuer-die-deutsche-meisterschaft/boxid/1238711'
   name: 'RoboCup Junior: 31 Teams aus dem Raum Oldenburg lösen Ticket für die Deutsche Meisterschaft Die SmarAct GmbH sponsort das Event zum dritten Mal'
-  anfang: >
-    Beim diesjährigen Regionalwettbewerb
-    des RoboCup Junior NordWest am 26. und
-    27. Februar am Herbartgymnasium
-    Oldenburg bewiesen 242 Schülerinnen und
-    Schüler aus der Region ihr technisches
-    Können. 96 Teams traten mit ihren
-    selbstentwickelten und -programmierten
-    Robotern in eine der vier Disziplinen
-    Rescue Line Entry, Rescue Line, Rescue
-    Maze Entry und Rescue Maze an – mit
-    dem Ziel, sich für die deutschen
-    Meisterschaften vom 12. bis 16. März in
-    Nürnberg zu qualifizieren.
-  datum: 2025-02-28
+  anfang: 'Beim diesjährigen Regionalwettbewerb des RoboCup Junior NordWest am 26. und 27. Februar am Herbartgymnasium Oldenburg bewiesen 242 Schülerinnen und Schüler aus der Region ihr technisches Können. 96 Teams traten mit ihren selbstentwickelten und -programmierten Robotern in eine der vier Disziplinen Rescue Line Entry, Rescue Line, Rescue Maze Entry und Rescue Maze an – mit dem Ziel, sich für die deutschen Meisterschaften vom 12. bis 16. März in Nürnberg zu qualifizieren.'
+  datum: '2025-02-28'
   medium: sonstiges
-- 
-  link: >
-    https://www.rastede.de/2025/02/regionalentscheid-im-vorlesewettbewerb-siegerin-in-der-rasteder-gemeindebuecherei-ermittelt/
+-
+  link: 'https://www.rastede.de/2025/02/regionalentscheid-im-vorlesewettbewerb-siegerin-in-der-rasteder-gemeindebuecherei-ermittelt/'
   name: 'Regionalentscheid im Vorlesewettbewerb: Siegerin in der Rasteder Gemeindebücherei ermittelt'
-  anfang: >
-    Wer kann im Landkreis Ammerland am
-    besten vorlesen? Die Antwort auf diese
-    Frage gab es am vergangenen Samstag beim
-    Regionalentscheid des 66.
-    Vorlesewettbewerbs des Deutschen
-    Buchhandels. In der Rasteder
-    Gemeindebücherei lasen sechs
-    Siegerinnen und Sieger der kreisweiten
-    Schulentscheide vor einer Jury aus
-    Bibliotheksangestellten aus dem
-    Ammerland um die Wette.
-  datum: 2025-02-27
+  anfang: 'Wer kann im Landkreis Ammerland am besten vorlesen? Die Antwort auf diese Frage gab es am vergangenen Samstag beim Regionalentscheid des 66. Vorlesewettbewerbs des Deutschen Buchhandels. In der Rasteder Gemeindebücherei lasen sechs Siegerinnen und Sieger der kreisweiten Schulentscheide vor einer Jury aus Bibliotheksangestellten aus dem Ammerland um die Wette.'
+  datum: '2025-02-27'
   medium: gemeinde
-- 
-  link: >
-    https://www.nwzonline.de/oldenburg/schuelerkunst-in-bremen-kgs-rastede-beeindruckt-in-der-kunsthalle-mit-werken-zu-kirchner-und-kilpper_a_4,1,4101286015.html
-  name: >
-    Ausstellung der KGS Rastede „Ein Teil
-    von mir“ – Schülerkunst in der
-    Kunsthalle Bremen
-  anfang: >
-    Schüler der KGS Rastede stellen ihre
-    Werke in der Kunsthalle Bremen aus,
-    inspiriert von Ernst Ludwig Kirchner und
-    Thomas Kilpper. Die Ausstellung markiert
-    den Beginn einer Partnerschaft und wurde
-    wegen großer Nachfrage verlängert.
-  datum: 2025-02-24
+-
+  link: 'https://www.nwzonline.de/oldenburg/schuelerkunst-in-bremen-kgs-rastede-beeindruckt-in-der-kunsthalle-mit-werken-zu-kirchner-und-kilpper_a_4,1,4101286015.html'
+  name: 'Ausstellung der KGS Rastede „Ein Teil von mir“ – Schülerkunst in der Kunsthalle Bremen'
+  anfang: 'Schüler der KGS Rastede stellen ihre Werke in der Kunsthalle Bremen aus, inspiriert von Ernst Ludwig Kirchner und Thomas Kilpper. Die Ausstellung markiert den Beginn einer Partnerschaft und wurde wegen großer Nachfrage verlängert.'
+  datum: '2025-02-24'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-klimastreik-am-14-februar-fordert-mehr-einsatz-der-gemeinde_a_4,1,3943723685.html
+-
+  link: 'https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-klimastreik-am-14-februar-fordert-mehr-einsatz-der-gemeinde_a_4,1,3943723685.html'
   name: 'Proteste in Rastede - Fridays for Future kritisiert unzureichende Klimamaßnahmen'
-  anfang: >
-    Fridays for Future in Rastede streikt
-    erneut für mehr Klimaschutz. Der
-    Demonstrationszug führt bis vor das
-    Rathaus. Kritik gibt es an der Gemeinde.
-  datum: 2025-02-05
+  anfang: 'Fridays for Future in Rastede streikt erneut für mehr Klimaschutz. Der Demonstrationszug führt bis vor das Rathaus. Kritik gibt es an der Gemeinde.'
+  datum: '2025-02-05'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/foerderschule-ese-im-ammerland-genehmigung-erteilt-fuer-neue-schule-in-rastede_a_4,1,3862502452.html
+-
+  link: 'https://www.nwzonline.de/ammerland/foerderschule-ese-im-ammerland-genehmigung-erteilt-fuer-neue-schule-in-rastede_a_4,1,3862502452.html'
   name: 'Nach monatelangen Diskussionen - Grünes Licht für neue Förderschule im Ammerland'
-  anfang: >
-    Der Landkreis wollte den Antrag bis auf
-    Weiteres ruhend stellen, die Politik
-    hingegen an einer neuen Förderschule im
-    Ammerland festhalten. Jetzt liegt die
-    Genehmigung für die neue Schule vor.
-  datum: 2025-01-28
+  anfang: 'Der Landkreis wollte den Antrag bis auf Weiteres ruhend stellen, die Politik hingegen an einer neuen Förderschule im Ammerland festhalten. Jetzt liegt die Genehmigung für die neue Schule vor.'
+  datum: '2025-01-28'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/01/28/kultusministerin-zu-gast-in-der-kgs-rastede/
-  name: >
-    Kultusministerin zu Gast in der KGS
-    Rastede
+-
+  link: 'https://www.rasteder-rundschau.de/2025/01/28/kultusministerin-zu-gast-in-der-kgs-rastede/'
+  name: 'Kultusministerin zu Gast in der KGS Rastede'
   anfang: 'Julia Willie Hamburg tauschte sich mit Schul- und Verwaltungsvertretern über aktuelle schulpolitische Themen aus'
-  datum: 2025-01-28
+  datum: '2025-01-28'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rastede.de/2025/01/austausch-ueber-schulpolitische-themen-kultusministerin-besucht-rastede/
+-
+  link: 'https://www.rastede.de/2025/01/austausch-ueber-schulpolitische-themen-kultusministerin-besucht-rastede/'
   name: 'Austausch über schulpolitische Themen: Kultusministerin besucht Rastede'
-  anfang: >
-    Niedersachsens Kultusministerin Julia
-    Willie Hamburg war am vergangenen
-    Freitag zu Gast in Rastede. Mit den
-    Leitungen der Schulen im Gemeindegebiet
-    sowie Vertreterinnen und Vertretern aus
-    Verwaltung, Gemeinderat und Landtag
-    tauschte sich die Ministerin in der
-    Kooperativen Gesamtschule (KGS) Rastede
-    über aktuelle schulpolitische Themen
-    aus.
-  datum: 2025-01-27
+  anfang: 'Niedersachsens Kultusministerin Julia Willie Hamburg war am vergangenen Freitag zu Gast in Rastede. Mit den Leitungen der Schulen im Gemeindegebiet sowie Vertreterinnen und Vertretern aus Verwaltung, Gemeinderat und Landtag tauschte sich die Ministerin in der Kooperativen Gesamtschule (KGS) Rastede über aktuelle schulpolitische Themen aus.'
+  datum: '2025-01-27'
   medium: gemeinde
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/haushalt-in-rastede-gemeinde-spart-bei-schulen-feuerwehren-kitas-baedern-und-personal_a_4,1,3795217848.html
-  name: >
-    Auftakt der Haushaltsberatungen Schulen,
-    Feuerwehren, Bäder – Hier setzt
-    Rastede den Rotstift an
-  anfang: >
-    Rastede will bei öffentlichen
-    Einrichtungen und Organisationen sparen.
-    Budgets wurden zusammengestrichen,
-    Investitionen sollen ausgesetzt werden.
-    Ein Überblick über die aktuellen
-    Planungen.
-  datum: 2025-01-22
+-
+  link: 'https://www.nwzonline.de/ammerland/haushalt-in-rastede-gemeinde-spart-bei-schulen-feuerwehren-kitas-baedern-und-personal_a_4,1,3795217848.html'
+  name: 'Auftakt der Haushaltsberatungen Schulen, Feuerwehren, Bäder – Hier setzt Rastede den Rotstift an'
+  anfang: 'Rastede will bei öffentlichen Einrichtungen und Organisationen sparen. Budgets wurden zusammengestrichen, Investitionen sollen ausgesetzt werden. Ein Überblick über die aktuellen Planungen.'
+  datum: '2025-01-22'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schulentwicklung-in-rastede-schulelternrat-der-kgs-kritisiert-mangelnde-kommunikation_a_4,1,3695103484.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schulentwicklung-in-rastede-schulelternrat-der-kgs-kritisiert-mangelnde-kommunikation_a_4,1,3695103484.html'
   name: 'Leserbrief zur Schulentwicklung - Rasteder Schulelternrat kritisiert schleppende Umsetzung'
-  anfang: >
-    Der Schulelternrat der Kooperativen
-    Gesamtschule Rastede kritisiert die
-    schleppende Umsetzung des Zukunftsplans
-    Schule. Die Ausschreibung hätte längst
-    erfolgen können, meint Vorsitzender
-    Hartwig Haßmann.
-  datum: 2025-01-13
+  anfang: 'Der Schulelternrat der Kooperativen Gesamtschule Rastede kritisiert die schleppende Umsetzung des Zukunftsplans Schule. Die Ausschreibung hätte längst erfolgen können, meint Vorsitzender Hartwig Haßmann.'
+  datum: '2025-01-13'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/foerderschule-ese-im-ammerland-landkreis-will-antrag-bis-auf-weiteres-ruhend-stellen_a_4,1,3637923532.html
+-
+  link: 'https://www.nwzonline.de/ammerland/foerderschule-ese-im-ammerland-landkreis-will-antrag-bis-auf-weiteres-ruhend-stellen_a_4,1,3637923532.html'
   name: 'Neue Förderschule in Rastede - Warum der Landkreis jetzt auf die Bremse tritt'
-  anfang: >
-    „Erhebliche Bedenken“ hat der
-    Landkreis Ammerland mit Blick auf eine
-    neue Förderschule in Rastede. Wenige
-    Tage vor der Sondersitzung des
-    Kreisschulausschusses erläutert die
-    Verwaltung nun ihre Gründe.
-  datum: 2025-01-08
+  anfang: '„Erhebliche Bedenken“ hat der Landkreis Ammerland mit Blick auf eine neue Förderschule in Rastede. Wenige Tage vor der Sondersitzung des Kreisschulausschusses erläutert die Verwaltung nun ihre Gründe.'
+  datum: '2025-01-08'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2025/01/07/dringender-bedarf-fuer-foerderschule-ese/
-  name: >
-    „Dringender Bedarf für Förderschule
-    ESE“
-  anfang: >
-    Auch der Schulelternrat der KGS Rastede
-    macht sich für die Einrichtung einer
-    Förderschule mit Schwerpunkt emotionale
-    und soziale Entwicklung (ESE) am
-    Standort Voßbarg stark
-  datum: 2025-01-07
+-
+  link: 'https://www.rasteder-rundschau.de/2025/01/07/dringender-bedarf-fuer-foerderschule-ese/'
+  name: '„Dringender Bedarf für Förderschule ESE“'
+  anfang: 'Auch der Schulelternrat der KGS Rastede macht sich für die Einrichtung einer Förderschule mit Schwerpunkt emotionale und soziale Entwicklung (ESE) am Standort Voßbarg stark'
+  datum: '2025-01-07'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/foerderschule-ese-in-rastede-schulelternrat-der-kgs-rastede-schaltet-sich-in-diskussion-ein_a_4,1,3626359981.html
+-
+  link: 'https://www.nwzonline.de/ammerland/foerderschule-ese-in-rastede-schulelternrat-der-kgs-rastede-schaltet-sich-in-diskussion-ein_a_4,1,3626359981.html'
   name: 'Diskussion um neue Förderschule in Rastede - Elternrat sieht dringenden Bedarf für Einrichtung'
-  anfang: >
-    Der Schulelternrat der KGS Rastede sieht
-    dringenden Bedarf für eine neue
-    Förderschule, durch die die
-    Regelschulen entlastet werden könnten.
-    Am 15. Januar berät der
-    Kreisschulausschuss erneut über das
-    Thema.
-  datum: 2025-01-06
+  anfang: 'Der Schulelternrat der KGS Rastede sieht dringenden Bedarf für eine neue Förderschule, durch die die Regelschulen entlastet werden könnten. Am 15. Januar berät der Kreisschulausschuss erneut über das Thema.'
+  datum: '2025-01-06'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-erasmus-ag-und-bienenfairsteher-mit-nachhaltigspreis-ausgezeichnet_a_4,1,3569101080.html
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-erasmus-ag-und-bienenfairsteher-mit-nachhaltigspreis-ausgezeichnet_a_4,1,3569101080.html'
   name: 'Bilanz nach einem Jahr - Wie Rasteder Schüler sich für Nachhaltigkeit und Europa stark machen'
-  anfang: >
-    Seit gut einem Jahr gibt es an der KGS
-    Rastede eine Arbeitsgemeinschaft, in der
-    Schüler sich für Nachhaltigkeit und
-    Europa einsetzen. Was sie bisher
-    erreicht haben und wofür sie einen
-    Preis erhielten.
-  datum: 2025-01-01
+  anfang: 'Seit gut einem Jahr gibt es an der KGS Rastede eine Arbeitsgemeinschaft, in der Schüler sich für Nachhaltigkeit und Europa einsetzen. Was sie bisher erreicht haben und wofür sie einen Preis erhielten.'
+  datum: '2025-01-01'
   medium: nwz
 
 ----

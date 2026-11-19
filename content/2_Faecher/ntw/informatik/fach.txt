@@ -41,23 +41,18 @@ Fotoansicht: carousel
 
 Sidebar:
 
-- 
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=185'
-  name: Kerncurriculum Sek I
-- 
+  name: 'Kerncurriculum Sek I'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=173'
-  name: Kerncurriculum Sek II
-- 
+  name: 'Kerncurriculum Sek II'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=174'
-  name: Ergänzende Hinweise Sek II
-- 
+  name: 'Ergänzende Hinweise Sek II'
+-
   link: 'https://www.nibis.de/uploads/mk-bolhoefer/2021/18Informatik%20Hinweise2021NEU.pdf'
-  name: >
-    Hinweise zur schriftlichen
-    Abiturprüfung 2021
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/INF_2021Abi_Operatoren.pdf
-  name: >
-    Operatorenliste zur schriftlichen
-    Abiturprüfung 2021
+  name: 'Hinweise zur schriftlichen Abiturprüfung 2021'
+-
+  link: 'https://www.nibis.de/uploads/1gohrgs/operatoren_2021/INF_2021Abi_Operatoren.pdf'
+  name: 'Operatorenliste zur schriftlichen Abiturprüfung 2021'

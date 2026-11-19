@@ -4,460 +4,233 @@ Title: 2015
 
 Pressenachrichten:
 
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/12/14/auf-plattdeutsch-und-mit-gluehwein/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/12/14/auf-plattdeutsch-und-mit-gluehwein/'
   name: ' Auf Plattdeutsch und mit Glühwein '
-  anfang: >
-    Am Wochenende wurde das Rasteder
-    Weihnachtsdorf eröffnet. Zahlreiche
-    Gäste genossen Adventszauber in der
-    Ortsmitte.
-  datum: 2015-12-14
+  anfang: 'Am Wochenende wurde das Rasteder Weihnachtsdorf eröffnet. Zahlreiche Gäste genossen Adventszauber in der Ortsmitte.'
+  datum: '2015-12-14'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/12/01/ohne-kitsch-und-happy-end/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/12/01/ohne-kitsch-und-happy-end/'
   name: ' Ohne Kitsch und Happy End'
-  anfang: >
-    „Dieser Anschluss ist momentan nicht
-    erreichbar“ heißt der Film des
-    Iraners Jamal Pourajdari über
-    Flüchtlinge in Oldenburg, der am 9.
-    Dezember in der Neuen Aula in Rastede
-    gezeigt wird. Der Filmemacher ist selbst
-    ein Flüchtling und lebt jetzt in einem
-    ehemaligen Hotel am Stadtrand.
-  datum: 2015-12-01
+  anfang: '„Dieser Anschluss ist momentan nicht erreichbar“ heißt der Film des Iraners Jamal Pourajdari über Flüchtlinge in Oldenburg, der am 9. Dezember in der Neuen Aula in Rastede gezeigt wird. Der Filmemacher ist selbst ein Flüchtling und lebt jetzt in einem ehemaligen Hotel am Stadtrand.'
+  datum: '2015-12-01'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/11/19/richtfest-an-der-schule-feldbreite/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/11/19/richtfest-an-der-schule-feldbreite/'
   name: ' Richtfest an der Schule Feldbreite '
-  anfang: >
-    Der Rohbau für die Erweiterung der
-    Grundschule ist fertig, das wurde heute
-    gefeiert. Zum neuen Schuljahr sollen die
-    Arbeiten abgeschlossen sein. Die
-    Gemeinde investiert hier rund 2,2
-    Millionen Euro.
-  datum: 2015-11-19
+  anfang: 'Der Rohbau für die Erweiterung der Grundschule ist fertig, das wurde heute gefeiert. Zum neuen Schuljahr sollen die Arbeiten abgeschlossen sein. Die Gemeinde investiert hier rund 2,2 Millionen Euro.'
+  datum: '2015-11-19'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/11/13/wie-weiter-nach-der-schule/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/11/13/wie-weiter-nach-der-schule/'
   name: ' Wie weiter nach der Schule? '
   anfang: 'Erstmals veranstaltete die KGS Rastede in Kooperation mit dem Verein „Chance: Azubi“ eine Ausbildungsmesse. Rund 15 Unternehmen stellten sich vor.'
-  datum: 2015-11-13
+  datum: '2015-11-13'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/10/29/ag-fuer-den-frieden-nach-berlin-eingeladen/
-  name: >
-    AG „Für den Frieden“ nach Berlin
-    eingeladen
-  anfang: >
-    AG „Für den Frieden“ nach Berlin
-    eingeladen
-  datum: 2015-10-29
+-
+  link: 'https://www.rasteder-rundschau.de/2015/10/29/ag-fuer-den-frieden-nach-berlin-eingeladen/'
+  name: 'AG „Für den Frieden“ nach Berlin eingeladen'
+  anfang: 'AG „Für den Frieden“ nach Berlin eingeladen'
+  datum: '2015-10-29'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/10/27/abgefahren-und-doch-angekommen/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/10/27/abgefahren-und-doch-angekommen/'
   name: ' „Abgefahren“ und doch angekommen'
-  anfang: >
-    Ein Bahnhof bildet den Hintergrund für
-    das erste Bühnenstück des
-    Kulturprojekts „alive“, das im
-    November in der KGS Rastede gezeigt
-    wird.
-  datum: 2015-10-27
+  anfang: 'Ein Bahnhof bildet den Hintergrund für das erste Bühnenstück des Kulturprojekts „alive“, das im November in der KGS Rastede gezeigt wird.'
+  datum: '2015-10-27'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/10/15/der-passende-job-in-mofa-naehe/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/10/15/der-passende-job-in-mofa-naehe/'
   name: ' Der passende Job in „Mofa-Nähe“'
-  anfang: >
-    Bei der Ausbildungsmesse „Chance
-    Azubi“ im KGS-Forum am 12. November
-    stellen sich Betriebe aus der Region vor
-  datum: 2015-10-15
+  anfang: 'Bei der Ausbildungsmesse „Chance Azubi“ im KGS-Forum am 12. November stellen sich Betriebe aus der Region vor'
+  datum: '2015-10-15'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/09/30/klare-worte-zur-fluechtlingssituation/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/09/30/klare-worte-zur-fluechtlingssituation/'
   name: ' Klare Worte zur Flüchtlingssituation '
-  anfang: >
-    Gemeindeverwaltung informiert Politik
-    und Bürger in öffentlicher Sitzung
-  datum: 2015-09-30
+  anfang: 'Gemeindeverwaltung informiert Politik und Bürger in öffentlicher Sitzung'
+  datum: '2015-09-30'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/09/29/spd-landtagsabgeordnete-auf-schultour/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/09/29/spd-landtagsabgeordnete-auf-schultour/'
   name: ' SPD-Landtagsabgeordnete auf Schultour '
-  anfang: >
-    Karin Logemann besuchte vier Schulen in
-    der Gemeinde Rastede
-  datum: 2015-09-29
+  anfang: 'Karin Logemann besuchte vier Schulen in der Gemeinde Rastede'
+  datum: '2015-09-29'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/09/18/ehrenamtliche-bringen-fluechtlingskindern-deutsch-bei/
-  name: >
-    Ehrenamtliche bringen
-    Flüchtlingskindern Deutsch bei
-  anfang: >
-    Die Sprache ist ein wichtiger
-    Bestandteil der Integration von
-    Flüchtlingen. An der KGS Rastede
-    startet nun ein Projekt, bei dem zwölf
-    Ehrenamtliche die ausländischen Kinder
-    beim Spracherwerb unterstützen.
-  datum: 2015-09-18
+-
+  link: 'https://www.rasteder-rundschau.de/2015/09/18/ehrenamtliche-bringen-fluechtlingskindern-deutsch-bei/'
+  name: 'Ehrenamtliche bringen Flüchtlingskindern Deutsch bei'
+  anfang: 'Die Sprache ist ein wichtiger Bestandteil der Integration von Flüchtlingen. An der KGS Rastede startet nun ein Projekt, bei dem zwölf Ehrenamtliche die ausländischen Kinder beim Spracherwerb unterstützen.'
+  datum: '2015-09-18'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/08/14/lifteinbau-fuer-barrierefreie-schule/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/08/14/lifteinbau-fuer-barrierefreie-schule/'
   name: ' Lifteinbau für barrierefreie Schule '
-  anfang: >
-    Es sind Ferien, aber an der KGS
-    Feldbreite wird trotzdem gearbeitet. Die
-    Gemeinde nutzt die unterrichtsfreie Zeit
-    und lässt im Gebäude einen Lift
-    einbauen, die Fassade energetisch
-    sanieren und zwei Klassenräume
-    renovieren. Insgesamt nimmt sie dafür
-    rund 125 000 Euro in die Hand.
-  datum: 2015-08-14
+  anfang: 'Es sind Ferien, aber an der KGS Feldbreite wird trotzdem gearbeitet. Die Gemeinde nutzt die unterrichtsfreie Zeit und lässt im Gebäude einen Lift einbauen, die Fassade energetisch sanieren und zwei Klassenräume renovieren. Insgesamt nimmt sie dafür rund 125 000 Euro in die Hand.'
+  datum: '2015-08-14'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/08/11/tief-bewegt-in-polen/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/08/11/tief-bewegt-in-polen/'
   name: ' Tief bewegt in Polen '
-  anfang: >
-    Vor 71 Jahren wurde das so genannte
-    Zigeunerlager im Vernichtungslager
-    Auschwitz liquidiert. Bereits zum
-    fünften Mal nahm die AG „Für den
-    Frieden“ der KGS Rastede an den
-    Gedenkfeierlichkeiten des Zentralrats
-    Deutscher Sinti und Roma in
-    Auschwitz-Birkenau teil.
-  datum: 2015-08-11
+  anfang: 'Vor 71 Jahren wurde das so genannte Zigeunerlager im Vernichtungslager Auschwitz liquidiert. Bereits zum fünften Mal nahm die AG „Für den Frieden“ der KGS Rastede an den Gedenkfeierlichkeiten des Zentralrats Deutscher Sinti und Roma in Auschwitz-Birkenau teil.'
+  datum: '2015-08-11'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/08/04/lust-auf-verwaltung-und-tourismus/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/08/04/lust-auf-verwaltung-und-tourismus/'
   name: ' Lust auf Verwaltung und Tourismus '
-  anfang: >
-    Die Gemeinde Rastede hat drei neue
-    Azubis eingestellt, zwei werden im
-    Rathaus, eine bei der Residenzort
-    Rastede (RR) GmbH ausgebildet. Alle drei
-    sind 19 Jahre alt, haben Abitur und
-    richtig Lust auf ihren Job.
-  datum: 2015-08-04
+  anfang: 'Die Gemeinde Rastede hat drei neue Azubis eingestellt, zwei werden im Rathaus, eine bei der Residenzort Rastede (RR) GmbH ausgebildet. Alle drei sind 19 Jahre alt, haben Abitur und richtig Lust auf ihren Job.'
+  datum: '2015-08-04'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/07/14/a-20-gemeinde-erlaeutert-einwendungen/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/07/14/a-20-gemeinde-erlaeutert-einwendungen/'
   name: ' A 20: Gemeinde erläutert Einwendungen '
-  anfang: >
-    Nur knapp 15 Besucher kamen gestern zur
-    öffentlichen Informationsveranstaltung
-    über die geplante Autobahn A 20 in die
-    Aula der KGS. Dabei haben es die Pläne
-    in sich – angefangen vom Lärm bis hin
-    zur Gefährdung landwirtschaftlicher
-    Betriebe.
-  datum: 2015-07-14
+  anfang: 'Nur knapp 15 Besucher kamen gestern zur öffentlichen Informationsveranstaltung über die geplante Autobahn A 20 in die Aula der KGS. Dabei haben es die Pläne in sich – angefangen vom Lärm bis hin zur Gefährdung landwirtschaftlicher Betriebe.'
+  datum: '2015-07-14'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/07/03/wir-gehen-voran/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/07/03/wir-gehen-voran/'
   name: ' Wir gehen voran '
-  anfang: >
-    „Abimorrowland“ (angelehnt an das
-    Elektromusik-Festival Tomorrowland in
-    Belgien) hieß das Motto des
-    diesjährigen Abiturjahrgangs der KGS.
-    Wichtiges Thema in den Redebeiträgen
-    waren die gestrichenen Klassenfahrten.
-  datum: 2015-07-03
+  anfang: '„Abimorrowland“ (angelehnt an das Elektromusik-Festival Tomorrowland in Belgien) hieß das Motto des diesjährigen Abiturjahrgangs der KGS. Wichtiges Thema in den Redebeiträgen waren die gestrichenen Klassenfahrten.'
+  datum: '2015-07-03'
   medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2015/06/10/endlich-wieder-klassenfahrten-an-der-kgs/
-  name: >
-    Endlich wieder Klassenfahrten an der
-    KGS?
-  anfang: >
-    Nachdem die verordnete Stunde Mehrarbeit
-    für Gymnasiallehrer per
-    Gerichtsentscheid als nicht zulässig
-    erklärt wurde, wird das Rasteder
-    Kollegium erneut über den Beschluss zur
-    Streichung der Klassenfahrten beraten
-  datum: 2015-06-10
+-
+  link: 'https://rasteder-rundschau.de/2015/06/10/endlich-wieder-klassenfahrten-an-der-kgs/'
+  name: 'Endlich wieder Klassenfahrten an der KGS?'
+  anfang: 'Nachdem die verordnete Stunde Mehrarbeit für Gymnasiallehrer per Gerichtsentscheid als nicht zulässig erklärt wurde, wird das Rasteder Kollegium erneut über den Beschluss zur Streichung der Klassenfahrten beraten'
+  datum: '2015-06-10'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/06/05/der-countdown-laeuft/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/06/05/der-countdown-laeuft/'
   name: ' Der Countdown läuft '
-  anfang: >
-    Noch gut vier Wochen, dann geht das
-    Rasteder Cityfest in die nächste Runde.
-    Hinter den Kulissen laufen die
-    Vorbereitungen auf Hochtouren, teilt
-    Organisator Frank Walde mit.
-  datum: 2015-06-05
+  anfang: 'Noch gut vier Wochen, dann geht das Rasteder Cityfest in die nächste Runde. Hinter den Kulissen laufen die Vorbereitungen auf Hochtouren, teilt Organisator Frank Walde mit.'
+  datum: '2015-06-05'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/06/02/wer-sich-hilfe-holt-ist-keine-petze/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/06/02/wer-sich-hilfe-holt-ist-keine-petze/'
   name: ' Wer sich Hilfe holt, ist keine Petze '
-  anfang: >
-    Die Wanderausstellung „Echt krass“
-    über sexuelle Gewalt und darüber, wie
-    sich Heranwachsende davor schützen
-    können, ist an der KGS zu sehen
-  datum: 2015-06-02
+  anfang: 'Die Wanderausstellung „Echt krass“ über sexuelle Gewalt und darüber, wie sich Heranwachsende davor schützen können, ist an der KGS zu sehen'
+  datum: '2015-06-02'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/04/27/hundertjaehrigen-steinway-fluegel-meisterlich-bespielt/
-  name: >
-    Hundertjährigen Steinway-Flügel
-    meisterlich bespielt
-  anfang: >
-    Die vielfach ausgezeichneten Pianisten
-    Rolf Plagge und Wolfgang Manz bestreiten
-    als Duo „Reine Elisabeth“ das
-    20-jährige Jubiläum der Lions
-    Club-Frühlingskonzerte
-  datum: 2015-04-27
+-
+  link: 'https://www.rasteder-rundschau.de/2015/04/27/hundertjaehrigen-steinway-fluegel-meisterlich-bespielt/'
+  name: 'Hundertjährigen Steinway-Flügel meisterlich bespielt'
+  anfang: 'Die vielfach ausgezeichneten Pianisten Rolf Plagge und Wolfgang Manz bestreiten als Duo „Reine Elisabeth“ das 20-jährige Jubiläum der Lions Club-Frühlingskonzerte'
+  datum: '2015-04-27'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/05/28/benjamin-fokken-liest-in-der-neuen-aula/
-  name: Benjamin Fokken liest in der Neuen Aula
+-
+  link: 'https://www.rasteder-rundschau.de/2015/05/28/benjamin-fokken-liest-in-der-neuen-aula/'
+  name: 'Benjamin Fokken liest in der Neuen Aula'
   anfang: 'Der Verein für Kinder- und Jugendprävention Rastede – KiJuRa – hat den jungen Autoren für den 12. Juni eingeladen'
-  datum: 2015-03-28
+  datum: '2015-03-28'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/03/24/resolution-fuer-wiederaufnahme-der-klassenfahrten/
-  name: >
-    Resolution für Wiederaufnahme der
-    Klassenfahrten
-  anfang: >
-    Die Rasteder SPD-Fraktion fordert eine
-    Stellungnahme des Gemeinderats zum
-    KGS-Klassenfahrten-Streit. Der Ruf der
-    Schule stehe nachhaltig auf dem Spiel.
-  datum: 2015-03-24
+-
+  link: 'https://www.rasteder-rundschau.de/2015/03/24/resolution-fuer-wiederaufnahme-der-klassenfahrten/'
+  name: 'Resolution für Wiederaufnahme der Klassenfahrten'
+  anfang: 'Die Rasteder SPD-Fraktion fordert eine Stellungnahme des Gemeinderats zum KGS-Klassenfahrten-Streit. Der Ruf der Schule stehe nachhaltig auf dem Spiel.'
+  datum: '2015-03-24'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/05/21/fuer-angenehmeren-aufenthalt-und-besseres-lernen/
-  name: >
-    Für angenehmeren Aufenthalt und
-    besseres Lernen
-  anfang: >
-    Schulausschuss beschließt bauliche
-    Maßnahme an Rasteder Schulen. Auch die
-    technische Ausstattung soll verbessert
-    werden.
-  datum: 2015-03-21
+-
+  link: 'https://www.rasteder-rundschau.de/2015/05/21/fuer-angenehmeren-aufenthalt-und-besseres-lernen/'
+  name: 'Für angenehmeren Aufenthalt und besseres Lernen'
+  anfang: 'Schulausschuss beschließt bauliche Maßnahme an Rasteder Schulen. Auch die technische Ausstattung soll verbessert werden.'
+  datum: '2015-03-21'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/05/20/inklusion-braucht-nicht-nur-neue-fahrstuehle/
-  name: >
-    Inklusion braucht nicht nur neue
-    Fahrstühle
-  anfang: >
-    Überraschende Einigkeit nach
-    kontroverser Diskussion im
-    Schulausschuss. Schulleiter sollen sich
-    nun zu den Erfahrungen mit der Inklusion
-    äußern.
-  datum: 2015-03-20
+-
+  link: 'https://www.rasteder-rundschau.de/2015/05/20/inklusion-braucht-nicht-nur-neue-fahrstuehle/'
+  name: 'Inklusion braucht nicht nur neue Fahrstühle'
+  anfang: 'Überraschende Einigkeit nach kontroverser Diskussion im Schulausschuss. Schulleiter sollen sich nun zu den Erfahrungen mit der Inklusion äußern.'
+  datum: '2015-03-20'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/05/20/rasteder-rock-stars-sollen-erneut-staub-aufwirbeln/
-  name: >
-    „Rasteder Rock-Stars“ sollen erneut
-    „Staub aufwirbeln“
-  anfang: >
-    Ausstellungseröffnung im Palais mit den
-    Künstlern der „offenen
-    Bildhauerwerkstatt“,
-    Blende8-Fotografen und Schülern der KGS
-  datum: 2015-03-20
+-
+  link: 'https://www.rasteder-rundschau.de/2015/05/20/rasteder-rock-stars-sollen-erneut-staub-aufwirbeln/'
+  name: '„Rasteder Rock-Stars“ sollen erneut „Staub aufwirbeln“'
+  anfang: 'Ausstellungseröffnung im Palais mit den Künstlern der „offenen Bildhauerwerkstatt“, Blende8-Fotografen und Schülern der KGS'
+  datum: '2015-03-20'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/03/19/mehr-service-gewuenscht/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/03/19/mehr-service-gewuenscht/'
   name: ' Mehr Service gewünscht '
-  anfang: >
-    Die SPD-Fraktion möchte zusätzliche
-    Öffnungszeiten für den Recyclinghof.
-    Auch die Grünen haben einen Antrag an
-    die Verwaltung gestellt, sie wollen sich
-    im Schulausschuss über die Umsetzung
-    der Inklusion informieren.
-  datum: 2015-03-19
+  anfang: 'Die SPD-Fraktion möchte zusätzliche Öffnungszeiten für den Recyclinghof. Auch die Grünen haben einen Antrag an die Verwaltung gestellt, sie wollen sich im Schulausschuss über die Umsetzung der Inklusion informieren.'
+  datum: '2015-03-19'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/05/18/comedy-highlight-keiner-wird-gewinnen-in-rastede/
-  name: >
-    Comedy-Highlight „Keiner wird
-    gewinnen“ in Rastede
+-
+  link: 'https://www.rasteder-rundschau.de/2015/05/18/comedy-highlight-keiner-wird-gewinnen-in-rastede/'
+  name: 'Comedy-Highlight „Keiner wird gewinnen“ in Rastede'
   anfang: 'Die Live Show mit Emmi & Willnowsky steigt am 6. Juni in der Neuen Aula'
-  datum: 2015-03-18
+  datum: '2015-03-18'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/03/17/abschied-vom-uebervater/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/03/17/abschied-vom-uebervater/'
   name: ' Abschied vom Übervater '
-  anfang: >
-    Walter Kohl liest am Freitag im Hof von
-    Oldenburg aus seinen Büchern vor. Der
-    Sohn des Ex-Kanzlers Helmut Kohl hat
-    sich aus seiner Depression befreit und
-    ist als Bestseller-Autor auf
-    Erfolgskurs.
-  datum: 2015-03-17
+  anfang: 'Walter Kohl liest am Freitag im Hof von Oldenburg aus seinen Büchern vor. Der Sohn des Ex-Kanzlers Helmut Kohl hat sich aus seiner Depression befreit und ist als Bestseller-Autor auf Erfolgskurs.'
+  datum: '2015-03-17'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/03/12/schulelternratsvorsitzender-wirft-das-handtuch/
-  name: >
-    Schulelternratsvorsitzender wirft das
-    Handtuch
-  anfang: >
-    Seit über einem Jahr brodelt der Streit
-    um die Klassenfahrten an der KGS. Nun
-    tritt Vorsitzender Jörg Uhrig zurück.
-  datum: 2015-03-12
+-
+  link: 'https://www.rasteder-rundschau.de/2015/03/12/schulelternratsvorsitzender-wirft-das-handtuch/'
+  name: 'Schulelternratsvorsitzender wirft das Handtuch'
+  anfang: 'Seit über einem Jahr brodelt der Streit um die Klassenfahrten an der KGS. Nun tritt Vorsitzender Jörg Uhrig zurück.'
+  datum: '2015-03-12'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/03/09/wir-menschen-und-unsere-erde/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/03/09/wir-menschen-und-unsere-erde/'
   name: ' Wir Menschen und unsere Erde '
-  anfang: >
-    Die KGS zeichnete die Sieger des
-    Geographie-Wettbewerbs aus
-  datum: 2015-03-09
+  anfang: 'Die KGS zeichnete die Sieger des Geographie-Wettbewerbs aus'
+  datum: '2015-03-09'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/05/08/du-hast-nur-ein-leben/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/05/08/du-hast-nur-ein-leben/'
   name: ' Du hast nur ein Leben '
-  anfang: >
-    Zum 25. Mal wurde an der KGS Rastede der
-    Bartholomäus-Schink-Preis verliehen.
-    Noch nie hat es so viele Beiträge
-    gegeben.
-  datum: 2015-03-08
+  anfang: 'Zum 25. Mal wurde an der KGS Rastede der Bartholomäus-Schink-Preis verliehen. Noch nie hat es so viele Beiträge gegeben.'
+  datum: '2015-03-08'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/02/26/gegen-rassismus-fuer-menschlichkeit/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/02/26/gegen-rassismus-fuer-menschlichkeit/'
   name: ' Gegen Rassismus, für Menschlichkeit '
-  anfang: >
-    Vor 25 Jahren wurde an der KGS Rastede
-    zum ersten Mal der
-    Bartholomäus-Schink-Preis verliehen.
-    Zum Jubiläum sind die Schülerinnen und
-    Schüler jetzt aufgefordert, sich dem
-    Thema „Wie wollen wir leben?“ zu
-    widmen.
-  datum: 2015-02-26
+  anfang: 'Vor 25 Jahren wurde an der KGS Rastede zum ersten Mal der Bartholomäus-Schink-Preis verliehen. Zum Jubiläum sind die Schülerinnen und Schüler jetzt aufgefordert, sich dem Thema „Wie wollen wir leben?“ zu widmen.'
+  datum: '2015-02-26'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/02/24/knapp-vorbei/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/02/24/knapp-vorbei/'
   name: ' Knapp vorbei '
-  anfang: >
-    Die Roboter AG der KGS nahm am ersten
-    Oldenburger Qualifikationsturnier für
-    den Deutschen RoboCup teil und schied
-    leider aus
-  datum: 2015-02-24
+  anfang: 'Die Roboter AG der KGS nahm am ersten Oldenburger Qualifikationsturnier für den Deutschen RoboCup teil und schied leider aus'
+  datum: '2015-02-24'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/02/19/schnittchenschmierer-gesucht/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/02/19/schnittchenschmierer-gesucht/'
   name: ' Schnittchenschmierer gesucht'
-  anfang: >
-    Lust auf eine sinnvolle, leicht zu
-    bewältigende Aufgabe in einem netten
-    Team? Die KGS-Cafeteria braucht
-    ehrenamtliche Unterstützung.
-  datum: 2015-02-19
+  anfang: 'Lust auf eine sinnvolle, leicht zu bewältigende Aufgabe in einem netten Team? Die KGS-Cafeteria braucht ehrenamtliche Unterstützung.'
+  datum: '2015-02-19'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/02/13/wenn-blaeser-auf-die-pauke-hauen/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/02/13/wenn-blaeser-auf-die-pauke-hauen/'
   name: ' Wenn Bläser auf die Pauke hauen '
-  anfang: >
-    Auch in diesem Jahr war der
-    Marschmusik-Workshop in Rastede ein
-    voller Erfolg. 190 Teilnehmer aus ganz
-    Deutschland legten sich mächtig ins
-    Zeug.
-  datum: 2015-02-13
+  anfang: 'Auch in diesem Jahr war der Marschmusik-Workshop in Rastede ein voller Erfolg. 190 Teilnehmer aus ganz Deutschland legten sich mächtig ins Zeug.'
+  datum: '2015-02-13'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/02/13/soziale-kompetenz-fuer-junge-und-alte-menschen/
-  name: >
-    Soziale Kompetenz für junge und alte
-    Menschen
-  anfang: >
-    Sofa-Team der KGS absolviert erfolgreich
-    einen Babysitterkursus
-  datum: 2015-02-13
+-
+  link: 'https://www.rasteder-rundschau.de/2015/02/13/soziale-kompetenz-fuer-junge-und-alte-menschen/'
+  name: 'Soziale Kompetenz für junge und alte Menschen'
+  anfang: 'Sofa-Team der KGS absolviert erfolgreich einen Babysitterkursus'
+  datum: '2015-02-13'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/02/06/kammermusik-mit-ausnahme-duo/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/02/06/kammermusik-mit-ausnahme-duo/'
   name: ' Kammermusik mit Ausnahme-Duo '
-  anfang: >
-    Beim traditionellen Benefizkonzert des
-    Lions Clubs Rastede tritt das Klavierduo
-    „Reine Elisabeth“ auf
-  datum: 2015-02-06
+  anfang: 'Beim traditionellen Benefizkonzert des Lions Clubs Rastede tritt das Klavierduo „Reine Elisabeth“ auf'
+  datum: '2015-02-06'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2015/01/26/schueler-als-wirtschaftsprofis/
+-
+  link: 'https://www.rasteder-rundschau.de/2015/01/26/schueler-als-wirtschaftsprofis/'
   name: ' Schüler als Wirtschaftsprofis'
-  anfang: >
-    Schülerinnen und Schüler der Rasteder
-    Schulen haben sich am dritten Rasteder
-    „Oeconomicus“ beteiligt
-  datum: 2015-01-26
+  anfang: 'Schülerinnen und Schüler der Rasteder Schulen haben sich am dritten Rasteder „Oeconomicus“ beteiligt'
+  datum: '2015-01-26'
   medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2015/02/13/kulturabend-der-kgs/
-  name: >
-    Theater, Musik und viel Applaus beim
-    Kulturabend der KGS
-  anfang: >
-    Der angeblich erste Liebesbrief der
-    Welt, geschrieben von einer Nonne an
-    einen Mönch, zog sich wie ein roter
-    Faden durch den Kulturabend des 12.
-    Jahrgangs der KGS. Beziehungen standen
-    also auf dem Programm.
-  datum: 2015-01-02
+-
+  link: 'https://rasteder-rundschau.de/2015/02/13/kulturabend-der-kgs/'
+  name: 'Theater, Musik und viel Applaus beim Kulturabend der KGS'
+  anfang: 'Der angeblich erste Liebesbrief der Welt, geschrieben von einer Nonne an einen Mönch, zog sich wie ein roter Faden durch den Kulturabend des 12. Jahrgangs der KGS. Beziehungen standen also auf dem Programm.'
+  datum: '2015-01-02'
   medium: rastederrundschau
 
 ----

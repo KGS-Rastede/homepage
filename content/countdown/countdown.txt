@@ -2,24 +2,24 @@ Title: Countdowns
 
 ----
 
-Countdownaktiv: true
+Countdownaktiv: false
 
 ----
 
-Infotextaktiv: true
+Infotextaktiv: false
 
 ----
 
-Infotext: Der Text läuft gut lesbar als Hinweis über den Monitor. Zum **Beispiel** bei Busausfällen *oder* kurzfristigen Änderungen.
+Infotext: 
 
 ----
 
 Countdowns:
 
-- 
-  titel: Sommerferien
-  datum: 2026-06-05
-  aktiv: 'true'
+-
+  titel: ' '
+  datum: '2026-08-17'
+  aktiv: 'false'
   0: 'titel": "Sommerferien'
   1: 'datum": "2025-07-17'
   2: 'aktiv": "true'

@@ -4,495 +4,257 @@ Title: 2021
 
 Pressenachrichten:
 
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-schulbau-kgs-waechst-um-26-meter-in-die-breite_a_51,5,1272917078.html
-  name: KGS wächst um 26 Meter in die Breite
-  anfang: >
-    Die Kooperative Gesamtschule Rastede
-    erhält einen weiteren Anbau. Die ersten
-    Arbeiten wurden jetzt vergeben. Schon
-    jetzt darf sich die Schule über neue
-    Ausstattung für den Physikunterricht
-    freuen.
-  datum: 2021-12-26
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-schulbau-kgs-waechst-um-26-meter-in-die-breite_a_51,5,1272917078.html'
+  name: 'KGS wächst um 26 Meter in die Breite'
+  anfang: 'Die Kooperative Gesamtschule Rastede erhält einen weiteren Anbau. Die ersten Arbeiten wurden jetzt vergeben. Schon jetzt darf sich die Schule über neue Ausstattung für den Physikunterricht freuen.'
+  datum: '2021-12-26'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-wildtierauffangstation-vorm-winterschlaf-gehts-auf-die-waage_a_51,4,2610967592.html
-  name: >
-    Ungewöhnliche Inventur in Rasteder
-    Wildtierstation
-  anfang: Vorm Winterschlaf geht’s auf die Waage
-  datum: 2021-11-20
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-wildtierauffangstation-vorm-winterschlaf-gehts-auf-die-waage_a_51,4,2610967592.html'
+  name: 'Ungewöhnliche Inventur in Rasteder Wildtierstation'
+  anfang: 'Vorm Winterschlaf geht’s auf die Waage'
+  datum: '2021-11-20'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-auszeichnung-wie-die-kgs-eine-gesunde-lebenswelt-schaffen-will_a_51,4,2537385281.html
-  name: >
-    Rastedes größte Schule freut sich
-    über Auszeichnung
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-auszeichnung-wie-die-kgs-eine-gesunde-lebenswelt-schaffen-will_a_51,4,2537385281.html'
+  name: 'Rastedes größte Schule freut sich über Auszeichnung'
   anfang: 'Der Lern- und Arbeitsort Schule soll sich zu einer gesunden Lebenswelt entwickeln – für Schüler und Lehrer der KGS Rastede. Einiges wurde bereits verändert, es gibt aber noch viel zu tun.'
-  datum: 2021-11-19
+  datum: '2021-11-19'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-schulradeln-schuelerin-tritt-fuers-klima-in-die-pedale_a_51,4,2465768148.html
-  name: >
-    Diese Schülerin tritt fürs Klima in
-    die Pedale
-  anfang: >
-    Anfangs brauchte Saskia Butt mit dem Rad
-    noch 45 Minuten für den Schulweg nach
-    Rastede. Am Ende schaffte sie es in
-    weniger als einer halben Stunde. Jetzt
-    durfte sie zur Preisverleihung in
-    Hannover.
-  datum: 2021-11-12
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-schulradeln-schuelerin-tritt-fuers-klima-in-die-pedale_a_51,4,2465768148.html'
+  name: 'Diese Schülerin tritt fürs Klima in die Pedale'
+  anfang: 'Anfangs brauchte Saskia Butt mit dem Rad noch 45 Minuten für den Schulweg nach Rastede. Am Ende schaffte sie es in weniger als einer halben Stunde. Jetzt durfte sie zur Preisverleihung in Hannover.'
+  datum: '2021-11-12'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede_a_51,3,4076286831.html
-  name: >
-    Neue Geräte für Physikunterricht in
-    Rastede
-  anfang: >
-    Lehrplan-Änderungen im Fach Physik
-    machen die Anschaffung neuen Materials
-    erforderlich. Die Gemeinde investiert
-    jetzt 143.000 Euro in die Ausstattung an
-    der Kooperativen Gesamtschule.
-  datum: 2021-10-12
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede_a_51,3,4076286831.html'
+  name: 'Neue Geräte für Physikunterricht in Rastede'
+  anfang: 'Lehrplan-Änderungen im Fach Physik machen die Anschaffung neuen Materials erforderlich. Die Gemeinde investiert jetzt 143.000 Euro in die Ausstattung an der Kooperativen Gesamtschule.'
+  datum: '2021-10-12'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2021/09/30/balu-und-du-geht-an-den-start/
+-
+  link: 'https://www.rasteder-rundschau.de/2021/09/30/balu-und-du-geht-an-den-start/'
   name: ' „Balu und Du“ geht an den Start'
-  anfang: >
-    Zum nächsten Schuljahr startet ein
-    neues Präventionsprojekt. Zum Auftakt
-    kooperieren die KGS, die Grundschule
-    Feldbreite und die Gemeinde
-  datum: 2021-09-30
+  anfang: 'Zum nächsten Schuljahr startet ein neues Präventionsprojekt. Zum Auftakt kooperieren die KGS, die Grundschule Feldbreite und die Gemeinde'
+  datum: '2021-09-30'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-praeventionsprojekt-patenschaften-zwischen-moglis-und-balus_a_51,3,3121177016.html
-  name: >
-    Patenschaften zwischen „Moglis“ und
-    „Balus“
-  anfang: >
-    In Rastede schließen Grundschulkinder
-    und Zwölftklässler eine einjährige
-    Patenschaft und verbringen außerhalb
-    der Schule Zeit miteinander. „Balu und
-    Du“ heißt dieses Programm. Was steckt
-    dahinter?
-  datum: 2021-09-29
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-praeventionsprojekt-patenschaften-zwischen-moglis-und-balus_a_51,3,3121177016.html'
+  name: 'Patenschaften zwischen „Moglis“ und „Balus“'
+  anfang: 'In Rastede schließen Grundschulkinder und Zwölftklässler eine einjährige Patenschaft und verbringen außerhalb der Schule Zeit miteinander. „Balu und Du“ heißt dieses Programm. Was steckt dahinter?'
+  datum: '2021-09-29'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-juniorwahl-urnengang-im-klassenzimmer_a_51,3,2765278360.html
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-juniorwahl-urnengang-im-klassenzimmer_a_51,3,2765278360.html'
   name: ' Urnengang im Klassenzimmer '
   anfang: 'Wahlbenachrichtigung, Wahlkabine, Wahlurne: So real wie möglich wird in Rastede die Bundestagswahl simuliert. Die KGS beteiligt sich an der bundesweiten Juniorwahl. Was hat es damit auf sich?'
-  datum: 2021-09-24
+  datum: '2021-09-24'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2021/09/24/allefuersklima/
+-
+  link: 'https://www.rasteder-rundschau.de/2021/09/24/allefuersklima/'
   name: ' #AlleFürsKlima '
-  anfang: >
-    Hunderte gehen in Rastede für mehr
-    Klimaschutz auf die Straße
-  datum: 2021-09-24
+  anfang: 'Hunderte gehen in Rastede für mehr Klimaschutz auf die Straße'
+  datum: '2021-09-24'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2021/09/20/wir-streiken-bis-ihr-handelt-2/
+-
+  link: 'https://www.rasteder-rundschau.de/2021/09/20/wir-streiken-bis-ihr-handelt-2/'
   name: ' „Wir streiken, bis Ihr handelt!“'
-  anfang: >
-    Der nächste Globale Klimastreik der
-    Fridays for Future-Bewegung ist am 24.
-    September. Start in Rastede ist 10 Uhr
-    vor der KGS Wilhelmstraße.
-  datum: 2021-09-20
+  anfang: 'Der nächste Globale Klimastreik der Fridays for Future-Bewegung ist am 24. September. Start in Rastede ist 10 Uhr vor der KGS Wilhelmstraße.'
+  datum: '2021-09-20'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-neues-schulgebaeude-komplett-aus-modulen_a_51,3,1309020848.html
-  name: Neues Schulgebäude komplett aus Modulen
-  anfang: >
-    In gerade mal acht Wochen Bauzeit ist in
-    Rastede ein neues Schulgebäude
-    entstanden. Dass der Trakt aus 20
-    einzelnen Modulen zusammengesetzt wurde,
-    sieht man dem dabei Bau nicht an.
-  datum: 2021-09-03
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-neues-schulgebaeude-komplett-aus-modulen_a_51,3,1309020848.html'
+  name: 'Neues Schulgebäude komplett aus Modulen'
+  anfang: 'In gerade mal acht Wochen Bauzeit ist in Rastede ein neues Schulgebäude entstanden. Dass der Trakt aus 20 einzelnen Modulen zusammengesetzt wurde, sieht man dem dabei Bau nicht an.'
+  datum: '2021-09-03'
   medium: nwz
-- 
-  link: >
-    https://mobil.nwzonline.de/plus-ammerland/rastede-wlan-in_a_51,2,3683026765.html
+-
+  link: 'https://mobil.nwzonline.de/plus-ammerland/rastede-wlan-in_a_51,2,3683026765.html'
   name: ' WLAN in Schulen verbessern '
-  anfang: >
-    Die Kooperative Gesamtschule in Rastede
-    ist nach Auffassung der Gemeinde
-    ausreichend mit WLAN versorgt. Jetzt
-    soll auch die Ausstattung der übrigen
-    Schulen verbessert werden.
-  datum: 2021-08-05
+  anfang: 'Die Kooperative Gesamtschule in Rastede ist nach Auffassung der Gemeinde ausreichend mit WLAN versorgt. Jetzt soll auch die Ausstattung der übrigen Schulen verbessert werden.'
+  datum: '2021-08-05'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-hochwasserkatastrophe-kgsschueler-zeigen-grosse-hilfsbereitschaft_a_51,2,2438877058.html
-  name: >
-    Schüler wollen den Opfern des
-    Hochwassers helfen
-  anfang: >
-    Durch die Hochwasserkatastrophe, die
-    sich aktuell in Deutschland abspielt,
-    haben viele Menschen fast alles
-    verloren. Die Schülerinnen und Schüler
-    der KGS haben nun eine Spendenaktion
-    initiiert.
-  datum: 2021-07-21
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-hochwasserkatastrophe-kgsschueler-zeigen-grosse-hilfsbereitschaft_a_51,2,2438877058.html'
+  name: 'Schüler wollen den Opfern des Hochwassers helfen'
+  anfang: 'Durch die Hochwasserkatastrophe, die sich aktuell in Deutschland abspielt, haben viele Menschen fast alles verloren. Die Schülerinnen und Schüler der KGS haben nun eine Spendenaktion initiiert.'
+  datum: '2021-07-21'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-es-geht-um-meer-herausforderungen-wurden-gut-angenommen_a_51,2,2368539037.html
-  name: >
-    Viele positive Rückmeldungen zur
-    zehnwöchigen Nachhaltigkeits-Challenge
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-es-geht-um-meer-herausforderungen-wurden-gut-angenommen_a_51,2,2368539037.html'
+  name: 'Viele positive Rückmeldungen zur zehnwöchigen Nachhaltigkeits-Challenge'
   anfang: 'Die zehnwöchige Nachhaltigkeits-Challenge der Gruppe „Es geht um Meer“ ist beendet. Die Rückmeldungen sind ausschließlich positiv. Der Appell der Gruppe: Jeder kann etwas bewirken.'
-  datum: 2021-07-21
+  datum: '2021-07-21'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-wettbewerb-rasteder-punktet-mit-eigenem-film_a_51,2,2293104647.html
-  name: >
-    Rasteder Schüler schafft es mit eigenem
-    Film auf Platz eins
-  anfang: >
-    Tobias Mester aus Rastede hat mit seinem
-    eigenen Film den ersten Platz bei der
-    Niedersachsen Filmklappe belegt. Der
-    spannende Streifen „Don’t open“
-    hat die Jury überzeugt.
-  datum: 2021-07-20
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-wettbewerb-rasteder-punktet-mit-eigenem-film_a_51,2,2293104647.html'
+  name: 'Rasteder Schüler schafft es mit eigenem Film auf Platz eins'
+  anfang: 'Tobias Mester aus Rastede hat mit seinem eigenen Film den ersten Platz bei der Niedersachsen Filmklappe belegt. Der spannende Streifen „Don’t open“ hat die Jury überzeugt.'
+  datum: '2021-07-20'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2021/07/19/schoenere-fassade-neues-mobiliar/
+-
+  link: 'https://www.rasteder-rundschau.de/2021/07/19/schoenere-fassade-neues-mobiliar/'
   name: ' Schönere Fassade, neues Mobiliar'
   anfang: 'Der Verwaltungstrakt der Kooperativen Gesamtschule (KGS) Rastede an der Wilhelmstraße wird während der Sommerferien saniert. Neben Metallbau- und Verglasungsarbeiten an der Fassade wird im Inneren renoviert und das Mobiliar erneuert.'
-  datum: 2021-07-19
+  datum: '2021-07-19'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-umweltaktion-stadtradler-sparen-18-tonnen-co_a_51,2,1487221760.html
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-umweltaktion-stadtradler-sparen-18-tonnen-co_a_51,2,1487221760.html'
   name: ' 18 Tonnen CO2 eingespart '
   anfang: 'Das „Stadtradeln“ in Rastede war ein voller Erfolg: 880 Teilnehmende sind innerhalb von 3 Wochen über 120 000 Kilometer geradelt. Die Einsparung an CO2 -Emission kann sich sehen lassen.'
-  datum: 2021-07-09
+  datum: '2021-07-09'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-zeugnisvergabe-den-schulabschluss-in-der-tasche_a_51,2,1252940697.html
-  name: Den Schulabschluss in der Tasche
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-zeugnisvergabe-den-schulabschluss-in-der-tasche_a_51,2,1252940697.html'
+  name: 'Den Schulabschluss in der Tasche'
   anfang: '152 Schülerinnen und Schüler der KGS Rastede haben Grund zur Freude: Sie haben ihren Schulabschluss in der Tasche. Zehn von ihnen wurden für besondere Leistung ausgezeichnet.'
-  datum: 2021-07-07
+  datum: '2021-07-07'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-bildung-ein-jahrgang-ohne-all-die-schoenen-dinge_a_51,2,1097957569.html
-  name: Ein Jahrgang ohne all die schönen Dinge
-  anfang: >
-    Der Abiturjahrgang der KGS Rastede wurde
-    am Wochenende verabschiedet. Nicht nur
-    die Schüler bedauerten, im Corona-Jahr
-    einiges verpasst zu haben.
-  datum: 2021-07-05
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-bildung-ein-jahrgang-ohne-all-die-schoenen-dinge_a_51,2,1097957569.html'
+  name: 'Ein Jahrgang ohne all die schönen Dinge'
+  anfang: 'Der Abiturjahrgang der KGS Rastede wurde am Wochenende verabschiedet. Nicht nur die Schüler bedauerten, im Corona-Jahr einiges verpasst zu haben.'
+  datum: '2021-07-05'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-pandemie-so-denken-schueler-ueber-corona_a_51,2,912142066.html
-  name: So denken Schüler über Corona
-  anfang: >
-    Mehr als 200 Schüler haben sich an der
-    KGS Rastede mit den Folgen der
-    Corona-Pandemie beschäftigt. Für einen
-    der entstandenen Beiträge gab es sogar
-    einen Preis bei einem bundesweiten
-    Wettbewerb.
-  datum: 2021-07-03
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-pandemie-so-denken-schueler-ueber-corona_a_51,2,912142066.html'
+  name: 'So denken Schüler über Corona'
+  anfang: 'Mehr als 200 Schüler haben sich an der KGS Rastede mit den Folgen der Corona-Pandemie beschäftigt. Für einen der entstandenen Beiträge gab es sogar einen Preis bei einem bundesweiten Wettbewerb.'
+  datum: '2021-07-03'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/region/im-nordwesten-zeugnisuebergabe-abschlussfeiern_a_51,2,934831067.html
+-
+  link: 'https://www.nwzonline.de/region/im-nordwesten-zeugnisuebergabe-abschlussfeiern_a_51,2,934831067.html'
   name: 'Schülerinnen und Schüler erhalten ihre Abschlusszeugnisse - ein Überblick'
   anfang: 'Es war ein besonderes Schuljahr: Trotz Corona-Pandemie haben am Freitag bei feierlichen Verabschiedungen zahlreiche Schülerinnen und Schüler im Nordwesten ihre Abschlusszeugnisse erhalten. Hier gibt es den Überblick.'
-  datum: 2021-07-03
+  datum: '2021-07-03'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-praeventionstag-was-schueler-ueber-sucht-wissen-muessen_a_51,1,3837062587.html
-  name: Was Schüler über Sucht wissen müssen
-  anfang: >
-    Jeder Schüler kommt irgendwann in
-    Kontakt mit Drogen, sagt
-    Präventionsexperte Michael Schröder.
-    Rasteder Achtklässler beschäftigten
-    sich jetzt mit dem Thema. Eine
-    Sozialarbeiterin findet das zu spät.
-  datum: 2021-06-12
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-praeventionstag-was-schueler-ueber-sucht-wissen-muessen_a_51,1,3837062587.html'
+  name: 'Was Schüler über Sucht wissen müssen'
+  anfang: 'Jeder Schüler kommt irgendwann in Kontakt mit Drogen, sagt Präventionsexperte Michael Schröder. Rasteder Achtklässler beschäftigten sich jetzt mit dem Thema. Eine Sozialarbeiterin findet das zu spät.'
+  datum: '2021-06-12'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede_a_51,1,3162491693.html
-  name: >
-    Bis zum 21. Juni möglichst viele
-    Kilometer sammeln
-  anfang: >
-    So viele Kilometer wie möglich wollen
-    die Rasteder bis zum 21. Juni sammeln.
-    Die Kooperative Gesamtschule trat zum
-    Auftakt schon mal kräftig in die
-    Pedale.
-  datum: 2021-06-02
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede_a_51,1,3162491693.html'
+  name: 'Bis zum 21. Juni möglichst viele Kilometer sammeln'
+  anfang: 'So viele Kilometer wie möglich wollen die Rasteder bis zum 21. Juni sammeln. Die Kooperative Gesamtschule trat zum Auftakt schon mal kräftig in die Pedale.'
+  datum: '2021-06-02'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-umwelt-initiative-aus-rastede-ueber-mehrere-tage_a_51,1,147084514.html
-  name: Über mehrere Tage Plastikmüll sammeln
-  anfang: >
-    Zehn Wochen lang ruft die Gruppe „Es
-    geht um Meer“ zu Herausforderungen
-    rund um das Thema Nachhaltigkeit auf. In
-    dieser Woche soll über mehrere Tage
-    Plastikmüll gesammelt werden.
-  datum: 2021-04-24
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-umwelt-initiative-aus-rastede-ueber-mehrere-tage_a_51,1,147084514.html'
+  name: 'Über mehrere Tage Plastikmüll sammeln'
+  anfang: 'Zehn Wochen lang ruft die Gruppe „Es geht um Meer“ zu Herausforderungen rund um das Thema Nachhaltigkeit auf. In dieser Woche soll über mehrere Tage Plastikmüll gesammelt werden.'
+  datum: '2021-04-24'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-schulerweiterung-in-rastede-neue-klassenraeume-in-nur-zwei-monaten_a_51,0,4284936898.html
-  name: Neue Klassenräume in nur zwei Monaten
-  anfang: >
-    An der Feldbreite lässt die Gemeinde
-    Rastede erstmals ein Schulgebäude aus
-    Fertigbauteilen errichten. Wer dabei
-    noch das alte Bild von Containerklassen
-    vor Augen hat, der irrt.
-  datum: 2021-04-23
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-schulerweiterung-in-rastede-neue-klassenraeume-in-nur-zwei-monaten_a_51,0,4284936898.html'
+  name: 'Neue Klassenräume in nur zwei Monaten'
+  anfang: 'An der Feldbreite lässt die Gemeinde Rastede erstmals ein Schulgebäude aus Fertigbauteilen errichten. Wer dabei noch das alte Bild von Containerklassen vor Augen hat, der irrt.'
+  datum: '2021-04-23'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/ammerland-pandemie-im-ammerland-selbsttests-laufen-in-rastede-ganz-gut_a_51,0,3954176809.html
-  name: Selbsttests laufen in Rastede ganz gut
-  anfang: >
-    Für eine richtige Bilanz ist es nach
-    einer Woche Test-Strategie an den
-    Schulen noch zu früh. Doch zumindest in
-    Rastede läuft es gut.
-  datum: 2021-04-17
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/ammerland-pandemie-im-ammerland-selbsttests-laufen-in-rastede-ganz-gut_a_51,0,3954176809.html'
+  name: 'Selbsttests laufen in Rastede ganz gut'
+  anfang: 'Für eine richtige Bilanz ist es nach einer Woche Test-Strategie an den Schulen noch zu früh. Doch zumindest in Rastede läuft es gut.'
+  datum: '2021-04-17'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-umwelt-initiative-aus-rastede-zehn-wochen-fuer-ein-nachhaltiges-leben_a_51,0,3945812785.html
-  name: Zehn Wochen für ein nachhaltiges Leben
-  anfang: >
-    Die Gruppe „Es geht um Meer“ stellt
-    den Bürgern ab Montag Aufgaben, in
-    denen es um Nachhaltigkeit geht. Zehn
-    Wochen lang sollen die Rasteder animiert
-    werden, etwas Neues auszuprobieren und
-    im besten Falle umzudenken.
-  datum: 2021-04-17
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-umwelt-initiative-aus-rastede-zehn-wochen-fuer-ein-nachhaltiges-leben_a_51,0,3945812785.html'
+  name: 'Zehn Wochen für ein nachhaltiges Leben'
+  anfang: 'Die Gruppe „Es geht um Meer“ stellt den Bürgern ab Montag Aufgaben, in denen es um Nachhaltigkeit geht. Zehn Wochen lang sollen die Rasteder animiert werden, etwas Neues auszuprobieren und im besten Falle umzudenken.'
+  datum: '2021-04-17'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/ammerland-pandemie-im-ammerland-selbsttests-laufen-in-rastede-ganz-gut_a_51,0,3954176809.html
-  name: Selbsttests laufen in Rastede ganz gut
-  anfang: >
-    Für eine richtige Bilanz ist es nach
-    einer Woche Test-Strategie an den
-    Schulen noch zu früh. Doch zumindest in
-    Rastede läuft es gut.
-  datum: 2021-04-17
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/ammerland-pandemie-im-ammerland-selbsttests-laufen-in-rastede-ganz-gut_a_51,0,3954176809.html'
+  name: 'Selbsttests laufen in Rastede ganz gut'
+  anfang: 'Für eine richtige Bilanz ist es nach einer Woche Test-Strategie an den Schulen noch zu früh. Doch zumindest in Rastede läuft es gut.'
+  datum: '2021-04-17'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/ausgabestellen-und-zeiten-in-rastede-kgs-verteilt-montag-corona-testkits_a_51,0,3516986589.html
-  name: KGS verteilt Montag Corona-Testkits
-  anfang: >
-    Am Dienstag geht in Rastede die Schule
-    wieder los. Darum werden am Montag
-    Corona-Schnelltests an die Schüler
-    verteilt.
-  datum: 2021-04-10
+-
+  link: 'https://www.nwzonline.de/ammerland/ausgabestellen-und-zeiten-in-rastede-kgs-verteilt-montag-corona-testkits_a_51,0,3516986589.html'
+  name: 'KGS verteilt Montag Corona-Testkits'
+  anfang: 'Am Dienstag geht in Rastede die Schule wieder los. Darum werden am Montag Corona-Schnelltests an die Schüler verteilt.'
+  datum: '2021-04-10'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2021/03/23/vier-neue-klassenraeume-fuer-die-kgs-feldbreite/
-  name: >
-    Vier neue Klassenräume für die KGS
-    Feldbreite
-  anfang: >
-    Um ein halbes Jahr verspätet sind die
-    Bauarbeiten an der KGS Feldbreite nun
-    angelaufen. Die Fläche wird für die
-    Montage eines Gebäudetrakts in
-    Modulbauweise vorbereitet.
-  datum: 2021-03-23
+-
+  link: 'https://www.rasteder-rundschau.de/2021/03/23/vier-neue-klassenraeume-fuer-die-kgs-feldbreite/'
+  name: 'Vier neue Klassenräume für die KGS Feldbreite'
+  anfang: 'Um ein halbes Jahr verspätet sind die Bauarbeiten an der KGS Feldbreite nun angelaufen. Die Fläche wird für die Montage eines Gebäudetrakts in Modulbauweise vorbereitet.'
+  datum: '2021-03-23'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-weiter-weg-zum-digitalen-klassenzimmer_a_51,0,1695684419.html
-  name: Weiter Weg zum digitalen Klassenzimmer
-  anfang: >
-    Aus dem Digitalpakt beschafft die
-    Gemeinde Rastede Dokumentenkameras und
-    Freisprechsysteme für Konferenzen. Aus
-    Sicht der Schule ist das aber nur ein
-    erster Schritt, weil wichtige Geräte
-    nach wie vor fehlen.
-  datum: 2021-03-13
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-weiter-weg-zum-digitalen-klassenzimmer_a_51,0,1695684419.html'
+  name: 'Weiter Weg zum digitalen Klassenzimmer'
+  anfang: 'Aus dem Digitalpakt beschafft die Gemeinde Rastede Dokumentenkameras und Freisprechsysteme für Konferenzen. Aus Sicht der Schule ist das aber nur ein erster Schritt, weil wichtige Geräte nach wie vor fehlen.'
+  datum: '2021-03-13'
   medium: nwz
-- 
-  link: >
-    http://www.nwzonline.de/plus-ammerland/rastede-kooperative-gesamtschule-rastede-lehrer-auf-vier-pfoten-eingeschult_a_51,0,1480877244.html
-  name: Lehrer auf vier Pfoten eingeschult
-  anfang: >
-    Der Australian Shepherd „Ghost“ soll
-    das soziale Miteinander im Klassenzimmer
-    positiv beeinflussen. Er soll nicht der
-    einzige Schulhund an der KGS Rastede
-    bleiben.
-  datum: 2021-03-10
+-
+  link: 'http://www.nwzonline.de/plus-ammerland/rastede-kooperative-gesamtschule-rastede-lehrer-auf-vier-pfoten-eingeschult_a_51,0,1480877244.html'
+  name: 'Lehrer auf vier Pfoten eingeschult'
+  anfang: 'Der Australian Shepherd „Ghost“ soll das soziale Miteinander im Klassenzimmer positiv beeinflussen. Er soll nicht der einzige Schulhund an der KGS Rastede bleiben.'
+  datum: '2021-03-10'
   medium: nwz
-- 
-  link: >
-    https://www.rastede.de/2021/03/kgs-kann-hybridunterricht-demnaechst-deutlich-ausweiten/
-  name: >
-    KGS kann Hybridunterricht demnächst
-    deutlich ausweiten
-  anfang: >
-    Die Kooperative Gesamtschule (KGS)
-    Rastede wird besser für den sogenannten
-    Hybridunterricht ausgestattet. Die
-    Auftragsvergabe für die benötigten
-    Geräte hat der Verwaltungsausschuss der
-    Gemeinde Rastede am Dienstag einstimmig
-    beschlossen.
-  datum: 2021-03-01
+-
+  link: 'https://www.rastede.de/2021/03/kgs-kann-hybridunterricht-demnaechst-deutlich-ausweiten/'
+  name: 'KGS kann Hybridunterricht demnächst deutlich ausweiten'
+  anfang: 'Die Kooperative Gesamtschule (KGS) Rastede wird besser für den sogenannten Hybridunterricht ausgestattet. Die Auftragsvergabe für die benötigten Geräte hat der Verwaltungsausschuss der Gemeinde Rastede am Dienstag einstimmig beschlossen.'
+  datum: '2021-03-01'
   medium: gemeinde
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-rosenmontag-mal-anders-rasteder-schueler-feiern-karneval-digital_a_51,0,220294543.html
-  name: >
-    Rasteder Schüler feiern Karneval
-    digital
-  anfang: >
-    Hunderte Schüler feiern am Rosenmontag
-    in Rastede normalerweise zusammen in der
-    Sporthalle Karneval. Weil das wegen
-    Corona in diesem Jahr nicht ging,
-    organisierte eine Lehrerin eine
-    Karnevalsfeier per Videokonferenz.
-  datum: 2021-02-16
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-rosenmontag-mal-anders-rasteder-schueler-feiern-karneval-digital_a_51,0,220294543.html'
+  name: 'Rasteder Schüler feiern Karneval digital'
+  anfang: 'Hunderte Schüler feiern am Rosenmontag in Rastede normalerweise zusammen in der Sporthalle Karneval. Weil das wegen Corona in diesem Jahr nicht ging, organisierte eine Lehrerin eine Karnevalsfeier per Videokonferenz.'
+  datum: '2021-02-16'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-palais-rastede-ausstellung-mit-schuelerarbeiten-erneut-abgesagt_a_50,12,135999009.html
-  name: >
-    Ausstellung mit Schülerarbeiten erneut
-    abgesagt
-  anfang: >
-    Die Corona-Pandemie sorgt zum zweiten
-    Mal für einen Ausfall der Ausstellung.
-    Ein weiterer Nachholtermin ist nun nicht
-    mehr geplant.
-  datum: 2021-02-04
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-palais-rastede-ausstellung-mit-schuelerarbeiten-erneut-abgesagt_a_50,12,135999009.html'
+  name: 'Ausstellung mit Schülerarbeiten erneut abgesagt'
+  anfang: 'Die Corona-Pandemie sorgt zum zweiten Mal für einen Ausfall der Ausstellung. Ein weiterer Nachholtermin ist nun nicht mehr geplant.'
+  datum: '2021-02-04'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-antrag-von-cdu-und-gruenen-passivhaus-soll-neuer-standard-in-rastede-werden_a_50,11,4194234578.html
-  name: >
-    Passivhaus soll neuer Standard in
-    Rastede werden
-  anfang: >
-    Der Anbau der KGS könnte der Auftakt
-    sein. Nicht jeder Neubau oder jede
-    Sanierung soll jedoch nach dem hohen
-    Energieeffizienzstandard geplant werden.
-  datum: 2021-02-01
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-antrag-von-cdu-und-gruenen-passivhaus-soll-neuer-standard-in-rastede-werden_a_50,11,4194234578.html'
+  name: 'Passivhaus soll neuer Standard in Rastede werden'
+  anfang: 'Der Anbau der KGS könnte der Auftakt sein. Nicht jeder Neubau oder jede Sanierung soll jedoch nach dem hohen Energieeffizienzstandard geplant werden.'
+  datum: '2021-02-01'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/schule-bildung-hybridunterricht-szenario-b-rastede-kgs-online-unterricht_a_50,11,3968933818.html
-  name: Hybridunterricht an Schulen gefordert
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/schule-bildung-hybridunterricht-szenario-b-rastede-kgs-online-unterricht_a_50,11,3968933818.html'
+  name: 'Hybridunterricht an Schulen gefordert'
   anfang: 'Die CDU-Ratsfraktion in Rastede beantragt die Möglichkeiten für eine Mischung aus Präsenz- und Online-Unterricht zu prüfen. So könnten alle Schüler wieder gleichzeitig unterrichtet werden'
-  datum: 2021-01-28
+  datum: '2021-01-28'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2021/01/20/lernen-und-lehren-im-passivhaus/
+-
+  link: 'https://www.rasteder-rundschau.de/2021/01/20/lernen-und-lehren-im-passivhaus/'
   name: ' Lernen und Lehren im Passivhaus'
-  anfang: >
-    Schulausschuss beschließt hohen
-    Energieeffizienz-Standard für den
-    geplanten Erweiterungsbau an der KGS
-    Wilhelmstraße. Eine neue
-    Förderrichtlinie machte dies möglich.
-  datum: 2021-01-20
+  anfang: 'Schulausschuss beschließt hohen Energieeffizienz-Standard für den geplanten Erweiterungsbau an der KGS Wilhelmstraße. Eine neue Förderrichtlinie machte dies möglich.'
+  datum: '2021-01-20'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/kgs-rastede-klima-klimaneutral-klimaneutrale-gemeinde-2040-kfw-foerderung-passivhaus-effizienzhaus_a_50,11,3519098052.html
-  name: >
-    Der Klimaschutz steht an erster Stelle
-    beim KGS-Anbau
-  anfang: >
-    Statt Energieeffizienz 55 geht es bei
-    dem geplanten Anbau der KGS Rastede nun
-    um ein Bauvorhaben auf Basis des
-    Passivhaus-Standards. Möglich ist dies
-    aufgrund einer neuen Förderrichtlinie.
-  datum: 2021-01-20
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/kgs-rastede-klima-klimaneutral-klimaneutrale-gemeinde-2040-kfw-foerderung-passivhaus-effizienzhaus_a_50,11,3519098052.html'
+  name: 'Der Klimaschutz steht an erster Stelle beim KGS-Anbau'
+  anfang: 'Statt Energieeffizienz 55 geht es bei dem geplanten Anbau der KGS Rastede nun um ein Bauvorhaben auf Basis des Passivhaus-Standards. Möglich ist dies aufgrund einer neuen Förderrichtlinie.'
+  datum: '2021-01-20'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-oldenburg-stadt/oldenburg-rastede-gemeinsam-in-die-selbststaendigkeit-oldenburger-schueler-schlagen-corona-ein-schnippchen_a_50,11,3271727525.html
-  name: >
-    Oldenburger Schüler schlagen Corona ein
-    Schnippchen
-  anfang: >
-    Was macht man bei zu viel Langeweile?
-    Man gründet ein Unternehmen. Das haben
-    jedenfalls drei Schüler aus Oldenburg
-    und umzu getan.
-  datum: 2021-01-16
+-
+  link: 'https://www.nwzonline.de/plus-oldenburg-stadt/oldenburg-rastede-gemeinsam-in-die-selbststaendigkeit-oldenburger-schueler-schlagen-corona-ein-schnippchen_a_50,11,3271727525.html'
+  name: 'Oldenburger Schüler schlagen Corona ein Schnippchen'
+  anfang: 'Was macht man bei zu viel Langeweile? Man gründet ein Unternehmen. Das haben jedenfalls drei Schüler aus Oldenburg und umzu getan.'
+  datum: '2021-01-16'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/wiefelstede-bildung-in-wiefelstede-so-viele-schueler-erwartet-die-gemeinde_a_50,11,3267306908.html
-  name: So viele Schüler erwartet die Gemeinde
-  anfang: >
-    Aktuell sind 558 Schülerinnen und
-    Schüler an der Oberschule Wiefelstede
-    – in ein paar Jahren vielleicht nur
-    noch 518. Bei den Grundschulen in der
-    Gemeinde sollen die Zahlen konstant
-    bleiben.
-  datum: 2021-01-16
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/wiefelstede-bildung-in-wiefelstede-so-viele-schueler-erwartet-die-gemeinde_a_50,11,3267306908.html'
+  name: 'So viele Schüler erwartet die Gemeinde'
+  anfang: 'Aktuell sind 558 Schülerinnen und Schüler an der Oberschule Wiefelstede – in ein paar Jahren vielleicht nur noch 518. Bei den Grundschulen in der Gemeinde sollen die Zahlen konstant bleiben.'
+  datum: '2021-01-16'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/plus-ammerland/rastede-bildungsreform-vor-50-jahren-als-rastede-eine-eigene-realschule-bekam_a_50,11,2881458553.html
-  name: Als Rastede eine eigene Realschule bekam
-  anfang: >
-    Vor 50 Jahren gab es noch fünf
-    Volksschulen in und um den Residenzort.
-    Tatsächlich hat Rastede eine der
-    ältesten Schulen des Landes.
-  datum: 2021-01-10
+-
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-bildungsreform-vor-50-jahren-als-rastede-eine-eigene-realschule-bekam_a_50,11,2881458553.html'
+  name: 'Als Rastede eine eigene Realschule bekam'
+  anfang: 'Vor 50 Jahren gab es noch fünf Volksschulen in und um den Residenzort. Tatsächlich hat Rastede eine der ältesten Schulen des Landes.'
+  datum: '2021-01-10'
   medium: nwz
 
 ----

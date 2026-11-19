@@ -4,375 +4,203 @@ Title: 2023
 
 Pressenachrichten:
 
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/digitalisierung-an-rasteder-schulen-weiterer-systemadministrator-wird-von-spd-gruenen-und-uwg-gefordert_a_4,0,3672137575.html
+-
+  link: 'https://www.nwzonline.de/ammerland/digitalisierung-an-rasteder-schulen-weiterer-systemadministrator-wird-von-spd-gruenen-und-uwg-gefordert_a_4,0,3672137575.html'
   name: 'Digitalisierung an Rasteder Schulen - Noch einer für alle – Systemadministrator soll Verstärkung bekommen '
-  anfang: >
-    Systemadministrator Mike von Dreele
-    kümmert sich seit 2020 um die
-    Digitalisierung an allen Rasteder
-    Schulen. Jetzt soll er Verstärkung
-    bekommen, fordern SPD, Grüne und UWG.
-    Es gibt aber auch Bedenken.
-  datum: 2023-12-22
+  anfang: 'Systemadministrator Mike von Dreele kümmert sich seit 2020 um die Digitalisierung an allen Rasteder Schulen. Jetzt soll er Verstärkung bekommen, fordern SPD, Grüne und UWG. Es gibt aber auch Bedenken.'
+  datum: '2023-12-22'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/12/19/moderne-lernorte-schaffen/
-  name: Moderne Lernorte schaffen
-  anfang: >
-    Die Mehrheitsgruppe möchte eine
-    zusätzliche IT-Fachkraft für die
-    Rasteder Schulen einstellen. Digitale
-    Infrastruktur soll weiter verbessert
-    werden.
-  datum: 2023-12-19
+-
+  link: 'https://www.rasteder-rundschau.de/2023/12/19/moderne-lernorte-schaffen/'
+  name: 'Moderne Lernorte schaffen'
+  anfang: 'Die Mehrheitsgruppe möchte eine zusätzliche IT-Fachkraft für die Rasteder Schulen einstellen. Digitale Infrastruktur soll weiter verbessert werden.'
+  datum: '2023-12-19'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-erasmus-projekt-zu-nachhaltigkeit-mit-partnerschule-in-italien_a_4,0,3539790318.html
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-erasmus-projekt-zu-nachhaltigkeit-mit-partnerschule-in-italien_a_4,0,3539790318.html'
   name: 'Europäisches Umweltprojekt - Warum Rasteder Schüler in Italien Müll sammeln '
-  anfang: >
-    Im Zuge eines Erasmus-Projektes
-    engagierten sich Schüler aus Rastede in
-    Italien. Die Ergebnisse ihrer Arbeit
-    nutzt das dortige Umweltministerium für
-    eine Studie.
-  datum: 2023-12-12
+  anfang: 'Im Zuge eines Erasmus-Projektes engagierten sich Schüler aus Rastede in Italien. Die Ergebnisse ihrer Arbeit nutzt das dortige Umweltministerium für eine Studie.'
+  datum: '2023-12-12'
   medium: nwz
-- 
-  link: >
-    https://www.mk.niedersachsen.de/startseite/aktuelles/presseinformationen/schulradeln-2023-kultusministerin-hamburg-zeichnet-siegerschulen-aus-227393.html
-  name: Niedersachsen „Schulradeln 2023“
-  anfang: >
-    In Hannover zeichnete Kultusministerin
-    Julia Willie Hamburg die
-    Preisträgerinnen und Preisträger des
-    Schulradelns 2023 aus.
-  datum: 2023-12-08
+-
+  link: 'https://www.mk.niedersachsen.de/startseite/aktuelles/presseinformationen/schulradeln-2023-kultusministerin-hamburg-zeichnet-siegerschulen-aus-227393.html'
+  name: 'Niedersachsen „Schulradeln 2023“'
+  anfang: 'In Hannover zeichnete Kultusministerin Julia Willie Hamburg die Preisträgerinnen und Preisträger des Schulradelns 2023 aus.'
+  datum: '2023-12-08'
   medium: sonstiges
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/12/01/grimm-goethe-moritz-und-mehr/
+-
+  link: 'https://www.rasteder-rundschau.de/2023/12/01/grimm-goethe-moritz-und-mehr/'
   name: ' Grimm, Goethe, Moritz und mehr'
-  anfang: >
-    Abiturjahrgänge der KGS Rastede und des
-    Alten Gymnasiums Oldenburg (AGO) zeigen
-    Kunstwerke im Palais. Gestern wurde das
-    Projekt vorgestellt.
-  datum: 2023-12-01
+  anfang: 'Abiturjahrgänge der KGS Rastede und des Alten Gymnasiums Oldenburg (AGO) zeigen Kunstwerke im Palais. Gestern wurde das Projekt vorgestellt.'
+  datum: '2023-12-01'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-weihnachtsmarkt-am-24-november-von-16-bis-20-uhr-in-der-kooperativen-gesamtschule_a_4,0,3252218489.html
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-weihnachtsmarkt-am-24-november-von-16-bis-20-uhr-in-der-kooperativen-gesamtschule_a_4,0,3252218489.html'
   name: ' Weihnachtsmarkt mit großem Angebot '
   anfang: 'Leckereien, Musik, Mitmachaktionen und eine Tombola: Mit einem großen Angebot wartet der Weihnachtsmarkt in der KGS Rastede auf. Die Einnahmen sollen den Schülern zugute kommen.'
-  datum: 2023-11-21
+  datum: '2023-11-21'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/stadtradeln-und-schulradeln-im-ammerland-kgs-rastede-bei-siegerehrung-ausgezeichnet_a_4,0,3200779126.html
+-
+  link: 'https://www.nwzonline.de/ammerland/stadtradeln-und-schulradeln-im-ammerland-kgs-rastede-bei-siegerehrung-ausgezeichnet_a_4,0,3200779126.html'
   name: 'Stadtradeln im Ammerland - Siegerehrung in Rastede – Schüler der KGS auch bundesweit vorn dabei '
   anfang: 'Im Ammerland und auch in Niedersachsen lagen die Schüler der KGS Rastede ganz vorn beim diesjährigen Stadt- und Schulradeln. Jetzt fand in Rastede die große Siegerehrung statt. '
-  datum: 2023-11-16
+  datum: '2023-11-16'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-700-schueler-bei-berufs-und-ausbildungsmesse-mit-43-unternehmen-in-mehrzweckhalle-feldbreite_a_4,0,3114072028.html
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-700-schueler-bei-berufs-und-ausbildungsmesse-mit-43-unternehmen-in-mehrzweckhalle-feldbreite_a_4,0,3114072028.html'
   name: 'Ausbildungsmesse in Rastede - So umwerben Unternehmen heute Schüler '
   anfang: '43 Unternehmen aus der Region präsentierten sich am Donnerstag bei der Berufs- und Ausbildungsmesse in der KGS Rastede. 700 Schüler nutzten das Angebot und informierten sich.'
-  datum: 2023-11-09
+  datum: '2023-11-09'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/10/13/reparieren-statt-wegwerfen-wer-macht-mit/
-  name: >
-    Reparieren statt Wegwerfen – wer acht
-    mit?
-  anfang: >
-    Hartwig Haßmann sucht Unterstützung
-    für die Einrichtung eines Repaircafés
-    in Rastede
-  datum: 2023-10-13
+-
+  link: 'https://www.rasteder-rundschau.de/2023/10/13/reparieren-statt-wegwerfen-wer-macht-mit/'
+  name: 'Reparieren statt Wegwerfen – wer acht mit?'
+  anfang: 'Hartwig Haßmann sucht Unterstützung für die Einrichtung eines Repaircafés in Rastede'
+  datum: '2023-10-13'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.h24notizie.com/2023/10/13/fondi-beach-litter-a-capratica-impegnati-nel-monitoraggio-anche-studenti-tedeschi/
+-
+  link: 'https://www.h24notizie.com/2023/10/13/fondi-beach-litter-a-capratica-impegnati-nel-monitoraggio-anche-studenti-tedeschi/'
   name: 'Fondi, Beach Litter a Capratica: impegnati nel monitoraggio anche studenti tedeschi'
-  anfang: ""
-  datum: 2023-10-13
+  anfang: ''
+  datum: '2023-10-13'
   medium: sonstiges
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-anbau-fuer-mint-faecher-eingeweiht-aber-weiterhin-platznot_a_4,0,2760441141.html
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-anbau-fuer-mint-faecher-eingeweiht-aber-weiterhin-platznot_a_4,0,2760441141.html'
   name: '4,4 Millionen Euro in Rastede investiert - Neuer Trakt setzt Maßstäbe für digitale Bildung '
-  anfang: >
-    Für 4,4 Millionen Euro ist an Rastedes
-    größter Schule nur vier Jahre nach der
-    letzten Erweiterung erneut angebaut
-    worden. Der Trakt bietet völlig neue
-    Lernmöglichkeiten. Raumnot besteht aber
-    weiterhin.
-  datum: 2023-10-12
+  anfang: 'Für 4,4 Millionen Euro ist an Rastedes größter Schule nur vier Jahre nach der letzten Erweiterung erneut angebaut worden. Der Trakt bietet völlig neue Lernmöglichkeiten. Raumnot besteht aber weiterhin.'
+  datum: '2023-10-12'
   medium: nwz
-- 
-  link: >
-    https://latinatu.it/beach-litter-legambiente-e-studenti-del-gobetti-libero-di-fondi-alla-raccolta-dei-rifiuti-in-spiaggia/
+-
+  link: 'https://latinatu.it/beach-litter-legambiente-e-studenti-del-gobetti-libero-di-fondi-alla-raccolta-dei-rifiuti-in-spiaggia/'
   name: 'BEACH LITTER: LEGAMBIENTE E STUDENTI DEL GOBETTI-LIBERO DI FONDI ALLA RACCOLTA DEI RIFIUTI IN SPIAGGIA'
-  anfang: >
-    Beach Litter è una delle più
-    importanti ed articolate azioni
-    internazionali di Citizen Science sul
-    tema dei rifiuti spiaggiati, organizzata
-    in Italia da Legambiente
-  datum: 2023-10-11
+  anfang: 'Beach Litter è una delle più importanti ed articolate azioni internazionali di Citizen Science sul tema dei rifiuti spiaggiati, organizzata in Italia da Legambiente'
+  datum: '2023-10-11'
   medium: sonstiges
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-bele-dietrich-als-letzte-organisatorin-uebriggeblieben_a_4,0,2415300847.html
-  name: >
-    Fridays for Future Bewegung lässt in
-    Rastede Federn
-  anfang: >
-    Klimaschutz ist wichtig, das ist
-    inzwischen vielen klar. Trotzdem
-    verliert die Bewegung Fridays for Future
-    in Rastede an Zuspruch. Die letzte
-    verbliebene Organisatorin wirbt jetzt um
-    Unterstützung.
-  datum: 2023-09-15
+-
+  link: 'https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-bele-dietrich-als-letzte-organisatorin-uebriggeblieben_a_4,0,2415300847.html'
+  name: 'Fridays for Future Bewegung lässt in Rastede Federn'
+  anfang: 'Klimaschutz ist wichtig, das ist inzwischen vielen klar. Trotzdem verliert die Bewegung Fridays for Future in Rastede an Zuspruch. Die letzte verbliebene Organisatorin wirbt jetzt um Unterstützung.'
+  datum: '2023-09-15'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-entlassfeier-2023-des-realschulzweigs_a_4,0,1566320570.html
-  name: >
-    KGS Rastede Realschulzweig feiert
-    Abschluss
-  anfang: >
-    Der Realschulzweig der KGS Rastede hatte
-    jetzt seine Entlassfeier. 82
-    Schülerinnen und Schüler machten ihren
-    Abschluss.
-  datum: 2023-07-10
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-entlassfeier-2023-des-realschulzweigs_a_4,0,1566320570.html'
+  name: 'KGS Rastede Realschulzweig feiert Abschluss'
+  anfang: 'Der Realschulzweig der KGS Rastede hatte jetzt seine Entlassfeier. 82 Schülerinnen und Schüler machten ihren Abschluss.'
+  datum: '2023-07-10'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-absolventen-des-hauptschulzweigs-feiern-abschluss_a_4,0,1563672338.html
-  name: >
-    KGS Rastede Hauptschulzweig feiert
-    Abschluss
-  anfang: >
-    Abschluss gefeiert hat der
-    Hauptschulzweig der Kooperativen
-    Gesamtschule Rastede. 70 Schülerinnen
-    und Schüler nahmen an den Prüfungen
-    teil.
-  datum: 2023-07-10
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-absolventen-des-hauptschulzweigs-feiern-abschluss_a_4,0,1563672338.html'
+  name: 'KGS Rastede Hauptschulzweig feiert Abschluss'
+  anfang: 'Abschluss gefeiert hat der Hauptschulzweig der Kooperativen Gesamtschule Rastede. 70 Schülerinnen und Schüler nahmen an den Prüfungen teil.'
+  datum: '2023-07-10'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/stadtradeln-im-ammerland-mehr-teilnehmer-und-eine-hoehere-kilometerleistung_a_4,0,1554084160.html
+-
+  link: 'https://www.nwzonline.de/ammerland/stadtradeln-im-ammerland-mehr-teilnehmer-und-eine-hoehere-kilometerleistung_a_4,0,1554084160.html'
   name: 'Stadtradeln im Ammerland - Mehr Teilnehmer und eine höhere Kilometerleistung'
-  anfang: >
-    Es beteiligten sich mehr Radelnde als
-    beim ersten Mal. Wer wurde
-    ausgezeichnet?
-  datum: 2023-07-09
+  anfang: 'Es beteiligten sich mehr Radelnde als beim ersten Mal. Wer wurde ausgezeichnet?'
+  datum: '2023-07-09'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/06/30/eine-colada-fuer-den-lustigsten-jahrgang/
-  name: Eine Colada für den lustigsten Jahrgang
-  anfang: >
-    Gut gelaunt feierten die
-    KGS-Abiturientinnen und Abiturienten
-    heute ihren Abschied von der Schule
-  datum: 2023-06-30
+-
+  link: 'https://www.rasteder-rundschau.de/2023/06/30/eine-colada-fuer-den-lustigsten-jahrgang/'
+  name: 'Eine Colada für den lustigsten Jahrgang'
+  anfang: 'Gut gelaunt feierten die KGS-Abiturientinnen und Abiturienten heute ihren Abschied von der Schule'
+  datum: '2023-06-30'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/abitur-an-der-kgs-rastede-groesster-jahrgang-feiert-abschluss_a_4,0,1436746872.html
+-
+  link: 'https://www.nwzonline.de/ammerland/abitur-an-der-kgs-rastede-groesster-jahrgang-feiert-abschluss_a_4,0,1436746872.html'
   name: 'KGS Rastede - Größter Abijahrgang ist gleichzeitig der feierfreudigste '
-  anfang: >
-    145 Schülerinnen und Schüler der
-    Kooperativen Gesamtschule Rastede haben
-    erfolgreich ihren Abschluss gemacht. Bei
-    der Abschlussfeier schwelgte man in
-    Erinnerungen und blickte in die Zukunft.
-  datum: 2023-06-30
+  anfang: '145 Schülerinnen und Schüler der Kooperativen Gesamtschule Rastede haben erfolgreich ihren Abschluss gemacht. Bei der Abschlussfeier schwelgte man in Erinnerungen und blickte in die Zukunft.'
+  datum: '2023-06-30'
   medium: nwz
-- 
-  link: >
-    https://www.rastede.de/2023/06/praeventionsprojekt-balu-und-du-feiert-abschluss-des-zweiten-durchgangs/
-  name: >
-    Präventionsprojekt „Balu und Du“
-    feiert Abschluss des zweiten Durchgangs
-  anfang: >
-    Der zweite Durchgang des
-    Präventionsprojekts „Balu und Du“
-    ist erfolgreich zu Ende gegangen. Im
-    Rahmen einer kleinen Abschlussfeier
-    übergab Bürgermeister Lars Krause
-    Urkunden und Medaillen an die
-    teilnehmenden Schülerinnen und Schüler
-    der Kooperativen Gesamtschule (KGS)
-    Rastede sowie der Grundschulen
-    Feldbreite und Hahn-Lehmden.
-  datum: 2023-06-16
+-
+  link: 'https://www.rastede.de/2023/06/praeventionsprojekt-balu-und-du-feiert-abschluss-des-zweiten-durchgangs/'
+  name: 'Präventionsprojekt „Balu und Du“ feiert Abschluss des zweiten Durchgangs'
+  anfang: 'Der zweite Durchgang des Präventionsprojekts „Balu und Du“ ist erfolgreich zu Ende gegangen. Im Rahmen einer kleinen Abschlussfeier übergab Bürgermeister Lars Krause Urkunden und Medaillen an die teilnehmenden Schülerinnen und Schüler der Kooperativen Gesamtschule (KGS) Rastede sowie der Grundschulen Feldbreite und Hahn-Lehmden.'
+  datum: '2023-06-16'
   medium: gemeinde
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/06/16/jugendliche-stellen-sich-ihrer-herausforderung/
-  name: >
-    Jugendliche stellen sich ihrer
-    Herausforderung
-  anfang: >
-    An der KGS Rastede ist das
-    „Herausforderungsprojekt“ gestartet.
-    Schülerinnen und Schüler begeben sich
-    auf eine zweiwöchige Reise.
-  datum: 2023-06-16
+-
+  link: 'https://www.rasteder-rundschau.de/2023/06/16/jugendliche-stellen-sich-ihrer-herausforderung/'
+  name: 'Jugendliche stellen sich ihrer Herausforderung'
+  anfang: 'An der KGS Rastede ist das „Herausforderungsprojekt“ gestartet. Schülerinnen und Schüler begeben sich auf eine zweiwöchige Reise.'
+  datum: '2023-06-16'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-schueler-absolvieren-fahrradpruefung-parkplatz-zeitweise-gesperrt_a_4,0,1149489891.html
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-schueler-absolvieren-fahrradpruefung-parkplatz-zeitweise-gesperrt_a_4,0,1149489891.html'
   name: 'Fahrradprüfung der KGS - 300 Schüler mit Rad in Rastede unterwegs – Parkplatz zeitweise gesperrt '
   anfang: 'Die alljährliche Fahrradprüfung zur Verkehrserziehung steht an: Die Fünftklässler der Kooperativen Gesamtschule sind am 16. Juni in Rastede unterwegs. Für Autofahrer gibt es Einschränkungen.'
-  datum: 2023-06-09
+  datum: '2023-06-09'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/wettbewerb-econome-schuelerinnen-der-kgs-rastede-holen-vierten-platz_a_4,0,959571142.html
+-
+  link: 'https://www.nwzonline.de/ammerland/wettbewerb-econome-schuelerinnen-der-kgs-rastede-holen-vierten-platz_a_4,0,959571142.html'
   name: 'Erfolg für Rasteder Schülerinnen - Bei bundesweitem Wettbewerb den vierten Platz geholt '
   anfang: 'Bei dem Wettbewerb zum Thema: „Inflation – Was passiert, wenn das Geld an Wert verliert?“ haben Schülerinnen der KGS Rastede den vierten Platz geholt. Was die Jugendlichen dabei gelernt haben.'
-  datum: 2023-05-26
+  datum: '2023-05-26'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/05/17/fridays-for-future-und-flucht-aus-syrien/
-  name: Fridays for Future und Flucht aus yrien
+-
+  link: 'https://www.rasteder-rundschau.de/2023/05/17/fridays-for-future-und-flucht-aus-syrien/'
+  name: 'Fridays for Future und Flucht aus yrien'
   anfang: 'Bartholomäus-Schink-Preis (BSP): Die Preisverleihung für die 2020 abgegebenen Beiträge der KGS-Schülerinnen und -schüler zum Thema „Widerstand – zwecklos?“ wurde jetzt in feierlichem Rahmen nachgeholt'
-  datum: 2023-05-17
+  datum: '2023-05-17'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/05/10/ergebnisse-von-pimp-your-town-online/
-  name: >
-    Ergebnisse von „Pimp Your Town!“
-    nline
-  anfang: >
-    Filme, Interviews, Magazine und
-    Protokolle zum Demokratieplanspiel sind
-    jetzt im Internet zu finden
-  datum: 2023-05-10
+-
+  link: 'https://www.rasteder-rundschau.de/2023/05/10/ergebnisse-von-pimp-your-town-online/'
+  name: 'Ergebnisse von „Pimp Your Town!“ nline'
+  anfang: 'Filme, Interviews, Magazine und Protokolle zum Demokratieplanspiel sind jetzt im Internet zu finden'
+  datum: '2023-05-10'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/pimp-your-town-in-rastede-filme-interviews-magazine-und-protokolle-sind-online_a_4,0,693420205.html
+-
+  link: 'https://www.nwzonline.de/ammerland/pimp-your-town-in-rastede-filme-interviews-magazine-und-protokolle-sind-online_a_4,0,693420205.html'
   name: 'Pimp your town in Rastede - Filme, Interviews, Magazine und Protokolle jetzt online '
-  anfang: >
-    Am Demokratieplanspiel „Pimp your
-    Town“ beteiligten sich in Rastede
-    Schüler der KGS und der Schule am
-    Voßbarg. Viele Ergebnisse stehen jetzt
-    online zur Verfügung.
-  datum: 2023-05-08
+  anfang: 'Am Demokratieplanspiel „Pimp your Town“ beteiligten sich in Rastede Schüler der KGS und der Schule am Voßbarg. Viele Ergebnisse stehen jetzt online zur Verfügung.'
+  datum: '2023-05-08'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schueleraustausch-in-rastede-gruppe-aus-plattsburgh-usa-zu-gast-im-rathaus_a_4,0,448644465.html
+-
+  link: 'https://www.nwzonline.de/ammerland/schueleraustausch-in-rastede-gruppe-aus-plattsburgh-usa-zu-gast-im-rathaus_a_4,0,448644465.html'
   name: 'Schüleraustausch in Rastede - Amerikanische Schüler zu Gast im Rathaus'
-  anfang: >
-    Schüler der amerikanischen Plattsburgh
-    High School waren zu Gast im Rasteder
-    Rathaus. Der Schüleraustausch mit der
-    Kooperativen Gesamtschule hat eine lange
-    Tradition.
-  datum: 2023-04-19
+  anfang: 'Schüler der amerikanischen Plattsburgh High School waren zu Gast im Rasteder Rathaus. Der Schüleraustausch mit der Kooperativen Gesamtschule hat eine lange Tradition.'
+  datum: '2023-04-19'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/03/28/us-austauschschueler-in-rastede/
-  name: US-Austauschschüler in Rastede
-  anfang: >
-    Die Gruppe von der Plattsburgh High
-    School im Bundesstaat New York war auch
-    im Rathaus zu Gast
-  datum: 2023-03-28
+-
+  link: 'https://www.rasteder-rundschau.de/2023/03/28/us-austauschschueler-in-rastede/'
+  name: 'US-Austauschschüler in Rastede'
+  anfang: 'Die Gruppe von der Plattsburgh High School im Bundesstaat New York war auch im Rathaus zu Gast'
+  datum: '2023-03-28'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/03/16/endlich-wieder-besuch-aus-frankreich/
+-
+  link: 'https://www.rasteder-rundschau.de/2023/03/16/endlich-wieder-besuch-aus-frankreich/'
   name: ' Endlich wieder Besuch aus Frankreich'
-  anfang: >
-    An der KGS Rastede findet erstmals nach
-    coronabedingter Pause der
-    deutsch-französische Schüleraustausch
-    statt
-  datum: 2023-03-16
+  anfang: 'An der KGS Rastede findet erstmals nach coronabedingter Pause der deutsch-französische Schüleraustausch statt'
+  datum: '2023-03-16'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/robocup-junior-in-rastede-mit-robotern-aus-lego-fuer-deutsche-meisterschaft-qualifizieren_a_3,2,3771536813.html
-  name: >
-    Roboter simulieren Rettung von
-    Erdbebenopfern
-  anfang: >
-    Beim Robocup Junior Nordwest geht es um
-    die Qualifikation der Deutschen
-    Meisterschaften in Kassel. 255
-    Teilnehmerinnen und Teilnehmer aus der
-    Region nehmen in Rastede an dem
-    Wettbewerb teil.
-  datum: 2023-02-23
+-
+  link: 'https://www.nwzonline.de/ammerland/robocup-junior-in-rastede-mit-robotern-aus-lego-fuer-deutsche-meisterschaft-qualifizieren_a_3,2,3771536813.html'
+  name: 'Roboter simulieren Rettung von Erdbebenopfern'
+  anfang: 'Beim Robocup Junior Nordwest geht es um die Qualifikation der Deutschen Meisterschaften in Kassel. 255 Teilnehmerinnen und Teilnehmer aus der Region nehmen in Rastede an dem Wettbewerb teil.'
+  datum: '2023-02-23'
   medium: nwz
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2023/02/23/selbstgebaute-roboter-fuer-den-parcours-programmieren/
-  name: >
-    Selbstgebaute Roboter für den Parcours
-    rogrammieren
-  anfang: >
-    In der Mehrzweckhalle Feldbreite findet
-    der Vorentscheid der Robocup Junior
-    Meisterschaft statt. Sieben Schulen
-    nehmen daran teil.
-  datum: 2023-02-23
+-
+  link: 'https://www.rasteder-rundschau.de/2023/02/23/selbstgebaute-roboter-fuer-den-parcours-programmieren/'
+  name: 'Selbstgebaute Roboter für den Parcours rogrammieren'
+  anfang: 'In der Mehrzweckhalle Feldbreite findet der Vorentscheid der Robocup Junior Meisterschaft statt. Sieben Schulen nehmen daran teil.'
+  datum: '2023-02-23'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/kgs-rastede-handballerinnen-im-landesfinale-von-jugend-trainiert-fuer-olympia_a_3,2,3527149612.html
-  name: Rasteder Handballerinnen im Landesfinale
-  anfang: >
-    Die Rasteder Handballerinnen sind beim
-    Schulwettbewerb „Jugend trainiert für
-    Olympia“ nicht zu bremsen. Jetzt hat
-    das Team der KGS das Landesfinale
-    erreicht.
-  datum: 2023-02-06
+-
+  link: 'https://www.nwzonline.de/ammerland/kgs-rastede-handballerinnen-im-landesfinale-von-jugend-trainiert-fuer-olympia_a_3,2,3527149612.html'
+  name: 'Rasteder Handballerinnen im Landesfinale'
+  anfang: 'Die Rasteder Handballerinnen sind beim Schulwettbewerb „Jugend trainiert für Olympia“ nicht zu bremsen. Jetzt hat das Team der KGS das Landesfinale erreicht.'
+  datum: '2023-02-06'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/schule-am-vossbarg-und-kgs-rastede-demokratieplanspiel-pimp-your-town_a_3,2,3449381747.html
-  name: Schüler fordern Sanierung
-  anfang: >
-    Zwei Tage lang haben sich Rasteder
-    Schüler politische Anträge erarbeitet,
-    viel diskutiert und abgestimmt. Bei dem
-    Planspiel „Pimp your town!“ zeigte
-    sich, welche Probleme sie in der
-    Gemeinde sehen.
-  datum: 2023-02-02
+-
+  link: 'https://www.nwzonline.de/ammerland/schule-am-vossbarg-und-kgs-rastede-demokratieplanspiel-pimp-your-town_a_3,2,3449381747.html'
+  name: 'Schüler fordern Sanierung'
+  anfang: 'Zwei Tage lang haben sich Rasteder Schüler politische Anträge erarbeitet, viel diskutiert und abgestimmt. Bei dem Planspiel „Pimp your town!“ zeigte sich, welche Probleme sie in der Gemeinde sehen.'
+  datum: '2023-02-02'
   medium: nwz
-- 
-  link: >
-    https://www.nwzonline.de/ammerland/rastede-laufend-frisches-trinkwasser-an-der-kgs_a_51,12,550923588.html
-  name: Laufend frisches Trinkwasser an der KGS
-  anfang: >
-    Die Schüler der KGS Rastede haben jetzt
-    einen Trinkwasserspender.
-  datum: 2023-01-20
+-
+  link: 'https://www.nwzonline.de/ammerland/rastede-laufend-frisches-trinkwasser-an-der-kgs_a_51,12,550923588.html'
+  name: 'Laufend frisches Trinkwasser an der KGS'
+  anfang: 'Die Schüler der KGS Rastede haben jetzt einen Trinkwasserspender.'
+  datum: '2023-01-20'
   medium: nwz
 
 ----
