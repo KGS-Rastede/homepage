@@ -36,30 +36,21 @@ Fotoansicht: carousel
 
 Sidebar:
 
-- 
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=196'
-  name: Kerncurriculum Gymnasium
-- 
+  name: 'Kerncurriculum Gymnasium'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=131'
-  name: >
-    Kerncurriculum für die gymnasiale
-    Oberstufe
-- 
-  link: >
-    https://www.nibis.de/uploads/mk-bolhoefer/2021/05LateinHinweise2021NEU.pdf
-  name: >
-    Hinweise zur schriftlichen
-    Abiturprüfung 2021
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/LA_2021Abi_Operatoren.pdf
-  name: >
-    Operatorenliste zur schriftlichen
-    Abiturprüfung 2021
-- 
-  link: >
-    https://www.navonline.de/index.php/latinums-und-graecumsvergabe
-  name: Informationen zum Latinum
+  name: 'Kerncurriculum für die gymnasiale Oberstufe'
+-
+  link: 'https://www.nibis.de/uploads/mk-bolhoefer/2021/05LateinHinweise2021NEU.pdf'
+  name: 'Hinweise zur schriftlichen Abiturprüfung 2021'
+-
+  link: 'https://www.nibis.de/uploads/1gohrgs/operatoren_2021/LA_2021Abi_Operatoren.pdf'
+  name: 'Operatorenliste zur schriftlichen Abiturprüfung 2021'
+-
+  link: 'https://www.navonline.de/index.php/latinums-und-graecumsvergabe'
+  name: 'Informationen zum Latinum'
 
 ----
 

@@ -4,541 +4,305 @@ Title: 2016
 
 Pressenachrichten:
 
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/12/19/hundebesuch-in-der-kgs/
+-
+  link: 'https://rasteder-rundschau.de/2016/12/19/hundebesuch-in-der-kgs/'
   name: ' Hundebesuch in der KGS '
-  anfang: >
-    Annelie Bruns vom Verein „Tiere helfen
-    Menschen“ war mit ihrer Hündin Amelie
-    in den 5. Klassen zu Gast
-  datum: 2016-12-19
+  anfang: 'Annelie Bruns vom Verein „Tiere helfen Menschen“ war mit ihrer Hündin Amelie in den 5. Klassen zu Gast'
+  datum: '2016-12-19'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/12/14/kinderkonzert-zum-geburtstag/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/12/14/kinderkonzert-zum-geburtstag/'
   name: ' Kinderkonzert zum Geburtstag '
-  anfang: >
-    Die Musikschule Ammerland wird 40. Mit
-    einem Konzert des britischen Sängers
-    Robert Metcalf beginnt am 15. Januar ein
-    Veranstaltungsreigen anlässlich des
-    Jubiläums.
-  datum: 2016-12-14
+  anfang: 'Die Musikschule Ammerland wird 40. Mit einem Konzert des britischen Sängers Robert Metcalf beginnt am 15. Januar ein Veranstaltungsreigen anlässlich des Jubiläums.'
+  datum: '2016-12-14'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/12/12/wirtschaftsnachwuchs-faehrt-wasserski-in-nethen/
-  name: >
-    Wirtschaftsnachwuchs fährt Wasserski in
-    Nethen
+-
+  link: 'https://www.rasteder-rundschau.de/2016/12/12/wirtschaftsnachwuchs-faehrt-wasserski-in-nethen/'
+  name: 'Wirtschaftsnachwuchs fährt Wasserski in Nethen'
   anfang: 'Im August starteten die IHK-Wirtschaftsjunioren ihren diesjährigen Schülerwettbewerb mit einem Auftakt an der KGS Rastede. Die 9. Klassen aller Schulformen im Bereich der Oldenburgischen Industrie- und Handelskammer (IHK) waren aufgefordert, ihr Wissen zu testen – jetzt stehen die Gewinner fest.'
-  datum: 2016-12-12
+  datum: '2016-12-12'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/12/08/morgen-eroeffnet-das-weihnachtsdorf/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/12/08/morgen-eroeffnet-das-weihnachtsdorf/'
   name: ' Morgen eröffnet das Weihnachtsdorf '
-  anfang: >
-    Ab 16 Uhr wird es festlich auf dem
-    Kögel-Willms-Platz. Bis einschließlich
-    Sonntag wird den Gästen ein buntes
-    Programm geboten. Am Wochenende darauf
-    geht es weiter.
-  datum: 2016-12-08
+  anfang: 'Ab 16 Uhr wird es festlich auf dem Kögel-Willms-Platz. Bis einschließlich Sonntag wird den Gästen ein buntes Programm geboten. Am Wochenende darauf geht es weiter.'
+  datum: '2016-12-08'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/12/06/ansprueche-reduzieren/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/12/06/ansprueche-reduzieren/'
   name: ' Ansprüche reduzieren '
-  anfang: >
-    Der Rasteder Haushalt 2017 ist nicht
-    ausgeglichen. Anders als in den
-    Vorjahren weist der Ergebnishaushalt ein
-    Defizit von rund 1,3 Millionen Euro aus.
-  datum: 2016-12-06
+  anfang: 'Der Rasteder Haushalt 2017 ist nicht ausgeglichen. Anders als in den Vorjahren weist der Ergebnishaushalt ein Defizit von rund 1,3 Millionen Euro aus.'
+  datum: '2016-12-06'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/11/24/eine-neue-jugendgruppe-fuer-alle/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/11/24/eine-neue-jugendgruppe-fuer-alle/'
   name: ' Eine neue Jugendgruppe für alle '
-  anfang: >
-    In der Villa Hartmann treffen sich ab
-    heute immer donnerstags Jugendliche ab
-    14 Jahren
-  datum: 2016-11-24
+  anfang: 'In der Villa Hartmann treffen sich ab heute immer donnerstags Jugendliche ab 14 Jahren'
+  datum: '2016-11-24'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/10/20/schueler-haben-energieverbrauch-im-blick/
-  name: Schüler haben Energieverbrauch im Blick
-  anfang: >
-    An der KGS Feldbreite wurden heute 42
-    Schülerinnen und Schüler zu
-    Energiewächtern ernannt.
-  datum: 2016-10-20
+-
+  link: 'https://www.rasteder-rundschau.de/2016/10/20/schueler-haben-energieverbrauch-im-blick/'
+  name: 'Schüler haben Energieverbrauch im Blick'
+  anfang: 'An der KGS Feldbreite wurden heute 42 Schülerinnen und Schüler zu Energiewächtern ernannt.'
+  datum: '2016-10-20'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/10/04/ein-wellnesswochenende-fuer-alle-paare/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/10/04/ein-wellnesswochenende-fuer-alle-paare/'
   name: ' Ein Wellnesswochenende für alle Paare '
   anfang: 'Die Live-Show mit Emmi & Willnowsky steigt am 29. Oktober in der Neuen Aula der KGS. Die rasteder rundschau verlost dreimal zwei Eintrittskarten.'
-  datum: 2016-10-04
+  datum: '2016-10-04'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/09/29/gemeinde-laesst-sich-infrastruktur-etwas-kosten/
-  name: >
-    Gemeinde lässt sich Infrastruktur etwas
-    kosten
-  anfang: >
-    Die Gemeinde Rastede hat in den
-    vergangenen Monaten erheblich in ihre
-    Infrastruktur investiert, vor allem
-    Schulen und Kindergärten profitierten.
-    Die einzelnen Maßnahmen erläuterte
-    Bürgermeister Dieter von Essen auf der
-    letzten Sitzung des alten Rats in
-    Delfshausen.
-  datum: 2016-09-29
+-
+  link: 'https://www.rasteder-rundschau.de/2016/09/29/gemeinde-laesst-sich-infrastruktur-etwas-kosten/'
+  name: 'Gemeinde lässt sich Infrastruktur etwas kosten'
+  anfang: 'Die Gemeinde Rastede hat in den vergangenen Monaten erheblich in ihre Infrastruktur investiert, vor allem Schulen und Kindergärten profitierten. Die einzelnen Maßnahmen erläuterte Bürgermeister Dieter von Essen auf der letzten Sitzung des alten Rats in Delfshausen.'
+  datum: '2016-09-29'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/09/26/informationen-aus-erster-hand/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/09/26/informationen-aus-erster-hand/'
   name: ' Informationen aus erster Hand '
   anfang: 'Zum zweiten Mal veranstaltet die KGS Rastede in Kooperation mit dem Verein „Chance: Azubi“ eine Ausbildungsmesse. Am kommenden Donnerstag, 29. September, stellen sich im Schulfoyer an der Wilhelmstraße rund 35 Betriebe vor.'
-  datum: 2016-09-26
+  datum: '2016-09-26'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/09/07/gut-geschuetzt-aufs-fahrrad/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/09/07/gut-geschuetzt-aufs-fahrrad/'
   name: ' Gut geschützt aufs Fahrrad '
-  anfang: >
-    Förderverein der KGS unterstützt mit
-    1300 Euro die Anschaffung von
-    Fahrradhelmen
-  datum: 2016-09-07
+  anfang: 'Förderverein der KGS unterstützt mit 1300 Euro die Anschaffung von Fahrradhelmen'
+  datum: '2016-09-07'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/09/06/eine-liebeserklaerung-an-den-spatz-von-paris/
-  name: >
-    Eine Liebeserklärung an den „Spatz
-    von Paris“
-  anfang: >
-    Die rasteder rundschau verlost
-    Eintrittskarten für die Hommage an
-    Edith Piaf, „Toujours la Piaf“, am
-    23. September in der Neuen Aula
-  datum: 2016-09-06
+-
+  link: 'https://www.rasteder-rundschau.de/2016/09/06/eine-liebeserklaerung-an-den-spatz-von-paris/'
+  name: 'Eine Liebeserklärung an den „Spatz von Paris“'
+  anfang: 'Die rasteder rundschau verlost Eintrittskarten für die Hommage an Edith Piaf, „Toujours la Piaf“, am 23. September in der Neuen Aula'
+  datum: '2016-09-06'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/08/30/mehr-lehrkraefte-fuer-die-inklusion/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/08/30/mehr-lehrkraefte-fuer-die-inklusion/'
   name: ' Mehr Lehrkräfte für die Inklusion '
-  anfang: >
-    Inklusion an Schulen wird nur dann
-    erfolgreich sein, wenn mehr Lehrerinnen
-    und Lehrer eingestellt werden. Darauf
-    einigten sich die Teilnehmer der
-    Diskussionsveranstaltung „Gelingt
-    Inklusion in Rastede?“, die von den
-    Rasteder Grünen organisiert worden war.
-  datum: 2016-08-30
+  anfang: 'Inklusion an Schulen wird nur dann erfolgreich sein, wenn mehr Lehrerinnen und Lehrer eingestellt werden. Darauf einigten sich die Teilnehmer der Diskussionsveranstaltung „Gelingt Inklusion in Rastede?“, die von den Rasteder Grünen organisiert worden war.'
+  datum: '2016-08-30'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/08/25/tennisspieler-wollen-bleiben/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/08/25/tennisspieler-wollen-bleiben/'
   name: ' Tennisspieler wollen bleiben '
   anfang: 'Auch wenn das Areal um den aufgegebenen Sportplatz an der Mühlenstraße neu gestaltet wird: Der Rasteder Tennisclub (RTC) möchte nicht umziehen.'
-  datum: 2016-08-25
+  datum: '2016-08-25'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/08/12/wirtschaft-macht-spass/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/08/12/wirtschaft-macht-spass/'
   name: ' Wirtschaft macht Spaß'
   anfang: 'Heute starteten die IHK-Wirtschaftsjunioren ihren diesjährigen Schülerwettbewerb mit einem Auftakt an der KGS Rastede. Die 9. Klassen aller Schulformen im Bereich der Oldenburgischen Industrie- und Handelskammer (IHK) sind aufgefordert, ihr Wissen zu testen.'
-  datum: 2016-08-12
+  datum: '2016-08-12'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/08/02/traumjobs-im-rathaus-gefunden/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/08/02/traumjobs-im-rathaus-gefunden/'
   name: ' Traumjobs im Rathaus gefunden '
-  anfang: >
-    Die Gemeinde Rastede hat drei neue
-    Mitarbeiter. Gestern nahm das Trio die
-    Ausbildung auf.
-  datum: 2016-08-02
+  anfang: 'Die Gemeinde Rastede hat drei neue Mitarbeiter. Gestern nahm das Trio die Ausbildung auf.'
+  datum: '2016-08-02'
   medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/07/29/massnahme-gegen-raumnot-an-der-kgs/
+-
+  link: 'https://rasteder-rundschau.de/2016/07/29/massnahme-gegen-raumnot-an-der-kgs/'
   name: ' Maßnahme gegen Raumnot an der KGS '
-  anfang: >
-    Heute wurden die beiden Containerklassen
-    für den Schulstandort Wilhelmstraße
-    angeliefert
-  datum: 2016-07-29
+  anfang: 'Heute wurden die beiden Containerklassen für den Schulstandort Wilhelmstraße angeliefert'
+  datum: '2016-07-29'
   medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/07/19/sozialarbeiterstelle-fuer-die-kgs-rastede/
-  name: >
-    Sozialarbeiterstelle für die KGS
-    Rastede
-  anfang: >
-    Die Landesschulbehörde hat 500 Stellen
-    für Sozialarbeit an Schulen
-    ausgeschrieben. Auch für den Landkreis
-    Ammerland sind sieben Stellen
-    vorgesehen.
-  datum: 2016-07-19
+-
+  link: 'https://rasteder-rundschau.de/2016/07/19/sozialarbeiterstelle-fuer-die-kgs-rastede/'
+  name: 'Sozialarbeiterstelle für die KGS Rastede'
+  anfang: 'Die Landesschulbehörde hat 500 Stellen für Sozialarbeit an Schulen ausgeschrieben. Auch für den Landkreis Ammerland sind sieben Stellen vorgesehen.'
+  datum: '2016-07-19'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/07/06/neues-mitglied-im-stiftungsvorstand/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/07/06/neues-mitglied-im-stiftungsvorstand/'
   name: ' Neues Mitglied im Stiftungsvorstand '
   anfang: 'Gerhard-Rode-Stiftung: Kirstin Ferchow löst Sonja Egerer ab'
-  datum: 2016-07-06
+  datum: '2016-07-06'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/07/04/tapferkeitsmedaille-fuer-pudelnasse/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/07/04/tapferkeitsmedaille-fuer-pudelnasse/'
   name: ' Tapferkeitsmedaille für Pudelnasse '
-  anfang: >
-    Trotz Fußball, Hundskälte und heftiger
-    Regenschauer verfolgen tausende
-    Zuschauer die Konzertwettbewerbe bei den
-    Internationalen Rasteder Musiktagen
-  datum: 2016-07-04
+  anfang: 'Trotz Fußball, Hundskälte und heftiger Regenschauer verfolgen tausende Zuschauer die Konzertwettbewerbe bei den Internationalen Rasteder Musiktagen'
+  datum: '2016-07-04'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/27/marschmusik-show-und-feiern-wie-die-bayern/
-  name: >
-    Marschmusik, Show und feiern wie die
-    Bayern
-  anfang: >
-    Vom 1. bis zum 3. Juli liegt Musik in
-    der Residenzort-Luft. Dann finden die
-    61. Internationalen Rasteder Musiktage
-    statt.
-  datum: 2016-06-27
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/27/marschmusik-show-und-feiern-wie-die-bayern/'
+  name: 'Marschmusik, Show und feiern wie die Bayern'
+  anfang: 'Vom 1. bis zum 3. Juli liegt Musik in der Residenzort-Luft. Dann finden die 61. Internationalen Rasteder Musiktage statt.'
+  datum: '2016-06-27'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/22/schools-out-for-summer/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/22/schools-out-for-summer/'
   name: ' School’s out for summer '
-  anfang: >
-    Überall in der Gemeinde werden heute
-    Zeugnisse verteilt und Schüler
-    verabschiedet. Die Grundschule
-    Feldbreite nutzt dafür ein
-    feucht-fröhliches Ritual.
-  datum: 2016-06-22
+  anfang: 'Überall in der Gemeinde werden heute Zeugnisse verteilt und Schüler verabschiedet. Die Grundschule Feldbreite nutzt dafür ein feucht-fröhliches Ritual.'
+  datum: '2016-06-22'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/17/raus-aus-der-schreckenskammer/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/17/raus-aus-der-schreckenskammer/'
   name: ' Raus aus der Schreckenskammer '
-  anfang: >
-    „Abi Potter“ – wir verlassen die
-    Kammer des Schreckens“ lautet das
-    Motto des diesjährigen Abiturjahrgangs
-    der KGS. Heute feierten die 131
-    Abiturienten in der Mehrzweckhalle
-    Feldbreite den Abschied von ihrer
-    Schulzeit – die, das war deutlich zu
-    merken, auch schöne Seiten hatte.
-  datum: 2016-06-17
+  anfang: '„Abi Potter“ – wir verlassen die Kammer des Schreckens“ lautet das Motto des diesjährigen Abiturjahrgangs der KGS. Heute feierten die 131 Abiturienten in der Mehrzweckhalle Feldbreite den Abschied von ihrer Schulzeit – die, das war deutlich zu merken, auch schöne Seiten hatte.'
+  datum: '2016-06-17'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/17/polen-wird-europameister/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/17/polen-wird-europameister/'
   name: ' Polen wird Europameister'
-  anfang: >
-    Heute kickten die fünften und sechsten
-    Klassen im Finale der Pausen-EM an der
-    KGS Feldbreite um den Sieg
-  datum: 2016-06-17
+  anfang: 'Heute kickten die fünften und sechsten Klassen im Finale der Pausen-EM an der KGS Feldbreite um den Sieg'
+  datum: '2016-06-17'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/17/chance-azubi-ausbildungsbetriebe-gesucht/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/17/chance-azubi-ausbildungsbetriebe-gesucht/'
   name: ' „Chance: Azubi“: Ausbildungsbetriebe gesucht '
   anfang: 'Auch in diesem findet wieder die Veranstaltung zur Berufsorientierung „Chance: Azubi“ in der KGS statt. Rasteder Betriebe, die mitmachen möchten, sind am 21. Juni, 15 Uhr, zum Informationstreffen in der Schulcafeteria eingeladen.'
-  datum: 2016-06-17
+  datum: '2016-06-17'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/16/schueler-verlassen-das-vertraute-stadion-schule/
-  name: >
-    Schüler verlassen das vertraute Stadion
-    Schule
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/16/schueler-verlassen-das-vertraute-stadion-schule/'
+  name: 'Schüler verlassen das vertraute Stadion Schule'
   anfang: '147 Schülerinnen und Schüler des Haupt- und Realschulzweigs der KGS erhielten heute ihre Abschlusszeugnisse'
-  datum: 2016-06-16
+  datum: '2016-06-16'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/13/romeo-und-julia-immer-wieder/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/13/romeo-und-julia-immer-wieder/'
   name: ' Romeo und Julia: immer wieder! '
-  anfang: >
-    KGS-Schüler bringen moderne
-    Shakespeare-Version auf die Bühne
-  datum: 2016-06-13
+  anfang: 'KGS-Schüler bringen moderne Shakespeare-Version auf die Bühne'
+  datum: '2016-06-13'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/08/workshop-zur-muehlenstrasse-faellt-aus/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/08/workshop-zur-muehlenstrasse-faellt-aus/'
   name: ' Workshop zur Mühlenstraße fällt aus '
-  anfang: >
-    Die von der Jungen Union (JU) für den
-    18. Juni geplante Veranstaltung zur
-    Nutzung des Areals um den aufgegebenen
-    Sportplatz Mühlenstraße wurde abgesagt
-  datum: 2016-06-08
+  anfang: 'Die von der Jungen Union (JU) für den 18. Juni geplante Veranstaltung zur Nutzung des Areals um den aufgegebenen Sportplatz Mühlenstraße wurde abgesagt'
+  datum: '2016-06-08'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/06/08/projekt-zur-integration-von-jung-und-alt-gewuerdigt/
-  name: >
-    Projekt zur Integration von Jung und Alt
-    gewürdigt
-  anfang: >
-    Die Schülerfirma „Sofa-Team“ der
-    KGS ist Preisträger des
-    Johann-Bünting-Förderpreises 2016
-  datum: 2016-06-08
+-
+  link: 'https://www.rasteder-rundschau.de/2016/06/08/projekt-zur-integration-von-jung-und-alt-gewuerdigt/'
+  name: 'Projekt zur Integration von Jung und Alt gewürdigt'
+  anfang: 'Die Schülerfirma „Sofa-Team“ der KGS ist Preisträger des Johann-Bünting-Förderpreises 2016'
+  datum: '2016-06-08'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/05/27/diesmal-bleiben-die-stecker-im-netz/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/05/27/diesmal-bleiben-die-stecker-im-netz/'
   name: ' Diesmal bleiben die Stecker im Netz '
-  anfang: >
-    Am 1. Juni findet das Schulbandkonzert
-    in der Neuen Aula statt. Unter anderem
-    präsentieren die „Kaygees“ ihr
-    neues Repertoire aus Rock, Funk und
-    Soul.
-  datum: 2016-05-27
+  anfang: 'Am 1. Juni findet das Schulbandkonzert in der Neuen Aula statt. Unter anderem präsentieren die „Kaygees“ ihr neues Repertoire aus Rock, Funk und Soul.'
+  datum: '2016-05-27'
   medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/05/23/einsatz-des-ammerlaender-gefahrgutzugs-an-der-kgs/
-  name: >
-    Einsatz des Ammerländer Gefahrgutzugs
-    an der KGS
-  anfang: >
-    In einem großangelegten Szenario wurde
-    zum Thema Strahlenschutz geübt
-  datum: 2016-05-23
+-
+  link: 'https://rasteder-rundschau.de/2016/05/23/einsatz-des-ammerlaender-gefahrgutzugs-an-der-kgs/'
+  name: 'Einsatz des Ammerländer Gefahrgutzugs an der KGS'
+  anfang: 'In einem großangelegten Szenario wurde zum Thema Strahlenschutz geübt'
+  datum: '2016-05-23'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/05/23/65-gemeindesaengerfest-in-der-neuen-aula/
-  name: >
-    65. Gemeindesängerfest in der Neuen
-    Aula
-  anfang: >
-    Die Turmsänger aus Wahnbek sind in
-    diesem Jahr Ausrichter des Chorfests am
-    29. Mai in der Neuen Aula
-  datum: 2016-05-23
+-
+  link: 'https://www.rasteder-rundschau.de/2016/05/23/65-gemeindesaengerfest-in-der-neuen-aula/'
+  name: '65. Gemeindesängerfest in der Neuen Aula'
+  anfang: 'Die Turmsänger aus Wahnbek sind in diesem Jahr Ausrichter des Chorfests am 29. Mai in der Neuen Aula'
+  datum: '2016-05-23'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/05/13/meine-heimat-deine-heimat/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/05/13/meine-heimat-deine-heimat/'
   name: ' „Meine Heimat, deine Heimat“ '
-  anfang: >
-    An der KGS wurde der
-    Bartholomäus-Schink-Preis für
-    besondere Schülerleistungen verliehen.
-    20 Beiträge waren eingereicht worden.
-  datum: 2016-05-13
+  anfang: 'An der KGS wurde der Bartholomäus-Schink-Preis für besondere Schülerleistungen verliehen. 20 Beiträge waren eingereicht worden.'
+  datum: '2016-05-13'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/05/09/ohne-verstaerker-und-mikrofon/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/05/09/ohne-verstaerker-und-mikrofon/'
   name: ' Ohne Verstärker und Mikrofon '
-  anfang: >
-    „KGS unplugged“ lautet das Motto am
-    Donnerstag, 12. Mai. Ab 19.30 Uhr laden
-    vier Schul-Ensembles zum akustischen
-    Konzertabend in die Neue Aula ein.
-  datum: 2016-05-09
+  anfang: '„KGS unplugged“ lautet das Motto am Donnerstag, 12. Mai. Ab 19.30 Uhr laden vier Schul-Ensembles zum akustischen Konzertabend in die Neue Aula ein.'
+  datum: '2016-05-09'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/04/25/manhattan-brodelt-in-der-aula/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/04/25/manhattan-brodelt-in-der-aula/'
   name: ' Manhattan brodelt in der Aula '
   anfang: 'Frühlingskonzert mit dem „Duo Riul“: Die Künstler überzeugten Konzertgäste und KGS-Schüler'
-  datum: 2016-04-25
+  datum: '2016-04-25'
   medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/04/13/raumnot-an-der-kgs-und-der-schule-kleibrok/
-  name: >
-    Raumnot an der KGS und der Schule
-    Kleibrok
-  anfang: >
-    An der KGS Wilhelmstraße gibt es
-    Raumbedarf, hier sollen nun zwei
-    Containerklassen aufgestellt werden.
-    Dafür stimmte gestern der
-    Schulausschuss. Auch an der Schule
-    Kleibrok wird es eng, hier will man
-    vorübergehend mit vier Containerklassen
-    gegensteuern.
-  datum: 2016-04-13
+-
+  link: 'https://rasteder-rundschau.de/2016/04/13/raumnot-an-der-kgs-und-der-schule-kleibrok/'
+  name: 'Raumnot an der KGS und der Schule Kleibrok'
+  anfang: 'An der KGS Wilhelmstraße gibt es Raumbedarf, hier sollen nun zwei Containerklassen aufgestellt werden. Dafür stimmte gestern der Schulausschuss. Auch an der Schule Kleibrok wird es eng, hier will man vorübergehend mit vier Containerklassen gegensteuern.'
+  datum: '2016-04-13'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/04/13/uwe-ahlers-wird-ehrenvorsitzender/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/04/13/uwe-ahlers-wird-ehrenvorsitzender/'
   name: ' Uwe Ahlers wird Ehrenvorsitzender '
-  anfang: >
-    Der Förderverein der KGS Rastede
-    blickte auf ein erfolgreiches Jahr
-    zurück. Neuer Vorsitzender des Vereins
-    ist Bernd Wüstenbecker.
-  datum: 2016-04-13
+  anfang: 'Der Förderverein der KGS Rastede blickte auf ein erfolgreiches Jahr zurück. Neuer Vorsitzender des Vereins ist Bernd Wüstenbecker.'
+  datum: '2016-04-13'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/04/07/von-new-york-nach-rastede/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/04/07/von-new-york-nach-rastede/'
   name: ' Von New York nach Rastede '
-  anfang: >
-    KGS-Austauschschüler wurden gestern im
-    Rathaus empfangen
-  datum: 2016-04-07
+  anfang: 'KGS-Austauschschüler wurden gestern im Rathaus empfangen'
+  datum: '2016-04-07'
   medium: rastederrundschau
-- 
-  link: >
-    https://rasteder-rundschau.de/2016/04/04/schnuppertage-an-der-kgs/
+-
+  link: 'https://rasteder-rundschau.de/2016/04/04/schnuppertage-an-der-kgs/'
   name: ' Schnuppertage an der KGS '
-  anfang: >
-    Grundschüler lernen weiterführende
-    Schulen kennen
-  datum: 2016-04-04
+  anfang: 'Grundschüler lernen weiterführende Schulen kennen'
+  datum: '2016-04-04'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/04/04/wer-stellt-das-sportlichste-seminarfach/
-  name: Wer stellt das sportlichste Seminarfach?
-  anfang: >
-    300 KGS-Schülerinnen und Schüler der
-    Sekundarstufe II trafen sich zum großen
-    Sportfest in der Mehrzweckhalle
-    Feldbreite
-  datum: 2016-04-04
+-
+  link: 'https://www.rasteder-rundschau.de/2016/04/04/wer-stellt-das-sportlichste-seminarfach/'
+  name: 'Wer stellt das sportlichste Seminarfach?'
+  anfang: '300 KGS-Schülerinnen und Schüler der Sekundarstufe II trafen sich zum großen Sportfest in der Mehrzweckhalle Feldbreite'
+  datum: '2016-04-04'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/03/14/unbekannte-nachbarn/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/03/14/unbekannte-nachbarn/'
   name: ' Unbekannte Nachbarn '
-  anfang: >
-    Romani Rose war heute in der KGS Rastede
-    zu Gast. Er rief dazu auf, sich
-    gemeinsam für Demokratie einzusetzen.
-  datum: 2016-03-14
+  anfang: 'Romani Rose war heute in der KGS Rastede zu Gast. Er rief dazu auf, sich gemeinsam für Demokratie einzusetzen.'
+  datum: '2016-03-14'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/03/10/ist-die-schweiz-kleiner-als-irland/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/03/10/ist-die-schweiz-kleiner-als-irland/'
   name: ' Ist die Schweiz kleiner als Irland? '
-  anfang: >
-    Die KGS zeichnete die Schulsieger des
-    Diercke-Wissens-Wettbewerbs aus
-  datum: 2016-03-10
+  anfang: 'Die KGS zeichnete die Schulsieger des Diercke-Wissens-Wettbewerbs aus'
+  datum: '2016-03-10'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/03/09/ja-zur-windenergie-an-geeigneten-standorten/
-  name: >
-    Ja zur Windenergie an geeigneten
-    Standorten
-  anfang: >
-    Neuste Windpotenzialstudie war Thema im
-    Bauausschuss. Der Standort Liethe ist
-    für eine Weiterentwicklung am besten
-    geeignet.
-  datum: 2016-03-09
+-
+  link: 'https://www.rasteder-rundschau.de/2016/03/09/ja-zur-windenergie-an-geeigneten-standorten/'
+  name: 'Ja zur Windenergie an geeigneten Standorten'
+  anfang: 'Neuste Windpotenzialstudie war Thema im Bauausschuss. Der Standort Liethe ist für eine Weiterentwicklung am besten geeignet.'
+  datum: '2016-03-09'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/03/02/eine-perfekte-illusion/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/03/02/eine-perfekte-illusion/'
   name: ' Eine perfekte Illusion '
-  anfang: >
-    Am 5. März ist „Dancing Queen – die
-    ABBA Show“ in der Neuen Aula zu Gast
-  datum: 2016-03-02
+  anfang: 'Am 5. März ist „Dancing Queen – die ABBA Show“ in der Neuen Aula zu Gast'
+  datum: '2016-03-02'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/02/12/von-mamma-mia-bis-dancing-queen/
-  name: >
-    Von „Mamma Mia“ bis „Dancing
-    Queen“
-  anfang: >
-    Am 5. März ist „Dancing Queen – die
-    ABBA Show“ in der Neuen Aula zu Gast.
-    Die rasteder rundschau verlost
-    Eintrittskarten.
-  datum: 2016-02-12
+-
+  link: 'https://www.rasteder-rundschau.de/2016/02/12/von-mamma-mia-bis-dancing-queen/'
+  name: 'Von „Mamma Mia“ bis „Dancing Queen“'
+  anfang: 'Am 5. März ist „Dancing Queen – die ABBA Show“ in der Neuen Aula zu Gast. Die rasteder rundschau verlost Eintrittskarten.'
+  datum: '2016-02-12'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/02/06/sitzstreik-demo-und-boykott/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/02/06/sitzstreik-demo-und-boykott/'
   name: ' Sitzstreik, Demo und Boykott '
-  anfang: >
-    Schülervertretung der KGS Rastede
-    erhält Harry-Wilters-Preis 2015. FDP
-    lädt zur feierlichen Übergabe ins
-    Palais.
-  datum: 2016-02-06
+  anfang: 'Schülervertretung der KGS Rastede erhält Harry-Wilters-Preis 2015. FDP lädt zur feierlichen Übergabe ins Palais.'
+  datum: '2016-02-06'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/02/03/trommler-machen-ordentlich-krawumm/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/02/03/trommler-machen-ordentlich-krawumm/'
   name: ' Trommler machen ordentlich Krawumm '
   anfang: 'Hohes Niveau und Leidenschaft für das Metier: Der Marching-Band-Workshop in der KGS-Rastede war wieder ein Erfolg.'
-  datum: 2016-02-03
+  datum: '2016-02-03'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/01/28/flotter-workshop-mit-tradition/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/01/28/flotter-workshop-mit-tradition/'
   name: ' Flotter Workshop mit Tradition '
   anfang: 'Gute Stimmung und fetzige Rhythmen sind garantiert, wenn am kommenden Wochenende, 30. und 31. Januar, wieder der große Workshop für Marschmusiker an der KGS Rastede stattfindet. Am Sonntag ist die Öffentlichkeit eingeladen: Ab 15 Uhr wird das Erlernte im KGS-Forum an der Wilhelmstraße präsentiert.'
-  datum: 2016-01-28
+  datum: '2016-01-28'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/01/27/zwischen-unterstuetzung-und-rassismus/
+-
+  link: 'https://www.rasteder-rundschau.de/2016/01/27/zwischen-unterstuetzung-und-rassismus/'
   name: ' Zwischen Unterstützung und Rassismus '
-  anfang: >
-    An der KGS Rastede ist wieder der
-    Bartholomäus-Schink-Preis
-    ausgeschrieben. Diesmal sollen sich die
-    Teilnehmer mit dem Thema „Heimatlos zu
-    Hause – Zu Hause heimatlos“
-    beschäftigen.
-  datum: 2016-01-27
+  anfang: 'An der KGS Rastede ist wieder der Bartholomäus-Schink-Preis ausgeschrieben. Diesmal sollen sich die Teilnehmer mit dem Thema „Heimatlos zu Hause – Zu Hause heimatlos“ beschäftigen.'
+  datum: '2016-01-27'
   medium: rastederrundschau
-- 
-  link: >
-    https://www.rasteder-rundschau.de/2016/01/21/wie-medien-angst-vor-dem-fremden-schueren/
-  name: >
-    Wie Medien Angst vor dem Fremden
-    schüren
-  anfang: >
-    An der KGS läuft zurzeit das
-    Kino-Filmseminar. Gezeigt werden die
-    Propaganda-Streifen der Nazis
-    „Hitlerjunge Quex“ und „Jud
-    Süß“. Über den aktuellen Bezug
-    sprechen die Schüler mit Filmkritiker
-    und Medienpädagoge Michael
-    Kleinschmidt.
-  datum: 2016-01-21
+-
+  link: 'https://www.rasteder-rundschau.de/2016/01/21/wie-medien-angst-vor-dem-fremden-schueren/'
+  name: 'Wie Medien Angst vor dem Fremden schüren'
+  anfang: 'An der KGS läuft zurzeit das Kino-Filmseminar. Gezeigt werden die Propaganda-Streifen der Nazis „Hitlerjunge Quex“ und „Jud Süß“. Über den aktuellen Bezug sprechen die Schüler mit Filmkritiker und Medienpädagoge Michael Kleinschmidt.'
+  datum: '2016-01-21'
   medium: rastederrundschau
 
 ----

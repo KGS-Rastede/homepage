@@ -40,15 +40,12 @@ Fotoansicht: gallery
 
 Sidebar:
 
-- 
-  link: >
-    https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung
-  name: >
-    Leitbild des Fachbereichs
-    Musisch-kulturelle Bildung
-- 
+-
+  link: 'https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung'
+  name: 'Leitbild des Fachbereichs Musisch-kulturelle Bildung'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=37'
-  name: Kerncurriculum Hauptschule
+  name: 'Kerncurriculum Hauptschule'
 
 ----
 

@@ -36,30 +36,24 @@ Fotoansicht: gallery
 
 Sidebar:
 
-- 
-  link: >
-    https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung
-  name: >
-    Leitbild des Fachbereichs
-    Musisch-kulturelle Bildung
-- 
+-
+  link: 'https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung'
+  name: 'Leitbild des Fachbereichs Musisch-kulturelle Bildung'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=searched_download&skey_lev0_0=Schulbereich&svalue_lev0_0=Sek+I&skey_lev0_1=Schulform&svalue_lev0_1=Integrierte+Gesamtschule&skey_lev0_2=Fach&svalue_lev0_2=Musik&&uploadnum=0'
-  name: Kerncurriculum Sek I
-- 
+  name: 'Kerncurriculum Sek I'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=104'
-  name: Kerncurriculum gymnasiale Oberstufe
-- 
-  link: >
-    https://bildungsportal-niedersachsen.de/allgemeinbildung/zentrale-arbeiten/zentralabitur/zentralabitur/2023
-  name: Hinweise zum Zentralabitur 2023
-- 
-  link: >
-    https://kgs-rastede.de/unterricht/ag-angebot/1087-02
-  name: Chor AG
-- 
-  link: >
-    https://kgs-rastede.de/unterricht/ag-angebot/815-02
-  name: Band AG "Koops"
+  name: 'Kerncurriculum gymnasiale Oberstufe'
+-
+  link: 'https://bildungsportal-niedersachsen.de/allgemeinbildung/zentrale-arbeiten/zentralabitur/zentralabitur/2023'
+  name: 'Hinweise zum Zentralabitur 2023'
+-
+  link: 'https://kgs-rastede.de/unterricht/ag-angebot/1087-02'
+  name: 'Chor AG'
+-
+  link: 'https://kgs-rastede.de/unterricht/ag-angebot/815-02'
+  name: 'Band AG "Koops"'
 
 ----
 

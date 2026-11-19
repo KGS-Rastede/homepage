@@ -36,15 +36,12 @@ Fotoansicht: gallery
 
 Sidebar:
 
-- 
-  link: >
-    https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung
-  name: >
-    Leitbild des Fachbereichs
-    Musisch-kulturelle Bildung
-- 
+-
+  link: 'https://kgs-rastede.de/Faecher/musisch-kulturelle-bildung'
+  name: 'Leitbild des Fachbereichs Musisch-kulturelle Bildung'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=searched_download&skey_lev0_0=Fach&svalue_lev0_0=Darstellendes+Spiel&skey_lev0_1=Dokumentenart&svalue_lev0_1=Kerncurriculum&&uploadnum=0'
-  name: Kerncurriculum gymnasiale Oberstufe
+  name: 'Kerncurriculum gymnasiale Oberstufe'
 
 ----
 
