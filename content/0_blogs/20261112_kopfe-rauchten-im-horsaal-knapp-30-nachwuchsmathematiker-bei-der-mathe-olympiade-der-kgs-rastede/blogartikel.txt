@@ -1,0 +1,37 @@
+Title: Köpfe rauchten im Hörsaal: Knapp 30 Nachwuchsmathematiker bei der Mathe-Olympiade der KGS Rastede
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Konzentrierte Stille statt Schulgong: </p><p>Rund 30 Schülerinnen und Schüler stellten sich gestern den kniffligen Aufgaben der diesjährigen Mathematik-Olympiade. </p><p>Für den Wettbewerb verwandelte sich der Hörsaal der KGS Rastede in eine Denker-Arena, in der über mehrere Stunden gerechnet, kombiniert und logisch geschlussfolgert wurde. Die Teilnehmenden zeigten vollen Einsatz und bewiesen eindrucksvoll, wie viel Freude und Ehrgeiz in der Welt der Zahlen stecken können. Nun heißt es Daumen drücken, während die Arbeiten korrigiert werden und feststeht, wer sich für die nächste Runde qualifiziert hat. </p><p>Wir gratulieren allen Teilnehmerinnen und Teilnehmern zu ihrem tollen Einsatz!</p>"},"id":"6c4f6e43-c598-47b7-a117-9e15431a8403","isHidden":false,"type":"text"}],"id":"c7456b1d-7a3d-477c-a77a-cbc712b864b7","width":"1/1"}],"id":"f2c3f00c-a97c-407e-82ee-c09e736ddfd9"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://qlxlm4rpj5x8xmbe"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"5be7ddea-4645-4557-b4dc-31a9f261ab2f","isHidden":false,"type":"image"}],"id":"fa4fdc26-0d42-466f-a332-fecdbb82667b","width":"1/1"}],"id":"4d75fa85-9976-4581-a0f3-03c12f54646a"}]
+
+----
+
+Date: 2026-11-12 13:35:00
+
+----
+
+Datumstartseite: 2026-12-22 13:35:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Gerd Breuker
+
+----
+
+Tags: Mathematik, Wettbewerb
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: l404bgl0pzoqwot2
