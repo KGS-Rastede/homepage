@@ -18,7 +18,7 @@ Author: Markus Michler
 
 ----
 
-Tags: Technik, Informatik
+Tags: Technik, Informatik, RoboCup, Wettbewerb
 
 ----
 
