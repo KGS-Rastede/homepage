@@ -1,0 +1,13 @@
+Anzeigename: Hinweise zu den Praktikumsregelungen
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: mgfszqbbtpngtbv9
+
+----
+
+Template: datei
