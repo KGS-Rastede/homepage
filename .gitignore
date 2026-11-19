@@ -60,6 +60,8 @@ package-lock.json
 
 # Editor / Tooling
 # ---------------
+# Lokale Claude-Code-Berechtigungen (rechnerspezifisch, können Schlüssel enthalten)
+.claude/settings.local.json
 assets/prepros.config
 prepros.config
 /.idea
