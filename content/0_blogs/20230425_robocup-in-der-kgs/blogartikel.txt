@@ -22,7 +22,7 @@ Author: Markus Michler
 
 ----
 
-Tags: Robocup, Informatik, AGn, Wettbewerb
+Tags: RoboCup, Informatik, AGs, Wettbewerb
 
 ----
 
