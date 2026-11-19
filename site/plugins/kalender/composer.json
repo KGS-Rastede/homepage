@@ -1,0 +1,13 @@
+{
+	"name": "kgs/kalender",
+	"description": "Schulkalender aus IServ für Kalenderseite und Startseiten-Box",
+	"type": "kirby-plugin",
+	"version": "1.0.0",
+	"license": "MIT",
+	"homepage": "https://www.kgs-rastede.de",
+	"authors": [
+		{
+			"name": "Carsten Niehaus"
+		}
+	]
+}
