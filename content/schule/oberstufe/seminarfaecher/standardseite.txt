@@ -45,12 +45,9 @@ Sidetitel:
 
 Sidebar:
 
-- 
-  link: >
-    https://uol.de/bis/lernen-und-arbeiten/angebote-fuer-schulen
-  name: >
-    Angebote der Uni-Bibliothek Oldenburg
-    für Schulen
+-
+  link: 'https://uol.de/bis/lernen-und-arbeiten/angebote-fuer-schulen'
+  name: 'Angebote der Uni-Bibliothek Oldenburg für Schulen'
 
 ----
 

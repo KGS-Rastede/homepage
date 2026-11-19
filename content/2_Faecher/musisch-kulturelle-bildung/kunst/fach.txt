@@ -44,35 +44,26 @@ Fotoansicht: gallery
 
 Sidebar:
 
-- 
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=118'
-  name: Kerncurriculum Sek I
-- 
+  name: 'Kerncurriculum Sek I'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=103'
-  name: Kerncurriculum gymnasiale Oberstufe
-- 
-  link: >
-    https://bildungsportal-niedersachsen.de/fileadmin/4_Allgemeinbildung/Zentrale_Arbeiten/2026/07_KunstHinweise2026.pdf
-  name: >
-    Hinweise zur schriftlichen
-    Abiturprüfung 2026
-- 
+  name: 'Kerncurriculum gymnasiale Oberstufe'
+-
+  link: 'https://bildungsportal-niedersachsen.de/fileadmin/4_Allgemeinbildung/Zentrale_Arbeiten/2026/07_KunstHinweise2026.pdf'
+  name: 'Hinweise zur schriftlichen Abiturprüfung 2026'
+-
   link: 'https://bildungsportal-niedersachsen.de/index.php?eID=dumpFile&t=f&f=16377&token=1eb9ccb8765935c84e67976c06eacb9994e2f1d6'
-  name: >
-    Hinweise zur schriftlichen
-    Abiturprüfung 2027
-- 
-  link: >
-    https://bildungsportal-niedersachsen.de/fileadmin/4_Allgemeinbildung/Zentrale_Arbeiten/ZA_Allgemein/KU_2024Abi_Operatoren.pdf
-  name: >
-    Operatorenliste zur schriftlichen
-    Abiturprüfung
-- 
-  link: >
-    https://kgs-rastede.de/blogs/informationen-zum-artelierkurs-2021
-  name: Informationsvideo zum Atelierkurs
-- 
-  link: https://www.kkr-rastede.de/
+  name: 'Hinweise zur schriftlichen Abiturprüfung 2027'
+-
+  link: 'https://bildungsportal-niedersachsen.de/fileadmin/4_Allgemeinbildung/Zentrale_Arbeiten/ZA_Allgemein/KU_2024Abi_Operatoren.pdf'
+  name: 'Operatorenliste zur schriftlichen Abiturprüfung'
+-
+  link: 'https://kgs-rastede.de/blogs/informationen-zum-artelierkurs-2021'
+  name: 'Informationsvideo zum Atelierkurs'
+-
+  link: 'https://www.kkr-rastede.de/'
   name: 'Kunst- und Kulturkreis Rastede E.V.'
 
 ----

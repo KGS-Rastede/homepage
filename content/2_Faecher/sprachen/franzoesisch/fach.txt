@@ -44,37 +44,29 @@ Fotoansicht: carousel
 
 Sidebar:
 
-- 
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=81'
-  name: Kerncurriculum Realschule
-- 
+  name: 'Kerncurriculum Realschule'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=171'
-  name: Kerncurriculum Gymnasium
-- 
+  name: 'Kerncurriculum Gymnasium'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=170'
-  name: Kerncurriculum gymnasiale Oberstufe
-- 
+  name: 'Kerncurriculum gymnasiale Oberstufe'
+-
   link: 'https://www.nibis.de/uploads/mk-bolhoefer/2021/03Franz%C3%B6sischHinweise2021NEU.pdf'
-  name: >
-    Hinweise zur schriftlichen
-    Abiturprüfung 2021
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/FR_2021Abi_Operatoren.pdf
-  name: >
-    Operatorenliste zur schriftlichen
-    Abiturprüfung 2021
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf
+  name: 'Hinweise zur schriftlichen Abiturprüfung 2021'
+-
+  link: 'https://www.nibis.de/uploads/1gohrgs/operatoren_2021/FR_2021Abi_Operatoren.pdf'
+  name: 'Operatorenliste zur schriftlichen Abiturprüfung 2021'
+-
+  link: 'https://www.nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf'
   name: 'Sek - II Hinweise zur Bewertung der sprachlichen Leistung'
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/za2021/02_Skala_Bewertung_der_inhaltlichen_Leistung.pdf
+-
+  link: 'https://www.nibis.de/uploads/1gohrgs/za2021/02_Skala_Bewertung_der_inhaltlichen_Leistung.pdf'
   name: 'Sek - II Hinweise zur Bewertung der schriftlichen Leistung'
-- 
-  link: >
-    http://www.europaeischer-referenzrahmen.de/
+-
+  link: 'http://www.europaeischer-referenzrahmen.de/'
   name: 'GeR: Der europäische Referenzrahmen für Sprachen:'
 
 ----

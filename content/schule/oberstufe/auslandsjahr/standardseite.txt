@@ -35,12 +35,11 @@ Sidetitel: Weitere Informationen
 
 Sidebar:
 
-- 
-  link: >
-    https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gymnasium/gymnasium-6319.html
+-
+  link: 'https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gymnasium/gymnasium-6319.html'
   name: Kultusministerium
-- 
-  link: https://www.jugendbildungsmesse.de/
+-
+  link: 'https://www.jugendbildungsmesse.de/'
   name: Jugendbildungsmesse
 
 ----

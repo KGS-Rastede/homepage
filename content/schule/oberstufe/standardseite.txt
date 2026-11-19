@@ -48,9 +48,8 @@ Sidetitel: Wichtige Themen
 
 Sidebar:
 
-- 
-  link: >
-    https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gymnasium/gymnasium-6319.html
+-
+  link: 'https://www.mk.niedersachsen.de/startseite/schule/unsere_schulen/allgemein_bildende_schulen/gymnasium/gymnasium-6319.html'
   name: 'Kultusministerium: Informationen zum Gymnasium'
 
 ----

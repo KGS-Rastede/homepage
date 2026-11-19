@@ -36,37 +36,30 @@ Fotoansicht: gallery
 
 Sidebar:
 
-- 
-  link: >
-    https://www.dlrg.de/informieren/aufsichtspersonen/dlrg-schule/
+-
+  link: 'https://www.dlrg.de/informieren/aufsichtspersonen/dlrg-schule/'
   name: 'DLRG & Schule'
-- 
-  link: >
-    https://www.dlrg.de/informieren/ausbildung/schwimmabzeichen
-  name: DLRG Schwimmabzeichen
-- 
-  link: >
-    https://www.dlrg.de/informieren/die-dlrg/presse/schwimmfaehigkeit/
-  name: DLRG Schwimmfähigkeit
-- 
-  link: https://www.dlrg.de/fuer-mitglieder/
-  name: DLRG Mitglieder
-- 
-  link: >
-    https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/Kiggs/kiggs_node.html
-  name: RKI Studien KiGGS
-- 
-  link: >
-    https://edoc.rki.de/bitstream/handle/176904/3078/Schwimmfähigkeit.pdf
-  name: RKI KiGGS Schwimmfähigkeit
-- 
-  link: >
-    https://www.spiegel.de/panorama/dlrg-bilanz-seit-jahresbeginn-ertranken-mehr-als-350-menschen-in-gewaessern-in-deutschland-a-224b6d16-7acb-4863-94f2-d05c891a986e
+-
+  link: 'https://www.dlrg.de/informieren/ausbildung/schwimmabzeichen'
+  name: 'DLRG Schwimmabzeichen'
+-
+  link: 'https://www.dlrg.de/informieren/die-dlrg/presse/schwimmfaehigkeit/'
+  name: 'DLRG Schwimmfähigkeit'
+-
+  link: 'https://www.dlrg.de/fuer-mitglieder/'
+  name: 'DLRG Mitglieder'
+-
+  link: 'https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/Kiggs/kiggs_node.html'
+  name: 'RKI Studien KiGGS'
+-
+  link: 'https://edoc.rki.de/bitstream/handle/176904/3078/Schwimmfähigkeit.pdf'
+  name: 'RKI KiGGS Schwimmfähigkeit'
+-
+  link: 'https://www.spiegel.de/panorama/dlrg-bilanz-seit-jahresbeginn-ertranken-mehr-als-350-menschen-in-gewaessern-in-deutschland-a-224b6d16-7acb-4863-94f2-d05c891a986e'
   name: 'Spiegel Artikel: Bilanz ertrunkener Menschen'
-- 
-  link: >
-    https://bildungsportal-niedersachsen.de/fileadmin/2_Portale/Sport-Portal/downloads
-  name: Bildungsportal Niedersachsen Sport
+-
+  link: 'https://bildungsportal-niedersachsen.de/fileadmin/2_Portale/Sport-Portal/downloads'
+  name: 'Bildungsportal Niedersachsen Sport'
 
 ----
 

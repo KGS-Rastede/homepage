@@ -65,52 +65,42 @@ Fotoansicht: carousel
 
 Sidebar:
 
-- 
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=15'
-  name: Kerncurriculum für die Hauptschule
-- 
+  name: 'Kerncurriculum für die Hauptschule'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=69'
-  name: Kerncurriculum für die Realschule
-- 
+  name: 'Kerncurriculum für die Realschule'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=139'
-  name: Kerncurriculum für das Gymnasium
-- 
+  name: 'Kerncurriculum für das Gymnasium'
+-
   link: 'https://cuvo.nibis.de/cuvo.php?p=download&upload=77'
-  name: Kerncurriculum gymnasiale Oberstufe
-- 
-  link: >
-    https://www.nibis.de/uploads/mk-bolhoefer/2021/02EnglischHinweise2021NEU.pdf
-  name: >
-    Hinweise zur schriftlichen
-    Abiturprüfung 2021
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/operatoren_2021/EN_2021Abi_Operatoren.pdf
-  name: >
-    Operatorenliste zur schriftlichen
-    Abiturprüfung 2021
-- 
-  link: >
-    https://www.abiweb.de/englisch-methoden/willkommen-abiturkurs-englisch/operatoren-abitur-bedeutung-beispiele.html
-  name: Operatorenliste für das Fach Englisch
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf
+  name: 'Kerncurriculum gymnasiale Oberstufe'
+-
+  link: 'https://www.nibis.de/uploads/mk-bolhoefer/2021/02EnglischHinweise2021NEU.pdf'
+  name: 'Hinweise zur schriftlichen Abiturprüfung 2021'
+-
+  link: 'https://www.nibis.de/uploads/1gohrgs/operatoren_2021/EN_2021Abi_Operatoren.pdf'
+  name: 'Operatorenliste zur schriftlichen Abiturprüfung 2021'
+-
+  link: 'https://www.abiweb.de/englisch-methoden/willkommen-abiturkurs-englisch/operatoren-abitur-bedeutung-beispiele.html'
+  name: 'Operatorenliste für das Fach Englisch'
+-
+  link: 'https://www.nibis.de/uploads/1gohrgs/za2021/01_Skala_Bewertung_der_sprachlichen_Leistung.pdf'
   name: 'Sek - II Hinweise zur Bewertung der sprachlichen Leistung'
-- 
-  link: >
-    https://www.nibis.de/uploads/1gohrgs/za2019/2017_Erlass_ZA_Bewertung_FS.pdf
+-
+  link: 'https://www.nibis.de/uploads/1gohrgs/za2019/2017_Erlass_ZA_Bewertung_FS.pdf'
   name: 'Sek - II Hinweise zur Bewertung der schriftlichen Leistung'
-- 
-  link: https://www.britishcouncil.de/
-  name: British Council Deutschand
-- 
-  link: https://www.ego4u.de/
-  name: Englisch lernen mit EGO4U
-- 
-  link: >
-    https://www.fluentu.com/blog/english-ger/englisch-sprechen-mit-kindern/
-  name: Lustige Ideen zum Englischlernen
+-
+  link: 'https://www.britishcouncil.de/'
+  name: 'British Council Deutschand'
+-
+  link: 'https://www.ego4u.de/'
+  name: 'Englisch lernen mit EGO4U'
+-
+  link: 'https://www.fluentu.com/blog/english-ger/englisch-sprechen-mit-kindern/'
+  name: 'Lustige Ideen zum Englischlernen'
 
 ----
 

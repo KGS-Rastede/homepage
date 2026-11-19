@@ -36,12 +36,11 @@ Sidetitel:
 
 Sidebar:
 
-- 
-  link: http://www.schure.de
-  name: Schulrechtliche Infos
-- 
-  link: >
-    https://voris.wolterskluwer-online.de/browse/document/b833db49-9102-373d-ba5f-b930dcb03844
+-
+  link: 'http://www.schure.de'
+  name: 'Schulrechtliche Infos'
+-
+  link: 'https://voris.wolterskluwer-online.de/browse/document/b833db49-9102-373d-ba5f-b930dcb03844'
   name: NPersVG
 
 ----
