@@ -2,7 +2,7 @@
 	"name": "kgs/bereichsrechte",
 	"description": "Beschränkt eingeschränkte Panel-Rollen auf ihre Bereiche (Teilbäume)",
 	"type": "kirby-plugin",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"license": "MIT",
 	"homepage": "https://www.kgs-rastede.de",
 	"authors": [

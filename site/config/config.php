@@ -56,13 +56,6 @@ return array_merge($secrets, [
 
         'css' => 'assets/css/custom-panel.css',
 
-        // Keines unserer Plugins nutzt Vue-Templates als Strings,
-        // daher den Template-Compiler aus Sicherheitsgründen abschalten.
-        // https://getkirby.com/docs/reference/system/options/panel#vue-template-compiler
-        'vue' => [
-            'compiler' => false,
-        ],
-
         // Startseite und Menü eingeschränkter Rollen ergeben sich aus
         // kgs.bereichsrechte (siehe unten), alle anderen bekommen das volle Panel.
         'home' => fn () => Kgs\Bereichsrechte\Bereiche::panelHome() ?? 'site',

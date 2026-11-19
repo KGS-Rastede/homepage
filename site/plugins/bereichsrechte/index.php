@@ -14,9 +14,10 @@ use Kirby\Exception\PermissionException;
  */
 
 load([
-    'Kgs\\Bereichsrechte\\Bereiche'            => 'src/Bereiche.php',
-    'Kgs\\Bereichsrechte\\BereichsPage'        => 'src/BereichsPage.php',
-    'Kgs\\Bereichsrechte\\BereichsPermissions' => 'src/BereichsPermissions.php',
+    'Kgs\\Bereichsrechte\\Bereiche'                => 'src/Bereiche.php',
+    'Kgs\\Bereichsrechte\\BereichsPage'            => 'src/BereichsPage.php',
+    'Kgs\\Bereichsrechte\\BereichsGuards'          => 'src/BereichsGuards.php',
+    'Kgs\\Bereichsrechte\\BereichsPagePermissions' => 'src/BereichsPagePermissions.php',
 ], __DIR__);
 
 Kirby::plugin('kgs/bereichsrechte', [
