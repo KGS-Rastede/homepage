@@ -1,0 +1,724 @@
+Title: 2024
+
+----
+
+Pressenachrichten:
+
+- 
+  link: >
+    https://kvhs-ammerland.de/programm/kultur/kurs/NEU-Ausstellung-Deine-Anne-Ein-Maedchen-schreibt-Geschichte/O1018
+  name: 'NEU Ausstellung: Deine Anne – Ein Mädchen schreibt Geschichte'
+  anfang: >
+    Die Kooperative Gesamtschule Rastede
+    präsentiert im Juni die interaktive
+    Ausstellung „Deine Anne – Ein
+    Mädchen schreibt Geschichte“,
+    entwickelt vom Anne Frank Zentrum Berlin
+    in Kooperation mit dem Anne Frank Haus
+    in Amsterdam. Schülerinnen und Schüler
+    der KGS Rastede begleiten durch diese
+    eindrucksvolle und hoch aktuelle
+    Ausstellung und diskutieren dabei zum
+    Thema "Diskriminierung damals und
+    heute". Gemeinsam mit der KVHS Ammerland
+    möchte die KGS Rastede auch externen
+    Gästen den Besuch der Ausstellung
+    ermöglichen und lädt dazu herzlich
+    ein. Treffpunkt ist der Haupteingang der
+    KGS Rastede, Wilhelmstr. 5 in 26180
+    Rastede. Die Veranstaltung ist
+    entgeltfrei. Um Voranmeldung über die
+    KVHS Ammerland wird gebeten.
+  datum: 2024-12-24
+  medium: sonstiges
+- 
+  link: >
+    https://rausgegangen.de/events/glitzerparty-x-abiparty-kgs-rastede-0/
+  name: Glitzerparty x Abiparty KGS Rastede
+  anfang: Glitzerparty x Abiparty KGS Rastede
+  datum: 2024-12-24
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/politik-in-rastede-spd-und-gruene-gehen-in-rastede-jetzt-getrennte-wege_a_4,1,3464986208.html
+  name: 'Gruppenvereinbarung aufgekündigt - Nach Streit um Schulentwicklung – SPD und Grüne gehen in Rastede jetzt getrennte Wege'
+  anfang: >
+    Der Streit um die Schulentwicklung in
+    Rastede hat das Bündnis von SPD,
+    Grünen und UWG beendet. Die SPD
+    kritisiert die Grünen für Vorwürfe
+    gegen die Verwaltung und bricht die
+    Zusammenarbeit ab.
+  datum: 2024-12-18
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulentwicklung-in-rastede-zukunftsplan-2040-geraet-ins-stocken_a_4,1,3409449851.html
+  name: 'Kritik aus der Politik - Beim Zukunftsplan für die Rasteder Schulen tritt die Verwaltung noch auf der Stelle'
+  anfang: >
+    Der „Zukunftsplan Schulen 2040“ in
+    Rastede sollte nach Ansicht der Politik
+    bereits starten, doch die Verwaltung
+    verweist auf die Zeit nach Ostern. Wie
+    sie die Verzögerung erklärte und wie
+    der Rat reagierte, lesen Sie hier.
+  datum: 2024-12-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/selbstbehauptungstraining-in-rastede-selbstwertgefuehl-soll-gestaerkt-werden_a_4,1,3403529195.html
+  name: 'Selbstbehauptungs-Training mit der KGS Rastede - Selbstwertgefühl soll gestärkt werden'
+  anfang: >
+    An der Kooperativen Gesamtschule Rastede
+    nahmen Sechstklässler an einem
+    Selbstbehauptungstraining teil. Ziel war
+    es, das Selbstwertgefühl zu stärken
+    und einen respektvollen Umgang zu
+    fördern.
+  datum: 2024-12-12
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/12/10/lesebuehnen-und-landschaftsliegen/
+  name: Lesebühnen und Landschaftsliegen
+  anfang: 'Gesellschafterversammlung der Residenzort Rastede GmbH: Holger Piwowar stellt neues Programm vor'
+  datum: 2024-12-10
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/12/04/es-gibt-nichts-gutes-ausser-man-tut-es/
+  name: >
+    „Es gibt nichts Gutes – außer man
+    tut es!“
+  anfang: >
+    RepairCafé Rastede spendet 300 Euro
+    für die Wunschbaumaktion. Nächstes
+    RepairCafé am 18. Januar.
+  datum: 2024-12-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/weihnachtsmaerkte-im-ammerland-vergleich-der-angebote-in-westerstede-bad-zwischenahn-und-rastede_a_4,1,3263730155.html
+  name: 'Rastede, Westerstede, Bad Zwischenahn - Jeder Weihnachtsmarkt ein bisschen anders – der große Vergleich im Ammerland'
+  anfang: >
+    Welcher Weihnachtsmarkt passt zu wem?
+    Wir haben uns die drei Veranstaltungen
+    in Westerstede, Rastede und Bad
+    Zwischenahn angeschaut. Was es dort gibt
+    und was es kostet.
+  datum: 2024-11-29
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/11/28/zukunftsplan-schulen-jetzt-im-rat-behandeln/
+  name: >
+    „Zukunftsplan Schulen“ jetzt im Rat
+    behandeln
+  anfang: >
+    Die Mehrheitsgruppe will das Thema auf
+    die Tagesordnung der nächsten
+    Ratssitzung am 10. Dezember setzen
+    lassen
+  datum: 2024-11-28
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/11/20/wieder-weihnachtsmarkt-an-der-kgs/
+  name: Wieder Weihnachtsmarkt an der KGS
+  anfang: >
+    Nach dem Erfolg im vergangenen Jahr gibt
+    es eine Neuauflage an diesem Freitag
+  datum: 2024-11-20
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.ostfriesland.travel/veranstaltungen-in-ostfriesland/weihnachtsmarkt-in-der-kgs-rastede
+  name: Weihnachtsmarkt in der KGS Rastede
+  anfang: 'HOHOHO!Weihnachtsmarkt an der KGS  in den Räumen der KGS an der Wilhelmstraße.Es duftet schon weihnachtlich aus den Küchen der KGS. Es gibt Selbstgebackenes, Selbstgebasteltes, Musik, ... Da ist sicherlich auch die ein oder andere Geschenkidee dabei! Wir freuen uns auf eine rege Teilnahme! Bringt sie alle mit!!!'
+  datum: 2024-11-17
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/holocaust-ueberlebender-spricht-in-rastede-albrecht-weinberg-an-der-kgs_a_4,1,3101171438.html
+  name: 'Gedenken an Novemberpogrome: Albrecht Weinberg spricht über Holocaust-Erfahrungen mit Schülern der KGS'
+  anfang: >
+    Anlässlich des Gedenkens an die
+    Novemberpogrome sprach
+    Holocaust-Überlebender Albrecht
+    Weinberg mit Schülern der KGS Rastede
+    über seine Erfahrungen. Der 99-Jährige
+    überlebte mehrere Konzentrationslager
+    und Todesmärsche.
+  datum: 2024-11-14
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/ausbildungsmesse-in-rastede-kgs-bietet-schuelern-berufliche-orientierung_a_4,1,3077898204.html
+  name: 'Ausbildungsmesse in Rastede - 50 Unternehmen zeigen Schülern Berufsperspektiven auf'
+  anfang: >
+    In der Mehrzweckhalle Feldbreite in
+    Rastede präsentierten über 50
+    Unternehmen ihre Ausbildungsangebote.
+    Die Schüler konnten wertvolle Kontakte
+    knüpfen und ihre berufliche Zukunft
+    aktiv gestalten.
+  datum: 2024-11-11
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/gedenktag-in-rastede-fast-100-personen-erinnern-an-pogromnacht-im-residenzort_a_4,1,3070471246.html
+  name: 'Gedenktag in Rastede - Fast 100 Personen erinnern an Schrecken der Pogromnacht'
+  anfang: >
+    Gedenkgang in Rastede macht Station vor
+    den Häusern ehemaliger, jüdischer
+    Mitbürger und erinnert an die
+    Brutalität der Pogromnacht im
+    Residenzort. Die Aktion soll wiederholt
+    organisiert werden.
+  datum: 2024-11-10
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulen-im-ammerland-lehrermangel-und-schwankungen-bei-der-unterrichtsversorgung_a_4,1,2951650132.html
+  name: >
+    Immer wieder Ausfälle So steht es um
+    die Unterrichtsversorgung an Schulen im
+    Ammerland
+  anfang: >
+    Immer wieder fällt Unterricht aus,
+    obwohl die Schule im Ammerland eine
+    offizielle Unterrichtsversorgung von
+    97,2 Prozent aufweist? Dem
+    CDU-Landtagsabgeordneten Björn Thümler
+    war das eine Kleine Anfrage wert.
+  datum: 2024-10-29
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/10/29/repair-cafe-am-16-november/
+  name: Repair-Café am 16. November
+  anfang: >
+    Erstmals wird am 16. November auch ein
+    kleiner Verschenkemarkt in der KGS
+    eingerichtet
+  datum: 2024-10-29
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/neue-foerderschule-ese-im-ammerland-besuch-von-kultusministerin-hamburg-in-rastede-kurzfristig-abgesagt_a_4,1,2891503911.html
+  name: 'Nach monatelanger Prüfung - Besuch der Kultusministerin in Rastede kurzfristig abgesagt – Ringen um neue Förderschule fürs Ammerland geht weiter'
+  anfang: >
+    Der Landkreis will in Rastede eine neue
+    Förderschule einrichten. Doch die
+    zuständigen Behörden prüfen seit
+    Monaten den Antrag und fordern immer
+    neue Unterlagen. Ein geplanter Besuch
+    der Kultusministerin wurde indes
+    abgesagt.
+  datum: 2024-10-24
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/10/22/luft-nach-oben-unterrichtsversorgung-in-rastede/
+  name: >
+    Luft nach oben? Unterrichtsversorgung in
+    Rastede
+  anfang: 'MdL Björn Thümler (CDU) stellt Anfrage an Landesregierung. Ergebnis: An den Schulen der Gemeinde Rastede bleibt die Zahl der Unterrichtsstunden unter der GEW-Forderung.'
+  datum: 2024-10-22
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/09/30/kaskade-zeigt-aktualisierte-plakate-der-kgs-rastede/
+  name: >
+    Kaskade zeigt aktualisierte Plakate der
+    KGS Rastede
+  anfang: >
+    Abtauchen in die Ausstellung „Es geht
+    um Meer“ noch bis zum 20. Oktober im
+    Museum Kaskade möglich
+  datum: 2024-09-30
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rastede.de/2024/09/demokratiefoerderung-durch-aktive-jugendbeteiligung/
+  name: >
+    Demokratieförderung durch aktive
+    Jugendbeteiligung
+  anfang: 'Die Gemeinde Rastede setzt ein starkes Zeichen für die Demokratieförderung von Jugendlichen und führt ab dem Schuljahr 2024/25 den Schüler*innenHaushalt an der Kooperativen Gesamtschule (KGS) Rastede und der Schule am Voßbarg ein. Das innovative Jugendbeteiligungsformat ist ein Konzept der Bertelsmann Stiftung und bietet den Schülerinnen und Schülern die Möglichkeit, demokratische Prozesse direkt in ihrer Schule mitzuerleben und mitzugestalten.'
+  datum: 2024-09-23
+  medium: gemeinde
+- 
+  link: >
+    https://www.kreiszeitung-wesermarsch.de/region/besuche-ausstellung-in-der-wesermarsch-darum-lohnt-sich-ein-besuch-der-kaskade-236041.html
+  name: 'Besuche Ausstellung in der Wesermarsch: Darum lohnt sich ein Besuch der Kaskade'
+  anfang: 'Die Ausstellung „Es geht um Meer“ in der Kaskade in Diekmannshausen geht in die Verlängerung: Damit die Informationen zur Verschmutzung der Ozeane und zum Schutz der Weltmeere weitere Besucher erreichen, ist sie noch bis zu diesem Tag zu sehen.'
+  datum: 2024-09-11
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/zukunftsplan-schulen-in-rastede-schulausschuss-gibt-gruenes-licht-fuer-umfassende-reform_a_4,1,2243661182.html
+  name: 'Bildung in Rastede - Schulausschuss setzt auf Masterplan und will „Flickenteppich“ einen'
+  anfang: >
+    Ein „Brandbrief“ der
+    Schulelternräte entfachte im Juni eine
+    hitzige Debatte über die Rasteder
+    Schullandschaft. Nun soll der
+    „Zukunftsplan Schulen 2040“ . Wie
+    geht es weiter?
+  datum: 2024-08-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schule-in-rastede-zukunftsplan-erfordert-wertschaetzende-zusammenarbeit_a_4,1,2248031721.html
+  name: >
+    Schulentwicklung in Rastede Null-Phase
+    statt Nullnummer
+  anfang: >
+    Der Zukunftsplan für die Schulen in
+    Rastede setzt auf eine Null-Phase, die
+    alle Beteiligten einbindet. Redakteurin
+    Katja Lüers hofft, dass aus dieser
+    Null-Phase keine Nullnummer wird.
+  datum: 2024-08-21
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/08/16/zukunftsplan-schule-ist-thema-im-fachausschuss/
+  name: >
+    „Zukunftsplan Schule“ ist Thema im
+    Fachausschuss
+  anfang: >
+    Am kommenden Montag, 19. August,
+    beschäftigt sich der Schulausschuss mit
+    der Entwicklung der KGS und der
+    Grundschulen. Die Sitzung findet ab 17
+    Uhr in der Neuen Aula statt.
+  datum: 2024-08-16
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/08/07/reparieren-leicht-gemacht/
+  name: Reparieren leicht gemacht
+  anfang: >
+    Mit Beginn des neuen Schuljahrs startet
+    auch das Repaircafé wieder durch.
+    Erster Termin ist der 17. August.
+  datum: 2024-08-07
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/schulabschluss-im-ammerland-abitur-und-co-die-abschlussjahrgaenge-2024_a_4,1,1659586737.html
+  name: 'Abitur und Co. - Schulabschluss 2024 – Diese Ammerländer machen jetzt den nächsten Schritt'
+  anfang: 'Zahlreiche Schülerinnen und Schüler haben im Ammerland ihren Abschluss gemacht. Hier zeigen wir, wer diesen Schritt geschafft hat. Ammerland - Das Schuljahr ist zu Ende: Viele junge Menschen haben das Abgangszeugnis in der Tasche – ob mit Abitur oder anderen Abschlüssen. Die NWZ zeigt und nennt die erfolgreichen Absolventinnen und Absolventen des Jahres 2024 aus dem Ammerland. Hier die Fotos und Namen, sofern sie von den Schulen übermittelt wurden.'
+  datum: 2024-06-25
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/06/20/voellig-losgeloest/
+  name: Völlig losgelöst
+  anfang: '„Abinauten – keine Überflieger, trotzdem abgehoben“: Der diesjährige KGS-Abiturjahrgang verabschiedet sich ausgesprochen freundlich von seiner Schulzeit'
+  datum: 2024-06-20
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/06/18/damit-ihr-uns-ne-schule-baut/
+  name: „Damit ihr uns `ne Schule baut“
+  anfang: >
+    Rund 600 Erwachsene und Kinder haben
+    heute morgen vor dem Rathaus für eine
+    bessere Ausstattung der Rasteder Schulen
+    demonstriert
+  datum: 2024-06-18
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/wie-es-nach-dem-brandbrief-der-rasteder-schulelternraete-weitergeht_a_4,1,1488634116.html
+  name: >
+    INFOSTAND, DEMONSTRATION UND ANTRAG Wie
+    es nach dem Brandbrief der Rasteder
+    Schulelternräte weitergeht
+  anfang: >
+    Auf den Brandbrief der Rasteder
+    Schulelternräte folgen nun ein
+    Infostand und eine Demonstration.
+    Unterdessen berichten junge Erwachsene,
+    dass sie sich von der Gemeinde links
+    liegen gelassen fühlten.
+  datum: 2024-06-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/region/rastede-300-igs-schueler-lernen-im-schlosspark_a_4,1,1478398022.html
+  name: >
+    WALDJUGENDSPIELE IN RASTEDE KGS verlegt
+    Unterricht in den Wald
+  anfang: >
+    Bei der KGS Rastede standen nicht Mathe
+    oder Deutsch auf dem Stundenplan. Bei
+    den Waldjugendspielen ging es vielmehr
+    um Vogelstimmen, Pflanzenbestimmung und
+    viele andere Aufgaben.
+  datum: 2024-06-11
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/wesermarsch/jugendrotkreuz-misst-sich-in-brake_a_4,1,1458774774.html
+  name: >
+    LANDESWETTBEWERB FÜR NACHWUCHS-RETTER
+    Jugendrotkreuz misst sich in Brake
+  anfang: >
+    Jugendrotkreuz-Mannschaften aus dem
+    Oldenburger Land traten in Brake zum
+    Wettbewerb an. Eine Mannschaft aus Apen
+    fährt zum Bundeswettbewerb nach
+    Thüringen.
+  datum: 2024-06-10
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung-in-rastede-schulelternraete-planen-demonstration-rastedes-zukunft-ist-jung-fuer-18-juni_a_4,1,1403408591.html
+  name: >
+    OFFENER BRIEF IN RASTEDE Brandbrief der
+    Eltern – Scharfe Kritik an Gemeinde
+    aufgrund des Zustands der Schulen
+  anfang: 'Raumnot, Sanierungsstau, schlechte IT-Ausstattung, fehlende Schulsozialarbeiter: Die Schulelternräte aller Rasteder Schulen sorgen sich um die Zukunft der Kinder. Jetzt rufen sie zur Demonstration auf.'
+  datum: 2024-06-06
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/gemeinde-rastede-offener-brief-der-schulelternraete-ein-sammelsurium-an-falschaussagen-und-behauptungen_a_4,1,1407350213.html
+  name: >
+    REAKTION AUF OFFENEN BRIEF IN RASTEDE
+    „Ein Sammelsurium an Falschaussagen
+    und Behauptungen“
+  anfang: 'Dass für Kinder und Jugendliche in Rastede nichts oder zu wenig getan werde, weist die Gemeinde vehement zurück. Im Gegenteil: Es gäbe zahlreiche Projekte und weitere seien geplant.'
+  datum: 2024-06-06
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/fuers-stadtradeln-werden-noch-stadtradler-gesucht_a_4,1,1360750801.html
+  name: >
+    FÜRS KLIMA UND DIE GESUNDHEIT Fürs
+    Stadtradeln werden noch Stadtradler
+    gesucht
+  anfang: >
+    Nicht nur Holger Piwowar,
+    Geschäftsführer der Residenzort
+    Rastede GmbH, eröffnete das Stadtradeln
+    im Ammerland mit einer Fahrradtour. Aber
+    auch jetzt kann man sich noch anmelden
+    und mitmachen.
+  datum: 2024-06-03
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2024/05/praeventionsprojekt-balu-und-du-dritter-durchgang-setzt-erfolgsgeschichte-fort/
+  name: 'Präventionsprojekt „Balu und Du“: Dritter Durchgang setzt Erfolgsgeschichte fort'
+  anfang: >
+    Der dritte Durchgang des
+    Präventionsprojekts „Balu und Du“
+    ist gestern erfolgreich zu Ende
+    gegangen. Im Rahmen einer kleinen
+    Abschlussfeier übergab Bürgermeister
+    Lars Krause Urkunden und Medaillen an
+    die teilnehmenden Schülerinnen und
+    Schüler der Kooperativen Gesamtschule
+    (KGS) Rastede sowie der Grundschulen
+    Feldbreite und Kleibrok.
+  datum: 2024-05-30
+  medium: gemeinde
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/04/29/repair-cafe-boomt/
+  name: Repair-Café boomt
+  anfang: >
+    Für das Projekt wurde jetzt ein Verein
+    gegründet. Über weitere Freiwillige
+    freut man sich.
+  datum: 2024-04-29
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/abi-fete-der-kgs-rastede-und-aloha-mai-party-beim-schuetzenverein-leuchtenburg_a_4,1,905278912.html
+  name: >
+    DIE BESTEN BILDER Ausgelassene Stimmung
+    bei Abi-Fete in Rastede und
+    Aloha-Mai-Party
+  anfang: >
+    Tolle Stimmung herrschte Bei der
+    Aloha-Mai-Party beim Schützenverein
+    Leuchtenburg und der Abi-Fete der KGS
+    Rastede. Wir haben die besten Bilder.
+  datum: 2024-04-27
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/rastede-unbekannte-beschmieren-rasteder-schulen-mehrere-tausend-euro-schaden_a_4,1,852821240.html
+  name: 'TAUSENDE EURO SCHADEN - Unbekannte beschmieren Rasteder Schulen – Polizei sucht Zeugen'
+  anfang: 'Mit Kunst hat das nichts zu tun, mit einer Straftat schon: Unbekannte haben in den vergangenen Tagen Farbschmierereien an mehreren Rasteder Schulen hinterlassen.'
+  datum: 2024-04-23
+  medium: nwz
+- 
+  link: >
+    https://www.ser-kgs.de/repaircafe_77.html
+  name: RepairCafé in der KGS
+  anfang: >
+    Unter Beteiligung des Schulelternrates
+    wird in der KGS ein RepairCafé
+    eröffnet.
+  datum: 2024-04-12
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/repair-caf-rastede-ist-meine-kaffeemaschine-noch-zu-retten_a_4,1,398448762.html
+  name: >
+    Reparieren statt wegwerfen Ist meine
+    Kaffeemaschine noch zu retten? – So
+    läuft’s im neuen Repair Café Rastede
+  anfang: >
+    Wie funktioniert ein Repair Café und
+    kann man dort wirklich Defektes vor dem
+    Müll bewahren? Redakteur Patrick Buck
+    hat das bei der Premiere in Rastede mit
+    seiner kaputten Kaffeemaschine getestet.
+  datum: 2024-03-17
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/rastede-repaircaf-geht-an-den-start-zweite-chance-fuer-alte-schaetze_a_4,1,343042204.html
+  name: 'Nachhaltigkeit - Zweite Chance für alte Schätze – Repaircafé Rastede geht an den Start'
+  anfang: >
+    Reparieren schont den Geldbeutel und
+    hilft der Umwelt. Mitgebracht werden
+    kann so ziemlich alles, was man tragen
+    kann.
+  datum: 2024-03-14
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/03/12/repaircafe-rastede-geht-an-den-start/
+  name: RepairCafé Rastede geht an den Start
+  anfang: >
+    Reparieren statt wegwerfen heißt das
+    Motto am kommenden Samstag, 16. März.
+    Dann startet Rastedes erstes
+    Reparatur-Café in den Räumen der KGS.
+  datum: 2024-03-12
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/oldenburg-kreis/filmklappe-oldenburg-2024-viel-lob-fuer-die-jungen-filmemacher_a_4,1,323655656.html
+  name: '10. Filmklappe Oldenburg - Viel Lob für junge Filmemacher'
+  anfang: >
+    Die Sieger der Filmklappe Oldenburg
+    stehen fest. Gekürt wurden die
+    Schülerinnen und Schüler im Cine K in
+    Oldenburg – einen Tag vor der
+    Oscar-Verleihung.
+  datum: 2024-03-11
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/oldenburg-kreis/10-filmklappe-oldenburg-das-sind-die-1-preistraeger-des-wettbewerbs_a_4,1,326372959.html
+  name: '10. Filmklappe Oldenburg - Das sind die 1. Preisträger des Wettbewerbs'
+  anfang: 'Originelle Dialoge, spannende Kameraführung und passgenaue selbstgemachte Musik: Die besten Filmbeiträge überzeugten die Jury durch ganz unterschiedliche Qualitäten.'
+  datum: 2024-03-11
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/rastede-ist-bunt-600-teilnehmer-bei-demonstration-fuer-die-demokratie-in-rastede_a_4,1,311056269.html
+  name: >
+    Demonstration in Rastede „Wir müssen
+    unsere Demokratie stärken“ – 600
+    Teilnehmer dabei
+  anfang: >
+    Das Bündnis „Demokratie stärken“,
+    dass aus über 20 Organisationen und
+    Parteien besteht, hat am Wochenende zur
+    Demonstration für die Demokratie in
+    Rastede aufgerufen. So war die
+    Demonstration.
+  datum: 2024-03-10
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/03/09/starkes-zeichen-fuer-vielfalt-und-demokratie/
+  name: >
+    Starkes Zeichen für Vielfalt und
+    Demokratie
+  anfang: >
+    Unter dem Motto „Demokratie feiern“
+    nahmen heute Nachmittag mehrere hundert
+    Menschen an einer Kundgebung mit
+    anschließender Demonstration in Rastede
+    teil. Ein breites Bündnis zeigte Flagge
+    gegen Extremismus und für eine
+    solidarische Gesellschaft.
+  datum: 2024-03-09
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/demonstration-in-rastede-buendnis-demokratie-staerken-ruft-zur-kundgebung-am-9-maerz-auf_a_4,1,232563671.html
+  name: 'Neues Bündnis in Rastede - 23 Organisationen wollen Demokratie feiern und klares Zeichen gegen Rechtsextremismus setzen'
+  anfang: >
+    Nach den Demos in Westerstede, Edewecht
+    und Bad Zwischenahn findet nun auch in
+    Rastede eine Kundgebung für Demokratie
+    und gegen rechts statt. Einer der
+    Organisatoren schildert seine
+    persönlichen Beweggründe.
+  datum: 2024-03-04
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/03/04/erste-demo-gegen-rechts-in-rastede/
+  name: Erste Demo gegen rechts in Rastede
+  anfang: '9. März, 15 Uhr: Bündnis „Demokratie stärken“ ruft zur Teilnahme auf'
+  datum: 2024-03-04
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-breite-unterstuetzung-fuer-ex-klimaschutzmanagerin-evelyn-brudler_a_4,1,204038844.html
+  name: 'Fridays for Future in Rastede - Lauter Ruf nach Wiedereinstellung der Klimaschutzmanagerin'
+  anfang: >
+    Seit einem Monat hat Rastede keine
+    Klimaschutzmanagerin mehr. Bei der Demo
+    von Fridays for Future war dies das
+    beherrschende Thema. Es gab aber noch
+    weitere Punkte.
+  datum: 2024-03-01
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/fridays-for-future-in-rastede-demonstration-am-1-maerz-von-der-kgs-zum-rathaus_a_4,1,162564434.html
+  name: 'Fridays for Future - Rastede Kritik am Umgang mit Klimaschutzmanagerin und Aufruf zur Demo '
+  anfang: >
+    Fridays for Future Rastede kritisiert
+    den Umgang der Verwaltung mit
+    Klimaschutzmanagerin Evelyn Brudler.
+    Für Freitag wird zur Demonstration von
+    der KGS zum Rathaus aufgerufen.
+  datum: 2024-02-27
+  medium: nwz
+- 
+  link: 'https://www.youtube.com/watch?v=N1QVzLxLawg&t=5s'
+  name: 'Video: oldenburg eins - oeins aktuell 23.02.2023'
+  anfang: 'Thema u.a.: Palais Rastede – Schüler: innen illustrieren Buchklassiker '
+  datum: 2024-02-23
+  medium: sonstiges
+- 
+  link: >
+    https://www.rastede.de/2024/02/repaircafe-in-rastede-reparieren-statt-wegwerfen/
+  name: >
+    Rasteder Repair-Café startet im März
+    – Mitwirkende gesucht
+  anfang: >
+    Mit rund 50 Teilnehmenden fand Ende
+    Januar die Auftraktveranstaltung zur
+    Einrichtung eines Repair-Cafés in
+    Rastede statt. In Räumlichkeiten der
+    Kooperativen Gesamtschule (KGS) Rastede
+    an der Wilhelmstraße, wo das
+    Repair-Café auch künftig stattfinden
+    wird, konnten organisatorische Fragen
+    geklärt und erste Kontakte geknüpft
+    werden. Erstmals stattfinden soll das
+    Rasteder Repair-Café am Samstag, 16.
+    März, von 14 bis 17 Uhr.
+  datum: 2024-02-22
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/oldenburg-kreis/prozessauftakt-in-oldenburg-beispiellose-einbruchsserie-fuehrt-vier-taeter-vor-landgericht_a_4,1,24039342.html
+  name: 'Täter aus Hatten und Delmenhorst - Beispiellose Einbruchsserie endet für junge Männer vor Oldenburger Landgericht'
+  anfang: 'Eine beispiellose Einbruchsserie beschäftigt die Große Jugendkammer des Oldenburger Landgerichts: Vier Täter aus Hatten und Delmenhorst sind in Schulen und Geschäfte eingebrochen. Die Beute war immens.'
+  datum: 2024-02-15
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/altes-gymnasium-oldenburg-und-kgs-rastede-gemeinsame-schueler-ausstellung-im-palais-rastede_a_4,0,4291337440.html
+  name: 'Schüler-Ausstellung in Rastede - Goethe, Grimm und Moritz – Klassiker wie „Hänsel und Gretel“ neu illustriert '
+  anfang: >
+    Mit Klassikern wie „Hänsel und
+    Gretel“ oder dem „ABC-Buch“ haben
+    sich Schüler aus Oldenburg und Rastede
+    beschäftigt. Die Ergebnisse zu
+    „Buchillustrationen nach 1945“ sind
+    nun im Palais Rastede zu sehen.
+  datum: 2024-02-13
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2024/02/09/junge-talente-zeigen-kunst-im-palais/
+  name: Junge Talente zeigen Kunst im Palais
+  anfang: >
+    Ausstellungseröffnung am Sonntag. Werke
+    der Kunst-Leistungskurse von KGS Rastede
+    und Altem Gymnasium Oldenburg im Palais
+    Rastede. VR-Stiftung der Volksbanken und
+    Raiffeisenbanken unterstützt das
+    Projekt.
+  datum: 2024-02-09
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/holocaust-gedenken-in-apen-jung-und-alt-beteiligen-sich-an-wettbewerb_a_4,0,4089430705.html
+  name: 'Holocaust-Gedenken in Apen - „Alle wussten, was auch hier passierte“ '
+  anfang: >
+    Großes Interesse an der
+    Holocaust-Gedenkveranstaltung in der IGS
+    Augustfehn. Erstmals hat es in diesem
+    Jahr einen Wettbewerb gegeben – mit
+    ganz unterschiedlichen
+    Herangehensweisen.
+  datum: 2024-01-28
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-und-weitere-schulen-in-rastede-zusaetzlicher-it-systemadministrator-fuer-ipads-und-weitere-digitale-endgeraete-befuerwortet_a_4,0,4055908723.html
+  name: 'Digitalisierung in Rastede - Schulen erhalten personelle Verstärkung '
+  anfang: >
+    Digitale Tafeln, iPads und andere
+    Geräte müssen an den Rasteder Schulen
+    betreut werden. Deshalb soll nun ein
+    zweiter Systemadministrator eingestellt
+    werden. Er soll aber auch weitere
+    Aufgaben haben.
+  datum: 2024-01-25
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kgs-rastede-masterplan-fuer-bauliche-entwicklung-der-schule-gefordert_a_4,0,4014257860.html
+  name: 'Sanierungsstau im Altbestand - Masterplan für bauliche Entwicklung der KGS Rastede gefordert'
+  anfang: >
+    Als die Rasteder CDU vor zwei Monaten
+    Geld für einen Schulentwicklungsplan
+    forderte, lehnte die Mehrheitsgruppe
+    SPD/Grüne/UWG dies ab. Stattdessen
+    fordert die Gruppe jetzt einen
+    Masterplan. Was dahinter steckt.
+  datum: 2024-01-22
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2024/01/niedersaechsischer-praeventionspreis-geht-nach-rastede/
+  name: >
+    Niedersächsischer Präventionspreis
+    geht nach Rastede
+  anfang: >
+    Das PräventionsNetz Rastede ist mit dem
+    Niedersächsischen Preis für kommunale
+    Prävention ausgezeichnet worden.
+    Niedersachsens Justizministerin Dr.
+    Kathrin Wahlmann überreichte den Preis
+    am Dienstag in Hannover an eine
+    Delegation aus Rastede rund um die
+    Gleichstellungsbeauftragte der Gemeinde,
+    Anke Wilken, und Bürgermeister Lars
+    Krause.
+  datum: 2024-01-17
+  medium: gemeinde
+
+----
+
+Uuid: qbumocyut9vnahwu

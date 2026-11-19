@@ -1,0 +1,492 @@
+Title: 2020
+
+----
+
+Pressenachrichten:
+
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-mittagessen-in-rastede-akademiehotel-tischt-in-vier-schulen-auf_a_50,10,3493567282.html
+  name: Akademiehotel tischt in vier Schulen auf
+  anfang: >
+    Bis zu 250 Portionen werden zurzeit
+    täglich ausgeliefert. Damit kein
+    unnötiger Verpackungsmüll anfällt,
+    wird wiederverwertbares Geschirr
+    eingesetzt.
+  datum: 2020-11-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-mehr-als-100000-euro-fuer-mobile-geraete-tablets-und-laptops-fuer-rasteder-schueler_a_50,10,1490788104.html
+  name: >
+    Tablets und Laptops für Rasteder
+    Schüler
+  anfang: >
+    Rasteder Schüler sollen jetzt
+    verstärkt mit Laptops ausgestattet
+    werden. Das wurde in der jüngsten
+    Ratssitzung mitgeteilt.
+  datum: 2020-10-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-rasteder-projektgruppe-feiert-erfolg-laufend-frisches-trinkwasser-an-der-kgs_a_50,10,1492316253.html
+  name: Laufend frisches Trinkwasser an der KGS
+  anfang: >
+    Die Schüler der KGS Rastede haben jetzt
+    einen Trinkwasserspender. Die
+    Projektgruppe „Es geht um Meer“
+    setzte sich für den Aufbau vom OOWV ein
+  datum: 2020-10-12
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2020/09/25/fridays-for-future-ist-zurueck/
+  name: „Fridays for Future“ ist zurück
+  anfang: >
+    Corona hatte das Thema Klimarettung
+    weitgehend von der politischen Agenda
+    verdrängt. Doch an diesem Freitag
+    meldet sich die Bewegung lautstark
+    zurück. Auch in Rastede gehen wieder
+    zahlreiche – vor allem junge –
+    Menschen für den Klimaschutz auf die
+    Straße.
+  datum: 2020-09-25
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-kgs-rastede-neue-container-klassen-im-anflug_a_50,9,2954364482.html
+  name: Neue Container-Klassen „im Anflug“
+  anfang: >
+    Der KGS-Standort bekommt weitere
+    Klassenräume. Wegen der Raumnot wird
+    die Sporthalle gesperrt.
+  datum: 2020-08-27
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/rastede/rastede-schule-wieder-warme_a_50,9,2730738784.html
+  name: ' Wieder warme Mahlzeiten an KGS '
+  anfang: >
+    Pünktlich zum neuen Schuljahr haben der
+    Förderverein, die Schulleitung der KGS
+    Rastede und die Gemeinde einen neuen
+    Lieferanten für die Mittagsverpflegung
+    gefunden. Fortan wird das Akademiehotel
+    die Belieferung übernehmen.
+  datum: 2020-08-22
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-it-und-technik-an-der-kgs-sitzt-ein-neuer-fachmann_a_50,9,2568179005.html
+  name: >
+    Seit Monatsbeginn ist der 32-Jährige
+    nun Administrator für die acht Schulen
+    im Gemeindegebiet. Was verschlägt den
+    Cloppenburger ins Ammerland?
+  anfang: >
+    Sowohl Schüler als auch Lehrer an der
+    Kooperative Gesamtschule (KGS) Rastede
+    werden sich spätestens nach den
+    Sommerferien an ein neues Gesicht
+    gewöhnen. Denn dort ist
+    Fachinformatiker Mike von Dreele der
+    neue IT-Administrator. Seit Anfang des
+    Monats ist der 32-Jährige nun
+    Ansprechpartner und Spezialist für alle
+    Fragen zu Technik und elektronischer
+    Datenverarbeitung.
+  datum: 2020-08-19
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2020/08/sporthalle-wilhelmstrasse-wird-fuer-unterrichtszwecke-benoetigt/
+  name: >
+    Sporthalle Wilhelmstraße wird für
+    Unterrichtszwecke benötigt
+  anfang: >
+    Bei der Umsetzung der Mobilbauklassen
+    vom Schulstandort Feldbreite zur KGS
+    Wilhelmstraße kommt es
+    bedauerlicherweise zu Verzögerungen.
+  datum: 2020-08-01
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/delfshausen-naturschutz-rasteder-schueler-pflanzen-50-laubbaeume_a_50,9,874344877.html
+  name: Rasteder Schüler pflanzen 50 Laubbäume
+  anfang: >
+    Die Corona-Krise war gefühlt noch weit
+    weg, als einige Schüler der
+    Kooperativen Gesamtschule Rastede Anfang
+    März zu einer Baumpflanzaktion nach
+    Delfshausen aufbrachen. Die Mitglieder
+    der Projektgruppe „Es geht um Meer“
+    pflanzten seinerzeit 50 Laubbäume auf
+    einer Fläche am Lammers Damm.
+  datum: 2020-07-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-the-big-challenge-rasteder-schuelerin-bei-englisch-wettbewerb-erfolgreich_a_50,9,521942180.html
+  name: >
+    Rasteder Schülerin bei
+    Englisch-Wettbewerb erfolgreich
+  anfang: >
+    Über einen Pokal und eine Urkunde freut
+    sich die Sechstklässlerin Hala Kaadan
+    Al-Shalati aus Rastede. Sie war beim
+    Englisch-Wettbewerb „Big Challenge“
+    besonders erfolgreich.
+  datum: 2020-07-16
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/bildung/rastede-fundamente_a_50,9,31849145.html
+  name: ' Fundamente bereits eingebaut '
+  anfang: >
+    Die beiden auf dem Grundstück der
+    Kooperativen Gesamtschule Feldbreite
+    vorhandenen Klassencontainer sollen in
+    den Sommerferien demontiert und auf dem
+    Grundstück der KGS Wilhelmstraße
+    wieder aufgebaut werden.
+  datum: 2020-07-10
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-alle-absolventen-auf-einen-blick-entlassfeier-in-rastede-auf-den-schulhof-verlegt_a_50,8,4028198441.html
+  name: >
+    Entlassfeier in Rastede auf den Schulhof
+    verlegt
+  anfang: 'Mehr als 160 Absolventen des Haupt- und Realschulzweigs der Kooperativen Gesamtschule Rastede wurden jetzt verabschiedet. Wegen der Corona-Pandemie war dieses Mal alles anders.'
+  datum: 2020-07-07
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/ammerland-schulabschluss-im-ammerland-kleine-feiern-zum-abschluss-geplant_a_50,8,3416334447.html
+  name: Kleine Feiern zum Abschluss geplant
+  anfang: >
+    Niedersachsen erlaubt unter gewissen
+    Voraussetzungen Zeugnisübergaben. Diese
+    fallen jedoch anders aus, als in den
+    vergangenen Jahren.
+  datum: 2020-06-27
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-gedenkaktion-in-rastede-zeichen-gegen-rassismus-setzen_a_50,8,2973839899.html
+  name: Zeichen gegen Rassismus setzen
+  anfang: >
+    Für acht Minuten und 46 Sekunden
+    knieten sich Lehrer und Schüler der KGS
+    Rastede am Freitag nieder, um an George
+    Floyd zu erinnern. Darüber hinaus gibt
+    es weitere Aktionen gegen Rassismus an
+    der Schule.
+  datum: 2020-06-20
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2020/05/corona-pandemie-infektionsschutz-fordert-zusaetzliche-raumkapazitaeten-an-den-schulen/
+  name: 'Corona-Pandemie: Infektionsschutz fordert zusätzliche Raumkapazitäten an den Schulen'
+  anfang: >
+    So langsam kehren bis zum 15. Juni auch
+    in der Gemeinde Rastede die letzten
+    Klassen nach der langen Corona-Pause
+    wieder in den Schulalltag zurück.
+    Gleichwohl sind noch eine Vielzahl an
+    Auflagen in Zusammenhang mit dem
+    Infektionsschutz einzuhalten, die nicht
+    nur die Lehrer, sondern auch den
+    Schulträger vor stets neue
+    Herausforderungen stellen.
+  datum: 2020-05-01
+  medium: gemeinde
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2020/04/27/wieder-leben-in-der-schule/
+  name: ' Wieder Leben in der Schule '
+  anfang: >
+    Neunte und zehnte Klassen bereiten sich
+    auf die Abschlussprüfungen vor
+  datum: 2020-04-27
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.youtube.com/watch?v=TL2Xm5Tgd78
+  name: OLFKl Sicherheitsbelehrung KGS Rastede
+  anfang: OLFKl Sicherheitsbelehrung KGS Rastede
+  datum: 2020-04-12
+  medium: youtube
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2020/03/12/von-laser-show-bis-lesestunden/
+  name: ' Von Laser-Show bis Lesestunden '
+  anfang: 'Der Herbstmarkt soll aufgewertet werden, neue Formate wie das Rudelsingen kommen hinzu: Die Residenzort Rastede (RR) GmbH stellt ihr aktuelles Programm vor.'
+  datum: 2020-03-12
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2020/03/10/tipps-fuer-die-berufswahl-nach-dem-abitur/
+  name: >
+    Tipps für die Berufswahl nach dem
+    Abitur
+  anfang: >
+    Die KGS-Oberstufenkoordination hatte
+    gestern Prof. Dr. Lutz Stührenberg von
+    der IT und Business School (IBS)
+    Oldenburg zur Info-Veranstaltung
+    eingeladen. Zudem präsentierten sich
+    Unternehmen der Region, die ein duales
+    Studium anbieten.
+  datum: 2020-03-10
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2020/03/09/wie-geht-es-weiter-nach-dem-abitur/
+  name: Wie geht es weiter nach dem Abitur?
+  anfang: >
+    Was mache ich nach dem Abitur? Studieren
+    oder doch eine Ausbildung beginnen?
+    Diese Fragen stellen sich zurzeit wieder
+    viele Schülerinnen und Schüler der 12.
+    Jahrgänge. Eine Kombination aus beidem
+    ist das duale Studium.
+  datum: 2020-03-09
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2020/03/09/wie-geht-es-weiter-nach-dem-abitur/
+  name: ' Wie geht es weiter nach dem Abitur? '
+  anfang: >
+    Die KGS bietet heute, 9. März, einen
+    Informationsnachmittag rund um das duale
+    Studium an
+  datum: 2020-03-09
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2020/03/06/auftakt-zum-buergerdialog/
+  name: ' Auftakt zum Bürgerdialog '
+  anfang: >
+    Gestern Abend eröffnete Bürgermeister
+    Lars Krause in Hahn-Lehmden die neue
+    Diskussionsreihe, die die
+    Bürgerversammlungen ablöst. Die Gäste
+    beteiligten sich rege.
+  datum: 2020-03-06
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2020/03/05/hoechste-spielkunst-und-klang-raffinesse/
+  name: Höchste Spielkunst und Klang-Raffinesse
+  anfang: >
+    Die Pianisten Rolf Plagge und Wolfgang
+    Manz bilden das Klavierduo „Königin
+    Elisabeth“. Zum 25. Rasteder
+    Frühlingskonzert am 24. April, 20 Uhr,
+    treten sie in der Neuen Aula der KGS
+    auf.
+  datum: 2020-03-05
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-schulsportassistenten-in-rastede-schueler-sorgen-fuer-mehr-bewegung-in-der-pause_a_50,7,2042445073.html
+  name: >
+    Schüler sorgen für mehr Bewegung in
+    der Pause
+  anfang: >
+    Die Wischbewegung auf dem Handy ist die
+    einzige Bewegung, die Schüler
+    regelmäßig ausführen. Damit sich das
+    ändert, sollen an der KGS Rastede jetzt
+    erstmals Schulsportassistenten neue
+    Impulse geben.
+  datum: 2020-03-02
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/bildung-beruf/oldenburg-im-nordwesten-technik-in-acht-minuten-in-die-sichere-zone_a_50,7,1903410453.html
+  name: In acht Minuten in die sichere Zone
+  anfang: >
+    Die Aula des Herbartgymnasiums ist voll.
+    Schüler sitzen an ihren Laptops,
+    zwischen ihnen Setzkästen gefüllt mit
+    Rädern und Bausteinen. Es wird
+    justiert, gebaut, neu programmiert.
+    Alles, damit die Roboter ihren Weg durch
+    das Labyrinth erfolgreich bewältigen.
+  datum: 2020-02-28
+  medium: nwz
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/28/ein-hauch-von-silicon-valley/
+  name: ' Ein Hauch von Silicon Valley '
+  anfang: >
+    Beim RoboCup Nordwest präsentieren
+    Schülerinnen und Schüler ihre
+    selbstgebauten intelligenten Roboter.
+    Auch die KGS Rastede macht wieder mit.
+    Heute entscheidet sich, wer im April zum
+    Bundeswettbewerb nach Magdeburg fährt.
+  datum: 2020-02-28
+  medium: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/24/karneval-in-rastede/
+  name: ' Karneval in Rastede '
+  anfang: >
+    Die 5. und 6. Jahrgänge der KGS Rastede
+    feierten ein buntes Faschingsfest in der
+    Mehrzweckhalle an der Feldbreite
+  datum: 2020-02-24
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/rote-haende-erinnern-an-schicksal-von-kindersoldaten_a_50,7,1598435470.html
+  name: >
+    Rote Hände erinnern an Schicksal von
+    Kindersoldaten
+  anfang: >
+    Das Schicksal von Kindersoldaten
+    überall auf der Welt hat die
+    Schülerinnen und Schüler der
+    Unesco-Schule Gymnasium Bad
+    Zwischenahn-Edewecht an zwei
+    Projekttagen beschäftigt. Die
+    Schülerinnen der
+    Unesco-Arbeitsgemeinschaft hatten die
+    Tage rund um den „Red Hand Day“ am
+    12. Februar vorbereitet.
+  datum: 2020-02-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/gegen-rassismus_a_50,7,1513482766.html
+  name: Gegen Rassismus
+  anfang: '„Wie die Schule den Rassismus zum Stolpern bringen kann“: Unter dieser Überschrift stand ein Vortrag, den Hanna Wachholz (links) und Veronika Dinter von der AG „Für den Frieden“ der Kooperativen Gesamtschule Rastede jetzt an der IGS Flötenteich in Oldenburg hielten. Die IGS möchte so wie die KGS Rastede den Titel einer „Schule ohne Rassismus – Schule mit Courage“ tragen.'
+  datum: 2020-02-19
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-pro-und-contra-zu-wasserspendern-notwendigkeit-oder-luxusproblem_a_50,7,1478863499.html
+  name: >
+    Pro Und Contra Zu Wasserspendern
+    Notwendigkeit oder Luxusproblem?
+  anfang: >
+    CDU und Grüne in der Gemeinde Rastede
+    wollten alle Schulen mit
+    Trinkwasserspendern versorgen – was
+    bis zu 50.000 Euro in fünf Jahren
+    kosten könnte. Ein sinnvoller
+    Vorschlag?
+  datum: 2020-02-19
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus/rastede-kgs-rastede-sanierungsstau-macht-schule_a_50,7,1358531991.html
+  name: Sanierungsstau macht Schule
+  anfang: >
+    Ein Neubau, der alle Bedürfnisse der
+    Kooperativen Gesamtschule
+    berücksichtigt, ist teuer. Im
+    Schulausschuss wird deshalb an diesem
+    Montag eine kleine Lösung vorgestellt.
+    Reicht diese aus?
+  datum: 2020-02-17
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/kultur/rastede-medienpaedagoge-an-kgs-rastede-gehirnwaesche-mit-den-mitteln-des-films_a_50,7,934886379.html
+  name: ' Gehirnwäsche mit den Mitteln des Films'
+  anfang: >
+    Wie werden Ideologien in Spielfilmen
+    transportiert? Und wie werden die
+    Zuschauer dadurch manipuliert? Darüber
+    diskutierte ein Medienpädagoge mit
+    Schülern der Rasteder KGS.
+  datum: 2020-02-17
+  medium: nwz
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/17/neubau-zunaechst-nicht-geplant/
+  name: ' Neubau zunächst nicht geplant '
+  anfang: >
+    Anders als ursprünglich vorgesehen,
+    soll der Mu-Ku-Bi-Trakt
+    (musisch-kulturelle Bildung) der KGS
+    Wilhelmstraße nicht neu gebaut werden.
+    Grund sind die hohen Investitionskosten
+    von mehr als 15 Millionen Euro.
+  datum: 2020-02-17
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/lokalsport/rastede-basketball-unterm-korb-mit-den-dribbel-profis_a_50,6,2217642935.html
+  name: Unterm Korb mit den Dribbel-Profis
+  anfang: >
+    Zwei Profispieler des
+    Basketballbundesligisten EWE Baskets
+    Oldenburg waren am Mittwoch zu Gast in
+    Rastede. Für die Schüler hatten sie
+    sogar mehr im Gepäck als nur ein paar
+    neue Tricks.
+  datum: 2020-02-15
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/rastede/rastede-valentinstag-schueler-senden-herzliche-gruesse_a_50,7,1301506116.html
+  name: ' Schüler senden herzliche Grüße'
+  anfang: 'Bunt bemalt, mit Glitzer beklebt oder anderweitig originell gestaltet: Zum Valentinstag wurden an der KGS Rastede Grüße in Herzform überbracht. Das kam auch bei den Lehrern gut an.'
+  datum: 2020-02-15
+  medium: nwz
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/13/welche-investitionen-sind-unverzichtbar/
+  name: Welche Investitionen sind unverzichtbar?
+  anfang: 'Nach dem Weckruf der Verwaltung ist klar: Die Gemeinde muss sich einschränken beim Geldausgeben. Erster Gemeinderat Günter Henkel stellte dem Bauausschuss Maßnahmen vor, die aus Verwaltungssicht Vorrang haben sollten.'
+  datum: 2020-02-13
+  medium: rastederrundschau
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/02/11/die-schoenen-zeiten-sind-vorbei/
+  name: ' „Die schönen Zeiten sind vorbei!“ '
+  anfang: >
+    Voraussichtlich ab 2021 wird der
+    Kreditbedarf der Gemeinde Rastede massiv
+    ansteigen. Die Verwaltung habe schon
+    Schweiß auf der Stirn, sagte Erster
+    Gemeinderat Günter Henkel im
+    Finanzausschuss, und fordert die Politik
+    zum Umdenken auf.
+  datum: 2020-02-13
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus/rastede-claudia-berger-im-portraet-sie-leitet-jetzt-rastedes-groesste-schule_a_50,7,888682090.html
+  name: >
+    Claudia Berger im Porträt / Sie leitet
+    jetzt Rastedes größte Schule
+  anfang: >
+    1868 Schüler, 180 Lehrer – die
+    Kooperative Gesamtschule ist Rastedes
+    größte Schule. Und deshalb muss
+    Claudia Berger als neue Leiterin auch
+    auf etwas verzichten, was ihr eigentlich
+    liebgeworden ist.
+  datum: 2020-02-06
+  medium: nwz
+- 
+  link: >
+    https://rasteder-rundschau.de/2020/01/07/moebel-kunst-und-kammerkonzert-pop/
+  name: ' Möbel-Kunst und Kammerkonzert-Pop '
+  anfang: 'Von Michael Jackson bis Wohndesign: Der Kunst- und Kulturkreis Rastede (KKR) stellt sein aktuelles Halbjahresprogramm vor. Der Vorverkauf hat bereits begonnen.'
+  datum: 2020-01-07
+  medium: rastederrundschau
+
+----
+
+Uuid: xnjp4fctgr7h7qx9

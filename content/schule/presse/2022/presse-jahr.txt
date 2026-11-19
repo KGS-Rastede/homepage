@@ -1,0 +1,556 @@
+Title: 2022
+
+----
+
+Pressenachrichten:
+
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/12/08/rastede-soll-der-initiative-schafft-sichere-haefen-beitreten/
+  name: >
+    Rastede soll der Initiative „Schafft
+    sichere Häfen“ beitreten
+  anfang: >
+    Timo Merten (parteilos) unterstützt die
+    KGS-AG Für den Frieden, die sich dafür
+    einsetzt, dass die Gemeinde Rastede der
+    Initiative „Schafft sichere Häfen!“
+    für die zivile Seenotrettung von
+    Flüchtlingen beitritt. Über seinen
+    Änderungsantrag wird auf der
+    Ratssitzung am kommenden Dienstag
+    abgestimmt.
+  datum: 2022-12-08
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/klimaschutz-in-rastede-workshop-fuer-jugendliche-und-online-ideenkarte_a_51,11,760777953.html
+  name: >
+    Jetzt sind Ideen der Jugendlichen
+    gefragt
+  anfang: >
+    Welche Ideen haben Jugendliche für den
+    Klimaschutz in Rastede? Das soll bei
+    einem Workshop erarbeitet werden.
+    Außerdem können alle Bürger jetzt
+    Ideen in eine Online-Karte eintragen.
+  datum: 2022-11-28
+  medium: nwz
+- 
+  link: >
+    https://mobil.nwzonline.de/plus-ammerland/rastede-virtueller-rundgang-das-palais-ueber-das-internet-erkunden_a_51,10,3675971124.html
+  name: >
+    Das Rasteder Palais über das Internet
+    erkunden
+  anfang: >
+    Über das Internet kann man nun einen
+    Rundgang durchs Palais in Rastede
+    unternehmen. Wer kommt mit?
+  datum: 2022-11-14
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/11/13/virtuell-eine-koenigin-einkleiden/
+  name: ' Virtuell eine Königin einkleiden'
+  anfang: >
+    Seit heute ist das Palais Rastede online
+    begehbar. Zur Eröffnung des
+    vielseitigen Formats wurden auch die
+    Arbeiten von KGS-Schülern gezeigt. Ihre
+    Ideen sind Teil des Projekts.
+  datum: 2022-11-13
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/ammerland-rastede-bildung_a_51,10,1437025771.html
+  name: >
+    Was Eltern aus Rastede zur
+    Förderschul-Diskussion sagen
+  anfang: >
+    Ohne neuen Schulzweig läuft die
+    Förderschule am Voßbarg in Rastede
+    2028 aus. Eltern von aktuellen Schülern
+    fürchten um die Betreuung künftiger
+    Schülerinnen und Schüler.
+  datum: 2022-10-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/ammerland-bildung-wie-geht-es-mit-den-foerderschulen-weiter_a_51,10,1437012316.html
+  name: >
+    Wie geht es mit den Förderschulen
+    weiter?
+  anfang: >
+    Ein neuer Schulzweig soll die Schule am
+    Voßbarg in Rastede retten. Doch der
+    Landkreis sieht keinen Bedarf für
+    weitere Plätze im Förderzweig
+    emotionale und soziale Entwicklung.
+  datum: 2022-10-21
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-sportstaetten-platz-in-der-mehrzweckhalle-reicht-nicht-aus_a_51,10,1095019760.html
+  name: >
+    Platz in der Mehrzweckhalle reicht nicht
+    aus
+  anfang: >
+    An der KGS Rastede kann der
+    Sportunterricht nicht in der
+    vorgeschriebenen Form stattfinden. Trotz
+    angespannter Finanzlage soll die
+    Gemeindeverwaltung jetzt die Grundlagen
+    für einen Hallen-Neubau vorbereiten.
+  datum: 2022-10-12
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-ammerland-bildung-zukunft-der-foerderschule-bleibt-streitfall_a_51,10,151531728.html
+  name: >
+    Zukunft der Förderschule – Konflikt
+    mit Landkreis zeichnet sich ab
+  anfang: >
+    In der Diskussion um die Zukunft der
+    Förderschule am Voßbarg in Rastede
+    zeichnet sich ein Streit mit dem
+    Landkreis um die Trägerschaft ab. Die
+    Schule soll einen neuen Förderzweig
+    erhalten.
+  datum: 2022-10-06
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2022/09/schokofahrt-macht-rast-in-rastede-kgs-und-schule-am-vossbarg-unterstuetzen-gruppe-aus-winsen/
+  name: '„Schokofahrt“ macht Rast in Rastede: KGS und Schule am Voßbarg unterstützen Gruppe aus Winsen'
+  anfang: >
+    Ausgeruht und gestärkt hat sich eine
+    Delegation von der Integrierten
+    Gesamtschule (IGS) Winsen-Roydorf am
+    Mittwoch von Rastede aus auf den Weg
+    gemacht, um die letzten Etappen ihrer
+    außergewöhnlichen Reise zu
+    absolvieren.
+  datum: 2022-09-30
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-fridays-for-future-200-teilnehmer-bei-demo-dabei_a_51,9,3486837453.html
+  name: Rund 200 Teilnehmer bei Demo zum Rathaus
+  anfang: >
+    Für den Klimaschutz sind am Freitag in
+    Rastede rund 200 Schüler und Erwachsene
+    auf die Straße gegangen. Bei der
+    Kundgebung vor dem Rathaus erneuerten
+    sie eine konkrete Forderung für den
+    Residenzort.
+  datum: 2022-09-24
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-finanzen-das-sind-die-groessten-baustellen-im-etat_a_51,9,3261666478.html
+  name: >
+    Das sind die größten Baustellen im
+    Etat
+  anfang: >
+    Warnungen aussprechen, das gehört zum
+    obersten Gebot eines Kämmerers. In
+    Rastede gibt es nun aber tatsächlich
+    Grund zur Sorge, auch weil die Gemeinde
+    in den letzten Jahren meist ziemlich gut
+    dastand.
+  datum: 2022-09-21
+  medium: nwz
+- 
+  link: >
+    https://www.rastede.de/2022/09/pimp-your-town-rasteder-jugendliche-erleben-hautnah-wie-demokratie-funktioniert/
+  name: '„Pimp Your Town“: Rasteder Jugendliche erleben hautnah, wie Demokratie funktioniert'
+  anfang: >
+    Anfang September fanden die ersten
+    beiden von insgesamt drei Durchläufen
+    des Planspiels „Pimp Your Town!“
+  datum: 2022-09-13
+  medium: gemeinde
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-schulleben-auf-dem-weg-zu-mehr-selbststaendigkeit_a_51,9,2100034744.html
+  name: >
+    Rasteder Schüler auf dem Weg zu mehr
+    Selbstständigkeit
+  anfang: >
+    Über 50 Neuntklässler aus Rastede
+    stellen sich gerade verschiedenen
+    Herausforderungen, um selbstständiger
+    zu werden. Fast zwei Wochen sind sie
+    schon unterwegs – ohne Handy, aber
+    hochmotiviert.
+  datum: 2022-09-07
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-jugend-junge-leute-finden-spass-an-der-politik_a_51,9,1935468537.html
+  name: >
+    Demokratie-Planspiel „Pimp Your
+    Town!“ an der KGS Rastede
+  anfang: >
+    Dass Politik Spaß machen kann und die
+    Stimmen junger Menschen wichtig sind,
+    lernten 120 Schülerinnen und Schüler
+    der KGS Rastede in einem
+    Demokratie-Planspiel vergangene Woche.
+  datum: 2022-09-03
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-sanierung-gemeinde-huebscht-schulen-und-kindergaerten-auf_a_51,9,1634837556.html
+  name: >
+    Sanierungen für 100.000 Euro
+    abgeschlossen
+  anfang: >
+    Elf Projekte in Rasteder Schulen und
+    Kitas wurden in den Sommerferien für
+    100.000 Euro angefasst. Bis auf den
+    Behindertenparkplatz neben der neuen
+    Aula der KGS sind alle fertig.
+  datum: 2022-09-01
+  medium: nwz
+- 
+  link: >
+    https://gruppeomp.de/journal/richtfestkgsrastede
+  name: Richtfest KGS Rastede
+  anfang: >
+    Wir freuen uns, dass das Richtfest für
+    den Neubau der Kooperativen Gesamtschule
+    in Rastede am Mittwoch, den 17.08.2022,
+    stattgefunden hat.
+  datum: 2022-08-30
+  medium: sonstiges
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-augustfehn-bildung-land-finanziert-technik-fuer-kgs-rastede_a_51,9,1266587979.html
+  name: >
+    Landesmittel für Digitalisierung in
+    Rastede und Apen
+  anfang: >
+    Die Gemeinde Rastede erhält wieder
+    einmal Geld aus dem Digitalpakt Schule.
+    Neben der KGS Rastede profitiert auch
+    die Janosch-Grundschule in Augustfehn.
+  datum: 2022-08-27
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/08/26/jugendliche-14-tage-auf-sich-gestellt/
+  name: ' Jugendliche 14 Tage auf sich gestellt'
+  anfang: 'Los geht die Reise: Mehr als 50 Schülerinnen und Schüler des neunten Jahrgangs an der KGS Rastede stellen sich ihrer persönlichen Herausforderung fernab von Schule und Elternhaus'
+  datum: 2022-08-26
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/08/19/pimp-your-town-startet-im-september/
+  name: >
+    „Pimp your town!“ startet im
+    September
+  anfang: >
+    Drei Durchläufe des Politik-Planspiels
+    sind vorgesehen. Rund 300 Schülerinnen
+    und Schüler von KGS Rastede und Schule
+    am Voßbarg nehmen teil.
+  datum: 2022-08-19
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-schule-richtfest-fuer-den-anbau-der-kgs-in-rastede_a_51,9,650870412.html
+  name: >
+    Richtfest für den Anbau der KGS in
+    Rastede
+  anfang: 'Richtfest für den Anbau der KGS in Rastede: Beim Bau liegt man in der Gemeinde vor dem Zeitplan.'
+  datum: 2022-08-18
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/08/16/wieder-einbrueche-in-rastede/
+  name: ' Wieder Einbrüche in Rastede'
+  anfang: >
+    Unbekannte steigen in die Kooperative
+    Gesamtschule ein
+  datum: 2022-08-16
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/07/15/ein-schultag-im-wald/
+  name: ' Ein Schultag im Wald'
+  anfang: >
+    Die Waldjugendspiele der KGS sollen den
+    Sechstklässlern die heimische Flora und
+    Fauna nahebringen
+  datum: 2022-07-15
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rastede.de/2022/07/praeventionsprojekt-balu-und-du-erster-durchgang-mit-24-schuelerinnen-und-schuelern-erfolgreich-abgeschlossen/
+  name: 'Präventionsprojekt „Balu und Du“: Erster Durchgang erfolgreich abgeschlossen'
+  anfang: >
+    Der erste Durchgang des
+    Präventionsprojekts „Balu und Du“
+    ist nach einem Jahr erfolgreich zu Ende
+    gegangen
+  datum: 2022-07-14
+  medium: gemeinde
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/07/13/topwerte-beim-stadtradeln/
+  name: Topwerte beim Stadtradeln
+  anfang: >
+    Gemeinde Rastede zieht äußerst
+    positive Bilanz und drückt der KGS die
+    Daumen
+  datum: 2022-07-13
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/07/12/balu-und-du-auf-erfolgskurs-in-rastede/
+  name: >
+    „Balu und Du“ auf Erfolgskurs in
+    astede
+  anfang: >
+    Erster Durchgang des
+    Präventionsprojekts mit 24
+    Schülerinnen und Schülern erfolgreich
+    abgeschlossen
+  datum: 2022-07-12
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/06/17/leere-stuehle-stehen-fuer-kinder-im-krieg/
+  name: Leere Stühle stehen für Kinder im rieg
+  anfang: >
+    Aktion an der KGS Rastede macht auf das
+    Leid von Kindern im Ukrainekrieg
+    aufmerksam. AG „Für den Frieden“
+    fordert Schutz vor militärischer
+    Gewalt.
+  datum: 2022-06-17
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/06/17/rassismus-eine-absage-erteilen/
+  name: ' Rassismus eine Absage erteilen'
+  anfang: >
+    Die KGS Rastede gehört seit 20 Jahren
+    zum Netzwerk „Schule ohne Rassismus
+    – Schule mit Courage“. Anlässlich
+    dieses Jubiläums fand kürzlich ein
+    Festakt in der Mehrzweckhalle Feldbreite
+    statt. Am Montag startet außerdem eine
+    Projektwoche zum Thema Rassismus.
+  datum: 2022-06-17
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/06/16/eine-investition-in-die-zukunft/
+  name: ' Eine Investition in die Zukunft'
+  anfang: >
+    Gestern wurde der Grundstein für den
+    zusätzlichen Erweiterungsbau der KGS
+    Rastede gelegt
+  datum: 2022-06-16
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/06/14/mit-einsatz-und-ausdauer-25000-euro-erlaufen/
+  name: >
+    Mit Einsatz und Ausdauer 25000 Euro
+    rlaufen
+  anfang: >
+    KGS Rastede veranstaltet Sponsorenlauf
+    und spendet Geld an Hilfsorganisationen
+    und Initiativen aus der Region
+  datum: 2022-06-14
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/05/06/erstes-kulturcamp-ein-voller-erfolg/
+  name: Erstes Kulturcamp ein voller Erfolg
+  anfang: >
+    Die KGS hat zusammen mit den Youngstars
+    der Showband Rastede ein Kulturcamp für
+    Kinder und Jugendliche ab zehn Jahren
+    veranstaltet. Mit dem Ergebnis waren
+    alle hochzufrieden.
+  datum: 2022-05-06
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-aktion-schueler-protestieren-gegen-ukraine-krieg_a_51,6,3383290050.html
+  name: >
+    Schüler demonstrieren gegen Krieg in
+    der Ukraine
+  anfang: 'Rund 1500 Schüler haben in Rastede ein Zeichen gegen den Krieg in der Ukraine gesetzt: Mit Transparenten und Plakaten marschierten sie von ihren Schulen bis zu einer Kundgebung auf dem Rennplatz.'
+  datum: 2022-04-01
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/03/31/kinder-koennen-nichts-fuer-kriege/
+  name: „Kinder können nichts für riege!“
+  anfang: >
+    Friedensdemo zieht am
+    Donnerstagvormittag durch den Ort. KGS
+    Rastede und Grundschule Feldbreite
+    demonstrieren gemeinsam mit Bürgerinnen
+    und Bürgern gegen Krieg.
+  datum: 2022-03-31
+  medium: rastederrundschau
+- 
+  link: 'https://www.nwzonline.de/plus-ammerland/rastede-engagement-schulen-starten-aktionen-gegen-krieg_a_51,6,3163180109.html#'
+  name: >
+    Rasteder Schulen starten Aktionen gegen
+    Ukraine-Krieg
+  anfang: >
+    Der Ukraine-Krieg beschäftigt auch die
+    Schülerinnen und Schüler in der
+    Gemeinde Rastede. Jetzt gibt es
+    verschieden Aktionen an den Schulen, die
+    ein klares Zeichen gegen den Krieg
+    setzen sollen.
+  datum: 2022-03-29
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/03/28/gemeinsam-fuer-frieden-demonstrieren/
+  name: ' Gemeinsam für Frieden demonstrieren'
+  anfang: >
+    KGS Rastede und Grundschule Feldbreite
+    fordern alle Interessierten auf, sich am
+    31. März dem Demonstrationszug durch
+    den Ort anzuschließen
+  datum: 2022-03-28
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/03/17/kerzen-fuer-frieden-und-freiheit/
+  name: ' Kerzen für Frieden und Freiheit'
+  anfang: >
+    Die Arbeitsgemeinschaft „Für den
+    Frieden“ von der KGS Rastede hielt
+    gemeinsam mit Bürgerinnen und Bürgern
+    eine Mahnwache vor dem Rasteder Rathaus
+  datum: 2022-03-17
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/03/11/mahnwache-fuer-die-ukraine/
+  name: ' Mahnwache für die Ukraine'
+  anfang: >
+    Die AG „Für den Frieden“ der KGS
+    Rastede lädt am Montagabend, 14. März,
+    zu einer Mahnwache vor dem Rathaus ein
+  datum: 2022-03-11
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-bildung-schulbuecherei-bekommt-sechs-neue-ipads_a_51,6,377501108.html
+  name: Schulbücherei bekommt sechs neue iPads
+  anfang: >
+    Die kleine Bücherei der KGS Rastede
+    bekommt sechs neue iPads. Damit sollen
+    die Schülerinnen und Schüler auch
+    eigene Videos produzieren.
+  datum: 2022-02-15
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-freizeit-jugendcamp-von-youngstars-und-kgs_a_51,6,297759356.html
+  name: >
+    Erstes musikalisches Jugendcamp in
+    Rastede startet
+  anfang: >
+    Die Youngstars der Showband Rastede
+    veranstalten gemeinsam mit der KGS im
+    April ein musikalisches Jugendcamp. An
+    zwei Tagen kann in verschiedene
+    Instrumentengruppen reingeschnuppert
+    werden.
+  datum: 2022-02-14
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-finanzen-gruenes-licht-fuer-investitionen-an-schulen_a_51,6,113973515.html
+  name: >
+    Schulausschuss gibt grünes Licht für
+    Investitionen
+  anfang: >
+    Die Gemeinde Rastede will viel Geld in
+    ihre Schulen stecken. Der Schulausschuss
+    hat den Haushaltsentwurf jetzt
+    gebilligt.
+  datum: 2022-02-10
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-haushalt-2022-hohe-investitionen-fuer-schulen-geplant_a_51,5,3897203326.html
+  name: >
+    Diese Investitionen sind im Jahr 2022
+    für die Schulen in Rastede geplant
+  anfang: >
+    Im Haushaltsjahr 2022 plant die Gemeinde
+    Rastede, 1,7 Millionen Euro in die
+    Erweiterung der KGS zu investieren. Am
+    kommenden Montag ist dieses Projekt auch
+    Thema im Schulausschuss.
+  datum: 2022-02-03
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/rastede-wettbewerb-mit-redegewandtheit-und-argumenten-geglaenzt_a_51,5,3692247532.html
+  name: >
+    Mit Redegewandtheit und starken
+    Argumenten geglänzt
+  anfang: >
+    Die Schüler Paula Veltrup und Chris
+    Stelljes von der KGS Rastede haben in
+    ihren Altersklassen den
+    Regionalentscheid von „Jugend
+    debattiert“ 2022 gewonnen. Nun treten
+    sie im März beim Landesfinale an.
+  datum: 2022-01-31
+  medium: nwz
+- 
+  link: >
+    https://mobil.nwzonline.de/plus-ammerland/rastede-projekt-mut-zu-einer-besonderen-herausforderung_a_51,5,3423293348.html
+  name: Mut zu einer besonderen Herausforderung
+  anfang: >
+    Nach den Sommerferien wollen sich die
+    Achtklässler der KGS Rastede besonderen
+    Herausforderungen stellen. In kleinen
+    Gruppen werden sie zwei Wochen lang ohne
+    Eltern unterwegs sein.
+  datum: 2022-01-27
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2022/01/24/raus-aus-der-schule-rein-ins-leben/
+  name: ' Raus aus der Schule, rein ins Leben'
+  anfang: >
+    KGS Rastede startet
+    „Herausforderungsprojekt“.
+    Schülerinnen und Schüler des achten
+    Jahrgangs stellen sich ihrer
+    persönlichen Herausforderung fernab von
+    Schule und Elternhaus.
+  datum: 2022-01-22
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/plus-ammerland/westerstede-ausstellung-plastikmuell-wird-zur-kunst_a_51,5,2789541984.html
+  name: Plastikmüll wird zum Kunstobjekt
+  anfang: >
+    Die Schüler befassten sich mit dem
+    Thema „Plastikmüll in unserem
+    Alltag“. Die Ergebnisse sind jetzt im
+    Güterschuppen zu sehen.
+  datum: 2022-01-18
+  medium: nwz
+
+----
+
+Uuid: caontisprrpss1kb
