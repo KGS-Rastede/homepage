@@ -3,7 +3,31 @@
 User-agent: *
 Disallow: /site/
 Disallow: /kirby/
+Disallow: /content/
 Disallow: /media/
 Disallow: /node_modules/
+Disallow: /intern/
+
+# KI-Trainings-Crawler aussperren (Schulseite mit Fotos/Daten von Kindern)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
 
 Sitemap: https://www.kgs-rastede.de/sitemap.xml

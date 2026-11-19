@@ -1,5 +1,9 @@
-Uuid: G0daINS5PJJmk1Fz
+Beschreibung: 
 
 ----
 
-Template: datei
+Uuid: grhgzkt6jzaybjng
+
+----
+
+Template: blocks/image

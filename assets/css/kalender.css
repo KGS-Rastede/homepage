@@ -1,0 +1,147 @@
+.kgs-calendar-status {
+  margin: 0 0 0.75rem;
+  border: 1px solid rgb(203 213 225);
+  border-radius: 0.5rem;
+  background: rgb(248 250 252);
+  padding: 0.75rem 1rem;
+  color: rgb(51 65 85);
+  font-size: 0.95rem;
+}
+
+.kgs-calendar-status-error {
+  border-color: rgb(252 165 165);
+  background: rgb(254 242 242);
+  color: rgb(153 27 27);
+}
+
+.kgs-calendar-clickable {
+  cursor: pointer;
+}
+
+.fc-daygrid-dot-event .fc-event-title,
+.fc-h-event .fc-event-title {
+  white-space: normal !important;
+}
+
+.kgs-calendar-modal-open {
+  overflow: hidden;
+}
+
+.kgs-calendar-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.kgs-calendar-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgb(15 23 42 / 0.45);
+}
+
+.kgs-calendar-modal-panel {
+  position: relative;
+  width: min(100%, 40rem);
+  max-height: min(42rem, calc(100vh - 2rem));
+  overflow: auto;
+  border-radius: 0.5rem;
+  background: white;
+  box-shadow: 0 24px 64px rgb(15 23 42 / 0.25);
+}
+
+.kgs-calendar-modal-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 1px solid rgb(226 232 240);
+  padding: 1.25rem 1.5rem 1rem;
+}
+
+.kgs-calendar-modal-kicker {
+  margin: 0 0 0.35rem;
+  color: rgb(71 85 105);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.kgs-calendar-modal-title {
+  margin: 0;
+  color: rgb(15 23 42);
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.kgs-calendar-modal-close {
+  display: inline-flex;
+  height: 2.25rem;
+  width: 2.25rem;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgb(203 213 225);
+  border-radius: 999px;
+  background: white;
+  color: rgb(51 65 85);
+  cursor: pointer;
+}
+
+.kgs-calendar-modal-close:hover,
+.kgs-calendar-modal-close:focus {
+  background: rgb(241 245 249);
+  outline: none;
+}
+
+.kgs-calendar-modal-body {
+  display: grid;
+  gap: 1rem;
+  padding: 1.25rem 1.5rem 1.5rem;
+}
+
+.kgs-calendar-detail-row {
+  display: grid;
+  grid-template-columns: 6rem minmax(0, 1fr);
+  gap: 1rem;
+}
+
+.kgs-calendar-detail-label {
+  color: rgb(100 116 139);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.kgs-calendar-detail-value {
+  color: rgb(15 23 42);
+  font-size: 0.96rem;
+  line-height: 1.5;
+  white-space: pre-line;
+}
+
+.kgs-calendar-modal-link {
+  justify-self: start;
+  border-radius: 0.5rem;
+  background: rgb(71 85 105);
+  padding: 0.65rem 0.9rem;
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.kgs-calendar-modal-link:hover,
+.kgs-calendar-modal-link:focus {
+  background: rgb(51 65 85);
+  outline: none;
+}
+
+@media (max-width: 640px) {
+  .kgs-calendar-detail-row {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}

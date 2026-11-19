@@ -2,23 +2,7 @@ Title: KGS Rastede
 
 ----
 
-Bildmorgens: - file://8t5fvc5y7kpdgahu
-
-----
-
-Bildtag: - file://8t5fvc5y7kpdgahu
-
-----
-
-Bildnacht: - file://8t5fvc5y7kpdgahu
-
-----
-
-Bildregen: - file://8t5fvc5y7kpdgahu
-
-----
-
-Description: 
+Description: Die Kooperative Gesamtschule Rastede – Haupt-, Real- und Gymnasialzweig unter einem Dach. Aktuelles, Termine, Unterricht und Kontakt.
 
 ----
 
@@ -27,3 +11,4 @@ Pages:
 - page://8M3KZYR9nhun0o0p
 - page://LqMt8QQDzxeotTcM
 - page://bSp5sUOo62vU1QZC
+- page://x0h4rqs1scijk3kl

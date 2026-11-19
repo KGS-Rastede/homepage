@@ -17,6 +17,31 @@ return array_merge($secrets, [
     // automatische URLs folgen der deuschen Sprache
     'slugs' => 'de',
 
+    // Seiten ohne Frontend-Ansicht nicht in die sitemap.xml aufnehmen
+    'sitemap.ignore' => ['error', 'design', 'eventwidget', 'navbar'],
+
+    // Responsive Bilder: Kirby rendert die Größen beim ersten Abruf selbst
+    // https://getkirby.com/docs/guide/files/resize-images-on-the-fly
+    'thumbs' => [
+        'srcsets' => [
+            // Banner der Startseite (volle Bildschirmbreite)
+            'banner' => [
+                '640w'  => ['width' => 640,  'quality' => 80],
+                '1024w' => ['width' => 1024, 'quality' => 80],
+                '1536w' => ['width' => 1536, 'quality' => 80],
+                '1920w' => ['width' => 1920, 'quality' => 80],
+                '2560w' => ['width' => 2560, 'quality' => 80],
+            ],
+            'banner-webp' => [
+                '640w'  => ['width' => 640,  'quality' => 75, 'format' => 'webp'],
+                '1024w' => ['width' => 1024, 'quality' => 75, 'format' => 'webp'],
+                '1536w' => ['width' => 1536, 'quality' => 75, 'format' => 'webp'],
+                '1920w' => ['width' => 1920, 'quality' => 75, 'format' => 'webp'],
+                '2560w' => ['width' => 2560, 'quality' => 75, 'format' => 'webp'],
+            ],
+        ],
+    ],
+
     'kgs.autoresize.maxWidth' => 1000,
     'kgs.autoresize.quality'  => 85,
 
@@ -42,21 +67,29 @@ return array_merge($secrets, [
         // kgs.bereichsrechte (siehe unten), alle anderen bekommen das volle Panel.
         'home' => fn () => Kgs\Bereichsrechte\Bereiche::panelHome() ?? 'site',
 
-        'menu' => fn () => Kgs\Bereichsrechte\Bereiche::panelMenu() ?? [
-            'site',
-            'system',
-            'users',
-            'languages',
-            '-',
-            'newblog' => [
-                'label' => 'Neuer Blog',
-                'link'  => 'pages/blogs',
-                'icon'  => 'add',
-            ],
-            'newpress' => [
-                'label' => 'Presseartikel',
-                'link'  => 'pages/schule+presse',
-                'icon'  => 'book',
+        // Persönliche Lesezeichen (im eigenen Konto) gibt es für alle Rollen.
+        'menu' => fn () => [
+            ...(Kgs\Bereichsrechte\Bereiche::panelMenu() ?? [
+                'site',
+                'system',
+                'users',
+                'languages',
+                '-',
+                'newblog' => [
+                    'label' => 'Neuer Blog',
+                    'link'  => 'pages/blogs',
+                    'icon'  => 'add',
+                ],
+                'newpress' => [
+                    'label' => 'Presseartikel',
+                    'link'  => 'pages/schule+presse',
+                    'icon'  => 'book',
+                ],
+            ]),
+            'lesezeichen' => [
+                'label' => 'Lesezeichen',
+                'link'  => 'account',
+                'icon'  => 'bookmark',
             ],
         ],
     ],
@@ -99,6 +132,7 @@ return array_merge($secrets, [
         'hfp'          => ['unterricht/herausforderungsprojekt'],
         'nilepe'       => ['blogs', 'beratungskonzept', 'unterricht'],
         'schulleitung' => ['schule', 'blogs', 'unterricht', 'Faecher', 'sv'],
+        'erasmus'      => ['unterricht/erasmus'],
     ],
 
     // Bezeichnung und Icon der Bereiche im Panel-Menü
@@ -110,6 +144,7 @@ return array_merge($secrets, [
         'beratungskonzept'                   => ['label' => 'Beratungskonzept',        'icon' => 'heart'],
         'schule'                             => ['label' => 'Schule',                  'icon' => 'home'],
         'sv'                                 => ['label' => 'SV',                      'icon' => 'users'],
+        'unterricht/erasmus'                 => ['label' => 'Erasmus',                 'icon' => 'globe'],
     ],
 
     'hooks' => [
@@ -117,6 +152,10 @@ return array_merge($secrets, [
         // GIFs bleiben unangetastet, damit Animationen nicht verloren gehen.
         'file.create:after' => function ($file) {
             if (!in_array($file->mime(), ['image/jpeg', 'image/png', 'image/webp'], true)) return;
+
+            // Banner brauchen die volle Auflösung, kleinere Größen
+            // erzeugt Kirby dafür per srcset (siehe 'thumbs')
+            if ($file->template() === 'hintergrundbild') return;
 
             $maxWidth = option('kgs.autoresize.maxWidth', 1000);
 

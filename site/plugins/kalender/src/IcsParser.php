@@ -105,7 +105,9 @@ class IcsParser
             'start'      => $start,
             'ende'       => max($ende, $start),
             'ganztaegig' => $ganztaegig,
-            'ort'        => static::text($termin['LOCATION']['wert'] ?? ''),
+            'ort'          => static::text($termin['LOCATION']['wert'] ?? ''),
+            'beschreibung' => static::text($termin['DESCRIPTION']['wert'] ?? ''),
+            'link'         => static::text($termin['URL']['wert'] ?? ''),
         ];
     }
 

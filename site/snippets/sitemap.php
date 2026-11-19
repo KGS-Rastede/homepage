@@ -1,7 +1,7 @@
 <?= '<?xml version="1.0" encoding="utf-8"?>' ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <?php foreach ($pages as $p): ?>
-        <?php if (in_array($p->uri(), $ignore)) {
+        <?php if (in_array($p->uri(), $ignore) || $p->intendedTemplate()->name() === 'presse-jahr') {
           continue;
         } ?>
         <url>

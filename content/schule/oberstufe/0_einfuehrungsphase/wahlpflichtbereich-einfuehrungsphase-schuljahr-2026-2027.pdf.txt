@@ -1,0 +1,13 @@
+Anzeigename: Wahlpflichtmodule im Schuljahr 2027-2028
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: t4c6tprbhch9jjkl
+
+----
+
+Template: datei

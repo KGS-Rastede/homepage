@@ -299,7 +299,7 @@ $navbar = page('navbar');
           @click.outside="searchOpen = false"
 
           action="/search">
-          <div class="hidden items-center space-x-2 w-md rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-slate-900 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-slate-300 focus-within:outline-opacity-25 active:border-slate-200 active:shadow-none lg:inline-flex dark:transparent dark:text-slate-300 dark:hover:border-slate-600 dark:focus-within:outline-opacity-40 dark:active:border-slate-700">
+          <div class="hidden items-center space-x-2 w-md rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm leading-5 font-semibold text-slate-900 hover:border-slate-300 hover:text-slate-900 hover:shadow-sm focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-slate-300/25 active:border-slate-200 active:shadow-none lg:inline-flex dark:transparent dark:text-slate-300 dark:hover:border-slate-600 dark:focus-within:outline-slate-300/40 dark:active:border-slate-700">
             <input type="text"
               x-ref="searchInput"
               class="grow focus:outline-none"

@@ -1,0 +1,13 @@
+Anzeigename: Regelungen für Absenzen
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: u7acw8xu9lqoo81a
+
+----
+
+Template: datei

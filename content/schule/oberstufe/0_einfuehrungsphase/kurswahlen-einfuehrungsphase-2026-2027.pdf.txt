@@ -1,0 +1,13 @@
+Anzeigename: Kurswahlen für die Einführungsphase - Formular für externe Schüler:innen
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: zycbx3t1oxascl7q
+
+----
+
+Template: datei

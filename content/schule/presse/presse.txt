@@ -5,6 +5,78 @@ Title: Neues aus der Presse
 Pressenachrichten:
 
 - 
+  link: 'https://epaper.nwzonline.de/epaper/ammerlaender-nachrichten-2026-11-18-epa-173435/?page=p2708331&interactivelayer=12658503'
+  name: ' KGS-Ausbau soll schneller starten'
+  anfang: >
+    Rasteder Politik stellt schon für 2027
+    mehr Geld im Haushalt zur Verfügung
+  datum: 2026-11-18
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/lokales/ammerland/rastede/ihre-messe-ihre-zukunft-kgs-schueler-organisieren-berufsmesse-in-eigenregie-EWGMIJ52RZGTJL3MMBT2VOH5YU.html
+  name: 'Ihre Messe, ihre Zukunft: KGS-Schüler organisieren Berufsmesse in Eigenregie '
+  anfang: 'Buntes Treiben bei der Hausmesse der KGS-Rastede: Eske Harre (re.) und Noah Riebe von der Tischlerei Neuhaus haben selbst ihren Abschluss an der KGS Rastede gemacht. Nun beraten sie Sophia Hoffmann und Luis Wagner. '
+  datum: 2026-11-14
+  medium: nwz
+- 
+  link: >
+    https://www.nwzonline.de/lokales/ammerland/rastede/kgs-rastede-organisiert-eigene-jobmesse-54aa0a94-66d4-406e-aadb-eab6198d4ddb.html
+  name: KGS Rastede organisiert eigene Jobmesse
+  anfang: >
+    Handwerk, Pflege, Polizei oder doch ein
+    Studium? Rund 1200 Schülerinnen und
+    Schüler der KGS Rastede konnten auf
+    ihrer selbst organisierten Jobmesse mehr
+    als 60 Unternehmen kennenlernen – und
+    dabei vielleicht auch eine neue Richtung
+    für ihre Zukunft entdecken.
+  datum: 2026-11-13
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/11/06/gedenkgang-und-stolpersteinverlegung/
+  name: Gedenkgang und Stolpersteinverlegung
+  anfang: 'Der Verein „Stolpersteine Rastede“ lädt zum Gedenkgang am 9. November ein. An diesem geschichtsträchtigen Tag wird auch ein Stolperstein zur Erinnerung an Dina Röben verlegt.   '
+  datum: 2026-11-06
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.nwzonline.de/ammerland/ns-zeit-in-rastede-themenabend-an-kgs-zieht-200-besucher-an_a_4,3,2051046279.html
+  name: >
+    Dokumente aus der Zeit des Dritten
+    Reichs fehlen – Gemeinde sucht
+    Zeugnisse
+  anfang: >
+    In Rastede fand ein großer Themenabend
+    zur NS-Zeit in der Gemeinde statt. Dabei
+    wurde immer wieder deutlich, dass es
+    kaum Dokumente oder Zeugnisse aus dieser
+    Zeit gibt. Jetzt soll die Bevölkerung
+    helfen.
+  datum: 2026-10-09
+  medium: nwz
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/10/09/einspruch-erheben/
+  name: Einspruch erheben
+  anfang: >
+    Groß war das Interesse gestern am
+    Themenabend „Rastede 1933-45. Unsere
+    Gemeinde im Nationalsozialismus“. Die
+    Veranstaltung in der Neuen Aula war eine
+    Kooperation der Residenzort Rastede GmbH
+    und der KGS.
+  datum: 2026-10-09
+  medium: rastederrundschau
+- 
+  link: >
+    https://www.rasteder-rundschau.de/2026/10/06/rastede-im-nationalsozialismus/
+  name: Rastede im Nationalsozialismus
+  anfang: 'Ein Vortragsabend in der KGS beleuchtet die NS-Diktatur aus unterschiedlichen Perspektiven. Die Veranstaltung möchte die Rasteder auch dazu anregen, sich mit historischen Dokumenten an der geplanten Ausstellung zur NS-Zeit in der Gemeinde zu beteiligen.   '
+  datum: 2026-10-06
+  medium: rastederrundschau
+- 
   link: >
     https://www.nwzonline.de/ammerland/jubilaeum-in-rastede-kgs-feiert-50-jaehriges-bestehen_a_4,3,1606641642.html
   name: >
@@ -6975,20 +7047,15 @@ Pressenachrichten:
   medium: rastederrundschau
 - 
   link: >
-    https://www.nwzonline.de/ammerland/ns-zeit-in-rastede-themenabend-an-kgs-zieht-200-besucher-an_a_4,3,2051046279.html
-  name: >
-    Dokumente aus der Zeit des Dritten
-    Reichs fehlen – Gemeinde sucht
-    Zeugnisse
+    https://www.rasteder-rundschau.de/2026/09/23/gegen-das-vergessen/
+  name: Gegen das Vergessen
   anfang: >
-    In Rastede fand ein großer Themenabend
-    zur NS-Zeit in der Gemeinde statt. Dabei
-    wurde immer wieder deutlich, dass es
-    kaum Dokumente oder Zeugnisse aus dieser
-    Zeit gibt. Jetzt soll die Bevölkerung
-    helfen.
-  datum: 2026-10-09
-  medium: nwz
+    Mit einer bewegenden Veranstaltung wurde
+    heute in Rastede an das Schicksal der
+    jüdischen Familien Pagener und Hoffmann
+    erinnert
+  datum: 2026-09-23
+  medium: rastederrundschau
 
 ----
 

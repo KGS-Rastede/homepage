@@ -32,8 +32,10 @@ permissions:
     changeLanguage: true
     changePassword: true
     changeRole: false
-    create: false
     delete: false
-    update: false
+    update: true
   users:
     '*': false
+
+fields:
+  lesezeichen: fields/lesezeichen

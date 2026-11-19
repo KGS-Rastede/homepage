@@ -56,7 +56,22 @@ class Kalender
             'start'  => $t['ganztaegig'] ? $t['start']->format('Y-m-d') : $t['start']->format(DATE_ATOM),
             'end'    => $t['ganztaegig'] ? $t['ende']->format('Y-m-d') : $t['ende']->format(DATE_ATOM),
             'allDay' => $t['ganztaegig'],
+            // Für das Detailfenster nach einem Klick (assets/js/kalender.js)
+            'extendedProps' => array_filter([
+                'location'    => $t['ort'] ?? '',
+                'description' => $t['beschreibung'] ?? '',
+                'link'        => static::sichererLink($t['link'] ?? ''),
+            ]),
         ], $termine);
+    }
+
+    /**
+     * Nur http(s)-Links aus dem Kalender weitergeben, damit im Detailfenster
+     * keine javascript:-Adressen o. Ä. landen.
+     */
+    protected static function sichererLink(string $link): string
+    {
+        return preg_match('!^https?://!i', $link) === 1 ? $link : '';
     }
 
     /**

@@ -10,6 +10,8 @@
     var schmal = window.matchMedia('(max-width: 767px)').matches;
 
     var calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
+      // Klick auf einen Termin zeigt Ort, Beschreibung und Link (assets/js/kalender.js)
+      ...KgsCalendar.detailsBeiKlick(),
       locale: 'de',
       initialView: schmal ? 'listMonth' : 'dayGridMonth',
       height: schmal ? 'auto' : undefined,
