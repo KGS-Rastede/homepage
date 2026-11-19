@@ -129,6 +129,14 @@ return array_merge($secrets, [
         },
     ],
 
+    // Eigene Plugins gibt es nicht auf getkirby.com, daher für sie
+    // keine Update-Prüfung (sonst Status „Unbekannt“ im Panel).
+    'updates' => [
+        'plugins' => [
+            'kgs/*' => false,
+        ],
+    ],
+
     'markdown' => [
         'extra' => true,
     ],
