@@ -7,7 +7,7 @@
  * Eine einzige große Liste lässt sich im Panel nicht mehr speichern: Die
  * IONOS-Firewall blockiert Anfragen mit mehr als 1000 Werten.
  */
-class PressePage extends Page
+class PressePage extends \Kgs\Bereichsrechte\BereichsPage
 {
     /**
      * Alle Pressenachrichten aller Jahre als eine Structure

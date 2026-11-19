@@ -27,18 +27,18 @@ Mailadresse) enthalten sind. -->
     <h3 class="mt-1 text-2xl leading-6 text-slate-900">Anschrift</h3>
     <?= $page->anschrift()->kirbytext() ?>
     Tel.:
-    <?= $page->telefon()->tel() ?> </br>
+    <?= $page->telefon()->html() ?> </br>
     Fax:
-    <?= $page->fax()->tel() ?> </br>
-    E-Mail: <span style="text-decoration:underline;"><a href="mailto:<?= $page->email() ?>">
-        <?= $page->email()->email() ?>
+    <?= $page->fax()->html() ?> </br>
+    E-Mail: <span style="text-decoration:underline;"><a href="mailto:<?= $page->email()->esc("attr") ?>">
+        <?= $page->email()->html() ?>
       </a></span></br>
     Schulische Datenschutzbeauftragte: <a
       href="mailto:datenschutz@kgs-rastede.de">datenschutz@kgs-rastede.de</a>
 
     <h3 class="mt-4 text-2xl leading-6 text-slate-900">Inhaltlich verantwortlich</h3>
     <p>
-      <?= $page->rechtlichertext()->text()->kirbytext() ?>
+      <?= $page->rechtlichertext()->kirbytext() ?>
     </p>
   </div>
   <div class="w-1/3">
@@ -46,7 +46,7 @@ Mailadresse) enthalten sind. -->
       Schulträger
     </h3>
     <p>
-      <?= $page->schultrager()->text()->kirbytext() ?>
+      <?= $page->schultrager()->kirbytext() ?>
     </p>
   </div>
 </div>
