@@ -13,4 +13,8 @@ return [
 
     // Öffentlicher IServ-Kalender (ICS) für site/plugins/kalender
     'kgs.kalender.url' => 'https://kgs-rastede.eu/iserv/public/calendar/?key=HIER_DEN_KALENDER_KEY_EINTRAGEN',
+
+    // Kirby-Sicherheit: je einen zufälligen Wert erzeugen, z. B. mit `openssl rand -hex 32`
+    'content' => ['salt' => 'HIER_ZUFAELLIGEN_WERT_EINTRAGEN'],
+    'cookie'  => ['key'  => 'HIER_ZUFAELLIGEN_WERT_EINTRAGEN'],
 ];
