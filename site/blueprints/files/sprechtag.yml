@@ -1,0 +1,5 @@
+title: Sprechtag-Daten
+
+accept:
+  extension: csv
+  mime: text/csv, text/plain, application/csv, application/vnd.ms-excel

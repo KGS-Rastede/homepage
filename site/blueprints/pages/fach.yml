@@ -4,7 +4,7 @@ icon: 📖
 
 options:
   update:
-    *: false
+    '*': false
     fachleiter: true
     schulleitung: true
     admin: true
@@ -48,9 +48,6 @@ columns:
             uploads: blogbild
             query: page.images
             label: Bilder zum Fach
-            uploads: blogbild
-            query: page.images
-            label: Bilder zum Fach
             layout: cards
             image:
               cover: true
@@ -70,7 +67,6 @@ columns:
     sticky: true
     sections:
       meta:
-        meta:
         type: fields
         fields:
           haupttag:
@@ -95,5 +91,4 @@ columns:
               carousel: Karousel
               gallery: Galerie
               manuel: Manuell einbinden
-                toggle:
           sidebar: fields/seitenleiste

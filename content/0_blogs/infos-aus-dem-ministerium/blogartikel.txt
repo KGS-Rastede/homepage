@@ -1,0 +1,58 @@
+Title: Infos aus dem Ministerium
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Hier sind ab sofort Informationen aus dem Niedersächsischen Kultusministerium zu finden.</p>"},"id":"0da5ab1e-1130-4998-9469-46b009c9835a","isHidden":false,"type":"text"}],"id":"a49730e4-3461-43f8-b5bd-bb65e38dae9d","width":"1/1"}],"id":"ed375289-d200-4805-83ee-25666f2d2102"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Presseinformation: Niedersachsen bringt KI in den Unterricht – Schul-Chatbot telli startet landesweit"},"id":"930e80a8-050a-4f88-9972-be5e7bed17cb","isHidden":false,"type":"heading"}],"id":"b7ee1cca-c134-4600-99e8-1fc74fee5789","width":"1/1"}],"id":"25c93945-7fce-47c0-a9db-bd75a7c26ffa"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Künstliche Intelligenz prägt den Alltag von Schülerinnen und Schülern – in sozialen Medien, als Sprachassistenten oder bei der Informationssuche. Die Erkennung von Fehlinformationen ist daher eine entscheidende Zukunftskompetenz für die Stärkung der Demokratie. Auch das Berufsleben ist zunehmend KI-gestützt. Schule sollte junge Menschen deshalb befähigen, KI kritisch, reflektiert und kompetent zu nutzen. Mit dem KI-Chatbot <em>telli</em> steht Lehrkräften in Niedersachsen ab sofort landesweit eine datenschutzkonforme und für den Unterricht optimierte Anwendung zur Verfügung.</p><p>Zur Einführung erklärt <strong>Kultusministerin</strong> <strong>Julia Willie Hamburg</strong>: „Mit telli treiben wir den verantwortungsvollen Einsatz von Künstlicher Intelligenz in Niedersachsens Schulen voran. Schülerinnen und Schüler müssen auf einen Alltag vorbereitet sein, in dem KI allgegenwärtig ist. Dafür müssen auch unsere Lehrkräfte Zugriff auf leistungsstarke KI-Modelle haben. Mit telli ermöglichen wir die Nutzung von KI datenschutzkonform zur Unterrichtsvorbereitung und fächerübergreifend zum individuellen Lernen.“ Kultusministerin Hamburg ergänzt: „Die KI kann im Deutschunterricht beispielsweise so eingestellt werden, dass telli als Schreib-Coach für die Erörterung von „Woyzeck“ dient und den Schülerinnen und Schülern Feedback gibt. So bleibt der Lehrkraft währenddessen mehr Zeit für die individuelle Förderung. Gleichzeitig erfahren die Lernenden, wie sie KI gezielt nutzen können, um die nötigen Kompetenzen zu verinnerlichen.“</p><p></p><p><u><strong>Zum Hintergrund:</strong></u></p><p>telli ist Teil des länderübergreifenden Projekts AIS (Adaptives Intelligentes System), das im Auftrag der Länder durch das FWU (Institut für Film und Bild in Wissenschaft und Unterricht) umgesetzt wird. Der Chatbot ist speziell für den schulischen Einsatz entwickelt</p><p>und an verschiedene Sprachmodelle angebunden. Alle Systeme werden auf Servern innerhalb der EU betrieben. Nutzungsdaten werden nicht an Dritte weitergegeben und nicht zum Training der KI verwendet. Damit ist die Nutzung datenschutzkonform und unterscheidet sich darin von kommerziellen Chatbots. In Niedersachsen ist die Nutzung folgender zugrundeliegender Sprach-Modelle möglich: GPT-5, GPT-5-mini, GPT-5 nano, Llama-3.1-405B, Llama-3.3-70B, Mistral Nemo Instruct.</p><p>Stimmen aus den Schulen:</p><p>Seit 2024 wird telli als Open-Source-Lösung entwickelt, kontinuierlich erweitert und für den pädagogischen Einsatz optimiert. Niedersachsen hat zunächst mit 30 Schulen und vier Studienseminaren den Chatbot pilotiert, um Erkenntnisse zur Weiterentwicklung, zu den Einsatzmöglichkeiten und zum Unterstützungsbedarf zu gewinnen. Erste Praxiserfahrungen aus der Pilotphase zeigen das Potenzial und Weiterentwicklungsmöglichkeiten.</p><p>Lehrerin <strong>Bettina Heck</strong> am Gymnasium „In der Wüste“ (Osnabrück) hat den Chatbot mit ihren Schülerinnen und Schülern der 12. Klasse im Deutschunterricht erprobt: „KI birgt Chancen und Gefahren. Auf beides müssen wir die Schülerinnen und Schüler vorbereiten.“ Schulleiter <strong>Nils Fischer</strong> ergänzt: \"In wenigen Jahren ist KI so normal wie Elektrizität: Sie wird überall sein. Entscheidend ist, dass Menschen sie kompetent für ihre Arbeit einsetzen. Wer gestalten und verbinden will, muss sie souverän nutzen können, dazu muss Schule befähigen.\"</p><p><strong>Nils Diener</strong>, Fachbereichsleiter Gesellschaftslehre sowie Arbeit-Wirtschaft-Technik an der IGS Lengede (LK Peine) resümiert: „Die Einrichtung von telli ist grundsätzlich erfreulich, weil den Schülern und Schülerinnen so schnell und unkompliziert ein sicheres KI-Tool zur Verfügung gestellt werden kann. Darüber hinaus würde ich mir in telli noch mehr Optionen (z.B. Sprachauswahl für Fremdsprachenunterricht) und zusätzliche Kontrollmechanismen wünschen.“</p><p>telli wird in Niedersachsen über das Medienregal der Niedersächsischen Bildungscloud (NBC) bereitgestellt. Seit dem Rollout wird den Lehrkräften Informationsmaterial zu telli im Niedersächsischen <u><a href=\"https://bildungsportal-niedersachsen.de/digitale-welt/kuenstliche-intelligenz-ki/telli-in-niedersachsen\">Bildungsportal</a></u> zur Verfügung gestellt. Das Niedersächsische Landesinstitut für schulische Qualitätsentwicklung (NLQ) bietet Lehrkräften zudem ein vielfältiges Fortbildungsangebot zu Künstlicher Intelligenz an. Bei Bedarf erhalten Sie Fotos vom Einsatz des Chatbots in Niedersachsens Schulen während der Pilotierungsphase.</p>"},"id":"bd02b620-5c90-4551-a048-085e16fee7b0","isHidden":false,"type":"text"}],"id":"fcaf88c7-93dc-44e4-ba9e-ce062bcebec0","width":"1/1"}],"id":"cba3417c-3716-4996-8767-cd9ff17c3c7f"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"<strong>Briefe der Ministerin</strong>"},"id":"35e28184-3a3f-48e9-9331-cc6dfd4247a5","isHidden":false,"type":"heading"}],"id":"31d7388c-6bab-4af4-80a3-758f671cd414","width":"1/1"}],"id":"d7a25f50-bf8d-4f54-a02d-e83fb3494194"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h5","text":"Briefe Ministerin Hamburg zum Schulhalbjahr vom 04.02.2026"},"id":"a4444108-cfb8-40b5-a968-fdfa8bd6805e","isHidden":false,"type":"heading"}],"id":"dfad19bb-feeb-400e-9c0b-78fd194d85d8","width":"1/1"}],"id":"bf2c4f17-38df-426f-bc21-4970e2619730"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Briefe Ministerin Hamburg zum Schulhalbjahr 2026_Erziehungsberechtigte_Einfachere Sprache.pdf</li><li><a href=\"https://kgs-rastede.de/media/pages/blogs/infos-aus-dem-ministerium/21a90c21f7-1771409044/2026-02-04_eltern_und_erziehungsberechtigte.pdf\">Briefe Ministerin Hamburg zum Schulhalbjahr 2026_Eltern und Erziehungsberechtigte.pdf</a></li><li>Briefe Ministerin Hamburg zum Schulhalbjahr 2026_Schulen.pdf</li><li> Briefe Ministerin Hamburg zum Schulhalbjahr 2026_Sek I.pdf</li><li>Briefe Ministerin Hamburg zum Schulhalbjahr 2026_Sek II.pdf</li></ul>"},"id":"e3487a13-3158-4094-993b-a0beee0659b6","isHidden":false,"type":"list"}],"id":"8e0b9062-5afd-4134-a977-776b575d1a94","width":"1/1"}],"id":"bbcc103a-66ac-4e9a-8e8a-6d3101dc14d5"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h5","text":"Briefe der Ministerin zur Handyhandreichung vom 13.11.2025"},"id":"566157ec-1ae7-4370-8238-dc8b552ab58a","isHidden":false,"type":"heading"}],"id":"79c7129b-d29c-43fa-a9fd-7ec70631d50b","width":"1/1"}],"id":"e7b52edf-6322-4e0e-a1e0-fe3637d022d9"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Schreiben Ministerin Handyhandreichung_Erziehungsberechtigte_13.11.2025.pdf</li><li> Schreiben Ministerin Handyhandreichung_MA_Leitung_Schulen_12.11.2025.pdf</li><li> Schreiben Ministerin Handyhandreichung_SuS_SekII_13.11.2025.pdf</li><li> Schreiben Ministerin Handyhandreichung_SuS_SekI_13.11.2025.pdf</li><li> Schreiben Ministerin Handyhandreichung_Erziehungsberechtigte_einfSprache_13.11.2025.pdf</li></ul>"},"id":"9f43a6c1-4b96-4ff5-804e-904b7023a88f","isHidden":false,"type":"list"}],"id":"4ab05c8b-bf4d-4506-833f-a22dbe0383d3","width":"1/1"}],"id":"218387e7-70de-4b8e-b559-79254e947955"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h5","text":"Brief der Ministerin zum Schuljahresauftakt 2025/2026"},"id":"82491dc4-6f4d-46d8-b595-9ad72117c272","isHidden":false,"type":"heading"}],"id":"3865df9e-b6f2-4d7c-adb4-695536788621","width":"1/1"}],"id":"1cfae9f8-d756-4a60-a2ea-085705e8233e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>2025-09-02 Schuljahresauftaktschreiben_Erziehungsberechtigte.pdf</li><li> 2025-09-02 Schuljahresauftaktschreiben_Erziehungsberechtigte_Einfache Sprache.pdf</li><li> 2025-09-02 Schuljahresauftaktschreiben Sek I.pdf</li><li> 2025-09-02 Schuljahresauftaktschreiben_Sek II.pdf</li><li>2025-09-02 Schuljahresauftaktschreiben_Schulen.pdf</li></ul>"},"id":"d950c484-e36f-4c6c-af6e-dc332457d156","isHidden":false,"type":"list"}],"id":"5db98358-74dd-47aa-83a5-72350ccc5cf3","width":"1/1"}],"id":"bd5fa671-e901-4723-829e-da80f04030e6"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h5","text":"Briefe der Ministerin zum Schulende (Sommerferien) 2025 vom 1. Juli 2025"},"id":"067413c7-a86c-4813-970f-3b829cae7852","isHidden":false,"type":"heading"}],"id":"e38785a2-0f49-49c3-8a72-dab60b7d475e","width":"1/1"}],"id":"87f55fba-e875-4860-961f-81fa9b3a86b4"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Brief der Ministerin_Schuljahresende_Erziehungsberechtigte.pdf</li><li> Brief der Ministerin_Schuljahresende_Erziehungsberechtigte_Einfache Sprache.pdf</li><li>  Brief der Ministerin_Schuljahresende_SuS_Sek I.pdf</li><li> Brief der Ministerin_Schuljahresende_SuS_Sek II+BBS.pdf</li><li> Brief der Ministerin_Schuljahresende_Schulen_mitAnlage.pdf</li></ul>"},"id":"ebbfdfc2-7ef0-476f-9741-6acac805dd2a","isHidden":false,"type":"list"}],"id":"1e6f0a0d-16d9-4611-aca1-dbd53d75437b","width":"1/1"}],"id":"8dfb752b-4af2-4491-bfd2-8c0f753bd8f4"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h5","text":"Osterbriefe vom 3. April 2025"},"id":"82300f27-2a03-49cf-8ce4-3717d75679c7","isHidden":false,"type":"heading"}],"id":"434c1b8c-e4ee-42ea-a524-c18fb8269902","width":"1/1"}],"id":"083508a5-7df2-4562-839d-b7be70c4b6e4"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Brief_Osterferien 2025_Schulen.pdf - Download</li><li> Brief_Osterferien 2025_weiterfuehrende Schule I.pdf</li><li> Brief_Osterferien 2025_weiterfuehrende Schule II.pdf</li><li> Brief_Osterferien 2025_Erziehungsberechtigte.pdf</li><li> Brief_Osterferien 2025_Erziehungsberechtigte_leichte Sprache.pdf</li></ul>"},"id":"ae39607f-6148-440c-a308-5fcddb6c49d1","isHidden":false,"type":"list"}],"id":"ebafee81-84fe-406b-951c-6c7e53c1c529","width":"1/1"}],"id":"90470811-42f2-441c-be82-f54a06affb8f"}]
+
+----
+
+Date: 2026-02-18 11:00:00
+
+----
+
+Datumstartseite: 2026-06-18 11:00:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Downloads:
+
+- file://cd0wcy2mydatjotf
+- file://ldp2gyclyxtyhf5q
+- file://l1gw1ipggdlkmqdm
+- file://qvgxarwfedlkke7g
+- file://elziekr6uffnk1bb
+- file://7khmpsiqowcnwrh6
+- file://6mh5cxspl8hv5cb2
+- file://qfdqibsvwhyku29x
+- file://br9aidsqo6h9ms1j
+- file://7lwxgnqf09fjbbq9
+- file://8s134socjobwak0v
+- file://kqjlv7ctmzjbvf5t
+- file://cfn8fskx51jki5go
+- file://iudjflcvlfgecayd
+- file://rafzy2zuwizavdvb
+- file://dpovmhddcsy1amy7
+- file://rqbth0fi3ursppzo
+- file://opg17m4rc2qublou
+- file://ye5xgp6z73b9lzlm
+- file://5xybr0xbqvlbnmcb
+- file://0oh8q0h9wmidliar
+- file://nikarhbq1sribtij
+- file://gtv0bxlw18sxdr91
+- file://0u6rxwlwfsxtele2
+
+----
+
+Uuid: jqfv0apflueib8dd

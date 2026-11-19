@@ -1,8 +1,13 @@
 title: Übersicht der Schülerfirmen
-preset: pages
 icon: 🖼
 
-listed:
-  extends: sections/projects
-  label: Published Projects
-  layout: cards
+sections:
+  drafts:
+    type: pages
+    label: Entwürfe
+    status: drafts
+  listed:
+    type: pages
+    label: Veröffentlicht
+    status: listed
+    layout: cards

@@ -1,0 +1,37 @@
+Title: Profilkurs Wirtschaft zu Besuch bei der VRG GmbH
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Unser Besuch bei der VRG GmbH</strong></p><p>Im Rahmen unseres Profilfachkurses Wirtschaft haben wir die VRG GmbH besucht. Dort haben wir viele interessante Einblicke in das Unternehmen und die verschiedenen Arbeitsbereiche bekommen.</p><p>Zuerst durften wir uns die Druckerei anschauen. Uns wurde gezeigt, wie alles aufgebaut ist und wie die Abläufe dort funktionieren. Außerdem konnten wir einen Blick in den Serverraum werfen und sehen, wie diese Systeme aufgebaut sind.</p><p>Besonders interessant war auch, dass wir den Aufbau eines PCs genauer kennenlernen durften. Zum Schluss konnten wir selbst aktiv werden. In Zweiergruppen haben wir an einem Laptop mit einem Programm eigene kleine Aufgaben programmiert und einen Computer-Arbeitsplatz selbständig eingerichtet.</p><p>Während des Besuchs hatten wir außerdem die Möglichkeit, den Auszubildenden Fragen zu stellen. Diese Fragen hatten wir bereits vorher im Unterricht gemeinsam vorbereitet und konnten sie nun direkt vor Ort stellen.</p><p>Insgesamt war es ein sehr interessanter und abwechslungsreicher Besuch. Wir konnten viel Neues lernen und einen guten Eindruck davon bekommen, wie die Arbeit in einem IT-Unternehmen aussieht.</p><p>Vielen Dank an die VRG und die Mitarbeitenden, die sich die Zeit für uns genommen haben!</p>"},"id":"bf738951-6734-4b35-9885-c0f28d8493b9","isHidden":false,"type":"text"}],"id":"9e514d73-b4eb-4e2f-8183-52b443a4efe3","width":"1/1"}],"id":"39d155a0-8d31-4ce8-a87e-b177b4b566fd"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://k5wccovtraagc8a9"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"0905b1ac-1dc7-4b8e-8ae7-8490d1392f0c","isHidden":false,"type":"image"}],"id":"c7eff0f6-f615-43ce-87cd-d2b0d84250af","width":"1/1"}],"id":"cdebe3bb-0882-484b-ae7c-795915572919"}]
+
+----
+
+Date: 2026-11-17 07:45:00
+
+----
+
+Datumstartseite: 2027-03-17 07:45:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Leonel Eriel
+
+----
+
+Tags: Berufliche Orientierung
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: ryuxf4jbvahowoqn

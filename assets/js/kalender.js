@@ -93,7 +93,7 @@
       location: props.location || event.location || '',
       description: props.description || event.description || '',
       organizer: props.organizer || event.organizer || '',
-      url: event.url || '',
+      url: props.link || '',
     };
   }
 
@@ -162,102 +162,12 @@
     });
   }
 
-  function initPageCalendar(selector, config) {
-    const element = getElement(selector);
-    if (!element || !window.FullCalendar) return null;
-
+  // Optionen für FullCalendar: Klick auf einen Termin öffnet das Detailfenster.
+  // Verwendung: new FullCalendar.Calendar(el, { ...KgsCalendar.detailsBeiKlick(), ... })
+  function detailsBeiKlick() {
     bindModal();
 
-    const calendar = new FullCalendar.Calendar(element, {
-      locale: 'de',
-      themeSystem: 'classic',
-      initialView: 'dayGridMonth',
-      height: 'auto',
-      headerToolbar: {
-        left: 'prev,next today',
-        center: 'title',
-        right: 'dayGridMonth,timeGridWeek,timeGridDay',
-      },
-      buttonText: {
-        today: 'Heute',
-        month: 'Monat',
-        week: 'Woche',
-        day: 'Tag',
-      },
-      hiddenDays: [0, 6],
-      firstDay: 1,
-      navLinks: true,
-      editable: false,
-      handleWindowResize: true,
-      nowIndicator: true,
-      slotMinTime: '07:00:00',
-      slotMaxTime: '20:00:00',
-      weekNumbers: true,
-      allDayText: 'ganztägig',
-      noEventsContent: 'Keine Ereignisse anzuzeigen',
-      displayEventTime: false,
-      events: {
-        url: config.url,
-        format: 'ics',
-      },
-      loading(isLoading) {
-        setVisible(config.loadingSelector, isLoading);
-      },
-      eventSourceFailure() {
-        setVisible(config.errorSelector, true);
-      },
-      eventClassNames(arg) {
-        return ['kgs-calendar-clickable'];
-      },
-      eventClick(info) {
-        info.jsEvent.preventDefault();
-        openEventDetails(info.event);
-      },
-    });
-
-    calendar.render();
-    return calendar;
-  }
-
-  function initHomepageCalendar(selector, config) {
-    const element = getElement(selector);
-    if (!element || !window.FullCalendar) return null;
-
-    bindModal();
-
-    const calendar = new FullCalendar.Calendar(element, {
-      locale: 'de',
-      height: 'auto',
-      initialView: 'zweiWochen',
-      headerToolbar: {
-        left: '',
-        center: 'title',
-        right: '',
-      },
-      views: {
-        zweiWochen: {
-          type: 'listWeek',
-          duration: {
-            days: 14,
-          },
-        },
-      },
-      stickyHeaderDates: false,
-      firstDay: 1,
-      hiddenDays: [0, 6],
-      allDayText: 'ganztägig',
-      noEventsContent: 'Keine Ereignisse anzuzeigen',
-      displayEventTime: true,
-      events: {
-        url: config.url,
-        format: 'ics',
-      },
-      loading(isLoading) {
-        setVisible(config.loadingSelector, isLoading);
-      },
-      eventSourceFailure() {
-        setVisible(config.errorSelector, true);
-      },
+    return {
       eventClassNames() {
         return ['kgs-calendar-clickable'];
       },
@@ -265,15 +175,11 @@
         info.jsEvent.preventDefault();
         openEventDetails(info.event);
       },
-    });
-
-    calendar.render();
-    return calendar;
+    };
   }
 
   window.KgsCalendar = {
-    initPageCalendar,
-    initHomepageCalendar,
+    detailsBeiKlick,
     openEventDetails,
     closeEventDetails,
   };

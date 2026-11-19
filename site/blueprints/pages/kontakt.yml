@@ -3,7 +3,7 @@ icon: 📖
 
 options:
   update:
-    *: false
+    '*': false
     admin: true
     nilepe: true
 

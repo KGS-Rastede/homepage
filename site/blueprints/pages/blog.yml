@@ -4,15 +4,15 @@ icon: 📖
 
 options:
   update:
-    *: false
+    '*': false
     fachleiter: true
     admin: true
   pages:
-    *: false
+    '*': false
     fachleiter: true
     admin: true
   files:
-    *: false
+    '*': false
     fachleiter: true
     admin: true
 
@@ -64,7 +64,6 @@ columns:
     sticky: true
     sections:
       meta:
-        meta:
         type: fields
         fields:
           date:

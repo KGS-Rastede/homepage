@@ -1,0 +1,13 @@
+Anzeigename: 
+
+----
+
+Beschreibung: 
+
+----
+
+Uuid: nikarhbq1sribtij
+
+----
+
+Template: datei

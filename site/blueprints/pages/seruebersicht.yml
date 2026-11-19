@@ -1,16 +1,21 @@
 title: Schulelternrat-Übersicht
-
-options:
-  update:
-    *: false
-    ser: true
-
-preset: pages
 icon: 📜
+
 options:
   url: false
   status: false
   delete: false
 
-unlisted:
-  headline: Unterseiten
+sections:
+  drafts:
+    type: pages
+    label: Entwürfe
+    status: drafts
+  unlisted:
+    type: pages
+    label: Unterseiten
+    status: unlisted
+  listed:
+    type: pages
+    label: Veröffentlicht
+    status: listed

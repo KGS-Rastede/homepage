@@ -1,0 +1,24 @@
+title: Sprechtag-Monitor
+
+options:
+  delete: false
+  changeSlug: false
+  changeTemplate: false
+  duplicate: false
+
+sections:
+  info:
+    type: fields
+    fields:
+      hinweis:
+        type: info
+        text: "Aktive Ansicht mit Suche: <code>/sprechtag</code>. Monitoransicht ohne Suche: <code>/sprechtag?ansicht=monitor</code>. CSV-Datei mit den Spalten <code>Kürzel;Anrede;Nachname;Raum</code> hochladen, auswählen und speichern. Ohne Auswahl wird <code>sprechtagdaten.csv</code> verwendet."
+      sprechtagDatum:
+        label: Datum des Sprechtags (optional, für die Monitoransicht)
+        type: date
+      csvDatei:
+        label: Sprechtag-Daten (CSV)
+        type: files
+        multiple: false
+        query: page.files.filterBy('extension', 'csv')
+        uploads: sprechtag

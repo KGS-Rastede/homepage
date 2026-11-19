@@ -1,6 +1,16 @@
 title: Kontaktübersicht
-preset: pages
 icon: account
 
-unlisted:
-  headline: Kontaktgruppen
+sections:
+  drafts:
+    type: pages
+    label: Entwürfe
+    status: drafts
+  unlisted:
+    type: pages
+    label: Kontaktgruppen
+    status: unlisted
+  listed:
+    type: pages
+    label: Veröffentlicht
+    status: listed

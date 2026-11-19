@@ -8,21 +8,21 @@ options:
   changeTemplate: false
   duplicate: false
   read:
-    *: false
+    '*': false
     admin: true
     schulleitung: true
   update:
-    *: false
+    '*': false
     admin: true
     schulleitung: true
 
 sections:
-  info:
+  inhalt:
     type: fields
     fields:
       hinweis:
         type: info
-        text: "Die URL für Info-Monitore lautet: <code>/countdown</code>"
+        text: "Monitor-Seite: <code>/countdown</code> · Daten als JSON: <code>/countdown.json</code>"
 
   monitor:
     type: fields
@@ -49,7 +49,8 @@ sections:
         when:
           infotextaktiv: true
 
-  countdowns:
+  # Section bewusst nicht "countdowns" nennen, sonst kollidiert sie mit dem Feld
+  liste:
     type: fields
     fields:
       countdowns:

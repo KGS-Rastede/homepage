@@ -1,0 +1,37 @@
+Title: KGS erhält Förderpreis "DLRG & Schule"
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://zffliavu2pijjvos"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","orientation":""},"id":"6d175cdb-6ccb-4d42-9a83-0b6be2b87c0b","isHidden":false,"type":"image"}],"id":"68343e89-c360-439d-a062-4ccc13d8affa","width":"1/1"}],"id":"8460f579-7593-4d39-a65a-284cd7cc9c6b"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Ein besonderer Anlass zur Freude: Die KGS Rastede wurde mit dem Förderpreis „DLRG &amp; Schule 2026“ ausgezeichnet. Die Preisverleihung fand am Samstag, den 7. November im Rahmen der Ressorttagung der DLRG in Niedersachsen im Hotel Park Soltau statt.Die Auszeichnung würdigt das große Engagement der KGS für die Schwimmförderung. In den vergangenen Schuljahren konnten <strong>im Durchschnitt mehr als 50 Schülerinnen und Schüler pro Schuljahr</strong>, vor allem aus den Jahrgängen 5 und 6, <strong>an der Schule das Bronze-Abzeichen erwerben</strong>. </p><p>Schwimmen zu lernen bedeutet weit mehr, als ein Abzeichen zu erreichen. Schwimmen zu können ist eine wichtige Voraussetzung für Sicherheit und Überleben im Wasser. Es ermöglicht Kindern und Jugendlichen außerdem, an vielen Aktivitäten rund ums Wasser teilzunehmen, und leistet damit einen wichtigen Beitrag zur kulturellen und gesellschaftlichen Teilhabe.</p><p>Als Schule haben wir die besondere Möglichkeit und Verantwortung, jedem Kind unabhängig von seinen individuellen Voraussetzungen den Zugang zum Schwimmenlernen zu ermöglichen. Wir möchten nicht, dass Schwimmfähigkeit vom Elternhaus, finanziellen Möglichkeiten oder außerschulischen Angeboten abhängt. Vielmehr soll jedes Kind die Chance erhalten, Sicherheit im Wasser zu gewinnen und schwimmen zu lernen, denn nur die Schule erreicht alle Kinder. Dabei verstehen wir uns als wichtigen Baustein eines gemeinsamen Angebots, das durch Familien, Vereine und weitere Partner ergänzt und unterstützt wird.</p><p>Im Bronzekurs entwickeln die Schülerinnen und Schüler ihre Fähigkeiten weiter, gewinnen zunehmend Sicherheit und lernen, Herausforderungen, Risiken und eigene Grenzen besser einzuschätzen. Dabei erleben sie, was sie selbst erreichen können, und erfahren, wie sie sich persönlich weiterentwickeln. Zugleich wird der KGS-Gedanke gelebt: Schülerinnen und Schüler helfen, unterstützen und ermutigen einander, auch über unterschiedliche Lernstände und Jahrgänge hinweg. Gemeinsam lernen, gemeinsam wachsen und gemeinsam Erfolge erleben – KGS@ its best!</p><p>Die Förderung erfordert eine enge Begleitung und individuelle Unterstützung, damit auf dieunterschiedlichen Voraussetzungen der Teilnehmenden eingegangen werden kann. Die guten Rahmenbedingungen und die Unterstützung vor Ort tragen wesentlich dazu bei, dieses Angebot zu ermöglichen und möglichst vielen Kindern den Weg zu mehr Sicherheit im Wasser zu eröffnen.</p><p>Wir freuen uns über die Auszeichnung und bedanken uns bei allen, die die Schwimmförderung mittragen. Ein besonderer Dank gilt dabei der Schulleitung, der Gemeinde und dem Schwimmbad-Team von Olaf zur Loye, die unser Engagement unterstützen und wesentlich dazu beitragen, dass dieses Angebot umgesetzt werden kann.</p><p><strong>Herzlichen Dank dafür!</strong></p><p><em>Der Fachbereich Sport (KGS Rastede)</em></p>"},"id":"273a170b-150b-45dc-87a2-55ec5b708718","isHidden":false,"type":"text"}],"id":"bdd408cf-cf66-4ed9-ba64-472278ce0e60","width":"1/1"}],"id":"97655c58-555e-4b55-9b07-c5986bc1ca26"}]
+
+----
+
+Date: 2026-11-16 10:30:00
+
+----
+
+Datumstartseite: 2027-03-16 10:30:00
+
+----
+
+Togglestartseite: false
+
+----
+
+Author: Sascha Baumgarten
+
+----
+
+Tags: Sport
+
+----
+
+Description: 
+
+----
+
+Downloads: 
+
+----
+
+Uuid: idmj9nipj4agss7z

@@ -93,7 +93,7 @@ class StudyGroupImage
     }
 }
 
-class ArbeitsgemeinschaftPage extends Page
+class ArbeitsgemeinschaftPage extends \Kgs\Bereichsrechte\BereichsPage
 {
     public function images(): Files
     {
