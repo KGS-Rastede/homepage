@@ -8,8 +8,6 @@ options:
     admin: true
 
 sections:
-
-sections:
   knoepfe:
     type: fields
     fields:
