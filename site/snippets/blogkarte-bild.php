@@ -38,7 +38,7 @@ if (
     ->first()
 ) {
   // Erstes Karousel als Block
-  $blogCardImage = $block->karousel()->first()->toFile();
+  $blogCardImage = $block->karousel()->toFile();
 } elseif ($image = $subpage->gallery()->toFile()) {
   // Bei alten Artikeln gibt es eine gallery, die nicht im Block ist
   $blogCardImage = $image;

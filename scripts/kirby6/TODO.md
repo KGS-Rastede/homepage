@@ -63,7 +63,7 @@ unter <https://getkirby.com/releases/6>.
       ist live `intern`) oder eine User-Method im Bereichsrechte-Plugin,
       damit `kgs.bereichsrechte` die einzige Quelle bleibt.
 
-- [ ] **Blogkarten:** `site/snippets/blogkarte-bild.php:41` ruft
+- [x] **Blogkarten:** `site/snippets/blogkarte-bild.php:41` ruft
       `$block->karousel()->first()` auf. Die Field-Method `first` gibt es
       nicht, Kirby 5 hat das ignoriert, Kirby 6 bricht ab. Folge: Status 500
       auf `/blogs/page:28` und den Tag-Filtern Ukraine, Sofa-Team,
