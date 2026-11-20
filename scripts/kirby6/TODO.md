@@ -53,7 +53,7 @@ unter <https://getkirby.com/releases/6>.
 
 ## Befunde des Smoke-Tests (20.11.2026)
 
-- [ ] **Panel-Startseite der Rollen greift nicht** (Panel-Smoke-Test,
+- [x] **Panel-Startseite der Rollen greift nicht** (behoben mit User-Method `bereichsHome`) (Panel-Smoke-Test,
       auch unter Kirby 5 so): Die Option `panel.home` in `config.php`
       gibt es in Kirby nicht, Kirby liest die Startseite nur aus `home:`
       im Benutzer-Blueprint. Eingeschränkte Rollen landen daher auf
