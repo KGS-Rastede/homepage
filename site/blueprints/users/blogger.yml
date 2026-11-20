@@ -1,5 +1,7 @@
 title: Blogger
 description: Blogger dürfen nur Blogartikel veröffentlichen und bearbeiten
+# Startseite im Panel: erster Bereich aus kgs.bereichsrechte (config.php)
+home: "{{ user.bereichsHome }}"
 
 permissions:
   access:

@@ -56,9 +56,10 @@ return array_merge($secrets, [
 
         'css' => 'assets/css/custom-panel.css',
 
-        // Startseite und Menü eingeschränkter Rollen ergeben sich aus
-        // kgs.bereichsrechte (siehe unten), alle anderen bekommen das volle Panel.
-        'home' => fn () => Kgs\Bereichsrechte\Bereiche::panelHome() ?? 'site',
+        // Menü eingeschränkter Rollen ergibt sich aus kgs.bereichsrechte
+        // (siehe unten), alle anderen bekommen das volle Panel. Die
+        // Startseite steht als `home: "{{ user.bereichsHome }}"` in den
+        // Blueprints der Rollen, Kirby liest sie nur von dort.
 
         // Persönliche Lesezeichen (im eigenen Konto) gibt es für alle Rollen.
         'menu' => fn () => [

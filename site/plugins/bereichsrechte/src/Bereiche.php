@@ -5,6 +5,7 @@ namespace Kgs\Bereichsrechte;
 use Kirby\Cms\App;
 use Kirby\Cms\Page;
 use Kirby\Cms\Site;
+use Kirby\Cms\User;
 
 /**
  * Bereichsrechte: Eingeschränkte Rollen dürfen im Panel nur bestimmte
@@ -38,12 +39,16 @@ class Bereiche
     }
 
     /**
-     * Startseite der aktuellen Rolle im Panel (erster Bereich),
-     * oder null, wenn die Rolle nicht eingeschränkt ist.
+     * Startseite der Rolle im Panel (erster Bereich) als Panel-Pfad,
+     * z. B. `pages/blogs`, oder null, wenn die Rolle nicht eingeschränkt
+     * ist. Ohne Argument gilt der aktuell eingeloggte Benutzer.
+     *
+     * Kirby liest die Startseite aus `home:` im Benutzer-Blueprint, dort
+     * steht `{{ user.bereichsHome }}` (User-Method aus index.php).
      */
-    public static function panelHome(): string|null
+    public static function panelHome(User|null $user = null): string|null
     {
-        $roots = static::configured();
+        $roots = static::configured($user);
 
         if ($roots === null || $roots === []) {
             return null;
@@ -84,15 +89,16 @@ class Bereiche
     }
 
     /**
-     * Bereiche der aktuellen Rolle so, wie sie in der Config stehen,
-     * oder null, wenn niemand eingeloggt oder die Rolle nicht eingeschränkt ist.
+     * Bereiche der Rolle so, wie sie in der Config stehen, oder null, wenn
+     * niemand eingeloggt oder die Rolle nicht eingeschränkt ist.
+     * Ohne Argument gilt der aktuell eingeloggte Benutzer.
      *
      * @return string[]|null
      */
-    protected static function configured(): array|null
+    protected static function configured(User|null $user = null): array|null
     {
         $kirby = App::instance();
-        $user  = $kirby->user();
+        $user ??= $kirby->user();
 
         // Besucher ohne Login: Kirbys normale Regeln gelten
         if ($user === null) {
