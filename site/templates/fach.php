@@ -3,7 +3,7 @@ slot();
 ?>
 
 
-<?= $page->text()->toBlocks() ?>
+<?php snippet('inhalt'); ?>
 
 <?php snippet('sidebar'); ?>
 <?php snippet('related-blogs', [
