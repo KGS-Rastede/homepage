@@ -1,6 +1,6 @@
 # Umstieg auf Kirby 6
 
-Stand: 16.11.2026, Kirby 6 Beta 4. Portiert wird mit RC 1.
+Stand: 20.11.2026, Branch `kirby6port` läuft mit Kirby 6.0.0-rc.2.
 Quellen: Migrationsseiten für Site- und Plugin-Entwickler und das Changelog
 unter <https://getkirby.com/releases/6>.
 
@@ -37,23 +37,47 @@ unter <https://getkirby.com/releases/6>.
       `panel.menu` werden aus `kgs.bereichsrechte` abgeleitet (erster
       Bereich = Startseite, Reihenfolge = Menü). Bezeichnung und Icon stehen
       einmal pro Bereich in `kgs.bereiche`.
-- [ ] **Smoke-Test-Skript** (`scripts/kirby6/smoke-test.php`): alle Seiten
-      lokal rendern und Exceptions oder Statuscodes ungleich 200 melden.
-      Damit lässt sich jetzt ein Referenzstand festhalten und nach dem
-      Umstieg vergleichen. Wichtig ist das wegen dieser Änderung in
-      Kirby 6: Unbekannte Field-Methods werfen eine `BadMethodCallException`,
-      statt still das Feld zurückzugeben.
+- [x] **Smoke-Test-Skript** (`scripts/kirby6/smoke-test.php`, Aufruf und
+      Optionen im Kopf der Datei). Prüft Frontend inkl. aller Links,
+      Panel-Ansichten aller Seiten/Dateien/Vorlagen und die Bereichsrechte
+      jeder Rolle, optional Vergleich mit einer Kirby-5-Referenz. Läuft auf
+      einer Kopie des Projekts, weil Kirby beim Prüfen UUIDs in den
+      Content schreibt.
 - [ ] Optional: Bei unerlaubtem Panel-Zugriff wieder auf die Startseite der
       Rolle weiterleiten. Das hat der alte Hook gemacht, das Plugin macht es
       nicht.
 
-## Beim Umstieg (RC 1)
+## Befunde des Smoke-Tests (20.11.2026)
 
-- [ ] Auf einer Kopie arbeiten, mit Backup von `content/`.
-- [ ] `composer require getkirby/cms:6.0.0-rc.1`
-- [ ] Changelog von RC 1 gegen diese Liste prüfen.
-- [ ] `php scripts/kirby6/content-check.php` und bei Bedarf
-      `php scripts/kirby6/content-fix.php` ausführen.
+- [ ] **Blogkarten:** `site/snippets/blogkarte-bild.php:41` ruft
+      `$block->karousel()->first()` auf. Die Field-Method `first` gibt es
+      nicht, Kirby 5 hat das ignoriert, Kirby 6 bricht ab. Folge: Status 500
+      auf `/blogs/page:28` und den Tag-Filtern Ukraine, Sofa-Team,
+      Schülerfirmen, Demokratiebildung u. a. Ersatz: `->toFile()`.
+- [ ] **Content-Fix nötig, betrifft mehr als gedacht:** `content-check.php`
+      hat Picker-Felder (`pages`, `files`, `users`) bisher nicht geprüft.
+      Mit Kirby 6 bekommen lange IDs in `- >`-Blöcken einen Zeilenumbruch
+      und werden nicht mehr gefunden. 19 Felder in 18 Dateien, sichtbar z. B.
+      bei GSW (Erdkunde, Geschichte, Religion fehlen), Englisch (Lehrplan)
+      und Schulsport (NWZ-Artikel). `content-fix.php` behebt alle.
+- [ ] **Block „Tabelle“ ist im Panel kaputt** (auch schon unter Kirby 5):
+      `site/blueprints/blocks/tabelle.yml` nutzt `type: table` aus dem
+      Plugin `table-field`, das im November 2024 gelöscht wurde
+      (`e86d6e80`). Es gibt auch kein Snippet `blocks/tabelle.php`.
+      Genutzt wird der Block einmal: `2_Faecher/.../kunst/fach.txt`
+      („Kunstarten“). Entscheiden: Plugin zurück, durch Structure ersetzen
+      oder Block entfernen.
+- [ ] Tote interne Links, mit `-v` alle anzeigen. Darunter steht
+      `herausforderungsprojekt-2026` (auf fast jeder Seite verlinkt, aber 404)
+      und ein toter `/@/file/…`-Permalink im Hallenplan-Blog.
+
+## Beim Umstieg
+
+- [ ] Auf die stabile 6.0.0 warten und ihr Changelog gegen diese Liste prüfen.
+- [x] PHP 8.5 auf dem IONOS-Server: ist umgestellt.
+- [ ] Content frisch vom Server holen, `php scripts/kirby6/content-check.php`
+      und `php scripts/kirby6/content-fix.php --write` ausführen, geänderte
+      Dateien sofort hochladen.
 - [ ] **Picker-Felder umbenennen:** In 63 Fällen `type: pages`, `files` bzw.
       `users` ersetzen durch `pagepicker`, `filepicker` bzw. `userpicker`.
       Die alten Namen sind veraltet. Die neuen Namen kennt Kirby 5 nicht,
@@ -63,7 +87,7 @@ unter <https://getkirby.com/releases/6>.
       konvertiert. Später gezielt umschreiben: `pagelist` bzw. `filelist`
       statt `pages`/`files`, `label` statt `headline`, Felder aus
       `type: fields`-Sections direkt in die Spalte bzw. den Tab.
-- [ ] **Bereichsrechte-Plugin auf Guards umstellen:**
+- [x] **Bereichsrechte-Plugin auf Guards umstellen** (`de887258`):
       `$model->permissions()` und `PagePermissions` sind veraltet,
       der Ersatz ist `$model->guards()`. Mit RC 1 nachsehen, wie man Guards
       in einem Page-Model überschreibt. Prüfen, ob sich `isAccessible()`
@@ -75,11 +99,14 @@ unter <https://getkirby.com/releases/6>.
       Einstellung bleibt also. Lokal bleibt die Option weg. Dann ist die
       2FA lokal optional, d. h. jeder Benutzer kann selbst einen zweiten
       Faktor einrichten. So soll es sein, weil man die 2FA damit lokal
-      testen kann. Danach entscheiden, ob Passkeys
-      (`webauthn`) in `auth.methods` aufgenommen werden. Sie brauchen HTTPS.
+      testen kann.
+- [ ] **Passkeys** (`webauthn` in `auth.methods`) einführen: gewünscht,
+      viele im Kollegium nutzen macOS (Touch ID, iCloud-Schlüsselbund).
+      Brauchen HTTPS, lokal also mit Herd-TLS testen.
 - [ ] Redaktion vorwarnen: Kirby 6 signiert Cookies neu, deshalb müssen sich
       alle einmal neu anmelden. Login geht nur noch per E-Mail-Adresse.
-- [ ] Smoke-Test laufen lassen und mit dem Referenzstand vergleichen.
+- [ ] Smoke-Test laufen lassen, vorher eine Kirby-5-Referenz speichern
+      (Anleitung im Kopf von `smoke-test.php`).
 - [ ] AG-Model prüfen: `Mime::toExtension()` und das Abrufen der
       AG-Daten testen. `Mime` liefert jetzt IANA-Typen.
 - [ ] Blöcke im Panel durchklicken. Eigene Vue-Previews gibt es nicht,
