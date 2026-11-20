@@ -92,6 +92,11 @@ unter <https://getkirby.com/releases/6>.
       GitLab statt GitHub, Discord-Einladung, WAMP, `chmod 777`. Im
       Live-Panel auf Entwurf setzen oder löschen (nicht lokal, der Content
       wird live gepflegt).
+- [ ] **Lehrplan-PDFs aufräumen:** Die Lehrpläne sind aus Fach-Blueprint
+      und -Template entfernt. Die 38 PDFs (Dateivorlage `lehrplandatei`)
+      liegen aber noch in den Fach-Ordnern. Im Live-Panel löschen, wenn sie
+      nirgends mehr verlinkt sind (nicht lokal, der Content wird live
+      gepflegt).
 - [ ] **README aktualisieren** als Ersatz für den Beitrag: GitHub
       (`KGS-Rastede/homepage`), Herd statt WAMP, PHP 8.5, Kirby 6,
       Smoke-Test.
