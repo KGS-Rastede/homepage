@@ -1,157 +1,138 @@
-# Wie UNSERE Homepage runterladen
+# Homepage der KGS Rastede
 
-Kirby ist soweit vorbereitet. Der aktuelle Stand ist bei Git verfügbar. Dann könnt ihr den Code mit folgenden Befehlen runterladen:
+Die Homepage läuft mit dem CMS [Kirby 6](https://getkirby.com), das Design mit [TailwindCSS 4](https://tailwindcss.com). Eine Datenbank gibt es nicht: Kirby speichert alle Inhalte als Textdateien im Ordner `content/`.
 
-## Welche Software muss vorher installiert werden?
+Diese Anleitung beschreibt, wie ihr die Homepage auf eurem eigenen Rechner zum Laufen bringt, um daran mitzuarbeiten.
 
-- [composer](https://getcomposer.org/download/)
-- WebServer (WAMP, LAMP, XAMPP, etc) oder falls [VS Code](https://code.visualstudio.com/) benutzt wird, die Extension [PHP-Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
-- PHP 8 (mindestens PHP 8.5)
-- [Node.js](https://nodejs.org/) (für TailwindCSS und JS-Abhängigkeiten)
-- [git](https://git-scm.com/downloads)
-- Ein Editor wie Visual Studio Code oder ZED
+## Schnellstart
 
-_Weitere Details sind unten zu finden._
+### Das wird gebraucht
 
-Wenn alle der vorherigen Punkte erfüllt sind, kann der Code mit folgenden Befehlen in der Console heruntergeladen werden:
+- **PHP 8.5** und ein lokaler Webserver. Am einfachsten ist [Herd](https://herd.laravel.com) (macOS und Windows), das bringt PHP, Composer und den Webserver in einem Paket mit. Alternativen stehen [weiter unten](#lokaler-webserver).
+- [Composer](https://getcomposer.org/download/) (bei Herd schon dabei)
+- [Node.js](https://nodejs.org/) für TailwindCSS und die JavaScript-Bibliotheken
+- [Git](https://git-scm.com/downloads) und ein Account bei [GitHub](https://github.com)
+- ein Editor, z. B. [VS Code](https://code.visualstudio.com/) oder [Zed](https://zed.dev/)
+
+### Herunterladen und einrichten
 
 ```console
 git clone https://github.com/KGS-Rastede/homepage
 cd homepage
+
+composer install     # installiert Kirby (Ordner kirby/ und vendor/)
+npm install          # installiert TailwindCSS und die JS-Bibliotheken
+npm run copy         # kopiert die JS-Bibliotheken nach assets/vendor/
 ```
 
-Anschließend müsst ihr in Git konfigurieren (mit --global werden diese Login Daten für alle Git Projekte gespeichert).
+Falls Git euch noch nicht kennt, einmalig eure eigenen Daten eintragen:
 
 ```console
-git config --global user.name "Max Mustermann"
-git config --global user.email "max@mustermann.de"
+git config --global user.name "Vorname Nachname"
+git config --global user.email "eure@adresse.de"
 ```
 
-Aber Achtung, ihr müsst natürlich _eure Zugangsdaten_ eingeben, nicht die oben genannten.
+### Zugangsdaten (secrets.php)
 
-In Git fehlt ein Unterordner namens 'vendor'. Man muss noch den Befehl
+Ein paar Zugangsdaten stehen nicht in Git: der Schlüssel für den IServ-Kalender, der Mapbox-Token für Karten und der API-Key der AG-Wahl. Die Seite läuft auch ohne, nur Kalender, Karten und AG-Angebot bleiben dann leer.
 
 ```console
-composer install
+cp site/config/secrets.example.php site/config/secrets.php
 ```
 
-eingeben. Dieser Befehl läd fehlende Abhängkeiten nach. Das dauert ein paar Minuten.
+Die echten Werte bekommt ihr bei Bedarf von mir.
 
-Danach noch die JavaScript-Abhängigkeiten installieren und die Vendor-Dateien in den `assets/`-Ordner kopieren:
+### Starten
+
+Mit Herd: den Ordner `homepage` in Herd als Site hinzufügen (oder in einem von Herd überwachten Ordner ablegen). Die Seite ist dann z. B. unter `http://homepage.test` erreichbar.
+
+Ohne Herd geht es auch mit dem in PHP eingebauten Server:
 
 ```console
-npm install
-npm run copy
+php -S localhost:8000 kirby/router.php
 ```
 
-Wenn das abgeschlossen ist sollte man im 'localhost' die neue Seite sehen.
+Dann die Seite unter <http://localhost:8000> öffnen.
 
-# Probleme bei diesen Sachen?
+### Anmelden im Panel
 
-Kein Problem! Wir können uns entweder mal (z.B. in einer Mittagspause) treffen oder ich logge mich per TeamViewer aus der Ferne ein und helfe bei der Installation. Da finden wir Wege.
+Das Panel (die Redaktionsoberfläche) liegt lokal unter `/panel`, auf dem Live-Server unter `/intern`. Benutzerkonten stehen nicht in Git. Beim ersten Aufruf von `/panel` bietet Kirby daher an, ein Admin-Konto anzulegen. Das gilt nur für eure lokale Kopie.
 
----
+Lokal ist die Zwei-Faktor-Anmeldung aus, auf dem Live-Server ist sie Pflicht.
 
-# Hier noch einige Details und Hinweise zu den oben genannten Dingen...
+## Inhalte und Live-Server
 
-## Sinnvolle Software
+- Der Ordner `content/` ist in Git, damit ihr lokal echte Inhalte habt. **Gepflegt werden die Inhalte aber live im Panel.** Lokale Änderungen an `content/` werden nicht hochgeladen. Sie würden sonst Änderungen der Redaktion überschreiben.
+- Den aktuellen Stand einzelner Bereiche vom Server holen: `npm run pull-blog`, `pull-faecher`, `pull-unterricht`, `pull-kontakte`, `pull-presse`. Der Server ist nur per SFTP erreichbar, die Skripte benutzen dafür `lftp`. Zugang zum Server gibt es nur nach Absprache.
+- Code (Templates, Blueprints, Plugins, CSS) geht über GitHub: Branch anlegen, Änderungen committen, Pull Request stellen.
 
-### Editor
+## CSS und JavaScript
 
-- Als Editor eignet sich [VS Code](https://code.visualstudio.com/).
-- Unter Linux verwende ich schon immer [Vim](https://www.vim.org/), ein besserer Editor kann kaum existieren :-) Mit NeoVim exisitiert eine Variante, die etwas moderner ist.
-- Zurecht schwören viele auf [Sublime](https://www.sublimetext.com/)
-- [Notepad++](https://notepad-plus-plus.org/) ist ein einfacher zu beherschender Editor, der auf jeden Fall auch ok ist.
+Wir verwenden **TailwindCSS 4**. Eine `tailwind.config.js` gibt es nicht mehr, die Konfiguration steht direkt in `assets/css/tailwind.css`. Tailwind durchsucht den Ordner `site/` nach benutzten Klassen. Klassen müssen deshalb im Code vollständig ausgeschrieben sein (`md:col-span-8`, nicht `md:col-span-<?= $n ?>`).
 
-### Quellcode verwalten
+Gebaut werden zwei Dateien:
 
-Um den Quellcode zu verwalten braucht man [Git](https://git-scm.com/). Das kann man einfach installieren, Visual Code kann das dann direkt benutzen. Man (jedenfalls ich) benutzt Git direkt aus VS Code heraus. Auch andere sehr gute Editoren (Vim, Sublime, ...) unterstüzten Git direkt, denn Git ist ein Standard geworden. Jeder benutzt es.
+- `assets/css/twkgs_shrinked.css`: lesbar, wird lokal benutzt (Debug-Modus) und ist in Git
+- `assets/css/twkgs_shrinked.min.css`: minifiziert, wird auf dem Live-Server benutzt, ist nicht in Git
 
-# WebServer (Kurzfassung: Unter Windows WAMP oder Herd installieren!)
-
-Nginx ist heutzutage von vielen bevorzugt. Apache ist natürlich genauso gut. Wir brauchen _keinen MySQL-Server_ (oder irgendeinen anderen Datenbankserver), denn Kirby nutzt intern kein SQL.
-
-## Windows
-
-Windows ist sicherlich nicht direkt für Entwickler erstellt worden. Mittlerweile ist aber Git auch unter Windows gut unterstützt und auch die WebServer laufen ganz gut.
-Ich verwende [Wamp64](http://www.wampserver.com/en/download-wampserver-64bits/). Im Wesentlichen muss man dann alles installieren (MySQL gerne weglassen).
-
-## PHP (muss eigentlich nicht direkt installiert werden, kommt mit dem Webserver)
-
-Kirby 5 setzt technisch gesehen PHP 8.2 voraus, dieses Projekt verlangt aber mindestens PHP 8.5.
-
-Man muss PHP aber nicht direkt installieren, denn PHP kommt als Teil vom Wamp64 mit.
-
-Gegebenfalls muss man aber noch den Pfad ("PATH") unter Windows einrichten. Das folgende Video zeigt, wie das geht. Der korrekte Pfad ist bei meiner Installation:
-
-Über den folgenden Link kann das Video aufgerufen werden: https://youtu.be/83SccoBYSfA?t=80
-
-## DDEV
-
-Ein sehr gute Methode ist [DDEV](https://getkirby.com/docs/cookbook/development-deployment/ddev) mit Docker. Dann muss man weder MAMP noch WAMP etc installieren, alle Pakete sind aktuell. Die Anleitung von Kirby funktioniert super.
-
-```bash
-ddev config --php-version=8.5 --omit-containers=db
-```
-
-zum Reparieren hat schonmal geholfen:
-
-```bash
-sudo launchctl stop com.docker.vmnetd
-sudo launchctl unload /Library/LaunchDaemons/com.docker.vmnetd.plist
-sudo launchctl load /Library/LaunchDaemons/com.docker.vmnetd.plist
-sudo launchctl start com.docker.vmnetd
-```
-
-# Git
-
-Die Homepage wird mit Git verwaltet werden. Jeder, der mitmachen möchte, sollte also einen Account bei Github haben. Bitte geh also auf [Github](https://github.com/KGS-Rastede/homepage/) und lege einen Account an
-
-# CSS
-
-Wir müssen natürlich CSS verwenden. [TailwindCSS](https://tailwindcss.com) ist ein sinnvolles, bekanntes System.
-Wir haben uns daher für TailwindCSS entschieden. Gute Dokumentation, Anleitungen ohne Ende...
-
-Wir verwenden **TailwindCSS v4**. Im Vergleich zu älteren Versionen gibt es kein `tailwind.config.js` mehr — die Konfiguration erfolgt direkt in der CSS-Datei `assets/css/tailwind.css`.
-
-## npm-Scripts
+### npm-Befehle
 
 | Befehl | Wann |
 | --- | --- |
-| `npm run copy` | Einmalig nach `npm install` — kopiert Vendor-Dateien nach `assets/vendor/` |
-| `npm run clean` | Löscht `node_modules/`, `vendor/` und `assets/vendor/` für einen sauberen Neustart |
-| `npm run dev` | Beim Entwickeln — TailwindCSS wird automatisch neu gebaut |
-| `npm run build` | CSS einmalig bauen (ohne Minify) |
-| `npm run build:prod` | Vor dem Deploy — CSS minifiziert bauen |
-| `npm run format` | PHP-Dateien mit Prettier formatieren |
-| `npm run format:check` | Prettier-Prüfung ohne Änderungen (z.B. für CI) |
-| `npm run farben` | Zählt alle verwendeten Tailwind-Farbklassen, gruppiert nach Basisfarbe — hilft, Farb-Wildwuchs (z.B. 10 Stufen Slate) zu erkennen |
+| `npm run copy` | einmalig nach `npm install`: kopiert die JS-Bibliotheken nach `assets/vendor/` |
+| `npm run dev` | beim Entwickeln: baut das CSS bei jeder Änderung automatisch neu |
+| `npm run build` | baut beide CSS-Dateien einmal (lesbar und minifiziert) |
+| `npm run build:prod` | baut nur die minifizierte Datei für den Live-Server |
+| `npm run format` | formatiert die PHP-Dateien in `site/` mit Prettier |
+| `npm run format:check` | prüft die Formatierung, ohne etwas zu ändern |
+| `npm run farben` | zählt die benutzten Tailwind-Farbklassen, um Farb-Wildwuchs zu erkennen |
+| `npm run clean` | löscht `node_modules/`, `vendor/` und `assets/vendor/` für einen sauberen Neustart |
 
-Typischer Workflow nach einem sauberen Checkout:
+### JavaScript-Bibliotheken
 
-```console
-composer install
-npm install
-npm run copy
-npm run dev
-```
+Alle kommen über `npm install` und werden mit `npm run copy` nach `assets/vendor/` kopiert:
 
-Vor dem Deploy:
+- [AlpineJS](https://alpinejs.dev/) für interaktive Elemente (z. B. das mobile Menü)
+- [FullCalendar](https://fullcalendar.io/) für den Schulkalender
+- [Bootstrap Icons](https://icons.getbootstrap.com/) als Icon-Set
 
-```console
-npm run build:prod
-```
+## Vor dem Hochladen prüfen
 
-Sauberer Neustart (löscht alle installierten Abhängigkeiten):
+Zwei Skripte testen die ganze Seite automatisch, damit niemand jede Seite von Hand anklicken muss. Beide arbeiten auf einer Kopie des Projekts im Temp-Ordner und ändern nichts an euren Dateien.
 
 ```console
-npm run clean
+php scripts/kirby6/smoke-test.php          # Frontend, Links, Panel-Ansichten, Bereichsrechte (ca. 25 s)
+php scripts/kirby6/panel-smoke-test.php    # Panel über echten Login, pro Rolle (ca. 1 min)
 ```
 
-## JavaScript-Abhängigkeiten
+Mit `--hilfe` zeigen beide ihre Optionen. Gemeldet werden z. B. PHP-Fehler, kaputte Seiten, tote Links, Fehlerboxen im Panel und Seiten, die eine eingeschränkte Rolle nicht sehen dürfte.
 
-Das Projekt verwendet folgende JavaScript-Bibliotheken (alle über `npm install` installiert, per `npm run copy` nach `assets/vendor/` kopiert):
+## Wo was liegt
 
-- [AlpineJS](https://alpinejs.dev/) — leichtgewichtiges JS-Framework für interaktive Elemente
-- [FullCalendar](https://fullcalendar.io/) — Kalenderdarstellung (mit iCal-Unterstützung)
-- [Bootstrap Icons](https://icons.getbootstrap.com/) — Icon-Set
+| Ordner | Inhalt |
+| --- | --- |
+| `site/blueprints/` | Aufbau der Eingabemasken im Panel: Seiten (`pages/`), Blöcke (`blocks/`), wiederverwendbare Felder (`fields/`), Rollen (`users/`) |
+| `site/templates/` | PHP-Vorlagen für die Seiten. Vorlagen ohne eigene Datei benutzen `default.php`. |
+| `site/snippets/` | wiederverwendbare Teile, z. B. `inhalt.php` (Layout mit Spalten), `blocks/` für die Ausgabe der Blöcke |
+| `site/plugins/` | eigene Plugins: `bereichsrechte` (welche Rolle welche Seiten bearbeiten darf), `kalender` (IServ-Kalender) |
+| `site/config/` | `config.php` (lokal), `config.kgs-rastede.de.php` (zusätzlich auf dem Live-Server), `secrets.php` (nicht in Git) |
+| `assets/` | CSS, Schriften, Bilder, kopierte JS-Bibliotheken |
+| `scripts/` | Hilfsskripte, u. a. die Smoke-Tests in `scripts/kirby6/` |
+
+Die Kirby-Dokumentation ist sehr gut: <https://getkirby.com/docs>.
+
+## Lokaler Webserver
+
+**Herd** (empfohlen, macOS und Windows): bringt PHP 8.5, Composer und den Webserver mit, Einrichtung in wenigen Minuten. <https://herd.laravel.com>
+
+**PHP-Server**: `php -S localhost:8000 kirby/router.php` reicht zum Arbeiten völlig. Dafür muss PHP 8.5 installiert sein.
+
+**DDEV** mit Docker: alles läuft in Containern, nichts muss direkt installiert werden. Die [Anleitung von Kirby](https://getkirby.com/docs/cookbook/development-deployment/ddev) funktioniert gut. Eine Datenbank braucht Kirby nicht:
+
+```console
+ddev config --php-version=8.5 --omit-containers=db
+```
+
+## Probleme?
+
+Kein Problem! Meldet euch, dann treffen wir uns (z. B. in einer Mittagspause) und richten es zusammen ein.

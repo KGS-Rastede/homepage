@@ -97,7 +97,7 @@ unter <https://getkirby.com/releases/6>.
       liegen aber noch in den Fach-Ordnern. Im Live-Panel löschen, wenn sie
       nirgends mehr verlinkt sind (nicht lokal, der Content wird live
       gepflegt).
-- [ ] **README aktualisieren** als Ersatz für den Beitrag: GitHub
+- [x] **README aktualisieren** als Ersatz für den Beitrag: GitHub
       (`KGS-Rastede/homepage`), Herd statt WAMP, PHP 8.5, Kirby 6,
       Smoke-Test.
 
