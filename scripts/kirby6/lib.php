@@ -21,7 +21,13 @@ use Kirby\Data\YamlSymfony;
 use Kirby\Toolkit\A;
 use Symfony\Component\Yaml\Yaml as Symfony;
 
-const YAML_FIELD_TYPES = ['structure', 'object', 'blocks', 'layout'];
+// Auch Picker-Felder speichern eine YAML-Liste (`- >` bei langen IDs).
+// Kirby 6 normalisiert `type: pages` zu `pagepicker` usw., daher beide Namen.
+const YAML_FIELD_TYPES = [
+    'structure', 'object', 'blocks', 'layout',
+    'pages', 'files', 'users',
+    'pagepicker', 'filepicker', 'userpicker',
+];
 
 /**
  * Startet Kirby mit dem Projekt-Code, optional mit einem anderen content-Ordner
