@@ -43,11 +43,25 @@ unter <https://getkirby.com/releases/6>.
       jeder Rolle, optional Vergleich mit einer Kirby-5-Referenz. Läuft auf
       einer Kopie des Projekts, weil Kirby beim Prüfen UUIDs in den
       Content schreibt.
+- [x] **Panel-Smoke-Test** (`scripts/kirby6/panel-smoke-test.php`): meldet
+      Admin und jede Rolle über das echte Login an und ruft per HTTP alle
+      Ansichten, Dialoge, Dropdowns, Listen, Picker, Block-Formulare und
+      die Suche auf (ca. 24.000 Anfragen, 1 Minute; `--schnell` 20 s).
 - [ ] Optional: Bei unerlaubtem Panel-Zugriff wieder auf die Startseite der
       Rolle weiterleiten. Das hat der alte Hook gemacht, das Plugin macht es
       nicht.
 
 ## Befunde des Smoke-Tests (20.11.2026)
+
+- [ ] **Panel-Startseite der Rollen greift nicht** (Panel-Smoke-Test,
+      auch unter Kirby 5 so): Die Option `panel.home` in `config.php`
+      gibt es in Kirby nicht, Kirby liest die Startseite nur aus `home:`
+      im Benutzer-Blueprint. Eingeschränkte Rollen landen daher auf
+      `/panel/site`. `erasmus.yml` hat `home: pages/unterricht+erasmus`
+      ohne Panel-Pfad und leitet ins Frontend (404). Lösung z. B.:
+      `home: "{{ kirby.url('panel') }}/pages/blogs"` pro Rolle (Panel-Slug
+      ist live `intern`) oder eine User-Method im Bereichsrechte-Plugin,
+      damit `kgs.bereichsrechte` die einzige Quelle bleibt.
 
 - [ ] **Blogkarten:** `site/snippets/blogkarte-bild.php:41` ruft
       `$block->karousel()->first()` auf. Die Field-Method `first` gibt es
@@ -60,16 +74,27 @@ unter <https://getkirby.com/releases/6>.
       und werden nicht mehr gefunden. 19 Felder in 18 Dateien, sichtbar z. B.
       bei GSW (Erdkunde, Geschichte, Religion fehlen), Englisch (Lehrplan)
       und Schulsport (NWZ-Artikel). `content-fix.php` behebt alle.
-- [ ] **Block „Tabelle“ ist im Panel kaputt** (auch schon unter Kirby 5):
-      `site/blueprints/blocks/tabelle.yml` nutzt `type: table` aus dem
-      Plugin `table-field`, das im November 2024 gelöscht wurde
-      (`e86d6e80`). Es gibt auch kein Snippet `blocks/tabelle.php`.
-      Genutzt wird der Block einmal: `2_Faecher/.../kunst/fach.txt`
-      („Kunstarten“). Entscheiden: Plugin zurück, durch Structure ersetzen
-      oder Block entfernen.
+- [x] **Block „Tabelle“ entfernt.** Er brauchte das Plugin `table-field`,
+      das seit November 2024 gelöscht ist (`e86d6e80`). Dadurch gab es eine
+      Fehlerbox auf jeder Seite mit Blocks-Feld (435 Stellen). Ein Snippet
+      gab es auch nicht, die Tabelle war also im Frontend unsichtbar.
+      `tabelle.yml` ist gelöscht und aus den 9 Seiten-Blueprints entfernt.
+      Die einzige Nutzung („Kunstarten“, Kunst-Seite) ist jetzt ein
+      Markdown-Block mit Markdown-Tabelle (Markdown Extra ist an).
+      **Live:** Dort muss der Block auf der Kunst-Seite ebenfalls ersetzt
+      werden, sonst bleibt er ein unbekannter Block.
 - [ ] Tote interne Links, mit `-v` alle anzeigen. Darunter steht
       `herausforderungsprojekt-2026` (auf fast jeder Seite verlinkt, aber 404)
       und ein toter `/@/file/…`-Permalink im Hallenplan-Blog.
+
+- [ ] **Blogbeitrag „Einrichten der Homepage“** (`blogs/einrichten-der-homepage`,
+      2021, nicht gelistet, aber öffentlich erreichbar) ist komplett veraltet:
+      GitLab statt GitHub, Discord-Einladung, WAMP, `chmod 777`. Im
+      Live-Panel auf Entwurf setzen oder löschen (nicht lokal, der Content
+      wird live gepflegt).
+- [ ] **README aktualisieren** als Ersatz für den Beitrag: GitHub
+      (`KGS-Rastede/homepage`), Herd statt WAMP, PHP 8.5, Kirby 6,
+      Smoke-Test.
 
 ## Beim Umstieg
 
