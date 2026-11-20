@@ -17,7 +17,6 @@ fields:
       - markdown
       - audio
       - horizontale-linie
-      - tabelle
       - quote
       - karousel
       - pdfdatei

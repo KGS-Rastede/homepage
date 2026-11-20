@@ -32,7 +32,6 @@ columns:
               - markdown
               - audio
               - horizontale-linie
-              - tabelle
               - quote
               - karousel
               - accordion

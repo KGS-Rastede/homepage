@@ -40,7 +40,6 @@ columns:
               - markdown
               - audio
               - horizontale-linie
-              - tabelle
               - gastautor
               - highlightfeld
               - quote
