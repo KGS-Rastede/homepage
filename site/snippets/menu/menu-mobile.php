@@ -108,6 +108,7 @@
       ); ?>
       <?php slot('menuContent'); ?>
       <?php
+      $hfp = $site->aktuellesHerausforderungsprojekt();
       // prettier-ignore
       $menuItems = [
         ['pfad' => "/unterricht/ag-frieden", 'name' => "AG 'Für den Frieden'"],
@@ -119,7 +120,7 @@
         ['pfad' => "/unterricht/bo-coaches", 'name' => "BO-Coaches. Hilfe bei der Berufsorientierung"],
         ['pfad' => "/unterricht/wettbewerbe", 'name' => "Wettbewerbe"],
         ['pfad' => "/unterricht/ag-angebot", 'name' => "Arbeitsgemeinschaften"],
-        ['pfad' => "/unterricht/herausforderungsprojekt/herausforderungsprojekt-2026", 'name' => "Herausforderungsprojekt 2026"]
+        ['pfad' => '/' . ($hfp?->id() ?? 'unterricht/herausforderungsprojekt'), 'name' => $hfp?->title()->value() ?? 'Herausforderungsprojekt']
 
       ];
       snippet('menu/menu-mobile-category-column', [
