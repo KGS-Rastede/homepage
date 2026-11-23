@@ -17,7 +17,7 @@ Set [x-cloak] as display: none !important;
 
 -->
 
-  <div x-data="{ selected: null }" class="border border-slate-200 rounded-lg" class="p-3">
+  <div x-data="{ selected: null }" class="border border-slate-200 rounded-lg">
     <!-- The accordion items -->
     <div class="[&>*]:border-b [&>*]:border-b-slate-200 last:[&>*]:border-b-0">
       <?php $accordion = $acc->first();
@@ -29,7 +29,7 @@ Set [x-cloak] as display: none !important;
         <button @click="selected !== 1 ? selected = 1 : selected = null"
           class="w-full flex justify-between items-center p-3 ">
           <!-- The title of the accordion item -->
-          <h3 class="text-sm font-semibold">
+          <h3 class="font-semibold">
             <?= $accordion
               ->accordionheading()
               ->or('Hier fehlt noch eine Überschrift') ?>
