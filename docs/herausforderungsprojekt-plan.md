@@ -11,6 +11,23 @@ Das HFP-Modul besteht heute aus drei Blueprints und drei Templates ohne eigene L
 
 Entscheidungen aus der Rückfrage: Pflege bleibt beim HFP-Team im Panel; Koordinaten per Kartenklick/Ortssuche; erster Ausbau = Jahreskarte aller Gruppen + neue Startseite mit Archiv; 2022–2025 werden migriert.
 
+Präzisierung aus der zweiten Runde:
+
+| Frage | Entscheidung |
+| --- | --- |
+| Projektarten | Gemischt: Touren und ortsfeste Projekte. Die Karte ist optional. |
+| Routenpflege | Stationen werden täglich nachgetragen (keine Vorab-Planung der Etappen). |
+| Tagesablauf | Zentrale Tagesmaske im Jahr statt 14–24 Gruppenseiten einzeln. |
+| Gerät | Handy und PC gleich wichtig, mehrere Lehrkräfte parallel. |
+| Sichtbarkeit | Stationen und Fotos sind sofort öffentlich, wie bisher. |
+| Edumaps | Noch unklar, vermutlich bleibt Edumaps für die Tagesfotos. Die Homepage muss beides können. |
+| Steckbrief | Nur Ziel/Motto. Keine Mitglieder, Begleitpersonen oder festen Start-/Zielorte. |
+| Neues Jahr | Standardtext übernehmen; Startseite schaltet automatisch um, Vorjahr wandert ins Archiv. |
+| Startseite | Konzepttext zuerst (Erklärseite für Eltern), aktuelles Jahr und Archiv darunter. |
+| Jahreskarte | Jede Gruppe als Linie in Teamfarbe, Teamlogo am letzten Standort. |
+| Fotos | Raster mit Großansicht (Blättern, Ort, Beschreibung). |
+| Archiv | Abgeschlossene Jahre sehen aus wie das aktuelle Jahr, nur mit Status *Abgeschlossen*. |
+
 Ziel: ein eigenes Plugin `site/plugins/hfp` (Muster wie `bereichsrechte`/`kalender`), das Datenmodell, Panel-Komfort und Karten bündelt. Feldnamen bleiben wo möglich gleich, damit die Migration klein bleibt.
 
 ## Datenmodell
@@ -21,9 +38,11 @@ Seitenstruktur bleibt: `unterricht/herausforderungsprojekt` → Jahr → Gruppe.
 Status wird berechnet, nicht gepflegt: *Planung* (vor `start`), *Unterwegs*, *Abgeschlossen*.
 
 **Gruppe** (`herausforderungsprojekt-gruppenansicht`), in Tabs:
-- *Steckbrief*: `kurzname` (bleibt, ohne Mindestlänge 10), `teamlogo` (bleibt, nicht mehr Pflicht), `teamfarbe` (neu als `color`-Feld mit 8 festen Hex-Optionen), `text` (Blocks, ohne `koordinate`/`reiseroute`)
+- *Steckbrief*: `kurzname` (bleibt, ohne Mindestlänge 10), `motto` (neu, ein Satz, erscheint auch auf der Kachel der Jahresübersicht), `extern_link` + `extern_label` (neu, z. B. Edumaps; wird als Button „Tagesfotos ansehen“ gezeigt), `teamlogo` (bleibt, nicht mehr Pflicht), `teamfarbe` (neu als `color`-Feld mit 8 festen Hex-Optionen), `text` (Blocks, ohne `koordinate`/`reiseroute`)
 - *Route*: `stationen` (structure): `datum`, `ort` (neuer Feldtyp `hfp-ort`, speichert `name`, `lat`, `lng`), `foto` (files, max 1), `notiz` (text)
 - *Fotos*: `gallery` (bleibt)
+
+Gruppen ohne Stationen sind der Normalfall für ortsfeste Projekte: keine Karte auf der Gruppenseite, kein Eintrag auf der Jahreskarte. Eine einzelne Station ergibt einen Punkt ohne Linie.
 
 ## Umsetzung
 
@@ -31,7 +50,7 @@ Status wird berechnet, nicht gepflegt: *Planung* (vor `start`), *Unterwegs*, *Ab
 - `index.php`: `load()` + `Kirby::plugin('kgs/hfp', …)` nach Vorbild [site/plugins/bereichsrechte/index.php](../site/plugins/bereichsrechte/index.php)
 - `src/JahrPage.php`, `src/GruppePage.php`: Page-Models, **erben von `Kgs\Bereichsrechte\BereichsPage`** (sonst greifen die Bereichsrechte nicht, siehe Kommentar in `BereichsPage.php`). Methoden: `JahrPage::status()`, `gruppen()`, `kartenDaten()`; `GruppePage::stationen()` (sortiert, nur gültige Koordinaten), `aktuelleStation()` (letzte Station ≤ heute), `farbe()` (Fallback aus Palette nach Position), `logo()` (nullsicher).
 - Registrierung über `pageModels` im Plugin.
-- `src/Hfp.php`: `aktuellesJahr()` (jüngstes gelistetes Jahr), Farbpalette.
+- `src/Hfp.php`: `aktuellesJahr()` (jüngstes gelistetes Jahr), Farbpalette. Darüber schaltet die Startseite von selbst um: Sobald das neue Jahr veröffentlicht wird, rückt das Vorjahr ins Archiv.
 
 ### 2. Neues Jahr anlegen (ein Dialog)
 - [herausforderungsprojekt-jahrgang.yml](../site/blueprints/pages/herausforderungsprojekt-jahrgang.yml): `create:` mit `fields: [jahr, start, ende]`, `title: "Herausforderungsprojekt {{ page.jahr }}"`, `slug: "herausforderungsprojekt-{{ page.jahr }}"`, `status: unlisted` (von Kirby 5 unterstützt, `kirby/src/Panel/PageCreateDialog.php`).
@@ -49,12 +68,25 @@ Status wird berechnet, nicht gepflegt: *Planung* (vor `start`), *Unterwegs*, *Ab
 - Ortssuche über Plugin-API-Route `hfp/ortssuche?q=` (nur eingeloggt), die serverseitig Nominatim per `Remote::get` abfragt (eigener User-Agent, Ergebnis im Kirby-Cache). So geht kein Request aus dem Browser an Dritte.
 - Leaflet lokal: `leaflet` in `package.json`, Kopie nach `assets/vendor/leaflet/` über [scripts/copy-vendor.js](../scripts/copy-vendor.js).
 
+### 4a. Tagesmaske „Heute“
+Kernstück für die zwei Projektwochen, da täglich für alle Gruppen nachgetragen wird.
+
+- Eigene Panel-Section `hfp-heute` auf der Jahresseite (nur sichtbar im Status *Unterwegs*, sonst eingeklappt): alle Gruppen untereinander mit Logo, letzter Station und Kennzeichen **heute gemeldet / fehlt noch**. Datum oben umschaltbar, um Vortage nachzutragen.
+- Pro Zeile ein Knopf „Station eintragen“: öffnet einen Dialog (in PHP definiert) mit Datum (vorbelegt), Ort (`hfp-ort`: Suche oder Kartenklick) und Notiz. Speichern hängt die Station an `stationen` der Gruppe an und aktualisiert die Liste, ohne die Jahresseite zu verlassen.
+- Ortsfeste Gruppen lassen sich pro Gruppe aus der Tagesmaske ausblenden (Schalter `ohne_route` im Steckbrief), damit sie nicht dauerhaft als „fehlt“ erscheinen.
+- Foto: optional über die Gruppenseite (Tab *Route* oder *Fotos*), nicht im Dialog. Solange die Tagesfotos vermutlich bei Edumaps bleiben, hält das die Tagesmaske schnell.
+- Parallel-Pflege: Der Dialog liest `stationen` beim Speichern frisch und hängt nur an, damit sich zwei Lehrkräfte nicht gegenseitig überschreiben.
+- Bedienung auf dem Handy: Zeilen als große Touch-Ziele, Kartenfeld mit fester Höhe und ohne Scroll-Falle (Karte erst nach Antippen verschiebbar), Ortssuche als Hauptweg.
+- Technik: Section und Feld als handgeschriebene Render-Funktionen in `site/plugins/hfp/index.js` (kein Template-Compiler, kein Build).
+
 ### 5. Frontend
 - `assets/js/hfp-karte.js`: ein Modul für Gruppen- und Jahreskarte (Linie in Teamfarbe, Stationsmarker mit Popup aus Datum/Ort/Foto, „aktueller Standort“ mit Teamlogo, Zoom auf alles). Daten kommen als JSON aus dem Template.
 - Snippet `site/snippets/hfp/karte.php`: Karte lädt erst nach Klick („Karte laden“, Hinweis auf OpenStreetMap), da Kacheln von `tile.openstreetmap.org` kommen.
-- [herausforderungsprojekt.php](../site/templates/herausforderungsprojekt.php): aktuelles Jahr groß (Status, Zeitraum, Link), darunter Archiv-Kacheln aller Jahre mit Titelbild und Gruppenzahl, dann der bestehende Text und die Blogberichte.
-- [herausforderungsprojekt-jahrgang.php](../site/templates/herausforderungsprojekt-jahrgang.php): Statuszeile, Jahreskarte, Gruppenkacheln (nullsicheres Logo, `kurzname`, Thumbs per `->crop()`).
-- [herausforderungsprojekt-gruppenansicht.php](../site/templates/herausforderungsprojekt-gruppenansicht.php): Kopf in Teamfarbe mit Logo, Karte, Stationsliste, Galerie mit Thumbs + `alt`/`ort`/`beschreibung`, Vor/Zurück zu Nachbargruppen.
+- [herausforderungsprojekt.php](../site/templates/herausforderungsprojekt.php): zuerst der bestehende Konzepttext (die Seite bleibt Erklärseite für Eltern; der veraltete Abschnitt „Aktuell“ von 2023 wird aus dem Inhalt entfernt, weil das aktuelle Jahr jetzt automatisch erscheint). Darunter ein Band zum aktuellen Jahr (Status, Zeitraum, Gruppenzahl, Link), dann Archiv-Kacheln aller Jahre mit Titelbild und Gruppenzahl, zuletzt die Blogberichte. Keine Karte auf dieser Seite.
+- [herausforderungsprojekt-jahrgang.php](../site/templates/herausforderungsprojekt-jahrgang.php): Statuszeile, Jahreskarte, Gruppenkacheln (nullsicheres Logo, `motto`, Thumbs per `->crop()`). Eine Vorlage für laufende und abgeschlossene Jahre; die Karte entfällt, wenn keine Gruppe Stationen hat (2022–2025 bis auf eine Gruppe).
+- Jahreskarte: alle Routen als Linien in Teamfarbe, Teamlogo als Marker am letzten Standort, Klick auf Linie oder Logo führt zur Gruppe. Damit 20+ Linien ab Rastede lesbar bleiben: Legende mit Teamfarbe und Namen neben der Karte, Überfahren/Antippen eines Eintrags hebt die Route hervor und blendet die anderen ab.
+- [herausforderungsprojekt-gruppenansicht.php](../site/templates/herausforderungsprojekt-gruppenansicht.php): Kopf in Teamfarbe mit Logo, Karte, Stationsliste, Button zum externen Link (falls gesetzt), Fotoraster mit Großansicht, Vor/Zurück zu Nachbargruppen.
+- Großansicht: Snippet `site/snippets/hfp/galerie.php` mit Alpine.js (liegt schon in `assets/vendor/js/alpine.min.js`), natives `<dialog>`, Blättern per Pfeiltasten und Wischen, Bildunterschrift aus `ort` und `beschreibung`, `alt` aus dem Dateifeld. Kacheln als quadratische Thumbs, Großbild mit `srcset`. Der vorhandene Block [gallery.php](../site/snippets/blocks/gallery.php) hat keine Großansicht und bleibt unverändert.
 - Tailwind-Klassen wie im Bestand; Teamfarbe als Inline-CSS-Variable, da dynamische Klassen nicht gebaut würden. Danach `npm run build`.
 
 ### 6. Aufräumen
@@ -73,16 +105,22 @@ Status wird berechnet, nicht gepflegt: *Planung* (vor `start`), *Unterwegs*, *Ab
 ## Reihenfolge (jeweils eigener PR)
 1. Plugin-Gerüst, Models, Blueprints, Rechte, Jahr-Dialog, Sammelanlage
 2. Feldtyp `hfp-ort` + Ortssuche
-3. Frontend (drei Templates, Kartenmodul)
-4. Migration + Aufräumen
+3. Tagesmaske „Heute“
+4. Frontend (drei Templates, Kartenmodul)
+5. Migration + Aufräumen
 
 ## Verifikation
 - Dev-Server `kirby` aus `.claude/launch.json` (Port 8321) starten.
 - Panel als Rolle `hfp`: neues Jahr 2026 über den Dialog anlegen → Titel, Slug, Standardtext stimmen; fünf Gruppen per Sammeldialog; eine Gruppe löschen/umbenennen; Zugriff außerhalb des Bereichs bleibt gesperrt.
+- Tagesmaske: Jahr auf *Unterwegs* stellen (Zeitraum um heute), für zwei Gruppen eine Station eintragen → Kennzeichen wechselt auf „gemeldet“, Station steht im Content; dasselbe in mobiler Breite; zwei Sitzungen gleichzeitig überschreiben sich nicht.
 - Gruppe: Ort suchen („Cuxhaven“), per Klick korrigieren, drei Stationen speichern → `stationen` im Content prüfen.
 - Frontend: Gruppenkarte und Jahreskarte laden erst nach Klick, keine Requests an unpkg/Mapbox (Netzwerk-Tab), Gruppe ohne Logo und ohne Stationen rendert fehlerfrei, Konsole leer, mobile Ansicht.
 - Migration mit `--dry-run`, dann echt; alle 64 Altgruppen und die Anfahrt-Seite stichprobenartig aufrufen.
 - `npm run format:check`.
 
 ## Nicht im ersten Ausbau
-Tagebuch/Zeitstrahl, Steckbrief-Statistik, GPX-Import, EXIF-Standort, Gruppen-Logins, Handy-Upload. Das Datenmodell (`stationen` mit Datum, Foto, Notiz) ist so gewählt, dass Tagebuch und GPX später ohne weitere Migration dazukommen.
+Tagebuch/Zeitstrahl, Steckbrief-Statistik, Terminliste je Jahr, Begleitpersonen/Mitglieder, feste Start-/Zielorte, verzögerte Standortanzeige oder Passwortschutz, GPX-Import, EXIF-Standort, Gruppen-Logins, Handy-Upload.
+
+## Offene Punkte
+- **Edumaps**: mit dem HFP-Team klären, ob die Tagesfotos dort bleiben. Bleiben sie dort, ist die Galerie auf der Gruppenseite nur noch Archiv (2022–2024) und der Link-Button der Hauptweg. Der Plan deckt beide Fälle ab.
+- **Zeitraum der Altjahre**: `start`/`ende` für 2022–2025 sind nirgends gespeichert und müssten für die Migration genannt werden; ohne sie gelten die Jahre einfach als *Abgeschlossen*. Das Datenmodell (`stationen` mit Datum, Foto, Notiz) ist so gewählt, dass Tagebuch und GPX später ohne weitere Migration dazukommen.
