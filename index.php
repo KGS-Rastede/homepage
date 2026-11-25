@@ -2,17 +2,33 @@
 
 require 'kirby/bootstrap.php';
 
-if (page("wichtige-informationen")->togglenotfall()->toggle()->bool() === true && page("wichtige-informationen")->notfallredirect()->toggle()->bool() === true) {
+$kirby  = new Kirby();
+$notfall = $kirby->page('wichtige-informationen');
 
-    // Aktuelle URL prüfen
-    $currentUrl = $_SERVER['REQUEST_URI'];
-    $baseUrl    = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://{$_SERVER['HTTP_HOST']}";
+// Notfallmodus mit Weiterleitung: alle Seiten außer der Startseite leiten
+// auf die Startseite um. Panel, API und Mediendateien bleiben erreichbar,
+// sonst ließe sich der Notfallmodus nicht mehr abschalten.
+if (
+    $notfall?->togglenotfall()->toBool() === true &&
+    $notfall->notfallredirect()->toBool() === true
+) {
+    $path       = '/' . ltrim(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '', '/');
+    $ausnahmen  = [
+        '/' . trim($kirby->option('panel.slug', 'panel'), '/'),
+        '/' . trim($kirby->option('api.slug', 'api'), '/'),
+        '/media',
+    ];
+    $ausgenommen = $path === '/';
 
-    // Weiterleitung nur, wenn die URL nicht "/" und nicht mit "/panel", "/media" oder "/api" beginnt
-    if ($currentUrl !== "/" && strpos($currentUrl, "/panel") !== 0 && strpos($currentUrl, "/media") !== 0 && strpos($currentUrl, "/api") !== 0) {
-        header("Location: $baseUrl");
-        exit;
+    foreach ($ausnahmen as $prefix) {
+        if ($path === $prefix || str_starts_with($path, $prefix . '/')) {
+            $ausgenommen = true;
+        }
+    }
+
+    if ($ausgenommen === false) {
+        go($kirby->url(), 302);
     }
 }
 
-echo (new Kirby)->render();
+echo $kirby->render();
