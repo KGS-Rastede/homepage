@@ -95,6 +95,44 @@ class StudyGroupImage
 
 class ArbeitsgemeinschaftPage extends \Kgs\Bereichsrechte\BereichsPage
 {
+    /**
+     * Jahrgänge der AG, so wie sie die AG-Schnittstelle liefert.
+     */
+    public function gradeList(): array
+    {
+        return array_map(
+            'strval',
+            $this->content()->grades()->toArray()['grades'] ?? [],
+        );
+    }
+
+    /**
+     * AG-Leitungen, so wie sie die AG-Schnittstelle liefert.
+     */
+    public function teacherList(): array
+    {
+        return $this->content()->teachers()->toArray()['teachers'] ?? [];
+    }
+
+    /**
+     * Jahrgänge für die Anzeige: lückenlose Zahlenfolgen als Spanne ("5–10"),
+     * alles andere unverändert mit Komma getrennt.
+     */
+    public function gradesLabel(): string
+    {
+        $grades = $this->gradeList();
+        $numbers = array_map('intval', $grades);
+
+        $isRange =
+            count($grades) > 2 &&
+            array_map('strval', $numbers) === $grades &&
+            $numbers === range($numbers[0], $numbers[0] + count($numbers) - 1);
+
+        return $isRange
+            ? $numbers[0] . '–' . end($numbers)
+            : implode(', ', $grades);
+    }
+
     public function images(): Files
     {
         if ($this->content()->image_url()->isEmpty()) {

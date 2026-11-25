@@ -45,6 +45,9 @@ return array_merge($secrets, [
     'kgs.autoresize.maxWidth' => 1000,
     'kgs.autoresize.quality'  => 85,
 
+    // AG-Detailseite: Höchstzahl der Plätze aus der AG-Schnittstelle anzeigen (true) oder nicht (false)
+    'kgs.ags.plaetzeAnzeigen' => false,
+
     // Anpassungen des Panels
     // Anleitung siehe hier:
     //    https://getkirby.com/docs/cookbook/panel/customizing-panel
