@@ -98,3 +98,4 @@ content/sprechtag/*.html
 # ---------------
 content/unterricht/ag-angebot/**/*.jpg
 content/unterricht/ag-angebot/**/*.png
+.ddev/config.yaml
